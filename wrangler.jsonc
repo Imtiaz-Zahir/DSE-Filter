@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dsefilter",
+  "compatibility_date": "2026-09-03",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "main": "vinext/server/fetch-handler",
+  "assets": {
+    "directory": "dist/client",
+    "not_found_handling": "none",
+    "binding": "ASSETS"
+  },
+  "cache": {
+    "enabled": true
+  },
+  "images": {
+    "binding": "IMAGES"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "VINEXT_KV_CACHE",
+      "id": "f04a3f68d5a040c6910cb5cb065e8281"
+    }
+  ]
+}

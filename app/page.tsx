@@ -3,6 +3,8 @@ import { ScreenerWorkspace } from "@/components/screener/screener-workspace";
 import { Suspense } from "react";
 import { ScreenerStockList } from "@/components/screener/screener-skeleton";
 
+export const revalidate = 3600; // Automatic ISR fallback every 1 hour
+
 export default async function HomePage() {
   const allStocks = await fetchServerScreenerStocks();
 

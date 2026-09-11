@@ -1,13 +1,44 @@
+import { unstable_cache } from "next/cache";
 import { Stock, ScreenerStock, DseMeta } from "./types";
 import { safeDecodeURIComponent } from "./utils";
 import rawScreenerData from "@/data/screener_stocks.json";
 import rawMetaData from "@/data/meta.json";
 
-// In-memory isolate caches to eliminate redundant reads
+export const CACHE_TAGS = {
+  STOCKS: "stocks",
+  SCREENER: "screener",
+  META: "dse-meta",
+  stock: (code: string) => `stock:${code.toUpperCase().trim()}`,
+} as const;
+
+// In-memory isolate caches to eliminate redundant reads within single execution cycles
 let cachedScreenerStocks: ScreenerStock[] | null = null;
 let cachedScreenerMap: Map<string, ScreenerStock> | null = null;
 let cachedFullStocksMap: Map<string, Stock> | null = null;
 let cachedMeta: DseMeta | null = null;
+
+/**
+ * Flushes in-memory isolate cache so subsequent calls pull freshly updated data.
+ */
+export function resetMemoryCache(tagOrKey?: string): void {
+  if (!tagOrKey || tagOrKey === CACHE_TAGS.STOCKS || tagOrKey === CACHE_TAGS.SCREENER) {
+    cachedScreenerStocks = null;
+    cachedScreenerMap = null;
+    cachedFullStocksMap = null;
+    cachedMeta = null;
+    return;
+  }
+  if (tagOrKey === CACHE_TAGS.META || tagOrKey === "meta") {
+    cachedMeta = null;
+    return;
+  }
+  if (tagOrKey.startsWith("stock:")) {
+    const code = tagOrKey.replace(/^stock:/, "").toUpperCase().trim();
+    cachedFullStocksMap?.delete(code);
+    return;
+  }
+  cachedFullStocksMap?.delete(tagOrKey.toUpperCase().trim());
+}
 
 const defaultScreenerStocks: ScreenerStock[] = rawScreenerData as unknown as ScreenerStock[];
 const defaultMeta: DseMeta = rawMetaData as unknown as DseMeta;
@@ -168,9 +199,9 @@ function buildScreenerMap(stocks: ScreenerStock[]): Map<string, ScreenerStock> {
 }
 
 /**
- * Fetches lightweight screener stocks (332 KB) from Cloudflare KV or local dataset.
+ * Internal loader for screener stocks.
  */
-export async function fetchServerScreenerStocks(): Promise<ScreenerStock[]> {
+async function loadScreenerStocks(): Promise<ScreenerStock[]> {
   if (cachedScreenerStocks && cachedScreenerStocks.length > 0) {
     return cachedScreenerStocks;
   }
@@ -198,6 +229,18 @@ export async function fetchServerScreenerStocks(): Promise<ScreenerStock[]> {
   return cachedScreenerStocks;
 }
 
+/**
+ * Fetches lightweight screener stocks (332 KB) with caching and tag revalidation support.
+ */
+export const fetchServerScreenerStocks = unstable_cache(
+  async () => loadScreenerStocks(),
+  ["dse-screener-stocks"],
+  {
+    revalidate: 3600,
+    tags: [CACHE_TAGS.STOCKS, CACHE_TAGS.SCREENER],
+  }
+);
+
 // Lazy modules for individual stock files
 const stockModules = import.meta.glob<{ default: Stock }>("../data/stocks/*.json");
 
@@ -214,10 +257,9 @@ for (const [pathKey, loader] of Object.entries(stockModules)) {
 }
 
 /**
- * Fetches an individual stock by trading code from Cloudflare KV (`stock:<CODE>`)
- * or from lazy stock JSON module / fallback.
+ * Internal loader for an individual stock by code.
  */
-export async function fetchServerStockByCode(code: string): Promise<Stock | null> {
+async function loadStockByCode(code: string): Promise<Stock | null> {
   if (!code) return null;
   const normalized = code.trim().toUpperCase();
 
@@ -271,9 +313,26 @@ export async function fetchServerStockByCode(code: string): Promise<Stock | null
 }
 
 /**
- * Fetches dataset metadata (last updated timestamp, count, version, sectors).
+ * Fetches an individual stock by trading code with caching and tag revalidation support.
  */
-export async function fetchServerMeta(): Promise<DseMeta> {
+export async function fetchServerStockByCode(code: string): Promise<Stock | null> {
+  if (!code) return null;
+  const normalized = code.trim().toUpperCase();
+  const cachedFetcher = unstable_cache(
+    async () => loadStockByCode(normalized),
+    [`dse-stock-${normalized}`],
+    {
+      revalidate: 86400,
+      tags: [CACHE_TAGS.STOCKS, CACHE_TAGS.stock(normalized)],
+    }
+  );
+  return cachedFetcher();
+}
+
+/**
+ * Internal loader for metadata.
+ */
+async function loadMeta(): Promise<DseMeta> {
   if (cachedMeta) return cachedMeta;
 
   const kv = getKvNamespace();
@@ -296,6 +355,18 @@ export async function fetchServerMeta(): Promise<DseMeta> {
   }
   return cachedMeta;
 }
+
+/**
+ * Fetches dataset metadata with caching and tag revalidation support.
+ */
+export const fetchServerMeta = unstable_cache(
+  async () => loadMeta(),
+  ["dse-meta"],
+  {
+    revalidate: 3600,
+    tags: [CACHE_TAGS.META],
+  }
+);
 
 /**
  * Synchronous accessors for client components or static routines

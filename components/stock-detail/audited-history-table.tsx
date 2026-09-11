@@ -94,6 +94,13 @@ export function AuditedHistoryTable({ stock }: AuditedHistoryTableProps) {
                 const yieldPct = d?.dividendYieldPct;
                 const histPe = d?.peContinuing ?? d?.peBasicRestated ?? d?.peBasicOriginal;
 
+                const formattedBonus =
+                  bonusDiv !== undefined && bonusDiv !== null && String(bonusDiv).trim() !== ""
+                    ? String(bonusDiv).trim().includes("%")
+                      ? String(bonusDiv).trim()
+                      : `${bonusDiv}%`
+                    : "-";
+
                 return (
                   <tr key={item.year} className="hover:bg-muted/30 transition-colors">
                     <td className="py-3 px-4 font-bold text-foreground">
@@ -112,7 +119,7 @@ export function AuditedHistoryTable({ stock }: AuditedHistoryTableProps) {
                       {cashDiv !== undefined && cashDiv !== null ? `${cashDiv}%` : "-"}
                     </td>
                     <td className="py-3 px-3 text-right text-muted-foreground">
-                      {bonusDiv !== undefined && bonusDiv !== null ? `${bonusDiv}%` : "-"}
+                      {formattedBonus}
                     </td>
                     <td className="py-3 px-3 text-right font-semibold text-amber-600 dark:text-amber-400">
                       {yieldPct !== undefined && yieldPct !== null ? `${formatNumber(yieldPct)}%` : "-"}

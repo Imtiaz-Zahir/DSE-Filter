@@ -1,0 +1,322 @@
+{
+  "tradingCode": "SONALILIFE",
+  "scripCode": "25751",
+  "companyName": "Sonali Life Insurance PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONALILIFE",
+  "lastAGMHeldOn": "2026-08-27",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 348,
+    "TRADING CODE": "SONALILIFE",
+    "LTP": 84.7,
+    "HIGH": 85.6,
+    "LOW": 84.3,
+    "CLOSEP": 84.7,
+    "YCP": 85,
+    "CHANGE": -0.3,
+    "TRADE": 537,
+    "VALUE (mn)": 25.651,
+    "VOLUME": 302509
+  },
+  "marketInformation": {
+    "lastTradingPrice": 84.2,
+    "daysRange": [
+      84,
+      85.4
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      55,
+      93.4
+    ],
+    "change": -0.7,
+    "daysTradeNos": 264,
+    "yesterdaysClose": 84.9,
+    "daysVolumeNos": 73509,
+    "adjustedOpeningPrice": 84.9,
+    "daysValueMn": 6.21,
+    "openingPrice": 84.9,
+    "marketCapMn": 4032.75,
+    "closingPrice": 84.2,
+    "freeFloatMarketCapMn": 1510.423
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": "2021-06-30",
+    "paidUpCapitalMn": 475,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 47500000,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2021,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "15% 2025, 15% 2024, 10% 2023, 20% 2022, 15% 2021, 10% 2020",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 54.85,
+      "govtPct": 0,
+      "institutePct": 5.7,
+      "foreignPct": 0,
+      "publicPct": 39.45
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 54.85,
+      "govtPct": 0,
+      "institutePct": 3.98,
+      "foreignPct": 0,
+      "publicPct": 41.17
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 54.85,
+      "govtPct": 0,
+      "institutePct": 3.99,
+      "foreignPct": 0,
+      "publicPct": 41.16
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 52.28,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 52.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 52.28,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 52.16,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 52.41,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 51.98,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.61,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 30.37,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 76.63,
+      "tciOriginal": 76.63,
+      "tciRestated": 76.63
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.49,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 35.6,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 70.87,
+      "tciOriginal": 70.87,
+      "tciRestated": 70.87
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.73,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 39.64,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 82.39,
+      "tciOriginal": 82.39,
+      "tciRestated": 82.39
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.62,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 32.15,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 76.95,
+      "tciOriginal": 76.95,
+      "tciRestated": 76.95
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 39.25,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.37
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.36
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 54.3,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.24
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.96,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.09
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 37.53,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.47
+    }
+  ],
+  "financialLinks": [
+    "https://sonalilife.com/Financials.html"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "15.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "09678200004",
+    "fax": null,
+    "email": "boardsecretariat@sonalilife.com",
+    "webAddress": "http://www.sonalilife.com",
+    "companySecretaryName": "Mr. Md. Abdur Rob, FCS",
+    "cellNo": "01537591862",
+    "telephoneNo": "09678200004 Ext-904"
+  },
+  "scrapedAt": "2026-09-11T07:00:18.509Z",
+  "shariaCompliant": false
+}

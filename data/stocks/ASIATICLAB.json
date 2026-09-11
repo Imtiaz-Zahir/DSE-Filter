@@ -1,0 +1,349 @@
+{
+  "tradingCode": "ASIATICLAB",
+  "scripCode": "18498",
+  "companyName": "Asiatic Laboratories Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ASIATICLAB",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 41,
+    "TRADING CODE": "ASIATICLAB",
+    "LTP": 109,
+    "HIGH": 111.9,
+    "LOW": 107.9,
+    "CLOSEP": 109,
+    "YCP": 109.9,
+    "CHANGE": -0.9,
+    "TRADE": 1176,
+    "VALUE (mn)": 95.516,
+    "VOLUME": 865472
+  },
+  "marketInformation": {
+    "lastTradingPrice": 104.5,
+    "daysRange": [
+      103.6,
+      107.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      44.2,
+      146.9
+    ],
+    "change": -1.5,
+    "daysTradeNos": 694,
+    "yesterdaysClose": 106,
+    "daysVolumeNos": 139826,
+    "adjustedOpeningPrice": 106,
+    "daysValueMn": 14.79,
+    "openingPrice": 106,
+    "marketCapMn": 12973.706,
+    "closingPrice": 104.5,
+    "freeFloatMarketCapMn": 3661.818
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2000,
+    "debutTradingDate": "2024-03-06",
+    "paidUpCapitalMn": 1223.93,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 122393455,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2024,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 1,620,007,837 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 40.71,
+      "govtPct": 0,
+      "institutePct": 18.09,
+      "foreignPct": 0,
+      "publicPct": 41.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 40.71,
+      "govtPct": 0,
+      "institutePct": 15.81,
+      "foreignPct": 0,
+      "publicPct": 43.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 40.71,
+      "govtPct": 0,
+      "institutePct": 15.03,
+      "foreignPct": 0,
+      "publicPct": 44.26
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 1.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 59.5
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 1.34,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.34,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 47.5
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 2.58,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.58,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 47.5
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 1.39,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.39,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 78.1
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 3.97,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.97,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 78.1
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 20.59,
+        "peDiluted": null,
+        "peTrailing": 25.06
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 19.99,
+        "peDiluted": null,
+        "peTrailing": 24.32
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 19.89,
+        "peDiluted": null,
+        "peTrailing": 24.21
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 19.23,
+        "peDiluted": null,
+        "peTrailing": 23.4
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 20.03,
+        "peDiluted": null,
+        "peTrailing": 24.37
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 19.74,
+        "peDiluted": null,
+        "peTrailing": 24.02
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 52.15,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 50.62,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 50.38,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 48.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 50.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 50,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": 2.19,
+      "navPerShareOriginal": 59.68,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": 50.6,
+      "profitForTheYearMnRestated": 268.56,
+      "tciOriginal": 268.56,
+      "tciRestated": 268.56
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.19,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 64.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 205.85,
+      "tciOriginal": 205.85,
+      "tciRestated": 205.85
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 52.58,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 278.48,
+      "tciOriginal": 278.48,
+      "tciRestated": 279.42
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.09,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 54.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 255.36,
+      "tciOriginal": 255.36,
+      "tciRestated": 256.29
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 17.68,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.01
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 18.56,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.58
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 1040.86,
+    "latestDividendStatus": "10.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+8802-48317908",
+    "fax": "+8802-48311633",
+    "email": "cs@asiaticpharma.com",
+    "webAddress": "http://www.asiaticlaboratories.com",
+    "companySecretaryName": "Mr. Ishtiaq Ahmed",
+    "cellNo": "01937-990004",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:37.045Z",
+  "shariaCompliant": false
+}

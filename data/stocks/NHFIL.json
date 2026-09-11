@@ -1,0 +1,377 @@
+{
+  "tradingCode": "NHFIL",
+  "scripCode": "20623",
+  "companyName": "National Housing Finance PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NHFIL",
+  "lastAGMHeldOn": "2025-09-21",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 248,
+    "TRADING CODE": "NHFIL",
+    "LTP": 27.7,
+    "HIGH": 28.2,
+    "LOW": 27.5,
+    "CLOSEP": 27.7,
+    "YCP": 27.7,
+    "CHANGE": 0,
+    "TRADE": 434,
+    "VALUE (mn)": 9.271,
+    "VOLUME": 332181
+  },
+  "marketInformation": {
+    "lastTradingPrice": 26.8,
+    "daysRange": [
+      26.7,
+      27.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      21,
+      33.8
+    ],
+    "change": -0.5,
+    "daysTradeNos": 159,
+    "yesterdaysClose": 27.3,
+    "daysVolumeNos": 115580,
+    "adjustedOpeningPrice": 27.3,
+    "daysValueMn": 3.11,
+    "openingPrice": 27.4,
+    "marketCapMn": 3514.447,
+    "closingPrice": 26.8,
+    "freeFloatMarketCapMn": 1600.201
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1287.34,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 128734320,
+    "sector": "Financial Institutions"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2009,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "10% 2023, 15% 2022, 15% 2021, 15% 2020, 10% 2019, 10% 2018, 19% 2017, 18% 2016, 17% 2015",
+    "bonusIssue": "10% 2024, 10% 2018, 5% 2012, 20% 2011, 10% 2010",
+    "rightIssue": "1R:2 2013",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 813.5,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 50.57,
+      "govtPct": 9.34,
+      "institutePct": 11.02,
+      "foreignPct": 0,
+      "publicPct": 29.07
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 45.57,
+      "govtPct": 9.34,
+      "institutePct": 15.07,
+      "foreignPct": 0,
+      "publicPct": 30.02
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 45.13,
+      "govtPct": 9.34,
+      "institutePct": 14.19,
+      "foreignPct": 0,
+      "publicPct": 31.34
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.23,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.23,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 22.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.19,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.19,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 29.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 0.43,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.43,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 29.7
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 32.21,
+        "peDiluted": null,
+        "peTrailing": 38.47
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 31.51,
+        "peDiluted": null,
+        "peTrailing": 37.64
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 31.74,
+        "peDiluted": null,
+        "peTrailing": 37.92
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 31.05,
+        "peDiluted": null,
+        "peTrailing": 37.08
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 31.74,
+        "peDiluted": null,
+        "peTrailing": 37.92
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 31.16,
+        "peDiluted": null,
+        "peTrailing": 37.22
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 923.33,
+        "peDiluted": 1385
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 903.33,
+        "peDiluted": 1355
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 910,
+        "peDiluted": 1365
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 890,
+        "peDiluted": 1335
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 910,
+        "peDiluted": 1365
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 893.33,
+        "peDiluted": 1340
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.75,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.91,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 321.39,
+      "tciOriginal": 321.39,
+      "tciRestated": 321.39
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.23,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.65,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 261.29,
+      "tciOriginal": 261.29,
+      "tciRestated": 261.29
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.25,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.4,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 263.14,
+      "tciOriginal": 263.14,
+      "tciRestated": 263.14
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.03,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.93,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 120.63,
+      "tciOriginal": 120.63,
+      "tciRestated": 120.63
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.03,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.95,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2.93,
+      "tciOriginal": 2.93,
+      "tciRestated": 2.93
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 14.64,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.73
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.26,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.02
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 18.59,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.59
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 40.55,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.39
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 886.67,
+      "dividend": "10% B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10% B",
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "http://National Housing Finance PLC | Downloads"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 2074.8,
+    "latestDividendStatus": "10% B for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "+8801787661913",
+    "fax": "+88 02 58811652",
+    "email": "cs@nationalhousingbd.com",
+    "webAddress": "http://www.nationalhousingbd.com",
+    "companySecretaryName": "Mr. Md. Sarwar Kamal, FCS",
+    "cellNo": "+88 01787 661 913",
+    "telephoneNo": "+88 09609200555 Ext: 104"
+  },
+  "scrapedAt": "2026-09-11T07:00:04.958Z",
+  "shariaCompliant": false
+}

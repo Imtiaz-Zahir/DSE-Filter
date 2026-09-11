@@ -10,7 +10,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Stock } from "@/lib/types";
+import { AnyStock } from "@/lib/types";
 import {
   getTradingCode,
   getCompanyName,
@@ -32,7 +32,7 @@ import {
 } from "@/lib/stocks";
 
 interface ExportMenuProps {
-  stocks: Stock[];
+  stocks: AnyStock[];
 }
 
 export function ExportMenu({ stocks }: ExportMenuProps) {

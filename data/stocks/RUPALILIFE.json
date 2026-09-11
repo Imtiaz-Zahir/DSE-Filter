@@ -1,0 +1,323 @@
+{
+  "tradingCode": "RUPALILIFE",
+  "scripCode": "25741",
+  "companyName": "Rupali Life Insurance PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RUPALILIFE",
+  "lastAGMHeldOn": "2025-11-03",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 316,
+    "TRADING CODE": "RUPALILIFE",
+    "LTP": 81.8,
+    "HIGH": 82.4,
+    "LOW": 80.7,
+    "CLOSEP": 81.8,
+    "YCP": 80.4,
+    "CHANGE": 1.4,
+    "TRADE": 590,
+    "VALUE (mn)": 10.763,
+    "VOLUME": 131819
+  },
+  "marketInformation": {
+    "lastTradingPrice": 79,
+    "daysRange": [
+      78.8,
+      81
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      65.9,
+      132
+    ],
+    "change": -0.2,
+    "daysTradeNos": 258,
+    "yesterdaysClose": 79.2,
+    "daysVolumeNos": 56073,
+    "adjustedOpeningPrice": 79.2,
+    "daysValueMn": 4.44,
+    "openingPrice": 81,
+    "marketCapMn": 2377.127,
+    "closingPrice": 79,
+    "freeFloatMarketCapMn": 1404.111
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 300.14,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 30014236,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2009,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "10% 2024, 12% 2023, 11% 2022, 18% 2021, 13% 2020, 12% 2019, 12% 2018, 8% 2017, 10% 2016, 10% 2015",
+    "bonusIssue": "2% 2020, 2% 2019, 4% 2017, 10% 2014, 5% 2013, 12% 2012, 14% 2011, 14% 2010, 10% 2009",
+    "rightIssue": "1R:1 2014",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 32.07,
+      "govtPct": 0,
+      "institutePct": 23.21,
+      "foreignPct": 0,
+      "publicPct": 44.72
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 32.07,
+      "govtPct": 0,
+      "institutePct": 21.74,
+      "foreignPct": 0,
+      "publicPct": 46.19
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 31.03,
+      "govtPct": 0,
+      "institutePct": 21.03,
+      "foreignPct": 0,
+      "publicPct": 47.94
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "13.00, 2% B",
+      "cashDividendPct": 13,
+      "bonusDividendPct": "2% B",
+      "dividendYieldPct": 2.25
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "18.00",
+      "cashDividendPct": 18,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.97
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "11.00",
+      "cashDividendPct": 11,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.38
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.92
+    }
+  ],
+  "financialLinks": [
+    "https://rupalilife.com/HomeController/ItemPopulate/73",
+    "https://rupalilife.com/Media/Uploads/2025/PRICE%20SENSITIVE%20INF%2031-08-2025.pdf"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "10.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "8392361-4",
+    "fax": "88-02-8392370",
+    "email": "share.rlic@gmail.com",
+    "webAddress": "http://www.rupalilife.com",
+    "companySecretaryName": "Md. Amirul Islam (Mukit)",
+    "cellNo": "+88 01847 133 722",
+    "telephoneNo": "+88-02-8392369, +88-02-8392361-4, Ext.-125"
+  },
+  "scrapedAt": "2026-09-11T07:00:15.580Z",
+  "shariaCompliant": false
+}

@@ -13,14 +13,16 @@ import {
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { getAllStocks, getLtp, getChange, getChangePct, getCategory, getSector, getShariaCompliant } from "@/lib/stocks";
+import searchIndex from "@/data/search_index.json";
+import { getLtp, getChange, getChangePct, getCategory, getSector, getShariaCompliant } from "@/lib/stocks";
 import { formatBDT, formatPct, getCategoryBadgeVariant, getChangeColorClass } from "@/lib/utils";
 
 export function QuickSearch() {
   const router = useRouter();
   const [open, setOpen] = React.useState(false);
   const [query, setQuery] = React.useState("");
-  const allStocks = React.useMemo(() => getAllStocks(), []);
+  const [selectedIndex, setSelectedIndex] = React.useState(0);
+  const allStocks = searchIndex;
 
   // Keyboard shortcut Ctrl+K / Cmd+K
   React.useEffect(() => {
@@ -43,16 +45,38 @@ export function QuickSearch() {
       .filter((s) => {
         const code = (s.tradingCode || "").toLowerCase();
         const name = (s.companyName || "").toLowerCase();
-        const sector = (s.basicInformation?.sector || "").toLowerCase();
+        const sector = getSector(s).toLowerCase();
         return code.includes(q) || name.includes(q) || sector.includes(q);
       })
       .slice(0, 15);
   }, [allStocks, query]);
 
+  // Reset selected index when filtered list changes
+  React.useEffect(() => {
+    setSelectedIndex(0);
+  }, [query]);
+
   const handleSelect = (code: string) => {
     setOpen(false);
     setQuery("");
     router.push(`/stock/${encodeURIComponent(code)}`);
+  };
+
+  const handleInputKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (filtered.length === 0) return;
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      setSelectedIndex((prev) => (prev + 1) % filtered.length);
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      setSelectedIndex((prev) => (prev - 1 + filtered.length) % filtered.length);
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      const current = filtered[selectedIndex];
+      if (current) {
+        handleSelect(current.tradingCode);
+      }
+    }
   };
 
   return (
@@ -79,6 +103,7 @@ export function QuickSearch() {
             <Input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={handleInputKeyDown}
               placeholder="Search ticker (GP, SQURPHARMA), company, or sector..."
               className="h-10 border-0 bg-transparent text-sm shadow-none focus-visible:ring-0 placeholder:text-muted-foreground"
               autoFocus
@@ -97,7 +122,7 @@ export function QuickSearch() {
             </div>
           ) : (
             <div className="space-y-1">
-              {filtered.map((stock) => {
+              {filtered.map((stock, idx) => {
                 const code = stock.tradingCode;
                 const ltp = getLtp(stock);
                 const chg = getChange(stock);
@@ -105,12 +130,16 @@ export function QuickSearch() {
                 const cat = getCategory(stock);
                 const isSharia = getShariaCompliant(stock);
                 const sector = getSector(stock);
+                const isSelected = idx === selectedIndex;
 
                 return (
                   <button
                     key={code}
                     onClick={() => handleSelect(code)}
-                    className="flex w-full items-center justify-between rounded-lg p-2 text-left transition-colors hover:bg-muted/70 focus:bg-muted/70 focus:outline-none"
+                    onMouseEnter={() => setSelectedIndex(idx)}
+                    className={`flex w-full items-center justify-between rounded-lg p-2 text-left transition-colors focus:outline-none ${
+                      isSelected ? "bg-muted text-foreground" : "hover:bg-muted/70"
+                    }`}
                   >
                     <div className="flex items-center gap-3 min-w-0 pr-2">
                       <div className="flex size-8 shrink-0 items-center justify-center rounded-md bg-secondary text-xs font-bold text-foreground">

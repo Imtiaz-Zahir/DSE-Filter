@@ -1,0 +1,377 @@
+{
+  "tradingCode": "CVOPRL",
+  "scripCode": "14269",
+  "companyName": "CVO Petrochemical Refinery PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CVOPRL",
+  "lastAGMHeldOn": "2025-12-10",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 91,
+    "TRADING CODE": "CVOPRL",
+    "LTP": 168.1,
+    "HIGH": 170.5,
+    "LOW": 167.2,
+    "CLOSEP": 168.1,
+    "YCP": 166.9,
+    "CHANGE": 1.2,
+    "TRADE": 1107,
+    "VALUE (mn)": 26.358,
+    "VOLUME": 156218
+  },
+  "marketInformation": {
+    "lastTradingPrice": 153.1,
+    "daysRange": [
+      152.5,
+      158
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      135.2,
+      216.8
+    ],
+    "change": -2.7,
+    "daysTradeNos": 768,
+    "yesterdaysClose": 155.8,
+    "daysVolumeNos": 106704,
+    "adjustedOpeningPrice": 155.8,
+    "daysValueMn": 16.5,
+    "openingPrice": 155.8,
+    "marketCapMn": 4715.872,
+    "closingPrice": 153.1,
+    "freeFloatMarketCapMn": 2413.296
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1500,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 302.69,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 30268755,
+    "sector": "Fuel & Power"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1990,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 476,639,625 Revaluation Reserve has been added Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 45.31,
+      "govtPct": 0,
+      "institutePct": 17.01,
+      "foreignPct": 0.16,
+      "publicPct": 37.52
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 43.06,
+      "govtPct": 0,
+      "institutePct": 18.01,
+      "foreignPct": 0.09,
+      "publicPct": 38.84
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 43.06,
+      "govtPct": 0,
+      "institutePct": 17.44,
+      "foreignPct": 0.09,
+      "publicPct": 39.41
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 1.88,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.88,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 179.5
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 2.23,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.23,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.5
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 3.96,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.96,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.5
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 1.12,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.12,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 153.5
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 5.08,
+      "epsDiluted": null,
+      "epsContinuingBasic": 5.08,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 153.5
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 24.82,
+        "peDiluted": null,
+        "peTrailing": 26.51
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 24.21,
+        "peDiluted": null,
+        "peTrailing": 25.87
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 23.4,
+        "peDiluted": null,
+        "peTrailing": 25
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 23.16,
+        "peDiluted": null,
+        "peTrailing": 24.75
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 23,
+        "peDiluted": null,
+        "peTrailing": 24.57
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 22.6,
+        "peDiluted": null,
+        "peTrailing": 24.15
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 44.01,
+        "peDiluted": 48.03
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 42.93,
+        "peDiluted": 46.86
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 41.49,
+        "peDiluted": 45.29
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 41.07,
+        "peDiluted": 44.83
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 40.79,
+        "peDiluted": 44.51
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 40.08,
+        "peDiluted": 43.74
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.49,
+      "epsContinuingBasicOriginal": -2.27,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.55,
+      "navPerShareRestated": 10.5,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -62.95,
+      "tciOriginal": -62.95,
+      "tciRestated": -59.3
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.63,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 7.74,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -72.97,
+      "tciOriginal": -72.97,
+      "tciRestated": -76.63
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.46,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 8.27,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 12.9,
+      "tciOriginal": 12.9,
+      "tciRestated": 14.59
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.34,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.31,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 65,
+      "tciOriginal": 65,
+      "tciRestated": 64.29
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 30.29,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 105.99,
+      "tciOriginal": 105.99,
+      "tciRestated": 582.57
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10% B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10% B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 408.1,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.26
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 61.05,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.7
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 34.87,
+      "dividend": "11.00, 9% B",
+      "cashDividendPct": 11,
+      "bonusDividendPct": "9% B",
+      "dividendYieldPct": 0.83
+    }
+  ],
+  "financialLinks": [
+    "http://www.cvopetro.com"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Temporary Shutdown of Factory for Emergency Maintenance",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "11.00, 9% B for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "154 Nasirabad I/A, Baizid Bostami Road, Chattogram",
+    "phone": "+880180006651",
+    "fax": null,
+    "email": "mowin@cvopetro.com",
+    "webAddress": "http://www.cvopetro.com",
+    "companySecretaryName": "Khwaza Mowin Uddin Hossain",
+    "cellNo": "+880180006651",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:45.430Z",
+  "shariaCompliant": false
+}

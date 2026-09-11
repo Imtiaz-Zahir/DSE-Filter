@@ -1,0 +1,323 @@
+{
+  "tradingCode": "PRAGATILIF",
+  "scripCode": "25731",
+  "companyName": "Pragati Life Insurance PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRAGATILIF",
+  "lastAGMHeldOn": "2026-08-13",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 281,
+    "TRADING CODE": "PRAGATILIF",
+    "LTP": 151.8,
+    "HIGH": 153.8,
+    "LOW": 141.5,
+    "CLOSEP": 151.8,
+    "YCP": 141.3,
+    "CHANGE": 10.5,
+    "TRADE": 1477,
+    "VALUE (mn)": 25.294,
+    "VOLUME": 170406
+  },
+  "marketInformation": {
+    "lastTradingPrice": 144.4,
+    "daysRange": [
+      142.5,
+      151.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      127.3,
+      283.9
+    ],
+    "change": -3.9,
+    "daysTradeNos": 562,
+    "yesterdaysClose": 148.3,
+    "daysVolumeNos": 58782,
+    "adjustedOpeningPrice": 148.3,
+    "daysValueMn": 8.59,
+    "openingPrice": 149.9,
+    "marketCapMn": 5309.113,
+    "closingPrice": 144.4,
+    "freeFloatMarketCapMn": 2943.257
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 357.99,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 35799816,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2006,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "15% 2025, 15% 2024, 14% 2023, 12% 2022, 11% 2021, 12% 2020, 20% 2019, 15% 2018, 15% 2017, 8% 2016, 17% 2014",
+    "bonusIssue": "10% 2025, 6% 2021, 15% 2018, 10% 2017, 17% 2016, 5% 2014, 5% 2012, 12% 2011, 12% 2010",
+    "rightIssue": "1R:1, 2020",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 40.62,
+      "govtPct": 0,
+      "institutePct": 19.1,
+      "foreignPct": 0,
+      "publicPct": 40.28
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 38.62,
+      "govtPct": 0,
+      "institutePct": 15.96,
+      "foreignPct": 0,
+      "publicPct": 45.42
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 38.62,
+      "govtPct": 0,
+      "institutePct": 15.68,
+      "foreignPct": 0,
+      "publicPct": 45.7
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 22.64,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "11.00,6%B",
+      "cashDividendPct": 11,
+      "bonusDividendPct": "6%B",
+      "dividendYieldPct": 1.23
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.99
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "14.00",
+      "cashDividendPct": 14,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.37
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.15
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "15.00, 10%B",
+      "cashDividendPct": 15,
+      "bonusDividendPct": "10%B",
+      "dividendYieldPct": 1.02
+    }
+  ],
+  "financialLinks": [
+    "https://www.pragatilife.com/index.php/financial-report",
+    "https://www.pragatilife.com/index.php/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "15.00, 10%B for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "02 55014395-9",
+    "fax": "02 55014393",
+    "email": "cs@pragatilife.com",
+    "webAddress": "http://www.pragatilife.com",
+    "companySecretaryName": "Mr. Jagadish Kumar Bhanja, FCS",
+    "cellNo": "+88 01814 650 723",
+    "telephoneNo": "02 55014393"
+  },
+  "scrapedAt": "2026-09-11T07:00:09.551Z",
+  "shariaCompliant": false
+}

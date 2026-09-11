@@ -1,0 +1,323 @@
+{
+  "tradingCode": "CLICL",
+  "scripCode": "25755",
+  "companyName": "Chartered Life Insurance PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CLICL",
+  "lastAGMHeldOn": "2026-08-10",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 84,
+    "TRADING CODE": "CLICL",
+    "LTP": 45.3,
+    "HIGH": 46,
+    "LOW": 45.1,
+    "CLOSEP": 45.3,
+    "YCP": 44.7,
+    "CHANGE": 0.6,
+    "TRADE": 328,
+    "VALUE (mn)": 4.477,
+    "VOLUME": 98391
+  },
+  "marketInformation": {
+    "lastTradingPrice": 42.1,
+    "daysRange": [
+      41.6,
+      44.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      38.1,
+      69.3
+    ],
+    "change": -1.7,
+    "daysTradeNos": 233,
+    "yesterdaysClose": 43.8,
+    "daysVolumeNos": 132329,
+    "adjustedOpeningPrice": 43.8,
+    "daysValueMn": 5.63,
+    "openingPrice": 44.5,
+    "marketCapMn": 1642.5,
+    "closingPrice": 42.1,
+    "freeFloatMarketCapMn": 657
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2500,
+    "debutTradingDate": "2022-10-30",
+    "paidUpCapitalMn": 375,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 37500000,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2022,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "4% 2025, 2.50% 2023",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 60,
+      "govtPct": 0,
+      "institutePct": 4.12,
+      "foreignPct": 0,
+      "publicPct": 35.88
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 60,
+      "govtPct": 0,
+      "institutePct": 4.9,
+      "foreignPct": 0,
+      "publicPct": 35.1
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 60,
+      "govtPct": 0,
+      "institutePct": 4.41,
+      "foreignPct": 0,
+      "publicPct": 35.59
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 266.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 260.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 258.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 255.88,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 257.65,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 247.65,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.2,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.24,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.73,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 9,
+      "tciOriginal": 9,
+      "tciRestated": 9
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.16,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.6,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5.88,
+      "tciOriginal": 5.88,
+      "tciRestated": 5.88
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.11,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 8.94,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -4.13,
+      "tciOriginal": -4.13,
+      "tciRestated": -4.13
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.17,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.44,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 6.38,
+      "tciOriginal": 6.38,
+      "tciRestated": 6.38
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "2.00",
+      "cashDividendPct": 2,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.42
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 338.13,
+      "dividend": "2.50",
+      "cashDividendPct": 2.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.46
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 327.06,
+      "dividend": "4.00",
+      "cashDividendPct": 4,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.72
+    }
+  ],
+  "financialLinks": [
+    "https://www.charteredlifebd.com/Quarterly_Report.aspx",
+    "https://www.charteredlifebd.com/PSI.aspx"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "4.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+88-02-55128956-7",
+    "fax": null,
+    "email": "cs@charteredlifebd.com",
+    "webAddress": "https://www.charteredlifebd.com",
+    "companySecretaryName": "GM Rashed ACS",
+    "cellNo": "01713555883",
+    "telephoneNo": "02-55128956-57 (Ext. 203)"
+  },
+  "scrapedAt": "2026-09-11T06:59:44.946Z",
+  "shariaCompliant": true
+}

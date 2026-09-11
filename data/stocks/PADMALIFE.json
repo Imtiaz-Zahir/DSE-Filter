@@ -1,0 +1,323 @@
+{
+  "tradingCode": "PADMALIFE",
+  "scripCode": "25745",
+  "companyName": "Padma Islami Life Insurance Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PADMALIFE",
+  "lastAGMHeldOn": "2025-09-25",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 264,
+    "TRADING CODE": "PADMALIFE",
+    "LTP": 16.7,
+    "HIGH": 16.8,
+    "LOW": 16.5,
+    "CLOSEP": 16.7,
+    "YCP": 16.6,
+    "CHANGE": 0.1,
+    "TRADE": 29,
+    "VALUE (mn)": 0.118,
+    "VOLUME": 7070
+  },
+  "marketInformation": {
+    "lastTradingPrice": 16.1,
+    "daysRange": [
+      16,
+      16.4
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      13.8,
+      22.3
+    ],
+    "change": 0,
+    "daysTradeNos": 22,
+    "yesterdaysClose": 16.1,
+    "daysVolumeNos": 9948,
+    "adjustedOpeningPrice": 16.1,
+    "daysValueMn": 0.16,
+    "openingPrice": 16,
+    "marketCapMn": 625.968,
+    "closingPrice": 16.2,
+    "freeFloatMarketCapMn": 428.44
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 388.8,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 38880000,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2012,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "2% 2021",
+    "bonusIssue": "20% 2016, 8% 2012",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 31.56,
+      "govtPct": 0,
+      "institutePct": 17.45,
+      "foreignPct": 0,
+      "publicPct": 50.99
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 31.56,
+      "govtPct": 0,
+      "institutePct": 17.78,
+      "foreignPct": 0,
+      "publicPct": 50.66
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 31.56,
+      "govtPct": 0,
+      "institutePct": 17.68,
+      "foreignPct": 0,
+      "publicPct": 50.76
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "2.00",
+      "cashDividendPct": 2,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.42
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.padmaislamilife.com/report/annual_report.php",
+    "https://www.padmaislamilife.com/page/notice/all_notice.php"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "02-41032326, 02-41032327, 02-41032328, 02-41032329, 02-41032330",
+    "fax": null,
+    "email": "azahid@padmaislamilife.com; share@padmaislamilife.com",
+    "webAddress": "http://www.padmaislamilife.com",
+    "companySecretaryName": "Mr. Anwar Zahid (Acting)",
+    "cellNo": "01873148582",
+    "telephoneNo": "02-41032588"
+  },
+  "scrapedAt": "2026-09-11T07:00:08.088Z",
+  "shariaCompliant": true
+}

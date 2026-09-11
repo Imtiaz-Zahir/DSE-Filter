@@ -1,0 +1,378 @@
+{
+  "tradingCode": "RENATA",
+  "scripCode": "18457",
+  "companyName": "Renata PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RENATA",
+  "lastAGMHeldOn": "2025-12-20",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 307,
+    "TRADING CODE": "RENATA",
+    "LTP": 466.3,
+    "HIGH": 467.8,
+    "LOW": 462.8,
+    "CLOSEP": 466.3,
+    "YCP": 463.4,
+    "CHANGE": 2.9,
+    "TRADE": 433,
+    "VALUE (mn)": 9.495,
+    "VOLUME": 20386
+  },
+  "marketInformation": {
+    "lastTradingPrice": 459,
+    "daysRange": [
+      458.5,
+      461.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      372,
+      505.9
+    ],
+    "change": -2.2,
+    "daysTradeNos": 216,
+    "yesterdaysClose": 461.2,
+    "daysVolumeNos": 10964,
+    "adjustedOpeningPrice": 461.2,
+    "daysValueMn": 5.04,
+    "openingPrice": 461.5,
+    "marketCapMn": 52898.021,
+    "closingPrice": 459,
+    "freeFloatMarketCapMn": 16559.074
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2850,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1146.96,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 114696490,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1979,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "55% 2025, 92% 2024, 62.50% 2023, 140% 2022, 145% 2021, 130% 2020, 100% 2019, 95% 2018, 130% 2017, 85% 2016",
+    "bonusIssue": "7% 2022, 10% 2021, 10% 2020, 10% 2019,15% 2018, 15% 2017, 15% 2016, 20% 2014, 25% 2013, 25% 2012, 25%B 2011, 25% 2010, 25% 2009, 25% 2008, 20% 2007, 20% 2006, 20% 2005, 20% 2004,20% 2003, 10% 1997",
+    "rightIssue": "n/a",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 33914.5,
+    "otherComprehensiveIncomeMn": -23.2,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 51.29,
+      "govtPct": 0,
+      "institutePct": 21.86,
+      "foreignPct": 19.94,
+      "publicPct": 6.91
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 51.29,
+      "govtPct": 0,
+      "institutePct": 23.12,
+      "foreignPct": 17.58,
+      "publicPct": 8.01
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 51.29,
+      "govtPct": 0,
+      "institutePct": 23.21,
+      "foreignPct": 17.58,
+      "publicPct": 7.92
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 6.47,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.47,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 480.4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 7.11,
+      "epsDiluted": null,
+      "epsContinuingBasic": 7.11,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 391.8
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 13.58,
+      "epsDiluted": null,
+      "epsContinuingBasic": 13.58,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 391.8
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 6.81,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.81,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 423.2
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 20.39,
+      "epsDiluted": null,
+      "epsContinuingBasic": 20.39,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 423.2
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 17.15,
+        "peDiluted": null,
+        "peTrailing": 19.59
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 17.05,
+        "peDiluted": null,
+        "peTrailing": 19.48
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 16.92,
+        "peDiluted": null,
+        "peTrailing": 19.33
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 16.96,
+        "peDiluted": null,
+        "peTrailing": 19.37
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 16.96,
+        "peDiluted": null,
+        "peTrailing": 19.38
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 16.88,
+        "peDiluted": null,
+        "peTrailing": 19.29
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 24.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 23.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 23.77,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 23.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 23.71,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 51.94,
+      "epsContinuingBasicOriginal": 47.22,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 263.85,
+      "navPerShareRestated": 239.86,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5061.56,
+      "tciOriginal": 5061.56,
+      "tciRestated": 5116.3
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 47.68,
+      "epsContinuingBasicOriginal": 44.56,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 274.39,
+      "navPerShareRestated": 256.43,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5110.92,
+      "tciOriginal": 5110.92,
+      "tciRestated": 5112.91
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 20.4,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 266.87,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2339.24,
+      "tciOriginal": 2339.24,
+      "tciRestated": 2676.76
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 31.53,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 295.56,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3615.81,
+      "tciOriginal": 3615.81,
+      "tciRestated": 3646.92
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 19.36,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 305.49,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2221.01,
+      "tciOriginal": 2221.01,
+      "tciRestated": 2197.85
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 25.41,
+      "dividend": "145.00, 10% B",
+      "cashDividendPct": 145,
+      "bonusDividendPct": "10% B",
+      "dividendYieldPct": 1.1
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 28.22,
+      "dividend": "140.00, 7% B",
+      "cashDividendPct": 140,
+      "bonusDividendPct": "7% B",
+      "dividendYieldPct": 1.04
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 59.72,
+      "dividend": "62.50",
+      "cashDividendPct": 62.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.51
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.43,
+      "dividend": "92.00",
+      "cashDividendPct": 92,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.19
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 25.22,
+      "dividend": "55.00",
+      "cashDividendPct": 55,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.13
+    }
+  ],
+  "financialLinks": [
+    "http://www.renata-ltd.com/quarterlyreport",
+    "http://www.renata-ltd.com/investorinformation"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 9402.17,
+    "latestDividendStatus": "55.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Plot # 1, Milk Vita Road, Section-7, Mirpur, Dhaka-1216",
+    "phone": "880-2-41002750-54",
+    "fax": "880-2-41002765",
+    "email": "jubayer@renata-ltd.com",
+    "webAddress": "http://www.renata-ltd.com",
+    "companySecretaryName": "Md. Jubayer Alam",
+    "cellNo": "+88 01819 256 611",
+    "telephoneNo": "880-2-41002750-54, ext:201"
+  },
+  "scrapedAt": "2026-09-11T07:00:12.762Z",
+  "shariaCompliant": false
+}

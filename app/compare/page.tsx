@@ -17,10 +17,9 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
-import { Stock } from "@/lib/types";
+import { Stock, AnyStock } from "@/lib/types";
+import { getScreenerStocksSync, getScreenerStockByCodeSync } from "@/lib/data-provider";
 import {
-  getAllStocks,
-  getStockByCode,
   getTradingCode,
   getCompanyName,
   getSector,
@@ -60,7 +59,7 @@ import {
 function CompareContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const allStocks = React.useMemo(() => getAllStocks(), []);
+  const allStocks = React.useMemo(() => getScreenerStocksSync(), []);
 
   const [selectedCodes, setSelectedCodes] = useState<string[]>(() => {
     const raw = searchParams.get("codes");
@@ -68,7 +67,7 @@ function CompareContent() {
       const parsed = raw.split(",").map((c) => c.trim().toUpperCase()).filter(Boolean);
       return Array.from(new Set(parsed)).slice(0, 4);
     }
-    return ["GP", "SQURPHARMA", "BATBC"].filter((c) => getStockByCode(c));
+    return ["GP", "SQURPHARMA", "BATBC"].filter((c) => getScreenerStockByCodeSync(c));
   });
 
   const [searchQuery, setSearchQuery] = useState("");
@@ -91,9 +90,9 @@ function CompareContent() {
     setSelectedCodes(selectedCodes.filter((c) => c !== code));
   };
 
-  const stocks: Stock[] = selectedCodes
-    .map((code) => getStockByCode(code))
-    .filter(Boolean) as Stock[];
+  const stocks: AnyStock[] = selectedCodes
+    .map((code) => getScreenerStockByCodeSync(code))
+    .filter(Boolean) as AnyStock[];
 
   const searchResults = React.useMemo(() => {
     if (!searchQuery.trim()) return [];

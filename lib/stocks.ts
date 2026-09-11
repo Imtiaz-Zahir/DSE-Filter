@@ -1,80 +1,95 @@
 import {
   Stock,
+  AnyStock,
   FilterState,
   SortConfig,
   SummaryStats,
   ShareHolding,
   AuditedFinancial,
-  HistoricalDividendPE,
 } from "./types";
-import rawStocksData from "@/data/dse_stocks.json";
+import rawMetaData from "@/data/meta.json";
 
-// Cast JSON data safely to Stock[]
-const allStocks: Stock[] = rawStocksData as unknown as Stock[];
-
-// Safe extraction helpers
-export function getTradingCode(stock: Stock): string {
+// Safe extraction helpers supporting both full Stock and lightweight ScreenerStock
+export function getTradingCode(stock: AnyStock): string {
   return stock.tradingCode || "";
 }
 
-export function getCompanyName(stock: Stock): string {
+export function getCompanyName(stock: AnyStock): string {
   return stock.companyName || stock.tradingCode || "";
 }
 
-export function getSector(stock: Stock): string {
-  return stock.basicInformation?.sector || "Miscellaneous";
+export function getSector(stock: AnyStock): string {
+  if ("sector" in stock && stock.sector) return stock.sector;
+  return (stock as Stock).basicInformation?.sector || "Miscellaneous";
 }
 
-export function getCategory(stock: Stock): string {
-  const cat = stock.dividendAndSurplus?.marketCategory;
+export function getCategory(stock: AnyStock): string {
+  if ("category" in stock && stock.category && stock.category !== "-") {
+    return stock.category.toUpperCase();
+  }
+  const cat = (stock as Stock).dividendAndSurplus?.marketCategory;
   if (!cat || cat === "-") return "Unknown";
   return cat.toUpperCase();
 }
 
-export function getShariaCompliant(stock: Stock): boolean {
+export function getShariaCompliant(stock: AnyStock): boolean {
   return Boolean(stock.shariaCompliant);
 }
 
-export function getLtp(stock: Stock): number | null {
-  const price = stock.overview?.LTP ?? stock.marketInformation?.lastTradingPrice;
+export function getLtp(stock: AnyStock): number | null {
+  if ("ltp" in stock && stock.ltp !== undefined) return stock.ltp;
+  const s = stock as Stock;
+  const price = s.overview?.LTP ?? s.marketInformation?.lastTradingPrice;
   return typeof price === "number" && !isNaN(price) ? price : null;
 }
 
-export function getChange(stock: Stock): number | null {
-  const chg = stock.overview?.CHANGE ?? stock.marketInformation?.change;
+export function getChange(stock: AnyStock): number | null {
+  if ("change" in stock && stock.change !== undefined) return stock.change;
+  const s = stock as Stock;
+  const chg = s.overview?.CHANGE ?? s.marketInformation?.change;
   return typeof chg === "number" && !isNaN(chg) ? chg : null;
 }
 
-export function getYcp(stock: Stock): number | null {
-  const ycp = stock.overview?.YCP ?? stock.marketInformation?.yesterdaysClose;
+export function getYcp(stock: AnyStock): number | null {
+  if ("ycp" in stock && stock.ycp !== undefined) return stock.ycp;
+  const s = stock as Stock;
+  const ycp = s.overview?.YCP ?? s.marketInformation?.yesterdaysClose;
   return typeof ycp === "number" && !isNaN(ycp) ? ycp : null;
 }
 
-export function getChangePct(stock: Stock): number | null {
+export function getChangePct(stock: AnyStock): number | null {
+  if ("changePct" in stock && stock.changePct !== undefined) return stock.changePct;
   const chg = getChange(stock);
   const ycp = getYcp(stock);
   if (chg !== null && ycp !== null && ycp > 0) {
-    return (chg / ycp) * 100;
+    return parseFloat(((chg / ycp) * 100).toFixed(2));
   }
   const ltp = getLtp(stock);
   if (ltp !== null && ycp !== null && ycp > 0) {
-    return ((ltp - ycp) / ycp) * 100;
+    return parseFloat((((ltp - ycp) / ycp) * 100).toFixed(2));
   }
   return null;
 }
 
-export function getDayHigh(stock: Stock): number | null {
-  const val = stock.overview?.HIGH ?? stock.marketInformation?.daysRange?.[1];
+export function getDayHigh(stock: AnyStock): number | null {
+  if ("high" in stock && stock.high !== undefined) return stock.high;
+  const s = stock as Stock;
+  const val = s.overview?.HIGH ?? s.marketInformation?.daysRange?.[1];
   return typeof val === "number" && !isNaN(val) ? val : null;
 }
 
-export function getDayLow(stock: Stock): number | null {
-  const val = stock.overview?.LOW ?? stock.marketInformation?.daysRange?.[0];
+export function getDayLow(stock: AnyStock): number | null {
+  if ("low" in stock && stock.low !== undefined) return stock.low;
+  const s = stock as Stock;
+  const val = s.overview?.LOW ?? s.marketInformation?.daysRange?.[0];
   return typeof val === "number" && !isNaN(val) ? val : null;
 }
 
-export function get52WeekRange(stock: Stock): [number, number] | null {
-  const range = stock.marketInformation?.movingRange52Weeks;
+export function get52WeekRange(stock: AnyStock): [number, number] | null {
+  if ("range52Week" in stock && stock.range52Week) {
+    return stock.range52Week as [number, number];
+  }
+  const range = (stock as Stock).marketInformation?.movingRange52Weeks;
   if (
     Array.isArray(range) &&
     range.length === 2 &&
@@ -86,10 +101,10 @@ export function get52WeekRange(stock: Stock): [number, number] | null {
   return null;
 }
 
-export function getAuditedPe(stock: Stock): number | null {
-  const audited = stock.peRatios?.audited;
+export function getAuditedPe(stock: AnyStock): number | null {
+  if ("auditedPe" in stock && stock.auditedPe !== undefined) return stock.auditedPe;
+  const audited = (stock as Stock).peRatios?.audited;
   if (Array.isArray(audited) && audited.length > 0) {
-    // Traverse backwards to find latest non-null pe
     for (let i = audited.length - 1; i >= 0; i--) {
       const item = audited[i];
       const pe = item.peBasic ?? item.peDiluted;
@@ -99,8 +114,9 @@ export function getAuditedPe(stock: Stock): number | null {
   return null;
 }
 
-export function getUnauditedPe(stock: Stock): number | null {
-  const unaudited = stock.peRatios?.unaudited;
+export function getUnauditedPe(stock: AnyStock): number | null {
+  if ("unauditedPe" in stock && stock.unauditedPe !== undefined) return stock.unauditedPe;
+  const unaudited = (stock as Stock).peRatios?.unaudited;
   if (Array.isArray(unaudited) && unaudited.length > 0) {
     for (let i = unaudited.length - 1; i >= 0; i--) {
       const item = unaudited[i];
@@ -111,22 +127,23 @@ export function getUnauditedPe(stock: Stock): number | null {
   return null;
 }
 
-export function getPe(stock: Stock): number | null {
+export function getPe(stock: AnyStock): number | null {
+  if ("pe" in stock && stock.pe !== undefined) return stock.pe;
   return getAuditedPe(stock) ?? getUnauditedPe(stock);
 }
 
 export function getLatestAuditedFinancial(stock: Stock): AuditedFinancial | null {
   const financials = stock.auditedFinancials;
   if (Array.isArray(financials) && financials.length > 0) {
-    // Sort or get highest year
     const sorted = [...financials].sort((a, b) => (b.year || 0) - (a.year || 0));
     return sorted[0] || null;
   }
   return null;
 }
 
-export function getNav(stock: Stock): number | null {
-  const latest = getLatestAuditedFinancial(stock);
+export function getNav(stock: AnyStock): number | null {
+  if ("nav" in stock && stock.nav !== undefined) return stock.nav;
+  const latest = getLatestAuditedFinancial(stock as Stock);
   if (latest) {
     const nav = latest.navPerShareRestated ?? latest.navPerShareOriginal;
     if (typeof nav === "number" && !isNaN(nav)) return nav;
@@ -134,7 +151,8 @@ export function getNav(stock: Stock): number | null {
   return null;
 }
 
-export function getPbRatio(stock: Stock): number | null {
+export function getPbRatio(stock: AnyStock): number | null {
+  if ("pb" in stock && stock.pb !== undefined) return stock.pb;
   const ltp = getLtp(stock);
   const nav = getNav(stock);
   if (ltp !== null && nav !== null && nav > 0) {
@@ -143,8 +161,9 @@ export function getPbRatio(stock: Stock): number | null {
   return null;
 }
 
-export function getEps(stock: Stock): number | null {
-  const latest = getLatestAuditedFinancial(stock);
+export function getEps(stock: AnyStock): number | null {
+  if ("eps" in stock && stock.eps !== undefined) return stock.eps;
+  const latest = getLatestAuditedFinancial(stock as Stock);
   if (latest) {
     const eps =
       latest.epsDilutedRestated ??
@@ -153,8 +172,7 @@ export function getEps(stock: Stock): number | null {
       latest.epsBasicOriginal;
     if (typeof eps === "number" && !isNaN(eps)) return eps;
   }
-  // Fallback to interim financials if needed
-  const interims = stock.interimFinancials;
+  const interims = (stock as Stock).interimFinancials;
   if (Array.isArray(interims) && interims.length > 0) {
     const annual = interims.find((i) => i.period === "Annual" || i.period === "9 Months");
     if (annual && typeof annual.epsBasic === "number" && !isNaN(annual.epsBasic)) {
@@ -164,8 +182,9 @@ export function getEps(stock: Stock): number | null {
   return null;
 }
 
-export function getNetProfitMn(stock: Stock): number | null {
-  const latest = getLatestAuditedFinancial(stock);
+export function getNetProfitMn(stock: AnyStock): number | null {
+  if ("netProfit" in stock && stock.netProfit !== undefined) return stock.netProfit;
+  const latest = getLatestAuditedFinancial(stock as Stock);
   if (latest) {
     const np =
       latest.profitForTheYearMnRestated ??
@@ -177,8 +196,9 @@ export function getNetProfitMn(stock: Stock): number | null {
   return null;
 }
 
-export function getDivYieldPct(stock: Stock): number | null {
-  const hist = stock.historicalDividendPE;
+export function getDivYieldPct(stock: AnyStock): number | null {
+  if ("divYield" in stock && stock.divYield !== undefined) return stock.divYield;
+  const hist = (stock as Stock).historicalDividendPE;
   if (Array.isArray(hist) && hist.length > 0) {
     const sorted = [...hist].sort((a, b) => (b.year || 0) - (a.year || 0));
     for (const item of sorted) {
@@ -190,57 +210,71 @@ export function getDivYieldPct(stock: Stock): number | null {
   return null;
 }
 
-export function getMarketCap(stock: Stock): number | null {
-  const cap = stock.marketInformation?.marketCapMn;
+export function getMarketCap(stock: AnyStock): number | null {
+  if ("marketCap" in stock && stock.marketCap !== undefined) return stock.marketCap;
+  const cap = (stock as Stock).marketInformation?.marketCapMn;
   return typeof cap === "number" && !isNaN(cap) ? cap : null;
 }
 
-export function getFreeFloatCap(stock: Stock): number | null {
-  const cap = stock.marketInformation?.freeFloatMarketCapMn;
+export function getFreeFloatCap(stock: AnyStock): number | null {
+  if ("freeFloatCap" in stock && stock.freeFloatCap !== undefined) return stock.freeFloatCap;
+  const cap = (stock as Stock).marketInformation?.freeFloatMarketCapMn;
   return typeof cap === "number" && !isNaN(cap) ? cap : null;
 }
 
-export function getPaidUpCap(stock: Stock): number | null {
-  const cap = stock.basicInformation?.paidUpCapitalMn;
+export function getPaidUpCap(stock: AnyStock): number | null {
+  if ("paidUpCap" in stock && stock.paidUpCap !== undefined) return stock.paidUpCap;
+  const cap = (stock as Stock).basicInformation?.paidUpCapitalMn;
   return typeof cap === "number" && !isNaN(cap) ? cap : null;
 }
 
-export function getAuthorizedCap(stock: Stock): number | null {
-  const cap = stock.basicInformation?.authorizedCapitalMn;
+export function getAuthorizedCap(stock: AnyStock): number | null {
+  if ("authorizedCap" in stock && stock.authorizedCap !== undefined) return stock.authorizedCap;
+  const cap = (stock as Stock).basicInformation?.authorizedCapitalMn;
   return typeof cap === "number" && !isNaN(cap) ? cap : null;
 }
 
-export function getVolume(stock: Stock): number | null {
-  const vol = stock.overview?.VOLUME ?? stock.marketInformation?.daysVolumeNos;
+export function getVolume(stock: AnyStock): number | null {
+  if ("volume" in stock && stock.volume !== undefined) return stock.volume;
+  const s = stock as Stock;
+  const vol = s.overview?.VOLUME ?? s.marketInformation?.daysVolumeNos;
   return typeof vol === "number" && !isNaN(vol) ? vol : null;
 }
 
-export function getTurnover(stock: Stock): number | null {
-  const val = stock.overview?.["VALUE (mn)"] ?? stock.marketInformation?.daysValueMn;
+export function getTurnover(stock: AnyStock): number | null {
+  if ("turnover" in stock && stock.turnover !== undefined) return stock.turnover;
+  const s = stock as Stock;
+  const val = s.overview?.["VALUE (mn)"] ?? s.marketInformation?.daysValueMn;
   return typeof val === "number" && !isNaN(val) ? val : null;
 }
 
-export function getTrades(stock: Stock): number | null {
-  const trades = stock.overview?.TRADE ?? stock.marketInformation?.daysTradeNos;
+export function getTrades(stock: AnyStock): number | null {
+  if ("trades" in stock && stock.trades !== undefined) return stock.trades;
+  const s = stock as Stock;
+  const trades = s.overview?.TRADE ?? s.marketInformation?.daysTradeNos;
   return typeof trades === "number" && !isNaN(trades) ? trades : null;
 }
 
-export function getDebt(stock: Stock): number {
-  const debt = stock.operationalLoanStatus?.longTermLoanMn;
+export function getDebt(stock: AnyStock): number {
+  if ("debt" in stock && stock.debt !== undefined) return stock.debt || 0;
+  const debt = (stock as Stock).operationalLoanStatus?.longTermLoanMn;
   return typeof debt === "number" && !isNaN(debt) ? debt : 0;
 }
 
-export function getListingYear(stock: Stock): number | null {
-  const year = stock.dividendAndSurplus?.listingYear;
+export function getListingYear(stock: AnyStock): number | null {
+  if ("listingYear" in stock && stock.listingYear !== undefined) return stock.listingYear;
+  const year = (stock as Stock).dividendAndSurplus?.listingYear;
   return typeof year === "number" && !isNaN(year) ? year : null;
 }
 
-export function getInstrumentType(stock: Stock): string {
-  return stock.basicInformation?.typeOfInstrument || "Equity";
+export function getInstrumentType(stock: AnyStock): string {
+  if ("instrumentType" in stock && stock.instrumentType) return stock.instrumentType;
+  return (stock as Stock).basicInformation?.typeOfInstrument || "Equity";
 }
 
-export function getOperationalStatus(stock: Stock): string {
-  return stock.operationalLoanStatus?.presentOperationalStatus || "Active";
+export function getOperationalStatus(stock: AnyStock): string {
+  if ("operationalStatus" in stock && stock.operationalStatus) return stock.operationalStatus;
+  return (stock as Stock).operationalLoanStatus?.presentOperationalStatus || "Active";
 }
 
 export function getLatestShareholding(stock: Stock): ShareHolding | null {
@@ -251,77 +285,79 @@ export function getLatestShareholding(stock: Stock): ShareHolding | null {
   return null;
 }
 
-export function getSponsorPct(stock: Stock): number | null {
-  const holding = getLatestShareholding(stock);
+export function getSponsorPct(stock: AnyStock): number | null {
+  if ("sponsorPct" in stock && stock.sponsorPct !== undefined) return stock.sponsorPct;
+  const holding = getLatestShareholding(stock as Stock);
   return typeof holding?.sponsorDirectorPct === "number" ? holding.sponsorDirectorPct : null;
 }
 
-export function getInstitutePct(stock: Stock): number | null {
-  const holding = getLatestShareholding(stock);
+export function getInstitutePct(stock: AnyStock): number | null {
+  if ("institutePct" in stock && stock.institutePct !== undefined) return stock.institutePct;
+  const holding = getLatestShareholding(stock as Stock);
   return typeof holding?.institutePct === "number" ? holding.institutePct : null;
 }
 
-export function getForeignPct(stock: Stock): number | null {
-  const holding = getLatestShareholding(stock);
+export function getForeignPct(stock: AnyStock): number | null {
+  if ("foreignPct" in stock && stock.foreignPct !== undefined) return stock.foreignPct;
+  const holding = getLatestShareholding(stock as Stock);
   return typeof holding?.foreignPct === "number" ? holding.foreignPct : null;
 }
 
-export function getPublicPct(stock: Stock): number | null {
-  const holding = getLatestShareholding(stock);
+export function getPublicPct(stock: AnyStock): number | null {
+  if ("publicPct" in stock && stock.publicPct !== undefined) return stock.publicPct;
+  const holding = getLatestShareholding(stock as Stock);
   return typeof holding?.publicPct === "number" ? holding.publicPct : null;
 }
 
-export function getGovtPct(stock: Stock): number | null {
-  const holding = getLatestShareholding(stock);
+export function getGovtPct(stock: AnyStock): number | null {
+  if ("govtPct" in stock && stock.govtPct !== undefined) return stock.govtPct;
+  const holding = getLatestShareholding(stock as Stock);
   return typeof holding?.govtPct === "number" ? holding.govtPct : null;
 }
 
-// Data accessors
-export function getAllStocks(): Stock[] {
-  return allStocks;
-}
-
-export function getStockByCode(code: string): Stock | undefined {
-  const normalized = (code || "").trim().toUpperCase();
-  return allStocks.find(
-    (s) => s.tradingCode?.toUpperCase() === normalized || s.scripCode === normalized
-  );
-}
-
-export function getAllTradingCodes(): string[] {
-  return allStocks.map((s) => s.tradingCode).filter(Boolean);
-}
-
-export function getAllSectors(): string[] {
+// Static metadata accessors (pure, lightweight < 1 KB)
+export function getAllSectors(stocks?: AnyStock[]): string[] {
+  if (!stocks || stocks.length === 0) {
+    return rawMetaData.sectors || [];
+  }
   const sectors = new Set<string>();
-  allStocks.forEach((s) => {
+  stocks.forEach((s) => {
     const sec = getSector(s);
     if (sec) sectors.add(sec);
   });
   return Array.from(sectors).sort();
 }
 
-export function getAllCategories(): string[] {
+export function getAllCategories(stocks?: AnyStock[]): string[] {
+  if (!stocks || stocks.length === 0) {
+    return rawMetaData.categories || ["A", "B", "N", "Z"];
+  }
   const cats = new Set<string>();
-  allStocks.forEach((s) => {
+  stocks.forEach((s) => {
     const cat = getCategory(s);
     if (cat && cat !== "Unknown") cats.add(cat);
   });
   return Array.from(cats).sort();
 }
 
-export function getAllInstruments(): string[] {
+export function getAllInstruments(stocks?: AnyStock[]): string[] {
+  if (!stocks || stocks.length === 0) {
+    return rawMetaData.instruments || ["Equity", "Mutual Funds", "Unknown"];
+  }
   const insts = new Set<string>();
-  allStocks.forEach((s) => {
+  stocks.forEach((s) => {
     const inst = getInstrumentType(s);
     if (inst) insts.add(inst);
   });
   return Array.from(insts).sort();
 }
 
-export function getAllOperationalStatuses(): string[] {
+export function getAllOperationalStatuses(stocks?: AnyStock[]): string[] {
+  if (!stocks || stocks.length === 0) {
+    return rawMetaData.operationalStatuses || ["Active", "Closed", "Operation Shutdown"];
+  }
   const statuses = new Set<string>();
-  allStocks.forEach((s) => {
+  stocks.forEach((s) => {
     const st = getOperationalStatus(s);
     if (st) statuses.add(st);
   });
@@ -329,10 +365,11 @@ export function getAllOperationalStatuses(): string[] {
 }
 
 // Peer stocks
-export function getPeerStocks(stock: Stock, stocks: Stock[] = allStocks, limit = 4): Stock[] {
+export function getPeerStocks(stock: AnyStock, stocks: AnyStock[] = [], limit = 4): AnyStock[] {
+  if (!stocks || stocks.length === 0) return [];
   const sector = getSector(stock);
   const currentCode = getTradingCode(stock);
-  
+
   return stocks
     .filter((s) => getSector(s) === sector && getTradingCode(s) !== currentCode)
     .sort((a, b) => (getMarketCap(b) || 0) - (getMarketCap(a) || 0))
@@ -340,7 +377,7 @@ export function getPeerStocks(stock: Stock, stocks: Stock[] = allStocks, limit =
 }
 
 // Summary stats calculation
-export function calculateSummaryStats(stocks: Stock[]): SummaryStats {
+export function calculateSummaryStats(stocks: AnyStock[]): SummaryStats {
   let totalMarketCapMn = 0;
   let peSum = 0;
   let peCount = 0;
@@ -407,7 +444,10 @@ export function calculateSummaryStats(stocks: Stock[]): SummaryStats {
 }
 
 // Check if range matches
-function matchesRange(val: number | null | undefined, range: { min?: number | null; max?: number | null }): boolean {
+function matchesRange(
+  val: number | null | undefined,
+  range: { min?: number | null; max?: number | null }
+): boolean {
   if (range.min !== undefined && range.min !== null) {
     if (val === null || val === undefined || val < range.min) return false;
   }
@@ -418,12 +458,12 @@ function matchesRange(val: number | null | undefined, range: { min?: number | nu
 }
 
 // Filtering and Sorting
-export function filterAndSortStocks(
-  stocks: Stock[],
+export function filterAndSortStocks<T extends AnyStock>(
+  stocks: T[],
   filters: FilterState,
   sortConfig: SortConfig
-): Stock[] {
-  let result = stocks.filter((stock) => {
+): T[] {
+  const result = stocks.filter((stock) => {
     // 1. Search Query (Trading Code, Company Name, Scrip Code, Sector)
     if (filters.searchQuery.trim()) {
       const q = filters.searchQuery.trim().toLowerCase();
@@ -613,6 +653,7 @@ export function filterAndSortStocks(
         valB = getTradingCode(b);
     }
 
+    if ((valA === null || valA === undefined) && (valB === null || valB === undefined)) return 0;
     if (valA === null || valA === undefined) return 1;
     if (valB === null || valB === undefined) return -1;
 

@@ -1,0 +1,375 @@
+{
+  "tradingCode": "SAMATALETH",
+  "scripCode": "23634",
+  "companyName": "Samata Leather Complex Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAMATALETH",
+  "lastAGMHeldOn": "2025-12-31",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 323,
+    "TRADING CODE": "SAMATALETH",
+    "LTP": 92.8,
+    "HIGH": 94.3,
+    "LOW": 92.2,
+    "CLOSEP": 92.8,
+    "YCP": 92.7,
+    "CHANGE": 0.1,
+    "TRADE": 393,
+    "VALUE (mn)": 3.965,
+    "VOLUME": 42551
+  },
+  "marketInformation": {
+    "lastTradingPrice": 79.2,
+    "daysRange": [
+      79,
+      84.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      73.1,
+      124.8
+    ],
+    "change": -3.4,
+    "daysTradeNos": 435,
+    "yesterdaysClose": 82.6,
+    "daysVolumeNos": 52780,
+    "adjustedOpeningPrice": 82.6,
+    "daysValueMn": 4.29,
+    "openingPrice": 84.2,
+    "marketCapMn": 852.432,
+    "closingPrice": 79.5,
+    "freeFloatMarketCapMn": 563.723
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 500,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 103.2,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 10320000,
+    "sector": "Tannery Industries"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1998,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 16,787,576 Revaluation Reserve has been to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 33.87,
+      "govtPct": 0,
+      "institutePct": 5.09,
+      "foreignPct": 0,
+      "publicPct": 61.04
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 33.87,
+      "govtPct": 0,
+      "institutePct": 3.97,
+      "foreignPct": 0,
+      "publicPct": 62.16
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 33.87,
+      "govtPct": 0,
+      "institutePct": 3.96,
+      "foreignPct": 0,
+      "publicPct": 62.17
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2024-09",
+      "epsBasic": -0.09,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.09,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 42.4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2024-12",
+      "epsBasic": 0.03,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.03,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 43
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2024-12",
+      "epsBasic": -0.02,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.02,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 43
+    },
+    {
+      "period": "Q3",
+      "endDate": "2025-03",
+      "epsBasic": -0.01,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.01,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 45.1
+    },
+    {
+      "period": "9 Months 202503",
+      "endDate": "2025-03",
+      "epsBasic": -0.04,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.04,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 45.1
+    },
+    {
+      "period": "Annual",
+      "endDate": "2025-06",
+      "epsBasic": -0.02,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.02,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 54.1
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.1,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.39,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1.08,
+      "tciOriginal": 1.08,
+      "tciRestated": 1.08
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.3,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -0.67,
+      "tciOriginal": -0.67,
+      "tciRestated": -0.67
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.04,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.34,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 0.4,
+      "tciOriginal": 0.4,
+      "tciRestated": 0.4
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.05,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.37,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 0.54,
+      "tciOriginal": 0.54,
+      "tciRestated": 0.54
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.02,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.35,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -0.19,
+      "tciOriginal": -0.19,
+      "tciRestated": -0.19
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 724,
+      "dividend": "0.50",
+      "cashDividendPct": 0.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.07
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 1747,
+      "dividend": "0.04",
+      "cashDividendPct": 0.04,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.06
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 1079,
+      "dividend": "0.40",
+      "cashDividendPct": 0.4,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.07
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "PLOT#ZC4+ZC5+ZC6, CHAMRA SHILPA NAGARI, HARINDHARA, HEMEYETPUR, SAVAR, DHAKA-1340.",
+    "phone": null,
+    "fax": null,
+    "email": "samataleather@gmail.com",
+    "webAddress": "http://www.samataleather.com/",
+    "companySecretaryName": "MOHAMMED ROMZAN ALI",
+    "cellNo": "01711391183",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:14.544Z",
+  "shariaCompliant": true
+}

@@ -115,7 +115,7 @@ export interface HistoricalDividendPE {
   peContinuing?: number | null;
   dividend?: string | null;
   cashDividendPct?: number | null;
-  bonusDividendPct?: number | null;
+  bonusDividendPct?: number | string | null;
   dividendYieldPct?: number | null;
 }
 
@@ -254,3 +254,59 @@ export interface CustomPreset {
   createdAt: number;
   filters: FilterState;
 }
+
+export interface ScreenerStock {
+  tradingCode: string;
+  scripCode?: string | null;
+  companyName?: string | null;
+  sector?: string | null;
+  category?: string | null;
+  shariaCompliant?: boolean | null;
+  ltp?: number | null;
+  change?: number | null;
+  ycp?: number | null;
+  changePct?: number | null;
+  high?: number | null;
+  low?: number | null;
+  range52Week?: [number | null, number | null] | null;
+  pe?: number | null;
+  auditedPe?: number | null;
+  unauditedPe?: number | null;
+  pb?: number | null;
+  nav?: number | null;
+  eps?: number | null;
+  netProfit?: number | null;
+  divYield?: number | null;
+  cashDividend?: string | null;
+  bonusIssue?: string | null;
+  marketCap?: number | null;
+  freeFloatCap?: number | null;
+  paidUpCap?: number | null;
+  authorizedCap?: number | null;
+  volume?: number | null;
+  turnover?: number | null;
+  trades?: number | null;
+  debt?: number;
+  listingYear?: number | null;
+  instrumentType?: string | null;
+  operationalStatus?: string | null;
+  sponsorPct?: number | null;
+  institutePct?: number | null;
+  foreignPct?: number | null;
+  publicPct?: number | null;
+  govtPct?: number | null;
+  shareholdingPeriod?: string | null;
+}
+
+export type AnyStock = Stock | ScreenerStock;
+
+export interface DseMeta {
+  lastUpdated: string;
+  totalStocks: number;
+  version: string;
+  sectors?: string[];
+  categories?: string[];
+  instruments?: string[];
+  operationalStatuses?: string[];
+}
+

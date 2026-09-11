@@ -1,0 +1,378 @@
+{
+  "tradingCode": "ORIONPHARM",
+  "scripCode": "18486",
+  "companyName": "Orion Pharma Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ORIONPHARM",
+  "lastAGMHeldOn": "2025-12-23",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 263,
+    "TRADING CODE": "ORIONPHARM",
+    "LTP": 26.4,
+    "HIGH": 26.8,
+    "LOW": 26.3,
+    "CLOSEP": 26.4,
+    "YCP": 26.2,
+    "CHANGE": 0.2,
+    "TRADE": 138,
+    "VALUE (mn)": 2.207,
+    "VOLUME": 83326
+  },
+  "marketInformation": {
+    "lastTradingPrice": 25,
+    "daysRange": [
+      24.9,
+      25.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      22.9,
+      39.2
+    ],
+    "change": -0.1,
+    "daysTradeNos": 165,
+    "yesterdaysClose": 25.1,
+    "daysVolumeNos": 88659,
+    "adjustedOpeningPrice": 25.1,
+    "daysValueMn": 2.22,
+    "openingPrice": 25.5,
+    "marketCapMn": 5873.4,
+    "closingPrice": 25,
+    "freeFloatMarketCapMn": 3994.876
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 5000,
+    "debutTradingDate": "2013-03-20",
+    "paidUpCapitalMn": 2340,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 234000000,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2013,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 1,654,377,559 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 31.98,
+      "govtPct": 0,
+      "institutePct": 21.41,
+      "foreignPct": 0.08,
+      "publicPct": 46.53
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 31.98,
+      "govtPct": 0,
+      "institutePct": 21.49,
+      "foreignPct": 0.14,
+      "publicPct": 46.39
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 31.98,
+      "govtPct": 0,
+      "institutePct": 21.44,
+      "foreignPct": 0.15,
+      "publicPct": 46.43
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -0.3,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.3,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 36.8
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.56,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.56,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 27.4
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -0.86,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.86,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 27.4
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -0.65,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.65,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 28.8
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -0.95,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.95,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 28.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.01,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 79.76,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 939.06,
+      "tciOriginal": 939.06,
+      "tciRestated": 927.09
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.62,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 82.53,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 846.08,
+      "tciOriginal": 846.08,
+      "tciRestated": 930.67
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.74,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 88.99,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 640.94,
+      "tciOriginal": 640.94,
+      "tciRestated": 1745.42
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.36,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 92.05,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 318.12,
+      "tciOriginal": 318.12,
+      "tciRestated": 945.43
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.77,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 86.09,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -415.28,
+      "tciOriginal": -415.28,
+      "tciRestated": -1159.75
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 13.43,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.23
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.34,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.14
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 29.06,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.26
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 50.83,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.45
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.orionpharmabd.com/investor/annualreport",
+    "https://www.orionpharmabd.com/investor/pricesensitiveinformation"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 25136.62,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Sumilpara, Siddhirganj, Narayanganj, Bangladesh",
+    "phone": "+88028870133",
+    "fax": "+88-02-8870108",
+    "email": "ferdous.jaman@orion-group.net",
+    "webAddress": "https://www.orionpharmabd.com",
+    "companySecretaryName": "Mr. Md. Ferdous Jaman",
+    "cellNo": "+88 01711 402 522",
+    "telephoneNo": "+88028870133 Ext-114"
+  },
+  "scrapedAt": "2026-09-11T07:00:06.865Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,320 @@
+{
+  "tradingCode": "POPULARLIF",
+  "scripCode": "25724",
+  "companyName": "Popular Life Insurance Co. Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=POPULARLIF",
+  "lastAGMHeldOn": "2025-09-23",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 278,
+    "TRADING CODE": "POPULARLIF",
+    "LTP": 61.3,
+    "HIGH": 61.9,
+    "LOW": 61,
+    "CLOSEP": 61.3,
+    "YCP": 60.7,
+    "CHANGE": 0.6,
+    "TRADE": 366,
+    "VALUE (mn)": 10.33,
+    "VOLUME": 168186
+  },
+  "marketInformation": {
+    "lastTradingPrice": 57.1,
+    "daysRange": [
+      56.7,
+      59.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      36.5,
+      67.1
+    ],
+    "change": -1,
+    "daysTradeNos": 295,
+    "yesterdaysClose": 58.1,
+    "daysVolumeNos": 65948,
+    "adjustedOpeningPrice": 58.1,
+    "daysValueMn": 3.79,
+    "openingPrice": 59.9,
+    "marketCapMn": 3510.888,
+    "closingPrice": 57.1,
+    "freeFloatMarketCapMn": 2477.673
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 5000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 604.28,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 60428358,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2005,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "20% 2024, 37% 2023, 38% 2022, 40% 2021, 40% 2020, 20% 2019, 40% 2018, 40% 2017, 40% 2016, 40% 2015",
+    "bonusIssue": "40% 2014, 40% 2013, 5% 2012, 40% 2011, 37% 2010, 35% 2009, 26% 2008, 20% 2007",
+    "rightIssue": "n/a",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "Company\\'s Profit, EPS & NAV are updated as per latest Annual Report"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 23.7,
+      "govtPct": 0,
+      "institutePct": 18.33,
+      "foreignPct": 0,
+      "publicPct": 57.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 23.7,
+      "govtPct": 0,
+      "institutePct": 26.88,
+      "foreignPct": 0,
+      "publicPct": 49.42
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 23.7,
+      "govtPct": 0,
+      "institutePct": 27.58,
+      "foreignPct": 0,
+      "publicPct": 48.72
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 24.23,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 23.52,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 23.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 23.36,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 22.96,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 22.57,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.77,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 108.9,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 227.85,
+      "tciOriginal": 227.85,
+      "tciRestated": 227.85
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.8,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 109.15,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 229.65,
+      "tciOriginal": 229.65,
+      "tciRestated": 229.65
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.8,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 92.68,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 229.63,
+      "tciOriginal": 229.63,
+      "tciRestated": 229.63
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.7,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 91.2,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 223.56,
+      "tciOriginal": 223.56,
+      "tciRestated": 223.56
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.53,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 89.6,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 153.18,
+      "tciOriginal": 153.18,
+      "tciRestated": 153.18
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.34,
+      "dividend": "40.00",
+      "cashDividendPct": 40,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.22
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.68,
+      "dividend": "40.00",
+      "cashDividendPct": 40,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.09
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.82,
+      "dividend": "38.00",
+      "cashDividendPct": 38,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.8
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 17.97,
+      "dividend": "37.00",
+      "cashDividendPct": 37,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.56
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.16,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.92
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "20.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "02223357534-38",
+    "fax": "02223390880",
+    "email": "popularliclbs@gmail.com",
+    "webAddress": "http://www.popularlifeins.com",
+    "companySecretaryName": "Mostofa Helal Kabir",
+    "cellNo": "+88 01713 372 372",
+    "telephoneNo": "88-02-9577534-38 Ext. : 132"
+  },
+  "scrapedAt": "2026-09-11T07:00:08.965Z",
+  "shariaCompliant": false
+}

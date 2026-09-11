@@ -1,0 +1,375 @@
+{
+  "tradingCode": "FAMILYTEX",
+  "scripCode": "17457",
+  "companyName": "Familytex (BD) Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FAMILYTEX",
+  "lastAGMHeldOn": "2020-12-24",
+  "forYearEnded": "2020-06-30",
+  "overview": {
+    "#": 126,
+    "TRADING CODE": "FAMILYTEX",
+    "LTP": 2.4,
+    "HIGH": 2.6,
+    "LOW": 2.4,
+    "CLOSEP": 2.4,
+    "YCP": 2.5,
+    "CHANGE": -0.1,
+    "TRADE": 240,
+    "VALUE (mn)": 2.733,
+    "VOLUME": 1106425
+  },
+  "marketInformation": {
+    "lastTradingPrice": 2.4,
+    "daysRange": [
+      2.3,
+      2.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      0.9,
+      4.6
+    ],
+    "change": 0,
+    "daysTradeNos": 117,
+    "yesterdaysClose": 2.4,
+    "daysVolumeNos": 438235,
+    "adjustedOpeningPrice": 2.4,
+    "daysValueMn": 1.05,
+    "openingPrice": 2.4,
+    "marketCapMn": 849.985,
+    "closingPrice": 2.4,
+    "freeFloatMarketCapMn": 815.878
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 4000,
+    "debutTradingDate": "2013-06-18",
+    "paidUpCapitalMn": 3541.6,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 354160388,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2013,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "-",
+    "bonusIssue": "5% 2018, 5% 2017, 5% 2016, 10% 2014, 100% 2013",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 523.9,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2020 (year ended)]",
+      "asOfDate": "2020-06-30",
+      "sponsorDirectorPct": 4.02,
+      "govtPct": 0,
+      "institutePct": 18.41,
+      "foreignPct": 0,
+      "publicPct": 77.57
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2022]",
+      "asOfDate": "2022-06-30",
+      "sponsorDirectorPct": 4.02,
+      "govtPct": 0,
+      "institutePct": 18.41,
+      "foreignPct": 0,
+      "publicPct": 77.57
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2022]",
+      "asOfDate": "2022-07-31",
+      "sponsorDirectorPct": 4.02,
+      "govtPct": 0,
+      "institutePct": 18.41,
+      "foreignPct": 0,
+      "publicPct": 77.57
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2020-09",
+      "epsBasic": -0.072,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.072,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2020-12",
+      "epsBasic": -0.062,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.062,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2.8
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2020-12",
+      "epsBasic": -0.133,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.133,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2.8
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2015,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": 0.82,
+      "epsContinuingBasicRestated": 0.79,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": 13.68,
+      "profitForTheYearMnOriginal": 13.03,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": 252.29,
+      "tciRestated": 252.29
+    },
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.044,
+      "epsContinuingBasicOriginal": -0.042,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.98,
+      "navPerShareRestated": 12.37,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -14.06,
+      "tciOriginal": -14.06,
+      "tciRestated": -14.06
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.072,
+      "epsContinuingBasicOriginal": -0.068,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.29,
+      "navPerShareRestated": 11.71,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -24.25,
+      "tciOriginal": -24.25,
+      "tciRestated": -24.25
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.08,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.63,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -28.1,
+      "tciOriginal": -28.1,
+      "tciRestated": -28.1
+    },
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.15,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -53.31,
+      "tciOriginal": -53.31,
+      "tciRestated": -53.31
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2015,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5
+    },
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "5%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "5%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "5%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "5%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Closed",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "88029881941, 9881806",
+    "fax": "88029862055",
+    "email": null,
+    "webAddress": "http://www.familytexbd.com",
+    "companySecretaryName": null,
+    "cellNo": null,
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:50.659Z",
+  "shariaCompliant": true
+}

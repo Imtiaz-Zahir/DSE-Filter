@@ -3,7 +3,7 @@ import Link from "next/link";
 import { ArrowRight, TrendingUp, TrendingDown, ShieldCheck } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Stock } from "@/lib/types";
+import { Stock, AnyStock } from "@/lib/types";
 import {
   getPeerStocks,
   getTradingCode,
@@ -29,10 +29,11 @@ import {
 
 interface PeerStocksProps {
   stock: Stock;
+  peers?: AnyStock[];
 }
 
-export function PeerStocks({ stock }: PeerStocksProps) {
-  const peers = getPeerStocks(stock, undefined, 4);
+export function PeerStocks({ stock, peers: passedPeers }: PeerStocksProps) {
+  const peers = passedPeers || getPeerStocks(stock, [], 4);
   const sector = getSector(stock);
 
   if (peers.length === 0) {

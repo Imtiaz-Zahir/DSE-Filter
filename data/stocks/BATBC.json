@@ -1,0 +1,378 @@
+{
+  "tradingCode": "BATBC",
+  "scripCode": "14259",
+  "companyName": "British American Tobacco Bangladesh Company Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BATBC",
+  "lastAGMHeldOn": "2026-04-30",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 48,
+    "TRADING CODE": "BATBC",
+    "LTP": 237.3,
+    "HIGH": 238.5,
+    "LOW": 233,
+    "CLOSEP": 237.3,
+    "YCP": 233,
+    "CHANGE": 4.3,
+    "TRADE": 995,
+    "VALUE (mn)": 21.555,
+    "VOLUME": 91124
+  },
+  "marketInformation": {
+    "lastTradingPrice": 228,
+    "daysRange": [
+      226,
+      230.8
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      205.8,
+      292.9
+    ],
+    "change": -1.8,
+    "daysTradeNos": 1119,
+    "yesterdaysClose": 229.8,
+    "daysVolumeNos": 75342,
+    "adjustedOpeningPrice": 229.8,
+    "daysValueMn": 17.19,
+    "openingPrice": 229.8,
+    "marketCapMn": 124092,
+    "closingPrice": 228,
+    "freeFloatMarketCapMn": 32817.821
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 5400,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 5400,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 540000000,
+    "sector": "Food & Allied"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1977,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "30% 2025, 300% 2024, 100% 2023, 200% 2022, 275% 2021, 600% 2020, 400% 2019, 500% 2018, 600% 2017, 600% 2016, 550% 2015",
+    "bonusIssue": "200% 2020, 200% 2018, 1B:3 1993, 1B:2 1987, 1B:4 1985",
+    "rightIssue": "n/a",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 50057.4,
+    "otherComprehensiveIncomeMn": -109,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 72.91,
+      "govtPct": 0.64,
+      "institutePct": 14.43,
+      "foreignPct": 3.23,
+      "publicPct": 8.79
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 72.91,
+      "govtPct": 0.64,
+      "institutePct": 14.38,
+      "foreignPct": 2.9,
+      "publicPct": 9.17
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 72.91,
+      "govtPct": 0.64,
+      "institutePct": 14.59,
+      "foreignPct": 2.88,
+      "publicPct": 8.98
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 3.88,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.88,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 221.3
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 3.77,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.77,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 219.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 7.65,
+      "epsDiluted": null,
+      "epsContinuingBasic": 7.65,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 219.6
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 15.51,
+        "peDiluted": null,
+        "peTrailing": 22.03
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 15.15,
+        "peDiluted": null,
+        "peTrailing": 21.52
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 15.14,
+        "peDiluted": null,
+        "peTrailing": 21.5
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 15.06,
+        "peDiluted": null,
+        "peTrailing": 21.39
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 15.02,
+        "peDiluted": null,
+        "peTrailing": 21.34
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 14.9,
+        "peDiluted": null,
+        "peTrailing": 21.17
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 21.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 21.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 21.42,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 21.31,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 21.26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 21.09,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 27.72,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 68.13,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 14968.53,
+      "tciOriginal": 14968.53,
+      "tciRestated": 14941.06
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 33.1,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 76.27,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 17872.02,
+      "tciOriginal": 17872.02,
+      "tciRestated": 17892.83
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 33.11,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 99.33,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 17878.67,
+      "tciOriginal": 17878.67,
+      "tciRestated": 17853.88
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 32.42,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 106.88,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 17508.5,
+      "tciOriginal": 17508.5,
+      "tciRestated": 17579.95
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 10.81,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 102.5,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5839.92,
+      "tciOriginal": 5839.92,
+      "tciRestated": 5730.97
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.93,
+      "dividend": "275.00",
+      "cashDividendPct": 275,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.33
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 15.67,
+      "dividend": "200.00",
+      "cashDividendPct": 200,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.86
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 15.67,
+      "dividend": "100.00",
+      "cashDividendPct": 100,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.93
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 11.34,
+      "dividend": "300.00",
+      "cashDividendPct": 300,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 8.16
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.99,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.21
+    }
+  ],
+  "financialLinks": [
+    "https://www.batbangladesh.com/investors-and-reporting/financial-statements",
+    "https://www.batbangladesh.com/investors-and-reporting/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "30.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Dehora, Dhamsona, Balibhadra Bazar, Ashulia, Dhaka-1349.",
+    "phone": "+8801755532753",
+    "fax": null,
+    "email": "syed_afzal_hossain@bat.com",
+    "webAddress": "https://www.batbangladesh.com/",
+    "companySecretaryName": "Syed Afzal Hossain",
+    "cellNo": "+88 01313 701 925",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:40.148Z",
+  "shariaCompliant": false
+}

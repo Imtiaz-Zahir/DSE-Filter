@@ -1,0 +1,352 @@
+{
+  "tradingCode": "GIB",
+  "scripCode": "11153",
+  "companyName": "Global Islami Bank PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GIB",
+  "lastAGMHeldOn": "2025-09-21",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 146,
+    "TRADING CODE": "GIB",
+    "LTP": 0,
+    "HIGH": 0,
+    "LOW": 0,
+    "CLOSEP": 1.7,
+    "YCP": 1.7,
+    "CHANGE": null,
+    "TRADE": 0,
+    "VALUE (mn)": 0,
+    "VOLUME": 0
+  },
+  "marketInformation": {
+    "lastTradingPrice": null,
+    "daysRange": [
+      null,
+      null
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      1.3,
+      2.4
+    ],
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": 1.7,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": 1.7,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 1678.647,
+    "closingPrice": 1.7,
+    "freeFloatMarketCapMn": 914.946
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 20000,
+    "debutTradingDate": "2022-11-16",
+    "paidUpCapitalMn": 9874.39,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 987439688,
+    "sector": "Bank"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2022,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "5% 2022",
+    "bonusIssue": "5% 2022",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": -31366.8,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 15.43,
+      "govtPct": 0,
+      "institutePct": 53.43,
+      "foreignPct": 0,
+      "publicPct": 31.14
+    },
+    {
+      "period": "Share Holding Percentage [as on Oct 31, 2025]",
+      "asOfDate": "2025-10-31",
+      "sponsorDirectorPct": 15.43,
+      "govtPct": 0,
+      "institutePct": 53.37,
+      "foreignPct": 0,
+      "publicPct": 31.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Nov 30, 2025]",
+      "asOfDate": "2025-11-30",
+      "sponsorDirectorPct": 15.43,
+      "govtPct": 0,
+      "institutePct": 53.15,
+      "foreignPct": 0,
+      "publicPct": 31.42
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-03",
+      "epsBasic": -7.51,
+      "epsDiluted": null,
+      "epsContinuingBasic": -7.51,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3.7
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-06",
+      "epsBasic": -9.06,
+      "epsDiluted": null,
+      "epsContinuingBasic": -9.06,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-06",
+      "epsBasic": -16.56,
+      "epsDiluted": null,
+      "epsContinuingBasic": -16.56,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3
+    },
+    {
+      "period": "Q3",
+      "endDate": "2025-09",
+      "epsBasic": -6.07,
+      "epsDiluted": null,
+      "epsContinuingBasic": -6.07,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 1.8
+    },
+    {
+      "period": "9 Months 202509",
+      "endDate": "2025-09",
+      "epsBasic": -22.63,
+      "epsDiluted": null,
+      "epsContinuingBasic": -22.63,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 1.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.56,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": 1.4,
+      "navPerShareOriginal": 15.06,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": 12.77,
+      "profitForTheYearMnRestated": 1319.39,
+      "tciOriginal": 1319.39,
+      "tciRestated": 1319.39
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.02,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.79,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 963.16,
+      "tciOriginal": 963.16,
+      "tciRestated": 963.16
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -21.79,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -9.14,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -21520.25,
+      "tciOriginal": -21520.25,
+      "tciRestated": -21520.25
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -12.62,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -21.77,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -12466.18,
+      "tciOriginal": -12466.18,
+      "tciRestated": -12466.18
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 8.79,
+      "dividend": "5.00, 5% B",
+      "cashDividendPct": 5,
+      "bonusDividendPct": "5% B",
+      "dividendYieldPct": 5.56
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.globalislamibankbd.com/financial-statement/",
+    "https://www.globalislamibankbd.com/general-psi/"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 32108.73,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "88-09617176037",
+    "fax": "88-02-222260968",
+    "email": "manjurmh@globalislamibankbd.com",
+    "webAddress": "http://www.globalislamibankbd.com",
+    "companySecretaryName": "Md.Manjur Hossain",
+    "cellNo": "01955500800",
+    "telephoneNo": "8809617176037"
+  },
+  "scrapedAt": "2026-09-11T06:59:51.761Z",
+  "shariaCompliant": true
+}

@@ -17,7 +17,7 @@ export function StockJsonLd({ stock }: StockJsonLdProps) {
     "@type": "Corporation",
     name: name,
     tickerSymbol: `DSE:${code}`,
-    url: `https://dsefilter.imtiazzahir211.workers.dev/stock/${encodeURIComponent(code)}`,
+    url: `https://dse-filter.1mt2.workers.dev/stock/${encodeURIComponent(code)}`,
     description: `${name} (${code}) listed on Dhaka Stock Exchange in the ${sector} sector.`,
     address: {
       "@type": "PostalAddress",
@@ -40,19 +40,19 @@ export function StockJsonLd({ stock }: StockJsonLdProps) {
         "@type": "ListItem",
         position: 1,
         name: "Home",
-        item: "https://dsefilter.imtiazzahir211.workers.dev",
+        item: "https://dse-filter.1mt2.workers.dev",
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Screener",
-        item: "https://dsefilter.imtiazzahir211.workers.dev",
+        item: "https://dse-filter.1mt2.workers.dev",
       },
       {
         "@type": "ListItem",
         position: 3,
         name: `${code} - ${name}`,
-        item: `https://dsefilter.imtiazzahir211.workers.dev/stock/${encodeURIComponent(code)}`,
+        item: `https://dse-filter.1mt2.workers.dev/stock/${encodeURIComponent(code)}`,
       },
     ],
   };

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import Link from "next/link";
 import {
   ArrowUpDown,
@@ -9,16 +9,7 @@ import {
   ShieldCheck,
   Columns,
   Check,
-  ExternalLink,
 } from "lucide-react";
-import {
-  Table,
-  TableHeader,
-  TableBody,
-  TableRow,
-  TableHead,
-  TableCell,
-} from "@/components/ui/table";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import {
@@ -30,7 +21,7 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu";
-import { Stock, SortConfig, SortField } from "@/lib/types";
+import { AnyStock, SortConfig, SortField } from "@/lib/types";
 import {
   getTradingCode,
   getCompanyName,
@@ -60,7 +51,7 @@ import {
 } from "@/lib/utils";
 
 interface StockTableProps {
-  stocks: Stock[];
+  stocks: AnyStock[];
   sortConfig: SortConfig;
   setSortConfig: React.Dispatch<React.SetStateAction<SortConfig>>;
   selectedCodes: string[];
@@ -82,6 +73,24 @@ type ColumnKey =
   | "debt"
   | "sponsorPct";
 
+const COLUMNS_STORAGE_KEY = "dsefilter_table_columns";
+
+const defaultVisibleColumns: Record<ColumnKey, boolean> = {
+  sector: true,
+  category: true,
+  ltp: true,
+  changePct: false,
+  pe: true,
+  divYield: true,
+  pb: true,
+  nav: true,
+  eps: true,
+  marketCap: true,
+  turnover: false,
+  debt: false,
+  sponsorPct: false,
+};
+
 export function StockTable({
   stocks,
   sortConfig,
@@ -89,24 +98,39 @@ export function StockTable({
   selectedCodes,
   onToggleSelect,
 }: StockTableProps) {
-  const [visibleColumns, setVisibleColumns] = useState<Record<ColumnKey, boolean>>({
-    sector: true,
-    category: true,
-    ltp: true,
-    changePct: true,
-    pe: true,
-    divYield: true,
-    pb: true,
-    nav: true,
-    eps: true,
-    marketCap: true,
-    turnover: true,
-    debt: false,
-    sponsorPct: false,
+  const [visibleColumns, setVisibleColumns] = useState<Record<ColumnKey, boolean>>(() => {
+    if (typeof window !== "undefined") {
+      try {
+        const saved = localStorage.getItem(COLUMNS_STORAGE_KEY);
+        if (saved) {
+          return { ...defaultVisibleColumns, ...JSON.parse(saved) };
+        }
+      } catch {}
+    }
+    return defaultVisibleColumns;
   });
 
+  const [isScrolled, setIsScrolled] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+
   const toggleColumn = (key: ColumnKey) => {
-    setVisibleColumns((prev) => ({ ...prev, [key]: !prev[key] }));
+    setVisibleColumns((prev) => {
+      const updated = { ...prev, [key]: !prev[key] };
+      try {
+        localStorage.setItem(COLUMNS_STORAGE_KEY, JSON.stringify(updated));
+      } catch {}
+      return updated;
+    });
+  };
+
+  const handleScroll = () => {
+    if (containerRef.current) {
+      setIsScrolled(containerRef.current.scrollTop > 80);
+    }
+  };
+
+  const scrollToTop = () => {
+    containerRef.current?.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const handleSort = (field: SortField) => {
@@ -153,244 +177,262 @@ export function StockTable({
 
   return (
     <div className="space-y-2">
-      {/* Table Top Controls (Column Customizer) */}
+      {/* Table Top Controls (Column Customizer & Scroll to Top Action) */}
       <div className="flex items-center justify-between px-1">
         <span className="text-xs text-muted-foreground">
-          Showing {stocks.length} records • Click header to sort
+          Showing <span className="font-semibold text-foreground">{stocks.length}</span> records • Click header to sort
         </span>
-        <DropdownMenu>
-          <DropdownMenuTrigger
-            render={
-              <Button variant="outline" size="xs" className="h-7 gap-1 text-[11px]">
-                <Columns className="size-3" />
-                <span>Columns</span>
-              </Button>
-            }
-          />
-          <DropdownMenuContent align="end" className="w-48 text-xs">
-            <DropdownMenuGroup>
-              <DropdownMenuLabel className="text-[11px] text-muted-foreground uppercase">
-                Toggle Columns
-              </DropdownMenuLabel>
-              <DropdownMenuSeparator />
-              {columnsList.map((col) => (
-                <DropdownMenuItem
-                  key={col.key}
-                  onClick={() => toggleColumn(col.key)}
-                  className="flex items-center justify-between cursor-pointer py-1.5"
-                >
-                  <span>{col.label}</span>
-                  {visibleColumns[col.key] && <Check className="size-3.5 text-primary" />}
-                </DropdownMenuItem>
-              ))}
-            </DropdownMenuGroup>
-          </DropdownMenuContent>
-        </DropdownMenu>
+        <div className="flex items-center gap-1.5">
+          {isScrolled && (
+            <Button
+              variant="ghost"
+              size="xs"
+              onClick={scrollToTop}
+              className="h-7 gap-1 text-[11px] text-muted-foreground hover:text-foreground"
+              title="Scroll to top of table"
+            >
+              <ArrowUp className="size-3" />
+              <span>To Top</span>
+            </Button>
+          )}
+          <DropdownMenu>
+            <DropdownMenuTrigger
+              render={
+                <Button variant="outline" size="xs" className="h-7 gap-1 text-[11px]">
+                  <Columns className="size-3" />
+                  <span>Columns</span>
+                </Button>
+              }
+            />
+            <DropdownMenuContent align="end" className="w-48 text-xs">
+              <DropdownMenuGroup>
+                <DropdownMenuLabel className="text-[11px] text-muted-foreground uppercase">
+                  Toggle Columns
+                </DropdownMenuLabel>
+                <DropdownMenuSeparator />
+                {columnsList.map((col) => (
+                  <DropdownMenuItem
+                    key={col.key}
+                    onClick={() => toggleColumn(col.key)}
+                    className="flex items-center justify-between cursor-pointer py-1.5"
+                  >
+                    <span>{col.label}</span>
+                    {visibleColumns[col.key] && <Check className="size-3.5 text-primary" />}
+                  </DropdownMenuItem>
+                ))}
+              </DropdownMenuGroup>
+            </DropdownMenuContent>
+          </DropdownMenu>
+        </div>
       </div>
 
-      {/* Table Container */}
-      <div className="relative rounded-xl border border-border/70 bg-card overflow-hidden shadow-2xs">
-        <div className="overflow-x-auto">
-          <Table>
-            <TableHeader className="bg-muted/40">
-              <TableRow className="hover:bg-transparent border-b border-border/80">
-                {/* Compare Checkbox */}
-                <TableHead className="w-10 px-2.5 text-center">
+      {/* Table Container with Sticky Scroll Container */}
+      <div className="relative rounded-xl border border-border/80 bg-card overflow-hidden shadow-xs">
+        <div
+          ref={containerRef}
+          onScroll={handleScroll}
+          className="overflow-auto max-h-[calc(100vh-13.5rem)] sm:max-h-[calc(100vh-14rem)] min-h-[480px] scrollbar-thin"
+        >
+          <table className="w-full caption-bottom text-sm border-separate border-spacing-0">
+            <thead className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md shadow-xs">
+              <tr className="hover:bg-transparent">
+                {/* Compare Checkbox Header */}
+                <th className="sticky top-0 left-0 z-30 w-10 min-w-10 max-w-10 bg-muted/95 dark:bg-card/95 backdrop-blur-md px-2.5 text-center border-b border-border/80 h-10 align-middle">
                   <span className="sr-only">Compare</span>
-                </TableHead>
+                </th>
 
-                {/* Sticky Trading Code Column */}
-                <TableHead
+                {/* Sticky Trading Code Column Header */}
+                <th
                   onClick={() => handleSort("tradingCode")}
-                  className="sticky left-0 z-20 bg-muted/90 backdrop-blur-xs min-w-[130px] sm:min-w-[160px] cursor-pointer hover:text-foreground font-semibold"
+                  className="sticky top-0 left-10 z-30 bg-muted/95 dark:bg-card/95 backdrop-blur-md min-w-[130px] sm:min-w-[160px] cursor-pointer hover:text-foreground font-semibold text-left px-2 border-b border-border/80 h-10 align-middle shadow-[2px_0_4px_-2px_rgba(0,0,0,0.15)] dark:shadow-[2px_0_4px_-2px_rgba(0,0,0,0.4)]"
                 >
                   <div className="flex items-center">
                     <span>Trading Code</span>
                     {renderSortIcon("tradingCode")}
                   </div>
-                </TableHead>
+                </th>
 
                 {/* Sector */}
                 {visibleColumns.sector && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("sector")}
-                    className="cursor-pointer hover:text-foreground hidden md:table-cell min-w-[120px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground hidden md:table-cell min-w-[120px] text-left px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center">
                       <span>Sector</span>
                       {renderSortIcon("sector")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Category */}
                 {visibleColumns.category && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("category")}
-                    className="cursor-pointer hover:text-foreground text-center w-16"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-center w-16 px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-center">
                       <span>Cat</span>
                       {renderSortIcon("category")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* LTP */}
                 {visibleColumns.ltp && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("ltp")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[90px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>LTP (৳)</span>
                       {renderSortIcon("ltp")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Change % */}
                 {visibleColumns.changePct && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("changePct")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[90px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Change %</span>
                       {renderSortIcon("changePct")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* P/E */}
                 {visibleColumns.pe && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("pe")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-20"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-20 px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>P/E</span>
                       {renderSortIcon("pe")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Div Yield */}
                 {visibleColumns.divYield && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("divYield")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-20"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-20 px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Yield %</span>
                       {renderSortIcon("divYield")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* P/B */}
                 {visibleColumns.pb && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("pb")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-16"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-16 px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>P/B</span>
                       {renderSortIcon("pb")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* NAV */}
                 {visibleColumns.nav && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("nav")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>NAV (৳)</span>
                       {renderSortIcon("nav")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* EPS */}
                 {visibleColumns.eps && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("eps")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>EPS (৳)</span>
                       {renderSortIcon("eps")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Market Cap */}
                 {visibleColumns.marketCap && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("marketCap")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[110px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[110px] px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Mkt Cap</span>
                       {renderSortIcon("marketCap")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Turnover */}
                 {visibleColumns.turnover && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("turnover")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[100px] hidden md:table-cell"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[100px] hidden md:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Turnover</span>
                       {renderSortIcon("turnover")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Long Term Debt */}
                 {visibleColumns.debt && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("debt")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[90px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Debt (Mn)</span>
                       {renderSortIcon("debt")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
 
                 {/* Sponsor % */}
                 {visibleColumns.sponsorPct && (
-                  <TableHead
+                  <th
                     onClick={() => handleSort("sponsorPct")}
-                    className="cursor-pointer hover:text-foreground text-right min-w-[90px]"
+                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
                   >
                     <div className="flex items-center justify-end">
                       <span>Sponsor %</span>
                       {renderSortIcon("sponsorPct")}
                     </div>
-                  </TableHead>
+                  </th>
                 )}
-              </TableRow>
-            </TableHeader>
+              </tr>
+            </thead>
 
-            <TableBody>
+            <tbody>
               {stocks.length === 0 ? (
-                <TableRow>
-                  <TableCell
+                <tr>
+                  <td
                     colSpan={14}
                     className="h-32 text-center text-sm text-muted-foreground"
                   >
                     No stocks match the current filter criteria.
-                  </TableCell>
-                </TableRow>
+                  </td>
+                </tr>
               ) : (
                 stocks.map((stock) => {
                   const code = getTradingCode(stock);
@@ -412,14 +454,20 @@ export function StockTable({
                   const sector = getSector(stock);
 
                   return (
-                    <TableRow
+                    <tr
                       key={code}
                       className={`group transition-colors hover:bg-muted/40 ${
                         isChecked ? "bg-primary/5 dark:bg-primary/10" : ""
                       }`}
                     >
                       {/* Compare Checkbox */}
-                      <TableCell className="px-2.5 text-center">
+                      <td
+                        className={`sticky left-0 z-10 w-10 min-w-10 max-w-10 px-2.5 text-center transition-colors border-b border-border/40 ${
+                          isChecked
+                            ? "bg-primary/10 group-hover:bg-primary/15"
+                            : "bg-card group-hover:bg-muted/70"
+                        }`}
+                      >
                         <input
                           type="checkbox"
                           checked={isChecked}
@@ -427,10 +475,16 @@ export function StockTable({
                           aria-label={`Compare ${code}`}
                           className="size-3.5 rounded border-border text-primary focus:ring-primary cursor-pointer"
                         />
-                      </TableCell>
+                      </td>
 
                       {/* Sticky Trading Code Column */}
-                      <TableCell className="sticky left-0 z-10 bg-card group-hover:bg-muted/60 transition-colors font-medium">
+                      <td
+                        className={`sticky left-10 z-10 transition-colors font-medium px-2 py-2 border-b border-border/40 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.15)] dark:shadow-[2px_0_4px_-2px_rgba(0,0,0,0.4)] ${
+                          isChecked
+                            ? "bg-primary/10 group-hover:bg-primary/15"
+                            : "bg-card group-hover:bg-muted/70"
+                        }`}
+                      >
                         <Link
                           href={`/stock/${encodeURIComponent(code)}`}
                           className="flex flex-col group-hover:text-primary"
@@ -452,119 +506,119 @@ export function StockTable({
                             {stock.companyName}
                           </span>
                         </Link>
-                      </TableCell>
+                      </td>
 
                       {/* Sector */}
                       {visibleColumns.sector && (
-                        <TableCell className="hidden md:table-cell text-xs text-muted-foreground truncate max-w-[130px]">
+                        <td className="hidden md:table-cell text-xs text-muted-foreground truncate max-w-[130px] px-2 py-2 border-b border-border/40">
                           {sector}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Category */}
                       {visibleColumns.category && (
-                        <TableCell className="text-center">
+                        <td className="text-center px-2 py-2 border-b border-border/40">
                           <Badge
                             variant={getCategoryBadgeVariant(cat)}
                             className="text-[10px] px-1.5 py-0 h-4.5 font-bold"
                           >
                             {cat}
                           </Badge>
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* LTP */}
                       {visibleColumns.ltp && (
-                        <TableCell className="text-right font-semibold text-xs sm:text-sm text-foreground">
+                        <td className="text-right font-semibold text-xs sm:text-sm text-foreground px-2 py-2 border-b border-border/40">
                           {formatBDT(ltp)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Change % */}
                       {visibleColumns.changePct && (
-                        <TableCell
-                          className={`text-right font-semibold text-xs ${getChangeColorClass(
+                        <td
+                          className={`text-right font-semibold text-xs px-2 py-2 border-b border-border/40 ${getChangeColorClass(
                             chg
                           )}`}
                         >
                           {formatPct(chgPct)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* P/E */}
                       {visibleColumns.pe && (
-                        <TableCell className="text-right text-xs font-medium">
+                        <td className="text-right text-xs font-medium px-2 py-2 border-b border-border/40">
                           {pe !== null ? `${formatNumber(pe)}x` : "-"}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Yield % */}
                       {visibleColumns.divYield && (
-                        <TableCell className="text-right text-xs font-medium">
+                        <td className="text-right text-xs font-medium px-2 py-2 border-b border-border/40">
                           {yieldPct !== null ? `${formatNumber(yieldPct)}%` : "-"}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* P/B */}
                       {visibleColumns.pb && (
-                        <TableCell className="text-right text-xs text-muted-foreground">
+                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
                           {pb !== null ? `${formatNumber(pb)}x` : "-"}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* NAV */}
                       {visibleColumns.nav && (
-                        <TableCell className="text-right text-xs text-muted-foreground hidden sm:table-cell">
+                        <td className="text-right text-xs text-muted-foreground hidden sm:table-cell px-2 py-2 border-b border-border/40">
                           {formatBDT(nav)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* EPS */}
                       {visibleColumns.eps && (
-                        <TableCell
-                          className={`text-right text-xs font-medium hidden sm:table-cell ${
+                        <td
+                          className={`text-right text-xs font-medium hidden sm:table-cell px-2 py-2 border-b border-border/40 ${
                             eps !== null && eps < 0
                               ? "text-rose-600 dark:text-rose-400"
                               : "text-foreground"
                           }`}
                         >
                           {formatBDT(eps)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Market Cap */}
                       {visibleColumns.marketCap && (
-                        <TableCell className="text-right text-xs font-medium text-foreground">
+                        <td className="text-right text-xs font-medium text-foreground px-2 py-2 border-b border-border/40">
                           {formatLargeNumber(mktCap)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Turnover */}
                       {visibleColumns.turnover && (
-                        <TableCell className="text-right text-xs text-muted-foreground hidden md:table-cell">
+                        <td className="text-right text-xs text-muted-foreground hidden md:table-cell px-2 py-2 border-b border-border/40">
                           {formatLargeNumber(turnover)}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Debt */}
                       {visibleColumns.debt && (
-                        <TableCell className="text-right text-xs text-muted-foreground">
+                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
                           {debt > 0 ? `৳${formatNumber(debt)}M` : "Nil"}
-                        </TableCell>
+                        </td>
                       )}
 
                       {/* Sponsor % */}
                       {visibleColumns.sponsorPct && (
-                        <TableCell className="text-right text-xs text-muted-foreground">
+                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
                           {sponsorPct !== null ? `${formatNumber(sponsorPct)}%` : "-"}
-                        </TableCell>
+                        </td>
                       )}
-                    </TableRow>
+                    </tr>
                   );
                 })
               )}
-            </TableBody>
-          </Table>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>

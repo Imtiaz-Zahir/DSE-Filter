@@ -13,7 +13,7 @@ import {
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { Stock } from "@/lib/types";
+import { AnyStock } from "@/lib/types";
 import {
   getTradingCode,
   getCompanyName,
@@ -42,7 +42,7 @@ import {
 } from "@/lib/utils";
 
 interface StockGridProps {
-  stocks: Stock[];
+  stocks: AnyStock[];
   selectedCodes: string[];
   onToggleSelect: (code: string) => void;
 }

@@ -1,0 +1,375 @@
+{
+  "tradingCode": "TUNGHAI",
+  "scripCode": "17463",
+  "companyName": "Tung Hai Knitting & Dyeing Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TUNGHAI",
+  "lastAGMHeldOn": "2022-12-12",
+  "forYearEnded": "2022-06-30",
+  "overview": {
+    "#": 373,
+    "TRADING CODE": "TUNGHAI",
+    "LTP": 4.2,
+    "HIGH": 4.6,
+    "LOW": 4.2,
+    "CLOSEP": 4.2,
+    "YCP": 4.5,
+    "CHANGE": -0.3,
+    "TRADE": 180,
+    "VALUE (mn)": 1.843,
+    "VOLUME": 432769
+  },
+  "marketInformation": {
+    "lastTradingPrice": 4.3,
+    "daysRange": [
+      4.1,
+      4.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      1.1,
+      6
+    ],
+    "change": 0,
+    "daysTradeNos": 91,
+    "yesterdaysClose": 4.3,
+    "daysVolumeNos": 129151,
+    "adjustedOpeningPrice": 4.3,
+    "daysValueMn": 0.54,
+    "openingPrice": 4.5,
+    "marketCapMn": 458.608,
+    "closingPrice": 4.2,
+    "freeFloatMarketCapMn": 320.848
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1500,
+    "debutTradingDate": "2014-09-01",
+    "paidUpCapitalMn": 1066.53,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 106653030,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2014,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "1.TK 25,983,413 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2022 (year ended)]",
+      "asOfDate": "2022-06-30",
+      "sponsorDirectorPct": 30.04,
+      "govtPct": 0,
+      "institutePct": 7.46,
+      "foreignPct": 0,
+      "publicPct": 62.5
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2023]",
+      "asOfDate": "2023-06-30",
+      "sponsorDirectorPct": 30.04,
+      "govtPct": 0,
+      "institutePct": 7.68,
+      "foreignPct": 0,
+      "publicPct": 62.28
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2023]",
+      "asOfDate": "2023-07-31",
+      "sponsorDirectorPct": 30.04,
+      "govtPct": 0,
+      "institutePct": 7.58,
+      "foreignPct": 0,
+      "publicPct": 62.38
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2022-09",
+      "epsBasic": -0.07,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.07,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.8
+    },
+    {
+      "period": "Q2",
+      "endDate": "2022-12",
+      "epsBasic": -0.13,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.13,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.8
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2022-12",
+      "epsBasic": -0.13,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.13,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.8
+    },
+    {
+      "period": "Q3",
+      "endDate": "2023-03",
+      "epsBasic": -0.04,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.04,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.8
+    },
+    {
+      "period": "9 Months 202303",
+      "endDate": "2023-03",
+      "epsBasic": -0.17,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.17,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2015,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": 1.08,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": 12.66,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": 104.88,
+      "tciRestated": 104.88
+    },
+    {
+      "year": null,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.58,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 56.02,
+      "tciOriginal": 56.02,
+      "tciRestated": 56.02
+    },
+    {
+      "year": null,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.66,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.24,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 160.9,
+      "tciOriginal": 160.9,
+      "tciRestated": 160.9
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.29,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -5.76,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -30.4,
+      "tciOriginal": -30.4,
+      "tciRestated": -30.4
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.42,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -6.18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -45.14,
+      "tciOriginal": -45.14,
+      "tciRestated": -45.14
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2015,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": null,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 17.83,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": null,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 6.2,
+      "dividend": "10%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Closed",
+    "longTermLoanMn": 531.23,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+88-02-9006502-3, +88-02-9010398",
+    "fax": "+88-02-9006501",
+    "email": null,
+    "webAddress": "http://tunghaiknittingdl.com",
+    "companySecretaryName": null,
+    "cellNo": null,
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:20.842Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "SILVAPHL",
+  "scripCode": "18493",
+  "companyName": "Silva Pharmaceuticals Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SILVAPHL",
+  "lastAGMHeldOn": "2025-12-30",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 341,
+    "TRADING CODE": "SILVAPHL",
+    "LTP": 13.5,
+    "HIGH": 13.9,
+    "LOW": 13.4,
+    "CLOSEP": 13.5,
+    "YCP": 13.7,
+    "CHANGE": -0.2,
+    "TRADE": 357,
+    "VALUE (mn)": 6.029,
+    "VOLUME": 442492
+  },
+  "marketInformation": {
+    "lastTradingPrice": 12.6,
+    "daysRange": [
+      12.5,
+      13.3
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      7.6,
+      18
+    ],
+    "change": -0.4,
+    "daysTradeNos": 235,
+    "yesterdaysClose": 13,
+    "daysVolumeNos": 278701,
+    "adjustedOpeningPrice": 13,
+    "daysValueMn": 3.56,
+    "openingPrice": 13.3,
+    "marketCapMn": 1774.5,
+    "closingPrice": 12.6,
+    "freeFloatMarketCapMn": 800.537
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1500,
+    "debutTradingDate": "2018-10-10",
+    "paidUpCapitalMn": 1365,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 136500000,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2018,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "1% 2024, 1% 2023, 3% 2022, 5% 2021, 5% 2020, 6% 2019",
+    "bonusIssue": "5% 2019",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 748,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 45.21,
+      "govtPct": 0,
+      "institutePct": 16.84,
+      "foreignPct": 0.01,
+      "publicPct": 37.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 45.16,
+      "govtPct": 0,
+      "institutePct": 17.86,
+      "foreignPct": 0.01,
+      "publicPct": 36.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 45.15,
+      "govtPct": 0,
+      "institutePct": 16.18,
+      "foreignPct": 0.01,
+      "publicPct": 38.66
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -0.26,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.26,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 12
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.26,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.26,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 9.4
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -0.52,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.52,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 9.4
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -0.2,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.2,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 11
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -0.72,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.72,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 11
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.88,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 16.63,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 119.85,
+      "tciOriginal": 119.85,
+      "tciRestated": 119.85
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.75,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.03,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 102.26,
+      "tciOriginal": 102.26,
+      "tciRestated": 102.26
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.24,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.1,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 33.08,
+      "tciOriginal": 33.08,
+      "tciRestated": 33.08
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.47,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 16.53,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -64.48,
+      "tciOriginal": -64.48,
+      "tciRestated": -64.48
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.97,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 15.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -132.95,
+      "tciOriginal": -132.95,
+      "tciRestated": -132.95
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.44,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.54
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 32.17,
+      "dividend": "3.00",
+      "cashDividendPct": 3,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.01
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 89.14,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.46
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.7
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "http://Annual Reports – Silva Pharmaceuticals Ltd.",
+    "http://Price Sensitive Information – Silva Pharmaceuticals Ltd."
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Joykrishnapur, Main Road, Maijdee Court, Noakhali.",
+    "phone": "+88-02-55000692, +88-02-55000952",
+    "fax": "+88-02-55000693",
+    "email": "hossainiqbal.md123@gmail.com",
+    "webAddress": "http://www.silvapharma.com",
+    "companySecretaryName": "Md. Iqbal Hossain",
+    "cellNo": "01711891686",
+    "telephoneNo": "+88-02-9146009-205"
+  },
+  "scrapedAt": "2026-09-11T07:00:16.652Z",
+  "shariaCompliant": true
+}

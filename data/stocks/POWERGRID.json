@@ -1,0 +1,378 @@
+{
+  "tradingCode": "POWERGRID",
+  "scripCode": "15308",
+  "companyName": "Power Grid Company of Bangladesh Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=POWERGRID",
+  "lastAGMHeldOn": "2026-01-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 279,
+    "TRADING CODE": "POWERGRID",
+    "LTP": 39.2,
+    "HIGH": 39.5,
+    "LOW": 38.4,
+    "CLOSEP": 39.2,
+    "YCP": 38.7,
+    "CHANGE": 0.5,
+    "TRADE": 157,
+    "VALUE (mn)": 2.715,
+    "VOLUME": 69281
+  },
+  "marketInformation": {
+    "lastTradingPrice": 38.1,
+    "daysRange": [
+      38.1,
+      38.7
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      25.6,
+      42.8
+    ],
+    "change": 0,
+    "daysTradeNos": 50,
+    "yesterdaysClose": 38.1,
+    "daysVolumeNos": 16897,
+    "adjustedOpeningPrice": 38.1,
+    "daysValueMn": 0.65,
+    "openingPrice": 38.7,
+    "marketCapMn": 34816.046,
+    "closingPrice": 38.2,
+    "freeFloatMarketCapMn": 6788.411
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 150000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 9138.07,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 913806991,
+    "sector": "Fuel & Power"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2006,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "10% 2023, 10% 2022, 20% 2021, 20% 2020, 20% 2019, 17% 2018, 15% 2017, 12% 2016, 15% 2015",
+    "bonusIssue": "10% 2012, 15% 2010",
+    "rightIssue": "n/a",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": -14876.5,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "Note:1. Total Paid-up shares of the company is 1,106,03,17,990 including 913,806,991 ordinary shares and 1,014,65,10,999 Irredeemable and Noncumulative Preference Shares 2. Market Cap. and share holding of the company is shown based on ordinary shares only."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 58.5,
+      "govtPct": 22,
+      "institutePct": 14.61,
+      "foreignPct": 0.01,
+      "publicPct": 4.88
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 58.5,
+      "govtPct": 22,
+      "institutePct": 14.7,
+      "foreignPct": 0.01,
+      "publicPct": 4.79
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 58.5,
+      "govtPct": 22,
+      "institutePct": 14.66,
+      "foreignPct": 0.01,
+      "publicPct": 4.83
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 3.98,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.98,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 33.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 1.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 26.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 5.22,
+      "epsDiluted": null,
+      "epsContinuingBasic": 5.22,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 26.7
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 1.03,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.03,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 30
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 6.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 30
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 4.71,
+        "peDiluted": null,
+        "peTrailing": 9.16
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 4.57,
+        "peDiluted": null,
+        "peTrailing": 8.88
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 4.59,
+        "peDiluted": null,
+        "peTrailing": 8.93
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 4.58,
+        "peDiluted": null,
+        "peTrailing": 8.9
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 4.58,
+        "peDiluted": null,
+        "peTrailing": 8.9
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 4.59,
+        "peDiluted": null,
+        "peTrailing": 8.93
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.74,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 120.67,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3378.68,
+      "tciOriginal": 3378.68,
+      "tciRestated": 3378.68
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.72,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 133.66,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1229.15,
+      "tciOriginal": 1229.15,
+      "tciRestated": 1229.15
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -8.79,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 159.47,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -6265.74,
+      "tciOriginal": -6265.74,
+      "tciRestated": -6265.74
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -5.01,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 132.61,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -4574.69,
+      "tciOriginal": -4574.69,
+      "tciRestated": -4574.69
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.3,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 139.29,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -2106.24,
+      "tciOriginal": -2106.24,
+      "tciRestated": -2106.24
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.43,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.47
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 32.99,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.76
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.91
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://erp.powergrid.gov.bd/w/report/eyJpdiI6IjY1ckh1WDZpWUxZQldibU1KcG0zekE9PSIsInZhbHVlIjoibnlpTE54SHhobDVJQ1RhMlpmMmtRdz09IiwibWFjIjoiNGNmNTQ4YzBhMWM4YWI0Y2UwN2E1MGI1Y2FkYTI5NjZmNDNhOTVhMjZiYzExMz",
+    "https://powergrid.gov.bd/site/page/02ebf1e9-04c2-4f6c-9831-19544c85d73c"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 596920.24,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "02 226600936-39, Cell- +88 01713 850 344",
+    "fax": "02 2266 00925",
+    "email": "jahangirazad1972@gmail.com, secretary.cs@pgcb.gov.bd",
+    "webAddress": "http://www.powergrid.gov.bd",
+    "companySecretaryName": "Md. Jahangir Azad",
+    "cellNo": "+88 01755 639 570",
+    "telephoneNo": "02 2266 00934"
+  },
+  "scrapedAt": "2026-09-11T07:00:09.092Z",
+  "shariaCompliant": false
+}

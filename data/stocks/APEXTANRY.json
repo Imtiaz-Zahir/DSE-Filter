@@ -1,0 +1,378 @@
+{
+  "tradingCode": "APEXTANRY",
+  "scripCode": "23601",
+  "companyName": "Apex Tannery Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=APEXTANRY",
+  "lastAGMHeldOn": "2025-12-30",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 34,
+    "TRADING CODE": "APEXTANRY",
+    "LTP": 103.8,
+    "HIGH": 104.7,
+    "LOW": 102.9,
+    "CLOSEP": 103.8,
+    "YCP": 103.6,
+    "CHANGE": 0.2,
+    "TRADE": 238,
+    "VALUE (mn)": 3.931,
+    "VOLUME": 37864
+  },
+  "marketInformation": {
+    "lastTradingPrice": 93.4,
+    "daysRange": [
+      92.7,
+      98
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      51.1,
+      129.5
+    ],
+    "change": -2,
+    "daysTradeNos": 281,
+    "yesterdaysClose": 95.4,
+    "daysVolumeNos": 62915,
+    "adjustedOpeningPrice": 95.4,
+    "daysValueMn": 5.94,
+    "openingPrice": 98,
+    "marketCapMn": 1453.896,
+    "closingPrice": 93.4,
+    "freeFloatMarketCapMn": 868.772
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 500,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 152.4,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 15240000,
+    "sector": "Tannery Industries"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1985,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "5% 2024, 5% 2023, 10% 2022, 10% 2021, 12% 2020, 35% 2019, 40% 2018, 40% 2017, 40% 2016, 45% 2015, 45% 2014, 40% 2013, 35% 2012, 30% 2011, 25% 2010, 21% 2009, 17% 2008, 17% 2007, 15% 2006, 13% 2005, 12% 2004, 12% 2003, 15% 2002, 12% 2001, 12% 2000, 25% 1998, 25% 1997, 30% 1996, 30% 1995, 25% 1994, 25% 1993, 25% 1992, 25% 1991, 20% 1990, 17% 1989,17% 1988, 20% 1987, 20% 1986",
+    "bonusIssue": "n/a",
+    "rightIssue": "1:1/96",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": -117.6,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 34.82,
+      "govtPct": 0,
+      "institutePct": 29.33,
+      "foreignPct": 0,
+      "publicPct": 35.85
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 34.82,
+      "govtPct": 0,
+      "institutePct": 26.05,
+      "foreignPct": 0,
+      "publicPct": 39.13
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 34.82,
+      "govtPct": 0,
+      "institutePct": 26.35,
+      "foreignPct": 0,
+      "publicPct": 38.83
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -4.98,
+      "epsDiluted": null,
+      "epsContinuingBasic": -4.98,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 76.5
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -5.8,
+      "epsDiluted": null,
+      "epsContinuingBasic": -5.8,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 58.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -10.78,
+      "epsDiluted": null,
+      "epsContinuingBasic": -10.78,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 58.6
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -4.78,
+      "epsDiluted": null,
+      "epsContinuingBasic": -4.78,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 68.8
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -15.56,
+      "epsDiluted": null,
+      "epsContinuingBasic": -15.56,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 68.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.34,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 63.17,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5.22,
+      "tciOriginal": 5.22,
+      "tciRestated": 7.19
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 63.39,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 12.51,
+      "tciOriginal": 12.51,
+      "tciRestated": 18.63
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -8.17,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 54.85,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -124.47,
+      "tciOriginal": -124.47,
+      "tciRestated": -114.86
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -8.31,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 45.43,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -126.64,
+      "tciOriginal": -126.64,
+      "tciRestated": -135.95
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -14.62,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 30.19,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -222.84,
+      "tciOriginal": -222.84,
+      "tciRestated": -222.84
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 317.83,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.92
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 184.85,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.66
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.36
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.55
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://apextannery.com/qreport.html",
+    "https://apextannery.com/pricesen.html"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Plot # XA1, XA2, XA3 and XS8 BSCIC Chamra Shilpa Nagari Harindhara, Hemayetpur, Savar, Dhaka-1340",
+    "phone": "0174299096",
+    "fax": null,
+    "email": "sushanta@apextannery.com",
+    "webAddress": "http://www.apextannery.com",
+    "companySecretaryName": "Sushanta Kumar Paul, FCS",
+    "cellNo": "01714 299096",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:37.013Z",
+  "shariaCompliant": false
+}

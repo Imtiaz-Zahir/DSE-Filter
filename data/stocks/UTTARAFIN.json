@@ -1,0 +1,378 @@
+{
+  "tradingCode": "UTTARAFIN",
+  "scripCode": "11114",
+  "companyName": "Uttara Finance and Investments Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UTTARAFIN",
+  "lastAGMHeldOn": "2020-09-30",
+  "forYearEnded": "2019-12-31",
+  "overview": {
+    "#": 385,
+    "TRADING CODE": "UTTARAFIN",
+    "LTP": 12.7,
+    "HIGH": 13,
+    "LOW": 12.7,
+    "CLOSEP": 12.9,
+    "YCP": 12.9,
+    "CHANGE": -0.2,
+    "TRADE": 13,
+    "VALUE (mn)": 0.066,
+    "VOLUME": 5155
+  },
+  "marketInformation": {
+    "lastTradingPrice": 12.3,
+    "daysRange": [
+      11.5,
+      12.5
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      8.9,
+      15.4
+    ],
+    "change": -0.2,
+    "daysTradeNos": 9,
+    "yesterdaysClose": 12.5,
+    "daysVolumeNos": 1015,
+    "adjustedOpeningPrice": 12.5,
+    "daysValueMn": 0.01,
+    "openingPrice": 11.5,
+    "marketCapMn": 1643.519,
+    "closingPrice": 12.3,
+    "freeFloatMarketCapMn": 675.054
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 5000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1314.82,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 131481504,
+    "sector": "Financial Institutions"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1997,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "15% 2019, 20% 2018, 30% 2017, 30% 2016, 30% 2015, 20% 2014",
+    "bonusIssue": "5% 2019, 10% 2014, 10% 2012, 40% 2011, 40% 2010, 25% 2009, 20% 2006,10% 2004",
+    "rightIssue": "1R:3 2010, 1R:1 2004",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 5977.6,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2019 (year ended)]",
+      "asOfDate": "2019-12-31",
+      "sponsorDirectorPct": 48.34,
+      "govtPct": 0,
+      "institutePct": 34.96,
+      "foreignPct": 3.91,
+      "publicPct": 12.79
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 44.44,
+      "govtPct": 0,
+      "institutePct": 31.71,
+      "foreignPct": 7.82,
+      "publicPct": 16.03
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 44.44,
+      "govtPct": 0,
+      "institutePct": 31.62,
+      "foreignPct": 7.82,
+      "publicPct": 16.12
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2020-03",
+      "epsBasic": 1.77,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.77,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 46
+    },
+    {
+      "period": "Q2",
+      "endDate": "2020-06",
+      "epsBasic": 1.1,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.1,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 43.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2020-06",
+      "epsBasic": 2.87,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.87,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 43.6
+    },
+    {
+      "period": "Q3",
+      "endDate": "2020-09",
+      "epsBasic": -1.19,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.19,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 54.1
+    },
+    {
+      "period": "9 Months 202009",
+      "endDate": "2020-09",
+      "epsBasic": 1.68,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.68,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 54.1
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 5.76,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 5.63,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 5.58,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 5.58,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 5.58,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 5.49,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 1.37,
+        "peDiluted": 1.43
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 1.33,
+        "peDiluted": 1.4
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 1.32,
+        "peDiluted": 1.39
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 1.32,
+        "peDiluted": 1.39
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 1.32,
+        "peDiluted": 1.39
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 1.3,
+        "peDiluted": 1.37
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2015,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 41.87,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 551.69,
+      "tciOriginal": 551.69,
+      "tciRestated": 551.69
+    },
+    {
+      "year": 2016,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 6.62,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 45.49,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 829.37,
+      "tciOriginal": 829.37,
+      "tciRestated": 829.37
+    },
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 7.25,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 49.74,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 907.71,
+      "tciOriginal": 907.71,
+      "tciRestated": 907.71
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 8.27,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 55,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1034.95,
+      "tciOriginal": 1034.95,
+      "tciRestated": 1034.95
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 9.45,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 62.45,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1183.22,
+      "tciOriginal": 1183.22,
+      "tciRestated": 1183.22
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2015,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 13.81,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.93
+    },
+    {
+      "year": 2016,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.26,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.89
+    },
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.03,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.13
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.91,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.06
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 5.82,
+      "dividend": "15.00, 5% B",
+      "cashDividendPct": 15,
+      "bonusDividendPct": "5% B",
+      "dividendYieldPct": 2.73
+    }
+  ],
+  "financialLinks": [
+    "http://www.uttarafinance.com/financials-reports",
+    "http://www.uttarafinance.com/psi"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 6851.68,
+    "latestDividendStatus": "15.00, 5% B for 2019"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "+880-2-41025093-97",
+    "fax": "+880-2-41025100",
+    "email": "cs@uttarafinance.com; atiqul@uttarafinance.com",
+    "webAddress": "http://www.uttarafinance.com",
+    "companySecretaryName": "Atiqul Islam Chowdhury (In-charge)",
+    "cellNo": "+88 01676969599",
+    "telephoneNo": "+880-2-41025081-83"
+  },
+  "scrapedAt": "2026-09-11T07:00:25.778Z",
+  "shariaCompliant": false
+}

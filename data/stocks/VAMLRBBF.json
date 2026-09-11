@@ -1,0 +1,375 @@
+{
+  "tradingCode": "VAMLRBBF",
+  "scripCode": "12198",
+  "companyName": "Vanguard AML Rupali Bank Balanced Fund",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=VAMLRBBF",
+  "lastAGMHeldOn": "For the year ended:",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 387,
+    "TRADING CODE": "VAMLRBBF",
+    "LTP": 8.1,
+    "HIGH": 8.2,
+    "LOW": 8,
+    "CLOSEP": 8.1,
+    "YCP": 8,
+    "CHANGE": 0.1,
+    "TRADE": 36,
+    "VALUE (mn)": 0.325,
+    "VOLUME": 40140
+  },
+  "marketInformation": {
+    "lastTradingPrice": 8.2,
+    "daysRange": [
+      8.1,
+      8.2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      4.7,
+      8.6
+    ],
+    "change": 0,
+    "daysTradeNos": 26,
+    "yesterdaysClose": 8.2,
+    "daysVolumeNos": 165513,
+    "adjustedOpeningPrice": 8.2,
+    "daysValueMn": 1.34,
+    "openingPrice": 8.1,
+    "marketCapMn": 1301.709,
+    "closingPrice": 8.1,
+    "freeFloatMarketCapMn": 0
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": null,
+    "debutTradingDate": "2016-12-05",
+    "paidUpCapitalMn": 1587.45,
+    "typeOfInstrument": "Mutual Funds",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 158745000,
+    "sector": "Mutual Funds"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2016,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "0.80% 2023, 10% 2021, 1.6% 2020, 5% 2018, 12% 2017",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": -257.4,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 25.2,
+      "govtPct": 0,
+      "institutePct": 63.8,
+      "foreignPct": 0,
+      "publicPct": 11
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 25.2,
+      "govtPct": 0,
+      "institutePct": 67.83,
+      "foreignPct": 0,
+      "publicPct": 6.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 25.2,
+      "govtPct": 0,
+      "institutePct": 68.24,
+      "foreignPct": 0,
+      "publicPct": 6.56
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.27,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.27,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.91,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.91,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 7.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 1.19,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.19,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 7.6
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 3.4,
+        "peDiluted": null,
+        "peTrailing": 5.83
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 3.45,
+        "peDiluted": null,
+        "peTrailing": 5.9
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 3.4,
+        "peDiluted": null,
+        "peTrailing": 5.83
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 3.45,
+        "peDiluted": null,
+        "peTrailing": 5.9
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 3.45,
+        "peDiluted": null,
+        "peTrailing": 5.9
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 3.4,
+        "peDiluted": null,
+        "peTrailing": 5.83
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.3,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.96,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 205.65,
+      "tciOriginal": 205.65,
+      "tciRestated": 310.24
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.07,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.22,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -11.78,
+      "tciOriginal": -11.78,
+      "tciRestated": -11.78
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -22.44,
+      "tciOriginal": -22.44,
+      "tciRestated": -22.44
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.25,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 8.75,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -198.43,
+      "tciOriginal": -198.43,
+      "tciRestated": -198.43
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.37,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 8.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -59.3,
+      "tciOriginal": -59.3,
+      "tciRestated": -59.3
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 6.48,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 11.9
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "0.80%",
+      "cashDividendPct": 0.8,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.05
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": null,
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+88 02 2222 80862",
+    "fax": "+88 02 2222 60863",
+    "email": "sanjib.roy@vanguardaml.com",
+    "webAddress": "http://www.vanguardaml.com",
+    "companySecretaryName": "Mr. Sanjib Kumar Roy, EVP & Head, Fund Ops & Control",
+    "cellNo": "+88 01841 082 262",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:23.318Z",
+  "shariaCompliant": false
+}

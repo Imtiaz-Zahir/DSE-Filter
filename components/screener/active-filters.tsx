@@ -26,6 +26,17 @@ interface ActiveFiltersProps {
 
 const STORAGE_KEY = "dsefilter_saved_presets";
 
+const PRESET_LABELS: Record<string, string> = {
+  sharia: "DSES Sharia",
+  gainers: "Top Gainers",
+  losers: "Top Losers",
+  high_yield: "Yield ≥ 5%",
+  low_pe: "P/E ≤ 15",
+  undervalued_pb: "P/B < 1",
+  zero_debt: "Zero Debt",
+  high_sponsor: "Sponsor ≥ 50%",
+};
+
 export function ActiveFilters({
   filters,
   setFilters,
@@ -94,8 +105,9 @@ export function ActiveFilters({
   }
 
   if (filters.preset !== "all") {
+    const presetLabel = PRESET_LABELS[filters.preset] || filters.preset;
     filterPills.push({
-      label: `Preset: ${filters.preset}`,
+      label: `Preset: ${presetLabel}`,
       onRemove: () => setFilters((p) => ({ ...p, preset: "all" })),
     });
   }
@@ -196,11 +208,20 @@ export function ActiveFilters({
   addRangePill("Yield %", filters.divYieldRange, "divYieldRange");
   addRangePill("P/B", filters.pbRange, "pbRange");
   addRangePill("Mkt Cap Mn", filters.marketCapRange, "marketCapRange");
+  addRangePill("Paid-Up Cap Mn", filters.paidUpCapRange, "paidUpCapRange");
   addRangePill("NAV", filters.navRange, "navRange");
   addRangePill("EPS", filters.epsRange, "epsRange");
+  addRangePill("Net Profit Mn", filters.netProfitRange, "netProfitRange");
   addRangePill("Debt Mn", filters.debtRange, "debtRange");
+  addRangePill("Listing Year", filters.listingYearRange, "listingYearRange");
   addRangePill("Sponsor %", filters.sponsorPctRange, "sponsorPctRange");
+  addRangePill("Institute %", filters.institutePctRange, "institutePctRange");
+  addRangePill("Foreign %", filters.foreignPctRange, "foreignPctRange");
+  addRangePill("Public %", filters.publicPctRange, "publicPctRange");
+  addRangePill("Govt %", filters.govtPctRange, "govtPctRange");
+  addRangePill("Volume", filters.volumeRange, "volumeRange");
   addRangePill("Turnover Mn", filters.turnoverRange, "turnoverRange");
+  addRangePill("Trades", filters.tradesRange, "tradesRange");
 
   return (
     <div className="flex flex-col gap-2">

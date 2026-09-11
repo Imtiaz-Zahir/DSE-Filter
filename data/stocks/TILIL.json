@@ -1,0 +1,245 @@
+{
+  "tradingCode": "TILIL",
+  "scripCode": "25757",
+  "companyName": "Trust Islami Life Insurance PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TILIL",
+  "lastAGMHeldOn": "2025-09-30",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 368,
+    "TRADING CODE": "TILIL",
+    "LTP": 47.2,
+    "HIGH": 47.8,
+    "LOW": 45.5,
+    "CLOSEP": 47.2,
+    "YCP": 45.4,
+    "CHANGE": 1.8,
+    "TRADE": 557,
+    "VALUE (mn)": 11.214,
+    "VOLUME": 239659
+  },
+  "marketInformation": {
+    "lastTradingPrice": 45.6,
+    "daysRange": [
+      45.2,
+      47.1
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      34.3,
+      75.8
+    ],
+    "change": -1,
+    "daysTradeNos": 197,
+    "yesterdaysClose": 46.6,
+    "daysVolumeNos": 75632,
+    "adjustedOpeningPrice": 46.6,
+    "daysValueMn": 3.47,
+    "openingPrice": 47.1,
+    "marketCapMn": 1864,
+    "closingPrice": 45.6,
+    "freeFloatMarketCapMn": 745.6
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": "2023-05-11",
+    "paidUpCapitalMn": 400,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 40000000,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2023,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "5% 2024, 5% 2023",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 51.35,
+      "govtPct": 0,
+      "institutePct": 8.15,
+      "foreignPct": 0,
+      "publicPct": 40.5
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 53.38,
+      "govtPct": 0,
+      "institutePct": 3.85,
+      "foreignPct": 0,
+      "publicPct": 42.77
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 53.38,
+      "govtPct": 0,
+      "institutePct": 2.73,
+      "foreignPct": 0,
+      "publicPct": 43.89
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 236,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 227,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 235.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 233,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 233,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 228,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.21,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.37,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 8.4,
+      "tciOriginal": 8.4,
+      "tciRestated": 8.4
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.2,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.13,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 8,
+      "tciOriginal": 8,
+      "tciRestated": 8
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 262.38,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.91
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 170,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.47
+    }
+  ],
+  "financialLinks": [
+    "https://www.trustislamilife.com/accounts.php",
+    "https://www.trustislamilife.com/psi.php"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "5.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+88 024-8313370",
+    "fax": null,
+    "email": "farid@trustislamilife.com",
+    "webAddress": "http://www.trustislamilife.com",
+    "companySecretaryName": "Chowdhury Mohammad Farid Uddin",
+    "cellNo": "01847129332",
+    "telephoneNo": "+88 024-8313370"
+  },
+  "scrapedAt": "2026-09-11T07:00:20.739Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "GEMINISEA",
+  "scripCode": "14262",
+  "companyName": "Gemini Sea Food PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GEMINISEA",
+  "lastAGMHeldOn": "2024-12-29",
+  "forYearEnded": "2024-06-30",
+  "overview": {
+    "#": 141,
+    "TRADING CODE": "GEMINISEA",
+    "LTP": 114.8,
+    "HIGH": 118,
+    "LOW": 113.9,
+    "CLOSEP": 114,
+    "YCP": 116.1,
+    "CHANGE": -1.3,
+    "TRADE": 85,
+    "VALUE (mn)": 0.741,
+    "VOLUME": 6483
+  },
+  "marketInformation": {
+    "lastTradingPrice": 108.8,
+    "daysRange": [
+      107.3,
+      112.4
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      103.1,
+      186.2
+    ],
+    "change": 1.2,
+    "daysTradeNos": 53,
+    "yesterdaysClose": 107.6,
+    "daysVolumeNos": 3799,
+    "adjustedOpeningPrice": 107.6,
+    "daysValueMn": 0.41,
+    "openingPrice": 112.4,
+    "marketCapMn": 1235.831,
+    "closingPrice": 108.8,
+    "freeFloatMarketCapMn": 864.966
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 400,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 114.85,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 11485418,
+    "sector": "Food & Allied"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1985,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "7.50% 2024, 20% 2023, 10% 2022, 5% 2021, 20% 2016, 15% 2015",
+    "bonusIssue": "7.50% 2024, 75% 2023, 30% 2022, 10% 2019, 15% 2018, 125% 2017, 50% 2016",
+    "rightIssue": "n/a",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 103.5,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2024 (year ended)]",
+      "asOfDate": "2024-06-30",
+      "sponsorDirectorPct": 30.01,
+      "govtPct": 0,
+      "institutePct": 13.02,
+      "foreignPct": 0.37,
+      "publicPct": 56.6
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 30.01,
+      "govtPct": 0,
+      "institutePct": 7.81,
+      "foreignPct": 0.23,
+      "publicPct": 61.95
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 30.01,
+      "govtPct": 0,
+      "institutePct": 6.97,
+      "foreignPct": 0.29,
+      "publicPct": 62.73
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2024-09",
+      "epsBasic": -2.3,
+      "epsDiluted": null,
+      "epsContinuingBasic": -2.3,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 231.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2024-12",
+      "epsBasic": -1.71,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.71,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 164.4
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2024-12",
+      "epsBasic": -3.94,
+      "epsDiluted": null,
+      "epsContinuingBasic": -3.94,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 164.4
+    },
+    {
+      "period": "Q3",
+      "endDate": "2025-03",
+      "epsBasic": -1.36,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.36,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.3
+    },
+    {
+      "period": "9 Months 202503",
+      "endDate": "2025-03",
+      "epsBasic": -5.3,
+      "epsDiluted": null,
+      "epsContinuingBasic": -5.3,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.3
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 24.41,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 24.35,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 23.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 23.04,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 23.3,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -9.83,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 0.21,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -46.16,
+      "tciOriginal": -46.16,
+      "tciRestated": -46.16
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.72,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 0.93,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3.38,
+      "tciOriginal": 3.38,
+      "tciRestated": 3.38
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 12.49,
+      "epsContinuingBasicOriginal": 9.61,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.1,
+      "navPerShareRestated": 10.07,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 58.67,
+      "tciOriginal": 58.67,
+      "tciRestated": 58.67
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 15.47,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 25.03,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 94.44,
+      "tciOriginal": 94.44,
+      "tciRestated": 94.44
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.67,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.69,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 49.91,
+      "tciOriginal": 49.91,
+      "tciRestated": 49.91
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 205.74,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.34
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.39,
+      "dividend": "10.00, 30%B",
+      "cashDividendPct": 10,
+      "bonusDividendPct": "30%B",
+      "dividendYieldPct": 0.29
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 53.39,
+      "dividend": "20.00, 75%B",
+      "cashDividendPct": 20,
+      "bonusDividendPct": "75%B",
+      "dividendYieldPct": 0.24
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 51.47,
+      "dividend": "7.50, 7.50%B",
+      "cashDividendPct": 7.5,
+      "bonusDividendPct": "7.50%B",
+      "dividendYieldPct": 0.31
+    }
+  ],
+  "financialLinks": [
+    "https://www.geminiseafood.com/auditreports.php",
+    "https://www.geminiseafood.com/images/Price%20Sensitive%20Information%20dt.%2031-12-24.jpg"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 10.54,
+    "latestDividendStatus": "7.50, 7.50%B for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "JABUSHA, RUPSHA, KHULNA.",
+    "phone": "+88-02-41020596-9",
+    "fax": "+88-02-41020525",
+    "email": "israt.bhuiyan@geminiseafood.com",
+    "webAddress": "http://www.geminiseafood.com",
+    "companySecretaryName": "Ms. Israt Jahaan Bhuiyan, FCMA",
+    "cellNo": "01708803244",
+    "telephoneNo": "+88-02-41020596-9, Extension: 117"
+  },
+  "scrapedAt": "2026-09-11T06:59:51.580Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,375 @@
+{
+  "tradingCode": "DACCADYE",
+  "scripCode": "17449",
+  "companyName": "The Dacca Dyeing & Manufacturing Co.Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DACCADYE",
+  "lastAGMHeldOn": "2026-01-16",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 92,
+    "TRADING CODE": "DACCADYE",
+    "LTP": 16.4,
+    "HIGH": 16.9,
+    "LOW": 16.4,
+    "CLOSEP": 16.4,
+    "YCP": 16.7,
+    "CHANGE": -0.3,
+    "TRADE": 69,
+    "VALUE (mn)": 0.432,
+    "VOLUME": 26218
+  },
+  "marketInformation": {
+    "lastTradingPrice": 15.7,
+    "daysRange": [
+      15.6,
+      16.3
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      13.2,
+      22.9
+    ],
+    "change": -0.5,
+    "daysTradeNos": 77,
+    "yesterdaysClose": 16.2,
+    "daysVolumeNos": 47315,
+    "adjustedOpeningPrice": 16.2,
+    "daysValueMn": 0.75,
+    "openingPrice": 16,
+    "marketCapMn": 1411.886,
+    "closingPrice": 15.7,
+    "freeFloatMarketCapMn": 986.869
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 3000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 871.53,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 87153453,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2009,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 3,292,979,995 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 30.1,
+      "govtPct": 0,
+      "institutePct": 18.3,
+      "foreignPct": 0.41,
+      "publicPct": 51.19
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 30.1,
+      "govtPct": 0,
+      "institutePct": 17.88,
+      "foreignPct": 0.08,
+      "publicPct": 51.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.1,
+      "govtPct": 0,
+      "institutePct": 17.24,
+      "foreignPct": 0.08,
+      "publicPct": 52.58
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -1.51,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.51,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 20.5
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -41.2,
+      "epsDiluted": null,
+      "epsContinuingBasic": -41.2,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 19.2
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -42.71,
+      "epsDiluted": null,
+      "epsContinuingBasic": -42.71,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 19.2
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -1.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 17.1
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -43.95,
+      "epsDiluted": null,
+      "epsContinuingBasic": -43.95,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 17.1
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.6,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 52.65,
+      "tciOriginal": 52.65,
+      "tciRestated": 52.65
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.64,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 12.08,
+      "tciOriginal": 12.08,
+      "tciRestated": 12.08
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.58,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -50.26,
+      "tciOriginal": -50.26,
+      "tciRestated": -50.26
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.58,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 31.51,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -225.21,
+      "tciOriginal": -225.21,
+      "tciRestated": -225.21
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -5.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 25.71,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -507.55,
+      "tciOriginal": -507.55,
+      "tciRestated": -507.55
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 34.1,
+      "dividend": "2.00",
+      "cashDividendPct": 2,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.97
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 137.13,
+      "dividend": "0.25",
+      "cashDividendPct": 0.25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.13
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "9558131-32, 9550355",
+    "fax": "88-02-9588705",
+    "email": "shiblei@dd.qc-group.com",
+    "webAddress": "http://www.dacca-dyeing.com",
+    "companySecretaryName": "Abdullah Shiblei",
+    "cellNo": "01715005162",
+    "telephoneNo": "+88-02 9558131-32"
+  },
+  "scrapedAt": "2026-09-11T06:59:45.566Z",
+  "shariaCompliant": true
+}

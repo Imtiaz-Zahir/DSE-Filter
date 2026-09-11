@@ -1,0 +1,377 @@
+{
+  "tradingCode": "RUPALIINS",
+  "scripCode": "25711",
+  "companyName": "Rupali Insurance Company Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RUPALIINS",
+  "lastAGMHeldOn": "2026-07-29",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 315,
+    "TRADING CODE": "RUPALIINS",
+    "LTP": 29.6,
+    "HIGH": 30.1,
+    "LOW": 29.5,
+    "CLOSEP": 29.6,
+    "YCP": 29.5,
+    "CHANGE": 0.1,
+    "TRADE": 347,
+    "VALUE (mn)": 8.987,
+    "VOLUME": 301108
+  },
+  "marketInformation": {
+    "lastTradingPrice": 28.1,
+    "daysRange": [
+      27.7,
+      28.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      18,
+      33.6
+    ],
+    "change": 0.1,
+    "daysTradeNos": 211,
+    "yesterdaysClose": 28,
+    "daysVolumeNos": 212166,
+    "adjustedOpeningPrice": 28,
+    "daysValueMn": 5.98,
+    "openingPrice": 28.9,
+    "marketCapMn": 2253.963,
+    "closingPrice": 28.1,
+    "freeFloatMarketCapMn": 1209.386
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 804.99,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 80498681,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1995,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "BDT. 84,100,000 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 46.35,
+      "govtPct": 0,
+      "institutePct": 16.91,
+      "foreignPct": 0,
+      "publicPct": 36.74
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 46.35,
+      "govtPct": 0,
+      "institutePct": 18.45,
+      "foreignPct": 0,
+      "publicPct": 35.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 46.35,
+      "govtPct": 0,
+      "institutePct": 17.89,
+      "foreignPct": 0,
+      "publicPct": 35.76
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.33,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.33,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 22.4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.38,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.38,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 27.4
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 0.71,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.71,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 27.4
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 20.85,
+        "peDiluted": null,
+        "peTrailing": 28.74
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 19.86,
+        "peDiluted": null,
+        "peTrailing": 27.38
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 19.93,
+        "peDiluted": null,
+        "peTrailing": 27.48
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 19.72,
+        "peDiluted": null,
+        "peTrailing": 27.18
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 19.72,
+        "peDiluted": null,
+        "peTrailing": 27.18
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 19.79,
+        "peDiluted": null,
+        "peTrailing": 27.28
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 29.02,
+        "peDiluted": 30.52
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 27.65,
+        "peDiluted": 29.07
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 27.75,
+        "peDiluted": 29.18
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 27.45,
+        "peDiluted": 28.87
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 27.45,
+        "peDiluted": 28.87
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 27.55,
+        "peDiluted": 28.97
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 21.92,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 157.56,
+      "tciOriginal": 157.56,
+      "tciRestated": 157.56
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.97,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 21.39,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 74.57,
+      "tciOriginal": 74.57,
+      "tciRestated": 74.57
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.47,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 20.44,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 35.8,
+      "tciOriginal": 35.8,
+      "tciRestated": 35.8
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.99,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 20.41,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 75.86,
+      "tciOriginal": 75.86,
+      "tciRestated": 75.86
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.02,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 20.41,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 77.9,
+      "tciOriginal": 77.9,
+      "tciRestated": 77.9
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 21.75,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.24
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.25,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.77
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 58.25,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.68
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.94,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.41
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.77,
+      "dividend": "5.00, 5% B",
+      "cashDividendPct": 5,
+      "bonusDividendPct": "5% B",
+      "dividendYieldPct": 2.37
+    }
+  ],
+  "financialLinks": [
+    "https://rupaliinsurance.com/all-reports"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "5.00, 5% B for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "02 223385625, 02 223385626 & 02 223387238",
+    "fax": "02 223385629",
+    "email": "info@rupaliinsurance.com",
+    "webAddress": "http://www.rupaliinsurance.com",
+    "companySecretaryName": "Mohammad Atiqur Rahman",
+    "cellNo": "+88 01818 680 664",
+    "telephoneNo": "02 223385625-6, 02 223387238"
+  },
+  "scrapedAt": "2026-09-11T07:00:12.619Z",
+  "shariaCompliant": false
+}

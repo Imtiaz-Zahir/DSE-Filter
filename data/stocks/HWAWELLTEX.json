@@ -1,0 +1,378 @@
+{
+  "tradingCode": "HWAWELLTEX",
+  "scripCode": "17461",
+  "companyName": "Hwa Well Textiles (BD) PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HWAWELLTEX",
+  "lastAGMHeldOn": "2025-12-11",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 162,
+    "TRADING CODE": "HWAWELLTEX",
+    "LTP": 47.2,
+    "HIGH": 48.7,
+    "LOW": 47.1,
+    "CLOSEP": 47.2,
+    "YCP": 47.6,
+    "CHANGE": -0.4,
+    "TRADE": 641,
+    "VALUE (mn)": 14.044,
+    "VOLUME": 295231
+  },
+  "marketInformation": {
+    "lastTradingPrice": 48.3,
+    "daysRange": [
+      48.1,
+      50
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      35.6,
+      53.7
+    ],
+    "change": -1,
+    "daysTradeNos": 1058,
+    "yesterdaysClose": 49.3,
+    "daysVolumeNos": 599645,
+    "adjustedOpeningPrice": 49.3,
+    "daysValueMn": 29.25,
+    "openingPrice": 49.8,
+    "marketCapMn": 2760.8,
+    "closingPrice": 48.3,
+    "freeFloatMarketCapMn": 1357.5
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": "2014-05-14",
+    "paidUpCapitalMn": 560,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 56000000,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2014,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "1. TK 298,549,168 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 50.83,
+      "govtPct": 0,
+      "institutePct": 8.17,
+      "foreignPct": 0.06,
+      "publicPct": 40.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 50.83,
+      "govtPct": 0,
+      "institutePct": 9.05,
+      "foreignPct": 0.08,
+      "publicPct": 40.04
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 50.83,
+      "govtPct": 0,
+      "institutePct": 7.79,
+      "foreignPct": 0.05,
+      "publicPct": 41.33
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 1.1,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.1,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 48
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.81,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.81,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 44
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 1.91,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.91,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 44
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.83,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.83,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 41.5
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 2.74,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.74,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 41.5
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 12.92,
+        "peDiluted": null,
+        "peTrailing": 14.13
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 12.59,
+        "peDiluted": null,
+        "peTrailing": 13.77
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 12.78,
+        "peDiluted": null,
+        "peTrailing": 13.98
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 13.19,
+        "peDiluted": null,
+        "peTrailing": 14.43
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 13.49,
+        "peDiluted": null,
+        "peTrailing": 14.76
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 13.22,
+        "peDiluted": null,
+        "peTrailing": 14.46
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 12.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 12.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 12.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 13.24,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 13.54,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 13.27,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.01,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 31.56,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 168.58,
+      "tciOriginal": 168.58,
+      "tciRestated": 170.05
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.54,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.34,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 254.43,
+      "tciOriginal": 254.43,
+      "tciRestated": 269.39
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.94,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 37.8,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 332.45,
+      "tciOriginal": 332.45,
+      "tciRestated": 333.72
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.19,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 38.51,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 178.49,
+      "tciOriginal": 178.49,
+      "tciRestated": 179.64
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.64,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 40.16,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 203.56,
+      "tciOriginal": 203.56,
+      "tciRestated": 204.6
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 14.02,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.74
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.1,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.45
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.99,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.22
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 13.3,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.72
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.98,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.01
+    }
+  ],
+  "financialLinks": [
+    "https://www.hwawelltex.com/financial/",
+    "https://www.hwawelltex.com/price/"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "20.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Village: Kashorgor, Post: Seed Store Bazar Habirbari Union No-10, Bhaluka, Mymensingh.",
+    "phone": "880-2-8412935, 8412936",
+    "fax": "880-2-8412937",
+    "email": "devabrata@hwawelltex.com",
+    "webAddress": "http://www.hwawelltex.com",
+    "companySecretaryName": "Devabrata Saha",
+    "cellNo": "+88 01841 041 441",
+    "telephoneNo": "880-2-8412937"
+  },
+  "scrapedAt": "2026-09-11T06:59:54.275Z",
+  "shariaCompliant": true
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "CITYBANK",
+  "scripCode": "11102",
+  "companyName": "City Bank PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CITYBANK",
+  "lastAGMHeldOn": "2026-06-07",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 82,
+    "TRADING CODE": "CITYBANK",
+    "LTP": 30.1,
+    "HIGH": 30.3,
+    "LOW": 29.7,
+    "CLOSEP": 30.1,
+    "YCP": 29.8,
+    "CHANGE": 0.3,
+    "TRADE": 731,
+    "VALUE (mn)": 42.585,
+    "VOLUME": 1421386
+  },
+  "marketInformation": {
+    "lastTradingPrice": 29.8,
+    "daysRange": [
+      29.7,
+      30
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      22.6,
+      33.9
+    ],
+    "change": -0.1,
+    "daysTradeNos": 539,
+    "yesterdaysClose": 29.9,
+    "daysVolumeNos": 501625,
+    "adjustedOpeningPrice": 29.9,
+    "daysValueMn": 14.96,
+    "openingPrice": 30,
+    "marketCapMn": 52307.221,
+    "closingPrice": 29.8,
+    "freeFloatMarketCapMn": 36327.632
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 20000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 17494.05,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 1749405380,
+    "sector": "Bank"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1987,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "15% 2025, 12.50% 2024, 15% 2023, 10% 2022, 12.50% 2021, 17.50% 2020, 15% 2019, 6% 2018, 19% 2017, 24% 2016, 22% 2015",
+    "bonusIssue": "15% 2025, 12.50% 2024, 10% 2023, 2% 2022, 12.50% 2021, 5% 2020, 5% 2018, 5% 2017, 5% 2014, 20% 2013, 10% 2012, 25% 2011, 30% 2010, 25% 2009, 15% 2008, 15% 2007, 10% 2006, 50% 2005,50% 2004",
+    "rightIssue": "1R:1 2010, 1R:1 2004,1R:2 2003",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 42782.1,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 30.37,
+      "govtPct": 0,
+      "institutePct": 19.33,
+      "foreignPct": 5.4,
+      "publicPct": 44.9
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 30.37,
+      "govtPct": 0,
+      "institutePct": 19.45,
+      "foreignPct": 9.98,
+      "publicPct": 40.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.37,
+      "govtPct": 0,
+      "institutePct": 20.43,
+      "foreignPct": 8.26,
+      "publicPct": 40.94
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 1.58,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.58,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 29.7
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 1.63,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.63,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 32
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 3.01,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.01,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 32
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 5,
+        "peDiluted": null,
+        "peTrailing": 3.17
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 5,
+        "peDiluted": null,
+        "peTrailing": 3.17
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 4.98,
+        "peDiluted": null,
+        "peTrailing": 3.16
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 4.98,
+        "peDiluted": null,
+        "peTrailing": 3.16
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 4.97,
+        "peDiluted": null,
+        "peTrailing": 3.15
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 4.95,
+        "peDiluted": null,
+        "peTrailing": 3.14
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 3.46,
+        "peDiluted": 3.98
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 3.46,
+        "peDiluted": 3.98
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 3.44,
+        "peDiluted": 3.96
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 3.44,
+        "peDiluted": 3.96
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 3.43,
+        "peDiluted": 3.95
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 3.42,
+        "peDiluted": 3.94
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.15,
+      "epsContinuingBasicOriginal": 4.58,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 30.68,
+      "navPerShareRestated": 27.27,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5494.16,
+      "tciOriginal": 5494.16,
+      "tciRestated": 5494.16
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.98,
+      "epsContinuingBasicOriginal": 3.9,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 28.21,
+      "navPerShareRestated": 27.66,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 4781.26,
+      "tciOriginal": 4781.26,
+      "tciRestated": 4781.26
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.21,
+      "epsContinuingBasicOriginal": 4.74,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 31.42,
+      "navPerShareRestated": 28.56,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 6384.66,
+      "tciOriginal": 6384.66,
+      "tciRestated": 6384.66
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 7.53,
+      "epsContinuingBasicOriginal": 6.67,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.39,
+      "navPerShareRestated": 30.45,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 10143.46,
+      "tciOriginal": 10143.46,
+      "tciRestated": 10143.46
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 8.71,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 40.67,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 13242.27,
+      "tciOriginal": 13242.27,
+      "tciRestated": 13242.27
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 4.82,
+      "dividend": "12.50, 12.50%B",
+      "cashDividendPct": 12.5,
+      "bonusDividendPct": "12.50%B",
+      "dividendYieldPct": 5.04
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 5.47,
+      "dividend": "10.00, 2%B",
+      "cashDividendPct": 10,
+      "bonusDividendPct": "2%B",
+      "dividendYieldPct": 4.59
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 4.1,
+      "dividend": "15.00, 10%B",
+      "cashDividendPct": 15,
+      "bonusDividendPct": "10%B",
+      "dividendYieldPct": 7.01
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 2.97,
+      "dividend": "12.50, 12.50%B",
+      "cashDividendPct": 12.5,
+      "bonusDividendPct": "12.50%B",
+      "dividendYieldPct": 5.58
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 2.8,
+      "dividend": "15.00, 15%B",
+      "cashDividendPct": 15,
+      "bonusDividendPct": "15%B",
+      "dividendYieldPct": 6.15
+    }
+  ],
+  "financialLinks": [
+    "https://www.citybankplc.com/investor-relation",
+    "https://www.citybankplc.com/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 11080,
+    "latestDividendStatus": "15.00, 15%B for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "58813483, 58814375 and 58813126 (Hunting)",
+    "fax": "58816332",
+    "email": "kafikhan@citybankplc.com",
+    "webAddress": "http://www.citybankplc.com",
+    "companySecretaryName": "Md. Kafi Khan",
+    "cellNo": "01912927161",
+    "telephoneNo": "58814635 (Direct) 58813483, 58814375 and 58813126 (Hunting) Ext.-1031"
+  },
+  "scrapedAt": "2026-09-11T06:59:44.318Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "UNIQUEHRL",
+  "scripCode": "29002",
+  "companyName": "Unique Hotel & Resorts PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNIQUEHRL",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 379,
+    "TRADING CODE": "UNIQUEHRL",
+    "LTP": 43.6,
+    "HIGH": 43.7,
+    "LOW": 43.2,
+    "CLOSEP": 43.4,
+    "YCP": 43.1,
+    "CHANGE": 0.5,
+    "TRADE": 292,
+    "VALUE (mn)": 9.441,
+    "VOLUME": 217462
+  },
+  "marketInformation": {
+    "lastTradingPrice": 41.7,
+    "daysRange": [
+      41.6,
+      42.2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      35,
+      49.8
+    ],
+    "change": -0.2,
+    "daysTradeNos": 198,
+    "yesterdaysClose": 41.9,
+    "daysVolumeNos": 56975,
+    "adjustedOpeningPrice": 41.9,
+    "daysValueMn": 2.38,
+    "openingPrice": 42.2,
+    "marketCapMn": 12335.36,
+    "closingPrice": 41.7,
+    "freeFloatMarketCapMn": 3771.541
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 10000,
+    "debutTradingDate": "2012-07-02",
+    "paidUpCapitalMn": 2944,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 294400000,
+    "sector": "Travel & Leisure"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2012,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 9,708,801,512 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 52.45,
+      "govtPct": 0,
+      "institutePct": 29.03,
+      "foreignPct": 0.18,
+      "publicPct": 18.34
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 52.45,
+      "govtPct": 0,
+      "institutePct": 30.36,
+      "foreignPct": 0.19,
+      "publicPct": 17
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 52.45,
+      "govtPct": 0,
+      "institutePct": 29.44,
+      "foreignPct": 0.16,
+      "publicPct": 17.95
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 1.36,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.36,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 40.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.94,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.94,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38.2
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 2.3,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.3,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38.2
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.69,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.69,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 2.99,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.99,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 10.89,
+        "peDiluted": null,
+        "peTrailing": 8.65
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 10.61,
+        "peDiluted": null,
+        "peTrailing": 8.43
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 10.64,
+        "peDiluted": null,
+        "peTrailing": 8.45
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 10.54,
+        "peDiluted": null,
+        "peTrailing": 8.37
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 10.51,
+        "peDiluted": null,
+        "peTrailing": 8.35
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 10.46,
+        "peDiluted": null,
+        "peTrailing": 8.31
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 8.38,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 8.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 8.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 8.11,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 8.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 8.05,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.33,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 88.03,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -97.08,
+      "tciOriginal": -97.08,
+      "tciRestated": -97.08
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.27,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 84.73,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 964.03,
+      "tciOriginal": 964.03,
+      "tciRestated": 964.03
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 6.42,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 88.51,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1890.01,
+      "tciOriginal": 1890.01,
+      "tciRestated": 1890.01
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 88.75,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1512.01,
+      "tciOriginal": 1512.01,
+      "tciRestated": 638.02
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.18,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 93.91,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1525.41,
+      "tciOriginal": 1525.41,
+      "tciRestated": 1525.41
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.46
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 19.21,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.38
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 11.26,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.77
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.53,
+      "dividend": "16.00",
+      "cashDividendPct": 16,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.96
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 6.74,
+      "dividend": "16.00",
+      "cashDividendPct": 16,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.58
+    }
+  ],
+  "financialLinks": [
+    "https://uhrlbd.com/uhrlfinancial010.php",
+    "https://uhrlbd.com/uhrlpriceInfo.php"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 625.57,
+    "latestDividendStatus": "16.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "The Westin Dhaka, Plot No.1 CWN (B).Road No.45, Gulshan-2, Dhaka-1212. & HANSA – A Premium Residence Plot No. 3 & 5, Road No. 10/A, Sector-9 Uttara, Dhaka, 1230",
+    "phone": "+8802-222285116-23, 54893",
+    "fax": "880-2-222254894",
+    "email": "sharif@uhrlbd.com",
+    "webAddress": "http://www.uhrlbd.com",
+    "companySecretaryName": "Mr. Md. Sharif Hasan FCS, LL.B,",
+    "cellNo": "+88 01769501607",
+    "telephoneNo": "+88-02-222285116-23"
+  },
+  "scrapedAt": "2026-09-11T07:00:22.893Z",
+  "shariaCompliant": false
+}

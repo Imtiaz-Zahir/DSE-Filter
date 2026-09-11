@@ -1,0 +1,375 @@
+{
+  "tradingCode": "SHURWID",
+  "scripCode": "13234",
+  "companyName": "Shurwid Industries Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SHURWID",
+  "lastAGMHeldOn": "30/12/2019",
+  "forYearEnded": "2019-06-30",
+  "overview": {
+    "#": 336,
+    "TRADING CODE": "SHURWID",
+    "LTP": 6,
+    "HIGH": 6.2,
+    "LOW": 5.8,
+    "CLOSEP": 6,
+    "YCP": 6.1,
+    "CHANGE": -0.1,
+    "TRADE": 37,
+    "VALUE (mn)": 0.389,
+    "VOLUME": 65309
+  },
+  "marketInformation": {
+    "lastTradingPrice": 5.9,
+    "daysRange": [
+      5.9,
+      6.1
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      3.2,
+      7.8
+    ],
+    "change": 0,
+    "daysTradeNos": 8,
+    "yesterdaysClose": 5.9,
+    "daysVolumeNos": 2368,
+    "adjustedOpeningPrice": 5.9,
+    "daysValueMn": 0.01,
+    "openingPrice": 6,
+    "marketCapMn": 338.47,
+    "closingPrice": 5.9,
+    "freeFloatMarketCapMn": 264.815
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": "2014-09-08",
+    "paidUpCapitalMn": 573.68,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 57367750,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2014,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "1.TK 29,579,923 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2019 (year ended)]",
+      "asOfDate": "2019-06-30",
+      "sponsorDirectorPct": 9.99,
+      "govtPct": 0,
+      "institutePct": 22.8,
+      "foreignPct": 0,
+      "publicPct": 67.21
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 12.01,
+      "govtPct": 0,
+      "institutePct": 9.75,
+      "foreignPct": 0,
+      "publicPct": 78.24
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 12.01,
+      "govtPct": 0,
+      "institutePct": 9.75,
+      "foreignPct": 0,
+      "publicPct": 78.24
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2019-09",
+      "epsBasic": 0.64,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.64,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 21.6
+    },
+    {
+      "period": "Q2",
+      "endDate": "2019-12",
+      "epsBasic": 1.14,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.14,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 31
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2019-12",
+      "epsBasic": 1.78,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.78,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 31
+    },
+    {
+      "period": "Q3",
+      "endDate": "2020-03",
+      "epsBasic": 0.11,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.11,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 21.7
+    },
+    {
+      "period": "9 Months 202003",
+      "endDate": "2020-03",
+      "epsBasic": 1.89,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.89,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 21.7
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 2.38,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 2.3,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 2.38,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 2.42,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 2.34,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 2.34,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 4.35,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 4.2,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 4.35,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 4.42,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 4.28,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 4.28,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2015,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.03,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.12,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -1.7,
+      "tciOriginal": -1.7,
+      "tciRestated": -1.65
+    },
+    {
+      "year": 2016,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.04,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -2.18,
+      "tciOriginal": -2.18,
+      "tciRestated": -2.24
+    },
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.57,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.51,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -29.5,
+      "tciOriginal": -29.5,
+      "tciRestated": -29.83
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.92,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 21.25,
+      "tciOriginal": 21.25,
+      "tciRestated": 21.25
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.38,
+      "epsContinuingBasicOriginal": 0.37,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.21,
+      "navPerShareRestated": 10.83,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 79.25,
+      "tciOriginal": 79.25,
+      "tciRestated": 79.25
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2015,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2016,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 41.48,
+      "dividend": "10%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.32,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.98
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Operation Shutdown",
+    "longTermLoanMn": 61.33,
+    "latestDividendStatus": "10.00 for 2019"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "880-2-9640315, 02- 9612213, 9640316, +8801929996158",
+    "fax": "880-2-9640317, 02-9612019,",
+    "email": null,
+    "webAddress": "http://www.shurwid.com.bd",
+    "companySecretaryName": null,
+    "cellNo": null,
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:18.118Z",
+  "shariaCompliant": true
+}

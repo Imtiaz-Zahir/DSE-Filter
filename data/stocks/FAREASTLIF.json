@@ -1,0 +1,375 @@
+{
+  "tradingCode": "FAREASTLIF",
+  "scripCode": "25725",
+  "companyName": "Fareast Islami Life Insurance Co. Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FAREASTLIF",
+  "lastAGMHeldOn": "2025-05-25",
+  "forYearEnded": "2020-12-31",
+  "overview": {
+    "#": 129,
+    "TRADING CODE": "FAREASTLIF",
+    "LTP": 20.1,
+    "HIGH": 21,
+    "LOW": 19.4,
+    "CLOSEP": 20.1,
+    "YCP": 19.1,
+    "CHANGE": 1,
+    "TRADE": 206,
+    "VALUE (mn)": 1.834,
+    "VOLUME": 90070
+  },
+  "marketInformation": {
+    "lastTradingPrice": 18.9,
+    "daysRange": [
+      18.6,
+      19.3
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      15.4,
+      30.8
+    ],
+    "change": -0.2,
+    "daysTradeNos": 17,
+    "yesterdaysClose": 19.1,
+    "daysVolumeNos": 1679,
+    "adjustedOpeningPrice": 19.1,
+    "daysValueMn": 0.03,
+    "openingPrice": 18.6,
+    "marketCapMn": 1427.587,
+    "closingPrice": 18.9,
+    "freeFloatMarketCapMn": 1161.731
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 747.43,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 74742751,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2005,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "10% 2019, 20% 2018, 25% 2017, 15% 2016, 39% 2015, 35% 2014",
+    "bonusIssue": "20% 2016, 10% 2014, 15% 2012, 25% 2011, 40% 2010, 45% 2009, 40% 2008, 40% 2007, 10% 2006, 20% 2005",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "As per company’s reporting for the month of May 2025, Tradenext International Ltd. and Jupitar Business Ltd. (holding 9.91% & 9.90% shares respectively) are no more Directors in the company."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2020 (year ended)]",
+      "asOfDate": "2020-12-31",
+      "sponsorDirectorPct": 32.56,
+      "govtPct": 0,
+      "institutePct": 41.02,
+      "foreignPct": 1.12,
+      "publicPct": 25.3
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 20.08,
+      "govtPct": 0,
+      "institutePct": 43.2,
+      "foreignPct": 0,
+      "publicPct": 36.72
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 18.06,
+      "govtPct": 0,
+      "institutePct": 43.28,
+      "foreignPct": 0,
+      "publicPct": 38.66
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2009-03",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2513.25
+    },
+    {
+      "period": "Q2",
+      "endDate": "2009-06",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3054.25
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2009-06",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3054.25
+    },
+    {
+      "period": "Q3",
+      "endDate": "2009-09",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2385.5
+    },
+    {
+      "period": "9 Months 200909",
+      "endDate": "2009-09",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2385.5
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2016,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2016,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "15.00, 20%B",
+      "cashDividendPct": 15,
+      "bonusDividendPct": "20%B",
+      "dividendYieldPct": 2.22
+    },
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.5
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.16
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.02
+    },
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "9613000123 Ext. 1032 & 1125",
+    "fax": "88-02-9573077",
+    "email": "cs@fareastislamilife.com, fareast123share@gmail.com",
+    "webAddress": "http://www.fareastislamilife.com",
+    "companySecretaryName": "Sheikh Khaled Zahir, FCS",
+    "cellNo": "+88 01730113653",
+    "telephoneNo": "9613000123 Ext. 1014"
+  },
+  "scrapedAt": "2026-09-11T06:59:49.496Z",
+  "shariaCompliant": true
+}

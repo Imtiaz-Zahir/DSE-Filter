@@ -1,0 +1,378 @@
+{
+  "tradingCode": "SUMITPOWER",
+  "scripCode": "15306",
+  "companyName": "Summit Power Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SUMITPOWER",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 362,
+    "TRADING CODE": "SUMITPOWER",
+    "LTP": 15.7,
+    "HIGH": 15.9,
+    "LOW": 15.6,
+    "CLOSEP": 15.7,
+    "YCP": 15.7,
+    "CHANGE": 0,
+    "TRADE": 363,
+    "VALUE (mn)": 6.968,
+    "VOLUME": 443134
+  },
+  "marketInformation": {
+    "lastTradingPrice": 15.4,
+    "daysRange": [
+      15.2,
+      15.7
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      12,
+      17.9
+    ],
+    "change": 0,
+    "daysTradeNos": 246,
+    "yesterdaysClose": 15.4,
+    "daysVolumeNos": 311969,
+    "adjustedOpeningPrice": 15.4,
+    "daysValueMn": 4.79,
+    "openingPrice": 15.7,
+    "marketCapMn": 16445.309,
+    "closingPrice": 15.4,
+    "freeFloatMarketCapMn": 5448.247
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 15000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 10679,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 1067877239,
+    "sector": "Fuel & Power"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2005,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "10.50% 2025, 10% 2024, 10% 2023, 20% 2022, 35% 2021, 35% 2020, 35% 2019, 30% 2018, 30% 2017, 12% 2015",
+    "bonusIssue": "6% 2015, 5% 2014, 15% 2013, 20% 2012, 25% 2011, 30% 2010, 25% 2009, 20% 2008, 20% 2007, 20% 2006, 10% 2005",
+    "rightIssue": "4R:5 (premium @ 45Tk) 2008",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 41604.1,
+    "otherComprehensiveIncomeMn": 3194.3,
+    "remarks": "TK 1,089,050,654 Revaluation Surplus has been added to Reserve."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 63.19,
+      "govtPct": 0,
+      "institutePct": 18.45,
+      "foreignPct": 3.65,
+      "publicPct": 14.71
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 63.19,
+      "govtPct": 0,
+      "institutePct": 18.18,
+      "foreignPct": 3.65,
+      "publicPct": 14.98
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 63.19,
+      "govtPct": 0,
+      "institutePct": 17.95,
+      "foreignPct": 3.65,
+      "publicPct": 15.21
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.62,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.62,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.1
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.34,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.34,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 12.3
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 0.96,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.96,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 12.3
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.51,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.51,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 13.8
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 1.47,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.47,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 13.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 8.01,
+        "peDiluted": null,
+        "peTrailing": 40.26
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 7.81,
+        "peDiluted": null,
+        "peTrailing": 39.23
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 7.81,
+        "peDiluted": null,
+        "peTrailing": 39.23
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 41.32,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 40.26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 40.26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 40.53,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.25,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 34.45,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5605.24,
+      "tciOriginal": 5605.24,
+      "tciRestated": 5272.1
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.87,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 35.72,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 4129.18,
+      "tciOriginal": 4129.18,
+      "tciRestated": 5109.89
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.07,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 38.02,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2207.19,
+      "tciOriginal": 2207.19,
+      "tciRestated": 4579.55
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.13,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 41.44,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3347.34,
+      "tciOriginal": 3347.34,
+      "tciRestated": 4717.92
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.38,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 40.57,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 408.21,
+      "tciOriginal": 408.21,
+      "tciRestated": 3602.52
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 8.4,
+      "dividend": "35.00",
+      "cashDividendPct": 35,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 7.94
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.7,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.33
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.45,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.94
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.05,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.52
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 36.89,
+      "dividend": "10.50",
+      "cashDividendPct": 10.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 7.45
+    }
+  ],
+  "financialLinks": [
+    "https://www.summitpowerinternational.com/spl-financial-statement",
+    "https://www.summitpowerinternational.com/spl-price-sensitive-info"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 17707.6,
+    "latestDividendStatus": "10.50 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Summit Narayanganj Power Unit II Limited Madanganj 1",
+    "phone": "+8802-55012255-59, Ext - 151, 500, 255, 01708804819",
+    "fax": "+8802-55012260",
+    "email": "tofayel.ahmed@summit-centre.com",
+    "webAddress": "http://www.summitpowerinternational.com/SPL",
+    "companySecretaryName": "Tofayel Ahmed FCA",
+    "cellNo": "01730808181",
+    "telephoneNo": "+8802-55012255-59"
+  },
+  "scrapedAt": "2026-09-11T07:00:22.578Z",
+  "shariaCompliant": true
+}

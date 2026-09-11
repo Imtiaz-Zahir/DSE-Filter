@@ -1,0 +1,323 @@
+{
+  "tradingCode": "PROGRESLIF",
+  "scripCode": "25728",
+  "companyName": "Progressive Life Insurance Co. Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PROGRESLIF",
+  "lastAGMHeldOn": "2025-06-29",
+  "forYearEnded": "2023-12-31",
+  "overview": {
+    "#": 291,
+    "TRADING CODE": "PROGRESLIF",
+    "LTP": 38,
+    "HIGH": 39.8,
+    "LOW": 38,
+    "CLOSEP": 38.1,
+    "YCP": 38.6,
+    "CHANGE": -0.6,
+    "TRADE": 109,
+    "VALUE (mn)": 1.485,
+    "VOLUME": 38863
+  },
+  "marketInformation": {
+    "lastTradingPrice": 35.6,
+    "daysRange": [
+      35.6,
+      38.7
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      35.2,
+      61.8
+    ],
+    "change": -2.3,
+    "daysTradeNos": 60,
+    "yesterdaysClose": 37.9,
+    "daysVolumeNos": 12116,
+    "adjustedOpeningPrice": 37.9,
+    "daysValueMn": 0.45,
+    "openingPrice": 37.9,
+    "marketCapMn": 630.776,
+    "closingPrice": 36.3,
+    "freeFloatMarketCapMn": 385.913
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 750,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 166.43,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 16643166,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2006,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "2.50% 2020, 5% 2015",
+    "bonusIssue": "10% 2019, 12% 2018, 5% 2015, 18% 2012, 18% 2011, 12% 2010, 10% 2008",
+    "rightIssue": "n/a",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2023 (year ended)]",
+      "asOfDate": "2023-12-31",
+      "sponsorDirectorPct": 38.82,
+      "govtPct": 0,
+      "institutePct": 10.75,
+      "foreignPct": 0,
+      "publicPct": 50.43
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 38.82,
+      "govtPct": 0,
+      "institutePct": 9.72,
+      "foreignPct": 0,
+      "publicPct": 51.46
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 38.82,
+      "govtPct": 0,
+      "institutePct": 9.89,
+      "foreignPct": 0,
+      "publicPct": 51.29
+    }
+  ],
+  "interimFinancials": [],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10% B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10% B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "2.50",
+      "cashDividendPct": 2.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.24
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.progressivelife.com.bd/finalcial_report",
+    "https://www.progressivelife.com.bd/page/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "N/A",
+    "phone": "+88-02- 49350301",
+    "fax": null,
+    "email": "cs@progressivelife.com.bd",
+    "webAddress": "http://www.progressivelife.com.bd",
+    "companySecretaryName": "Abdullah Al Mansur",
+    "cellNo": "+88 01713-361160",
+    "telephoneNo": "+88-02-49350301-190"
+  },
+  "scrapedAt": "2026-09-11T07:00:11.529Z",
+  "shariaCompliant": false
+}

@@ -1,0 +1,375 @@
+{
+  "tradingCode": "PHARMAID",
+  "scripCode": "18462",
+  "companyName": "Pharma Aids Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PHARMAID",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 271,
+    "TRADING CODE": "PHARMAID",
+    "LTP": 578,
+    "HIGH": 580,
+    "LOW": 571.1,
+    "CLOSEP": 575.9,
+    "YCP": 576,
+    "CHANGE": 2,
+    "TRADE": 373,
+    "VALUE (mn)": 4.289,
+    "VOLUME": 7443
+  },
+  "marketInformation": {
+    "lastTradingPrice": 549.3,
+    "daysRange": [
+      546.9,
+      558
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      452.7,
+      680
+    ],
+    "change": -3.8,
+    "daysTradeNos": 246,
+    "yesterdaysClose": 553.1,
+    "daysVolumeNos": 4746,
+    "adjustedOpeningPrice": 553.1,
+    "daysValueMn": 2.62,
+    "openingPrice": 551,
+    "marketCapMn": 1725.672,
+    "closingPrice": 549.3,
+    "freeFloatMarketCapMn": 1391.081
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 50,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 31.2,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 3120000,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1987,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 33,764,038 Revaluation Reserve has been added Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 23.58,
+      "govtPct": 0,
+      "institutePct": 16.39,
+      "foreignPct": 0,
+      "publicPct": 60.03
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 19.39,
+      "govtPct": 0,
+      "institutePct": 21.78,
+      "foreignPct": 0,
+      "publicPct": 58.83
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 19.39,
+      "govtPct": 0,
+      "institutePct": 20.24,
+      "foreignPct": 0,
+      "publicPct": 60.37
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 6.81,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.81,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 580.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 7.28,
+      "epsDiluted": null,
+      "epsContinuingBasic": 7.28,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 484.1
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 14.09,
+      "epsDiluted": null,
+      "epsContinuingBasic": 14.09,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 484.1
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 6.11,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.11,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 535.9
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 20.2,
+      "epsDiluted": null,
+      "epsContinuingBasic": 20.2,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 535.9
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 21.38,
+        "peDiluted": null,
+        "peTrailing": 23.15
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 20.88,
+        "peDiluted": null,
+        "peTrailing": 22.6
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 20.88,
+        "peDiluted": null,
+        "peTrailing": 22.6
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 20.57,
+        "peDiluted": null,
+        "peTrailing": 22.27
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 20.54,
+        "peDiluted": null,
+        "peTrailing": 22.23
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 20.39,
+        "peDiluted": null,
+        "peTrailing": 22.08
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 28.16,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 27.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 27.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 27.1,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 27.05,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 26.86,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 16.11,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 93.26,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 50.26,
+      "tciOriginal": 50.26,
+      "tciRestated": 50.26
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 11.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 98.83,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 34.76,
+      "tciOriginal": 34.76,
+      "tciRestated": 34.76
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.05,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 91.28,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -6.38,
+      "tciOriginal": -6.38,
+      "tciRestated": -6.38
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 19.61,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 109.89,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 61.19,
+      "tciOriginal": 61.19,
+      "tciRestated": 61.19
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 20.45,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 138.58,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 63.82,
+      "tciOriginal": 63.82,
+      "tciRestated": 63.82
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.7,
+      "dividend": "50.00",
+      "cashDividendPct": 50,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.26
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 73.14,
+      "dividend": "50.00",
+      "cashDividendPct": 50,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.61
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.13
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 34.09,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.5
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 26.18,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.56
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "30.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Chandra, Kaliakoir, Gazipur",
+    "phone": "+88 02 222220741, 222227742-43",
+    "fax": null,
+    "email": "pal.hinfo@gmail.com",
+    "webAddress": "https://www.pharmaaids.com/",
+    "companySecretaryName": "Mr. Md. Humayun Kabir",
+    "cellNo": "+88 01717 177 156",
+    "telephoneNo": "+88 02 222220741, 222227742-43"
+  },
+  "scrapedAt": "2026-09-11T07:00:09.394Z",
+  "shariaCompliant": false
+}

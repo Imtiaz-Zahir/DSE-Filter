@@ -1,0 +1,375 @@
+{
+  "tradingCode": "OIMEX",
+  "scripCode": "13243",
+  "companyName": "Oimex Electrode Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OIMEX",
+  "lastAGMHeldOn": "2024-12-31",
+  "forYearEnded": "2024-06-30",
+  "overview": {
+    "#": 259,
+    "TRADING CODE": "OIMEX",
+    "LTP": 15.2,
+    "HIGH": 15.8,
+    "LOW": 15.2,
+    "CLOSEP": 15.2,
+    "YCP": 15.6,
+    "CHANGE": -0.4,
+    "TRADE": 67,
+    "VALUE (mn)": 0.657,
+    "VOLUME": 43039
+  },
+  "marketInformation": {
+    "lastTradingPrice": 14.4,
+    "daysRange": [
+      14.2,
+      14.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      10.8,
+      27.4
+    ],
+    "change": -0.1,
+    "daysTradeNos": 76,
+    "yesterdaysClose": 14.5,
+    "daysVolumeNos": 26602,
+    "adjustedOpeningPrice": 14.5,
+    "daysValueMn": 0.38,
+    "openingPrice": 14.9,
+    "marketCapMn": 1059.729,
+    "closingPrice": 14.2,
+    "freeFloatMarketCapMn": 680.798
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1700,
+    "debutTradingDate": "2017-11-06",
+    "paidUpCapitalMn": 730.85,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 73084781,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2017,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "3% 2024, 1% 2022",
+    "bonusIssue": "5% 2020, 12.5% 2019, 12.5% 2018, 10% 2017",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": -479.6,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2024 (year ended)]",
+      "asOfDate": "2024-06-30",
+      "sponsorDirectorPct": 35.76,
+      "govtPct": 0,
+      "institutePct": 26.65,
+      "foreignPct": 0,
+      "publicPct": 37.59
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 35.76,
+      "govtPct": 0,
+      "institutePct": 20.03,
+      "foreignPct": 0,
+      "publicPct": 44.21
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 35.76,
+      "govtPct": 0,
+      "institutePct": 19.73,
+      "foreignPct": 0,
+      "publicPct": 44.51
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -0.29,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.29,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 24.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.15,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.15,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.5
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -0.14,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.14,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.5
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.29,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.29,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 13.6
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 0.15,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.15,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 13.6
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 76,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 72.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 74.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 72.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 72.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 71,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 19.49,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 18.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 19.1,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 18.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 18.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 18.21,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.51,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.96,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 32.54,
+      "tciOriginal": 32.54,
+      "tciRestated": 32.54
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.08,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5.49,
+      "tciOriginal": 5.49,
+      "tciRestated": 5.49
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.65,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.72,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -110.84,
+      "tciOriginal": -110.84,
+      "tciRestated": -110.84
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 2.92,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -55.31,
+      "tciOriginal": -55.31,
+      "tciRestated": -55.31
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.78,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 3.52,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 55.48,
+      "tciOriginal": 55.48,
+      "tciRestated": 55.48
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 47.71,
+      "dividend": "5% B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "5% B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 294.22,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.54
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 30.24,
+      "dividend": "3.00",
+      "cashDividendPct": 3,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.28
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 36.18,
+    "latestDividendStatus": "3.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Pipulbaria, Daulatpur, Kushtia.",
+    "phone": "+ 88 02 9665272",
+    "fax": "+ 88 02 9661252",
+    "email": "cs@oimexelectrodes.com",
+    "webAddress": "http://www.oimexelectrodes.com",
+    "companySecretaryName": "Mr. Debashis Sarker",
+    "cellNo": "01755549029",
+    "telephoneNo": "+ 88 02 9665272"
+  },
+  "scrapedAt": "2026-09-11T07:00:06.827Z",
+  "shariaCompliant": false
+}

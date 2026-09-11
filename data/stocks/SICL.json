@@ -1,0 +1,326 @@
+{
+  "tradingCode": "SICL",
+  "scripCode": "25758",
+  "companyName": "Sikder Insurance Company Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SICL",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 339,
+    "TRADING CODE": "SICL",
+    "LTP": 39.8,
+    "HIGH": 41.2,
+    "LOW": 39.5,
+    "CLOSEP": 39.8,
+    "YCP": 39.7,
+    "CHANGE": 0.1,
+    "TRADE": 1798,
+    "VALUE (mn)": 67.904,
+    "VOLUME": 1685053
+  },
+  "marketInformation": {
+    "lastTradingPrice": 36.3,
+    "daysRange": [
+      35.8,
+      37.8
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      16.1,
+      43.3
+    ],
+    "change": -1.1,
+    "daysTradeNos": 1279,
+    "yesterdaysClose": 37.4,
+    "daysVolumeNos": 1499256,
+    "adjustedOpeningPrice": 37.4,
+    "daysValueMn": 55.13,
+    "openingPrice": 37,
+    "marketCapMn": 1496,
+    "closingPrice": 36.3,
+    "freeFloatMarketCapMn": 598.4
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 500,
+    "debutTradingDate": "2024-01-24",
+    "paidUpCapitalMn": 400,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 40000000,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2024,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "5% 2024, 3% 2023",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 78.9,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 60,
+      "govtPct": 0,
+      "institutePct": 1.86,
+      "foreignPct": 0,
+      "publicPct": 38.14
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 50.4,
+      "govtPct": 0,
+      "institutePct": 5.4,
+      "foreignPct": 0,
+      "publicPct": 44.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 50.4,
+      "govtPct": 0,
+      "institutePct": 7.03,
+      "foreignPct": 0,
+      "publicPct": 42.57
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.86,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.86,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 20.7
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.19,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.19,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38.9
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 1.05,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.05,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 38.9
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 18.95,
+        "peDiluted": null,
+        "peTrailing": 19.32
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 17.76,
+        "peDiluted": null,
+        "peTrailing": 18.11
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 18.14,
+        "peDiluted": null,
+        "peTrailing": 18.5
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 17.76,
+        "peDiluted": null,
+        "peTrailing": 18.11
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 17.81,
+        "peDiluted": null,
+        "peTrailing": 18.16
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 17.29,
+        "peDiluted": null,
+        "peTrailing": 17.62
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 31.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 29.14,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 29.77,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 29.14,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 29.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 28.36,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.22,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": 0.73,
+      "navPerShareOriginal": 28.73,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": 17.64,
+      "profitForTheYearMnRestated": 29.21,
+      "tciOriginal": 29.21,
+      "tciRestated": 29.21
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.34,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 30.49,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 32.1,
+      "tciOriginal": 32.1,
+      "tciRestated": 32.1
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.28,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.28,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 49.92,
+      "tciOriginal": 49.92,
+      "tciRestated": 49.92
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "3.00",
+      "cashDividendPct": 3,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.48,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.37
+    }
+  ],
+  "financialLinks": [
+    "https://www.sikderinsurance.com/annual-report-2021/topic/149",
+    "https://www.sikderinsurance.com/annual-report-2021/topic/152"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "5.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "0088 02-223371513-17",
+    "fax": null,
+    "email": "cs@sikderinsurance.com",
+    "webAddress": "http://www.sikderinsurance.com",
+    "companySecretaryName": "Abdur Razzak",
+    "cellNo": "01747472696",
+    "telephoneNo": "0088 02-223371513-17"
+  },
+  "scrapedAt": "2026-09-11T07:00:16.690Z",
+  "shariaCompliant": false
+}

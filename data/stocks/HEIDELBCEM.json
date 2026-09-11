@@ -1,0 +1,378 @@
+{
+  "tradingCode": "HEIDELBCEM",
+  "scripCode": "21614",
+  "companyName": "Heidelberg Materials Bangladesh PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HEIDELBCEM",
+  "lastAGMHeldOn": "2026-06-18",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 159,
+    "TRADING CODE": "HEIDELBCEM",
+    "LTP": 213,
+    "HIGH": 214.9,
+    "LOW": 211,
+    "CLOSEP": 213,
+    "YCP": 210.7,
+    "CHANGE": 2.3,
+    "TRADE": 59,
+    "VALUE (mn)": 0.864,
+    "VOLUME": 4059
+  },
+  "marketInformation": {
+    "lastTradingPrice": 206.9,
+    "daysRange": [
+      206.6,
+      212
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      197,
+      272.7
+    ],
+    "change": -2.2,
+    "daysTradeNos": 116,
+    "yesterdaysClose": 209.1,
+    "daysVolumeNos": 4609,
+    "adjustedOpeningPrice": 209.1,
+    "daysValueMn": 0.96,
+    "openingPrice": 211.9,
+    "marketCapMn": 11814.899,
+    "closingPrice": 206.9,
+    "freeFloatMarketCapMn": 4647.492
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 565.04,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 56503580,
+    "sector": "Cement"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1989,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "11% 2025, 25% 2024, 25% 2023, 10% 2022, 26% 2021, 20% 2020, 75% 2018, 150% 2017, 300% 2016, 300% 2015 ,380% 2014, 380% 2013, 50% 2012, 45% 2011, 43%2010, 38% 2009, 33% 2008, 25% 2007, 16% 2006, 8% 2005, 5% 2002, 30% 2001, 100% 2000, 50% 1999, 40% 1998, 30% 1997, 20% 1996, 30% 1995, 16% 1994, 10% 1993, 40% 1992,35% 1991, 30% 1990, 20% 1989",
+    "bonusIssue": "5% 2006, 10% 2005, 17% 2004,15% 2003, 10% 2002,50% 1996, 50% 1994,",
+    "rightIssue": "1R:2 ( Premium Tk. 300) 1996",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 3611.7,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 60.67,
+      "govtPct": 0,
+      "institutePct": 28.61,
+      "foreignPct": 0.04,
+      "publicPct": 10.68
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 60.67,
+      "govtPct": 0,
+      "institutePct": 28.47,
+      "foreignPct": 0.04,
+      "publicPct": 10.82
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 60.67,
+      "govtPct": 0,
+      "institutePct": 28.44,
+      "foreignPct": 0.04,
+      "publicPct": 10.85
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": -0.88,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.88,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 235.4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": -1.09,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.09,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 240.3
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": -1.96,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.96,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 240.3
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 60,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 59.07,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 59.38,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 58.39,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 58.9,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 58.28,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 8.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 66.6,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 475.28,
+      "tciOriginal": 475.28,
+      "tciRestated": 475.28
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -4.13,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 60.07,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -233.44,
+      "tciOriginal": -233.44,
+      "tciRestated": -233.44
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 8.13,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 67.2,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 459.41,
+      "tciOriginal": 459.41,
+      "tciRestated": 459.41
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 8.17,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 72.87,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 461.79,
+      "tciOriginal": 461.79,
+      "tciRestated": 461.79
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.55,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 73.92,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 200.62,
+      "tciOriginal": 200.62,
+      "tciRestated": 200.62
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 32.38,
+      "dividend": "26.00",
+      "cashDividendPct": 26,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.95
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.56
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 29.46,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.04
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.1,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.13
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 60.86,
+      "dividend": "11.00",
+      "cashDividendPct": 11,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.51
+    }
+  ],
+  "financialLinks": [
+    "https://www.heidelbergcementbd.com/financial-statements",
+    "https://heidelbergcementbd.com/price-sensitive-information-psi"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "11.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Mouza: Tatki, Post Office: Jatramora, Rupgonj, Narayangonj. 2. Chittagong Factory: South Halishahar, Chittagong-4204, Mukterpur Factory: East Mukterpur, Munshiganj",
+    "phone": "880-02-58811691, Ext. 304, 305",
+    "fax": "02-58812584",
+    "email": "share.bgd@heidelbergmaterials.com",
+    "webAddress": "https://heidelbergmaterialsbd.com",
+    "companySecretaryName": "Mr. Sultan Reaz Mahmud, ACS",
+    "cellNo": "'01325099924",
+    "telephoneNo": "880-02-58811691, Ext.:305"
+  },
+  "scrapedAt": "2026-09-11T06:59:53.126Z",
+  "shariaCompliant": true
+}

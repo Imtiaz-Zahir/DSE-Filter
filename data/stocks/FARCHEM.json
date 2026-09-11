@@ -1,0 +1,375 @@
+{
+  "tradingCode": "FARCHEM",
+  "scripCode": "18490",
+  "companyName": "Far Chemical Industries Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FARCHEM",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 127,
+    "TRADING CODE": "FARCHEM",
+    "LTP": 15.9,
+    "HIGH": 17.2,
+    "LOW": 15.6,
+    "CLOSEP": 15.9,
+    "YCP": 17,
+    "CHANGE": -1.1,
+    "TRADE": 2149,
+    "VALUE (mn)": 58.349,
+    "VOLUME": 3550187
+  },
+  "marketInformation": {
+    "lastTradingPrice": 14.8,
+    "daysRange": [
+      14.7,
+      15.7
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      11.6,
+      28
+    ],
+    "change": -0.4,
+    "daysTradeNos": 891,
+    "yesterdaysClose": 15.2,
+    "daysVolumeNos": 1876846,
+    "adjustedOpeningPrice": 15.2,
+    "daysValueMn": 28.29,
+    "openingPrice": 15.2,
+    "marketCapMn": 2327.079,
+    "closingPrice": 14.8,
+    "freeFloatMarketCapMn": 1567.688
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 3000,
+    "debutTradingDate": "2014-07-08",
+    "paidUpCapitalMn": 1530.97,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 153097333,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2014,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "1% 2024, 1% 2021, 1% 2020, 5% 2016",
+    "bonusIssue": "10% 2019, 10% 2018, 10% 2017, 20% 2016, 25% 2015, 20% 2014",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 3447.8,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 32.63,
+      "govtPct": 0,
+      "institutePct": 30.81,
+      "foreignPct": 0,
+      "publicPct": 36.56
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 32.63,
+      "govtPct": 0,
+      "institutePct": 32.5,
+      "foreignPct": 0,
+      "publicPct": 34.87
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 32.63,
+      "govtPct": 0,
+      "institutePct": 23.86,
+      "foreignPct": 0,
+      "publicPct": 43.51
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.05,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.05,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 20.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -1.85,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.85,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 14.3
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -1.8,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.8,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 14.3
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -1.46,
+      "epsDiluted": null,
+      "epsContinuingBasic": -1.46,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 14.9
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -3.26,
+      "epsDiluted": null,
+      "epsContinuingBasic": -3.26,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 14.9
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 176.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 163.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 174.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 165.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 168.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 164.44,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.16,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.71,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -34.13,
+      "tciOriginal": -34.13,
+      "tciRestated": -34.13
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.39,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.1,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -84.2,
+      "tciOriginal": -84.2,
+      "tciRestated": -84.2
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.12,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.98,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -244.88,
+      "tciOriginal": -244.88,
+      "tciRestated": -244.88
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.2,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 32.53,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 30.72,
+      "tciOriginal": 30.72,
+      "tciRestated": 30.72
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.09,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 32.52,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 13.76,
+      "tciOriginal": 13.76,
+      "tciRestated": 13.76
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.84
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 91.19,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.55
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 222.46,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 224.77,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Vill - Mir Kutir Chao, PO - Mura Para, PS - Rupgonj, Narayangonj.",
+    "phone": "+88-02-9858734, 01794058818",
+    "fax": "+88-02-9858735",
+    "email": "abm.mostafa@yahoo.com",
+    "webAddress": "http://www.farchemicaltextile.com",
+    "companySecretaryName": "Mr. ABM Golam Mostafa, FCMA",
+    "cellNo": "+88 01862 264 064",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:49.223Z",
+  "shariaCompliant": false
+}

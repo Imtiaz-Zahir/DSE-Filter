@@ -1,0 +1,378 @@
+{
+  "tradingCode": "RUNNERAUTO",
+  "scripCode": "13246",
+  "companyName": "Runner Automobiles PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RUNNERAUTO",
+  "lastAGMHeldOn": "2025-12-23",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 313,
+    "TRADING CODE": "RUNNERAUTO",
+    "LTP": 47,
+    "HIGH": 48.6,
+    "LOW": 46.8,
+    "CLOSEP": 47,
+    "YCP": 48.4,
+    "CHANGE": -1.4,
+    "TRADE": 1528,
+    "VALUE (mn)": 53.782,
+    "VOLUME": 1128978
+  },
+  "marketInformation": {
+    "lastTradingPrice": 44.6,
+    "daysRange": [
+      44.1,
+      45.1
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      27.9,
+      54.2
+    ],
+    "change": -0.3,
+    "daysTradeNos": 871,
+    "yesterdaysClose": 44.9,
+    "daysVolumeNos": 486356,
+    "adjustedOpeningPrice": 44.9,
+    "daysValueMn": 21.68,
+    "openingPrice": 45.1,
+    "marketCapMn": 5097.943,
+    "closingPrice": 44.6,
+    "freeFloatMarketCapMn": 2757.422
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2000,
+    "debutTradingDate": "2019-05-21",
+    "paidUpCapitalMn": 1135.4,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 113539932,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2019,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 2,270,212,888 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 46.93,
+      "govtPct": 0,
+      "institutePct": 24.88,
+      "foreignPct": 0,
+      "publicPct": 28.19
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 34.19,
+      "govtPct": 0,
+      "institutePct": 42.89,
+      "foreignPct": 0,
+      "publicPct": 22.92
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 34.19,
+      "govtPct": 0,
+      "institutePct": 36.69,
+      "foreignPct": 0,
+      "publicPct": 29.12
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.38,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.38,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 30.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.12,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.12,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 36.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 0.26,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.26,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 36.7
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 39.6
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 0.5,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.5,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 39.6
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 70.5,
+        "peDiluted": null,
+        "peTrailing": 35.34
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 68.1,
+        "peDiluted": null,
+        "peTrailing": 34.14
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 67.65,
+        "peDiluted": null,
+        "peTrailing": 33.91
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 67.05,
+        "peDiluted": null,
+        "peTrailing": 33.61
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 67.35,
+        "peDiluted": null,
+        "peTrailing": 33.76
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 66.9,
+        "peDiluted": null,
+        "peTrailing": 33.53
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 52.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 50.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 50.11,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 49.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 49.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 49.56,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.7,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 65.16,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 307.07,
+      "tciOriginal": 307.07,
+      "tciRestated": 307.07
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.4,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 66.5,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 272.85,
+      "tciOriginal": 272.85,
+      "tciRestated": 272.85
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -7.75,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 62.62,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -879.9,
+      "tciOriginal": -879.9,
+      "tciRestated": -879.9
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.54,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 66.49,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -61.33,
+      "tciOriginal": -61.33,
+      "tciRestated": -61.33
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.9,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 66.7,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 102.37,
+      "tciOriginal": 102.37,
+      "tciRestated": 102.37
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.37,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.52
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 22.14,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.88
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "11.00",
+      "cashDividendPct": 11,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.49
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.73,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4
+    }
+  ],
+  "financialLinks": [
+    "https://runnerautomobiles.com/pages/financial-statements",
+    "https://runnerautomobiles.com/pages/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 3965.68,
+    "latestDividendStatus": "10.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Paragaon (Barachala), Bhaluka, Mymensingh",
+    "phone": "01730405010",
+    "fax": "8870173",
+    "email": "mizan@runnerbd.com",
+    "webAddress": "https://runnerautomobiles.com/",
+    "companySecretaryName": "Md. Mizanur Rahman",
+    "cellNo": "+88 01730 405 010",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:12.703Z",
+  "shariaCompliant": false
+}

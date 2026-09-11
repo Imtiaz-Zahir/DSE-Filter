@@ -1,0 +1,378 @@
+{
+  "tradingCode": "WALTONHIL",
+  "scripCode": "13248",
+  "companyName": "Walton Hi-Tech Industries PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=WALTONHIL",
+  "lastAGMHeldOn": "2025-10-28",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 389,
+    "TRADING CODE": "WALTONHIL",
+    "LTP": 392.2,
+    "HIGH": 397.9,
+    "LOW": 391.8,
+    "CLOSEP": 392.2,
+    "YCP": 395.7,
+    "CHANGE": -3.5,
+    "TRADE": 1145,
+    "VALUE (mn)": 18.527,
+    "VOLUME": 46986
+  },
+  "marketInformation": {
+    "lastTradingPrice": 390,
+    "daysRange": [
+      389.5,
+      393.4
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      356.8,
+      486
+    ],
+    "change": 0,
+    "daysTradeNos": 922,
+    "yesterdaysClose": 390,
+    "daysVolumeNos": 54407,
+    "adjustedOpeningPrice": 390,
+    "daysValueMn": 21.27,
+    "openingPrice": 390.1,
+    "marketCapMn": 129956.259,
+    "closingPrice": 390,
+    "freeFloatMarketCapMn": 37567.418
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 6000,
+    "debutTradingDate": "2020-09-23",
+    "paidUpCapitalMn": 3332.21,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 333221177,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2020,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "1. TK 33,761,916,711 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 61.09,
+      "govtPct": 0,
+      "institutePct": 0.6,
+      "foreignPct": 0.09,
+      "publicPct": 38.22
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 67.09,
+      "govtPct": 0,
+      "institutePct": 0.99,
+      "foreignPct": 0.04,
+      "publicPct": 31.88
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 71.09,
+      "govtPct": 0,
+      "institutePct": 1.04,
+      "foreignPct": 0.03,
+      "publicPct": 27.84
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 7.29,
+      "epsDiluted": null,
+      "epsContinuingBasic": 7.29,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 419.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 4.27,
+      "epsDiluted": null,
+      "epsContinuingBasic": 4.27,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 376.9
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 10.9,
+      "epsDiluted": null,
+      "epsContinuingBasic": 10.9,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 376.9
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 8.39,
+      "epsDiluted": null,
+      "epsContinuingBasic": 8.39,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 377.1
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 19.29,
+      "epsDiluted": null,
+      "epsContinuingBasic": 19.29,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 377.1
+    },
+    {
+      "period": "Annual",
+      "endDate": "2026-06",
+      "epsBasic": 33.75,
+      "epsDiluted": null,
+      "epsContinuingBasic": 33.75,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 401.1
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 11.62,
+        "peDiluted": null,
+        "peTrailing": 11.62
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 11.56,
+        "peDiluted": null,
+        "peTrailing": 11.56
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 11.48,
+        "peDiluted": null,
+        "peTrailing": 11.48
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 11.52,
+        "peDiluted": null,
+        "peTrailing": 11.52
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 11.56,
+        "peDiluted": null,
+        "peTrailing": 11.56
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 11.56,
+        "peDiluted": null,
+        "peTrailing": 11.56
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 11.46,
+        "peDiluted": 12.61
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 11.4,
+        "peDiluted": 12.54
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 11.33,
+        "peDiluted": 12.46
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 11.36,
+        "peDiluted": 12.5
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 11.4,
+        "peDiluted": 12.54
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 11.4,
+        "peDiluted": 12.54
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 54.21,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 311.59,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 16392.04,
+      "tciOriginal": 16392.04,
+      "tciRestated": 16392.04
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 40.16,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 334.68,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 12166.15,
+      "tciOriginal": 12166.15,
+      "tciRestated": 12166.15
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 25.84,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 343.73,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 7826.78,
+      "tciOriginal": 7826.78,
+      "tciRestated": 7826.78
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 44.78,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 379.3,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 13565.26,
+      "tciOriginal": 13565.26,
+      "tciRestated": 13565.26
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 34.22,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 399.74,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 10366.16,
+      "tciOriginal": 10366.16,
+      "tciRestated": 13426.52
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.76,
+      "dividend": "250.00",
+      "cashDividendPct": 250,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.87
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.24,
+      "dividend": "250.00",
+      "cashDividendPct": 250,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.29
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 40.55,
+      "dividend": "300.00",
+      "cashDividendPct": 300,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.86
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 14.5,
+      "dividend": "350.00",
+      "cashDividendPct": 350,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.39
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 11.87,
+      "dividend": "175.00, 10%B",
+      "cashDividendPct": 175,
+      "bonusDividendPct": "10%B",
+      "dividendYieldPct": 4.31
+    }
+  ],
+  "financialLinks": [
+    "https://www.waltonhil.com/investors/investor-info?tab=financial-information",
+    "https://www.waltonhil.com/investors/investor-info?tab=price-sensitive-information-psi"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 5625.55,
+    "latestDividendStatus": "175.00, 10%B for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Chandra, Kaliakoir, Gazipur, Bangladesh.",
+    "phone": "01678864044",
+    "fax": "+880 9606-555 550",
+    "email": "cswhil@waltonplc.com",
+    "webAddress": "https://www.waltonhil.com",
+    "companySecretaryName": "Md. Rafiqul Islam, FCS",
+    "cellNo": "01678863444",
+    "telephoneNo": "+8809606-555555"
+  },
+  "scrapedAt": "2026-09-11T07:00:23.117Z",
+  "shariaCompliant": true
+}

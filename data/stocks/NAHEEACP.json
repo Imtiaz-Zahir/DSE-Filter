@@ -1,0 +1,377 @@
+{
+  "tradingCode": "NAHEEACP",
+  "scripCode": "13244",
+  "companyName": "Nahee Aluminum Composite Panel PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NAHEEACP",
+  "lastAGMHeldOn": "2025-12-18",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 239,
+    "TRADING CODE": "NAHEEACP",
+    "LTP": 35.9,
+    "HIGH": 36.1,
+    "LOW": 35.2,
+    "CLOSEP": 35.9,
+    "YCP": 35.2,
+    "CHANGE": 0.7,
+    "TRADE": 1013,
+    "VALUE (mn)": 39.108,
+    "VOLUME": 1093862
+  },
+  "marketInformation": {
+    "lastTradingPrice": 34,
+    "daysRange": [
+      33.2,
+      34.8
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      13.9,
+      42
+    ],
+    "change": -0.4,
+    "daysTradeNos": 475,
+    "yesterdaysClose": 34.4,
+    "daysVolumeNos": 443067,
+    "adjustedOpeningPrice": 34.4,
+    "daysValueMn": 15.09,
+    "openingPrice": 34.2,
+    "marketCapMn": 2351.59,
+    "closingPrice": 34,
+    "freeFloatMarketCapMn": 1592.222
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1200,
+    "debutTradingDate": "2017-12-24",
+    "paidUpCapitalMn": 683.6,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 68360160,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2017,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": "1% 2025, 4% 2024, 2.50% 2023, 10% 2022, 10% 2021, 8% 2020, 5% 2019, 7% 2018, 5% 2017",
+    "bonusIssue": "7% 2020, 10% 2019, 10% 2018, 10% 2017",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 130.4,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 32.29,
+      "govtPct": 0,
+      "institutePct": 20.4,
+      "foreignPct": 0,
+      "publicPct": 47.31
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 32.29,
+      "govtPct": 0,
+      "institutePct": 22.73,
+      "foreignPct": 0,
+      "publicPct": 44.98
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 32.29,
+      "govtPct": 0,
+      "institutePct": 22.2,
+      "foreignPct": 0,
+      "publicPct": 45.51
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.07,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.07,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 24.3
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.08,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.08,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 18.3
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 0.15,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.15,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 18.3
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.02,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.02,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 22.7
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 0.17,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.17,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 22.7
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 158.38,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 148.68,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 149.56,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 146.91,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 151.76,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 150,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.15,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 146.98,
+      "tciOriginal": 146.98,
+      "tciRestated": 146.98
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.88,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.26,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 196.77,
+      "tciOriginal": 196.77,
+      "tciRestated": 196.77
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.8,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.06,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 54.7,
+      "tciOriginal": 54.7,
+      "tciRestated": 54.7
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.68,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 46.32,
+      "tciOriginal": 46.32,
+      "tciRestated": 46.32
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -7.18,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.91,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -490.52,
+      "tciOriginal": -490.52,
+      "tciRestated": -490.52
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.65,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.25
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 23.14,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.5
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 81.61,
+      "dividend": "2.50",
+      "cashDividendPct": 2.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.38
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 46.2,
+      "dividend": "4.00",
+      "cashDividendPct": 4,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.28
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.52
+    }
+  ],
+  "financialLinks": [
+    "https://www.nahee.com.bd/nahee_aluminum/investor.html"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 91.52,
+    "latestDividendStatus": "1.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Abdar, Telehati, Sreepur, Gazipur, Bangladesh",
+    "phone": "+8801730097865",
+    "fax": "+880258817847",
+    "email": "secretary@nahee.com.bd",
+    "webAddress": "http://www.nahee.com.bd",
+    "companySecretaryName": "Mohammad Jahurul Islam Sheikh",
+    "cellNo": "+88 01730 097 865",
+    "telephoneNo": "+8809611677844"
+  },
+  "scrapedAt": "2026-09-11T07:00:03.088Z",
+  "shariaCompliant": true
+}

@@ -1,9 +1,10 @@
 import { MetadataRoute } from "next";
-import { getAllTradingCodes } from "@/lib/stocks";
+import { getScreenerStocksSync } from "@/lib/data-provider";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://dsefilter.imtiazzahir211.workers.dev";
-  const codes = getAllTradingCodes();
+  const baseUrl = "https://dse-filter.1mt2.workers.dev";
+  const stocks = getScreenerStocksSync();
+  const codes = stocks.map((s) => s.tradingCode).filter(Boolean);
 
   const stockUrls: MetadataRoute.Sitemap = codes.map((code) => ({
     url: `${baseUrl}/stock/${encodeURIComponent(code)}`,

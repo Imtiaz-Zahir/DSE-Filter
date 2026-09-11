@@ -1,9 +1,9 @@
 import React from "react";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { fetchServerStockByCode, fetchServerScreenerStocks } from "@/lib/data-provider";
 import {
-  getAllStocks,
-  getStockByCode,
+  getPeerStocks,
   getTradingCode,
   getCompanyName,
   getSector,
@@ -14,7 +14,7 @@ import {
   getPe,
   getDivYieldPct,
 } from "@/lib/stocks";
-import { formatBDT, formatPct } from "@/lib/utils";
+import { formatBDT, formatPct, safeDecodeURIComponent } from "@/lib/utils";
 import { StockJsonLd } from "@/components/stock-detail/stock-jsonld";
 import { StockHeader } from "@/components/stock-detail/stock-header";
 import { PriceRangeGauge } from "@/components/stock-detail/price-range-gauge";
@@ -30,7 +30,7 @@ interface StockPageProps {
 }
 
 export async function generateStaticParams() {
-  const stocks = getAllStocks();
+  const stocks = await fetchServerScreenerStocks();
   return stocks.map((s) => ({
     code: s.tradingCode,
   }));
@@ -38,8 +38,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: StockPageProps): Promise<Metadata> {
   const resolvedParams = await params;
-  const code = decodeURIComponent(resolvedParams.code);
-  const stock = getStockByCode(code);
+  const code = safeDecodeURIComponent(resolvedParams.code);
+  const stock = await fetchServerStockByCode(code);
 
   if (!stock) {
     return {
@@ -76,7 +76,7 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
     openGraph: {
       title,
       description,
-      url: `https://dsefilter.imtiazzahir211.workers.dev/stock/${encodeURIComponent(code)}`,
+      url: `https://dse-filter.1mt2.workers.dev/stock/${encodeURIComponent(code)}`,
       siteName: "DSE Filter",
       type: "article",
     },
@@ -86,19 +86,22 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
       description,
     },
     alternates: {
-      canonical: `https://dsefilter.imtiazzahir211.workers.dev/stock/${encodeURIComponent(code)}`,
+      canonical: `https://dse-filter.1mt2.workers.dev/stock/${encodeURIComponent(code)}`,
     },
   };
 }
 
 export default async function StockDetailPage({ params }: StockPageProps) {
   const resolvedParams = await params;
-  const code = decodeURIComponent(resolvedParams.code);
-  const stock = getStockByCode(code);
+  const code = safeDecodeURIComponent(resolvedParams.code);
+  const stock = await fetchServerStockByCode(code);
 
   if (!stock) {
     notFound();
   }
+
+  const screenerStocks = await fetchServerScreenerStocks();
+  const peers = getPeerStocks(stock, screenerStocks, 4);
 
   return (
     <main className="min-h-screen bg-background text-foreground pb-16">
@@ -127,8 +130,9 @@ export default async function StockDetailPage({ params }: StockPageProps) {
         <CorporateInfoCard stock={stock} />
 
         {/* Sector Peer Companies */}
-        <PeerStocks stock={stock} />
+        <PeerStocks stock={stock} peers={peers} />
       </div>
     </main>
   );
 }
+

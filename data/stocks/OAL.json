@@ -1,0 +1,378 @@
+{
+  "tradingCode": "OAL",
+  "scripCode": "13239",
+  "companyName": "Olympic Accessories Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OAL",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 258,
+    "TRADING CODE": "OAL",
+    "LTP": 6.8,
+    "HIGH": 7.1,
+    "LOW": 6.8,
+    "CLOSEP": 6.8,
+    "YCP": 7,
+    "CHANGE": -0.2,
+    "TRADE": 148,
+    "VALUE (mn)": 2.729,
+    "VOLUME": 392602
+  },
+  "marketInformation": {
+    "lastTradingPrice": 6.5,
+    "daysRange": [
+      6.4,
+      6.7
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      3.8,
+      7.5
+    ],
+    "change": -0.1,
+    "daysTradeNos": 66,
+    "yesterdaysClose": 6.6,
+    "daysVolumeNos": 168574,
+    "adjustedOpeningPrice": 6.6,
+    "daysValueMn": 1.1,
+    "openingPrice": 6.6,
+    "marketCapMn": 1118.878,
+    "closingPrice": 6.5,
+    "freeFloatMarketCapMn": 830.101
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2500,
+    "debutTradingDate": "2015-06-25",
+    "paidUpCapitalMn": 1695.27,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 169526982,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2015,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "1% 2021, 2% 2019, 5% 2015",
+    "bonusIssue": "10% 2018, 10% 2017, 12% 2016, 7% 2015",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": -84.8,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 25.81,
+      "govtPct": 0,
+      "institutePct": 15.39,
+      "foreignPct": 0,
+      "publicPct": 58.8
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 25.81,
+      "govtPct": 0,
+      "institutePct": 17.45,
+      "foreignPct": 0,
+      "publicPct": 56.74
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 25.81,
+      "govtPct": 0,
+      "institutePct": 15.75,
+      "foreignPct": 0,
+      "publicPct": 58.44
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -0.17,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.17,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6.9
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.17,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.17,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.5
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -0.34,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.34,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 5.5
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -0.23,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.23,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6.6
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -0.57,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.57,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6.6
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.33,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.64,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -56.17,
+      "tciOriginal": -56.17,
+      "tciRestated": -56.17
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.19,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -31.72,
+      "tciOriginal": -31.72,
+      "tciRestated": -31.72
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -2.33,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.05,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -394.49,
+      "tciOriginal": -394.49,
+      "tciRestated": -394.49
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.81,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.25,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -136.92,
+      "tciOriginal": -136.92,
+      "tciRestated": -136.92
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.75,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 9.5,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -126.58,
+      "tciOriginal": -126.58,
+      "tciRestated": -126.58
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.67
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://olympicaccessoriesbd.com/Details/page/Investor-Relations/Financial-Statements",
+    "https://olympicaccessoriesbd.com/Details/page/Investor-Relations/PSI"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 290.09,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Bishia Kuribari, Rajendrapur, Gazipur",
+    "phone": "+88-02-8392459",
+    "fax": "+88-02 8392459",
+    "email": "s.suhrid85@gmail.com",
+    "webAddress": "http://www.olympicaccessoriesbd.com",
+    "companySecretaryName": "Md. Shahriar",
+    "cellNo": "+88 01909 103054",
+    "telephoneNo": "02-8392459"
+  },
+  "scrapedAt": "2026-09-11T07:00:08.061Z",
+  "shariaCompliant": true
+}

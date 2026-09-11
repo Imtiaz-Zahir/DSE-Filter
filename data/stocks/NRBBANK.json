@@ -1,0 +1,326 @@
+{
+  "tradingCode": "NRBBANK",
+  "scripCode": "11155",
+  "companyName": "NRB Bank PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NRBBANK",
+  "lastAGMHeldOn": "2025-12-18",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 253,
+    "TRADING CODE": "NRBBANK",
+    "LTP": 6.7,
+    "HIGH": 6.8,
+    "LOW": 6.7,
+    "CLOSEP": 6.7,
+    "YCP": 6.7,
+    "CHANGE": 0,
+    "TRADE": 38,
+    "VALUE (mn)": 0.894,
+    "VOLUME": 133131
+  },
+  "marketInformation": {
+    "lastTradingPrice": 6.4,
+    "daysRange": [
+      6.4,
+      6.6
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      4.9,
+      9.2
+    ],
+    "change": 0,
+    "daysTradeNos": 58,
+    "yesterdaysClose": 6.4,
+    "daysVolumeNos": 183015,
+    "adjustedOpeningPrice": 6.4,
+    "daysValueMn": 1.19,
+    "openingPrice": 6.5,
+    "marketCapMn": 4419.758,
+    "closingPrice": 6.5,
+    "freeFloatMarketCapMn": 640
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 10000,
+    "debutTradingDate": "2024-02-27",
+    "paidUpCapitalMn": 6905.87,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 0,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 690587200,
+    "sector": "Bank"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2024,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "10.00%, 2023",
+    "bonusIssue": "-",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 1838.2,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "Dissolving the post of directorship of six (6) shareholder by Bangladesh Bank."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 74.55,
+      "govtPct": 0,
+      "institutePct": 2.09,
+      "foreignPct": 0,
+      "publicPct": 23.36
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 55.99,
+      "govtPct": 0,
+      "institutePct": 3.32,
+      "foreignPct": 0,
+      "publicPct": 40.69
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 55.99,
+      "govtPct": 0,
+      "institutePct": 2.91,
+      "foreignPct": 0,
+      "publicPct": 41.1
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.12,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.12,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 7.1
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.01,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.01,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6.1
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 0.13,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.13,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 6.1
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 25.77,
+        "peDiluted": null,
+        "peTrailing": 4.27
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 25.77,
+        "peDiluted": null,
+        "peTrailing": 4.27
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 25.77,
+        "peDiluted": null,
+        "peTrailing": 4.27
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 25,
+        "peDiluted": null,
+        "peTrailing": 4.14
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 24.62,
+        "peDiluted": null,
+        "peTrailing": 4.08
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 25,
+        "peDiluted": null,
+        "peTrailing": 4.14
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 60.91,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 60.91,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 60.91,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 59.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 58.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 59.09,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.94,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.14,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 553.08,
+      "tciOriginal": 553.08,
+      "tciRestated": 553.08
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.35,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.78,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 794.37,
+      "tciOriginal": 794.37,
+      "tciRestated": 794.37
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.11,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.66,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 76.94,
+      "tciOriginal": 76.94,
+      "tciRestated": 76.94
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 108.78,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.nrbbankbd.com/investors-relation/#financial-statements",
+    "https://www.nrbbankbd.com/investors-relation/#price-sensitive-info"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 5061.18,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Uday Sanz, Plot # 2/B, Road #134, Block- SE (A), Gulshan South Avenue, Gulshan-1, Dhaka-1212.",
+    "phone": "01313476832",
+    "fax": null,
+    "email": "company.secretary@nrbbankbd.com",
+    "webAddress": "http://www.nrbbankbd.com",
+    "companySecretaryName": "Manzurul Ahsan, FCS",
+    "cellNo": "01955544447",
+    "telephoneNo": "+8809666456384"
+  },
+  "scrapedAt": "2026-09-11T07:00:04.786Z",
+  "shariaCompliant": false
+}

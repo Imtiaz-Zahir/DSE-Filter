@@ -1,0 +1,378 @@
+{
+  "tradingCode": "RAKCERAMIC",
+  "scripCode": "24634",
+  "companyName": "RAK Ceramics (Bangladesh) Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RAKCERAMIC",
+  "lastAGMHeldOn": "2026-03-31",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 300,
+    "TRADING CODE": "RAKCERAMIC",
+    "LTP": 30,
+    "HIGH": 30.5,
+    "LOW": 29.9,
+    "CLOSEP": 30,
+    "YCP": 30.4,
+    "CHANGE": -0.4,
+    "TRADE": 341,
+    "VALUE (mn)": 7.651,
+    "VOLUME": 254014
+  },
+  "marketInformation": {
+    "lastTradingPrice": 27.5,
+    "daysRange": [
+      27.4,
+      28
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      19.2,
+      32.8
+    ],
+    "change": -0.4,
+    "daysTradeNos": 384,
+    "yesterdaysClose": 27.9,
+    "daysVolumeNos": 274696,
+    "adjustedOpeningPrice": 27.9,
+    "daysValueMn": 7.6,
+    "openingPrice": 28,
+    "marketCapMn": 11940.327,
+    "closingPrice": 27.5,
+    "freeFloatMarketCapMn": 3333.667
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 6000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 4279.69,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 427968701,
+    "sector": "Ceramics Sector"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2010,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "10% 2025, 10% 2024, 10% 2023, 10% 2022, 12.50% 2021, 10% 2020,15% 2019, 10% 2018, 10% 2017, 20% 2016, 25% 2015, 25% 2014, 15% 2013,15% 2012, 15% 2011, 15% 2010",
+    "bonusIssue": "10% 2018, 10% 2017, 5% 2016, 10% 2013, 10% 2012, 10% 2011, 10%B 2010",
+    "rightIssue": "-",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 795,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 72.08,
+      "govtPct": 0,
+      "institutePct": 17.14,
+      "foreignPct": 0.16,
+      "publicPct": 10.62
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 72.08,
+      "govtPct": 0,
+      "institutePct": 17.47,
+      "foreignPct": 0.04,
+      "publicPct": 10.41
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 72.08,
+      "govtPct": 0,
+      "institutePct": 17.25,
+      "foreignPct": 0.04,
+      "publicPct": 10.63
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": -0.13,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.13,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 22.1
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.18,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.18,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 29.5
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 0.05,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.05,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 29.5
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 300,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 293,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 291,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 287,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 279,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 275,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.12,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.53,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 905.19,
+      "tciOriginal": 905.19,
+      "tciRestated": 905.19
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.57,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.85,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 671.59,
+      "tciOriginal": 671.59,
+      "tciRestated": 671.59
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.44,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.29,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 618.39,
+      "tciOriginal": 618.39,
+      "tciRestated": 618.39
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.23,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -27.33,
+      "tciOriginal": -27.33,
+      "tciRestated": -27.33
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.93,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 15.3,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -395.93,
+      "tciOriginal": -395.93,
+      "tciRestated": -395.93
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.99,
+      "dividend": "12.50",
+      "cashDividendPct": 12.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.82
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 27.34,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.33
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 29.69,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.33
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.82
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.57
+    }
+  ],
+  "financialLinks": [
+    "https://www.rakceramics.com/bangladesh/en-bd/investor-relation/financial-reports/",
+    "https://www.rakceramics.com/bangladesh/en-bd/investor-relation/price-sensitive-information-material-information/price-sensitive-information/"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 340.71,
+    "latestDividendStatus": "10.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Dhanua, Sreepur, Gazipur, Bangladesh",
+    "phone": "+88 02-58957393, +88 02-58952303",
+    "fax": "+880-2-58957096",
+    "email": "shahidul.islam@rakceramics.com",
+    "webAddress": "https://corporate-bd.rakceramics.com",
+    "companySecretaryName": "Mr. Muhammad Shahidul Islam",
+    "cellNo": "+88 01713 240 021",
+    "telephoneNo": "+88 02-58957393, +88 02-58952303"
+  },
+  "scrapedAt": "2026-09-11T07:00:10.728Z",
+  "shariaCompliant": true
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "LHB",
+  "scripCode": "21643",
+  "companyName": "LafargeHolcim Bangladesh PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LHB",
+  "lastAGMHeldOn": "2026-05-13",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 205,
+    "TRADING CODE": "LHB",
+    "LTP": 53.8,
+    "HIGH": 54.2,
+    "LOW": 52.7,
+    "CLOSEP": 53.8,
+    "YCP": 52.5,
+    "CHANGE": 1.3,
+    "TRADE": 1095,
+    "VALUE (mn)": 55.542,
+    "VOLUME": 1041498
+  },
+  "marketInformation": {
+    "lastTradingPrice": 51.1,
+    "daysRange": [
+      51,
+      52
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      45,
+      62.4
+    ],
+    "change": -0.5,
+    "daysTradeNos": 1286,
+    "yesterdaysClose": 51.6,
+    "daysVolumeNos": 642445,
+    "adjustedOpeningPrice": 51.6,
+    "daysValueMn": 32.94,
+    "openingPrice": 52,
+    "marketCapMn": 59926.873,
+    "closingPrice": 51.1,
+    "freeFloatMarketCapMn": 22375.948
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 14000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 11613.7,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 1161373500,
+    "sector": "Cement"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2003,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "40% 2025, 38% 2024, 50% 2023, 48% 2022, 25% 2021, 10% 2020, 10% 2019, 10% 2018, 10% 2017, 10% 2016, 10% 2015, 10% 2014",
+    "bonusIssue": "n/a",
+    "rightIssue": "1R:1 2011",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 7449.6,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 63.39,
+      "govtPct": 0,
+      "institutePct": 22.35,
+      "foreignPct": 0.76,
+      "publicPct": 13.5
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 62.66,
+      "govtPct": 0,
+      "institutePct": 23.55,
+      "foreignPct": 0.79,
+      "publicPct": 13
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 62.66,
+      "govtPct": 0,
+      "institutePct": 23.43,
+      "foreignPct": 0.77,
+      "publicPct": 13.14
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": 0.97,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.97,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 51.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": 0.9,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.9,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 56
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": 1.87,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.87,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 56
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 14.39,
+        "peDiluted": null,
+        "peTrailing": 12.69
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 14.22,
+        "peDiluted": null,
+        "peTrailing": 12.55
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 14.09,
+        "peDiluted": null,
+        "peTrailing": 12.43
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 13.93,
+        "peDiluted": null,
+        "peTrailing": 12.29
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 13.8,
+        "peDiluted": null,
+        "peTrailing": 12.17
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 13.66,
+        "peDiluted": null,
+        "peTrailing": 12.05
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 12.23,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 12.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 11.98,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 11.84,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 11.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 11.61,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.34,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.04,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3881.87,
+      "tciOriginal": 3881.87,
+      "tciRestated": 3881.87
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.83,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 15.25,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 4444.54,
+      "tciOriginal": 4444.54,
+      "tciRestated": 4444.54
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 5.12,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.14,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5942.09,
+      "tciOriginal": 5942.09,
+      "tciRestated": 5942.09
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.29,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 16.01,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3819.31,
+      "tciOriginal": 3819.31,
+      "tciRestated": 3819.31
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.4,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 16.41,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 5108.44,
+      "tciOriginal": 5108.44,
+      "tciRestated": 5108.44
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 21.27,
+      "dividend": "25.00",
+      "cashDividendPct": 25,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.52
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.93,
+      "dividend": "48.00",
+      "cashDividendPct": 48,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 7.41
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 13.54,
+      "dividend": "50.00",
+      "cashDividendPct": 50,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 7.22
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.39,
+      "dividend": "38.00",
+      "cashDividendPct": 38,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 7.05
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.62,
+      "dividend": "40.00",
+      "cashDividendPct": 40,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 8.57
+    }
+  ],
+  "financialLinks": [
+    "https://www.lafargeholcim.com.bd/financial-reports",
+    "https://www.lafargeholcim.com.bd/price-sensitive-information"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "40.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Noarai, Chattak, Sunamgonj",
+    "phone": "+880 2226601351-52, Ext. 503 & 506, +88 01313 779356, +88 01713 285770",
+    "fax": "+880 2226601350",
+    "email": "hasan.kamrul@lafargeholcim.com",
+    "webAddress": "http://www.lafargeholcim.com.bd",
+    "companySecretaryName": "Kazi Md. Kamrul Hasan",
+    "cellNo": "+8801313779359",
+    "telephoneNo": "+880 2226601351-52, Ext. 103"
+  },
+  "scrapedAt": "2026-09-11T07:00:00.327Z",
+  "shariaCompliant": true
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "PLFSL",
+  "scripCode": "11130",
+  "companyName": "Peoples Leasing and Fin. Services Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PLFSL",
+  "lastAGMHeldOn": "2026-08-17",
+  "forYearEnded": "2025-12-31",
+  "overview": {
+    "#": 276,
+    "TRADING CODE": "PLFSL",
+    "LTP": 1.9,
+    "HIGH": 2.1,
+    "LOW": 1.9,
+    "CLOSEP": 1.9,
+    "YCP": 2,
+    "CHANGE": -0.1,
+    "TRADE": 132,
+    "VALUE (mn)": 2.383,
+    "VOLUME": 1202770
+  },
+  "marketInformation": {
+    "lastTradingPrice": 2,
+    "daysRange": [
+      1.8,
+      2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      0.36,
+      4.2
+    ],
+    "change": 0.1,
+    "daysTradeNos": 120,
+    "yesterdaysClose": 1.9,
+    "daysVolumeNos": 1037923,
+    "adjustedOpeningPrice": 1.9,
+    "daysValueMn": 1.97,
+    "openingPrice": 1.9,
+    "marketCapMn": 542.337,
+    "closingPrice": 1.9,
+    "freeFloatMarketCapMn": 416.473
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 5000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 2854.41,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 285440597,
+    "sector": "Financial Institutions"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2005,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "-",
+    "bonusIssue": "10% 2014,10% 2013, 12.50% 2012, 10% 2011, 75% 2010, 38.50% 2009, 20% 2008, 35% 2007, 30% 2006, 45% 2005",
+    "rightIssue": "n/a",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": -48159.8,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 18.15,
+      "govtPct": 0,
+      "institutePct": 8.26,
+      "foreignPct": 0.65,
+      "publicPct": 72.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 18.15,
+      "govtPct": 0,
+      "institutePct": 12.88,
+      "foreignPct": 0.25,
+      "publicPct": 68.72
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 18.15,
+      "govtPct": 0,
+      "institutePct": 12.91,
+      "foreignPct": 0.25,
+      "publicPct": 68.69
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2026-03",
+      "epsBasic": -3.39,
+      "epsDiluted": null,
+      "epsContinuingBasic": -3.39,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3
+    },
+    {
+      "period": "Q2",
+      "endDate": "2026-06",
+      "epsBasic": -3.36,
+      "epsDiluted": null,
+      "epsContinuingBasic": -3.36,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 1.2
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2026-06",
+      "epsBasic": -6.69,
+      "epsDiluted": null,
+      "epsContinuingBasic": -6.69,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 1.2
+    },
+    {
+      "period": "Q3",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "9 Months",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -14.4,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -115.34,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -4110.21,
+      "tciOriginal": -4110.21,
+      "tciRestated": -4110.21
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -11.08,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -124.56,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -3163.31,
+      "tciOriginal": -3163.31,
+      "tciRestated": -3163.31
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -11.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -135.7,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -3178.67,
+      "tciOriginal": -3178.67,
+      "tciRestated": -3178.67
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -14.95,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -149.5,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -4267.55,
+      "tciOriginal": -4267.55,
+      "tciRestated": -4267.55
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -12.81,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -155.15,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -3656.35,
+      "tciOriginal": -3656.35,
+      "tciRestated": -3656.35
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://plfsbd.com/aboutus/fhighlights",
+    "https://plfsbd.com/aboutus/priceseninfo"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 4892.18,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+880223351732",
+    "fax": null,
+    "email": "armia@plfsbd.com",
+    "webAddress": "http://plfsbd.com",
+    "companySecretaryName": "Mr. Md. Armia Fakir, ACS",
+    "cellNo": "+88 01754 905 065",
+    "telephoneNo": "+88 02 23351732"
+  },
+  "scrapedAt": "2026-09-11T07:00:09.274Z",
+  "shariaCompliant": false
+}

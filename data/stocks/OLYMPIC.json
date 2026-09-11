@@ -1,0 +1,378 @@
+{
+  "tradingCode": "OLYMPIC",
+  "scripCode": "13203",
+  "companyName": "Olympic Industries PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OLYMPIC",
+  "lastAGMHeldOn": "2025-12-11",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 260,
+    "TRADING CODE": "OLYMPIC",
+    "LTP": 146.7,
+    "HIGH": 147.9,
+    "LOW": 146.2,
+    "CLOSEP": 146.7,
+    "YCP": 146.7,
+    "CHANGE": 0,
+    "TRADE": 210,
+    "VALUE (mn)": 7.736,
+    "VOLUME": 52666
+  },
+  "marketInformation": {
+    "lastTradingPrice": 142.5,
+    "daysRange": [
+      142.2,
+      144.6
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      128,
+      170.5
+    ],
+    "change": -1,
+    "daysTradeNos": 569,
+    "yesterdaysClose": 143.5,
+    "daysVolumeNos": 71642,
+    "adjustedOpeningPrice": 143.5,
+    "daysValueMn": 10.23,
+    "openingPrice": 143.4,
+    "marketCapMn": 28691.23,
+    "closingPrice": 142.5,
+    "freeFloatMarketCapMn": 10289.001
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1999.39,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 199938886,
+    "sector": "Food & Allied"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1989,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "30% 2025, 10% 2024, 60% 2023, 45% 2022, 54% 2021, 52% 2020, 50% 2019, 48% 2018, 45% 2017, 40% 2016, 30% 2015",
+    "bonusIssue": "5% 2016, 20% 2015, 35% 2014, 50% 2013, 50% 2012, 50% 2011, 50% 2010, 20% 2009, 2:1 96, 1:3 95, 1B:1 94, 1B:2 87",
+    "rightIssue": "1R:1 ( Premium Tk 100) 1996, 1R:1 (At Par) 1994",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 10466.8,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 32.38,
+      "govtPct": 0,
+      "institutePct": 20.77,
+      "foreignPct": 34.21,
+      "publicPct": 12.64
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 37.38,
+      "govtPct": 0,
+      "institutePct": 22.85,
+      "foreignPct": 27.51,
+      "publicPct": 12.26
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 37.38,
+      "govtPct": 0,
+      "institutePct": 22.81,
+      "foreignPct": 27.33,
+      "publicPct": 12.48
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 2.86,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.86,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 154.7
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 3.12,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.12,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 137.4
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 5.99,
+      "epsDiluted": null,
+      "epsContinuingBasic": 5.99,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 137.4
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 1.42,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.42,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.1
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 7.41,
+      "epsDiluted": null,
+      "epsContinuingBasic": 7.41,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 147.1
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 14.85,
+        "peDiluted": null,
+        "peTrailing": 15.44
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 14.55,
+        "peDiluted": null,
+        "peTrailing": 15.14
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 14.51,
+        "peDiluted": null,
+        "peTrailing": 15.09
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 14.57,
+        "peDiluted": null,
+        "peTrailing": 15.16
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 14.52,
+        "peDiluted": null,
+        "peTrailing": 15.11
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 14.42,
+        "peDiluted": null,
+        "peTrailing": 15
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 14.58,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 14.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 14.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 14.31,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 14.26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 14.17,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 10.19,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 46.21,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2037.36,
+      "tciOriginal": 2037.36,
+      "tciRestated": 2037.36
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 6.03,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 46.84,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1205.15,
+      "tciOriginal": 1205.15,
+      "tciRestated": 1205.15
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 7.78,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 50.12,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1556.24,
+      "tciOriginal": 1556.24,
+      "tciRestated": 1556.24
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 9.17,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 53.29,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1834.06,
+      "tciOriginal": 1834.06,
+      "tciRestated": 1834.06
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 10.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 62.35,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 2010.43,
+      "tciOriginal": 2010.43,
+      "tciRestated": 2010.43
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.68,
+      "dividend": "54.00",
+      "cashDividendPct": 54,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.18
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 20.59,
+      "dividend": "45.00",
+      "cashDividendPct": 45,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.63
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 19.73,
+      "dividend": "60.00",
+      "cashDividendPct": 60,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.91
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 14.43,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.76
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 15.27,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.95
+    }
+  ],
+  "financialLinks": [
+    "https://www.olympicbd.com/investors/financial-annual-reports",
+    "https://www.olympicbd.com/investors/psi-mi"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "30.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Biscuit, Confectionery & Bakery: a) Madanpur, Keodhala, Bondar, Narayanganj. b) Lolati, Kanchpur ,Sonargaon, Narayanganj. Noodles, Snacks, Corrugated Carton & Battery: c) Kutubpur, Kanchpur, Sonargaon",
+    "phone": "'+880-2223380238 +880-9606565228",
+    "fax": "'+880-2223387485",
+    "email": "mintu.das@olympicbd.com",
+    "webAddress": "http://www.olympicbd.com",
+    "companySecretaryName": "Mr. Mintu Kumar Das, FCS",
+    "cellNo": "+880-1876887353",
+    "telephoneNo": "+880-9606565228"
+  },
+  "scrapedAt": "2026-09-11T07:00:06.711Z",
+  "shariaCompliant": true
+}

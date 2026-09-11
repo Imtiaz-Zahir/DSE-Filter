@@ -1,0 +1,378 @@
+{
+  "tradingCode": "WATACHEM",
+  "scripCode": "18467",
+  "companyName": "Wata Chemicals Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=WATACHEM",
+  "lastAGMHeldOn": "2025-12-24",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 390,
+    "TRADING CODE": "WATACHEM",
+    "LTP": 137.7,
+    "HIGH": 138.6,
+    "LOW": 135.2,
+    "CLOSEP": 136.6,
+    "YCP": 137.9,
+    "CHANGE": -0.2,
+    "TRADE": 254,
+    "VALUE (mn)": 3.23,
+    "VOLUME": 23554
+  },
+  "marketInformation": {
+    "lastTradingPrice": 134.6,
+    "daysRange": [
+      131,
+      137
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      105.1,
+      158
+    ],
+    "change": 1.6,
+    "daysTradeNos": 132,
+    "yesterdaysClose": 133,
+    "daysVolumeNos": 9696,
+    "adjustedOpeningPrice": 133,
+    "daysValueMn": 1.28,
+    "openingPrice": 134,
+    "marketCapMn": 1971.408,
+    "closingPrice": 131.5,
+    "freeFloatMarketCapMn": 1253.615
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 150,
+    "debutTradingDate": "2014-05-14",
+    "paidUpCapitalMn": 148.23,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 14822618,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1992,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 373,248,416 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 36.41,
+      "govtPct": 0,
+      "institutePct": 38.59,
+      "foreignPct": 0,
+      "publicPct": 25
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 36.41,
+      "govtPct": 0,
+      "institutePct": 36.11,
+      "foreignPct": 0,
+      "publicPct": 27.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 36.41,
+      "govtPct": 0,
+      "institutePct": 35.65,
+      "foreignPct": 0,
+      "publicPct": 27.94
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.67,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.67,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 144.7
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 0.13,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.13,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 139.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 0.8,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.8,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 139.7
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.07,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.07,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 131.5
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 0.87,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.87,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 131.5
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 117.76,
+        "peDiluted": null,
+        "peTrailing": 145.32
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 114.48,
+        "peDiluted": null,
+        "peTrailing": 141.28
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 115.95,
+        "peDiluted": null,
+        "peTrailing": 143.09
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 115.26,
+        "peDiluted": null,
+        "peTrailing": 142.23
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 114.66,
+        "peDiluted": null,
+        "peTrailing": 141.49
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 113.36,
+        "peDiluted": null,
+        "peTrailing": 139.89
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 184.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 179.46,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 181.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 180.68,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 179.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 177.7,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 6.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 60.22,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 90.96,
+      "tciOriginal": 90.96,
+      "tciRestated": 89.62
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.05,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 61.18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 59.96,
+      "tciOriginal": 59.96,
+      "tciRestated": 58.73
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.03,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 62.51,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 44.99,
+      "tciOriginal": 44.99,
+      "tciRestated": 43.86
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.67,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 61.6,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 9.86,
+      "tciOriginal": 9.86,
+      "tciRestated": 8.83
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.74,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 61.09,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 11.04,
+      "tciOriginal": 11.04,
+      "tciRestated": 11.04
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 45.16,
+      "dividend": "30.00",
+      "cashDividendPct": 30,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.08
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 52.93,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.93
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 65.96,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.75
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 237.35,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.76
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 141.51,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.95
+    }
+  ],
+  "financialLinks": [
+    "https://watachemical.com/wp-content/uploads/2025/05/Un-Audited-Financial-Statement-for-Third-Quarter-Q32024-2025.pdf",
+    "https://watachemical.com/wp-content/uploads/2025/05/Price-Sensitive-Information-Q3-of-2024-25-ended-on-31.03.2025.pdf"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 397.55,
+    "latestDividendStatus": "10.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Murapara, Rupgonj, Narayangonj.",
+    "phone": "58152001, 8155206",
+    "fax": "+880-2-58155091",
+    "email": "watachemicalscs@gmail.com",
+    "webAddress": "http://www.watachemical.com",
+    "companySecretaryName": "Mr. Shamsul Huq",
+    "cellNo": "+88 01727 681 811",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T07:00:22.975Z",
+  "shariaCompliant": false
+}

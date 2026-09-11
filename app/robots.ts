@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://dsefilter.imtiazzahir211.workers.dev/sitemap.xml",
+    sitemap: "https://dse-filter.1mt2.workers.dev/sitemap.xml",
   };
 }

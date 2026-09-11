@@ -1,0 +1,378 @@
+{
+  "tradingCode": "RELIANCE1",
+  "scripCode": "12187",
+  "companyName": "Reliance One the first scheme of Reliance Insurance Mutual Fund",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RELIANCE1",
+  "lastAGMHeldOn": "For the year ended:",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 305,
+    "TRADING CODE": "RELIANCE1",
+    "LTP": 12.3,
+    "HIGH": 12.8,
+    "LOW": 12.1,
+    "CLOSEP": 12.3,
+    "YCP": 12.8,
+    "CHANGE": -0.5,
+    "TRADE": 787,
+    "VALUE (mn)": 26.127,
+    "VOLUME": 2104940
+  },
+  "marketInformation": {
+    "lastTradingPrice": 12.5,
+    "daysRange": [
+      12.2,
+      12.8
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      9.8,
+      18.8
+    ],
+    "change": 0.3,
+    "daysTradeNos": 925,
+    "yesterdaysClose": 12.2,
+    "daysVolumeNos": 2382455,
+    "adjustedOpeningPrice": 12.2,
+    "daysValueMn": 29.73,
+    "openingPrice": 12.4,
+    "marketCapMn": 738.1,
+    "closingPrice": 12.5,
+    "freeFloatMarketCapMn": 0
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": null,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 605,
+    "typeOfInstrument": "Mutual Funds",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 60500000,
+    "sector": "Mutual Funds"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2011,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "4% 2024, 5% 2023, 10% 2022, 10.50% 2021, 10% 2019,11% 2018, 10% 2017, 10% 2016, 11.00% 2015",
+    "bonusIssue": "50% RIU 2013",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 28.5,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "Data are provided as per Company\\'s Prospectus"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 20,
+      "govtPct": 0,
+      "institutePct": 40.45,
+      "foreignPct": 0,
+      "publicPct": 39.55
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 20,
+      "govtPct": 0,
+      "institutePct": 26.98,
+      "foreignPct": 0,
+      "publicPct": 53.02
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 20,
+      "govtPct": 0,
+      "institutePct": 33.8,
+      "foreignPct": 0,
+      "publicPct": 46.2
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.65,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.65,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.58,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.58,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 0.06,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.06,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 15.6
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.33,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.33,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 12.3
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 0.39,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.39,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 12.3
+    },
+    {
+      "period": "Annual",
+      "endDate": "2026-06",
+      "epsBasic": 1.15,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.15,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 10.8
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 10.7,
+        "peDiluted": null,
+        "peTrailing": 10.7
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 10.61,
+        "peDiluted": null,
+        "peTrailing": 10.61
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 10.61,
+        "peDiluted": null,
+        "peTrailing": 10.61
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 9.83,
+        "peDiluted": null,
+        "peTrailing": 9.83
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 10.61,
+        "peDiluted": null,
+        "peTrailing": 10.61
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 10.87,
+        "peDiluted": null,
+        "peTrailing": 10.87
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.76,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 64.17,
+      "tciOriginal": 64.17,
+      "tciRestated": 245.53
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.01,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.43,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 61.39,
+      "tciOriginal": 61.39,
+      "tciRestated": 61.39
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.55,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13.8,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 33.45,
+      "tciOriginal": 33.45,
+      "tciRestated": 22.33
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.4,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 24.37,
+      "tciOriginal": 24.37,
+      "tciRestated": -128.34
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.31,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.47,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -18.76,
+      "tciOriginal": -18.76,
+      "tciRestated": -18.76
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 12.07,
+      "dividend": "10.50",
+      "cashDividendPct": 10.5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 8.2
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 11.04,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 8.93
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 17.91,
+      "dividend": "5.00",
+      "cashDividendPct": 5,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.05
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 47.42,
+      "dividend": "4.00",
+      "cashDividendPct": 4,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.09
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://www.aims-bangladesh.com/fund/reliance-one/?action=financial_reports",
+    "https://www.aims-bangladesh.com/fund/reliance-one/?action=announcements"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+(880-2) 481 20558-59",
+    "fax": "+(880-2) 481 12652-53",
+    "email": "cmamizan@aims-bangladesh.com",
+    "webAddress": "https://www.aims-bangladesh.com",
+    "companySecretaryName": "Md. Mizanur Rahman, FCMA",
+    "cellNo": "+8801713423495",
+    "telephoneNo": "+(880-2) 481 20558-59"
+  },
+  "scrapedAt": "2026-09-11T07:00:14.133Z",
+  "shariaCompliant": false
+}

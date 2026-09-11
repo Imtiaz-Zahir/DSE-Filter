@@ -1,0 +1,378 @@
+{
+  "tradingCode": "SQURPHARMA",
+  "scripCode": "18473",
+  "companyName": "Square Pharmaceuticals PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SQURPHARMA",
+  "lastAGMHeldOn": "2025-12-15",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 356,
+    "TRADING CODE": "SQURPHARMA",
+    "LTP": 217.6,
+    "HIGH": 218.9,
+    "LOW": 216.7,
+    "CLOSEP": 217.6,
+    "YCP": 217,
+    "CHANGE": 0.6,
+    "TRADE": 1238,
+    "VALUE (mn)": 47.459,
+    "VOLUME": 218507
+  },
+  "marketInformation": {
+    "lastTradingPrice": 214.4,
+    "daysRange": [
+      213.9,
+      215.2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      198,
+      236
+    ],
+    "change": -0.3,
+    "daysTradeNos": 1674,
+    "yesterdaysClose": 214.7,
+    "daysVolumeNos": 147910,
+    "adjustedOpeningPrice": 214.7,
+    "daysValueMn": 31.73,
+    "openingPrice": 215,
+    "marketCapMn": 190321.032,
+    "closingPrice": 214.4,
+    "freeFloatMarketCapMn": 106288.361
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 10000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 8864.51,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 886451010,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1995,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "120% 2025, 110% 2024, 105% 2023, 100% 2022, 60% 2021, 47% 2020, 42% 2019, 36% 2018, 35% 2017, 40% 2016, 30% 2015",
+    "bonusIssue": "5% 2020, 7% 2019, 7% 2018, 7.5% 2017, 10% 2016, 12.50% 2015, 15% 2014, 30% 2013, 40% 2012, 35% 2011, 30% 2010, 25% 2009, 35% 2008, 50% 2007, 20%2006, 15% 2005, 20% 2004,20% 2003, 20% 2002, 25% 96",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 129050.4,
+    "otherComprehensiveIncomeMn": -185.9,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 43.59,
+      "govtPct": 0,
+      "institutePct": 14.05,
+      "foreignPct": 15.14,
+      "publicPct": 27.22
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 44.15,
+      "govtPct": 0,
+      "institutePct": 13.87,
+      "foreignPct": 14.37,
+      "publicPct": 27.61
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 44.15,
+      "govtPct": 0,
+      "institutePct": 13.9,
+      "foreignPct": 14.33,
+      "publicPct": 27.62
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 8.35,
+      "epsDiluted": null,
+      "epsContinuingBasic": 8.35,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 215
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 8.2,
+      "epsDiluted": null,
+      "epsContinuingBasic": 8.2,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 198.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 16.56,
+      "epsDiluted": null,
+      "epsContinuingBasic": 16.56,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 198.6
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 6.73,
+      "epsDiluted": null,
+      "epsContinuingBasic": 6.73,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 210.8
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 23.29,
+      "epsDiluted": null,
+      "epsContinuingBasic": 23.29,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 210.8
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 7.01,
+        "peDiluted": null,
+        "peTrailing": 7.46
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 6.96,
+        "peDiluted": null,
+        "peTrailing": 7.4
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 6.95,
+        "peDiluted": null,
+        "peTrailing": 7.4
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 6.94,
+        "peDiluted": null,
+        "peTrailing": 7.39
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 6.91,
+        "peDiluted": null,
+        "peTrailing": 7.36
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 6.9,
+        "peDiluted": null,
+        "peTrailing": 7.35
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 8.05,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 7.99,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 7.98,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 7.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 7.94,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 7.93,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 17.99,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 102.54,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 15947.45,
+      "tciOriginal": 15947.45,
+      "tciRestated": 17497.68
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 20.51,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 116.7,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 18176.74,
+      "tciOriginal": 18176.74,
+      "tciRestated": 17877.01
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 21.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 129.95,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 18980.14,
+      "tciOriginal": 18980.14,
+      "tciRestated": 18858.13
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 23.61,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 142.05,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 20927.45,
+      "tciOriginal": 20927.45,
+      "tciRestated": 20032.71
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 27.04,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 157.88,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 23967.97,
+      "tciOriginal": 23967.97,
+      "tciRestated": 23782.03
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 11.98,
+      "dividend": "60.00",
+      "cashDividendPct": 60,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.78
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 10.57,
+      "dividend": "100.00",
+      "cashDividendPct": 100,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.61
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.8,
+      "dividend": "105.00",
+      "cashDividendPct": 105,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 8.93,
+      "dividend": "110.00",
+      "cashDividendPct": 110,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.22
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.73,
+      "dividend": "120.00",
+      "cashDividendPct": 120,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 5.74
+    }
+  ],
+  "financialLinks": [
+    "https://www.squarepharma.com.bd/annual-reports.php",
+    "https://www.squarepharma.com.bd/price-sensitive-information.ph"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 200,
+    "latestDividendStatus": "120.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Pabna Unit: Square Road, Salgaria, Pabna, Bangladesh. Dhaka Unit: Board Ghar Bazar, Kaliakoir, Gazipur, Bangladesh",
+    "phone": "880-2-8833047-56, 02222295007,02222285870, 02222285910",
+    "fax": "58815336, 8834941",
+    "email": "khandaker@squaregroup.com",
+    "webAddress": "http://www.squarepharma.com.bd",
+    "companySecretaryName": "Khandaker Habibuzzaman",
+    "cellNo": "+88 01713 328 886",
+    "telephoneNo": "8833047-56, 02222295007,02222285870, 02222285910 Ext.229"
+  },
+  "scrapedAt": "2026-09-11T07:00:18.545Z",
+  "shariaCompliant": true
+}

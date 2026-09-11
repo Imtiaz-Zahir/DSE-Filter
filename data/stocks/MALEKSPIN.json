@@ -1,0 +1,375 @@
+{
+  "tradingCode": "MALEKSPIN",
+  "scripCode": "17451",
+  "companyName": "Malek Spinning Mills PLC.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MALEKSPIN",
+  "lastAGMHeldOn": "2025-12-15",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 213,
+    "TRADING CODE": "MALEKSPIN",
+    "LTP": 50.6,
+    "HIGH": 54.2,
+    "LOW": 50.3,
+    "CLOSEP": 50.6,
+    "YCP": 51.3,
+    "CHANGE": -0.7,
+    "TRADE": 3587,
+    "VALUE (mn)": 414.774,
+    "VOLUME": 7903951
+  },
+  "marketInformation": {
+    "lastTradingPrice": 46.4,
+    "daysRange": [
+      46.2,
+      48.2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      23.5,
+      54.2
+    ],
+    "change": -1.4,
+    "daysTradeNos": 2575,
+    "yesterdaysClose": 47.8,
+    "daysVolumeNos": 2562134,
+    "adjustedOpeningPrice": 47.8,
+    "daysValueMn": 120.14,
+    "openingPrice": 48,
+    "marketCapMn": 9254.08,
+    "closingPrice": 46.4,
+    "freeFloatMarketCapMn": 4364.034
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 3000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1936,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 193600000,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2010,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 3,233,498,086 Revaluation Surplus has been added To Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 47.34,
+      "govtPct": 0,
+      "institutePct": 11.15,
+      "foreignPct": 0,
+      "publicPct": 41.51
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 47.34,
+      "govtPct": 0,
+      "institutePct": 14.72,
+      "foreignPct": 0,
+      "publicPct": 37.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 47.34,
+      "govtPct": 0,
+      "institutePct": 13.76,
+      "foreignPct": 0,
+      "publicPct": 38.9
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 1.89,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.89,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 32.3
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 1.65,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.65,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 28.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 3.54,
+      "epsDiluted": null,
+      "epsContinuingBasic": 3.54,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 28.7
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 0.5,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.5,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 26.7
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 4.04,
+      "epsDiluted": null,
+      "epsContinuingBasic": 4.04,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 26.7
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 9.39,
+        "peDiluted": null,
+        "peTrailing": 8.92
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 8.8,
+        "peDiluted": null,
+        "peTrailing": 8.36
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 9.19,
+        "peDiluted": null,
+        "peTrailing": 8.73
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 8.52,
+        "peDiluted": null,
+        "peTrailing": 8.1
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 8.87,
+        "peDiluted": null,
+        "peTrailing": 8.43
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 8.61,
+        "peDiluted": null,
+        "peTrailing": 8.18
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 6.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 6.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 6.68,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 6.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 6.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 6.26,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.36,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 46.27,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 651.15,
+      "tciOriginal": 651.15,
+      "tciRestated": 651.15
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.72,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 48.91,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 720.72,
+      "tciOriginal": 720.72,
+      "tciRestated": 720.78
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 46.77,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -219.99,
+      "tciOriginal": -219.99,
+      "tciRestated": -219.99
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 7.38,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 53.74,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1429.47,
+      "tciOriginal": 1429.47,
+      "tciRestated": 1429.47
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 7.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 60.63,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1435.42,
+      "tciOriginal": 1435.42,
+      "tciRestated": 1435.42
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 9.28,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.21
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.79,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.45
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": -23.85,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 4.23,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.21
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 3.12,
+      "dividend": "10.00",
+      "cashDividendPct": 10,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.33
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 3592.16,
+    "latestDividendStatus": "10.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Shafipur, Upozilla: Kaliakoir, District: Gazipur, Bangladesh",
+    "phone": "+8809612111177-92, +880-2-8878062, +880-2-8878065",
+    "fax": "+880-2-8878064",
+    "email": "cs@malekspinning.com",
+    "webAddress": "http://www.malekspinning.com",
+    "companySecretaryName": "Mr. Syed Saiful Haque",
+    "cellNo": "+88 01709 998 861",
+    "telephoneNo": "+8809612111177-92 Ext.-184, +880-2-8878062, +880-2-8878065"
+  },
+  "scrapedAt": "2026-09-11T07:00:00.865Z",
+  "shariaCompliant": true
+}

@@ -17,10 +17,9 @@ import {
 } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { FilterState } from "@/lib/types";
+import { FilterState, AnyStock } from "@/lib/types";
 import { FilterDrawer } from "./filter-drawer";
 import { ExportMenu } from "./export-menu";
-import { Stock } from "@/lib/types";
 import { getAllSectors, getAllCategories } from "@/lib/stocks";
 
 interface FilterToolbarProps {
@@ -28,7 +27,7 @@ interface FilterToolbarProps {
   setFilters: React.Dispatch<React.SetStateAction<FilterState>>;
   viewMode: "table" | "grid";
   setViewMode: (mode: "table" | "grid") => void;
-  filteredStocks: Stock[];
+  filteredStocks: AnyStock[];
   activeFilterCount: number;
   onReset: () => void;
   drawerOpen: boolean;

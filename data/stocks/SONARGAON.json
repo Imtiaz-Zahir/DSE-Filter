@@ -1,0 +1,377 @@
+{
+  "tradingCode": "SONARGAON",
+  "scripCode": "17430",
+  "companyName": "Sonargaon Textiles Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONARGAON",
+  "lastAGMHeldOn": "2025-12-29",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 351,
+    "TRADING CODE": "SONARGAON",
+    "LTP": 100.6,
+    "HIGH": 103.1,
+    "LOW": 99.5,
+    "CLOSEP": 100.6,
+    "YCP": 101.3,
+    "CHANGE": -0.7,
+    "TRADE": 625,
+    "VALUE (mn)": 12.589,
+    "VOLUME": 124171
+  },
+  "marketInformation": {
+    "lastTradingPrice": 88,
+    "daysRange": [
+      86.1,
+      94.4
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      20.7,
+      124.5
+    ],
+    "change": -3.6,
+    "daysTradeNos": 315,
+    "yesterdaysClose": 91.6,
+    "daysVolumeNos": 70873,
+    "adjustedOpeningPrice": 91.6,
+    "daysValueMn": 6.4,
+    "openingPrice": 94.3,
+    "marketCapMn": 2424.382,
+    "closingPrice": 88,
+    "freeFloatMarketCapMn": 1346.754
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 500,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 264.67,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 26467056,
+    "sector": "Textile"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1995,
+    "marketCategory": "B",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 319,576,019 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 44.45,
+      "govtPct": 0,
+      "institutePct": 8.78,
+      "foreignPct": 0.29,
+      "publicPct": 46.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 44.45,
+      "govtPct": 0,
+      "institutePct": 28.87,
+      "foreignPct": 0.01,
+      "publicPct": 26.67
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 44.45,
+      "govtPct": 0,
+      "institutePct": 22.29,
+      "foreignPct": 0.01,
+      "publicPct": 33.25
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 0.005,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.005,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 33.5
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -0.17,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.17,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 30.9
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -0.16,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.16,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 30.9
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -0.03,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.03,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 37.6
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -0.19,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.19,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 37.6
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -13.35,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.08,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -353.33,
+      "tciOriginal": -353.33,
+      "tciRestated": -353.33
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.33,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.41,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 8.83,
+      "tciOriginal": 8.83,
+      "tciRestated": 8.83
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.23,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.04,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -6.21,
+      "tciOriginal": -6.21,
+      "tciRestated": -6.21
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.27,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 19.31,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 7.2,
+      "tciOriginal": 7.2,
+      "tciRestated": 7.2
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.8,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.35,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -21.25,
+      "tciOriginal": -21.25,
+      "tciRestated": -21.25
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 138.44,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.22
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 95.23,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.39
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [
+    "https://sonargaontextiles.com"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 672.4,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Rupatoli, Barishal.",
+    "phone": "55012652, 55012656, 55012657, 01705583480",
+    "fax": "+880-2-55012653",
+    "email": "sharedept@khansonsgroupbd.com info@khansonsgroupbd.com",
+    "webAddress": "https://sonargaontextiles.com",
+    "companySecretaryName": "Pintu Sikder ACS",
+    "cellNo": "01705583480",
+    "telephoneNo": "+880-2-55012658"
+  },
+  "scrapedAt": "2026-09-11T07:00:18.777Z",
+  "shariaCompliant": false
+}

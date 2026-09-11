@@ -19,7 +19,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dsefilter.imtiazzahir211.workers.dev"),
+  metadataBase: new URL("https://dse-filter.1mt2.workers.dev"),
   title: {
     default: "DSE Filter — Dhaka Stock Exchange Screener & Stock Analytics",
     template: "%s | DSE Filter",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://dsefilter.imtiazzahir211.workers.dev",
+    url: "https://dse-filter.1mt2.workers.dev",
     title: "DSE Filter — Dhaka Stock Exchange Screener & Stock Analytics",
     description:
       "Advanced, mobile-first Dhaka Stock Exchange screener with DSES Sharia filters, fundamental valuation metrics, multi-year audited financials, and shareholding breakdowns.",

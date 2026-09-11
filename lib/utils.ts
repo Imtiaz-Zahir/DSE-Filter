@@ -5,24 +5,37 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
 
+export function safeDecodeURIComponent(str: string | null | undefined): string {
+  if (!str) return ""
+  try {
+    return decodeURIComponent(str)
+  } catch {
+    return str
+  }
+}
+
 export function formatBDT(amount: number | null | undefined, decimals = 2): string {
   if (amount === null || amount === undefined || isNaN(amount)) {
     return "-"
   }
-  return `৳${amount.toLocaleString("en-BD", {
+  const isNeg = amount < 0
+  const abs = Math.abs(amount).toLocaleString("en-BD", {
     minimumFractionDigits: decimals,
     maximumFractionDigits: decimals,
-  })}`
+  })
+  return `${isNeg ? "-" : ""}৳${abs}`
 }
 
 export function formatCurrency(amount: number | null | undefined, decimals = 2): string {
   if (amount === null || amount === undefined || isNaN(amount)) {
     return "-"
   }
-  return amount.toLocaleString("en-BD", {
+  const isNeg = amount < 0
+  const abs = Math.abs(amount).toLocaleString("en-BD", {
     minimumFractionDigits: decimals,
     maximumFractionDigits: decimals,
   })
+  return `${isNeg ? "-" : ""}${abs}`
 }
 
 export function formatNumber(value: number | null | undefined, decimals = 2): string {
@@ -47,17 +60,18 @@ export function formatLargeNumber(valueMn: number | null | undefined): string {
     return "-"
   }
   
-  // Value is in Million BDT
+  const isNeg = valueMn < 0
+  const prefix = isNeg ? "-৳" : "৳"
   const absMn = Math.abs(valueMn)
   if (absMn >= 1000) {
     // 1000 Mn = 100 Crore or 1 Billion
-    const cr = valueMn / 10 // 1 Crore = 10 Million
-    if (Math.abs(cr) >= 100) {
-      return `৳${(cr / 100).toFixed(2)}k Cr`
+    const cr = absMn / 10 // 1 Crore = 10 Million
+    if (cr >= 100) {
+      return `${prefix}${(cr / 100).toFixed(2)}k Cr`
     }
-    return `৳${cr.toFixed(2)} Cr`
+    return `${prefix}${cr.toFixed(2)} Cr`
   }
-  return `৳${valueMn.toFixed(2)} Mn`
+  return `${prefix}${absMn.toFixed(2)} Mn`
 }
 
 export function formatPct(value: number | null | undefined, showSign = true, decimals = 2): string {

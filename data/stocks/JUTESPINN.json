@@ -1,0 +1,375 @@
+{
+  "tradingCode": "JUTESPINN",
+  "scripCode": "16355",
+  "companyName": "Jute Spinners Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=JUTESPINN",
+  "lastAGMHeldOn": "17/12/2016",
+  "forYearEnded": "2016-06-30",
+  "overview": {
+    "#": 193,
+    "TRADING CODE": "JUTESPINN",
+    "LTP": 213,
+    "HIGH": 213.2,
+    "LOW": 212,
+    "CLOSEP": 213,
+    "YCP": 213.3,
+    "CHANGE": -0.3,
+    "TRADE": 21,
+    "VALUE (mn)": 0.18,
+    "VOLUME": 845
+  },
+  "marketInformation": {
+    "lastTradingPrice": 209,
+    "daysRange": [
+      206,
+      212.1
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      171,
+      260
+    ],
+    "change": 0.7,
+    "daysTradeNos": 22,
+    "yesterdaysClose": 208.3,
+    "daysVolumeNos": 706,
+    "adjustedOpeningPrice": 208.3,
+    "daysValueMn": 0.15,
+    "openingPrice": 212.1,
+    "marketCapMn": 354.11,
+    "closingPrice": 209,
+    "freeFloatMarketCapMn": 213.101
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 35,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 17,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 1700000,
+    "sector": "Jute"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1984,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "-",
+    "bonusIssue": "n/a",
+    "rightIssue": "n/a",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": -267.7,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2016 (year ended)]",
+      "asOfDate": "2016-06-30",
+      "sponsorDirectorPct": 39.82,
+      "govtPct": 0,
+      "institutePct": 24.25,
+      "foreignPct": 0,
+      "publicPct": 35.93
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 39.82,
+      "govtPct": 0,
+      "institutePct": 23.2,
+      "foreignPct": 0,
+      "publicPct": 36.98
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 39.82,
+      "govtPct": 0,
+      "institutePct": 23.2,
+      "foreignPct": 0,
+      "publicPct": 36.98
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": -9,
+      "epsDiluted": null,
+      "epsContinuingBasic": -9,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 222.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": -10.95,
+      "epsDiluted": null,
+      "epsContinuingBasic": -10.95,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 197.7
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": -19.96,
+      "epsDiluted": null,
+      "epsContinuingBasic": -19.96,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 197.7
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": -8.42,
+      "epsDiluted": null,
+      "epsContinuingBasic": -8.42,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 213.6
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -30.47,
+      "epsDiluted": null,
+      "epsContinuingBasic": -30.47,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 213.6
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2012,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.25,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 3.5,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2013,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -48.14,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -39.9,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -81.84,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2014,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -43.64,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -83.92,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -74.18,
+      "tciOriginal": null,
+      "tciRestated": null
+    },
+    {
+      "year": 2015,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -19.69,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -105.18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -33.47,
+      "tciOriginal": -33.47,
+      "tciRestated": -33.47
+    },
+    {
+      "year": 2016,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -42.1,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -147.44,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -71.56,
+      "tciOriginal": -71.56,
+      "tciRestated": -71.56
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2012,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 38.88,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 2.5
+    },
+    {
+      "year": 2013,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2014,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2015,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2016,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 89.1,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "BSCIC Industrial Estate, Shiromoni, Khulna",
+    "phone": "880-2-8129149, 8113202, 8130463",
+    "fax": "88 - 02 - 8111650",
+    "email": "jutespinnersltd@gmail.com",
+    "webAddress": null,
+    "companySecretaryName": "A.T.M. Mostafa",
+    "cellNo": "+88 01713 431 772",
+    "telephoneNo": null
+  },
+  "scrapedAt": "2026-09-11T06:59:56.744Z",
+  "shariaCompliant": false
+}

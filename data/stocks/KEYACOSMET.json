@@ -1,0 +1,375 @@
+{
+  "tradingCode": "KEYACOSMET",
+  "scripCode": "18477",
+  "companyName": "Keya Cosmetics Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KEYACOSMET",
+  "lastAGMHeldOn": "2021-01-19",
+  "forYearEnded": "2020-06-30",
+  "overview": {
+    "#": 198,
+    "TRADING CODE": "KEYACOSMET",
+    "LTP": 5.2,
+    "HIGH": 5.4,
+    "LOW": 5.1,
+    "CLOSEP": 5.2,
+    "YCP": 5.3,
+    "CHANGE": -0.1,
+    "TRADE": 336,
+    "VALUE (mn)": 5.191,
+    "VOLUME": 999568
+  },
+  "marketInformation": {
+    "lastTradingPrice": 5.1,
+    "daysRange": [
+      5,
+      5.2
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      3.3,
+      6.1
+    ],
+    "change": 0.1,
+    "daysTradeNos": 152,
+    "yesterdaysClose": 5,
+    "daysVolumeNos": 1118034,
+    "adjustedOpeningPrice": 5,
+    "daysValueMn": 5.68,
+    "openingPrice": 5,
+    "marketCapMn": 5511.587,
+    "closingPrice": 5,
+    "freeFloatMarketCapMn": 2973.764
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 15000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 11023.2,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 1102317324,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2001,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 468,576 Revaluation Reserve has been added to Reserve & Surplus."
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2020 (year ended)]",
+      "asOfDate": "2020-06-30",
+      "sponsorDirectorPct": 46.27,
+      "govtPct": 0,
+      "institutePct": 9.25,
+      "foreignPct": 0,
+      "publicPct": 44.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 46.05,
+      "govtPct": 0,
+      "institutePct": 9.35,
+      "foreignPct": 0,
+      "publicPct": 44.6
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 46.05,
+      "govtPct": 0,
+      "institutePct": 8.57,
+      "foreignPct": 0,
+      "publicPct": 45.38
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2019-09",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 4.2
+    },
+    {
+      "period": "Q2",
+      "endDate": "2019-12",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3.1
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2019-12",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 3.1
+    },
+    {
+      "period": "Q3",
+      "endDate": "2020-03",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2.6
+    },
+    {
+      "period": "9 Months 202003",
+      "endDate": "2020-03",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2.6
+    },
+    {
+      "period": "Annual",
+      "endDate": "2020-06",
+      "epsBasic": 0.24,
+      "epsDiluted": null,
+      "epsContinuingBasic": 0.24,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 2.8
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 21.67,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 21.25,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 20.83,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 20.83,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 20.83,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 20.83,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 24.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 24.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 23.81,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2016,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.87,
+      "epsContinuingBasicOriginal": 1.59,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 15.77,
+      "navPerShareRestated": 13.36,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1325.68,
+      "tciOriginal": 1325.68,
+      "tciRestated": 1325.68
+    },
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.01,
+      "epsContinuingBasicOriginal": 1.67,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 15.37,
+      "navPerShareRestated": 12.81,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1675.04,
+      "tciOriginal": 1675.04,
+      "tciRestated": 1675.04
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.21,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 14.02,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1211.88,
+      "tciOriginal": 1211.88,
+      "tciRestated": 1211.88
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -12.94,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 0.02,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -12968.36,
+      "tciOriginal": -12968.36,
+      "tciRestated": -12968.36
+    },
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.21,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 0.23,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 236.38,
+      "tciOriginal": 236.38,
+      "tciRestated": 236.38
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2016,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 6.36,
+      "dividend": "18%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "18%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.33,
+      "dividend": "20%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "20%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.28,
+      "dividend": "10% B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "10% B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 13.06,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.57
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 11300.68,
+    "latestDividendStatus": "1.00 for 2020"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Jarun, Konabari, Gazipur.",
+    "phone": "9297147",
+    "fax": "9297778",
+    "email": "cs.noorhossain@keya-bd.com",
+    "webAddress": "http://www.keyacosmetics.com",
+    "companySecretaryName": "Md. Noor Hossain",
+    "cellNo": "01712675421",
+    "telephoneNo": "02-9297147"
+  },
+  "scrapedAt": "2026-09-11T06:59:58.879Z",
+  "shariaCompliant": false
+}

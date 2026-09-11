@@ -21,12 +21,15 @@
   "devDependencies": {
     "@cloudflare/vite-plugin": "^1.54.3",
     "@tailwindcss/postcss": "latest",
+    "@types/cheerio": "^0.22.35",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@vitejs/plugin-react": "^6.1.1",
     "@vitejs/plugin-rsc": "^0.5.34",
+    "cheerio": "^1.2.0",
     "tailwindcss": "latest",
+    "tsx": "^4.23.13",
     "typescript": "latest",
     "vite": "^8.2.2",
     "wrangler": "^4.128.0"
@@ -36,6 +39,12 @@
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "wrangler dev --config dist/server/wrangler.json",
-    "deploy": "vinext-cloudflare deploy --config dist/server/wrangler.json"
+    "deploy": "vinext-cloudflare deploy --config dist/server/wrangler.json",
+    "data:generate": "tsx scripts/generate-data.ts",
+    "data:scrape": "tsx scripts/index.ts --scrape",
+    "data:format": "tsx scripts/index.ts --format",
+    "kv:seed": "node scripts/seed-kv.mjs --preview",
+    "kv:seed:prod": "node scripts/seed-kv.mjs --remote --force",
+    "kv:seed:if-empty": "node scripts/seed-kv.mjs --remote --if-empty"
   }
 }

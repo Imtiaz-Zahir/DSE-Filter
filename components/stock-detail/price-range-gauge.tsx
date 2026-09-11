@@ -42,20 +42,29 @@ export function PriceRangeGauge({ stock }: PriceRangeGaugeProps) {
 
   // Calculate 52-week position %
   let range52Pct = 50;
-  if (range52W && ltp !== null && range52W[1] > range52W[0]) {
-    range52Pct = Math.max(
-      0,
-      Math.min(100, ((ltp - range52W[0]) / (range52W[1] - range52W[0])) * 100)
-    );
+  if (
+    range52W &&
+    typeof range52W[0] === "number" &&
+    typeof range52W[1] === "number" &&
+    range52W[1] > range52W[0] &&
+    ltp !== null &&
+    !isNaN(ltp)
+  ) {
+    const calc = ((ltp - range52W[0]) / (range52W[1] - range52W[0])) * 100;
+    range52Pct = !isNaN(calc) ? Math.max(0, Math.min(100, calc)) : 50;
   }
 
   // Calculate Day Range position %
   let dayRangePct = 50;
-  if (dayLow !== null && dayHigh !== null && ltp !== null && dayHigh > dayLow) {
-    dayRangePct = Math.max(
-      0,
-      Math.min(100, ((ltp - dayLow) / (dayHigh - dayLow)) * 100)
-    );
+  if (
+    dayLow !== null &&
+    dayHigh !== null &&
+    dayHigh > dayLow &&
+    ltp !== null &&
+    !isNaN(ltp)
+  ) {
+    const calc = ((ltp - dayLow) / (dayHigh - dayLow)) * 100;
+    dayRangePct = !isNaN(calc) ? Math.max(0, Math.min(100, calc)) : 50;
   }
 
   return (

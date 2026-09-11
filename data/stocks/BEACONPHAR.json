@@ -1,0 +1,377 @@
+{
+  "tradingCode": "BEACONPHAR",
+  "scripCode": "18482",
+  "companyName": "Beacon Pharmaceuticals PLC",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BEACONPHAR",
+  "lastAGMHeldOn": "2025-12-23",
+  "forYearEnded": "2025-06-30",
+  "overview": {
+    "#": 61,
+    "TRADING CODE": "BEACONPHAR",
+    "LTP": 107,
+    "HIGH": 107.4,
+    "LOW": 105,
+    "CLOSEP": 106.6,
+    "YCP": 105.5,
+    "CHANGE": 1.5,
+    "TRADE": 476,
+    "VALUE (mn)": 9.361,
+    "VOLUME": 87892
+  },
+  "marketInformation": {
+    "lastTradingPrice": 102.3,
+    "daysRange": [
+      102,
+      103.9
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      96,
+      134.1
+    ],
+    "change": -0.5,
+    "daysTradeNos": 422,
+    "yesterdaysClose": 102.8,
+    "daysVolumeNos": 57552,
+    "adjustedOpeningPrice": 102.8,
+    "daysValueMn": 5.91,
+    "openingPrice": 102.8,
+    "marketCapMn": 23746.8,
+    "closingPrice": 102.3,
+    "freeFloatMarketCapMn": 14280.502
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 3000,
+    "debutTradingDate": "2010-08-12",
+    "paidUpCapitalMn": 2310,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 231000000,
+    "sector": "Pharmaceuticals & Chemicals"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2010,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "21% 2025, 20% 2024, 16% 2023, 16% 2022, 15% 2021, 6% 2020, 5% 2019, 6% 2018, 5% 2017, 5% 2016",
+    "bonusIssue": "5% 2011",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 4357.1,
+    "otherComprehensiveIncomeMn": 0.1,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
+      "sponsorDirectorPct": 39.86,
+      "govtPct": 0,
+      "institutePct": 38.9,
+      "foreignPct": 0,
+      "publicPct": 21.24
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 39.86,
+      "govtPct": 0,
+      "institutePct": 38.15,
+      "foreignPct": 0,
+      "publicPct": 21.99
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 39.86,
+      "govtPct": 0,
+      "institutePct": 38.18,
+      "foreignPct": 0,
+      "publicPct": 21.96
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-09",
+      "epsBasic": 2.26,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.26,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 121.3
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-12",
+      "epsBasic": 2.47,
+      "epsDiluted": null,
+      "epsContinuingBasic": 2.47,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 104.6
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-12",
+      "epsBasic": 4.73,
+      "epsDiluted": null,
+      "epsContinuingBasic": 4.73,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 104.6
+    },
+    {
+      "period": "Q3",
+      "endDate": "2026-03",
+      "epsBasic": 1.22,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.22,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 101.3
+    },
+    {
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": 5.95,
+      "epsDiluted": null,
+      "epsContinuingBasic": 5.95,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 101.3
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 13.44,
+        "peDiluted": null,
+        "peTrailing": 16.92
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 13.06,
+        "peDiluted": null,
+        "peTrailing": 16.44
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 13.21,
+        "peDiluted": null,
+        "peTrailing": 16.63
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 13.08,
+        "peDiluted": null,
+        "peTrailing": 16.48
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 12.96,
+        "peDiluted": null,
+        "peTrailing": 16.32
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 12.89,
+        "peDiluted": null,
+        "peTrailing": 16.24
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 25.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 25.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 25.32,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 25.07,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 24.95,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 3.74,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 23.18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 863.17,
+      "tciOriginal": 863.17,
+      "tciRestated": 863.42
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.05,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 25.73,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 935.04,
+      "tciOriginal": 935.04,
+      "tciRestated": 935.19
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.21,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 25.72,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 509.84,
+      "tciOriginal": 509.84,
+      "tciRestated": 509.87
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 2.26,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 26.37,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 521.01,
+      "tciOriginal": 521.01,
+      "tciRestated": 520.34
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 4.1,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 28.86,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 946.51,
+      "tciOriginal": 946.51,
+      "tciRestated": 946.6
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 33.08,
+      "dividend": "15.00",
+      "cashDividendPct": 15,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.21
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 63.81,
+      "dividend": "16.00",
+      "cashDividendPct": 16,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.62
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 111.01,
+      "dividend": "16.00",
+      "cashDividendPct": 16,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.65
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 68.19,
+      "dividend": "20.00",
+      "cashDividendPct": 20,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.3
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 25.85,
+      "dividend": "21.00",
+      "cashDividendPct": 21,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.98
+    }
+  ],
+  "financialLinks": [
+    "https://beaconpharma.com.bd/investor-diary"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 3193.1,
+    "latestDividendStatus": "21.00 for 2025"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": "Khathali, Bhaluka, Mymensingh.",
+    "phone": "+880-2-57165371-76, Ext-102",
+    "fax": "+880-2-57165379",
+    "email": "anindya@beaconpharma.com.bd",
+    "webAddress": "http://www.beaconpharma.com.bd",
+    "companySecretaryName": "Mr. Anindya Sarkar FCS",
+    "cellNo": "+88 01335 251144",
+    "telephoneNo": "+880-2-57165371-76"
+  },
+  "scrapedAt": "2026-09-11T06:59:42.267Z",
+  "shariaCompliant": true
+}

@@ -1,0 +1,378 @@
+{
+  "tradingCode": "SANDHANINS",
+  "scripCode": "25718",
+  "companyName": "Sandhani Life Insurance Company Ltd.",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SANDHANINS",
+  "lastAGMHeldOn": "2025-09-25",
+  "forYearEnded": "2024-12-31",
+  "overview": {
+    "#": 325,
+    "TRADING CODE": "SANDHANINS",
+    "LTP": 25.7,
+    "HIGH": 26.3,
+    "LOW": 25.4,
+    "CLOSEP": 25.7,
+    "YCP": 25.3,
+    "CHANGE": 0.4,
+    "TRADE": 638,
+    "VALUE (mn)": 13.02,
+    "VOLUME": 502662
+  },
+  "marketInformation": {
+    "lastTradingPrice": 24.5,
+    "daysRange": [
+      24.4,
+      25
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      17.1,
+      30.3
+    ],
+    "change": -0.2,
+    "daysTradeNos": 232,
+    "yesterdaysClose": 24.7,
+    "daysVolumeNos": 179037,
+    "adjustedOpeningPrice": 24.7,
+    "daysValueMn": 4.42,
+    "openingPrice": 24.8,
+    "marketCapMn": 2709.556,
+    "closingPrice": 24.5,
+    "freeFloatMarketCapMn": 1851.325
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 2000,
+    "debutTradingDate": null,
+    "paidUpCapitalMn": 1096.99,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 109698633,
+    "sector": "Insurance"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 1996,
+    "marketCategory": "A",
+    "electronicShare": true,
+    "cashDividend": "12% 2024, 12% 2023, 12% 2022, 12% 2021 12% 2020, 12% 2019, 15% 2018",
+    "bonusIssue": "20% 2017, 20% 2016, 25% 2015, 22% 2014, 25.50% 2013, 30% 2012, 48% 2011, 48% 2010, 45% 2009, 35% 2008, 25% 2007, 20% 2006, 20% 2005, 16% 2004, 14% 2003",
+    "rightIssue": "n/a",
+    "yearEnd": "31-Dec",
+    "reserveSurplusWithoutOciMn": 0,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
+      "asOfDate": "2024-12-31",
+      "sponsorDirectorPct": 29.45,
+      "govtPct": 0,
+      "institutePct": 15.88,
+      "foreignPct": 0,
+      "publicPct": 54.67
+    },
+    {
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
+      "sponsorDirectorPct": 31.67,
+      "govtPct": 0,
+      "institutePct": 16.71,
+      "foreignPct": 0,
+      "publicPct": 51.62
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 31.67,
+      "govtPct": 0,
+      "institutePct": 16.47,
+      "foreignPct": 0,
+      "publicPct": 51.86
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2025-03",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 21.4
+    },
+    {
+      "period": "Q2",
+      "endDate": "2025-06",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 17.9
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2025-06",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 17.9
+    },
+    {
+      "period": "Q3",
+      "endDate": "2025-09",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 23.5
+    },
+    {
+      "period": "9 Months 202509",
+      "endDate": "2025-09",
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 23.5
+    },
+    {
+      "period": "Annual",
+      "endDate": "2025-12",
+      "epsBasic": 1.2,
+      "epsDiluted": null,
+      "epsContinuingBasic": 1.2,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 19.4
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 21.42,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 20.25,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 20.58,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 20.42,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 20.58,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 20.42,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": 22.35,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": 21.13,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": 21.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": 21.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": 21.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": 21.3,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.41,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.15,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 155.21,
+      "tciOriginal": 155.21,
+      "tciRestated": 155.21
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.43,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.68,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 156.74,
+      "tciOriginal": 156.74,
+      "tciRestated": 156.74
+    },
+    {
+      "year": 2022,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.88,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.57,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 96.53,
+      "tciOriginal": 96.53,
+      "tciRestated": 96.53
+    },
+    {
+      "year": 2023,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.1,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.48,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 120.67,
+      "tciOriginal": 120.67,
+      "tciRestated": 120.67
+    },
+    {
+      "year": 2024,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.15,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18.31,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 126.69,
+      "tciOriginal": 126.69,
+      "tciRestated": 126.69
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 19.43,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.38
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 23.66,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 3.55
+    },
+    {
+      "year": 2022,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 19.08,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.46
+    },
+    {
+      "year": 2023,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.45,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 4.46
+    },
+    {
+      "year": 2024,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 17.22,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 6.06
+    }
+  ],
+  "financialLinks": [
+    "https://sandhanilife.com/financial-indicator/annual-report-2021?pageId=57&pageName=Annual-Report-2021, https://sandhanilife.com/financial-indicator/hly-(un-audited)-2024?pageId=61&pageName=Hly-(Un-Aud",
+    "https://sandhanilife.com/psi?pageId=112&pageName=PSI"
+  ],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": "12.00 for 2024"
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "02-55168190, 02-55168181-5, 16802",
+    "fax": "02-9614405",
+    "email": "mizan_cs@sandhanilife.com",
+    "webAddress": "https://sandhanilife.com",
+    "companySecretaryName": "Md. Mizanur Rahman",
+    "cellNo": "01817030900",
+    "telephoneNo": "02-55168181-5, 9611197, 9664931, 9661241"
+  },
+  "scrapedAt": "2026-09-11T07:00:14.749Z",
+  "shariaCompliant": false
+}

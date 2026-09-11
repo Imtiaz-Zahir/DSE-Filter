@@ -1,0 +1,375 @@
+{
+  "tradingCode": "YPL",
+  "scripCode": "13241",
+  "companyName": "Yeakin Polymer Limited",
+  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=YPL",
+  "lastAGMHeldOn": "2021-12-28",
+  "forYearEnded": "2021-06-30",
+  "overview": {
+    "#": 392,
+    "TRADING CODE": "YPL",
+    "LTP": 21.4,
+    "HIGH": 22.6,
+    "LOW": 21,
+    "CLOSEP": 21.4,
+    "YCP": 22.2,
+    "CHANGE": -0.8,
+    "TRADE": 286,
+    "VALUE (mn)": 7.276,
+    "VOLUME": 339598
+  },
+  "marketInformation": {
+    "lastTradingPrice": 19.7,
+    "daysRange": [
+      19.6,
+      20.6
+    ],
+    "lastUpdate": "2:40 PM",
+    "movingRange52Weeks": [
+      12.6,
+      27.5
+    ],
+    "change": -0.6,
+    "daysTradeNos": 143,
+    "yesterdaysClose": 20.3,
+    "daysVolumeNos": 123152,
+    "adjustedOpeningPrice": 20.3,
+    "daysValueMn": 2.46,
+    "openingPrice": 20.6,
+    "marketCapMn": 1496.086,
+    "closingPrice": 19.7,
+    "freeFloatMarketCapMn": 1045.553
+  },
+  "basicInformation": {
+    "authorizedCapitalMn": 1000,
+    "debutTradingDate": "2016-09-22",
+    "paidUpCapitalMn": 736.99,
+    "typeOfInstrument": "Equity",
+    "faceParValue": 10,
+    "marketLot": 1,
+    "totalOutstandingSecurities": 73698817,
+    "sector": "Engineering"
+  },
+  "dividendAndSurplus": {
+    "listingYear": 2016,
+    "marketCategory": "Z",
+    "electronicShare": true,
+    "cashDividend": "1% 2020",
+    "bonusIssue": "5% 2019, 3% 2018, 5% 2017, 10% 2016",
+    "rightIssue": "-",
+    "yearEnd": "30-Jun",
+    "reserveSurplusWithoutOciMn": 82.9,
+    "otherComprehensiveIncomeMn": 0,
+    "remarks": "-"
+  },
+  "shareHoldings": [
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2021 (year ended)]",
+      "asOfDate": "2021-06-30",
+      "sponsorDirectorPct": 30.52,
+      "govtPct": 0,
+      "institutePct": 14.01,
+      "foreignPct": 0,
+      "publicPct": 55.47
+    },
+    {
+      "period": "Share Holding Percentage [as on May 31, 2026]",
+      "asOfDate": "2026-05-31",
+      "sponsorDirectorPct": 30.1,
+      "govtPct": 0,
+      "institutePct": 17.01,
+      "foreignPct": 0,
+      "publicPct": 52.89
+    },
+    {
+      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "asOfDate": "2026-06-30",
+      "sponsorDirectorPct": 30.1,
+      "govtPct": 0,
+      "institutePct": 17,
+      "foreignPct": 0,
+      "publicPct": 52.9
+    }
+  ],
+  "interimFinancials": [
+    {
+      "period": "Q1",
+      "endDate": "2022-09",
+      "epsBasic": -0.28,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.28,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 25
+    },
+    {
+      "period": "Q2",
+      "endDate": "2022-12",
+      "epsBasic": -0.21,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.21,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 18.8
+    },
+    {
+      "period": "Half Yearly",
+      "endDate": "2022-12",
+      "epsBasic": -0.49,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.49,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 18.8
+    },
+    {
+      "period": "Q3",
+      "endDate": "2023-03",
+      "epsBasic": -0.32,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.32,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 16.4
+    },
+    {
+      "period": "9 Months 202303",
+      "endDate": "2023-03",
+      "epsBasic": -0.8,
+      "epsDiluted": null,
+      "epsContinuingBasic": -0.8,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": 16.4
+    },
+    {
+      "period": "Annual",
+      "endDate": null,
+      "epsBasic": null,
+      "epsDiluted": null,
+      "epsContinuingBasic": null,
+      "epsContinuingDiluted": null,
+      "marketPriceEnd": null
+    }
+  ],
+  "peRatios": {
+    "unaudited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      }
+    ],
+    "audited": [
+      {
+        "date": "2026-09-03",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-06",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-07",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-08",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-09",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      }
+    ]
+  },
+  "auditedFinancials": [
+    {
+      "year": 2017,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.58,
+      "epsContinuingBasicOriginal": 0.51,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 13,
+      "navPerShareRestated": 12.39,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 34.76,
+      "tciOriginal": 34.76,
+      "tciRestated": 34.76
+    },
+    {
+      "year": 2018,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.145,
+      "epsContinuingBasicOriginal": 0.141,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.53,
+      "navPerShareRestated": 12.17,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 9.88,
+      "tciOriginal": 9.88,
+      "tciRestated": 9.88
+    },
+    {
+      "year": 2019,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.153,
+      "epsContinuingBasicOriginal": 0.145,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 12.32,
+      "navPerShareRestated": 11.73,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 10.72,
+      "tciOriginal": 10.72,
+      "tciRestated": 10.72
+    },
+    {
+      "year": 2020,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.01,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.74,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 0.68,
+      "tciOriginal": 0.68,
+      "tciRestated": 0.68
+    },
+    {
+      "year": 2021,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -0.55,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 11.12,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -40.33,
+      "tciOriginal": -40.33,
+      "tciRestated": -40.33
+    }
+  ],
+  "historicalDividendPE": [
+    {
+      "year": 2017,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 45.8,
+      "dividend": "5%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "5%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2018,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 111.1,
+      "dividend": "3%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "3%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2019,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 86.44,
+      "dividend": "5%B",
+      "cashDividendPct": null,
+      "bonusDividendPct": "5%B",
+      "dividendYieldPct": null
+    },
+    {
+      "year": 2020,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 1208,
+      "dividend": "1.00",
+      "cashDividendPct": 1,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.9
+    },
+    {
+      "year": 2021,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
+    }
+  ],
+  "financialLinks": [],
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Operation Shutdown",
+    "longTermLoanMn": 0,
+    "latestDividendStatus": null
+  },
+  "addressContact": {
+    "headOffice": "Head Office",
+    "factory": null,
+    "phone": "+88 02 51000207,",
+    "fax": "+88 02 51000206",
+    "email": "sumi.acc.ypl@gmail.com",
+    "webAddress": "http://www.yeakinpolymerbd.com",
+    "companySecretaryName": "Asma Ashraf Sumi",
+    "cellNo": "+88 01914882942",
+    "telephoneNo": "+88 02 51000207 Ext-805"
+  },
+  "scrapedAt": "2026-09-11T07:00:26.469Z",
+  "shariaCompliant": true
+}

@@ -8,15 +8,16 @@
   "overview": {
     "#": 229,
     "TRADING CODE": "MIRAKHTER",
-    "LTP": 35.5,
-    "HIGH": 36.5,
-    "LOW": 35.4,
-    "CLOSEP": 35.5,
-    "YCP": 36.1,
-    "CHANGE": -0.6,
-    "TRADE": 464,
-    "VALUE (mn)": 8.828,
-    "VOLUME": 245096
+    "tradingCode": "MIRAKHTER",
+    "LTP": 32.4,
+    "HIGH": 33.6,
+    "LOW": 32.1,
+    "CLOSEP": 32.4,
+    "YCP": 33.2,
+    "CHANGE": -0.8,
+    "TRADE": 302,
+    "VALUE (mn)": 4.412,
+    "VOLUME": 134839
   },
   "marketInformation": {
     "lastTradingPrice": 32.4,
@@ -373,6 +374,6 @@
     "cellNo": "01313-078620",
     "telephoneNo": "+88 02 55138529"
   },
-  "scrapedAt": "2026-09-11T07:00:03.020Z",
+  "scrapedAt": "2026-09-12T19:44:07.296Z",
   "shariaCompliant": false
 }

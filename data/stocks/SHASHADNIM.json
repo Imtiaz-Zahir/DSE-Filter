@@ -8,15 +8,16 @@
   "overview": {
     "#": 334,
     "TRADING CODE": "SHASHADNIM",
-    "LTP": 28.3,
-    "HIGH": 28.7,
-    "LOW": 27.7,
-    "CLOSEP": 28,
-    "YCP": 27.5,
-    "CHANGE": 0.8,
-    "TRADE": 740,
-    "VALUE (mn)": 28.395,
-    "VOLUME": 1006250
+    "tradingCode": "SHASHADNIM",
+    "LTP": 27.3,
+    "HIGH": 28.5,
+    "LOW": 27,
+    "CLOSEP": 27.3,
+    "YCP": 28,
+    "CHANGE": -0.7,
+    "TRADE": 476,
+    "VALUE (mn)": 13.261,
+    "VOLUME": 478841
   },
   "marketInformation": {
     "lastTradingPrice": 27.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 022 143",
     "telephoneNo": "+88-02-9836102,9836104"
   },
-  "scrapedAt": "2026-09-11T07:00:16.975Z",
+  "scrapedAt": "2026-09-12T19:44:48.117Z",
   "shariaCompliant": false
 }

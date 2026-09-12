@@ -8,15 +8,16 @@
   "overview": {
     "#": 12,
     "TRADING CODE": "ACTIVEFINE",
-    "LTP": 6.1,
-    "HIGH": 6.3,
-    "LOW": 6,
-    "CLOSEP": 6.1,
-    "YCP": 6.2,
-    "CHANGE": -0.1,
-    "TRADE": 103,
-    "VALUE (mn)": 1.008,
-    "VOLUME": 162800
+    "tradingCode": "ACTIVEFINE",
+    "LTP": 5.8,
+    "HIGH": 5.8,
+    "LOW": 5.7,
+    "CLOSEP": 5.7,
+    "YCP": 5.7,
+    "CHANGE": 0.1,
+    "TRADE": 46,
+    "VALUE (mn)": 0.491,
+    "VOLUME": 85572
   },
   "marketInformation": {
     "lastTradingPrice": 5.8,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01992 024 696",
     "telephoneNo": "02-9531023"
   },
-  "scrapedAt": "2026-09-11T06:59:34.365Z",
+  "scrapedAt": "2026-09-12T19:42:50.782Z",
   "shariaCompliant": false
 }

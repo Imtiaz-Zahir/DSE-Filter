@@ -8,15 +8,16 @@
   "overview": {
     "#": 34,
     "TRADING CODE": "APEXTANRY",
-    "LTP": 103.8,
-    "HIGH": 104.7,
-    "LOW": 102.9,
-    "CLOSEP": 103.8,
-    "YCP": 103.6,
-    "CHANGE": 0.2,
-    "TRADE": 238,
-    "VALUE (mn)": 3.931,
-    "VOLUME": 37864
+    "tradingCode": "APEXTANRY",
+    "LTP": 93.4,
+    "HIGH": 98,
+    "LOW": 92.7,
+    "CLOSEP": 93.4,
+    "YCP": 95.4,
+    "CHANGE": -2,
+    "TRADE": 281,
+    "VALUE (mn)": 5.938,
+    "VOLUME": 62915
   },
   "marketInformation": {
     "lastTradingPrice": 93.4,
@@ -373,6 +374,6 @@
     "cellNo": "01714 299096",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:37.013Z",
+  "scrapedAt": "2026-09-12T19:42:59.689Z",
   "shariaCompliant": false
 }

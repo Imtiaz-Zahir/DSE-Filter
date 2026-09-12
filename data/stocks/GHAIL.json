@@ -8,15 +8,16 @@
   "overview": {
     "#": 144,
     "TRADING CODE": "GHAIL",
-    "LTP": 13.8,
-    "HIGH": 14.2,
-    "LOW": 13.5,
-    "CLOSEP": 13.6,
-    "YCP": 13.9,
-    "CHANGE": -0.1,
-    "TRADE": 313,
-    "VALUE (mn)": 6.067,
-    "VOLUME": 442395
+    "tradingCode": "GHAIL",
+    "LTP": 12.9,
+    "HIGH": 13.4,
+    "LOW": 12.7,
+    "CLOSEP": 12.9,
+    "YCP": 13.2,
+    "CHANGE": -0.3,
+    "TRADE": 226,
+    "VALUE (mn)": 4.179,
+    "VOLUME": 321878
   },
   "marketInformation": {
     "lastTradingPrice": 12.9,
@@ -373,6 +374,6 @@
     "cellNo": "+8801313082970",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:51.799Z",
+  "scrapedAt": "2026-09-12T19:43:37.188Z",
   "shariaCompliant": false
 }

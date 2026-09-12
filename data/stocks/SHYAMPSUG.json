@@ -8,15 +8,16 @@
   "overview": {
     "#": 337,
     "TRADING CODE": "SHYAMPSUG",
-    "LTP": 303.1,
-    "HIGH": 310,
-    "LOW": 302.3,
-    "CLOSEP": 303.1,
-    "YCP": 306.2,
-    "CHANGE": -3.1,
-    "TRADE": 98,
-    "VALUE (mn)": 2.004,
-    "VOLUME": 6541
+    "tradingCode": "SHYAMPSUG",
+    "LTP": 300.1,
+    "HIGH": 304.5,
+    "LOW": 286.8,
+    "CLOSEP": 300.1,
+    "YCP": 291.8,
+    "CHANGE": 8.3,
+    "TRADE": 136,
+    "VALUE (mn)": 2.895,
+    "VOLUME": 9677
   },
   "marketInformation": {
     "lastTradingPrice": 300.1,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01795 108 465",
     "telephoneNo": "02 9515668"
   },
-  "scrapedAt": "2026-09-11T07:00:18.166Z",
+  "scrapedAt": "2026-09-12T19:44:50.006Z",
   "shariaCompliant": false
 }

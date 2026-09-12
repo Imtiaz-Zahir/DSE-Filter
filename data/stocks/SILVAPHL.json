@@ -8,15 +8,16 @@
   "overview": {
     "#": 341,
     "TRADING CODE": "SILVAPHL",
-    "LTP": 13.5,
-    "HIGH": 13.9,
-    "LOW": 13.4,
-    "CLOSEP": 13.5,
-    "YCP": 13.7,
-    "CHANGE": -0.2,
-    "TRADE": 357,
-    "VALUE (mn)": 6.029,
-    "VOLUME": 442492
+    "tradingCode": "SILVAPHL",
+    "LTP": 12.6,
+    "HIGH": 13.3,
+    "LOW": 12.5,
+    "CLOSEP": 12.6,
+    "YCP": 13,
+    "CHANGE": -0.4,
+    "TRADE": 235,
+    "VALUE (mn)": 3.56,
+    "VOLUME": 278701
   },
   "marketInformation": {
     "lastTradingPrice": 12.6,
@@ -373,6 +374,6 @@
     "cellNo": "01711891686",
     "telephoneNo": "+88-02-9146009-205"
   },
-  "scrapedAt": "2026-09-11T07:00:16.652Z",
+  "scrapedAt": "2026-09-12T19:44:50.845Z",
   "shariaCompliant": true
 }

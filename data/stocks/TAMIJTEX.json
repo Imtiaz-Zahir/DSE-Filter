@@ -8,15 +8,16 @@
   "overview": {
     "#": 366,
     "TRADING CODE": "TAMIJTEX",
-    "LTP": 122.5,
-    "HIGH": 124.5,
-    "LOW": 122.3,
-    "CLOSEP": 122.5,
-    "YCP": 122.2,
-    "CHANGE": 0.3,
-    "TRADE": 322,
-    "VALUE (mn)": 6.761,
-    "VOLUME": 54961
+    "tradingCode": "TAMIJTEX",
+    "LTP": 117.7,
+    "HIGH": 122.7,
+    "LOW": 117,
+    "CLOSEP": 117.7,
+    "YCP": 120.1,
+    "CHANGE": -2.4,
+    "TRADE": 181,
+    "VALUE (mn)": 4.261,
+    "VOLUME": 36019
   },
   "marketInformation": {
     "lastTradingPrice": 117.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01755 555 257, +88 01324241521",
     "telephoneNo": "9639203070"
   },
-  "scrapedAt": "2026-09-11T07:00:20.704Z",
+  "scrapedAt": "2026-09-12T19:44:59.722Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 69,
     "TRADING CODE": "BPML",
-    "LTP": 27.2,
-    "HIGH": 27.5,
-    "LOW": 27.2,
-    "CLOSEP": 27.3,
-    "YCP": 27.4,
+    "tradingCode": "BPML",
+    "LTP": 25.2,
+    "HIGH": 25.6,
+    "LOW": 24.9,
+    "CLOSEP": 25,
+    "YCP": 25.4,
     "CHANGE": -0.2,
-    "TRADE": 51,
-    "VALUE (mn)": 0.332,
-    "VOLUME": 12155
+    "TRADE": 87,
+    "VALUE (mn)": 0.394,
+    "VOLUME": 15699
   },
   "marketInformation": {
     "lastTradingPrice": 25.2,
@@ -373,6 +374,6 @@
     "cellNo": "01958-066529",
     "telephoneNo": "+88-02- 55036483-84 Ext.:4452"
   },
-  "scrapedAt": "2026-09-11T06:59:42.369Z",
+  "scrapedAt": "2026-09-12T19:43:14.004Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 233,
     "TRADING CODE": "MONNOAGML",
-    "LTP": 327,
-    "HIGH": 332,
-    "LOW": 325.5,
-    "CLOSEP": 327,
-    "YCP": 325,
-    "CHANGE": 2,
-    "TRADE": 99,
-    "VALUE (mn)": 0.949,
-    "VOLUME": 2895
+    "tradingCode": "MONNOAGML",
+    "LTP": 310.8,
+    "HIGH": 314.7,
+    "LOW": 310.2,
+    "CLOSEP": 310.8,
+    "YCP": 309.7,
+    "CHANGE": 1.1,
+    "TRADE": 73,
+    "VALUE (mn)": 1.258,
+    "VOLUME": 4036
   },
   "marketInformation": {
     "lastTradingPrice": 310.8,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "47123449"
   },
-  "scrapedAt": "2026-09-11T07:00:02.854Z",
+  "scrapedAt": "2026-09-12T19:44:10.983Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 212,
     "TRADING CODE": "MAKSONSPIN",
-    "LTP": 6.3,
-    "HIGH": 6.5,
-    "LOW": 6.2,
-    "CLOSEP": 6.3,
-    "YCP": 6.4,
-    "CHANGE": -0.1,
-    "TRADE": 109,
-    "VALUE (mn)": 1.573,
-    "VOLUME": 248424
+    "tradingCode": "MAKSONSPIN",
+    "LTP": 6,
+    "HIGH": 6.2,
+    "LOW": 6,
+    "CLOSEP": 6,
+    "YCP": 6,
+    "CHANGE": 0,
+    "TRADE": 54,
+    "VALUE (mn)": 0.571,
+    "VOLUME": 95060
   },
   "marketInformation": {
     "lastTradingPrice": 6,
@@ -373,6 +374,6 @@
     "cellNo": "01841166214",
     "telephoneNo": "8933612 ,8933613"
   },
-  "scrapedAt": "2026-09-11T07:00:02.160Z",
+  "scrapedAt": "2026-09-12T19:44:03.772Z",
   "shariaCompliant": false
 }

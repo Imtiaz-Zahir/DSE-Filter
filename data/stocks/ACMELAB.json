@@ -8,15 +8,16 @@
   "overview": {
     "#": 10,
     "TRADING CODE": "ACMELAB",
-    "LTP": 79.1,
-    "HIGH": 80,
-    "LOW": 79,
-    "CLOSEP": 79.1,
-    "YCP": 79.1,
+    "tradingCode": "ACMELAB",
+    "LTP": 77.5,
+    "HIGH": 78,
+    "LOW": 77.3,
+    "CLOSEP": 77.5,
+    "YCP": 77.5,
     "CHANGE": 0,
-    "TRADE": 357,
-    "VALUE (mn)": 8.68,
-    "VOLUME": 109566
+    "TRADE": 316,
+    "VALUE (mn)": 5.731,
+    "VOLUME": 73895
   },
   "marketInformation": {
     "lastTradingPrice": 77.5,
@@ -373,6 +374,6 @@
     "cellNo": "01713-433900",
     "telephoneNo": "02 8091051-3 Ext. 219"
   },
-  "scrapedAt": "2026-09-11T06:59:33.014Z",
+  "scrapedAt": "2026-09-12T19:42:47.101Z",
   "shariaCompliant": false
 }

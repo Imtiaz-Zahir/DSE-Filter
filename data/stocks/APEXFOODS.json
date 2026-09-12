@@ -8,15 +8,16 @@
   "overview": {
     "#": 31,
     "TRADING CODE": "APEXFOODS",
-    "LTP": 272.2,
-    "HIGH": 280,
-    "LOW": 271.2,
-    "CLOSEP": 272.2,
-    "YCP": 275.2,
-    "CHANGE": -3,
-    "TRADE": 248,
-    "VALUE (mn)": 3.498,
-    "VOLUME": 12773
+    "tradingCode": "APEXFOODS",
+    "LTP": 260.3,
+    "HIGH": 262.3,
+    "LOW": 257,
+    "CLOSEP": 259,
+    "YCP": 257.7,
+    "CHANGE": 2.6,
+    "TRADE": 191,
+    "VALUE (mn)": 2.936,
+    "VOLUME": 11315
   },
   "marketInformation": {
     "lastTradingPrice": 260.3,
@@ -373,6 +374,6 @@
     "cellNo": "01721007914",
     "telephoneNo": "09606669988 Ext-153"
   },
-  "scrapedAt": "2026-09-11T06:59:36.709Z",
+  "scrapedAt": "2026-09-12T19:42:58.906Z",
   "shariaCompliant": true
 }

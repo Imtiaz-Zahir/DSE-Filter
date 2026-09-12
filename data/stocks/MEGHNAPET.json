@@ -8,15 +8,16 @@
   "overview": {
     "#": 221,
     "TRADING CODE": "MEGHNAPET",
-    "LTP": 71,
-    "HIGH": 79.8,
-    "LOW": 71,
-    "CLOSEP": 71.8,
-    "YCP": 78.8,
-    "CHANGE": -7.8,
-    "TRADE": 725,
-    "VALUE (mn)": 14.942,
-    "VOLUME": 204156
+    "tradingCode": "MEGHNAPET",
+    "LTP": 61.9,
+    "HIGH": 66.7,
+    "LOW": 61.5,
+    "CLOSEP": 62.9,
+    "YCP": 64.5,
+    "CHANGE": -2.6,
+    "TRADE": 178,
+    "VALUE (mn)": 2.198,
+    "VOLUME": 34662
   },
   "marketInformation": {
     "lastTradingPrice": 61.9,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:00.709Z",
+  "scrapedAt": "2026-09-12T19:44:06.373Z",
   "shariaCompliant": false
 }

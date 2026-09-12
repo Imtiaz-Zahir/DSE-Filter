@@ -8,15 +8,16 @@
   "overview": {
     "#": 113,
     "TRADING CODE": "EBL1STMF",
-    "LTP": 4.1,
-    "HIGH": 4.3,
+    "tradingCode": "EBL1STMF",
+    "LTP": 4.3,
+    "HIGH": 4.4,
     "LOW": 4.1,
-    "CLOSEP": 4.1,
-    "YCP": 4.2,
-    "CHANGE": -0.1,
-    "TRADE": 51,
-    "VALUE (mn)": 0.834,
-    "VOLUME": 200246
+    "CLOSEP": 4.3,
+    "YCP": 4.1,
+    "CHANGE": 0.2,
+    "TRADE": 127,
+    "VALUE (mn)": 3.331,
+    "VOLUME": 782084
   },
   "marketInformation": {
     "lastTradingPrice": 4.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:47.226Z",
+  "scrapedAt": "2026-09-12T19:43:27.819Z",
   "shariaCompliant": false
 }

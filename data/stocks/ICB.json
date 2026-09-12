@@ -8,15 +8,16 @@
   "overview": {
     "#": 165,
     "TRADING CODE": "ICB",
-    "LTP": 41.6,
-    "HIGH": 43,
-    "LOW": 41.5,
-    "CLOSEP": 41.6,
-    "YCP": 41.8,
-    "CHANGE": -0.2,
-    "TRADE": 92,
-    "VALUE (mn)": 1.228,
-    "VOLUME": 29451
+    "tradingCode": "ICB",
+    "LTP": 39.5,
+    "HIGH": 41.2,
+    "LOW": 39.5,
+    "CLOSEP": 39.6,
+    "YCP": 40.5,
+    "CHANGE": -1,
+    "TRADE": 101,
+    "VALUE (mn)": 1.282,
+    "VOLUME": 32079
   },
   "marketInformation": {
     "lastTradingPrice": 39.5,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01674 904 507",
     "telephoneNo": "02223353319"
   },
-  "scrapedAt": "2026-09-11T06:59:53.099Z",
+  "scrapedAt": "2026-09-12T19:43:46.261Z",
   "shariaCompliant": false
 }

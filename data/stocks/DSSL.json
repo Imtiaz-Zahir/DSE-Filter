@@ -8,15 +8,16 @@
   "overview": {
     "#": 106,
     "TRADING CODE": "DSSL",
-    "LTP": 11.9,
-    "HIGH": 12.4,
-    "LOW": 11.8,
-    "CLOSEP": 11.9,
-    "YCP": 12.2,
-    "CHANGE": -0.3,
-    "TRADE": 942,
-    "VALUE (mn)": 23.244,
-    "VOLUME": 1931519
+    "tradingCode": "DSSL",
+    "LTP": 11.1,
+    "HIGH": 11.6,
+    "LOW": 11,
+    "CLOSEP": 11.1,
+    "YCP": 11.3,
+    "CHANGE": -0.2,
+    "TRADE": 554,
+    "VALUE (mn)": 16.892,
+    "VOLUME": 1518574
   },
   "marketInformation": {
     "lastTradingPrice": 11.1,
@@ -370,6 +371,6 @@
     "cellNo": "01913867976",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:47.183Z",
+  "scrapedAt": "2026-09-12T19:43:27.090Z",
   "shariaCompliant": true
 }

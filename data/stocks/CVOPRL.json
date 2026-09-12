@@ -8,15 +8,16 @@
   "overview": {
     "#": 91,
     "TRADING CODE": "CVOPRL",
-    "LTP": 168.1,
-    "HIGH": 170.5,
-    "LOW": 167.2,
-    "CLOSEP": 168.1,
-    "YCP": 166.9,
-    "CHANGE": 1.2,
-    "TRADE": 1107,
-    "VALUE (mn)": 26.358,
-    "VOLUME": 156218
+    "tradingCode": "CVOPRL",
+    "LTP": 153.1,
+    "HIGH": 158,
+    "LOW": 152.5,
+    "CLOSEP": 153.1,
+    "YCP": 155.8,
+    "CHANGE": -2.7,
+    "TRADE": 768,
+    "VALUE (mn)": 16.504,
+    "VOLUME": 106704
   },
   "marketInformation": {
     "lastTradingPrice": 153.1,
@@ -372,6 +373,6 @@
     "cellNo": "+880180006651",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:45.430Z",
+  "scrapedAt": "2026-09-12T19:43:22.549Z",
   "shariaCompliant": false
 }

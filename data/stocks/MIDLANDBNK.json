@@ -8,15 +8,16 @@
   "overview": {
     "#": 227,
     "TRADING CODE": "MIDLANDBNK",
-    "LTP": 17.2,
-    "HIGH": 17.3,
-    "LOW": 17.1,
-    "CLOSEP": 17.2,
-    "YCP": 17.1,
-    "CHANGE": 0.1,
-    "TRADE": 307,
-    "VALUE (mn)": 10.293,
-    "VOLUME": 599256
+    "tradingCode": "MIDLANDBNK",
+    "LTP": 16.6,
+    "HIGH": 16.9,
+    "LOW": 16.5,
+    "CLOSEP": 16.6,
+    "YCP": 16.6,
+    "CHANGE": 0,
+    "TRADE": 214,
+    "VALUE (mn)": 4.871,
+    "VOLUME": 293592
   },
   "marketInformation": {
     "lastTradingPrice": 16.6,
@@ -373,6 +374,6 @@
     "cellNo": "'01676572262",
     "telephoneNo": "'09666410999"
   },
-  "scrapedAt": "2026-09-11T07:00:02.958Z",
+  "scrapedAt": "2026-09-12T19:44:07.557Z",
   "shariaCompliant": false
 }

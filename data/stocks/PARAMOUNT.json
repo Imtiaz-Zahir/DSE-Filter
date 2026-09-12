@@ -8,15 +8,16 @@
   "overview": {
     "#": 266,
     "TRADING CODE": "PARAMOUNT",
-    "LTP": 61.7,
-    "HIGH": 64.4,
-    "LOW": 61.3,
-    "CLOSEP": 61.7,
-    "YCP": 61.4,
-    "CHANGE": 0.3,
-    "TRADE": 923,
-    "VALUE (mn)": 25.776,
-    "VOLUME": 409941
+    "tradingCode": "PARAMOUNT",
+    "LTP": 57.6,
+    "HIGH": 59.5,
+    "LOW": 57.5,
+    "CLOSEP": 57.6,
+    "YCP": 58.4,
+    "CHANGE": -0.8,
+    "TRADE": 470,
+    "VALUE (mn)": 10.13,
+    "VOLUME": 173005
   },
   "marketInformation": {
     "lastTradingPrice": 57.6,
@@ -370,6 +371,6 @@
     "cellNo": "01712925205",
     "telephoneNo": "02-55049825"
   },
-  "scrapedAt": "2026-09-11T07:00:08.183Z",
+  "scrapedAt": "2026-09-12T19:44:22.714Z",
   "shariaCompliant": false
 }

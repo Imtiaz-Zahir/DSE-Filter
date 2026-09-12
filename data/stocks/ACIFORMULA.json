@@ -8,15 +8,16 @@
   "overview": {
     "#": 9,
     "TRADING CODE": "ACIFORMULA",
-    "LTP": 155.4,
-    "HIGH": 159.9,
-    "LOW": 154.8,
-    "CLOSEP": 155.4,
-    "YCP": 158.1,
-    "CHANGE": -2.7,
-    "TRADE": 665,
-    "VALUE (mn)": 20.081,
-    "VOLUME": 128218
+    "tradingCode": "ACIFORMULA",
+    "LTP": 153.2,
+    "HIGH": 157.7,
+    "LOW": 150.2,
+    "CLOSEP": 153.2,
+    "YCP": 152.7,
+    "CHANGE": 0.5,
+    "TRADE": 866,
+    "VALUE (mn)": 20.801,
+    "VOLUME": 133911
   },
   "marketInformation": {
     "lastTradingPrice": 153.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01708467600",
     "telephoneNo": "02226605101"
   },
-  "scrapedAt": "2026-09-11T06:59:33.228Z",
+  "scrapedAt": "2026-09-12T19:42:47.190Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 27,
     "TRADING CODE": "AMCL(PRAN)",
-    "LTP": 221.9,
-    "HIGH": 226.7,
-    "LOW": 221.9,
-    "CLOSEP": 222.1,
-    "YCP": 224.2,
-    "CHANGE": -2.3,
-    "TRADE": 23,
-    "VALUE (mn)": 0.283,
-    "VOLUME": 1275
+    "tradingCode": "AMCL(PRAN)",
+    "LTP": 214.6,
+    "HIGH": 218.8,
+    "LOW": 212,
+    "CLOSEP": 212.8,
+    "YCP": 216.4,
+    "CHANGE": -1.8,
+    "TRADE": 122,
+    "VALUE (mn)": 0.997,
+    "VOLUME": 4638
   },
   "marketInformation": {
     "lastTradingPrice": 214.6,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01769696203",
     "telephoneNo": "02222281792; Ext.: 230"
   },
-  "scrapedAt": "2026-09-11T06:59:36.378Z",
+  "scrapedAt": "2026-09-12T19:42:55.532Z",
   "shariaCompliant": false
 }

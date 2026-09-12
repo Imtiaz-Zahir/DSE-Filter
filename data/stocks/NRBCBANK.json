@@ -8,15 +8,16 @@
   "overview": {
     "#": 254,
     "TRADING CODE": "NRBCBANK",
-    "LTP": 8.9,
-    "HIGH": 9,
-    "LOW": 8.8,
+    "tradingCode": "NRBCBANK",
+    "LTP": 9,
+    "HIGH": 9.1,
+    "LOW": 8.4,
     "CLOSEP": 9,
     "YCP": 8.9,
-    "CHANGE": 0,
-    "TRADE": 41,
-    "VALUE (mn)": 0.856,
-    "VOLUME": 95849
+    "CHANGE": 0.1,
+    "TRADE": 56,
+    "VALUE (mn)": 9.512,
+    "VOLUME": 1123878
   },
   "marketInformation": {
     "lastTradingPrice": 9,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01955502070",
     "telephoneNo": "02223353422-30, Ext. 112"
   },
-  "scrapedAt": "2026-09-11T07:00:04.895Z",
+  "scrapedAt": "2026-09-12T19:44:17.201Z",
   "shariaCompliant": false
 }

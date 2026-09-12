@@ -8,15 +8,16 @@
   "overview": {
     "#": 395,
     "TRADING CODE": "ZEALBANGLA",
-    "LTP": 182.5,
-    "HIGH": 190,
-    "LOW": 181.5,
-    "CLOSEP": 182.5,
-    "YCP": 182.3,
-    "CHANGE": 0.2,
-    "TRADE": 87,
-    "VALUE (mn)": 0.682,
-    "VOLUME": 3737
+    "tradingCode": "ZEALBANGLA",
+    "LTP": 173,
+    "HIGH": 177.2,
+    "LOW": 169.3,
+    "CLOSEP": 173,
+    "YCP": 169.4,
+    "CHANGE": 3.6,
+    "TRADE": 146,
+    "VALUE (mn)": 0.784,
+    "VOLUME": 4526
   },
   "marketInformation": {
     "lastTradingPrice": 173,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01818-053145",
     "telephoneNo": "02-951669"
   },
-  "scrapedAt": "2026-09-11T07:00:26.089Z",
+  "scrapedAt": "2026-09-12T19:45:08.621Z",
   "shariaCompliant": false
 }

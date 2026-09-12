@@ -8,15 +8,16 @@
   "overview": {
     "#": 153,
     "TRADING CODE": "GRAMEENS2",
-    "LTP": 12,
-    "HIGH": 12.4,
+    "tradingCode": "GRAMEENS2",
+    "LTP": 12.1,
+    "HIGH": 12.2,
     "LOW": 12,
-    "CLOSEP": 12,
-    "YCP": 13,
-    "CHANGE": -1,
-    "TRADE": 410,
-    "VALUE (mn)": 7.441,
-    "VOLUME": 612774
+    "CLOSEP": 12.1,
+    "YCP": 12,
+    "CHANGE": 0.1,
+    "TRADE": 101,
+    "VALUE (mn)": 2.567,
+    "VOLUME": 212293
   },
   "marketInformation": {
     "lastTradingPrice": 12.1,
@@ -373,6 +374,6 @@
     "cellNo": "+8801713423495",
     "telephoneNo": "+(880-2) 481 20558-59"
   },
-  "scrapedAt": "2026-09-11T06:59:52.775Z",
+  "scrapedAt": "2026-09-12T19:43:41.653Z",
   "shariaCompliant": false
 }

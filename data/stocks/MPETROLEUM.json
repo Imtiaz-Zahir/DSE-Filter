@@ -8,15 +8,16 @@
   "overview": {
     "#": 237,
     "TRADING CODE": "MPETROLEUM",
-    "LTP": 207.5,
-    "HIGH": 208.1,
+    "tradingCode": "MPETROLEUM",
+    "LTP": 206,
+    "HIGH": 208.2,
     "LOW": 206,
-    "CLOSEP": 207.2,
+    "CLOSEP": 206,
     "YCP": 206,
-    "CHANGE": 1.5,
-    "TRADE": 121,
-    "VALUE (mn)": 1.99,
-    "VOLUME": 9610
+    "CHANGE": 0,
+    "TRADE": 107,
+    "VALUE (mn)": 1.354,
+    "VOLUME": 6567
   },
   "marketInformation": {
     "lastTradingPrice": 206,
@@ -373,6 +374,6 @@
     "cellNo": "01708-812964",
     "telephoneNo": "02 333311891-7 Ext. 154"
   },
-  "scrapedAt": "2026-09-11T07:00:04.092Z",
+  "scrapedAt": "2026-09-12T19:44:12.509Z",
   "shariaCompliant": false
 }

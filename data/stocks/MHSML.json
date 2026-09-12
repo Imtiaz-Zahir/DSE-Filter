@@ -8,15 +8,16 @@
   "overview": {
     "#": 225,
     "TRADING CODE": "MHSML",
-    "LTP": 20.8,
-    "HIGH": 21.8,
-    "LOW": 20.6,
-    "CLOSEP": 20.8,
-    "YCP": 21.6,
-    "CHANGE": -0.8,
-    "TRADE": 692,
-    "VALUE (mn)": 15.85,
-    "VOLUME": 748317
+    "tradingCode": "MHSML",
+    "LTP": 19.8,
+    "HIGH": 20.3,
+    "LOW": 19.6,
+    "CLOSEP": 19.8,
+    "YCP": 20,
+    "CHANGE": -0.2,
+    "TRADE": 326,
+    "VALUE (mn)": 9.697,
+    "VOLUME": 487570
   },
   "marketInformation": {
     "lastTradingPrice": 19.8,
@@ -370,6 +371,6 @@
     "cellNo": "01708-483355",
     "telephoneNo": "880963-9203040 Extension No. 109"
   },
-  "scrapedAt": "2026-09-11T07:00:01.008Z",
+  "scrapedAt": "2026-09-12T19:44:06.614Z",
   "shariaCompliant": true
 }

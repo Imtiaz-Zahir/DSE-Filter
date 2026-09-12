@@ -8,15 +8,16 @@
   "overview": {
     "#": 379,
     "TRADING CODE": "UNIQUEHRL",
-    "LTP": 43.6,
-    "HIGH": 43.7,
-    "LOW": 43.2,
-    "CLOSEP": 43.4,
-    "YCP": 43.1,
-    "CHANGE": 0.5,
-    "TRADE": 292,
-    "VALUE (mn)": 9.441,
-    "VOLUME": 217462
+    "tradingCode": "UNIQUEHRL",
+    "LTP": 41.7,
+    "HIGH": 42.2,
+    "LOW": 41.6,
+    "CLOSEP": 41.7,
+    "YCP": 41.9,
+    "CHANGE": -0.2,
+    "TRADE": 198,
+    "VALUE (mn)": 2.383,
+    "VOLUME": 56975
   },
   "marketInformation": {
     "lastTradingPrice": 41.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01769501607",
     "telephoneNo": "+88-02-222285116-23"
   },
-  "scrapedAt": "2026-09-11T07:00:22.893Z",
+  "scrapedAt": "2026-09-12T19:45:02.747Z",
   "shariaCompliant": false
 }

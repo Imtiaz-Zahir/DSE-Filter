@@ -8,15 +8,16 @@
   "overview": {
     "#": 387,
     "TRADING CODE": "VAMLRBBF",
-    "LTP": 8.1,
+    "tradingCode": "VAMLRBBF",
+    "LTP": 8.2,
     "HIGH": 8.2,
-    "LOW": 8,
+    "LOW": 8.1,
     "CLOSEP": 8.1,
-    "YCP": 8,
-    "CHANGE": 0.1,
-    "TRADE": 36,
-    "VALUE (mn)": 0.325,
-    "VOLUME": 40140
+    "YCP": 8.2,
+    "CHANGE": 0,
+    "TRADE": 26,
+    "VALUE (mn)": 1.341,
+    "VOLUME": 165513
   },
   "marketInformation": {
     "lastTradingPrice": 8.2,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01841 082 262",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:23.318Z",
+  "scrapedAt": "2026-09-12T19:45:06.728Z",
   "shariaCompliant": false
 }

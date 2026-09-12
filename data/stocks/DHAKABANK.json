@@ -8,15 +8,16 @@
   "overview": {
     "#": 101,
     "TRADING CODE": "DHAKABANK",
-    "LTP": 11.9,
-    "HIGH": 12.1,
-    "LOW": 11.9,
-    "CLOSEP": 11.9,
-    "YCP": 12,
-    "CHANGE": -0.1,
-    "TRADE": 244,
-    "VALUE (mn)": 7.404,
-    "VOLUME": 620133
+    "tradingCode": "DHAKABANK",
+    "LTP": 11.8,
+    "HIGH": 11.9,
+    "LOW": 11.8,
+    "CLOSEP": 11.8,
+    "YCP": 11.8,
+    "CHANGE": 0,
+    "TRADE": 239,
+    "VALUE (mn)": 5.654,
+    "VOLUME": 478720
   },
   "marketInformation": {
     "lastTradingPrice": 11.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 038 522",
     "telephoneNo": "8802 5831 4424-30 (Ext. 241)"
   },
-  "scrapedAt": "2026-09-11T06:59:45.615Z",
+  "scrapedAt": "2026-09-12T19:43:25.908Z",
   "shariaCompliant": false
 }

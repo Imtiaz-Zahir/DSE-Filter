@@ -8,15 +8,16 @@
   "overview": {
     "#": 253,
     "TRADING CODE": "NRBBANK",
-    "LTP": 6.7,
-    "HIGH": 6.8,
-    "LOW": 6.7,
-    "CLOSEP": 6.7,
-    "YCP": 6.7,
+    "tradingCode": "NRBBANK",
+    "LTP": 6.4,
+    "HIGH": 6.6,
+    "LOW": 6.4,
+    "CLOSEP": 6.5,
+    "YCP": 6.4,
     "CHANGE": 0,
-    "TRADE": 38,
-    "VALUE (mn)": 0.894,
-    "VOLUME": 133131
+    "TRADE": 58,
+    "VALUE (mn)": 1.19,
+    "VOLUME": 183015
   },
   "marketInformation": {
     "lastTradingPrice": 6.4,
@@ -321,6 +322,6 @@
     "cellNo": "01955544447",
     "telephoneNo": "+8809666456384"
   },
-  "scrapedAt": "2026-09-11T07:00:04.786Z",
+  "scrapedAt": "2026-09-12T19:44:17.139Z",
   "shariaCompliant": false
 }

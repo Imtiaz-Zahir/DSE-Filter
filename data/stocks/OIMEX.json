@@ -8,15 +8,16 @@
   "overview": {
     "#": 259,
     "TRADING CODE": "OIMEX",
-    "LTP": 15.2,
-    "HIGH": 15.8,
-    "LOW": 15.2,
-    "CLOSEP": 15.2,
-    "YCP": 15.6,
-    "CHANGE": -0.4,
-    "TRADE": 67,
-    "VALUE (mn)": 0.657,
-    "VOLUME": 43039
+    "tradingCode": "OIMEX",
+    "LTP": 14.4,
+    "HIGH": 14.9,
+    "LOW": 14.2,
+    "CLOSEP": 14.2,
+    "YCP": 14.5,
+    "CHANGE": -0.1,
+    "TRADE": 76,
+    "VALUE (mn)": 0.379,
+    "VOLUME": 26602
   },
   "marketInformation": {
     "lastTradingPrice": 14.4,
@@ -370,6 +371,6 @@
     "cellNo": "01755549029",
     "telephoneNo": "+ 88 02 9665272"
   },
-  "scrapedAt": "2026-09-11T07:00:06.827Z",
+  "scrapedAt": "2026-09-12T19:44:20.520Z",
   "shariaCompliant": false
 }

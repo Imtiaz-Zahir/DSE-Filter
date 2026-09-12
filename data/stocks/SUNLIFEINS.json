@@ -8,15 +8,16 @@
   "overview": {
     "#": 363,
     "TRADING CODE": "SUNLIFEINS",
-    "LTP": 50.1,
-    "HIGH": 51.5,
-    "LOW": 50,
-    "CLOSEP": 50.1,
-    "YCP": 49.8,
-    "CHANGE": 0.3,
-    "TRADE": 459,
-    "VALUE (mn)": 10.167,
-    "VOLUME": 200629
+    "tradingCode": "SUNLIFEINS",
+    "LTP": 48.9,
+    "HIGH": 50.8,
+    "LOW": 48.5,
+    "CLOSEP": 48.9,
+    "YCP": 50,
+    "CHANGE": -1.1,
+    "TRADE": 524,
+    "VALUE (mn)": 9.293,
+    "VOLUME": 187501
   },
   "marketInformation": {
     "lastTradingPrice": 48.9,
@@ -315,6 +316,6 @@
     "cellNo": "+88 01713190292",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:21.477Z",
+  "scrapedAt": "2026-09-12T19:44:57.146Z",
   "shariaCompliant": false
 }

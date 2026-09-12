@@ -8,15 +8,16 @@
   "overview": {
     "#": 70,
     "TRADING CODE": "BPPL",
-    "LTP": 20.3,
-    "HIGH": 20.7,
-    "LOW": 20.2,
-    "CLOSEP": 20.3,
-    "YCP": 20.6,
-    "CHANGE": -0.3,
-    "TRADE": 587,
-    "VALUE (mn)": 20.071,
-    "VOLUME": 982122
+    "tradingCode": "BPPL",
+    "LTP": 19.2,
+    "HIGH": 19.9,
+    "LOW": 18.9,
+    "CLOSEP": 19.2,
+    "YCP": 19.7,
+    "CHANGE": -0.5,
+    "TRADE": 478,
+    "VALUE (mn)": 13.536,
+    "VOLUME": 697505
   },
   "marketInformation": {
     "lastTradingPrice": 19.2,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01531 548 499",
     "telephoneNo": "+88-02-223380339, 47115792 (Ext. 115)"
   },
-  "scrapedAt": "2026-09-11T06:59:42.559Z",
+  "scrapedAt": "2026-09-12T19:43:14.131Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 281,
     "TRADING CODE": "PRAGATILIF",
-    "LTP": 151.8,
-    "HIGH": 153.8,
-    "LOW": 141.5,
-    "CLOSEP": 151.8,
-    "YCP": 141.3,
-    "CHANGE": 10.5,
-    "TRADE": 1477,
-    "VALUE (mn)": 25.294,
-    "VOLUME": 170406
+    "tradingCode": "PRAGATILIF",
+    "LTP": 144.4,
+    "HIGH": 151.5,
+    "LOW": 142.5,
+    "CLOSEP": 144.4,
+    "YCP": 148.3,
+    "CHANGE": -3.9,
+    "TRADE": 562,
+    "VALUE (mn)": 8.592,
+    "VOLUME": 58782
   },
   "marketInformation": {
     "lastTradingPrice": 144.4,
@@ -318,6 +319,6 @@
     "cellNo": "+88 01814 650 723",
     "telephoneNo": "02 55014393"
   },
-  "scrapedAt": "2026-09-11T07:00:09.551Z",
+  "scrapedAt": "2026-09-12T19:44:30.230Z",
   "shariaCompliant": false
 }

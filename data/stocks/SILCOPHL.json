@@ -8,15 +8,16 @@
   "overview": {
     "#": 340,
     "TRADING CODE": "SILCOPHL",
-    "LTP": 17.8,
-    "HIGH": 18.4,
-    "LOW": 17.6,
-    "CLOSEP": 17.8,
-    "YCP": 18.2,
-    "CHANGE": -0.4,
-    "TRADE": 356,
-    "VALUE (mn)": 8.389,
-    "VOLUME": 463988
+    "tradingCode": "SILCOPHL",
+    "LTP": 16.8,
+    "HIGH": 17.3,
+    "LOW": 16.7,
+    "CLOSEP": 16.8,
+    "YCP": 17,
+    "CHANGE": -0.2,
+    "TRADE": 180,
+    "VALUE (mn)": 2.51,
+    "VOLUME": 147864
   },
   "marketInformation": {
     "lastTradingPrice": 16.8,
@@ -373,6 +374,6 @@
     "cellNo": "8801716394060",
     "telephoneNo": "+880-02 996638241"
   },
-  "scrapedAt": "2026-09-11T07:00:16.788Z",
+  "scrapedAt": "2026-09-12T19:44:49.765Z",
   "shariaCompliant": true
 }

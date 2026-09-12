@@ -8,15 +8,16 @@
   "overview": {
     "#": 44,
     "TRADING CODE": "BANGAS",
-    "LTP": 127.1,
-    "HIGH": 127.6,
-    "LOW": 126.2,
-    "CLOSEP": 127.1,
-    "YCP": 126.7,
-    "CHANGE": 0.4,
-    "TRADE": 186,
-    "VALUE (mn)": 2.682,
-    "VOLUME": 21177
+    "tradingCode": "BANGAS",
+    "LTP": 123.3,
+    "HIGH": 127,
+    "LOW": 122.1,
+    "CLOSEP": 123.3,
+    "YCP": 126.8,
+    "CHANGE": -3.5,
+    "TRADE": 387,
+    "VALUE (mn)": 4.858,
+    "VOLUME": 38998
   },
   "marketInformation": {
     "lastTradingPrice": 123.3,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01999 055 485",
     "telephoneNo": "88-02-222262803, 88-02-222260264, 88-02-222260458"
   },
-  "scrapedAt": "2026-09-11T06:59:36.838Z",
+  "scrapedAt": "2026-09-12T19:43:02.556Z",
   "shariaCompliant": true
 }

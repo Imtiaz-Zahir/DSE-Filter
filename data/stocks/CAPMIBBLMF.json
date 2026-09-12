@@ -8,15 +8,16 @@
   "overview": {
     "#": 79,
     "TRADING CODE": "CAPMIBBLMF",
-    "LTP": 13.4,
-    "HIGH": 13.8,
-    "LOW": 13.1,
-    "CLOSEP": 13.4,
-    "YCP": 13.1,
-    "CHANGE": 0.3,
-    "TRADE": 202,
-    "VALUE (mn)": 13.347,
-    "VOLUME": 998513
+    "tradingCode": "CAPMIBBLMF",
+    "LTP": 13.2,
+    "HIGH": 13.2,
+    "LOW": 12.6,
+    "CLOSEP": 13.2,
+    "YCP": 12.5,
+    "CHANGE": 0.7,
+    "TRADE": 200,
+    "VALUE (mn)": 8.609,
+    "VOLUME": 657748
   },
   "marketInformation": {
     "lastTradingPrice": 13.2,
@@ -370,6 +371,6 @@
     "cellNo": "01847054877",
     "telephoneNo": "88-02222291611, 02-222282269 (102)"
   },
-  "scrapedAt": "2026-09-11T06:59:44.417Z",
+  "scrapedAt": "2026-09-12T19:43:18.307Z",
   "shariaCompliant": false
 }

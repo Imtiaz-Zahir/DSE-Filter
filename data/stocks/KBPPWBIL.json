@@ -8,15 +8,16 @@
   "overview": {
     "#": 196,
     "TRADING CODE": "KBPPWBIL",
-    "LTP": 33.8,
-    "HIGH": 35,
-    "LOW": 33.7,
-    "CLOSEP": 33.8,
-    "YCP": 34.5,
-    "CHANGE": -0.7,
-    "TRADE": 784,
-    "VALUE (mn)": 13.141,
-    "VOLUME": 384382
+    "tradingCode": "KBPPWBIL",
+    "LTP": 29.9,
+    "HIGH": 30.5,
+    "LOW": 29.8,
+    "CLOSEP": 29.9,
+    "YCP": 30.1,
+    "CHANGE": -0.2,
+    "TRADE": 619,
+    "VALUE (mn)": 9.88,
+    "VOLUME": 328990
   },
   "marketInformation": {
     "lastTradingPrice": 29.9,
@@ -370,6 +371,6 @@
     "cellNo": "01611524105",
     "telephoneNo": "8332069, 8332108, 8355726 Ext-110"
   },
-  "scrapedAt": "2026-09-11T06:59:58.910Z",
+  "scrapedAt": "2026-09-12T19:43:59.703Z",
   "shariaCompliant": true
 }

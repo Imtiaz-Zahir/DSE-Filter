@@ -8,15 +8,16 @@
   "overview": {
     "#": 38,
     "TRADING CODE": "ARGONDENIM",
-    "LTP": 23.1,
-    "HIGH": 24.4,
-    "LOW": 22.9,
-    "CLOSEP": 23.1,
-    "YCP": 24.1,
-    "CHANGE": -1,
-    "TRADE": 1850,
-    "VALUE (mn)": 104.156,
-    "VOLUME": 4402707
+    "tradingCode": "ARGONDENIM",
+    "LTP": 22.1,
+    "HIGH": 22.9,
+    "LOW": 22,
+    "CLOSEP": 22.1,
+    "YCP": 22.6,
+    "CHANGE": -0.5,
+    "TRADE": 642,
+    "VALUE (mn)": 37.215,
+    "VOLUME": 1676544
   },
   "marketInformation": {
     "lastTradingPrice": 22.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01714 094 393",
     "telephoneNo": "880-2-8900870-4, 8900781-3 Ext. 137"
   },
-  "scrapedAt": "2026-09-11T06:59:36.882Z",
+  "scrapedAt": "2026-09-12T19:43:01.922Z",
   "shariaCompliant": false
 }

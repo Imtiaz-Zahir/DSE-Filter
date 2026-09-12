@@ -8,15 +8,16 @@
   "overview": {
     "#": 323,
     "TRADING CODE": "SAMATALETH",
-    "LTP": 92.8,
-    "HIGH": 94.3,
-    "LOW": 92.2,
-    "CLOSEP": 92.8,
-    "YCP": 92.7,
-    "CHANGE": 0.1,
-    "TRADE": 393,
-    "VALUE (mn)": 3.965,
-    "VOLUME": 42551
+    "tradingCode": "SAMATALETH",
+    "LTP": 79.2,
+    "HIGH": 84.9,
+    "LOW": 79,
+    "CLOSEP": 79.5,
+    "YCP": 82.6,
+    "CHANGE": -3.4,
+    "TRADE": 435,
+    "VALUE (mn)": 4.288,
+    "VOLUME": 52780
   },
   "marketInformation": {
     "lastTradingPrice": 79.2,
@@ -370,6 +371,6 @@
     "cellNo": "01711391183",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:14.544Z",
+  "scrapedAt": "2026-09-12T19:44:45.561Z",
   "shariaCompliant": true
 }

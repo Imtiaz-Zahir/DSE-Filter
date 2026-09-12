@@ -8,15 +8,16 @@
   "overview": {
     "#": 214,
     "TRADING CODE": "MARICO",
-    "LTP": 2696.7,
-    "HIGH": 2776.1,
-    "LOW": 2695,
-    "CLOSEP": 2696.7,
-    "YCP": 2698.8,
-    "CHANGE": -2.1,
-    "TRADE": 329,
-    "VALUE (mn)": 3.389,
-    "VOLUME": 1256
+    "tradingCode": "MARICO",
+    "LTP": 2671.7,
+    "HIGH": 2690,
+    "LOW": 2668,
+    "CLOSEP": 2671.7,
+    "YCP": 2677,
+    "CHANGE": -5.3,
+    "TRADE": 534,
+    "VALUE (mn)": 7.686,
+    "VOLUME": 2875
   },
   "marketInformation": {
     "lastTradingPrice": 2671.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01324438592",
     "telephoneNo": "+8802222297139"
   },
-  "scrapedAt": "2026-09-11T07:00:00.610Z",
+  "scrapedAt": "2026-09-12T19:44:03.940Z",
   "shariaCompliant": true
 }

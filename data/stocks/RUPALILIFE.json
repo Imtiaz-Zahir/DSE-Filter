@@ -8,15 +8,16 @@
   "overview": {
     "#": 316,
     "TRADING CODE": "RUPALILIFE",
-    "LTP": 81.8,
-    "HIGH": 82.4,
-    "LOW": 80.7,
-    "CLOSEP": 81.8,
-    "YCP": 80.4,
-    "CHANGE": 1.4,
-    "TRADE": 590,
-    "VALUE (mn)": 10.763,
-    "VOLUME": 131819
+    "tradingCode": "RUPALILIFE",
+    "LTP": 79,
+    "HIGH": 81,
+    "LOW": 78.8,
+    "CLOSEP": 79,
+    "YCP": 79.2,
+    "CHANGE": -0.2,
+    "TRADE": 258,
+    "VALUE (mn)": 4.442,
+    "VOLUME": 56073
   },
   "marketInformation": {
     "lastTradingPrice": 79,
@@ -318,6 +319,6 @@
     "cellNo": "+88 01847 133 722",
     "telephoneNo": "+88-02-8392369, +88-02-8392361-4, Ext.-125"
   },
-  "scrapedAt": "2026-09-11T07:00:15.580Z",
+  "scrapedAt": "2026-09-12T19:44:44.760Z",
   "shariaCompliant": false
 }

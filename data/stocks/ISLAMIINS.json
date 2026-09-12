@@ -8,15 +8,16 @@
   "overview": {
     "#": 185,
     "TRADING CODE": "ISLAMIINS",
-    "LTP": 60.7,
-    "HIGH": 62.6,
-    "LOW": 60.5,
-    "CLOSEP": 60.7,
-    "YCP": 61.3,
-    "CHANGE": -0.6,
-    "TRADE": 215,
-    "VALUE (mn)": 15.672,
-    "VOLUME": 256824
+    "tradingCode": "ISLAMIINS",
+    "LTP": 59.8,
+    "HIGH": 60.5,
+    "LOW": 58.6,
+    "CLOSEP": 59,
+    "YCP": 59.7,
+    "CHANGE": 0.1,
+    "TRADE": 107,
+    "VALUE (mn)": 12.273,
+    "VOLUME": 205291
   },
   "marketInformation": {
     "lastTradingPrice": 59.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01709 819911",
     "telephoneNo": "09613888889 & 09613444445"
   },
-  "scrapedAt": "2026-09-11T06:59:56.767Z",
+  "scrapedAt": "2026-09-12T19:43:53.663Z",
   "shariaCompliant": true
 }

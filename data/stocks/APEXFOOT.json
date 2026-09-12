@@ -8,15 +8,16 @@
   "overview": {
     "#": 32,
     "TRADING CODE": "APEXFOOT",
-    "LTP": 208.1,
-    "HIGH": 210.7,
+    "tradingCode": "APEXFOOT",
+    "LTP": 209.1,
+    "HIGH": 209.6,
     "LOW": 207.7,
-    "CLOSEP": 208.1,
-    "YCP": 209.6,
-    "CHANGE": -1.5,
-    "TRADE": 468,
-    "VALUE (mn)": 7.768,
-    "VOLUME": 37286
+    "CLOSEP": 209.1,
+    "YCP": 207,
+    "CHANGE": 2.1,
+    "TRADE": 358,
+    "VALUE (mn)": 9.693,
+    "VOLUME": 46479
   },
   "marketInformation": {
     "lastTradingPrice": 209.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01717 306 107",
     "telephoneNo": "+8802 5504841"
   },
-  "scrapedAt": "2026-09-11T06:59:36.772Z",
+  "scrapedAt": "2026-09-12T19:42:58.995Z",
   "shariaCompliant": false
 }

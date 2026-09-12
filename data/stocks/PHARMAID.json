@@ -8,15 +8,16 @@
   "overview": {
     "#": 271,
     "TRADING CODE": "PHARMAID",
-    "LTP": 578,
-    "HIGH": 580,
-    "LOW": 571.1,
-    "CLOSEP": 575.9,
-    "YCP": 576,
-    "CHANGE": 2,
-    "TRADE": 373,
-    "VALUE (mn)": 4.289,
-    "VOLUME": 7443
+    "tradingCode": "PHARMAID",
+    "LTP": 549.3,
+    "HIGH": 558,
+    "LOW": 546.9,
+    "CLOSEP": 549.3,
+    "YCP": 553.1,
+    "CHANGE": -3.8,
+    "TRADE": 246,
+    "VALUE (mn)": 2.616,
+    "VOLUME": 4746
   },
   "marketInformation": {
     "lastTradingPrice": 549.3,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01717 177 156",
     "telephoneNo": "+88 02 222220741, 222227742-43"
   },
-  "scrapedAt": "2026-09-11T07:00:09.394Z",
+  "scrapedAt": "2026-09-12T19:44:25.305Z",
   "shariaCompliant": false
 }

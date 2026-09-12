@@ -8,15 +8,16 @@
   "overview": {
     "#": 123,
     "TRADING CODE": "ETL",
+    "tradingCode": "ETL",
     "LTP": 13.5,
-    "HIGH": 14.1,
+    "HIGH": 13.8,
     "LOW": 13.4,
     "CLOSEP": 13.5,
-    "YCP": 14,
-    "CHANGE": -0.5,
-    "TRADE": 1132,
-    "VALUE (mn)": 39.355,
-    "VOLUME": 2876743
+    "YCP": 13.6,
+    "CHANGE": -0.1,
+    "TRADE": 597,
+    "VALUE (mn)": 28.824,
+    "VOLUME": 2128528
   },
   "marketInformation": {
     "lastTradingPrice": 13.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01717 333 243",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:49.257Z",
+  "scrapedAt": "2026-09-12T19:43:30.572Z",
   "shariaCompliant": false
 }

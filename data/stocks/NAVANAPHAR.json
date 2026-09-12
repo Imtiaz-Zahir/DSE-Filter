@@ -8,15 +8,16 @@
   "overview": {
     "#": 242,
     "TRADING CODE": "NAVANAPHAR",
-    "LTP": 67.6,
-    "HIGH": 68.5,
-    "LOW": 66.5,
-    "CLOSEP": 67.6,
-    "YCP": 66.4,
-    "CHANGE": 1.2,
-    "TRADE": 891,
-    "VALUE (mn)": 21.596,
-    "VOLUME": 318659
+    "tradingCode": "NAVANAPHAR",
+    "LTP": 63.7,
+    "HIGH": 67.2,
+    "LOW": 62.8,
+    "CLOSEP": 63.7,
+    "YCP": 66.5,
+    "CHANGE": -2.8,
+    "TRADE": 791,
+    "VALUE (mn)": 27.675,
+    "VOLUME": 428570
   },
   "marketInformation": {
     "lastTradingPrice": 63.7,
@@ -373,6 +374,6 @@
     "cellNo": "01321 131222",
     "telephoneNo": "02-55033580-3"
   },
-  "scrapedAt": "2026-09-11T07:00:04.979Z",
+  "scrapedAt": "2026-09-12T19:44:14.645Z",
   "shariaCompliant": false
 }

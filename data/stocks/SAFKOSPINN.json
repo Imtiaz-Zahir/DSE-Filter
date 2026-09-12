@@ -8,15 +8,16 @@
   "overview": {
     "#": 317,
     "TRADING CODE": "SAFKOSPINN",
-    "LTP": 22.1,
-    "HIGH": 22.8,
-    "LOW": 21.7,
-    "CLOSEP": 22.1,
-    "YCP": 21.9,
-    "CHANGE": 0.2,
-    "TRADE": 162,
-    "VALUE (mn)": 2.815,
-    "VOLUME": 128138
+    "tradingCode": "SAFKOSPINN",
+    "LTP": 20.8,
+    "HIGH": 21.2,
+    "LOW": 20.7,
+    "CLOSEP": 20.8,
+    "YCP": 20.9,
+    "CHANGE": -0.1,
+    "TRADE": 105,
+    "VALUE (mn)": 1.633,
+    "VOLUME": 78513
   },
   "marketInformation": {
     "lastTradingPrice": 20.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01671 012 818",
     "telephoneNo": "02-222280092"
   },
-  "scrapedAt": "2026-09-11T07:00:14.656Z",
+  "scrapedAt": "2026-09-12T19:44:44.247Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 262,
     "TRADING CODE": "ORIONINFU",
-    "LTP": 221.2,
-    "HIGH": 227.4,
-    "LOW": 220,
-    "CLOSEP": 221.2,
-    "YCP": 224.6,
-    "CHANGE": -3.4,
-    "TRADE": 904,
-    "VALUE (mn)": 10.717,
-    "VOLUME": 47924
+    "tradingCode": "ORIONINFU",
+    "LTP": 188.6,
+    "HIGH": 198,
+    "LOW": 185.1,
+    "CLOSEP": 188.6,
+    "YCP": 195.4,
+    "CHANGE": -6.8,
+    "TRADE": 1291,
+    "VALUE (mn)": 17.497,
+    "VOLUME": 91585
   },
   "marketInformation": {
     "lastTradingPrice": 188.6,
@@ -373,6 +374,6 @@
     "cellNo": "+8801730007342",
     "telephoneNo": "+88-02-8870133"
   },
-  "scrapedAt": "2026-09-11T07:00:08.622Z",
+  "scrapedAt": "2026-09-12T19:44:22.109Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 211,
     "TRADING CODE": "MAGURAPLEX",
-    "LTP": 86,
-    "HIGH": 87,
-    "LOW": 85.2,
-    "CLOSEP": 86.3,
-    "YCP": 85.4,
-    "CHANGE": 0.6,
-    "TRADE": 218,
-    "VALUE (mn)": 2.418,
-    "VOLUME": 28070
+    "tradingCode": "MAGURAPLEX",
+    "LTP": 81.6,
+    "HIGH": 82.8,
+    "LOW": 81.5,
+    "CLOSEP": 81.6,
+    "YCP": 81.7,
+    "CHANGE": -0.1,
+    "TRADE": 244,
+    "VALUE (mn)": 2.335,
+    "VOLUME": 28469
   },
   "marketInformation": {
     "lastTradingPrice": 81.6,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01847 091 027",
     "telephoneNo": "02-55036456 (Ext. 702)"
   },
-  "scrapedAt": "2026-09-11T07:00:01.194Z",
+  "scrapedAt": "2026-09-12T19:44:03.692Z",
   "shariaCompliant": false
 }

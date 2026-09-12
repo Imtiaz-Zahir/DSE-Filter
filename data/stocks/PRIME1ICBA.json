@@ -8,15 +8,16 @@
   "overview": {
     "#": 285,
     "TRADING CODE": "PRIME1ICBA",
-    "LTP": 6,
-    "HIGH": 6.1,
-    "LOW": 5.9,
-    "CLOSEP": 6,
+    "tradingCode": "PRIME1ICBA",
+    "LTP": 6.2,
+    "HIGH": 6.2,
+    "LOW": 6,
+    "CLOSEP": 6.2,
     "YCP": 6,
-    "CHANGE": 0,
-    "TRADE": 92,
-    "VALUE (mn)": 0.358,
-    "VOLUME": 60114
+    "CHANGE": 0.2,
+    "TRADE": 155,
+    "VALUE (mn)": 3.17,
+    "VOLUME": 517281
   },
   "marketInformation": {
     "lastTradingPrice": 6.2,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T07:00:09.367Z",
+  "scrapedAt": "2026-09-12T19:44:30.286Z",
   "shariaCompliant": false
 }

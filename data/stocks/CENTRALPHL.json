@@ -8,15 +8,16 @@
   "overview": {
     "#": 81,
     "TRADING CODE": "CENTRALPHL",
-    "LTP": 10.4,
-    "HIGH": 10.8,
-    "LOW": 10.3,
-    "CLOSEP": 10.4,
-    "YCP": 10.6,
-    "CHANGE": -0.2,
-    "TRADE": 222,
-    "VALUE (mn)": 3.112,
-    "VOLUME": 298052
+    "tradingCode": "CENTRALPHL",
+    "LTP": 9.7,
+    "HIGH": 10,
+    "LOW": 9.6,
+    "CLOSEP": 9.7,
+    "YCP": 9.8,
+    "CHANGE": -0.1,
+    "TRADE": 191,
+    "VALUE (mn)": 2.67,
+    "VOLUME": 273688
   },
   "marketInformation": {
     "lastTradingPrice": 9.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01814 655 831",
     "telephoneNo": "02-9038733 Ext. 102"
   },
-  "scrapedAt": "2026-09-11T06:59:44.366Z",
+  "scrapedAt": "2026-09-12T19:43:19.702Z",
   "shariaCompliant": true
 }

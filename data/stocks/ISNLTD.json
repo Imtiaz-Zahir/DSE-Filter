@@ -8,15 +8,16 @@
   "overview": {
     "#": 186,
     "TRADING CODE": "ISNLTD",
-    "LTP": 52.1,
-    "HIGH": 56.7,
-    "LOW": 51.5,
-    "CLOSEP": 52.1,
-    "YCP": 56.3,
-    "CHANGE": -4.2,
-    "TRADE": 859,
-    "VALUE (mn)": 11.981,
-    "VOLUME": 222430
+    "tradingCode": "ISNLTD",
+    "LTP": 44.1,
+    "HIGH": 46.3,
+    "LOW": 43.7,
+    "CLOSEP": 44.1,
+    "YCP": 45.6,
+    "CHANGE": -1.5,
+    "TRADE": 663,
+    "VALUE (mn)": 7.379,
+    "VOLUME": 165311
   },
   "marketInformation": {
     "lastTradingPrice": 44.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01939-904381",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:56.623Z",
+  "scrapedAt": "2026-09-12T19:43:54.438Z",
   "shariaCompliant": false
 }

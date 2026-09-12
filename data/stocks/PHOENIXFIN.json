@@ -8,15 +8,16 @@
   "overview": {
     "#": 273,
     "TRADING CODE": "PHOENIXFIN",
-    "LTP": 3.8,
-    "HIGH": 3.9,
-    "LOW": 3.8,
-    "CLOSEP": 3.8,
-    "YCP": 3.9,
-    "CHANGE": -0.1,
-    "TRADE": 40,
-    "VALUE (mn)": 0.416,
-    "VOLUME": 109414
+    "tradingCode": "PHOENIXFIN",
+    "LTP": 3.7,
+    "HIGH": 3.7,
+    "LOW": 3.5,
+    "CLOSEP": 3.6,
+    "YCP": 3.6,
+    "CHANGE": 0.1,
+    "TRADE": 29,
+    "VALUE (mn)": 0.069,
+    "VOLUME": 19058
   },
   "marketInformation": {
     "lastTradingPrice": 3.7,
@@ -372,6 +373,6 @@
     "cellNo": "88-0172-667-3818",
     "telephoneNo": "02223389007-10, Extn. 111"
   },
-  "scrapedAt": "2026-09-11T07:00:09.312Z",
+  "scrapedAt": "2026-09-12T19:44:23.850Z",
   "shariaCompliant": false
 }

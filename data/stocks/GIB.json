@@ -8,6 +8,7 @@
   "overview": {
     "#": 146,
     "TRADING CODE": "GIB",
+    "tradingCode": "GIB",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -347,6 +348,6 @@
     "cellNo": "01955500800",
     "telephoneNo": "8809617176037"
   },
-  "scrapedAt": "2026-09-11T06:59:51.761Z",
+  "scrapedAt": "2026-09-12T19:43:39.086Z",
   "shariaCompliant": true
 }

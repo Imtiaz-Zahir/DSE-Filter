@@ -8,15 +8,16 @@
   "overview": {
     "#": 102,
     "TRADING CODE": "DHAKAINS",
-    "LTP": 46.6,
-    "HIGH": 48,
-    "LOW": 46.4,
-    "CLOSEP": 46.6,
-    "YCP": 47,
-    "CHANGE": -0.4,
-    "TRADE": 319,
-    "VALUE (mn)": 9.179,
-    "VOLUME": 194874
+    "tradingCode": "DHAKAINS",
+    "LTP": 44.3,
+    "HIGH": 45.8,
+    "LOW": 43.4,
+    "CLOSEP": 44.3,
+    "YCP": 44.9,
+    "CHANGE": -0.6,
+    "TRADE": 165,
+    "VALUE (mn)": 2.355,
+    "VOLUME": 52349
   },
   "marketInformation": {
     "lastTradingPrice": 44.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 1819 165 454",
     "telephoneNo": "02226665876, 02226665897, 02226665898, 02226666007"
   },
-  "scrapedAt": "2026-09-11T06:59:45.270Z",
+  "scrapedAt": "2026-09-12T19:43:25.755Z",
   "shariaCompliant": false
 }

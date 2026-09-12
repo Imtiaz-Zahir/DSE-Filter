@@ -8,15 +8,16 @@
   "overview": {
     "#": 36,
     "TRADING CODE": "ARAMIT",
-    "LTP": 206.9,
-    "HIGH": 214,
-    "LOW": 204.1,
-    "CLOSEP": 204.8,
-    "YCP": 204.6,
-    "CHANGE": 2.3,
-    "TRADE": 98,
-    "VALUE (mn)": 1.519,
-    "VOLUME": 7417
+    "tradingCode": "ARAMIT",
+    "LTP": 184,
+    "HIGH": 191.6,
+    "LOW": 184,
+    "CLOSEP": 184.6,
+    "YCP": 187.2,
+    "CHANGE": -3.2,
+    "TRADE": 101,
+    "VALUE (mn)": 0.659,
+    "VOLUME": 3536
   },
   "marketInformation": {
     "lastTradingPrice": 184,
@@ -373,6 +374,6 @@
     "cellNo": "01819-240005",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:39.798Z",
+  "scrapedAt": "2026-09-12T19:43:00.309Z",
   "shariaCompliant": false
 }

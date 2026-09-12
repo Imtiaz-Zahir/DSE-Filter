@@ -8,15 +8,16 @@
   "overview": {
     "#": 121,
     "TRADING CODE": "EPGL",
-    "LTP": 18.3,
-    "HIGH": 18.7,
-    "LOW": 18.2,
-    "CLOSEP": 18.3,
-    "YCP": 18.6,
-    "CHANGE": -0.3,
-    "TRADE": 195,
-    "VALUE (mn)": 2.026,
-    "VOLUME": 109635
+    "tradingCode": "EPGL",
+    "LTP": 17,
+    "HIGH": 17.4,
+    "LOW": 16.9,
+    "CLOSEP": 17,
+    "YCP": 17.1,
+    "CHANGE": -0.1,
+    "TRADE": 122,
+    "VALUE (mn)": 1.277,
+    "VOLUME": 74522
   },
   "marketInformation": {
     "lastTradingPrice": 17,
@@ -370,6 +371,6 @@
     "cellNo": "01713061579",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:49.810Z",
+  "scrapedAt": "2026-09-12T19:43:30.495Z",
   "shariaCompliant": false
 }

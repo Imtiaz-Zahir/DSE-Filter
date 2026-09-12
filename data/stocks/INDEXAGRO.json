@@ -8,15 +8,16 @@
   "overview": {
     "#": 179,
     "TRADING CODE": "INDEXAGRO",
-    "LTP": 70.8,
-    "HIGH": 71,
-    "LOW": 69.1,
-    "CLOSEP": 70.6,
-    "YCP": 69.2,
-    "CHANGE": 1.6,
-    "TRADE": 319,
-    "VALUE (mn)": 4.688,
-    "VOLUME": 66699
+    "tradingCode": "INDEXAGRO",
+    "LTP": 68.3,
+    "HIGH": 68.9,
+    "LOW": 68.1,
+    "CLOSEP": 68.3,
+    "YCP": 68.4,
+    "CHANGE": -0.1,
+    "TRADE": 104,
+    "VALUE (mn)": 0.809,
+    "VOLUME": 11822
   },
   "marketInformation": {
     "lastTradingPrice": 68.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01844 004 026",
     "telephoneNo": "+88-02-58817175, +88-02-222296442"
   },
-  "scrapedAt": "2026-09-11T06:59:54.987Z",
+  "scrapedAt": "2026-09-12T19:43:52.203Z",
   "shariaCompliant": true
 }

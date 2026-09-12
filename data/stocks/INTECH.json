@@ -8,15 +8,16 @@
   "overview": {
     "#": 180,
     "TRADING CODE": "INTECH",
-    "LTP": 24.6,
-    "HIGH": 25.5,
-    "LOW": 24.5,
-    "CLOSEP": 24.6,
-    "YCP": 25.1,
-    "CHANGE": -0.5,
-    "TRADE": 161,
-    "VALUE (mn)": 1.435,
-    "VOLUME": 57799
+    "tradingCode": "INTECH",
+    "LTP": 23.1,
+    "HIGH": 23.7,
+    "LOW": 23,
+    "CLOSEP": 23.1,
+    "YCP": 23.2,
+    "CHANGE": -0.1,
+    "TRADE": 54,
+    "VALUE (mn)": 0.529,
+    "VOLUME": 22830
   },
   "marketInformation": {
     "lastTradingPrice": 23.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01322 894 545",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:54.648Z",
+  "scrapedAt": "2026-09-12T19:43:52.272Z",
   "shariaCompliant": true
 }

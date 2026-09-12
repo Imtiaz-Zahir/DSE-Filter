@@ -8,15 +8,16 @@
   "overview": {
     "#": 345,
     "TRADING CODE": "SIPLC",
-    "LTP": 148.6,
-    "HIGH": 153,
-    "LOW": 141.4,
-    "CLOSEP": 148.6,
-    "YCP": 151.1,
-    "CHANGE": -2.5,
-    "TRADE": 1056,
-    "VALUE (mn)": 29.549,
-    "VOLUME": 198344
+    "tradingCode": "SIPLC",
+    "LTP": 138.7,
+    "HIGH": 140.5,
+    "LOW": 127.9,
+    "CLOSEP": 138.7,
+    "YCP": 127.8,
+    "CHANGE": 10.9,
+    "TRADE": 1419,
+    "VALUE (mn)": 68.912,
+    "VOLUME": 498257
   },
   "marketInformation": {
     "lastTradingPrice": 138.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01712 161 604",
     "telephoneNo": "+88-02-55058455-57 Ext-103"
   },
-  "scrapedAt": "2026-09-11T07:00:16.813Z",
+  "scrapedAt": "2026-09-12T19:44:50.706Z",
   "shariaCompliant": false
 }

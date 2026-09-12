@@ -8,15 +8,16 @@
   "overview": {
     "#": 188,
     "TRADING CODE": "JAMUNABANK",
-    "LTP": 24.2,
-    "HIGH": 24.3,
-    "LOW": 24,
-    "CLOSEP": 24.2,
-    "YCP": 24.1,
-    "CHANGE": 0.1,
-    "TRADE": 176,
-    "VALUE (mn)": 19.836,
-    "VOLUME": 820704
+    "tradingCode": "JAMUNABANK",
+    "LTP": 23.1,
+    "HIGH": 23.4,
+    "LOW": 22.9,
+    "CLOSEP": 23,
+    "YCP": 23.2,
+    "CHANGE": -0.1,
+    "TRADE": 649,
+    "VALUE (mn)": 54.261,
+    "VOLUME": 2352934
   },
   "marketInformation": {
     "lastTradingPrice": 23.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01777 743 611",
     "telephoneNo": "+8809610005678 Ex.1110"
   },
-  "scrapedAt": "2026-09-11T06:59:56.685Z",
+  "scrapedAt": "2026-09-12T19:43:54.523Z",
   "shariaCompliant": false
 }

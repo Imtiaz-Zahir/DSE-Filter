@@ -8,15 +8,16 @@
   "overview": {
     "#": 50,
     "TRADING CODE": "BBS",
-    "LTP": 13.3,
-    "HIGH": 13.6,
-    "LOW": 13.2,
-    "CLOSEP": 13.3,
-    "YCP": 13.4,
+    "tradingCode": "BBS",
+    "LTP": 12.3,
+    "HIGH": 12.6,
+    "LOW": 12.2,
+    "CLOSEP": 12.3,
+    "YCP": 12.4,
     "CHANGE": -0.1,
-    "TRADE": 299,
-    "VALUE (mn)": 7.142,
-    "VOLUME": 533970
+    "TRADE": 196,
+    "VALUE (mn)": 2.733,
+    "VOLUME": 220016
   },
   "marketInformation": {
     "lastTradingPrice": 12.3,
@@ -372,6 +373,6 @@
     "cellNo": "01713-114555",
     "telephoneNo": "+88-02-222288916"
   },
-  "scrapedAt": "2026-09-11T06:59:40.319Z",
+  "scrapedAt": "2026-09-12T19:43:06.618Z",
   "shariaCompliant": true
 }

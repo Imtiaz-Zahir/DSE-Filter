@@ -8,15 +8,16 @@
   "overview": {
     "#": 58,
     "TRADING CODE": "BDTHAIFOOD",
-    "LTP": 24.5,
-    "HIGH": 25.4,
-    "LOW": 24.3,
-    "CLOSEP": 24.5,
+    "tradingCode": "BDTHAIFOOD",
+    "LTP": 25.1,
+    "HIGH": 25.7,
+    "LOW": 24.9,
+    "CLOSEP": 25.1,
     "YCP": 25.2,
-    "CHANGE": -0.7,
-    "TRADE": 1161,
-    "VALUE (mn)": 44.739,
-    "VOLUME": 1807051
+    "CHANGE": -0.1,
+    "TRADE": 1481,
+    "VALUE (mn)": 63.228,
+    "VOLUME": 2493110
   },
   "marketInformation": {
     "lastTradingPrice": 25.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713155102",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:40.259Z",
+  "scrapedAt": "2026-09-12T19:43:08.863Z",
   "shariaCompliant": true
 }

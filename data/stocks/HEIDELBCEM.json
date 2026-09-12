@@ -8,15 +8,16 @@
   "overview": {
     "#": 159,
     "TRADING CODE": "HEIDELBCEM",
-    "LTP": 213,
-    "HIGH": 214.9,
-    "LOW": 211,
-    "CLOSEP": 213,
-    "YCP": 210.7,
-    "CHANGE": 2.3,
-    "TRADE": 59,
-    "VALUE (mn)": 0.864,
-    "VOLUME": 4059
+    "tradingCode": "HEIDELBCEM",
+    "LTP": 206.9,
+    "HIGH": 212,
+    "LOW": 206.6,
+    "CLOSEP": 206.9,
+    "YCP": 209.1,
+    "CHANGE": -2.2,
+    "TRADE": 116,
+    "VALUE (mn)": 0.957,
+    "VOLUME": 4609
   },
   "marketInformation": {
     "lastTradingPrice": 206.9,
@@ -373,6 +374,6 @@
     "cellNo": "'01325099924",
     "telephoneNo": "880-02-58811691, Ext.:305"
   },
-  "scrapedAt": "2026-09-11T06:59:53.126Z",
+  "scrapedAt": "2026-09-12T19:43:44.325Z",
   "shariaCompliant": true
 }

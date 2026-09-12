@@ -8,15 +8,16 @@
   "overview": {
     "#": 222,
     "TRADING CODE": "MERCANBANK",
-    "LTP": 7.2,
-    "HIGH": 7.2,
-    "LOW": 6.9,
-    "CLOSEP": 7.1,
-    "YCP": 7,
-    "CHANGE": 0.2,
-    "TRADE": 116,
-    "VALUE (mn)": 2.222,
-    "VOLUME": 315917
+    "tradingCode": "MERCANBANK",
+    "LTP": 6.8,
+    "HIGH": 6.9,
+    "LOW": 6.7,
+    "CLOSEP": 6.8,
+    "YCP": 6.8,
+    "CHANGE": 0,
+    "TRADE": 74,
+    "VALUE (mn)": 0.81,
+    "VOLUME": 119440
   },
   "marketInformation": {
     "lastTradingPrice": 6.8,
@@ -373,6 +374,6 @@
     "cellNo": "+8801713114661",
     "telephoneNo": "Direct: 02-223382702, 02-223382295 (Ext:209)"
   },
-  "scrapedAt": "2026-09-11T07:00:01.159Z",
+  "scrapedAt": "2026-09-12T19:44:06.534Z",
   "shariaCompliant": false
 }

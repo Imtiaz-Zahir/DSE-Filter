@@ -8,15 +8,16 @@
   "overview": {
     "#": 140,
     "TRADING CODE": "GBBPOWER",
-    "LTP": 13.7,
-    "HIGH": 14.1,
-    "LOW": 13.5,
-    "CLOSEP": 13.7,
-    "YCP": 14,
-    "CHANGE": -0.3,
-    "TRADE": 449,
-    "VALUE (mn)": 7.561,
-    "VOLUME": 551897
+    "tradingCode": "GBBPOWER",
+    "LTP": 13.5,
+    "HIGH": 13.8,
+    "LOW": 13,
+    "CLOSEP": 13.5,
+    "YCP": 12.9,
+    "CHANGE": 0.6,
+    "TRADE": 597,
+    "VALUE (mn)": 11.552,
+    "VOLUME": 848836
   },
   "marketInformation": {
     "lastTradingPrice": 13.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01552 302 021",
     "telephoneNo": "02-58613322, 02-58616703"
   },
-  "scrapedAt": "2026-09-11T06:59:52.443Z",
+  "scrapedAt": "2026-09-12T19:43:35.949Z",
   "shariaCompliant": false
 }

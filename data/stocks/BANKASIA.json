@@ -8,15 +8,16 @@
   "overview": {
     "#": 45,
     "TRADING CODE": "BANKASIA",
-    "LTP": 16.9,
-    "HIGH": 17.1,
-    "LOW": 16.9,
-    "CLOSEP": 16.9,
-    "YCP": 17,
+    "tradingCode": "BANKASIA",
+    "LTP": 16.7,
+    "HIGH": 16.9,
+    "LOW": 16.7,
+    "CLOSEP": 16.7,
+    "YCP": 16.8,
     "CHANGE": -0.1,
-    "TRADE": 160,
-    "VALUE (mn)": 2.063,
-    "VOLUME": 121866
+    "TRADE": 225,
+    "VALUE (mn)": 4.09,
+    "VOLUME": 244624
   },
   "marketInformation": {
     "lastTradingPrice": 16.7,
@@ -373,6 +374,6 @@
     "cellNo": "01742 844950",
     "telephoneNo": "09617-001207 Ext : 1214"
   },
-  "scrapedAt": "2026-09-11T06:59:37.672Z",
+  "scrapedAt": "2026-09-12T19:43:05.689Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 77,
     "TRADING CODE": "CAPITECGBF",
-    "LTP": 8.4,
-    "HIGH": 8.8,
-    "LOW": 8.4,
-    "CLOSEP": 8.4,
-    "YCP": 8.6,
-    "CHANGE": -0.2,
-    "TRADE": 423,
-    "VALUE (mn)": 13.182,
-    "VOLUME": 1539063
+    "tradingCode": "CAPITECGBF",
+    "LTP": 8.6,
+    "HIGH": 8.7,
+    "LOW": 8.5,
+    "CLOSEP": 8.6,
+    "YCP": 8.4,
+    "CHANGE": 0.2,
+    "TRADE": 644,
+    "VALUE (mn)": 24.636,
+    "VOLUME": 2864490
   },
   "marketInformation": {
     "lastTradingPrice": 8.6,
@@ -292,6 +293,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:44.197Z",
+  "scrapedAt": "2026-09-12T19:43:18.212Z",
   "shariaCompliant": false
 }

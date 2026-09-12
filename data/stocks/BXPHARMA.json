@@ -8,15 +8,16 @@
   "overview": {
     "#": 76,
     "TRADING CODE": "BXPHARMA",
-    "LTP": 153.2,
-    "HIGH": 153.6,
-    "LOW": 148.5,
-    "CLOSEP": 153.2,
-    "YCP": 148,
-    "CHANGE": 5.2,
-    "TRADE": 3657,
-    "VALUE (mn)": 274.865,
-    "VOLUME": 1812709
+    "tradingCode": "BXPHARMA",
+    "LTP": 150.9,
+    "HIGH": 153.1,
+    "LOW": 150.3,
+    "CLOSEP": 150.9,
+    "YCP": 151.1,
+    "CHANGE": -0.2,
+    "TRADE": 1514,
+    "VALUE (mn)": 133.911,
+    "VOLUME": 881413
   },
   "marketInformation": {
     "lastTradingPrice": 150.9,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611001-7 41060531-35 41060579-83 Ext.10140"
   },
-  "scrapedAt": "2026-09-11T06:59:44.164Z",
+  "scrapedAt": "2026-09-12T19:43:18.364Z",
   "shariaCompliant": false
 }

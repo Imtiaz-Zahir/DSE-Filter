@@ -8,15 +8,16 @@
   "overview": {
     "#": 286,
     "TRADING CODE": "PRIMEBANK",
-    "LTP": 28.8,
-    "HIGH": 28.9,
-    "LOW": 28.7,
-    "CLOSEP": 28.9,
-    "YCP": 28.7,
-    "CHANGE": 0.1,
-    "TRADE": 168,
-    "VALUE (mn)": 6.874,
-    "VOLUME": 238835
+    "tradingCode": "PRIMEBANK",
+    "LTP": 28.4,
+    "HIGH": 28.6,
+    "LOW": 28.4,
+    "CLOSEP": 28.4,
+    "YCP": 28.6,
+    "CHANGE": -0.2,
+    "TRADE": 316,
+    "VALUE (mn)": 11.997,
+    "VOLUME": 421512
   },
   "marketInformation": {
     "lastTradingPrice": 28.4,
@@ -373,6 +374,6 @@
     "cellNo": "+8801730322480",
     "telephoneNo": "+8802 55045322"
   },
-  "scrapedAt": "2026-09-11T07:00:10.691Z",
+  "scrapedAt": "2026-09-12T19:44:31.739Z",
   "shariaCompliant": false
 }

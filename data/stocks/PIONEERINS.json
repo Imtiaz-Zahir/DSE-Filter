@@ -8,15 +8,16 @@
   "overview": {
     "#": 275,
     "TRADING CODE": "PIONEERINS",
-    "LTP": 68.1,
-    "HIGH": 69.5,
-    "LOW": 67.9,
-    "CLOSEP": 68.1,
-    "YCP": 68.3,
-    "CHANGE": -0.2,
-    "TRADE": 749,
-    "VALUE (mn)": 30.602,
-    "VOLUME": 446325
+    "tradingCode": "PIONEERINS",
+    "LTP": 63.6,
+    "HIGH": 65.6,
+    "LOW": 62.9,
+    "CLOSEP": 63.6,
+    "YCP": 64.5,
+    "CHANGE": -0.9,
+    "TRADE": 415,
+    "VALUE (mn)": 15.843,
+    "VOLUME": 247238
   },
   "marketInformation": {
     "lastTradingPrice": 63.6,
@@ -373,6 +374,6 @@
     "cellNo": "01322905143",
     "telephoneNo": "88-02-8878901-102"
   },
-  "scrapedAt": "2026-09-11T07:00:09.192Z",
+  "scrapedAt": "2026-09-12T19:44:23.668Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 78,
     "TRADING CODE": "CAPMBDBLMF",
+    "tradingCode": "CAPMBDBLMF",
     "LTP": 7.9,
-    "HIGH": 8.2,
-    "LOW": 7.8,
+    "HIGH": 7.9,
+    "LOW": 7.4,
     "CLOSEP": 7.9,
-    "YCP": 8,
-    "CHANGE": -0.1,
-    "TRADE": 227,
-    "VALUE (mn)": 7.33,
-    "VOLUME": 919181
+    "YCP": 7.2,
+    "CHANGE": 0.7,
+    "TRADE": 731,
+    "VALUE (mn)": 15.892,
+    "VOLUME": 2045222
   },
   "marketInformation": {
     "lastTradingPrice": 7.9,
@@ -370,6 +371,6 @@
     "cellNo": "01847054877",
     "telephoneNo": "88-02222291611, 02-222282269 (102)"
   },
-  "scrapedAt": "2026-09-11T06:59:44.260Z",
+  "scrapedAt": "2026-09-12T19:43:18.455Z",
   "shariaCompliant": false
 }

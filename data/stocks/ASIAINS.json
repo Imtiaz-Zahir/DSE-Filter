@@ -8,15 +8,16 @@
   "overview": {
     "#": 39,
     "TRADING CODE": "ASIAINS",
-    "LTP": 43.2,
-    "HIGH": 44,
-    "LOW": 43,
-    "CLOSEP": 43.2,
-    "YCP": 43.1,
-    "CHANGE": 0.1,
-    "TRADE": 615,
-    "VALUE (mn)": 18.805,
-    "VOLUME": 432108
+    "tradingCode": "ASIAINS",
+    "LTP": 41.6,
+    "HIGH": 42.5,
+    "LOW": 41.4,
+    "CLOSEP": 41.6,
+    "YCP": 41.8,
+    "CHANGE": -0.2,
+    "TRADE": 308,
+    "VALUE (mn)": 7.566,
+    "VOLUME": 180807
   },
   "marketInformation": {
     "lastTradingPrice": 41.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 890 048",
     "telephoneNo": "+88-02-41031425-26,+88-02-41031775-76,+88-02-41032881-82."
   },
-  "scrapedAt": "2026-09-11T06:59:36.918Z",
+  "scrapedAt": "2026-09-12T19:43:00.444Z",
   "shariaCompliant": false
 }

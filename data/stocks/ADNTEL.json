@@ -8,15 +8,16 @@
   "overview": {
     "#": 13,
     "TRADING CODE": "ADNTEL",
-    "LTP": 61.8,
-    "HIGH": 62.7,
-    "LOW": 61.6,
-    "CLOSEP": 61.8,
-    "YCP": 61.7,
-    "CHANGE": 0.1,
-    "TRADE": 191,
-    "VALUE (mn)": 2.845,
-    "VOLUME": 45812
+    "tradingCode": "ADNTEL",
+    "LTP": 58.3,
+    "HIGH": 59,
+    "LOW": 57.8,
+    "CLOSEP": 58.3,
+    "YCP": 58.4,
+    "CHANGE": -0.1,
+    "TRADE": 323,
+    "VALUE (mn)": 4.42,
+    "VOLUME": 75838
   },
   "marketInformation": {
     "lastTradingPrice": 58.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01777 770 322",
     "telephoneNo": "09610770322"
   },
-  "scrapedAt": "2026-09-11T06:59:33.051Z",
+  "scrapedAt": "2026-09-12T19:42:49.252Z",
   "shariaCompliant": true
 }

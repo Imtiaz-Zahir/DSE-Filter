@@ -8,15 +8,16 @@
   "overview": {
     "#": 294,
     "TRADING CODE": "PUBALIBANK",
-    "LTP": 38.1,
-    "HIGH": 38.2,
-    "LOW": 38,
-    "CLOSEP": 38.1,
-    "YCP": 38,
-    "CHANGE": 0.1,
-    "TRADE": 135,
-    "VALUE (mn)": 6.446,
-    "VOLUME": 169041
+    "tradingCode": "PUBALIBANK",
+    "LTP": 37.7,
+    "HIGH": 38.7,
+    "LOW": 37.6,
+    "CLOSEP": 37.7,
+    "YCP": 37.7,
+    "CHANGE": 0,
+    "TRADE": 369,
+    "VALUE (mn)": 20.044,
+    "VOLUME": 529548
   },
   "marketInformation": {
     "lastTradingPrice": 37.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 367 599",
     "telephoneNo": "Tel:02-223384012, PABX:+8802223381614 Ext-311,343 IP phone: +8809666821611"
   },
-  "scrapedAt": "2026-09-11T07:00:12.288Z",
+  "scrapedAt": "2026-09-12T19:44:35.652Z",
   "shariaCompliant": false
 }

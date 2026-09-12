@@ -8,15 +8,16 @@
   "overview": {
     "#": 152,
     "TRADING CODE": "GQBALLPEN",
-    "LTP": 567.9,
-    "HIGH": 572,
-    "LOW": 555.6,
-    "CLOSEP": 567.9,
-    "YCP": 567.4,
-    "CHANGE": 0.5,
-    "TRADE": 571,
-    "VALUE (mn)": 30.824,
-    "VOLUME": 54419
+    "tradingCode": "GQBALLPEN",
+    "LTP": 585,
+    "HIGH": 599.8,
+    "LOW": 570,
+    "CLOSEP": 592.1,
+    "YCP": 594.5,
+    "CHANGE": -9.5,
+    "TRADE": 503,
+    "VALUE (mn)": 63.285,
+    "VOLUME": 107081
   },
   "marketInformation": {
     "lastTradingPrice": 585,
@@ -372,6 +373,6 @@
     "cellNo": "01708-830024",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:52.908Z",
+  "scrapedAt": "2026-09-12T19:43:41.555Z",
   "shariaCompliant": true
 }

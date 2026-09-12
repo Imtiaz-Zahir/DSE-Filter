@@ -8,15 +8,16 @@
   "overview": {
     "#": 175,
     "TRADING CODE": "IFIC",
-    "LTP": 4.8,
-    "HIGH": 4.9,
-    "LOW": 4.7,
-    "CLOSEP": 4.7,
-    "YCP": 4.8,
-    "CHANGE": 0,
-    "TRADE": 171,
-    "VALUE (mn)": 2.848,
-    "VOLUME": 595707
+    "tradingCode": "IFIC",
+    "LTP": 4.7,
+    "HIGH": 4.7,
+    "LOW": 4.5,
+    "CLOSEP": 4.6,
+    "YCP": 4.6,
+    "CHANGE": 0.1,
+    "TRADE": 174,
+    "VALUE (mn)": 1.821,
+    "VOLUME": 395583
   },
   "marketInformation": {
     "lastTradingPrice": 4.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 082 129",
     "telephoneNo": "0966671625, Ext. 122"
   },
-  "scrapedAt": "2026-09-11T06:59:54.853Z",
+  "scrapedAt": "2026-09-12T19:43:51.503Z",
   "shariaCompliant": false
 }

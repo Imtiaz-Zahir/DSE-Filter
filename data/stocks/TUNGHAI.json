@@ -8,15 +8,16 @@
   "overview": {
     "#": 373,
     "TRADING CODE": "TUNGHAI",
-    "LTP": 4.2,
-    "HIGH": 4.6,
-    "LOW": 4.2,
+    "tradingCode": "TUNGHAI",
+    "LTP": 4.3,
+    "HIGH": 4.5,
+    "LOW": 4.1,
     "CLOSEP": 4.2,
-    "YCP": 4.5,
-    "CHANGE": -0.3,
-    "TRADE": 180,
-    "VALUE (mn)": 1.843,
-    "VOLUME": 432769
+    "YCP": 4.3,
+    "CHANGE": 0,
+    "TRADE": 91,
+    "VALUE (mn)": 0.541,
+    "VOLUME": 129151
   },
   "marketInformation": {
     "lastTradingPrice": 4.3,
@@ -236,36 +237,6 @@
       "tciRestated": 104.88
     },
     {
-      "year": null,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 0.58,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": null,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 56.02,
-      "tciOriginal": 56.02,
-      "tciRestated": 56.02
-    },
-    {
-      "year": null,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 1.66,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 13.24,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 160.9,
-      "tciOriginal": 160.9,
-      "tciRestated": 160.9
-    },
-    {
       "year": 2021,
       "epsBasicOriginal": null,
       "epsBasicRestated": null,
@@ -309,28 +280,6 @@
       "dividendYieldPct": null
     },
     {
-      "year": null,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 17.83,
-      "dividend": null,
-      "cashDividendPct": null,
-      "bonusDividendPct": null,
-      "dividendYieldPct": null
-    },
-    {
-      "year": null,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 6.2,
-      "dividend": "10%B",
-      "cashDividendPct": null,
-      "bonusDividendPct": "10%B",
-      "dividendYieldPct": null
-    },
-    {
       "year": 2021,
       "peBasicOriginal": null,
       "peBasicRestated": null,
@@ -370,6 +319,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:20.842Z",
+  "scrapedAt": "2026-09-12T19:45:00.838Z",
   "shariaCompliant": false
 }

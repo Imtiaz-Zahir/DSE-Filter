@@ -8,15 +8,16 @@
   "overview": {
     "#": 206,
     "TRADING CODE": "LIBRAINFU",
-    "LTP": 594.3,
-    "HIGH": 604,
-    "LOW": 590,
-    "CLOSEP": 594.3,
-    "YCP": 598,
-    "CHANGE": -3.7,
-    "TRADE": 156,
-    "VALUE (mn)": 0.959,
-    "VOLUME": 1609
+    "tradingCode": "LIBRAINFU",
+    "LTP": 577.8,
+    "HIGH": 580,
+    "LOW": 568.2,
+    "CLOSEP": 577.8,
+    "YCP": 576.3,
+    "CHANGE": 1.5,
+    "TRADE": 163,
+    "VALUE (mn)": 1.435,
+    "VOLUME": 2497
   },
   "marketInformation": {
     "lastTradingPrice": 577.8,
@@ -370,6 +371,6 @@
     "cellNo": "01903899010",
     "telephoneNo": "48040254-5, Ext. 132"
   },
-  "scrapedAt": "2026-09-11T06:59:58.859Z",
+  "scrapedAt": "2026-09-12T19:44:02.983Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 359,
     "TRADING CODE": "STANDARINS",
-    "LTP": 50.4,
-    "HIGH": 51.8,
-    "LOW": 49.9,
-    "CLOSEP": 50.4,
-    "YCP": 50.2,
-    "CHANGE": 0.2,
-    "TRADE": 226,
-    "VALUE (mn)": 7.513,
-    "VOLUME": 147897
+    "tradingCode": "STANDARINS",
+    "LTP": 48.9,
+    "HIGH": 49.2,
+    "LOW": 47.9,
+    "CLOSEP": 48.9,
+    "YCP": 48.1,
+    "CHANGE": 0.8,
+    "TRADE": 216,
+    "VALUE (mn)": 11.955,
+    "VOLUME": 245236
   },
   "marketInformation": {
     "lastTradingPrice": 48.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 260 838",
     "telephoneNo": "02222280706, 02222281435, 02222288548 (Ext-102)"
   },
-  "scrapedAt": "2026-09-11T07:00:20.314Z",
+  "scrapedAt": "2026-09-12T19:44:56.504Z",
   "shariaCompliant": false
 }

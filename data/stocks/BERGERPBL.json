@@ -8,15 +8,16 @@
   "overview": {
     "#": 63,
     "TRADING CODE": "BERGERPBL",
-    "LTP": 1496.7,
-    "HIGH": 1500,
-    "LOW": 1491.7,
-    "CLOSEP": 1496.7,
-    "YCP": 1493.8,
-    "CHANGE": 2.9,
-    "TRADE": 215,
-    "VALUE (mn)": 8.056,
-    "VOLUME": 5381
+    "tradingCode": "BERGERPBL",
+    "LTP": 1475.4,
+    "HIGH": 1487,
+    "LOW": 1470,
+    "CLOSEP": 1475.4,
+    "YCP": 1480.8,
+    "CHANGE": -5.4,
+    "TRADE": 209,
+    "VALUE (mn)": 4.03,
+    "VOLUME": 2728
   },
   "marketInformation": {
     "lastTradingPrice": 1475.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 279 723",
     "telephoneNo": "+88-2-48953665"
   },
-  "scrapedAt": "2026-09-11T06:59:42.309Z",
+  "scrapedAt": "2026-09-12T19:43:13.268Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 100,
     "TRADING CODE": "DGIC",
-    "LTP": 31.6,
-    "HIGH": 33.3,
-    "LOW": 31.4,
-    "CLOSEP": 31.6,
-    "YCP": 32.7,
-    "CHANGE": -1.1,
-    "TRADE": 521,
-    "VALUE (mn)": 12.161,
-    "VOLUME": 375018
+    "tradingCode": "DGIC",
+    "LTP": 30.4,
+    "HIGH": 30.6,
+    "LOW": 30,
+    "CLOSEP": 30.4,
+    "YCP": 30.2,
+    "CHANGE": 0.2,
+    "TRADE": 256,
+    "VALUE (mn)": 5.608,
+    "VOLUME": 185101
   },
   "marketInformation": {
     "lastTradingPrice": 30.4,
@@ -373,6 +374,6 @@
     "cellNo": "+8801975615161",
     "telephoneNo": "02-223390997-9, 02223391001"
   },
-  "scrapedAt": "2026-09-11T06:59:45.383Z",
+  "scrapedAt": "2026-09-12T19:43:23.810Z",
   "shariaCompliant": false
 }

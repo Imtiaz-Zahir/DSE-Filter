@@ -8,15 +8,16 @@
   "overview": {
     "#": 47,
     "TRADING CODE": "BATASHOE",
-    "LTP": 888.5,
-    "HIGH": 927,
-    "LOW": 888.5,
-    "CLOSEP": 889.9,
-    "YCP": 903.5,
-    "CHANGE": -15,
-    "TRADE": 68,
-    "VALUE (mn)": 0.907,
-    "VOLUME": 1017
+    "tradingCode": "BATASHOE",
+    "LTP": 888,
+    "HIGH": 898.8,
+    "LOW": 885,
+    "CLOSEP": 888,
+    "YCP": 884.9,
+    "CHANGE": 3.1,
+    "TRADE": 26,
+    "VALUE (mn)": 0.265,
+    "VOLUME": 299
   },
   "marketInformation": {
     "lastTradingPrice": 888,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01713 333 191",
     "telephoneNo": "224410501-5 (Ext 399)"
   },
-  "scrapedAt": "2026-09-11T06:59:41.005Z",
+  "scrapedAt": "2026-09-12T19:43:06.453Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 97,
     "TRADING CODE": "DELTASPINN",
-    "LTP": 7.4,
-    "HIGH": 7.7,
-    "LOW": 7.3,
-    "CLOSEP": 7.4,
-    "YCP": 7.5,
-    "CHANGE": -0.1,
-    "TRADE": 133,
-    "VALUE (mn)": 2.223,
-    "VOLUME": 298560
+    "tradingCode": "DELTASPINN",
+    "LTP": 7.1,
+    "HIGH": 7.3,
+    "LOW": 7,
+    "CLOSEP": 7.1,
+    "YCP": 7.1,
+    "CHANGE": 0,
+    "TRADE": 50,
+    "VALUE (mn)": 0.477,
+    "VOLUME": 67237
   },
   "marketInformation": {
     "lastTradingPrice": 7.1,
@@ -373,6 +374,6 @@
     "cellNo": "01711-541132",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:45.732Z",
+  "scrapedAt": "2026-09-12T19:43:23.695Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 269,
     "TRADING CODE": "PEOPLESINS",
-    "LTP": 62.7,
-    "HIGH": 64.2,
-    "LOW": 62.3,
-    "CLOSEP": 62.7,
-    "YCP": 62.4,
-    "CHANGE": 0.3,
-    "TRADE": 1434,
-    "VALUE (mn)": 45.202,
-    "VOLUME": 714973
+    "tradingCode": "PEOPLESINS",
+    "LTP": 59.7,
+    "HIGH": 61.5,
+    "LOW": 59.5,
+    "CLOSEP": 59.7,
+    "YCP": 59.7,
+    "CHANGE": 0,
+    "TRADE": 589,
+    "VALUE (mn)": 17.985,
+    "VOLUME": 299314
   },
   "marketInformation": {
     "lastTradingPrice": 59.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01817 296 784",
     "telephoneNo": "PABX +88-02223384166 (Auto hunting), +88-02223358319-20 Hotline: 09666-886655"
   },
-  "scrapedAt": "2026-09-11T07:00:08.585Z",
+  "scrapedAt": "2026-09-12T19:44:22.961Z",
   "shariaCompliant": false
 }

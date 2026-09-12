@@ -8,15 +8,16 @@
   "overview": {
     "#": 162,
     "TRADING CODE": "HWAWELLTEX",
-    "LTP": 47.2,
-    "HIGH": 48.7,
-    "LOW": 47.1,
-    "CLOSEP": 47.2,
-    "YCP": 47.6,
-    "CHANGE": -0.4,
-    "TRADE": 641,
-    "VALUE (mn)": 14.044,
-    "VOLUME": 295231
+    "tradingCode": "HWAWELLTEX",
+    "LTP": 48.3,
+    "HIGH": 50,
+    "LOW": 48.1,
+    "CLOSEP": 48.3,
+    "YCP": 49.3,
+    "CHANGE": -1,
+    "TRADE": 1058,
+    "VALUE (mn)": 29.25,
+    "VOLUME": 599645
   },
   "marketInformation": {
     "lastTradingPrice": 48.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01841 041 441",
     "telephoneNo": "880-2-8412937"
   },
-  "scrapedAt": "2026-09-11T06:59:54.275Z",
+  "scrapedAt": "2026-09-12T19:43:46.436Z",
   "shariaCompliant": true
 }

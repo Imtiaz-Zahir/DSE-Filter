@@ -8,15 +8,16 @@
   "overview": {
     "#": 184,
     "TRADING CODE": "ISLAMICFIN",
-    "LTP": 11.4,
-    "HIGH": 11.5,
-    "LOW": 11.3,
-    "CLOSEP": 11.3,
-    "YCP": 11.5,
-    "CHANGE": -0.1,
-    "TRADE": 65,
-    "VALUE (mn)": 0.837,
-    "VOLUME": 73965
+    "tradingCode": "ISLAMICFIN",
+    "LTP": 10.9,
+    "HIGH": 11.3,
+    "LOW": 10.9,
+    "CLOSEP": 10.9,
+    "YCP": 10.9,
+    "CHANGE": 0,
+    "TRADE": 34,
+    "VALUE (mn)": 0.19,
+    "VOLUME": 17309
   },
   "marketInformation": {
     "lastTradingPrice": 10.9,
@@ -373,6 +374,6 @@
     "cellNo": "01713-012683",
     "telephoneNo": "02-226603270-76"
   },
-  "scrapedAt": "2026-09-11T06:59:58.278Z",
+  "scrapedAt": "2026-09-12T19:43:53.109Z",
   "shariaCompliant": true
 }

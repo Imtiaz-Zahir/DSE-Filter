@@ -8,15 +8,16 @@
   "overview": {
     "#": 361,
     "TRADING CODE": "STYLECRAFT",
-    "LTP": 54.2,
-    "HIGH": 55.8,
-    "LOW": 54,
-    "CLOSEP": 54.1,
-    "YCP": 54.4,
-    "CHANGE": -0.2,
-    "TRADE": 46,
-    "VALUE (mn)": 0.266,
-    "VOLUME": 4899
+    "tradingCode": "STYLECRAFT",
+    "LTP": 53.2,
+    "HIGH": 53.9,
+    "LOW": 51.7,
+    "CLOSEP": 53.2,
+    "YCP": 53.1,
+    "CHANGE": 0.1,
+    "TRADE": 24,
+    "VALUE (mn)": 0.019,
+    "VOLUME": 359
   },
   "marketInformation": {
     "lastTradingPrice": 53.2,
@@ -372,6 +373,6 @@
     "cellNo": "01711527578",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:22.538Z",
+  "scrapedAt": "2026-09-12T19:44:58.723Z",
   "shariaCompliant": false
 }

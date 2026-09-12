@@ -8,15 +8,16 @@
   "overview": {
     "#": 35,
     "TRADING CODE": "APOLOISPAT",
-    "LTP": 3.1,
-    "HIGH": 3.1,
-    "LOW": 3,
+    "tradingCode": "APOLOISPAT",
+    "LTP": 3,
+    "HIGH": 3,
+    "LOW": 2.9,
     "CLOSEP": 3,
-    "YCP": 3,
+    "YCP": 2.9,
     "CHANGE": 0.1,
-    "TRADE": 47,
-    "VALUE (mn)": 0.233,
-    "VOLUME": 77560
+    "TRADE": 70,
+    "VALUE (mn)": 0.458,
+    "VOLUME": 156376
   },
   "marketInformation": {
     "lastTradingPrice": 3,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:36.732Z",
+  "scrapedAt": "2026-09-12T19:42:59.047Z",
   "shariaCompliant": false
 }

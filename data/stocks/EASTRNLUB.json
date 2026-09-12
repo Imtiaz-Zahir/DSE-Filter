@@ -8,15 +8,16 @@
   "overview": {
     "#": 111,
     "TRADING CODE": "EASTRNLUB",
-    "LTP": 1961.5,
-    "HIGH": 1974,
-    "LOW": 1920,
-    "CLOSEP": 1961.5,
-    "YCP": 1911.3,
-    "CHANGE": 50.2,
-    "TRADE": 909,
-    "VALUE (mn)": 15.234,
-    "VOLUME": 7786
+    "tradingCode": "EASTRNLUB",
+    "LTP": 2057.9,
+    "HIGH": 2085,
+    "LOW": 2035,
+    "CLOSEP": 2057.9,
+    "YCP": 2032.9,
+    "CHANGE": 25,
+    "TRADE": 1494,
+    "VALUE (mn)": 28.924,
+    "VOLUME": 14001
   },
   "marketInformation": {
     "lastTradingPrice": 2057.9,
@@ -373,6 +374,6 @@
     "cellNo": "01777703400",
     "telephoneNo": "02333354235,02333364236,02333357237,02333357748-9"
   },
-  "scrapedAt": "2026-09-11T06:59:47.583Z",
+  "scrapedAt": "2026-09-12T19:43:27.714Z",
   "shariaCompliant": false
 }

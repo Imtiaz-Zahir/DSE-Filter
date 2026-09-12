@@ -8,15 +8,16 @@
   "overview": {
     "#": 383,
     "TRADING CODE": "USMANIAGL",
-    "LTP": 59.5,
-    "HIGH": 63.2,
-    "LOW": 59.1,
-    "CLOSEP": 59.5,
-    "YCP": 60.7,
-    "CHANGE": -1.2,
-    "TRADE": 104,
-    "VALUE (mn)": 1.022,
-    "VOLUME": 17105
+    "tradingCode": "USMANIAGL",
+    "LTP": 54,
+    "HIGH": 56.6,
+    "LOW": 53.6,
+    "CLOSEP": 54,
+    "YCP": 54.4,
+    "CHANGE": -0.4,
+    "TRADE": 97,
+    "VALUE (mn)": 0.392,
+    "VOLUME": 7187
   },
   "marketInformation": {
     "lastTradingPrice": 54,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01818 737 479",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:23.262Z",
+  "scrapedAt": "2026-09-12T19:45:03.840Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 192,
     "TRADING CODE": "JMISMDL",
-    "LTP": 137.8,
-    "HIGH": 138,
-    "LOW": 131,
-    "CLOSEP": 136.4,
-    "YCP": 131.5,
-    "CHANGE": 6.3,
-    "TRADE": 219,
-    "VALUE (mn)": 4.554,
-    "VOLUME": 33526
+    "tradingCode": "JMISMDL",
+    "LTP": 129.7,
+    "HIGH": 138.4,
+    "LOW": 129.4,
+    "CLOSEP": 129.7,
+    "YCP": 130.7,
+    "CHANGE": -1,
+    "TRADE": 74,
+    "VALUE (mn)": 0.803,
+    "VOLUME": 6140
   },
   "marketInformation": {
     "lastTradingPrice": 129.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01777 742 344",
     "telephoneNo": "55138723, 55138724 Ext no. 307"
   },
-  "scrapedAt": "2026-09-11T06:59:56.827Z",
+  "scrapedAt": "2026-09-12T19:43:55.391Z",
   "shariaCompliant": true
 }

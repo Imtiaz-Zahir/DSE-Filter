@@ -8,15 +8,16 @@
   "overview": {
     "#": 358,
     "TRADING CODE": "STANCERAM",
-    "LTP": 68.6,
-    "HIGH": 70.6,
-    "LOW": 68.5,
-    "CLOSEP": 68.6,
-    "YCP": 68.7,
-    "CHANGE": -0.1,
-    "TRADE": 50,
-    "VALUE (mn)": 0.41,
-    "VOLUME": 5959
+    "tradingCode": "STANCERAM",
+    "LTP": 68.5,
+    "HIGH": 69,
+    "LOW": 65.7,
+    "CLOSEP": 67.3,
+    "YCP": 68.1,
+    "CHANGE": 0.4,
+    "TRADE": 55,
+    "VALUE (mn)": 0.104,
+    "VOLUME": 1571
   },
   "marketInformation": {
     "lastTradingPrice": 68.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01575 648 846",
     "telephoneNo": "880-2-223381947-8 Ext-14"
   },
-  "scrapedAt": "2026-09-11T07:00:18.687Z",
+  "scrapedAt": "2026-09-12T19:44:56.201Z",
   "shariaCompliant": true
 }

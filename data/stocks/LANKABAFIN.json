@@ -8,15 +8,16 @@
   "overview": {
     "#": 203,
     "TRADING CODE": "LANKABAFIN",
-    "LTP": 15.8,
-    "HIGH": 16.2,
-    "LOW": 15.7,
-    "CLOSEP": 15.8,
-    "YCP": 15.8,
+    "tradingCode": "LANKABAFIN",
+    "LTP": 14.9,
+    "HIGH": 15.2,
+    "LOW": 14.8,
+    "CLOSEP": 14.9,
+    "YCP": 14.9,
     "CHANGE": 0,
-    "TRADE": 665,
-    "VALUE (mn)": 15.928,
-    "VOLUME": 998468
+    "TRADE": 417,
+    "VALUE (mn)": 9.446,
+    "VOLUME": 632383
   },
   "marketInformation": {
     "lastTradingPrice": 14.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713069817",
     "telephoneNo": "+88 02 2222283701-402"
   },
-  "scrapedAt": "2026-09-11T06:59:59.315Z",
+  "scrapedAt": "2026-09-12T19:44:00.690Z",
   "shariaCompliant": false
 }

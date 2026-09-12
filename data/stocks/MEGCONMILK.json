@@ -8,15 +8,16 @@
   "overview": {
     "#": 217,
     "TRADING CODE": "MEGCONMILK",
-    "LTP": 34.4,
-    "HIGH": 38.7,
-    "LOW": 34.3,
-    "CLOSEP": 34.6,
-    "YCP": 37,
-    "CHANGE": -2.6,
-    "TRADE": 561,
-    "VALUE (mn)": 6.458,
-    "VOLUME": 178098
+    "tradingCode": "MEGCONMILK",
+    "LTP": 33.9,
+    "HIGH": 35,
+    "LOW": 33.5,
+    "CLOSEP": 33.6,
+    "YCP": 34.5,
+    "CHANGE": -0.6,
+    "TRADE": 165,
+    "VALUE (mn)": 2.373,
+    "VOLUME": 70298
   },
   "marketInformation": {
     "lastTradingPrice": 33.9,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:02.222Z",
+  "scrapedAt": "2026-09-12T19:44:04.710Z",
   "shariaCompliant": false
 }

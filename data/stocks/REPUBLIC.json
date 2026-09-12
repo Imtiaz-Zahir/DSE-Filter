@@ -8,15 +8,16 @@
   "overview": {
     "#": 309,
     "TRADING CODE": "REPUBLIC",
-    "LTP": 41.7,
-    "HIGH": 42.9,
-    "LOW": 41.4,
-    "CLOSEP": 41.7,
-    "YCP": 42.1,
-    "CHANGE": -0.4,
-    "TRADE": 755,
-    "VALUE (mn)": 23.266,
-    "VOLUME": 552927
+    "tradingCode": "REPUBLIC",
+    "LTP": 39.3,
+    "HIGH": 40.5,
+    "LOW": 39,
+    "CLOSEP": 39.3,
+    "YCP": 39.5,
+    "CHANGE": -0.2,
+    "TRADE": 513,
+    "VALUE (mn)": 15.667,
+    "VOLUME": 395176
   },
   "marketInformation": {
     "lastTradingPrice": 39.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01339491169",
     "telephoneNo": "58313334-8 Ext-104"
   },
-  "scrapedAt": "2026-09-11T07:00:13.325Z",
+  "scrapedAt": "2026-09-12T19:44:40.939Z",
   "shariaCompliant": false
 }

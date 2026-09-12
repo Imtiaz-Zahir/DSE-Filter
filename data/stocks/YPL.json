@@ -8,15 +8,16 @@
   "overview": {
     "#": 392,
     "TRADING CODE": "YPL",
-    "LTP": 21.4,
-    "HIGH": 22.6,
-    "LOW": 21,
-    "CLOSEP": 21.4,
-    "YCP": 22.2,
-    "CHANGE": -0.8,
-    "TRADE": 286,
-    "VALUE (mn)": 7.276,
-    "VOLUME": 339598
+    "tradingCode": "YPL",
+    "LTP": 19.7,
+    "HIGH": 20.6,
+    "LOW": 19.6,
+    "CLOSEP": 19.7,
+    "YCP": 20.3,
+    "CHANGE": -0.6,
+    "TRADE": 143,
+    "VALUE (mn)": 2.464,
+    "VOLUME": 123152
   },
   "marketInformation": {
     "lastTradingPrice": 19.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01914882942",
     "telephoneNo": "+88 02 51000207 Ext-805"
   },
-  "scrapedAt": "2026-09-11T07:00:26.469Z",
+  "scrapedAt": "2026-09-12T19:45:07.899Z",
   "shariaCompliant": true
 }

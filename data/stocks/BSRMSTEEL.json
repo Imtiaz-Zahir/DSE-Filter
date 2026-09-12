@@ -8,15 +8,16 @@
   "overview": {
     "#": 75,
     "TRADING CODE": "BSRMSTEEL",
-    "LTP": 91.9,
-    "HIGH": 92.2,
-    "LOW": 91,
-    "CLOSEP": 91.9,
-    "YCP": 91.1,
-    "CHANGE": 0.8,
-    "TRADE": 510,
-    "VALUE (mn)": 18.987,
-    "VOLUME": 207596
+    "tradingCode": "BSRMSTEEL",
+    "LTP": 85.8,
+    "HIGH": 87,
+    "LOW": 85.1,
+    "CLOSEP": 85.8,
+    "YCP": 85.8,
+    "CHANGE": 0,
+    "TRADE": 369,
+    "VALUE (mn)": 9.817,
+    "VOLUME": 114350
   },
   "marketInformation": {
     "lastTradingPrice": 85.8,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01711 790 266",
     "telephoneNo": "+880 31 2854901-10, Ext.- 156"
   },
-  "scrapedAt": "2026-09-11T06:59:42.421Z",
+  "scrapedAt": "2026-09-12T19:43:16.090Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 168,
     "TRADING CODE": "ICBAMCL2ND",
+    "tradingCode": "ICBAMCL2ND",
     "LTP": 7.3,
-    "HIGH": 7.6,
-    "LOW": 7.3,
-    "CLOSEP": 7.4,
-    "YCP": 7.4,
-    "CHANGE": -0.1,
-    "TRADE": 34,
-    "VALUE (mn)": 0.437,
-    "VOLUME": 59082
+    "HIGH": 7.5,
+    "LOW": 7.2,
+    "CLOSEP": 7.3,
+    "YCP": 6.9,
+    "CHANGE": 0.4,
+    "TRADE": 123,
+    "VALUE (mn)": 1.091,
+    "VOLUME": 149135
   },
   "marketInformation": {
     "lastTradingPrice": 7.3,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:54.765Z",
+  "scrapedAt": "2026-09-12T19:43:47.404Z",
   "shariaCompliant": false
 }

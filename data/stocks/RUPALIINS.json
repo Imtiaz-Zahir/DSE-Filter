@@ -8,15 +8,16 @@
   "overview": {
     "#": 315,
     "TRADING CODE": "RUPALIINS",
-    "LTP": 29.6,
-    "HIGH": 30.1,
-    "LOW": 29.5,
-    "CLOSEP": 29.6,
-    "YCP": 29.5,
+    "tradingCode": "RUPALIINS",
+    "LTP": 28.1,
+    "HIGH": 28.9,
+    "LOW": 27.7,
+    "CLOSEP": 28.1,
+    "YCP": 28,
     "CHANGE": 0.1,
-    "TRADE": 347,
-    "VALUE (mn)": 8.987,
-    "VOLUME": 301108
+    "TRADE": 211,
+    "VALUE (mn)": 5.976,
+    "VOLUME": 212166
   },
   "marketInformation": {
     "lastTradingPrice": 28.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01818 680 664",
     "telephoneNo": "02 223385625-6, 02 223387238"
   },
-  "scrapedAt": "2026-09-11T07:00:12.619Z",
+  "scrapedAt": "2026-09-12T19:44:42.761Z",
   "shariaCompliant": false
 }

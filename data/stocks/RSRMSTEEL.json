@@ -8,15 +8,16 @@
   "overview": {
     "#": 312,
     "TRADING CODE": "RSRMSTEEL",
-    "LTP": 7.3,
-    "HIGH": 7.6,
-    "LOW": 7.3,
-    "CLOSEP": 7.3,
-    "YCP": 7.5,
-    "CHANGE": -0.2,
-    "TRADE": 60,
-    "VALUE (mn)": 0.287,
-    "VOLUME": 38843
+    "tradingCode": "RSRMSTEEL",
+    "LTP": 7,
+    "HIGH": 7.2,
+    "LOW": 7,
+    "CLOSEP": 7,
+    "YCP": 7.1,
+    "CHANGE": -0.1,
+    "TRADE": 32,
+    "VALUE (mn)": 0.088,
+    "VOLUME": 12510
   },
   "marketInformation": {
     "lastTradingPrice": 7,
@@ -370,6 +371,6 @@
     "cellNo": "01755553018",
     "telephoneNo": "+88 02 7191740"
   },
-  "scrapedAt": "2026-09-11T07:00:12.783Z",
+  "scrapedAt": "2026-09-12T19:44:43.333Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 248,
     "TRADING CODE": "NHFIL",
-    "LTP": 27.7,
-    "HIGH": 28.2,
-    "LOW": 27.5,
-    "CLOSEP": 27.7,
-    "YCP": 27.7,
-    "CHANGE": 0,
-    "TRADE": 434,
-    "VALUE (mn)": 9.271,
-    "VOLUME": 332181
+    "tradingCode": "NHFIL",
+    "LTP": 26.8,
+    "HIGH": 27.5,
+    "LOW": 26.7,
+    "CLOSEP": 26.8,
+    "YCP": 27.3,
+    "CHANGE": -0.5,
+    "TRADE": 159,
+    "VALUE (mn)": 3.108,
+    "VOLUME": 115580
   },
   "marketInformation": {
     "lastTradingPrice": 26.8,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01787 661 913",
     "telephoneNo": "+88 09609200555 Ext: 104"
   },
-  "scrapedAt": "2026-09-11T07:00:04.958Z",
+  "scrapedAt": "2026-09-12T19:44:15.585Z",
   "shariaCompliant": false
 }

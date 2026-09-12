@@ -8,15 +8,16 @@
   "overview": {
     "#": 54,
     "TRADING CODE": "BDFINANCE",
-    "LTP": 12.8,
-    "HIGH": 13.2,
-    "LOW": 12.8,
-    "CLOSEP": 12.9,
-    "YCP": 12.9,
+    "tradingCode": "BDFINANCE",
+    "LTP": 12.3,
+    "HIGH": 12.9,
+    "LOW": 12.2,
+    "CLOSEP": 12.3,
+    "YCP": 12.4,
     "CHANGE": -0.1,
-    "TRADE": 34,
-    "VALUE (mn)": 0.446,
-    "VOLUME": 34609
+    "TRADE": 105,
+    "VALUE (mn)": 0.944,
+    "VOLUME": 76378
   },
   "marketInformation": {
     "lastTradingPrice": 12.3,
@@ -373,6 +374,6 @@
     "cellNo": "01618 448756",
     "telephoneNo": "88-02-223389146"
   },
-  "scrapedAt": "2026-09-11T06:59:40.342Z",
+  "scrapedAt": "2026-09-12T19:43:07.912Z",
   "shariaCompliant": false
 }

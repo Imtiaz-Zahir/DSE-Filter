@@ -8,15 +8,16 @@
   "overview": {
     "#": 42,
     "TRADING CODE": "ATLASBANG",
-    "LTP": 84.3,
-    "HIGH": 84.5,
-    "LOW": 82.5,
-    "CLOSEP": 83.3,
-    "YCP": 82.7,
-    "CHANGE": 1.6,
-    "TRADE": 15,
-    "VALUE (mn)": 0.119,
-    "VOLUME": 1424
+    "tradingCode": "ATLASBANG",
+    "LTP": 84.9,
+    "HIGH": 85.9,
+    "LOW": 84.9,
+    "CLOSEP": 85.1,
+    "YCP": 83.7,
+    "CHANGE": 1.2,
+    "TRADE": 30,
+    "VALUE (mn)": 0.413,
+    "VOLUME": 4853
   },
   "marketInformation": {
     "lastTradingPrice": 84.9,
@@ -370,6 +371,6 @@
     "cellNo": "01818600714",
     "telephoneNo": "9814190, Ex-18"
   },
-  "scrapedAt": "2026-09-11T06:59:37.648Z",
+  "scrapedAt": "2026-09-12T19:43:03.304Z",
   "shariaCompliant": false
 }

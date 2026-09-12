@@ -8,15 +8,16 @@
   "overview": {
     "#": 356,
     "TRADING CODE": "SQURPHARMA",
-    "LTP": 217.6,
-    "HIGH": 218.9,
-    "LOW": 216.7,
-    "CLOSEP": 217.6,
-    "YCP": 217,
-    "CHANGE": 0.6,
-    "TRADE": 1238,
-    "VALUE (mn)": 47.459,
-    "VOLUME": 218507
+    "tradingCode": "SQURPHARMA",
+    "LTP": 214.4,
+    "HIGH": 215.2,
+    "LOW": 213.9,
+    "CLOSEP": 214.4,
+    "YCP": 214.7,
+    "CHANGE": -0.3,
+    "TRADE": 1674,
+    "VALUE (mn)": 31.726,
+    "VOLUME": 147910
   },
   "marketInformation": {
     "lastTradingPrice": 214.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 328 886",
     "telephoneNo": "8833047-56, 02222295007,02222285870, 02222285910 Ext.229"
   },
-  "scrapedAt": "2026-09-11T07:00:18.545Z",
+  "scrapedAt": "2026-09-12T19:44:56.105Z",
   "shariaCompliant": true
 }

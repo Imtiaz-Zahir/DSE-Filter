@@ -8,15 +8,16 @@
   "overview": {
     "#": 190,
     "TRADING CODE": "JANATAINS",
-    "LTP": 34.1,
-    "HIGH": 35.5,
-    "LOW": 33.7,
-    "CLOSEP": 34.1,
-    "YCP": 34.2,
-    "CHANGE": -0.1,
-    "TRADE": 336,
-    "VALUE (mn)": 6.826,
-    "VOLUME": 198426
+    "tradingCode": "JANATAINS",
+    "LTP": 32.6,
+    "HIGH": 33.2,
+    "LOW": 32.4,
+    "CLOSEP": 32.6,
+    "YCP": 32.6,
+    "CHANGE": 0,
+    "TRADE": 214,
+    "VALUE (mn)": 6.932,
+    "VOLUME": 212679
   },
   "marketInformation": {
     "lastTradingPrice": 32.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01676 821 217",
     "telephoneNo": "880 2226602813"
   },
-  "scrapedAt": "2026-09-11T06:59:56.805Z",
+  "scrapedAt": "2026-09-12T19:43:54.589Z",
   "shariaCompliant": false
 }

@@ -8,43 +8,44 @@
   "overview": {
     "#": 210,
     "TRADING CODE": "LRGLOBMF1",
-    "LTP": 4.3,
-    "HIGH": 4.5,
+    "tradingCode": "LRGLOBMF1",
+    "LTP": 4.4,
+    "HIGH": 4.4,
     "LOW": 4.2,
-    "CLOSEP": 4.3,
+    "CLOSEP": 4.4,
     "YCP": 4.2,
-    "CHANGE": 0.1,
-    "TRADE": 122,
-    "VALUE (mn)": 3.811,
-    "VOLUME": 876190
+    "CHANGE": 0.2,
+    "TRADE": 174,
+    "VALUE (mn)": 2.726,
+    "VOLUME": 631975
   },
   "marketInformation": {
-    "lastTradingPrice": 4.4,
+    "lastTradingPrice": null,
     "daysRange": [
-      4.2,
-      4.4
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.3,
       5.3
     ],
-    "change": 0.2,
-    "daysTradeNos": 174,
-    "yesterdaysClose": 4.2,
-    "daysVolumeNos": 631975,
-    "adjustedOpeningPrice": 4.2,
-    "daysValueMn": 2.73,
-    "openingPrice": 4.3,
-    "marketCapMn": 1306.537,
-    "closingPrice": 4.4,
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": null,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": null,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 0,
+    "closingPrice": null,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": null,
     "debutTradingDate": null,
     "paidUpCapitalMn": 3110.8,
-    "typeOfInstrument": "Mutual Funds",
+    "typeOfInstrument": "Unknown",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 311080332,
@@ -52,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2011,
-    "marketCategory": "A",
+    "marketCategory": "-",
     "electronicShare": true,
     "cashDividend": "3% 2023, 6% 2022, 15.10% 2021, 4% 2019, 5.5% 2018, 7.8% 2017, 5% 2016, 10% 2015",
     "bonusIssue": "4%RIU 2013",
@@ -370,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:59.778Z",
+  "scrapedAt": "2026-09-12T19:44:01.610Z",
   "shariaCompliant": false
 }

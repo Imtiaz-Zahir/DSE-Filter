@@ -8,15 +8,16 @@
   "overview": {
     "#": 110,
     "TRADING CODE": "EASTLAND",
-    "LTP": 28.6,
-    "HIGH": 29.5,
-    "LOW": 28.5,
-    "CLOSEP": 28.6,
-    "YCP": 29,
+    "tradingCode": "EASTLAND",
+    "LTP": 27.6,
+    "HIGH": 28.5,
+    "LOW": 27.5,
+    "CLOSEP": 27.6,
+    "YCP": 28,
     "CHANGE": -0.4,
-    "TRADE": 351,
-    "VALUE (mn)": 10.287,
-    "VOLUME": 353795
+    "TRADE": 138,
+    "VALUE (mn)": 2.382,
+    "VOLUME": 85315
   },
   "marketInformation": {
     "lastTradingPrice": 27.6,
@@ -373,6 +374,6 @@
     "cellNo": "01896066357",
     "telephoneNo": "02223384600 Ext.-120"
   },
-  "scrapedAt": "2026-09-11T06:59:47.411Z",
+  "scrapedAt": "2026-09-12T19:43:26.798Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 244,
     "TRADING CODE": "NCCBANK",
-    "LTP": 15.1,
-    "HIGH": 15.2,
-    "LOW": 15,
-    "CLOSEP": 15,
-    "YCP": 15.2,
+    "tradingCode": "NCCBANK",
+    "LTP": 14.6,
+    "HIGH": 14.9,
+    "LOW": 14.5,
+    "CLOSEP": 14.6,
+    "YCP": 14.7,
     "CHANGE": -0.1,
-    "TRADE": 380,
-    "VALUE (mn)": 20.771,
-    "VOLUME": 1378626
+    "TRADE": 649,
+    "VALUE (mn)": 55.349,
+    "VOLUME": 3779754
   },
   "marketInformation": {
     "lastTradingPrice": 14.6,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01786493089",
     "telephoneNo": "02-226640644"
   },
-  "scrapedAt": "2026-09-11T07:00:05.096Z",
+  "scrapedAt": "2026-09-12T19:44:14.778Z",
   "shariaCompliant": false
 }

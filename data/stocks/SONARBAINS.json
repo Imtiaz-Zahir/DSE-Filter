@@ -8,15 +8,16 @@
   "overview": {
     "#": 350,
     "TRADING CODE": "SONARBAINS",
-    "LTP": 38.3,
-    "HIGH": 39.2,
-    "LOW": 37.7,
-    "CLOSEP": 38.3,
-    "YCP": 38.3,
-    "CHANGE": 0,
-    "TRADE": 662,
-    "VALUE (mn)": 13.571,
-    "VOLUME": 352085
+    "tradingCode": "SONARBAINS",
+    "LTP": 37,
+    "HIGH": 37.2,
+    "LOW": 36.6,
+    "CLOSEP": 37,
+    "YCP": 36.7,
+    "CHANGE": 0.3,
+    "TRADE": 313,
+    "VALUE (mn)": 7.176,
+    "VOLUME": 194639
   },
   "marketInformation": {
     "lastTradingPrice": 37,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01717 356 168",
     "telephoneNo": "02223354211, 02223354212 (PABX) 02223354230 (Direct)"
   },
-  "scrapedAt": "2026-09-11T07:00:18.801Z",
+  "scrapedAt": "2026-09-12T19:44:53.297Z",
   "shariaCompliant": false
 }

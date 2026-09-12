@@ -8,15 +8,16 @@
   "overview": {
     "#": 57,
     "TRADING CODE": "BDTHAI",
-    "LTP": 17,
-    "HIGH": 17.4,
-    "LOW": 16.2,
-    "CLOSEP": 17,
-    "YCP": 16,
-    "CHANGE": 1,
-    "TRADE": 2154,
-    "VALUE (mn)": 52.997,
-    "VOLUME": 3156195
+    "tradingCode": "BDTHAI",
+    "LTP": 15.8,
+    "HIGH": 16.4,
+    "LOW": 15.7,
+    "CLOSEP": 15.8,
+    "YCP": 16.1,
+    "CHANGE": -0.3,
+    "TRADE": 499,
+    "VALUE (mn)": 10.192,
+    "VOLUME": 637462
   },
   "marketInformation": {
     "lastTradingPrice": 15.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01733200797",
     "telephoneNo": "88-02-226603174-78"
   },
-  "scrapedAt": "2026-09-11T06:59:40.190Z",
+  "scrapedAt": "2026-09-12T19:43:08.788Z",
   "shariaCompliant": true
 }

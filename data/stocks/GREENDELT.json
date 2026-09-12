@@ -8,15 +8,16 @@
   "overview": {
     "#": 155,
     "TRADING CODE": "GREENDELT",
-    "LTP": 68.8,
-    "HIGH": 69.8,
-    "LOW": 68.4,
-    "CLOSEP": 68.8,
-    "YCP": 68.6,
-    "CHANGE": 0.2,
-    "TRADE": 235,
-    "VALUE (mn)": 4.533,
-    "VOLUME": 65625
+    "tradingCode": "GREENDELT",
+    "LTP": 64.2,
+    "HIGH": 66.5,
+    "LOW": 63.8,
+    "CLOSEP": 64.2,
+    "YCP": 65,
+    "CHANGE": -0.8,
+    "TRADE": 186,
+    "VALUE (mn)": 5.582,
+    "VOLUME": 86374
   },
   "marketInformation": {
     "lastTradingPrice": 64.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 029 747",
     "telephoneNo": "8802 222263902, 222261170, 222281171 Ext-246"
   },
-  "scrapedAt": "2026-09-11T06:59:53.036Z",
+  "scrapedAt": "2026-09-12T19:43:43.635Z",
   "shariaCompliant": false
 }

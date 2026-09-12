@@ -8,15 +8,16 @@
   "overview": {
     "#": 354,
     "TRADING CODE": "SPCL",
-    "LTP": 52.8,
-    "HIGH": 53.3,
-    "LOW": 52.7,
-    "CLOSEP": 52.8,
-    "YCP": 53,
-    "CHANGE": -0.2,
-    "TRADE": 400,
-    "VALUE (mn)": 15.324,
-    "VOLUME": 289254
+    "tradingCode": "SPCL",
+    "LTP": 49.9,
+    "HIGH": 51.2,
+    "LOW": 49.4,
+    "CLOSEP": 49.9,
+    "YCP": 50.6,
+    "CHANGE": -0.7,
+    "TRADE": 480,
+    "VALUE (mn)": 13.448,
+    "VOLUME": 267539
   },
   "marketInformation": {
     "lastTradingPrice": 49.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01720 596 095",
     "telephoneNo": "09678221177 Ext-112"
   },
-  "scrapedAt": "2026-09-11T07:00:20.220Z",
+  "scrapedAt": "2026-09-12T19:44:55.027Z",
   "shariaCompliant": true
 }

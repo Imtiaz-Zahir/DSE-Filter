@@ -8,15 +8,16 @@
   "overview": {
     "#": 301,
     "TRADING CODE": "RANFOUNDRY",
-    "LTP": 153,
-    "HIGH": 159,
-    "LOW": 152.8,
-    "CLOSEP": 152.9,
-    "YCP": 153.8,
-    "CHANGE": -0.8,
-    "TRADE": 70,
-    "VALUE (mn)": 1.1,
-    "VOLUME": 7181
+    "tradingCode": "RANFOUNDRY",
+    "LTP": 148.1,
+    "HIGH": 150.8,
+    "LOW": 147.8,
+    "CLOSEP": 148.1,
+    "YCP": 150.2,
+    "CHANGE": -2.1,
+    "TRADE": 71,
+    "VALUE (mn)": 0.781,
+    "VOLUME": 5264
   },
   "marketInformation": {
     "lastTradingPrice": 148.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01769 696 200",
     "telephoneNo": "02222281792; Ext.: 430"
   },
-  "scrapedAt": "2026-09-11T07:00:12.837Z",
+  "scrapedAt": "2026-09-12T19:44:38.500Z",
   "shariaCompliant": true
 }

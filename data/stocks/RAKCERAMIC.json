@@ -8,15 +8,16 @@
   "overview": {
     "#": 300,
     "TRADING CODE": "RAKCERAMIC",
-    "LTP": 30,
-    "HIGH": 30.5,
-    "LOW": 29.9,
-    "CLOSEP": 30,
-    "YCP": 30.4,
+    "tradingCode": "RAKCERAMIC",
+    "LTP": 27.5,
+    "HIGH": 28,
+    "LOW": 27.4,
+    "CLOSEP": 27.5,
+    "YCP": 27.9,
     "CHANGE": -0.4,
-    "TRADE": 341,
-    "VALUE (mn)": 7.651,
-    "VOLUME": 254014
+    "TRADE": 384,
+    "VALUE (mn)": 7.603,
+    "VOLUME": 274696
   },
   "marketInformation": {
     "lastTradingPrice": 27.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 240 021",
     "telephoneNo": "+88 02-58957393, +88 02-58952303"
   },
-  "scrapedAt": "2026-09-11T07:00:10.728Z",
+  "scrapedAt": "2026-09-12T19:44:36.309Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 137,
     "TRADING CODE": "FORTUNE",
-    "LTP": 17.1,
-    "HIGH": 18,
-    "LOW": 17,
-    "CLOSEP": 17.1,
-    "YCP": 17.6,
-    "CHANGE": -0.5,
-    "TRADE": 288,
-    "VALUE (mn)": 5.713,
-    "VOLUME": 330268
+    "tradingCode": "FORTUNE",
+    "LTP": 16.3,
+    "HIGH": 16.9,
+    "LOW": 16.2,
+    "CLOSEP": 16.2,
+    "YCP": 16.7,
+    "CHANGE": -0.4,
+    "TRADE": 190,
+    "VALUE (mn)": 2.942,
+    "VOLUME": 179156
   },
   "marketInformation": {
     "lastTradingPrice": 16.3,
@@ -373,6 +374,6 @@
     "cellNo": "01345862661",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:51.051Z",
+  "scrapedAt": "2026-09-12T19:43:34.586Z",
   "shariaCompliant": true
 }

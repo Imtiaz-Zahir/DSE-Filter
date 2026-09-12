@@ -8,15 +8,16 @@
   "overview": {
     "#": 117,
     "TRADING CODE": "EHL",
-    "LTP": 89.1,
-    "HIGH": 90.8,
-    "LOW": 88.9,
-    "CLOSEP": 89.1,
-    "YCP": 90,
-    "CHANGE": -0.9,
-    "TRADE": 739,
-    "VALUE (mn)": 15.971,
-    "VOLUME": 178341
+    "tradingCode": "EHL",
+    "LTP": 83.5,
+    "HIGH": 87.1,
+    "LOW": 83,
+    "CLOSEP": 83.5,
+    "YCP": 86.6,
+    "CHANGE": -3.1,
+    "TRADE": 777,
+    "VALUE (mn)": 20.523,
+    "VOLUME": 242077
   },
   "marketInformation": {
     "lastTradingPrice": 83.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 003 131",
     "telephoneNo": "+88- 02-55033669 Ext-212"
   },
-  "scrapedAt": "2026-09-11T06:59:47.386Z",
+  "scrapedAt": "2026-09-12T19:43:29.660Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 368,
     "TRADING CODE": "TILIL",
-    "LTP": 47.2,
-    "HIGH": 47.8,
-    "LOW": 45.5,
-    "CLOSEP": 47.2,
-    "YCP": 45.4,
-    "CHANGE": 1.8,
-    "TRADE": 557,
-    "VALUE (mn)": 11.214,
-    "VOLUME": 239659
+    "tradingCode": "TILIL",
+    "LTP": 45.6,
+    "HIGH": 47.1,
+    "LOW": 45.2,
+    "CLOSEP": 45.6,
+    "YCP": 46.6,
+    "CHANGE": -1,
+    "TRADE": 197,
+    "VALUE (mn)": 3.466,
+    "VOLUME": 75632
   },
   "marketInformation": {
     "lastTradingPrice": 45.6,
@@ -240,6 +241,6 @@
     "cellNo": "01847129332",
     "telephoneNo": "+88 024-8313370"
   },
-  "scrapedAt": "2026-09-11T07:00:20.739Z",
+  "scrapedAt": "2026-09-12T19:44:59.364Z",
   "shariaCompliant": false
 }

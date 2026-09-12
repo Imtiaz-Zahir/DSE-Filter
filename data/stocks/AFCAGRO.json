@@ -8,15 +8,16 @@
   "overview": {
     "#": 15,
     "TRADING CODE": "AFCAGRO",
-    "LTP": 6.7,
-    "HIGH": 6.9,
-    "LOW": 6.7,
-    "CLOSEP": 6.8,
-    "YCP": 6.9,
-    "CHANGE": -0.2,
-    "TRADE": 62,
-    "VALUE (mn)": 0.427,
-    "VOLUME": 62742
+    "tradingCode": "AFCAGRO",
+    "LTP": 6.4,
+    "HIGH": 6.6,
+    "LOW": 6.2,
+    "CLOSEP": 6.2,
+    "YCP": 6.5,
+    "CHANGE": -0.1,
+    "TRADE": 64,
+    "VALUE (mn)": 0.283,
+    "VOLUME": 44777
   },
   "marketInformation": {
     "lastTradingPrice": 6.4,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01992 024 515, +88 01992 024 696",
     "telephoneNo": "02-9531023"
   },
-  "scrapedAt": "2026-09-11T06:59:33.332Z",
+  "scrapedAt": "2026-09-12T19:42:49.316Z",
   "shariaCompliant": true
 }

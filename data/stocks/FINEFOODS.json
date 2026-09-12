@@ -8,15 +8,16 @@
   "overview": {
     "#": 134,
     "TRADING CODE": "FINEFOODS",
-    "LTP": 463.4,
-    "HIGH": 466.2,
-    "LOW": 461,
-    "CLOSEP": 463.4,
-    "YCP": 465.8,
-    "CHANGE": -2.4,
-    "TRADE": 304,
-    "VALUE (mn)": 8.823,
-    "VOLUME": 19024
+    "tradingCode": "FINEFOODS",
+    "LTP": 443.4,
+    "HIGH": 450,
+    "LOW": 440,
+    "CLOSEP": 443.4,
+    "YCP": 445.9,
+    "CHANGE": -2.5,
+    "TRADE": 523,
+    "VALUE (mn)": 20.08,
+    "VOLUME": 45356
   },
   "marketInformation": {
     "lastTradingPrice": 443.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01926 766469",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:49.869Z",
+  "scrapedAt": "2026-09-12T19:43:33.552Z",
   "shariaCompliant": true
 }

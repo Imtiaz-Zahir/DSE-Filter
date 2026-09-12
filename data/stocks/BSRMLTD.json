@@ -8,15 +8,16 @@
   "overview": {
     "#": 74,
     "TRADING CODE": "BSRMLTD",
-    "LTP": 99,
-    "HIGH": 100.6,
-    "LOW": 98.6,
-    "CLOSEP": 99,
-    "YCP": 99.3,
-    "CHANGE": -0.3,
-    "TRADE": 272,
-    "VALUE (mn)": 5.265,
-    "VOLUME": 53137
+    "tradingCode": "BSRMLTD",
+    "LTP": 96.6,
+    "HIGH": 98,
+    "LOW": 96.3,
+    "CLOSEP": 97.1,
+    "YCP": 96.5,
+    "CHANGE": 0.1,
+    "TRADE": 193,
+    "VALUE (mn)": 5.445,
+    "VOLUME": 56079
   },
   "marketInformation": {
     "lastTradingPrice": 96.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 790 266",
     "telephoneNo": "+880 31 2854901-10, Ext.- 156"
   },
-  "scrapedAt": "2026-09-11T06:59:43.553Z",
+  "scrapedAt": "2026-09-12T19:43:17.493Z",
   "shariaCompliant": false
 }

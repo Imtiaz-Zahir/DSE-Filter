@@ -8,15 +8,16 @@
   "overview": {
     "#": 199,
     "TRADING CODE": "KOHINOOR",
-    "LTP": 536,
-    "HIGH": 537.6,
-    "LOW": 533.1,
-    "CLOSEP": 534.4,
-    "YCP": 534,
-    "CHANGE": 2,
-    "TRADE": 61,
-    "VALUE (mn)": 0.742,
-    "VOLUME": 1385
+    "tradingCode": "KOHINOOR",
+    "LTP": 525.5,
+    "HIGH": 531.8,
+    "LOW": 525.1,
+    "CLOSEP": 528,
+    "YCP": 528.1,
+    "CHANGE": -2.6,
+    "TRADE": 35,
+    "VALUE (mn)": 0.309,
+    "VOLUME": 586
   },
   "marketInformation": {
     "lastTradingPrice": 525.5,
@@ -372,6 +373,6 @@
     "cellNo": "+8801716592006",
     "telephoneNo": "8891267-69, Ext-251"
   },
-  "scrapedAt": "2026-09-11T06:59:58.739Z",
+  "scrapedAt": "2026-09-12T19:43:59.622Z",
   "shariaCompliant": true
 }

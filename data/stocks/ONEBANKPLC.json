@@ -8,15 +8,16 @@
   "overview": {
     "#": 261,
     "TRADING CODE": "ONEBANKPLC",
+    "tradingCode": "ONEBANKPLC",
     "LTP": 7.7,
-    "HIGH": 7.9,
-    "LOW": 7.7,
+    "HIGH": 7.8,
+    "LOW": 7.6,
     "CLOSEP": 7.7,
-    "YCP": 7.9,
-    "CHANGE": -0.2,
-    "TRADE": 194,
-    "VALUE (mn)": 2.804,
-    "VOLUME": 362697
+    "YCP": 7.6,
+    "CHANGE": 0.1,
+    "TRADE": 55,
+    "VALUE (mn)": 1.776,
+    "VOLUME": 231518
   },
   "marketInformation": {
     "lastTradingPrice": 7.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 353 507",
     "telephoneNo": "88 02 41010666"
   },
-  "scrapedAt": "2026-09-11T07:00:06.773Z",
+  "scrapedAt": "2026-09-12T19:44:21.847Z",
   "shariaCompliant": false
 }

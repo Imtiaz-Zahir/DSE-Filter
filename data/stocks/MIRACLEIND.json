@@ -8,15 +8,16 @@
   "overview": {
     "#": 228,
     "TRADING CODE": "MIRACLEIND",
-    "LTP": 28,
-    "HIGH": 28.8,
-    "LOW": 27.8,
-    "CLOSEP": 28,
-    "YCP": 28.3,
-    "CHANGE": -0.3,
-    "TRADE": 246,
-    "VALUE (mn)": 2.898,
-    "VOLUME": 102422
+    "tradingCode": "MIRACLEIND",
+    "LTP": 27.2,
+    "HIGH": 28.1,
+    "LOW": 27.1,
+    "CLOSEP": 27.2,
+    "YCP": 27.7,
+    "CHANGE": -0.5,
+    "TRADE": 236,
+    "VALUE (mn)": 3.856,
+    "VOLUME": 140470
   },
   "marketInformation": {
     "lastTradingPrice": 27.2,
@@ -370,6 +371,6 @@
     "cellNo": "01301 701694",
     "telephoneNo": "88-02-58810353"
   },
-  "scrapedAt": "2026-09-11T07:00:02.815Z",
+  "scrapedAt": "2026-09-12T19:44:10.362Z",
   "shariaCompliant": true
 }

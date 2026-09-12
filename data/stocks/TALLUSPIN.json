@@ -8,15 +8,16 @@
   "overview": {
     "#": 365,
     "TRADING CODE": "TALLUSPIN",
-    "LTP": 7.8,
-    "HIGH": 8,
-    "LOW": 7.7,
-    "CLOSEP": 7.7,
-    "YCP": 7.9,
-    "CHANGE": -0.1,
-    "TRADE": 64,
-    "VALUE (mn)": 0.532,
-    "VOLUME": 68571
+    "tradingCode": "TALLUSPIN",
+    "LTP": 7.5,
+    "HIGH": 7.6,
+    "LOW": 7.3,
+    "CLOSEP": 7.3,
+    "YCP": 7.5,
+    "CHANGE": 0,
+    "TRADE": 60,
+    "VALUE (mn)": 0.292,
+    "VOLUME": 39620
   },
   "marketInformation": {
     "lastTradingPrice": 7.5,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01999 055 485",
     "telephoneNo": "88-02-222262803, 88-02-222260264, 88-02-222260458"
   },
-  "scrapedAt": "2026-09-11T07:00:21.924Z",
+  "scrapedAt": "2026-09-12T19:44:57.267Z",
   "shariaCompliant": false
 }

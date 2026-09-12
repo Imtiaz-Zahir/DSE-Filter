@@ -8,15 +8,16 @@
   "overview": {
     "#": 343,
     "TRADING CODE": "SINGERBD",
-    "LTP": 75,
-    "HIGH": 76,
-    "LOW": 75,
-    "CLOSEP": 75.3,
-    "YCP": 75,
-    "CHANGE": 0,
-    "TRADE": 139,
-    "VALUE (mn)": 1.532,
-    "VOLUME": 20283
+    "tradingCode": "SINGERBD",
+    "LTP": 72.3,
+    "HIGH": 73,
+    "LOW": 72.1,
+    "CLOSEP": 72.3,
+    "YCP": 72.7,
+    "CHANGE": -0.4,
+    "TRADE": 156,
+    "VALUE (mn)": 0.944,
+    "VOLUME": 13055
   },
   "marketInformation": {
     "lastTradingPrice": 72.3,
@@ -373,6 +374,6 @@
     "cellNo": "+8801817042256",
     "telephoneNo": "880 2223 384438"
   },
-  "scrapedAt": "2026-09-11T07:00:16.628Z",
+  "scrapedAt": "2026-09-12T19:44:52.413Z",
   "shariaCompliant": true
 }

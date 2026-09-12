@@ -8,15 +8,16 @@
   "overview": {
     "#": 119,
     "TRADING CODE": "EMERALDOIL",
-    "LTP": 29.2,
-    "HIGH": 30.2,
-    "LOW": 29,
-    "CLOSEP": 29.2,
-    "YCP": 29,
-    "CHANGE": 0.2,
-    "TRADE": 388,
-    "VALUE (mn)": 8.135,
-    "VOLUME": 275316
+    "tradingCode": "EMERALDOIL",
+    "LTP": 28.3,
+    "HIGH": 29,
+    "LOW": 28.2,
+    "CLOSEP": 28.3,
+    "YCP": 28.6,
+    "CHANGE": -0.3,
+    "TRADE": 205,
+    "VALUE (mn)": 2.735,
+    "VOLUME": 96063
   },
   "marketInformation": {
     "lastTradingPrice": 28.3,
@@ -370,6 +371,6 @@
     "cellNo": "01726128969",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:47.497Z",
+  "scrapedAt": "2026-09-12T19:43:29.586Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 256,
     "TRADING CODE": "NTLTUBES",
-    "LTP": 65.4,
-    "HIGH": 66.9,
-    "LOW": 65.2,
-    "CLOSEP": 65.4,
-    "YCP": 65.7,
-    "CHANGE": -0.3,
-    "TRADE": 176,
-    "VALUE (mn)": 2.838,
-    "VOLUME": 43317
+    "tradingCode": "NTLTUBES",
+    "LTP": 62.8,
+    "HIGH": 63.6,
+    "LOW": 62.6,
+    "CLOSEP": 62.8,
+    "YCP": 63,
+    "CHANGE": -0.2,
+    "TRADE": 60,
+    "VALUE (mn)": 0.382,
+    "VOLUME": 6073
   },
   "marketInformation": {
     "lastTradingPrice": 62.8,
@@ -373,6 +374,6 @@
     "cellNo": "01716639781",
     "telephoneNo": "02224412784"
   },
-  "scrapedAt": "2026-09-11T07:00:07.155Z",
+  "scrapedAt": "2026-09-12T19:44:19.500Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 24,
     "TRADING CODE": "ALLTEX",
-    "LTP": 23.9,
-    "HIGH": 24.4,
-    "LOW": 23.6,
-    "CLOSEP": 23.9,
-    "YCP": 24,
-    "CHANGE": -0.1,
-    "TRADE": 198,
-    "VALUE (mn)": 4.714,
-    "VOLUME": 197583
+    "tradingCode": "ALLTEX",
+    "LTP": 24.1,
+    "HIGH": 24.5,
+    "LOW": 23.9,
+    "CLOSEP": 24.1,
+    "YCP": 24.3,
+    "CHANGE": -0.2,
+    "TRADE": 99,
+    "VALUE (mn)": 1.863,
+    "VOLUME": 77224
   },
   "marketInformation": {
     "lastTradingPrice": 24.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01730 031 245",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:34.878Z",
+  "scrapedAt": "2026-09-12T19:42:53.849Z",
   "shariaCompliant": false
 }

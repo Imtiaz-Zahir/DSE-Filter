@@ -8,15 +8,16 @@
   "overview": {
     "#": 23,
     "TRADING CODE": "ALIF",
-    "LTP": 5.6,
-    "HIGH": 5.8,
-    "LOW": 5.5,
-    "CLOSEP": 5.5,
-    "YCP": 5.6,
+    "tradingCode": "ALIF",
+    "LTP": 5.4,
+    "HIGH": 5.5,
+    "LOW": 5.4,
+    "CLOSEP": 5.4,
+    "YCP": 5.4,
     "CHANGE": 0,
-    "TRADE": 101,
-    "VALUE (mn)": 2.18,
-    "VOLUME": 391480
+    "TRADE": 62,
+    "VALUE (mn)": 1.321,
+    "VOLUME": 244116
   },
   "marketInformation": {
     "lastTradingPrice": 5.4,
@@ -373,6 +374,6 @@
     "cellNo": "01552416749",
     "telephoneNo": "02-58815226-7"
   },
-  "scrapedAt": "2026-09-11T06:59:36.284Z",
+  "scrapedAt": "2026-09-12T19:42:52.904Z",
   "shariaCompliant": true
 }

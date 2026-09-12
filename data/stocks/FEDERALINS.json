@@ -8,15 +8,16 @@
   "overview": {
     "#": 132,
     "TRADING CODE": "FEDERALINS",
-    "LTP": 29.2,
-    "HIGH": 30.2,
-    "LOW": 29.1,
-    "CLOSEP": 29.2,
-    "YCP": 29.5,
-    "CHANGE": -0.3,
-    "TRADE": 666,
-    "VALUE (mn)": 24.882,
-    "VOLUME": 837800
+    "tradingCode": "FEDERALINS",
+    "LTP": 27.7,
+    "HIGH": 28.7,
+    "LOW": 27.5,
+    "CLOSEP": 27.7,
+    "YCP": 28.2,
+    "CHANGE": -0.5,
+    "TRADE": 522,
+    "VALUE (mn)": 14.675,
+    "VOLUME": 524587
   },
   "marketInformation": {
     "lastTradingPrice": 27.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 806 474",
     "telephoneNo": "223374067"
   },
-  "scrapedAt": "2026-09-11T06:59:49.785Z",
+  "scrapedAt": "2026-09-12T19:43:33.745Z",
   "shariaCompliant": false
 }

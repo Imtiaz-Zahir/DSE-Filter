@@ -8,15 +8,16 @@
   "overview": {
     "#": 348,
     "TRADING CODE": "SONALILIFE",
-    "LTP": 84.7,
-    "HIGH": 85.6,
-    "LOW": 84.3,
-    "CLOSEP": 84.7,
-    "YCP": 85,
-    "CHANGE": -0.3,
-    "TRADE": 537,
-    "VALUE (mn)": 25.651,
-    "VOLUME": 302509
+    "tradingCode": "SONALILIFE",
+    "LTP": 84.2,
+    "HIGH": 85.4,
+    "LOW": 84,
+    "CLOSEP": 84.2,
+    "YCP": 84.9,
+    "CHANGE": -0.7,
+    "TRADE": 264,
+    "VALUE (mn)": 6.21,
+    "VOLUME": 73509
   },
   "marketInformation": {
     "lastTradingPrice": 84.2,
@@ -317,6 +318,6 @@
     "cellNo": "01537591862",
     "telephoneNo": "09678200004 Ext-904"
   },
-  "scrapedAt": "2026-09-11T07:00:18.509Z",
+  "scrapedAt": "2026-09-12T19:44:53.161Z",
   "shariaCompliant": false
 }

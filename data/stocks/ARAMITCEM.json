@@ -8,15 +8,16 @@
   "overview": {
     "#": 37,
     "TRADING CODE": "ARAMITCEM",
-    "LTP": 12,
-    "HIGH": 12.5,
-    "LOW": 11.6,
-    "CLOSEP": 12.1,
-    "YCP": 11.9,
-    "CHANGE": 0.1,
-    "TRADE": 112,
-    "VALUE (mn)": 0.432,
-    "VOLUME": 35691
+    "tradingCode": "ARAMITCEM",
+    "LTP": 11.3,
+    "HIGH": 11.8,
+    "LOW": 11.1,
+    "CLOSEP": 11.3,
+    "YCP": 11.3,
+    "CHANGE": 0,
+    "TRADE": 28,
+    "VALUE (mn)": 0.238,
+    "VOLUME": 21041
   },
   "marketInformation": {
     "lastTradingPrice": 11.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 240 005",
     "telephoneNo": "(88 031) 671950, 670473, 670368, 672516, Ext-119"
   },
-  "scrapedAt": "2026-09-11T06:59:36.662Z",
+  "scrapedAt": "2026-09-12T19:43:00.389Z",
   "shariaCompliant": false
 }

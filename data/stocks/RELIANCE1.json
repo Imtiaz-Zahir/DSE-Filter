@@ -8,15 +8,16 @@
   "overview": {
     "#": 305,
     "TRADING CODE": "RELIANCE1",
-    "LTP": 12.3,
+    "tradingCode": "RELIANCE1",
+    "LTP": 12.5,
     "HIGH": 12.8,
-    "LOW": 12.1,
-    "CLOSEP": 12.3,
-    "YCP": 12.8,
-    "CHANGE": -0.5,
-    "TRADE": 787,
-    "VALUE (mn)": 26.127,
-    "VOLUME": 2104940
+    "LOW": 12.2,
+    "CLOSEP": 12.5,
+    "YCP": 12.2,
+    "CHANGE": 0.3,
+    "TRADE": 925,
+    "VALUE (mn)": 29.726,
+    "VOLUME": 2382455
   },
   "marketInformation": {
     "lastTradingPrice": 12.5,
@@ -373,6 +374,6 @@
     "cellNo": "+8801713423495",
     "telephoneNo": "+(880-2) 481 20558-59"
   },
-  "scrapedAt": "2026-09-11T07:00:14.133Z",
+  "scrapedAt": "2026-09-12T19:44:37.813Z",
   "shariaCompliant": false
 }

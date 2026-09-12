@@ -8,15 +8,16 @@
   "overview": {
     "#": 391,
     "TRADING CODE": "WMSHIPYARD",
-    "LTP": 9.1,
-    "HIGH": 9.4,
-    "LOW": 9.1,
-    "CLOSEP": 9.1,
-    "YCP": 9.3,
-    "CHANGE": -0.2,
-    "TRADE": 198,
-    "VALUE (mn)": 2.472,
-    "VOLUME": 270005
+    "tradingCode": "WMSHIPYARD",
+    "LTP": 8.9,
+    "HIGH": 9,
+    "LOW": 8.8,
+    "CLOSEP": 8.9,
+    "YCP": 8.8,
+    "CHANGE": 0.1,
+    "TRADE": 90,
+    "VALUE (mn)": 1.33,
+    "VOLUME": 149038
   },
   "marketInformation": {
     "lastTradingPrice": 8.9,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:26.185Z",
+  "scrapedAt": "2026-09-12T19:45:07.645Z",
   "shariaCompliant": false
 }

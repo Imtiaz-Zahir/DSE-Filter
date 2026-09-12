@@ -8,15 +8,16 @@
   "overview": {
     "#": 280,
     "TRADING CODE": "PRAGATIINS",
-    "LTP": 76.3,
-    "HIGH": 78.7,
-    "LOW": 75.5,
-    "CLOSEP": 76.3,
-    "YCP": 76.6,
-    "CHANGE": -0.3,
-    "TRADE": 314,
-    "VALUE (mn)": 7.281,
-    "VOLUME": 94006
+    "tradingCode": "PRAGATIINS",
+    "LTP": 72.4,
+    "HIGH": 74.5,
+    "LOW": 72.3,
+    "CLOSEP": 72.4,
+    "YCP": 73.2,
+    "CHANGE": -0.8,
+    "TRADE": 355,
+    "VALUE (mn)": 8.928,
+    "VOLUME": 122040
   },
   "marketInformation": {
     "lastTradingPrice": 72.4,
@@ -372,6 +373,6 @@
     "cellNo": "01766-535422",
     "telephoneNo": "+88-02-55012680-2(PABX), Ext. -122"
   },
-  "scrapedAt": "2026-09-11T07:00:10.380Z",
+  "scrapedAt": "2026-09-12T19:44:26.017Z",
   "shariaCompliant": false
 }

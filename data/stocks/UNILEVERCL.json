@@ -8,15 +8,16 @@
   "overview": {
     "#": 375,
     "TRADING CODE": "UNILEVERCL",
-    "LTP": 1998.2,
-    "HIGH": 2036.8,
-    "LOW": 1998,
-    "CLOSEP": 2002.1,
-    "YCP": 1998.5,
-    "CHANGE": -0.3,
-    "TRADE": 27,
-    "VALUE (mn)": 0.212,
-    "VOLUME": 106
+    "tradingCode": "UNILEVERCL",
+    "LTP": 1994.6,
+    "HIGH": 2000,
+    "LOW": 1980.5,
+    "CLOSEP": 1994.6,
+    "YCP": 1998,
+    "CHANGE": -3.4,
+    "TRADE": 29,
+    "VALUE (mn)": 0.133,
+    "VOLUME": 67
   },
   "marketInformation": {
     "lastTradingPrice": 1994.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01717444311, +8801324438744",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:22.305Z",
+  "scrapedAt": "2026-09-12T19:45:02.075Z",
   "shariaCompliant": false
 }

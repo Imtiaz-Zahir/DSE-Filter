@@ -8,15 +8,16 @@
   "overview": {
     "#": 26,
     "TRADING CODE": "AMBEEPHA",
-    "LTP": 746,
-    "HIGH": 765,
-    "LOW": 742.2,
-    "CLOSEP": 746,
-    "YCP": 748.5,
-    "CHANGE": -2.5,
-    "TRADE": 123,
-    "VALUE (mn)": 1.137,
-    "VOLUME": 1521
+    "tradingCode": "AMBEEPHA",
+    "LTP": 756,
+    "HIGH": 790,
+    "LOW": 750,
+    "CLOSEP": 756,
+    "YCP": 752.5,
+    "CHANGE": 3.5,
+    "TRADE": 209,
+    "VALUE (mn)": 1.674,
+    "VOLUME": 2222
   },
   "marketInformation": {
     "lastTradingPrice": 756,
@@ -372,6 +373,6 @@
     "cellNo": "01712045804",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:34.743Z",
+  "scrapedAt": "2026-09-12T19:42:56.160Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 55,
     "TRADING CODE": "BDLAMPS",
-    "LTP": 229.6,
-    "HIGH": 234.2,
-    "LOW": 224.3,
-    "CLOSEP": 229.6,
-    "YCP": 224.3,
-    "CHANGE": 5.3,
-    "TRADE": 1378,
-    "VALUE (mn)": 42.837,
-    "VOLUME": 186630
+    "tradingCode": "BDLAMPS",
+    "LTP": 224.3,
+    "HIGH": 227.9,
+    "LOW": 222,
+    "CLOSEP": 224.3,
+    "YCP": 221,
+    "CHANGE": 3.3,
+    "TRADE": 421,
+    "VALUE (mn)": 8.412,
+    "VOLUME": 37372
   },
   "marketInformation": {
     "lastTradingPrice": 224.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01723452100",
     "telephoneNo": "+880 2 55052072"
   },
-  "scrapedAt": "2026-09-11T06:59:41.860Z",
+  "scrapedAt": "2026-09-12T19:43:07.989Z",
   "shariaCompliant": false
 }

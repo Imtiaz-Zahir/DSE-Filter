@@ -8,15 +8,16 @@
   "overview": {
     "#": 282,
     "TRADING CODE": "PREMIERBAN",
-    "LTP": 5.8,
+    "tradingCode": "PREMIERBAN",
+    "LTP": 5.9,
     "HIGH": 5.9,
     "LOW": 5.8,
-    "CLOSEP": 5.9,
-    "YCP": 5.9,
-    "CHANGE": -0.1,
-    "TRADE": 74,
-    "VALUE (mn)": 3.468,
-    "VOLUME": 592247
+    "CLOSEP": 5.8,
+    "YCP": 5.8,
+    "CHANGE": 0.1,
+    "TRADE": 99,
+    "VALUE (mn)": 2.905,
+    "VOLUME": 499966
   },
   "marketInformation": {
     "lastTradingPrice": 5.9,
@@ -373,6 +374,6 @@
     "cellNo": "01332810055",
     "telephoneNo": "+88-02-222274844-8, Ext-333"
   },
-  "scrapedAt": "2026-09-11T07:00:09.252Z",
+  "scrapedAt": "2026-09-12T19:44:29.390Z",
   "shariaCompliant": false
 }

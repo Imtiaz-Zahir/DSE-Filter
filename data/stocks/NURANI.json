@@ -8,15 +8,16 @@
   "overview": {
     "#": 257,
     "TRADING CODE": "NURANI",
-    "LTP": 3.2,
-    "HIGH": 3.3,
-    "LOW": 3.1,
-    "CLOSEP": 3.2,
-    "YCP": 3.2,
-    "CHANGE": 0,
-    "TRADE": 86,
-    "VALUE (mn)": 1.045,
-    "VOLUME": 328705
+    "tradingCode": "NURANI",
+    "LTP": 3,
+    "HIGH": 3.2,
+    "LOW": 2.9,
+    "CLOSEP": 3,
+    "YCP": 3.1,
+    "CHANGE": -0.1,
+    "TRADE": 60,
+    "VALUE (mn)": 1.142,
+    "VOLUME": 377844
   },
   "marketInformation": {
     "lastTradingPrice": 3,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:07.183Z",
+  "scrapedAt": "2026-09-12T19:44:19.592Z",
   "shariaCompliant": false
 }

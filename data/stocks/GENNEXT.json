@@ -8,15 +8,16 @@
   "overview": {
     "#": 143,
     "TRADING CODE": "GENNEXT",
-    "LTP": 3.2,
-    "HIGH": 3.3,
-    "LOW": 3.1,
-    "CLOSEP": 3.2,
-    "YCP": 3.2,
+    "tradingCode": "GENNEXT",
+    "LTP": 3,
+    "HIGH": 3.1,
+    "LOW": 2.9,
+    "CLOSEP": 3,
+    "YCP": 3,
     "CHANGE": 0,
-    "TRADE": 96,
-    "VALUE (mn)": 2.191,
-    "VOLUME": 687202
+    "TRADE": 94,
+    "VALUE (mn)": 1.291,
+    "VOLUME": 431792
   },
   "marketInformation": {
     "lastTradingPrice": 3,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:51.734Z",
+  "scrapedAt": "2026-09-12T19:43:37.249Z",
   "shariaCompliant": false
 }

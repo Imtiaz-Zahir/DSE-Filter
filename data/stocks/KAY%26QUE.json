@@ -8,15 +8,16 @@
   "overview": {
     "#": 195,
     "TRADING CODE": "KAY&QUE",
-    "LTP": 381.1,
-    "HIGH": 393.7,
-    "LOW": 380,
-    "CLOSEP": 381.1,
-    "YCP": 389.4,
-    "CHANGE": -8.3,
-    "TRADE": 522,
-    "VALUE (mn)": 6.384,
-    "VOLUME": 16578
+    "tradingCode": "KAY&QUE",
+    "LTP": 355.1,
+    "HIGH": 364.8,
+    "LOW": 353.1,
+    "CLOSEP": 355.1,
+    "YCP": 360.8,
+    "CHANGE": -5.7,
+    "TRADE": 301,
+    "VALUE (mn)": 4.39,
+    "VOLUME": 12255
   },
   "marketInformation": {
     "lastTradingPrice": 355.1,
@@ -373,6 +374,6 @@
     "cellNo": "01313093636",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-11T06:59:58.225Z",
+  "scrapedAt": "2026-09-12T19:43:58.822Z",
   "shariaCompliant": false
 }

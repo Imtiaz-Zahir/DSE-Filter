@@ -8,15 +8,16 @@
   "overview": {
     "#": 65,
     "TRADING CODE": "BEXIMCO",
-    "LTP": 22.5,
-    "HIGH": 23.2,
-    "LOW": 22.4,
-    "CLOSEP": 22.5,
-    "YCP": 23,
-    "CHANGE": -0.5,
-    "TRADE": 3317,
-    "VALUE (mn)": 87.177,
-    "VOLUME": 3833364
+    "tradingCode": "BEXIMCO",
+    "LTP": 21.5,
+    "HIGH": 22.1,
+    "LOW": 21.4,
+    "CLOSEP": 21.5,
+    "YCP": 21.6,
+    "CHANGE": -0.1,
+    "TRADE": 1791,
+    "VALUE (mn)": 41.318,
+    "VOLUME": 1902784
   },
   "marketInformation": {
     "lastTradingPrice": 21.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "41060531-35, 41060579-83 EXT.10140"
   },
-  "scrapedAt": "2026-09-11T06:59:42.332Z",
+  "scrapedAt": "2026-09-12T19:43:11.071Z",
   "shariaCompliant": true
 }

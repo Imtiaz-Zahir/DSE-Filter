@@ -8,15 +8,16 @@
   "overview": {
     "#": 268,
     "TRADING CODE": "PENINSULA",
-    "LTP": 22,
-    "HIGH": 22.2,
-    "LOW": 21.1,
-    "CLOSEP": 22,
-    "YCP": 21.1,
-    "CHANGE": 0.9,
-    "TRADE": 400,
-    "VALUE (mn)": 11.41,
-    "VOLUME": 526301
+    "tradingCode": "PENINSULA",
+    "LTP": 21.1,
+    "HIGH": 21.7,
+    "LOW": 20.9,
+    "CLOSEP": 21.1,
+    "YCP": 21.4,
+    "CHANGE": -0.3,
+    "TRADE": 179,
+    "VALUE (mn)": 2.854,
+    "VOLUME": 134792
   },
   "marketInformation": {
     "lastTradingPrice": 21.1,
@@ -373,6 +374,6 @@
     "cellNo": "01913632565",
     "telephoneNo": "+88-02333350860-9 (Ext.-4105)"
   },
-  "scrapedAt": "2026-09-11T07:00:06.748Z",
+  "scrapedAt": "2026-09-12T19:44:22.907Z",
   "shariaCompliant": false
 }

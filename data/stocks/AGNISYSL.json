@@ -8,15 +8,16 @@
   "overview": {
     "#": 17,
     "TRADING CODE": "AGNISYSL",
-    "LTP": 30.4,
-    "HIGH": 30.7,
-    "LOW": 29.7,
-    "CLOSEP": 30.4,
-    "YCP": 29.8,
-    "CHANGE": 0.6,
-    "TRADE": 705,
-    "VALUE (mn)": 26.785,
-    "VOLUME": 887657
+    "tradingCode": "AGNISYSL",
+    "LTP": 29.3,
+    "HIGH": 30.4,
+    "LOW": 29.2,
+    "CLOSEP": 29.3,
+    "YCP": 30,
+    "CHANGE": -0.7,
+    "TRADE": 424,
+    "VALUE (mn)": 11.596,
+    "VOLUME": 390398
   },
   "marketInformation": {
     "lastTradingPrice": 29.3,
@@ -372,6 +373,6 @@
     "cellNo": "01841739966, 01615862332",
     "telephoneNo": "09606100109"
   },
-  "scrapedAt": "2026-09-11T06:59:34.668Z",
+  "scrapedAt": "2026-09-12T19:42:52.330Z",
   "shariaCompliant": true
 }

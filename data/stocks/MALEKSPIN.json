@@ -8,15 +8,16 @@
   "overview": {
     "#": 213,
     "TRADING CODE": "MALEKSPIN",
-    "LTP": 50.6,
-    "HIGH": 54.2,
-    "LOW": 50.3,
-    "CLOSEP": 50.6,
-    "YCP": 51.3,
-    "CHANGE": -0.7,
-    "TRADE": 3587,
-    "VALUE (mn)": 414.774,
-    "VOLUME": 7903951
+    "tradingCode": "MALEKSPIN",
+    "LTP": 46.4,
+    "HIGH": 48.2,
+    "LOW": 46.2,
+    "CLOSEP": 46.4,
+    "YCP": 47.8,
+    "CHANGE": -1.4,
+    "TRADE": 2575,
+    "VALUE (mn)": 120.137,
+    "VOLUME": 2562134
   },
   "marketInformation": {
     "lastTradingPrice": 46.4,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01709 998 861",
     "telephoneNo": "+8809612111177-92 Ext.-184, +880-2-8878062, +880-2-8878065"
   },
-  "scrapedAt": "2026-09-11T07:00:00.865Z",
+  "scrapedAt": "2026-09-12T19:44:03.843Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 314,
     "TRADING CODE": "RUPALIBANK",
+    "tradingCode": "RUPALIBANK",
     "LTP": 17.2,
-    "HIGH": 17.5,
-    "LOW": 17.1,
-    "CLOSEP": 17.2,
-    "YCP": 17.5,
-    "CHANGE": -0.3,
-    "TRADE": 46,
-    "VALUE (mn)": 0.503,
-    "VOLUME": 29285
+    "HIGH": 17.4,
+    "LOW": 16.9,
+    "CLOSEP": 17,
+    "YCP": 17.3,
+    "CHANGE": -0.1,
+    "TRADE": 42,
+    "VALUE (mn)": 0.306,
+    "VOLUME": 17895
   },
   "marketInformation": {
     "lastTradingPrice": 17.2,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01810 027 615, +88 01754 296 619",
     "telephoneNo": "02 223 355 612"
   },
-  "scrapedAt": "2026-09-11T07:00:13.282Z",
+  "scrapedAt": "2026-09-12T19:44:41.888Z",
   "shariaCompliant": false
 }

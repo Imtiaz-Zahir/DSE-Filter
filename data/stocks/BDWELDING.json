@@ -8,15 +8,16 @@
   "overview": {
     "#": 59,
     "TRADING CODE": "BDWELDING",
-    "LTP": 13.1,
-    "HIGH": 13.2,
-    "LOW": 13,
-    "CLOSEP": 13,
-    "YCP": 13.1,
-    "CHANGE": 0,
-    "TRADE": 35,
-    "VALUE (mn)": 0.293,
-    "VOLUME": 22383
+    "tradingCode": "BDWELDING",
+    "LTP": 12.1,
+    "HIGH": 12.7,
+    "LOW": 12,
+    "CLOSEP": 12,
+    "YCP": 12.3,
+    "CHANGE": -0.2,
+    "TRADE": 63,
+    "VALUE (mn)": 0.525,
+    "VOLUME": 43447
   },
   "marketInformation": {
     "lastTradingPrice": 12.1,
@@ -236,21 +237,6 @@
       "tciRestated": -39.1
     },
     {
-      "year": null,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": -3.5,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 12.87,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": -150.4,
-      "tciOriginal": -150.4,
-      "tciRestated": -150.4
-    },
-    {
       "year": 2017,
       "epsBasicOriginal": null,
       "epsBasicRestated": null,
@@ -299,17 +285,6 @@
   "historicalDividendPE": [
     {
       "year": 2015,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": null,
-      "dividend": null,
-      "cashDividendPct": null,
-      "bonusDividendPct": null,
-      "dividendYieldPct": null
-    },
-    {
-      "year": null,
       "peBasicOriginal": null,
       "peBasicRestated": null,
       "peDiluted": null,
@@ -370,6 +345,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:40.937Z",
+  "scrapedAt": "2026-09-12T19:43:10.363Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 99,
     "TRADING CODE": "DESHBANDHU",
-    "LTP": 19,
-    "HIGH": 19.5,
-    "LOW": 19,
-    "CLOSEP": 19,
-    "YCP": 19.2,
-    "CHANGE": -0.2,
-    "TRADE": 259,
-    "VALUE (mn)": 6.686,
-    "VOLUME": 349179
+    "tradingCode": "DESHBANDHU",
+    "LTP": 17.5,
+    "HIGH": 18,
+    "LOW": 17.4,
+    "CLOSEP": 17.5,
+    "YCP": 17.8,
+    "CHANGE": -0.3,
+    "TRADE": 201,
+    "VALUE (mn)": 3.269,
+    "VOLUME": 185379
   },
   "marketInformation": {
     "lastTradingPrice": 17.5,
@@ -373,6 +374,6 @@
     "cellNo": "01713 375221",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:45.297Z",
+  "scrapedAt": "2026-09-12T19:43:23.492Z",
   "shariaCompliant": false
 }

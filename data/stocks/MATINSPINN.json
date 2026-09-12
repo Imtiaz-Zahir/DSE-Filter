@@ -8,15 +8,16 @@
   "overview": {
     "#": 215,
     "TRADING CODE": "MATINSPINN",
-    "LTP": 62.4,
-    "HIGH": 63.3,
-    "LOW": 62.3,
-    "CLOSEP": 62.4,
-    "YCP": 62.5,
-    "CHANGE": -0.1,
-    "TRADE": 674,
-    "VALUE (mn)": 22.102,
-    "VOLUME": 352469
+    "tradingCode": "MATINSPINN",
+    "LTP": 66.2,
+    "HIGH": 67.7,
+    "LOW": 64.9,
+    "CLOSEP": 66.2,
+    "YCP": 67,
+    "CHANGE": -0.8,
+    "TRADE": 847,
+    "VALUE (mn)": 49.884,
+    "VOLUME": 754755
   },
   "marketInformation": {
     "lastTradingPrice": 66.2,
@@ -373,6 +374,6 @@
     "cellNo": "01713365457",
     "telephoneNo": "+880-2-58817735 Ext-226"
   },
-  "scrapedAt": "2026-09-11T07:00:00.782Z",
+  "scrapedAt": "2026-09-12T19:44:04.009Z",
   "shariaCompliant": false
 }

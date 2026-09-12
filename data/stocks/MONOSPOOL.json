@@ -8,15 +8,16 @@
   "overview": {
     "#": 236,
     "TRADING CODE": "MONOSPOOL",
-    "LTP": 109.1,
-    "HIGH": 109.7,
-    "LOW": 107.1,
-    "CLOSEP": 109.1,
-    "YCP": 107,
-    "CHANGE": 2.1,
-    "TRADE": 864,
-    "VALUE (mn)": 24.661,
-    "VOLUME": 226679
+    "tradingCode": "MONOSPOOL",
+    "LTP": 106.4,
+    "HIGH": 108.3,
+    "LOW": 106,
+    "CLOSEP": 106.4,
+    "YCP": 106,
+    "CHANGE": 0.4,
+    "TRADE": 493,
+    "VALUE (mn)": 10.064,
+    "VOLUME": 94131
   },
   "marketInformation": {
     "lastTradingPrice": 106.4,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01847 091 028",
     "telephoneNo": "+880-2-55036456 (Ext. 703)"
   },
-  "scrapedAt": "2026-09-11T07:00:02.575Z",
+  "scrapedAt": "2026-09-12T19:44:12.926Z",
   "shariaCompliant": false
 }

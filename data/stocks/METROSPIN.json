@@ -8,15 +8,16 @@
   "overview": {
     "#": 224,
     "TRADING CODE": "METROSPIN",
-    "LTP": 10.9,
-    "HIGH": 11.4,
-    "LOW": 10.7,
-    "CLOSEP": 10.9,
-    "YCP": 11.2,
-    "CHANGE": -0.3,
-    "TRADE": 106,
-    "VALUE (mn)": 1.923,
-    "VOLUME": 175467
+    "tradingCode": "METROSPIN",
+    "LTP": 9.5,
+    "HIGH": 10.5,
+    "LOW": 9.5,
+    "CLOSEP": 9.7,
+    "YCP": 10.1,
+    "CHANGE": -0.6,
+    "TRADE": 185,
+    "VALUE (mn)": 1.566,
+    "VOLUME": 159712
   },
   "marketInformation": {
     "lastTradingPrice": 9.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01841 166 203",
     "telephoneNo": "8933612 8933613"
   },
-  "scrapedAt": "2026-09-11T07:00:00.838Z",
+  "scrapedAt": "2026-09-12T19:44:06.471Z",
   "shariaCompliant": false
 }

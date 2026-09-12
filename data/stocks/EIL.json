@@ -8,15 +8,16 @@
   "overview": {
     "#": 118,
     "TRADING CODE": "EIL",
-    "LTP": 32.5,
-    "HIGH": 33.6,
-    "LOW": 32.4,
-    "CLOSEP": 32.5,
-    "YCP": 32.9,
+    "tradingCode": "EIL",
+    "LTP": 31,
+    "HIGH": 32.1,
+    "LOW": 30.7,
+    "CLOSEP": 31,
+    "YCP": 31.4,
     "CHANGE": -0.4,
-    "TRADE": 643,
-    "VALUE (mn)": 18.391,
-    "VOLUME": 556955
+    "TRADE": 461,
+    "VALUE (mn)": 12.788,
+    "VOLUME": 407683
   },
   "marketInformation": {
     "lastTradingPrice": 31,
@@ -373,6 +374,6 @@
     "cellNo": "+8801818 644 552",
     "telephoneNo": "02-55111523-27 (Ext. 107)"
   },
-  "scrapedAt": "2026-09-11T06:59:47.254Z",
+  "scrapedAt": "2026-09-12T19:43:29.500Z",
   "shariaCompliant": false
 }

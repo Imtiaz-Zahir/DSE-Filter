@@ -8,15 +8,16 @@
   "overview": {
     "#": 21,
     "TRADING CODE": "AL-HAJTEX",
-    "LTP": 84.2,
-    "HIGH": 86.7,
-    "LOW": 83.9,
-    "CLOSEP": 84.2,
-    "YCP": 85.7,
-    "CHANGE": -1.5,
-    "TRADE": 664,
-    "VALUE (mn)": 9.901,
-    "VOLUME": 116670
+    "tradingCode": "AL-HAJTEX",
+    "LTP": 70,
+    "HIGH": 73.4,
+    "LOW": 69.6,
+    "CLOSEP": 70,
+    "YCP": 72.9,
+    "CHANGE": -2.9,
+    "TRADE": 1215,
+    "VALUE (mn)": 18.836,
+    "VOLUME": 266014
   },
   "marketInformation": {
     "lastTradingPrice": 70,
@@ -373,6 +374,6 @@
     "cellNo": "01718691464",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:34.698Z",
+  "scrapedAt": "2026-09-12T19:42:53.882Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 66,
     "TRADING CODE": "BGIC",
-    "LTP": 43.6,
-    "HIGH": 44.5,
-    "LOW": 43.5,
-    "CLOSEP": 43.6,
-    "YCP": 44,
-    "CHANGE": -0.4,
-    "TRADE": 340,
-    "VALUE (mn)": 8.513,
-    "VOLUME": 193389
+    "tradingCode": "BGIC",
+    "LTP": 41.5,
+    "HIGH": 43.9,
+    "LOW": 38.8,
+    "CLOSEP": 41.5,
+    "YCP": 41.8,
+    "CHANGE": -0.3,
+    "TRADE": 185,
+    "VALUE (mn)": 2.764,
+    "VOLUME": 66004
   },
   "marketInformation": {
     "lastTradingPrice": 41.5,
@@ -373,6 +374,6 @@
     "cellNo": "01715-246961",
     "telephoneNo": "02223383057"
   },
-  "scrapedAt": "2026-09-11T06:59:42.850Z",
+  "scrapedAt": "2026-09-12T19:43:15.389Z",
   "shariaCompliant": false
 }

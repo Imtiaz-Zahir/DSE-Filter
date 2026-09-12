@@ -8,15 +8,16 @@
   "overview": {
     "#": 202,
     "TRADING CODE": "KTL",
-    "LTP": 12.3,
-    "HIGH": 12.6,
-    "LOW": 12.2,
-    "CLOSEP": 12.3,
-    "YCP": 12.4,
-    "CHANGE": -0.1,
-    "TRADE": 254,
-    "VALUE (mn)": 5.491,
-    "VOLUME": 445334
+    "tradingCode": "KTL",
+    "LTP": 13,
+    "HIGH": 13.2,
+    "LOW": 12.5,
+    "CLOSEP": 13,
+    "YCP": 12.5,
+    "CHANGE": 0.5,
+    "TRADE": 876,
+    "VALUE (mn)": 31.072,
+    "VOLUME": 2410351
   },
   "marketInformation": {
     "lastTradingPrice": 13,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": "031-2511654"
   },
-  "scrapedAt": "2026-09-11T06:59:59.048Z",
+  "scrapedAt": "2026-09-12T19:44:00.615Z",
   "shariaCompliant": false
 }

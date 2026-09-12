@@ -8,15 +8,16 @@
   "overview": {
     "#": 292,
     "TRADING CODE": "PROVATIINS",
-    "LTP": 58.7,
-    "HIGH": 60.1,
-    "LOW": 57,
-    "CLOSEP": 58.7,
-    "YCP": 56.7,
-    "CHANGE": 2,
-    "TRADE": 1179,
-    "VALUE (mn)": 48.774,
-    "VOLUME": 826112
+    "tradingCode": "PROVATIINS",
+    "LTP": 54.3,
+    "HIGH": 56.8,
+    "LOW": 53.7,
+    "CLOSEP": 54.3,
+    "YCP": 55.3,
+    "CHANGE": -1,
+    "TRADE": 386,
+    "VALUE (mn)": 11.186,
+    "VOLUME": 203261
   },
   "marketInformation": {
     "lastTradingPrice": 54.3,
@@ -373,6 +374,6 @@
     "cellNo": "01730029458",
     "telephoneNo": "02223381431, Ext-146, 131"
   },
-  "scrapedAt": "2026-09-11T07:00:11.388Z",
+  "scrapedAt": "2026-09-12T19:44:32.557Z",
   "shariaCompliant": false
 }

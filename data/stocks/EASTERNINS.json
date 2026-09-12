@@ -8,15 +8,16 @@
   "overview": {
     "#": 109,
     "TRADING CODE": "EASTERNINS",
-    "LTP": 62.2,
-    "HIGH": 63.6,
-    "LOW": 61.6,
-    "CLOSEP": 62,
-    "YCP": 62.4,
-    "CHANGE": -0.2,
-    "TRADE": 553,
-    "VALUE (mn)": 15.703,
-    "VOLUME": 250655
+    "tradingCode": "EASTERNINS",
+    "LTP": 57.3,
+    "HIGH": 59.4,
+    "LOW": 57.2,
+    "CLOSEP": 57.7,
+    "YCP": 57.8,
+    "CHANGE": -0.5,
+    "TRADE": 314,
+    "VALUE (mn)": 5.682,
+    "VOLUME": 97187
   },
   "marketInformation": {
     "lastTradingPrice": 57.3,
@@ -373,6 +374,6 @@
     "cellNo": "01715952846",
     "telephoneNo": "02223383033-34"
   },
-  "scrapedAt": "2026-09-11T06:59:47.345Z",
+  "scrapedAt": "2026-09-12T19:43:26.887Z",
   "shariaCompliant": false
 }

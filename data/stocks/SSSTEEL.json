@@ -8,15 +8,16 @@
   "overview": {
     "#": 357,
     "TRADING CODE": "SSSTEEL",
-    "LTP": 6.7,
-    "HIGH": 6.9,
-    "LOW": 6.6,
-    "CLOSEP": 6.7,
-    "YCP": 6.8,
+    "tradingCode": "SSSTEEL",
+    "LTP": 6.2,
+    "HIGH": 6.4,
+    "LOW": 6.2,
+    "CLOSEP": 6.2,
+    "YCP": 6.3,
     "CHANGE": -0.1,
-    "TRADE": 147,
-    "VALUE (mn)": 1.897,
-    "VOLUME": 282374
+    "TRADE": 98,
+    "VALUE (mn)": 0.801,
+    "VOLUME": 127671
   },
   "marketInformation": {
     "lastTradingPrice": 6.2,
@@ -372,6 +373,6 @@
     "cellNo": "+8801329654727",
     "telephoneNo": "+88 0222 602509"
   },
-  "scrapedAt": "2026-09-11T07:00:18.626Z",
+  "scrapedAt": "2026-09-12T19:44:56.353Z",
   "shariaCompliant": true
 }

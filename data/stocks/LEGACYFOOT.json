@@ -8,15 +8,16 @@
   "overview": {
     "#": 204,
     "TRADING CODE": "LEGACYFOOT",
-    "LTP": 73.6,
-    "HIGH": 74,
-    "LOW": 71,
-    "CLOSEP": 73.6,
-    "YCP": 71.1,
-    "CHANGE": 2.5,
-    "TRADE": 1035,
-    "VALUE (mn)": 25.71,
-    "VOLUME": 353024
+    "tradingCode": "LEGACYFOOT",
+    "LTP": 70.3,
+    "HIGH": 72.9,
+    "LOW": 70.3,
+    "CLOSEP": 71,
+    "YCP": 72.2,
+    "CHANGE": -1.9,
+    "TRADE": 518,
+    "VALUE (mn)": 9.234,
+    "VOLUME": 129433
   },
   "marketInformation": {
     "lastTradingPrice": 70.3,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01717 829657",
     "telephoneNo": "02-8415983"
   },
-  "scrapedAt": "2026-09-11T06:59:59.601Z",
+  "scrapedAt": "2026-09-12T19:44:00.461Z",
   "shariaCompliant": false
 }

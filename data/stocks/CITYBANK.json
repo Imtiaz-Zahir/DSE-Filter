@@ -8,15 +8,16 @@
   "overview": {
     "#": 82,
     "TRADING CODE": "CITYBANK",
-    "LTP": 30.1,
-    "HIGH": 30.3,
+    "tradingCode": "CITYBANK",
+    "LTP": 29.8,
+    "HIGH": 30,
     "LOW": 29.7,
-    "CLOSEP": 30.1,
-    "YCP": 29.8,
-    "CHANGE": 0.3,
-    "TRADE": 731,
-    "VALUE (mn)": 42.585,
-    "VOLUME": 1421386
+    "CLOSEP": 29.8,
+    "YCP": 29.9,
+    "CHANGE": -0.1,
+    "TRADE": 539,
+    "VALUE (mn)": 14.964,
+    "VOLUME": 501625
   },
   "marketInformation": {
     "lastTradingPrice": 29.8,
@@ -373,6 +374,6 @@
     "cellNo": "01912927161",
     "telephoneNo": "58814635 (Direct) 58813483, 58814375 and 58813126 (Hunting) Ext.-1031"
   },
-  "scrapedAt": "2026-09-11T06:59:44.318Z",
+  "scrapedAt": "2026-09-12T19:43:19.054Z",
   "shariaCompliant": false
 }

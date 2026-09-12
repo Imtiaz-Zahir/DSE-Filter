@@ -8,15 +8,16 @@
   "overview": {
     "#": 120,
     "TRADING CODE": "ENVOYTEX",
-    "LTP": 61.9,
-    "HIGH": 63.8,
-    "LOW": 61.7,
-    "CLOSEP": 61.9,
-    "YCP": 63,
-    "CHANGE": -1.1,
-    "TRADE": 1579,
-    "VALUE (mn)": 87.135,
-    "VOLUME": 1392831
+    "tradingCode": "ENVOYTEX",
+    "LTP": 74.5,
+    "HIGH": 75.6,
+    "LOW": 70.1,
+    "CLOSEP": 74.5,
+    "YCP": 74.1,
+    "CHANGE": 0.4,
+    "TRADE": 3927,
+    "VALUE (mn)": 201.748,
+    "VOLUME": 2740682
   },
   "marketInformation": {
     "lastTradingPrice": 74.5,
@@ -373,6 +374,6 @@
     "cellNo": "01713-277534",
     "telephoneNo": "880-2-41021684-87"
   },
-  "scrapedAt": "2026-09-11T06:59:47.312Z",
+  "scrapedAt": "2026-09-12T19:43:29.435Z",
   "shariaCompliant": false
 }

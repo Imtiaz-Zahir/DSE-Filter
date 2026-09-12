@@ -8,15 +8,16 @@
   "overview": {
     "#": 322,
     "TRADING CODE": "SALVO",
-    "LTP": 33.9,
-    "HIGH": 34.6,
-    "LOW": 33.8,
-    "CLOSEP": 33.9,
-    "YCP": 34.1,
-    "CHANGE": -0.2,
-    "TRADE": 520,
-    "VALUE (mn)": 11.639,
-    "VOLUME": 340793
+    "tradingCode": "SALVO",
+    "LTP": 31.1,
+    "HIGH": 31.9,
+    "LOW": 30.7,
+    "CLOSEP": 31.1,
+    "YCP": 31.5,
+    "CHANGE": -0.4,
+    "TRADE": 347,
+    "VALUE (mn)": 8.198,
+    "VOLUME": 261122
   },
   "marketInformation": {
     "lastTradingPrice": 31.1,
@@ -373,6 +374,6 @@
     "cellNo": "01711823084",
     "telephoneNo": "88-02-41053068, 41053069"
   },
-  "scrapedAt": "2026-09-11T07:00:14.481Z",
+  "scrapedAt": "2026-09-12T19:44:45.624Z",
   "shariaCompliant": false
 }

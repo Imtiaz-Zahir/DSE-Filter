@@ -8,15 +8,16 @@
   "overview": {
     "#": 169,
     "TRADING CODE": "ICBEPMF1S1",
-    "LTP": 6,
-    "HIGH": 6.2,
-    "LOW": 5.8,
-    "CLOSEP": 6,
-    "YCP": 6,
-    "CHANGE": 0,
-    "TRADE": 153,
-    "VALUE (mn)": 2.648,
-    "VOLUME": 441990
+    "tradingCode": "ICBEPMF1S1",
+    "LTP": 6.3,
+    "HIGH": 6.4,
+    "LOW": 6.1,
+    "CLOSEP": 6.3,
+    "YCP": 6.1,
+    "CHANGE": 0.2,
+    "TRADE": 154,
+    "VALUE (mn)": 4.214,
+    "VOLUME": 674019
   },
   "marketInformation": {
     "lastTradingPrice": 6.3,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712 117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:54.876Z",
+  "scrapedAt": "2026-09-12T19:43:47.319Z",
   "shariaCompliant": false
 }

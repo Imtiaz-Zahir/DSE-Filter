@@ -8,15 +8,16 @@
   "overview": {
     "#": 41,
     "TRADING CODE": "ASIATICLAB",
-    "LTP": 109,
-    "HIGH": 111.9,
-    "LOW": 107.9,
-    "CLOSEP": 109,
-    "YCP": 109.9,
-    "CHANGE": -0.9,
-    "TRADE": 1176,
-    "VALUE (mn)": 95.516,
-    "VOLUME": 865472
+    "tradingCode": "ASIATICLAB",
+    "LTP": 104.5,
+    "HIGH": 107.9,
+    "LOW": 103.6,
+    "CLOSEP": 104.5,
+    "YCP": 106,
+    "CHANGE": -1.5,
+    "TRADE": 694,
+    "VALUE (mn)": 14.792,
+    "VOLUME": 139826
   },
   "marketInformation": {
     "lastTradingPrice": 104.5,
@@ -344,6 +345,6 @@
     "cellNo": "01937-990004",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:37.045Z",
+  "scrapedAt": "2026-09-12T19:43:02.675Z",
   "shariaCompliant": false
 }

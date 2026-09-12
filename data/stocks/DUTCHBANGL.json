@@ -8,15 +8,16 @@
   "overview": {
     "#": 108,
     "TRADING CODE": "DUTCHBANGL",
-    "LTP": 44.6,
-    "HIGH": 45,
-    "LOW": 44.5,
-    "CLOSEP": 44.6,
-    "YCP": 44.8,
-    "CHANGE": -0.2,
-    "TRADE": 355,
-    "VALUE (mn)": 6.594,
-    "VOLUME": 147527
+    "tradingCode": "DUTCHBANGL",
+    "LTP": 43.4,
+    "HIGH": 44,
+    "LOW": 43.2,
+    "CLOSEP": 43.4,
+    "YCP": 43.4,
+    "CHANGE": 0,
+    "TRADE": 207,
+    "VALUE (mn)": 3.768,
+    "VOLUME": 86735
   },
   "marketInformation": {
     "lastTradingPrice": 43.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01847 278 119",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:48.761Z",
+  "scrapedAt": "2026-09-12T19:43:26.989Z",
   "shariaCompliant": false
 }

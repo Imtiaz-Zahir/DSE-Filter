@@ -8,15 +8,16 @@
   "overview": {
     "#": 197,
     "TRADING CODE": "KDSALTD",
-    "LTP": 47.2,
-    "HIGH": 47.9,
-    "LOW": 47,
-    "CLOSEP": 47.2,
-    "YCP": 47.5,
+    "tradingCode": "KDSALTD",
+    "LTP": 44.7,
+    "HIGH": 45.5,
+    "LOW": 44.5,
+    "CLOSEP": 44.6,
+    "YCP": 45,
     "CHANGE": -0.3,
-    "TRADE": 238,
-    "VALUE (mn)": 6.184,
-    "VOLUME": 130572
+    "TRADE": 114,
+    "VALUE (mn)": 2.293,
+    "VOLUME": 51049
   },
   "marketInformation": {
     "lastTradingPrice": 44.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01777 775 348",
     "telephoneNo": "031-681701-3, 031-685207-9, Ext-152"
   },
-  "scrapedAt": "2026-09-11T06:59:58.700Z",
+  "scrapedAt": "2026-09-12T19:43:59.468Z",
   "shariaCompliant": true
 }

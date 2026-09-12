@@ -8,15 +8,16 @@
   "overview": {
     "#": 11,
     "TRADING CODE": "ACMEPL",
-    "LTP": 25.2,
-    "HIGH": 26.6,
-    "LOW": 24.9,
-    "CLOSEP": 25.2,
-    "YCP": 26.4,
-    "CHANGE": -1.2,
-    "TRADE": 2017,
-    "VALUE (mn)": 100.545,
-    "VOLUME": 3926086
+    "tradingCode": "ACMEPL",
+    "LTP": 24,
+    "HIGH": 24.7,
+    "LOW": 23.9,
+    "CLOSEP": 24,
+    "YCP": 24.5,
+    "CHANGE": -0.5,
+    "TRADE": 783,
+    "VALUE (mn)": 23.415,
+    "VOLUME": 969598
   },
   "marketInformation": {
     "lastTradingPrice": 24,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01985 772 222",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:33.359Z",
+  "scrapedAt": "2026-09-12T19:42:49.370Z",
   "shariaCompliant": true
 }

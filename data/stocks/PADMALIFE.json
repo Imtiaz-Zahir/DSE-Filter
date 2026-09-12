@@ -8,15 +8,16 @@
   "overview": {
     "#": 264,
     "TRADING CODE": "PADMALIFE",
-    "LTP": 16.7,
-    "HIGH": 16.8,
-    "LOW": 16.5,
-    "CLOSEP": 16.7,
-    "YCP": 16.6,
-    "CHANGE": 0.1,
-    "TRADE": 29,
-    "VALUE (mn)": 0.118,
-    "VOLUME": 7070
+    "tradingCode": "PADMALIFE",
+    "LTP": 16.1,
+    "HIGH": 16.4,
+    "LOW": 16,
+    "CLOSEP": 16.2,
+    "YCP": 16.1,
+    "CHANGE": 0,
+    "TRADE": 22,
+    "VALUE (mn)": 0.161,
+    "VOLUME": 9948
   },
   "marketInformation": {
     "lastTradingPrice": 16.1,
@@ -318,6 +319,6 @@
     "cellNo": "01873148582",
     "telephoneNo": "02-41032588"
   },
-  "scrapedAt": "2026-09-11T07:00:08.088Z",
+  "scrapedAt": "2026-09-12T19:44:22.047Z",
   "shariaCompliant": true
 }

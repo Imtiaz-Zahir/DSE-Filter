@@ -8,15 +8,16 @@
   "overview": {
     "#": 156,
     "TRADING CODE": "GSPFINANCE",
-    "LTP": 3.7,
-    "HIGH": 3.9,
-    "LOW": 3.7,
-    "CLOSEP": 3.7,
-    "YCP": 3.8,
+    "tradingCode": "GSPFINANCE",
+    "LTP": 3.5,
+    "HIGH": 3.7,
+    "LOW": 3.5,
+    "CLOSEP": 3.5,
+    "YCP": 3.6,
     "CHANGE": -0.1,
-    "TRADE": 55,
-    "VALUE (mn)": 0.571,
-    "VOLUME": 153794
+    "TRADE": 52,
+    "VALUE (mn)": 0.253,
+    "VOLUME": 71573
   },
   "marketInformation": {
     "lastTradingPrice": 3.5,
@@ -373,6 +374,6 @@
     "cellNo": "+8801552344245",
     "telephoneNo": "88 02 223360506"
   },
-  "scrapedAt": "2026-09-11T06:59:53.064Z",
+  "scrapedAt": "2026-09-12T19:43:44.378Z",
   "shariaCompliant": false
 }

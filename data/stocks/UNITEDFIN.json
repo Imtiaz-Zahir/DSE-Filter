@@ -8,15 +8,16 @@
   "overview": {
     "#": 380,
     "TRADING CODE": "UNITEDFIN",
-    "LTP": 17.7,
-    "HIGH": 18.2,
-    "LOW": 17.6,
-    "CLOSEP": 17.7,
-    "YCP": 17.8,
+    "tradingCode": "UNITEDFIN",
+    "LTP": 16.9,
+    "HIGH": 17.3,
+    "LOW": 16.7,
+    "CLOSEP": 16.8,
+    "YCP": 17,
     "CHANGE": -0.1,
-    "TRADE": 459,
-    "VALUE (mn)": 18.535,
-    "VOLUME": 1038921
+    "TRADE": 285,
+    "VALUE (mn)": 8.356,
+    "VOLUME": 492017
   },
   "marketInformation": {
     "lastTradingPrice": 16.9,
@@ -373,6 +374,6 @@
     "cellNo": "01714070380",
     "telephoneNo": "+88-2-41062001-04"
   },
-  "scrapedAt": "2026-09-11T07:00:23.283Z",
+  "scrapedAt": "2026-09-12T19:45:02.964Z",
   "shariaCompliant": false
 }

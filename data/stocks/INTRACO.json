@@ -8,15 +8,16 @@
   "overview": {
     "#": 181,
     "TRADING CODE": "INTRACO",
-    "LTP": 23.1,
+    "tradingCode": "INTRACO",
+    "LTP": 22.8,
     "HIGH": 23.4,
-    "LOW": 22.9,
-    "CLOSEP": 23.1,
-    "YCP": 23,
+    "LOW": 22.7,
+    "CLOSEP": 22.8,
+    "YCP": 22.7,
     "CHANGE": 0.1,
-    "TRADE": 480,
-    "VALUE (mn)": 12.405,
-    "VOLUME": 535273
+    "TRADE": 412,
+    "VALUE (mn)": 12.474,
+    "VOLUME": 542138
   },
   "marketInformation": {
     "lastTradingPrice": 22.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01975 006 060",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:56.999Z",
+  "scrapedAt": "2026-09-12T19:43:53.173Z",
   "shariaCompliant": true
 }

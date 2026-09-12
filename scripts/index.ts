@@ -47,28 +47,25 @@ export async function runScrapeAndGeneratePipeline(
 }> {
   console.log("=== DSE Filter Data Scrape & Generation Pipeline ===\n");
 
-  // 1. Load or fetch overview items
+  // 1. Load or fetch overview items (defaults to live share price board)
   let overviewItems: RawOverviewItem[] = [];
-  if (options.useLiveOverview) {
+  if (options.stocksDataPath) {
+    console.log(`[pipeline] Loading overview items from specified file: ${options.stocksDataPath}...`);
+    overviewItems = loadOverviewData(options.stocksDataPath);
+  } else {
     try {
       overviewItems = await fetchLiveDseOverview();
     } catch (err: any) {
       console.warn(
-        `[pipeline] Live overview scrape failed (${err.message}), falling back to local dataset...`
+        `[pipeline] Live overview scrape failed (${err.message}), falling back to local overview dataset...`
       );
-      overviewItems = loadOverviewData(options.stocksDataPath);
-    }
-  } else {
-    overviewItems = loadOverviewData(options.stocksDataPath);
-    if (overviewItems.length === 0) {
-      console.log("[pipeline] Local overview file not found, fetching live DSE quotes...");
-      overviewItems = await fetchLiveDseOverview();
+      overviewItems = loadOverviewData();
     }
   }
 
   if (overviewItems.length === 0) {
     throw new Error(
-      "No stocks found to scrape. Please verify data.json or network connection."
+      "No stocks found to scrape. Please verify network connection or provide a valid overview data file."
     );
   }
 
@@ -119,17 +116,17 @@ DSE Filter Data Processing Script
 Usage:
   npx tsx scripts/index.ts [command] [options]
 
-Commands:
+  Commands:
   --generate (default)   Generates meta, screener_stocks, search_index, all_stocks, and stocks/*.json from dse_stocks.json
-  --scrape               Performs full live scraping from DSE, formats data, and generates all files
+  --scrape               Performs full live scraping from DSE (latest_share_price_scroll_l.php), formats data, and generates all files
   --format <rawFile>     Formats an uncleaned raw stock JSON file and generates all files
 
 Options:
   --source <path>        Path to master dse_stocks.json (default: data/dse_stocks.json)
+  --overview <path>      Path to local custom overview JSON file (optional)
   --output <dir>         Output data directory (default: data/)
   --concurrency <n>      Number of parallel scrape requests (default: 5)
   --delay <ms>           Delay in ms between batches (default: 400)
-  --live                 Force fetching live overview table before scraping
   --help, -h             Show this help message
 
 Examples:
@@ -142,7 +139,6 @@ Examples:
 
   const isScrape = args.includes("--scrape");
   const isFormat = args.includes("--format");
-  const isLive = args.includes("--live");
 
   const getArgValue = (flag: string): string | undefined => {
     const idx = args.indexOf(flag);
@@ -153,6 +149,7 @@ Examples:
   };
 
   const customSource = getArgValue("--source");
+  const customOverview = getArgValue("--overview") || getArgValue("--stocks");
   const customOutput = getArgValue("--output");
   const concurrencyStr = getArgValue("--concurrency");
   const delayStr = getArgValue("--delay");
@@ -164,7 +161,7 @@ Examples:
     await runScrapeAndGeneratePipeline({
       concurrency,
       delayMs,
-      useLiveOverview: isLive,
+      stocksDataPath: customOverview,
       dataDir: customOutput,
     });
   } else if (isFormat) {

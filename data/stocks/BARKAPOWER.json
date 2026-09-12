@@ -8,15 +8,16 @@
   "overview": {
     "#": 46,
     "TRADING CODE": "BARKAPOWER",
-    "LTP": 10.4,
-    "HIGH": 10.7,
-    "LOW": 10.4,
-    "CLOSEP": 10.4,
-    "YCP": 10.5,
-    "CHANGE": -0.1,
-    "TRADE": 260,
-    "VALUE (mn)": 6.563,
-    "VOLUME": 625699
+    "tradingCode": "BARKAPOWER",
+    "LTP": 10.1,
+    "HIGH": 10.2,
+    "LOW": 9.9,
+    "CLOSEP": 10.1,
+    "YCP": 10,
+    "CHANGE": 0.1,
+    "TRADE": 198,
+    "VALUE (mn)": 3.215,
+    "VOLUME": 318438
   },
   "marketInformation": {
     "lastTradingPrice": 10.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01730 700 857",
     "telephoneNo": "+88-02-223352305, 223357074 (Ext. 121)"
   },
-  "scrapedAt": "2026-09-11T06:59:41.917Z",
+  "scrapedAt": "2026-09-12T19:43:07.193Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 381,
     "TRADING CODE": "UNITEDINS",
-    "LTP": 64.9,
-    "HIGH": 65.4,
-    "LOW": 63.6,
-    "CLOSEP": 64.9,
-    "YCP": 63.5,
-    "CHANGE": 1.4,
-    "TRADE": 611,
-    "VALUE (mn)": 20.031,
-    "VOLUME": 308558
+    "tradingCode": "UNITEDINS",
+    "LTP": 61.3,
+    "HIGH": 62.4,
+    "LOW": 59.8,
+    "CLOSEP": 61.3,
+    "YCP": 59.8,
+    "CHANGE": 1.5,
+    "TRADE": 655,
+    "VALUE (mn)": 17.038,
+    "VOLUME": 276576
   },
   "marketInformation": {
     "lastTradingPrice": 61.3,
@@ -373,6 +374,6 @@
     "cellNo": "01772998707",
     "telephoneNo": "+88-2-41062001-04"
   },
-  "scrapedAt": "2026-09-11T07:00:22.921Z",
+  "scrapedAt": "2026-09-12T19:45:03.929Z",
   "shariaCompliant": false
 }

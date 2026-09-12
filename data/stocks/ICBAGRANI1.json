@@ -8,15 +8,16 @@
   "overview": {
     "#": 167,
     "TRADING CODE": "ICBAGRANI1",
-    "LTP": 7.9,
-    "HIGH": 8,
-    "LOW": 7.9,
-    "CLOSEP": 7.9,
-    "YCP": 8,
-    "CHANGE": -0.1,
-    "TRADE": 54,
-    "VALUE (mn)": 2.212,
-    "VOLUME": 279961
+    "tradingCode": "ICBAGRANI1",
+    "LTP": 8.1,
+    "HIGH": 8.1,
+    "LOW": 7.8,
+    "CLOSEP": 8,
+    "YCP": 7.8,
+    "CHANGE": 0.3,
+    "TRADE": 269,
+    "VALUE (mn)": 3.483,
+    "VOLUME": 438043
   },
   "marketInformation": {
     "lastTradingPrice": 8.1,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:54.960Z",
+  "scrapedAt": "2026-09-12T19:43:47.089Z",
   "shariaCompliant": false
 }

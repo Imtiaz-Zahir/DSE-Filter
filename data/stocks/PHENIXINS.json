@@ -8,15 +8,16 @@
   "overview": {
     "#": 272,
     "TRADING CODE": "PHENIXINS",
-    "LTP": 51.1,
-    "HIGH": 52.8,
-    "LOW": 50.9,
-    "CLOSEP": 51.1,
-    "YCP": 50.7,
-    "CHANGE": 0.4,
-    "TRADE": 721,
-    "VALUE (mn)": 27.495,
-    "VOLUME": 533546
+    "tradingCode": "PHENIXINS",
+    "LTP": 48.1,
+    "HIGH": 49.3,
+    "LOW": 47.6,
+    "CLOSEP": 48.1,
+    "YCP": 48.5,
+    "CHANGE": -0.4,
+    "TRADE": 563,
+    "VALUE (mn)": 14.777,
+    "VOLUME": 305338
   },
   "marketInformation": {
     "lastTradingPrice": 48.1,
@@ -373,6 +374,6 @@
     "cellNo": "01716654144",
     "telephoneNo": "+88-02-223374840-43 (PABX), ext.-126"
   },
-  "scrapedAt": "2026-09-11T07:00:09.216Z",
+  "scrapedAt": "2026-09-12T19:44:23.789Z",
   "shariaCompliant": false
 }

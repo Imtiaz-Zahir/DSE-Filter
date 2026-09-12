@@ -8,15 +8,16 @@
   "overview": {
     "#": 232,
     "TRADING CODE": "MLDYEING",
-    "LTP": 12.8,
-    "HIGH": 13.7,
-    "LOW": 12.7,
-    "CLOSEP": 12.8,
-    "YCP": 13.5,
-    "CHANGE": -0.7,
-    "TRADE": 2328,
-    "VALUE (mn)": 94.936,
-    "VOLUME": 7241840
+    "tradingCode": "MLDYEING",
+    "LTP": 11.8,
+    "HIGH": 12.3,
+    "LOW": 11.6,
+    "CLOSEP": 11.8,
+    "YCP": 12,
+    "CHANGE": -0.2,
+    "TRADE": 1165,
+    "VALUE (mn)": 39.103,
+    "VOLUME": 3281386
   },
   "marketInformation": {
     "lastTradingPrice": 11.8,
@@ -370,6 +371,6 @@
     "cellNo": "01714589883",
     "telephoneNo": "+88-02-48810050, Ext.-230"
   },
-  "scrapedAt": "2026-09-11T07:00:02.611Z",
+  "scrapedAt": "2026-09-12T19:44:11.135Z",
   "shariaCompliant": true
 }

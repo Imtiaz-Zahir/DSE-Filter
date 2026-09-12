@@ -8,15 +8,16 @@
   "overview": {
     "#": 344,
     "TRADING CODE": "SINOBANGLA",
-    "LTP": 53.2,
-    "HIGH": 53.4,
-    "LOW": 52.4,
-    "CLOSEP": 52.9,
-    "YCP": 52.3,
-    "CHANGE": 0.9,
-    "TRADE": 562,
-    "VALUE (mn)": 12.525,
-    "VOLUME": 237015
+    "tradingCode": "SINOBANGLA",
+    "LTP": 50.6,
+    "HIGH": 51.7,
+    "LOW": 50.4,
+    "CLOSEP": 50.6,
+    "YCP": 51.3,
+    "CHANGE": -0.7,
+    "TRADE": 356,
+    "VALUE (mn)": 5.878,
+    "VOLUME": 115482
   },
   "marketInformation": {
     "lastTradingPrice": 50.6,
@@ -373,6 +374,6 @@
     "cellNo": "01711103201",
     "telephoneNo": "02-55013465"
   },
-  "scrapedAt": "2026-09-11T07:00:16.940Z",
+  "scrapedAt": "2026-09-12T19:44:52.356Z",
   "shariaCompliant": true
 }

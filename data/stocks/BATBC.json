@@ -8,15 +8,16 @@
   "overview": {
     "#": 48,
     "TRADING CODE": "BATBC",
-    "LTP": 237.3,
-    "HIGH": 238.5,
-    "LOW": 233,
-    "CLOSEP": 237.3,
-    "YCP": 233,
-    "CHANGE": 4.3,
-    "TRADE": 995,
-    "VALUE (mn)": 21.555,
-    "VOLUME": 91124
+    "tradingCode": "BATBC",
+    "LTP": 228,
+    "HIGH": 230.8,
+    "LOW": 226,
+    "CLOSEP": 228,
+    "YCP": 229.8,
+    "CHANGE": -1.8,
+    "TRADE": 1119,
+    "VALUE (mn)": 17.188,
+    "VOLUME": 75342
   },
   "marketInformation": {
     "lastTradingPrice": 228,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01313 701 925",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:40.148Z",
+  "scrapedAt": "2026-09-12T19:43:06.349Z",
   "shariaCompliant": false
 }

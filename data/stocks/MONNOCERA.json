@@ -8,15 +8,16 @@
   "overview": {
     "#": 234,
     "TRADING CODE": "MONNOCERA",
-    "LTP": 84.6,
-    "HIGH": 86.4,
-    "LOW": 84.4,
-    "CLOSEP": 84.6,
-    "YCP": 85.5,
-    "CHANGE": -0.9,
-    "TRADE": 603,
-    "VALUE (mn)": 10.799,
-    "VOLUME": 126132
+    "tradingCode": "MONNOCERA",
+    "LTP": 82.5,
+    "HIGH": 83.4,
+    "LOW": 81.1,
+    "CLOSEP": 82.5,
+    "YCP": 80.6,
+    "CHANGE": 1.9,
+    "TRADE": 891,
+    "VALUE (mn)": 18.301,
+    "VOLUME": 221587
   },
   "marketInformation": {
     "lastTradingPrice": 82.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01313 355 510",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:02.661Z",
+  "scrapedAt": "2026-09-12T19:44:11.709Z",
   "shariaCompliant": true
 }

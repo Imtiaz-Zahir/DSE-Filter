@@ -8,15 +8,16 @@
   "overview": {
     "#": 29,
     "TRADING CODE": "ANWARGALV",
-    "LTP": 108,
-    "HIGH": 110,
-    "LOW": 104.5,
-    "CLOSEP": 108,
-    "YCP": 104.1,
-    "CHANGE": 3.9,
-    "TRADE": 1945,
-    "VALUE (mn)": 49.185,
-    "VOLUME": 456402
+    "tradingCode": "ANWARGALV",
+    "LTP": 110.7,
+    "HIGH": 113.4,
+    "LOW": 106.3,
+    "CLOSEP": 110.7,
+    "YCP": 106.5,
+    "CHANGE": 4.2,
+    "TRADE": 2777,
+    "VALUE (mn)": 79.949,
+    "VOLUME": 721130
   },
   "marketInformation": {
     "lastTradingPrice": 110.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 704 554",
     "telephoneNo": "88 02 9551335"
   },
-  "scrapedAt": "2026-09-11T06:59:36.115Z",
+  "scrapedAt": "2026-09-12T19:42:58.300Z",
   "shariaCompliant": true
 }

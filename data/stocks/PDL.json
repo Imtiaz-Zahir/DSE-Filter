@@ -8,15 +8,16 @@
   "overview": {
     "#": 267,
     "TRADING CODE": "PDL",
-    "LTP": 5.6,
-    "HIGH": 5.8,
-    "LOW": 5.6,
-    "CLOSEP": 5.6,
-    "YCP": 5.8,
-    "CHANGE": -0.2,
-    "TRADE": 96,
-    "VALUE (mn)": 0.91,
-    "VOLUME": 161477
+    "tradingCode": "PDL",
+    "LTP": 5.5,
+    "HIGH": 5.6,
+    "LOW": 5.5,
+    "CLOSEP": 5.5,
+    "YCP": 5.5,
+    "CHANGE": 0,
+    "TRADE": 29,
+    "VALUE (mn)": 0.443,
+    "VOLUME": 80617
   },
   "marketInformation": {
     "lastTradingPrice": 5.5,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:06.909Z",
+  "scrapedAt": "2026-09-12T19:44:22.769Z",
   "shariaCompliant": true
 }

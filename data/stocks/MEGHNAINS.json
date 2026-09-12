@@ -8,15 +8,16 @@
   "overview": {
     "#": 219,
     "TRADING CODE": "MEGHNAINS",
-    "LTP": 38.3,
-    "HIGH": 39.2,
-    "LOW": 38,
-    "CLOSEP": 38.2,
-    "YCP": 38.5,
-    "CHANGE": -0.2,
-    "TRADE": 1062,
-    "VALUE (mn)": 31.44,
-    "VOLUME": 813999
+    "tradingCode": "MEGHNAINS",
+    "LTP": 35,
+    "HIGH": 36,
+    "LOW": 34.7,
+    "CLOSEP": 35,
+    "YCP": 35.5,
+    "CHANGE": -0.5,
+    "TRADE": 622,
+    "VALUE (mn)": 13.454,
+    "VOLUME": 380518
   },
   "marketInformation": {
     "lastTradingPrice": 35,
@@ -373,6 +374,6 @@
     "cellNo": "01817019325",
     "telephoneNo": "88-02-41050894-8"
   },
-  "scrapedAt": "2026-09-11T07:00:01.435Z",
+  "scrapedAt": "2026-09-12T19:44:04.761Z",
   "shariaCompliant": false
 }

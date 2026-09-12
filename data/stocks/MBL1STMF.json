@@ -8,15 +8,16 @@
   "overview": {
     "#": 216,
     "TRADING CODE": "MBL1STMF",
-    "LTP": 8.8,
-    "HIGH": 9,
-    "LOW": 8.6,
-    "CLOSEP": 8.8,
-    "YCP": 8.6,
-    "CHANGE": 0.2,
-    "TRADE": 583,
-    "VALUE (mn)": 42.334,
-    "VOLUME": 4849589
+    "tradingCode": "MBL1STMF",
+    "LTP": 9.7,
+    "HIGH": 9.9,
+    "LOW": 9.3,
+    "CLOSEP": 9.7,
+    "YCP": 9.4,
+    "CHANGE": 0.3,
+    "TRADE": 911,
+    "VALUE (mn)": 66.55,
+    "VOLUME": 6930339
   },
   "marketInformation": {
     "lastTradingPrice": 9.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:01.218Z",
+  "scrapedAt": "2026-09-12T19:44:04.832Z",
   "shariaCompliant": false
 }

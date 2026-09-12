@@ -8,6 +8,7 @@
   "overview": {
     "#": 327,
     "TRADING CODE": "SAVAREFR",
+    "tradingCode": "SAVAREFR",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -372,6 +373,6 @@
     "cellNo": "01312631830",
     "telephoneNo": "02-58155615"
   },
-  "scrapedAt": "2026-09-11T07:00:16.305Z",
+  "scrapedAt": "2026-09-12T19:44:46.429Z",
   "shariaCompliant": false
 }

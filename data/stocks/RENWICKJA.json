@@ -8,15 +8,16 @@
   "overview": {
     "#": 308,
     "TRADING CODE": "RENWICKJA",
-    "LTP": 762,
-    "HIGH": 781.9,
-    "LOW": 762,
-    "CLOSEP": 768.9,
-    "YCP": 781.7,
-    "CHANGE": -19.7,
-    "TRADE": 67,
-    "VALUE (mn)": 0.566,
-    "VOLUME": 735
+    "tradingCode": "RENWICKJA",
+    "LTP": 746,
+    "HIGH": 760,
+    "LOW": 745,
+    "CLOSEP": 746,
+    "YCP": 750.3,
+    "CHANGE": -4.3,
+    "TRADE": 211,
+    "VALUE (mn)": 1.65,
+    "VOLUME": 2207
   },
   "marketInformation": {
     "lastTradingPrice": 746,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01747 224 411",
     "telephoneNo": "9515667"
   },
-  "scrapedAt": "2026-09-11T07:00:13.630Z",
+  "scrapedAt": "2026-09-12T19:44:41.113Z",
   "shariaCompliant": false
 }

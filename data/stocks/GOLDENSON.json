@@ -8,15 +8,16 @@
   "overview": {
     "#": 149,
     "TRADING CODE": "GOLDENSON",
-    "LTP": 14.4,
-    "HIGH": 14.7,
-    "LOW": 14.3,
-    "CLOSEP": 14.4,
-    "YCP": 14.4,
+    "tradingCode": "GOLDENSON",
+    "LTP": 12.9,
+    "HIGH": 13.2,
+    "LOW": 12.8,
+    "CLOSEP": 12.9,
+    "YCP": 12.9,
     "CHANGE": 0,
-    "TRADE": 373,
-    "VALUE (mn)": 7.632,
-    "VOLUME": 525585
+    "TRADE": 213,
+    "VALUE (mn)": 3.836,
+    "VOLUME": 296258
   },
   "marketInformation": {
     "lastTradingPrice": 12.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01755 645 047",
     "telephoneNo": "+880-2-55052098-99"
   },
-  "scrapedAt": "2026-09-11T06:59:51.176Z",
+  "scrapedAt": "2026-09-12T19:43:40.450Z",
   "shariaCompliant": false
 }

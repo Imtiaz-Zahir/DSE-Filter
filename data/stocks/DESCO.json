@@ -8,15 +8,16 @@
   "overview": {
     "#": 98,
     "TRADING CODE": "DESCO",
-    "LTP": 23.3,
-    "HIGH": 24.4,
-    "LOW": 23,
-    "CLOSEP": 23.3,
-    "YCP": 23,
-    "CHANGE": 0.3,
-    "TRADE": 74,
-    "VALUE (mn)": 0.291,
-    "VOLUME": 12437
+    "tradingCode": "DESCO",
+    "LTP": 21.8,
+    "HIGH": 22.7,
+    "LOW": 21.8,
+    "CLOSEP": 21.9,
+    "YCP": 22.1,
+    "CHANGE": -0.3,
+    "TRADE": 147,
+    "VALUE (mn)": 1.064,
+    "VOLUME": 48336
   },
   "marketInformation": {
     "lastTradingPrice": 21.8,
@@ -373,6 +374,6 @@
     "cellNo": "01335 171074",
     "telephoneNo": "88 02 8900330, 09610111111 Ext.-1100"
   },
-  "scrapedAt": "2026-09-11T06:59:45.591Z",
+  "scrapedAt": "2026-09-12T19:43:25.016Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 240,
     "TRADING CODE": "NATLIFEINS",
-    "LTP": 98.6,
-    "HIGH": 99.9,
-    "LOW": 97.2,
-    "CLOSEP": 98.6,
-    "YCP": 97.5,
-    "CHANGE": 1.1,
-    "TRADE": 132,
-    "VALUE (mn)": 1.523,
-    "VOLUME": 15552
+    "tradingCode": "NATLIFEINS",
+    "LTP": 93.3,
+    "HIGH": 96.4,
+    "LOW": 93.3,
+    "CLOSEP": 93.6,
+    "YCP": 94.3,
+    "CHANGE": -1,
+    "TRADE": 115,
+    "VALUE (mn)": 1.404,
+    "VOLUME": 15004
   },
   "marketInformation": {
     "lastTradingPrice": 93.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819985444",
     "telephoneNo": "+88-02-41010122"
   },
-  "scrapedAt": "2026-09-11T07:00:03.177Z",
+  "scrapedAt": "2026-09-12T19:44:13.834Z",
   "shariaCompliant": false
 }

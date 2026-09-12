@@ -8,15 +8,16 @@
   "overview": {
     "#": 126,
     "TRADING CODE": "FAMILYTEX",
+    "tradingCode": "FAMILYTEX",
     "LTP": 2.4,
-    "HIGH": 2.6,
-    "LOW": 2.4,
+    "HIGH": 2.5,
+    "LOW": 2.3,
     "CLOSEP": 2.4,
-    "YCP": 2.5,
-    "CHANGE": -0.1,
-    "TRADE": 240,
-    "VALUE (mn)": 2.733,
-    "VOLUME": 1106425
+    "YCP": 2.4,
+    "CHANGE": 0,
+    "TRADE": 117,
+    "VALUE (mn)": 1.046,
+    "VOLUME": 438235
   },
   "marketInformation": {
     "lastTradingPrice": 2.4,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:50.659Z",
+  "scrapedAt": "2026-09-12T19:43:32.884Z",
   "shariaCompliant": true
 }

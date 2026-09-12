@@ -8,15 +8,16 @@
   "overview": {
     "#": 86,
     "TRADING CODE": "CONFIDCEM",
-    "LTP": 64.4,
-    "HIGH": 64.5,
-    "LOW": 63.9,
-    "CLOSEP": 63.9,
-    "YCP": 64.1,
-    "CHANGE": 0.3,
-    "TRADE": 183,
-    "VALUE (mn)": 5.157,
-    "VOLUME": 80441
+    "tradingCode": "CONFIDCEM",
+    "LTP": 61.2,
+    "HIGH": 62.4,
+    "LOW": 60.8,
+    "CLOSEP": 61.2,
+    "YCP": 61.4,
+    "CHANGE": -0.2,
+    "TRADE": 148,
+    "VALUE (mn)": 3.754,
+    "VOLUME": 60963
   },
   "marketInformation": {
     "lastTradingPrice": 61.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01704 124 276",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:44.029Z",
+  "scrapedAt": "2026-09-12T19:43:21.195Z",
   "shariaCompliant": false
 }

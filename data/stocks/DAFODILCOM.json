@@ -8,15 +8,16 @@
   "overview": {
     "#": 93,
     "TRADING CODE": "DAFODILCOM",
-    "LTP": 168,
-    "HIGH": 168.5,
-    "LOW": 164,
-    "CLOSEP": 168,
-    "YCP": 164.7,
-    "CHANGE": 3.3,
-    "TRADE": 1098,
-    "VALUE (mn)": 64.968,
-    "VOLUME": 390058
+    "tradingCode": "DAFODILCOM",
+    "LTP": 168.8,
+    "HIGH": 169.1,
+    "LOW": 167,
+    "CLOSEP": 168.8,
+    "YCP": 167.7,
+    "CHANGE": 1.1,
+    "TRADE": 1090,
+    "VALUE (mn)": 35.818,
+    "VOLUME": 212603
   },
   "marketInformation": {
     "lastTradingPrice": 168.8,
@@ -373,6 +374,6 @@
     "cellNo": "01713493188",
     "telephoneNo": "223371889"
   },
-  "scrapedAt": "2026-09-11T06:59:45.648Z",
+  "scrapedAt": "2026-09-12T19:43:22.876Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 160,
     "TRADING CODE": "HFL",
-    "LTP": 13.9,
-    "HIGH": 14.8,
-    "LOW": 13.7,
-    "CLOSEP": 13.9,
-    "YCP": 14.2,
-    "CHANGE": -0.3,
-    "TRADE": 105,
-    "VALUE (mn)": 1.324,
-    "VOLUME": 95059
+    "tradingCode": "HFL",
+    "LTP": 12.8,
+    "HIGH": 13.2,
+    "LOW": 12.8,
+    "CLOSEP": 12.8,
+    "YCP": 13,
+    "CHANGE": -0.2,
+    "TRADE": 33,
+    "VALUE (mn)": 0.328,
+    "VOLUME": 25492
   },
   "marketInformation": {
     "lastTradingPrice": 12.8,
@@ -370,6 +371,6 @@
     "cellNo": "01921161018",
     "telephoneNo": "2222294589, Ext. - 401"
   },
-  "scrapedAt": "2026-09-11T06:59:52.746Z",
+  "scrapedAt": "2026-09-12T19:43:44.472Z",
   "shariaCompliant": true
 }

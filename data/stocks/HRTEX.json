@@ -8,15 +8,16 @@
   "overview": {
     "#": 161,
     "TRADING CODE": "HRTEX",
-    "LTP": 18.7,
-    "HIGH": 19.4,
-    "LOW": 18.5,
-    "CLOSEP": 18.7,
-    "YCP": 19.2,
-    "CHANGE": -0.5,
+    "tradingCode": "HRTEX",
+    "LTP": 17.2,
+    "HIGH": 18,
+    "LOW": 17,
+    "CLOSEP": 17.2,
+    "YCP": 17.5,
+    "CHANGE": -0.3,
     "TRADE": 76,
-    "VALUE (mn)": 0.573,
-    "VOLUME": 30252
+    "VALUE (mn)": 0.612,
+    "VOLUME": 35243
   },
   "marketInformation": {
     "lastTradingPrice": 17.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01990 409 011",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:52.840Z",
+  "scrapedAt": "2026-09-12T19:43:46.493Z",
   "shariaCompliant": false
 }

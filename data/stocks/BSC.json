@@ -8,15 +8,16 @@
   "overview": {
     "#": 72,
     "TRADING CODE": "BSC",
-    "LTP": 114.8,
-    "HIGH": 115.5,
-    "LOW": 114,
-    "CLOSEP": 114.4,
-    "YCP": 113.9,
-    "CHANGE": 0.9,
-    "TRADE": 689,
-    "VALUE (mn)": 27.967,
-    "VOLUME": 243972
+    "tradingCode": "BSC",
+    "LTP": 110.5,
+    "HIGH": 113,
+    "LOW": 110.2,
+    "CLOSEP": 110.5,
+    "YCP": 111,
+    "CHANGE": -0.5,
+    "TRADE": 678,
+    "VALUE (mn)": 19.974,
+    "VOLUME": 179492
   },
   "marketInformation": {
     "lastTradingPrice": 110.5,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01894 509 973",
     "telephoneNo": "031-724479"
   },
-  "scrapedAt": "2026-09-11T06:59:42.480Z",
+  "scrapedAt": "2026-09-12T19:43:16.697Z",
   "shariaCompliant": false
 }

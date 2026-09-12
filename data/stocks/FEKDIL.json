@@ -8,15 +8,16 @@
   "overview": {
     "#": 133,
     "TRADING CODE": "FEKDIL",
-    "LTP": 23.1,
-    "HIGH": 24.4,
-    "LOW": 22.9,
-    "CLOSEP": 23.1,
-    "YCP": 24.1,
-    "CHANGE": -1,
-    "TRADE": 1530,
-    "VALUE (mn)": 71.767,
-    "VOLUME": 3051462
+    "tradingCode": "FEKDIL",
+    "LTP": 21.7,
+    "HIGH": 22.6,
+    "LOW": 21.5,
+    "CLOSEP": 21.7,
+    "YCP": 22.3,
+    "CHANGE": -0.6,
+    "TRADE": 1020,
+    "VALUE (mn)": 22.712,
+    "VOLUME": 1037645
   },
   "marketInformation": {
     "lastTradingPrice": 21.7,
@@ -370,6 +371,6 @@
     "cellNo": "01711593385",
     "telephoneNo": "9848508, 58810170,58814013 (ext. 103)"
   },
-  "scrapedAt": "2026-09-11T06:59:49.906Z",
+  "scrapedAt": "2026-09-12T19:43:33.690Z",
   "shariaCompliant": true
 }

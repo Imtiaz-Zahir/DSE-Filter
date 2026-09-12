@@ -8,15 +8,16 @@
   "overview": {
     "#": 298,
     "TRADING CODE": "RAHIMAFOOD",
-    "LTP": 74.5,
-    "HIGH": 75.3,
-    "LOW": 74.1,
-    "CLOSEP": 74.5,
-    "YCP": 74.9,
-    "CHANGE": -0.4,
-    "TRADE": 137,
-    "VALUE (mn)": 1.158,
-    "VOLUME": 15475
+    "tradingCode": "RAHIMAFOOD",
+    "LTP": 70.1,
+    "HIGH": 71.7,
+    "LOW": 69.5,
+    "CLOSEP": 69.6,
+    "YCP": 70.1,
+    "CHANGE": 0,
+    "TRADE": 204,
+    "VALUE (mn)": 1.486,
+    "VOLUME": 21180
   },
   "marketInformation": {
     "lastTradingPrice": 70.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01716 336 319",
     "telephoneNo": "8809611611123"
   },
-  "scrapedAt": "2026-09-11T07:00:10.892Z",
+  "scrapedAt": "2026-09-12T19:44:36.517Z",
   "shariaCompliant": false
 }

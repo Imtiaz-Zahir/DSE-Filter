@@ -8,15 +8,16 @@
   "overview": {
     "#": 332,
     "TRADING CODE": "SHAHJABANK",
-    "LTP": 17.5,
-    "HIGH": 17.7,
-    "LOW": 17.5,
-    "CLOSEP": 17.5,
-    "YCP": 17.6,
+    "tradingCode": "SHAHJABANK",
+    "LTP": 17.4,
+    "HIGH": 17.6,
+    "LOW": 17.4,
+    "CLOSEP": 17.4,
+    "YCP": 17.5,
     "CHANGE": -0.1,
     "TRADE": 51,
-    "VALUE (mn)": 0.506,
-    "VOLUME": 28916
+    "VALUE (mn)": 0.606,
+    "VOLUME": 34777
   },
   "marketInformation": {
     "lastTradingPrice": 17.4,
@@ -373,6 +374,6 @@
     "cellNo": "1755556060",
     "telephoneNo": "02-222283457 (Hunting) Ext-1000"
   },
-  "scrapedAt": "2026-09-11T07:00:16.852Z",
+  "scrapedAt": "2026-09-12T19:44:48.028Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 352,
     "TRADING CODE": "SOUTHEASTB",
-    "LTP": 11.6,
-    "HIGH": 11.9,
-    "LOW": 11.5,
-    "CLOSEP": 11.6,
-    "YCP": 11.7,
-    "CHANGE": -0.1,
-    "TRADE": 397,
-    "VALUE (mn)": 24.326,
-    "VOLUME": 2094053
+    "tradingCode": "SOUTHEASTB",
+    "LTP": 12.6,
+    "HIGH": 12.7,
+    "LOW": 12.2,
+    "CLOSEP": 12.6,
+    "YCP": 12.3,
+    "CHANGE": 0.3,
+    "TRADE": 1085,
+    "VALUE (mn)": 106.393,
+    "VOLUME": 8513115
   },
   "marketInformation": {
     "lastTradingPrice": 12.6,
@@ -370,6 +371,6 @@
     "cellNo": "01886097296",
     "telephoneNo": "02-223355264"
   },
-  "scrapedAt": "2026-09-11T07:00:18.739Z",
+  "scrapedAt": "2026-09-12T19:44:55.233Z",
   "shariaCompliant": false
 }

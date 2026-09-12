@@ -8,15 +8,16 @@
   "overview": {
     "#": 351,
     "TRADING CODE": "SONARGAON",
-    "LTP": 100.6,
-    "HIGH": 103.1,
-    "LOW": 99.5,
-    "CLOSEP": 100.6,
-    "YCP": 101.3,
-    "CHANGE": -0.7,
-    "TRADE": 625,
-    "VALUE (mn)": 12.589,
-    "VOLUME": 124171
+    "tradingCode": "SONARGAON",
+    "LTP": 88,
+    "HIGH": 94.4,
+    "LOW": 86.1,
+    "CLOSEP": 88,
+    "YCP": 91.6,
+    "CHANGE": -3.6,
+    "TRADE": 315,
+    "VALUE (mn)": 6.402,
+    "VOLUME": 70873
   },
   "marketInformation": {
     "lastTradingPrice": 88,
@@ -372,6 +373,6 @@
     "cellNo": "01705583480",
     "telephoneNo": "+880-2-55012658"
   },
-  "scrapedAt": "2026-09-11T07:00:18.777Z",
+  "scrapedAt": "2026-09-12T19:44:55.509Z",
   "shariaCompliant": false
 }

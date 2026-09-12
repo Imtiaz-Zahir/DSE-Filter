@@ -8,15 +8,16 @@
   "overview": {
     "#": 218,
     "TRADING CODE": "MEGHNACEM",
-    "LTP": 30.5,
-    "HIGH": 31.9,
-    "LOW": 29.7,
-    "CLOSEP": 29.9,
-    "YCP": 30.1,
-    "CHANGE": 0.4,
-    "TRADE": 22,
-    "VALUE (mn)": 0.046,
-    "VOLUME": 1523
+    "tradingCode": "MEGHNACEM",
+    "LTP": 28.4,
+    "HIGH": 30.7,
+    "LOW": 28.3,
+    "CLOSEP": 28.4,
+    "YCP": 29.3,
+    "CHANGE": -0.9,
+    "TRADE": 71,
+    "VALUE (mn)": 0.486,
+    "VOLUME": 17017
   },
   "marketInformation": {
     "lastTradingPrice": 28.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730068979",
     "telephoneNo": "+88-09666443310-19, Ext-5566"
   },
-  "scrapedAt": "2026-09-11T07:00:01.105Z",
+  "scrapedAt": "2026-09-12T19:44:05.753Z",
   "shariaCompliant": false
 }

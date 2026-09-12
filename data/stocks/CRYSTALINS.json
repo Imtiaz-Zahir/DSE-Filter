@@ -8,15 +8,16 @@
   "overview": {
     "#": 90,
     "TRADING CODE": "CRYSTALINS",
-    "LTP": 65.1,
-    "HIGH": 67,
-    "LOW": 65,
-    "CLOSEP": 65.1,
-    "YCP": 65.3,
-    "CHANGE": -0.2,
-    "TRADE": 470,
-    "VALUE (mn)": 8.651,
-    "VOLUME": 131173
+    "tradingCode": "CRYSTALINS",
+    "LTP": 61.5,
+    "HIGH": 63.1,
+    "LOW": 60.5,
+    "CLOSEP": 61.5,
+    "YCP": 61.6,
+    "CHANGE": -0.1,
+    "TRADE": 337,
+    "VALUE (mn)": 6.502,
+    "VOLUME": 105119
   },
   "marketInformation": {
     "lastTradingPrice": 61.5,
@@ -373,6 +374,6 @@
     "cellNo": "01717-644446",
     "telephoneNo": "02-55112750 Ext- 120"
   },
-  "scrapedAt": "2026-09-11T06:59:44.391Z",
+  "scrapedAt": "2026-09-12T19:43:21.334Z",
   "shariaCompliant": false
 }

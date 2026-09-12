@@ -8,15 +8,16 @@
   "overview": {
     "#": 7,
     "TRADING CODE": "ACFL",
-    "LTP": 23.4,
-    "HIGH": 24,
-    "LOW": 23.2,
-    "CLOSEP": 23.3,
-    "YCP": 23.7,
-    "CHANGE": -0.3,
-    "TRADE": 156,
-    "VALUE (mn)": 3.269,
-    "VOLUME": 139355
+    "tradingCode": "ACFL",
+    "LTP": 22.5,
+    "HIGH": 23,
+    "LOW": 21.6,
+    "CLOSEP": 22.1,
+    "YCP": 22.3,
+    "CHANGE": 0.2,
+    "TRADE": 75,
+    "VALUE (mn)": 1.198,
+    "VOLUME": 53031
   },
   "marketInformation": {
     "lastTradingPrice": 22.5,
@@ -373,6 +374,6 @@
     "cellNo": "01728-272596",
     "telephoneNo": "+8802-48961691-3; 09606-613000"
   },
-  "scrapedAt": "2026-09-11T06:59:33.292Z",
+  "scrapedAt": "2026-09-12T19:42:47.159Z",
   "shariaCompliant": true
 }

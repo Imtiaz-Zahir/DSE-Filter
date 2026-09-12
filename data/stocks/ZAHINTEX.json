@@ -8,15 +8,16 @@
   "overview": {
     "#": 394,
     "TRADING CODE": "ZAHINTEX",
-    "LTP": 8,
-    "HIGH": 8.7,
-    "LOW": 8,
-    "CLOSEP": 8,
-    "YCP": 8.4,
-    "CHANGE": -0.4,
-    "TRADE": 99,
-    "VALUE (mn)": 0.793,
-    "VOLUME": 98005
+    "tradingCode": "ZAHINTEX",
+    "LTP": 8.5,
+    "HIGH": 8.5,
+    "LOW": 8.1,
+    "CLOSEP": 8.4,
+    "YCP": 8.5,
+    "CHANGE": 0,
+    "TRADE": 71,
+    "VALUE (mn)": 0.512,
+    "VOLUME": 61320
   },
   "marketInformation": {
     "lastTradingPrice": 8.5,
@@ -372,6 +373,6 @@
     "cellNo": "01911110990",
     "telephoneNo": "02-2244234559"
   },
-  "scrapedAt": "2026-09-11T07:00:26.325Z",
+  "scrapedAt": "2026-09-12T19:45:07.717Z",
   "shariaCompliant": false
 }

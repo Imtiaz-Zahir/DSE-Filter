@@ -8,15 +8,16 @@
   "overview": {
     "#": 4,
     "TRADING CODE": "AAMRATECH",
-    "LTP": 18.2,
-    "HIGH": 18.4,
-    "LOW": 17.5,
-    "CLOSEP": 18.2,
-    "YCP": 17.6,
-    "CHANGE": 0.6,
-    "TRADE": 253,
-    "VALUE (mn)": 4.558,
-    "VOLUME": 253781
+    "tradingCode": "AAMRATECH",
+    "LTP": 17,
+    "HIGH": 17.6,
+    "LOW": 17,
+    "CLOSEP": 17,
+    "YCP": 17.3,
+    "CHANGE": -0.3,
+    "TRADE": 95,
+    "VALUE (mn)": 0.857,
+    "VOLUME": 50103
   },
   "marketInformation": {
     "lastTradingPrice": 17,
@@ -373,6 +374,6 @@
     "cellNo": "01729066414",
     "telephoneNo": "88028831188, 8832354"
   },
-  "scrapedAt": "2026-09-11T06:59:33.200Z",
+  "scrapedAt": "2026-09-12T19:42:46.509Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 166,
     "TRADING CODE": "ICB3RDNRB",
-    "LTP": 5.6,
+    "tradingCode": "ICB3RDNRB",
+    "LTP": 5.8,
     "HIGH": 5.8,
     "LOW": 5.6,
-    "CLOSEP": 5.6,
-    "YCP": 5.7,
-    "CHANGE": -0.1,
-    "TRADE": 27,
-    "VALUE (mn)": 1.34,
-    "VOLUME": 237908
+    "CLOSEP": 5.7,
+    "YCP": 5.5,
+    "CHANGE": 0.3,
+    "TRADE": 85,
+    "VALUE (mn)": 2.725,
+    "VOLUME": 477636
   },
   "marketInformation": {
     "lastTradingPrice": 5.8,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01970973654",
     "telephoneNo": "+88028300401"
   },
-  "scrapedAt": "2026-09-11T06:59:56.211Z",
+  "scrapedAt": "2026-09-12T19:43:47.251Z",
   "shariaCompliant": false
 }

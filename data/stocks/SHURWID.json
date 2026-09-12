@@ -8,15 +8,16 @@
   "overview": {
     "#": 336,
     "TRADING CODE": "SHURWID",
-    "LTP": 6,
-    "HIGH": 6.2,
-    "LOW": 5.8,
-    "CLOSEP": 6,
-    "YCP": 6.1,
-    "CHANGE": -0.1,
-    "TRADE": 37,
-    "VALUE (mn)": 0.389,
-    "VOLUME": 65309
+    "tradingCode": "SHURWID",
+    "LTP": 5.9,
+    "HIGH": 6.1,
+    "LOW": 5.9,
+    "CLOSEP": 5.9,
+    "YCP": 5.9,
+    "CHANGE": 0,
+    "TRADE": 8,
+    "VALUE (mn)": 0.014,
+    "VOLUME": 2368
   },
   "marketInformation": {
     "lastTradingPrice": 5.9,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:18.118Z",
+  "scrapedAt": "2026-09-12T19:44:49.894Z",
   "shariaCompliant": true
 }

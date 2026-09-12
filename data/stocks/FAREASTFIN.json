@@ -8,6 +8,7 @@
   "overview": {
     "#": 128,
     "TRADING CODE": "FAREASTFIN",
+    "tradingCode": "FAREASTFIN",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01977334536",
     "telephoneNo": "55033328-30, 55033334"
   },
-  "scrapedAt": "2026-09-11T06:59:49.162Z",
+  "scrapedAt": "2026-09-12T19:43:31.407Z",
   "shariaCompliant": false
 }

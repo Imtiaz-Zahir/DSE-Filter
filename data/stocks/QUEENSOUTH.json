@@ -8,15 +8,16 @@
   "overview": {
     "#": 297,
     "TRADING CODE": "QUEENSOUTH",
-    "LTP": 15.7,
-    "HIGH": 16.7,
-    "LOW": 15.5,
-    "CLOSEP": 15.7,
-    "YCP": 16.5,
-    "CHANGE": -0.8,
-    "TRADE": 1055,
-    "VALUE (mn)": 32.738,
-    "VOLUME": 2049425
+    "tradingCode": "QUEENSOUTH",
+    "LTP": 14.5,
+    "HIGH": 14.9,
+    "LOW": 14.4,
+    "CLOSEP": 14.5,
+    "YCP": 14.6,
+    "CHANGE": -0.1,
+    "TRADE": 408,
+    "VALUE (mn)": 9.104,
+    "VOLUME": 622691
   },
   "marketInformation": {
     "lastTradingPrice": 14.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 1730 027 955",
     "telephoneNo": "+8809617775555-Ext 8039"
   },
-  "scrapedAt": "2026-09-11T07:00:11.574Z",
+  "scrapedAt": "2026-09-12T19:44:37.012Z",
   "shariaCompliant": false
 }

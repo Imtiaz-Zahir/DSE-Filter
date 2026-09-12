@@ -8,15 +8,16 @@
   "overview": {
     "#": 115,
     "TRADING CODE": "ECABLES",
-    "LTP": 132,
-    "HIGH": 137.9,
-    "LOW": 132,
-    "CLOSEP": 133.3,
-    "YCP": 134,
-    "CHANGE": -2,
-    "TRADE": 61,
-    "VALUE (mn)": 0.951,
-    "VOLUME": 7115
+    "tradingCode": "ECABLES",
+    "LTP": 128.9,
+    "HIGH": 132.5,
+    "LOW": 128.1,
+    "CLOSEP": 128.9,
+    "YCP": 129.7,
+    "CHANGE": -0.8,
+    "TRADE": 33,
+    "VALUE (mn)": 0.352,
+    "VOLUME": 2721
   },
   "marketInformation": {
     "lastTradingPrice": 128.9,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01857 981158",
     "telephoneNo": "023-33301297"
   },
-  "scrapedAt": "2026-09-11T06:59:48.804Z",
+  "scrapedAt": "2026-09-12T19:43:27.989Z",
   "shariaCompliant": true
 }

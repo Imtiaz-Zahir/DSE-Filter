@@ -8,15 +8,16 @@
   "overview": {
     "#": 208,
     "TRADING CODE": "LOVELLO",
-    "LTP": 48.2,
-    "HIGH": 52.6,
-    "LOW": 47.9,
-    "CLOSEP": 48.2,
-    "YCP": 51.9,
-    "CHANGE": -3.7,
-    "TRADE": 6688,
-    "VALUE (mn)": 167.903,
-    "VOLUME": 3425490
+    "tradingCode": "LOVELLO",
+    "LTP": 45.8,
+    "HIGH": 46.9,
+    "LOW": 45.6,
+    "CLOSEP": 45.8,
+    "YCP": 46.3,
+    "CHANGE": -0.5,
+    "TRADE": 1487,
+    "VALUE (mn)": 28.083,
+    "VOLUME": 608215
   },
   "marketInformation": {
     "lastTradingPrice": 45.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01844 496 793",
     "telephoneNo": "+88 02 222261286"
   },
-  "scrapedAt": "2026-09-11T06:59:58.763Z",
+  "scrapedAt": "2026-09-12T19:44:01.488Z",
   "shariaCompliant": false
 }

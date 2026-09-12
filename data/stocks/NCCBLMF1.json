@@ -8,15 +8,16 @@
   "overview": {
     "#": 245,
     "TRADING CODE": "NCCBLMF1",
-    "LTP": 6.2,
-    "HIGH": 6.6,
-    "LOW": 6.1,
-    "CLOSEP": 6.2,
-    "YCP": 6.4,
-    "CHANGE": -0.2,
-    "TRADE": 63,
-    "VALUE (mn)": 0.549,
-    "VOLUME": 88369
+    "tradingCode": "NCCBLMF1",
+    "LTP": 6.7,
+    "HIGH": 6.8,
+    "LOW": 6.5,
+    "CLOSEP": 6.7,
+    "YCP": 6.3,
+    "CHANGE": 0.4,
+    "TRADE": 190,
+    "VALUE (mn)": 4.059,
+    "VOLUME": 611454
   },
   "marketInformation": {
     "lastTradingPrice": 6.7,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:05.014Z",
+  "scrapedAt": "2026-09-12T19:44:14.696Z",
   "shariaCompliant": false
 }

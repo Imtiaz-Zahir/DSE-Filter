@@ -8,15 +8,16 @@
   "overview": {
     "#": 176,
     "TRADING CODE": "IFIC1STMF",
-    "LTP": 4,
+    "tradingCode": "IFIC1STMF",
+    "LTP": 4.1,
     "HIGH": 4.2,
     "LOW": 4,
-    "CLOSEP": 4,
-    "YCP": 4.2,
-    "CHANGE": -0.2,
-    "TRADE": 101,
-    "VALUE (mn)": 5.039,
-    "VOLUME": 1239361
+    "CLOSEP": 4.1,
+    "YCP": 4,
+    "CHANGE": 0.1,
+    "TRADE": 220,
+    "VALUE (mn)": 7.957,
+    "VOLUME": 1941061
   },
   "marketInformation": {
     "lastTradingPrice": 4.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:54.788Z",
+  "scrapedAt": "2026-09-12T19:43:52.484Z",
   "shariaCompliant": false
 }

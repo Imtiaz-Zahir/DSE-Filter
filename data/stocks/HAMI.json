@@ -8,15 +8,16 @@
   "overview": {
     "#": 158,
     "TRADING CODE": "HAMI",
-    "LTP": 150.8,
-    "HIGH": 160.1,
-    "LOW": 149.2,
-    "CLOSEP": 149.9,
-    "YCP": 150.3,
-    "CHANGE": 0.5,
-    "TRADE": 49,
-    "VALUE (mn)": 0.866,
-    "VOLUME": 5766
+    "tradingCode": "HAMI",
+    "LTP": 146.7,
+    "HIGH": 149.8,
+    "LOW": 142.1,
+    "CLOSEP": 145.6,
+    "YCP": 145,
+    "CHANGE": 1.7,
+    "TRADE": 123,
+    "VALUE (mn)": 1.514,
+    "VOLUME": 10439
   },
   "marketInformation": {
     "lastTradingPrice": 146.7,
@@ -370,6 +371,6 @@
     "cellNo": "+880 1706188865",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:53.287Z",
+  "scrapedAt": "2026-09-12T19:43:45.485Z",
   "shariaCompliant": true
 }

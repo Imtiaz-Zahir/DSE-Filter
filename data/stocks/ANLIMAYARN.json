@@ -8,15 +8,16 @@
   "overview": {
     "#": 28,
     "TRADING CODE": "ANLIMAYARN",
-    "LTP": 29.8,
-    "HIGH": 30,
-    "LOW": 28.5,
-    "CLOSEP": 28.9,
-    "YCP": 29,
-    "CHANGE": 0.8,
-    "TRADE": 209,
-    "VALUE (mn)": 3.164,
-    "VOLUME": 109439
+    "tradingCode": "ANLIMAYARN",
+    "LTP": 26.4,
+    "HIGH": 28.6,
+    "LOW": 26.2,
+    "CLOSEP": 26.4,
+    "YCP": 27,
+    "CHANGE": -0.6,
+    "TRADE": 128,
+    "VALUE (mn)": 0.785,
+    "VOLUME": 28887
   },
   "marketInformation": {
     "lastTradingPrice": 26.4,
@@ -373,6 +374,6 @@
     "cellNo": "01848300800",
     "telephoneNo": "02-49349881-4, 222221373, 48317216"
   },
-  "scrapedAt": "2026-09-11T06:59:34.838Z",
+  "scrapedAt": "2026-09-12T19:42:56.211Z",
   "shariaCompliant": false
 }

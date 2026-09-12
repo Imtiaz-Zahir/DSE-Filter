@@ -8,15 +8,16 @@
   "overview": {
     "#": 276,
     "TRADING CODE": "PLFSL",
-    "LTP": 1.9,
-    "HIGH": 2.1,
-    "LOW": 1.9,
+    "tradingCode": "PLFSL",
+    "LTP": 2,
+    "HIGH": 2,
+    "LOW": 1.8,
     "CLOSEP": 1.9,
-    "YCP": 2,
-    "CHANGE": -0.1,
-    "TRADE": 132,
-    "VALUE (mn)": 2.383,
-    "VOLUME": 1202770
+    "YCP": 1.9,
+    "CHANGE": 0.1,
+    "TRADE": 120,
+    "VALUE (mn)": 1.973,
+    "VOLUME": 1037923
   },
   "marketInformation": {
     "lastTradingPrice": 2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01754 905 065",
     "telephoneNo": "+88 02 23351732"
   },
-  "scrapedAt": "2026-09-11T07:00:09.274Z",
+  "scrapedAt": "2026-09-12T19:44:28.588Z",
   "shariaCompliant": false
 }

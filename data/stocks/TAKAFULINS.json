@@ -8,15 +8,16 @@
   "overview": {
     "#": 364,
     "TRADING CODE": "TAKAFULINS",
-    "LTP": 54.1,
-    "HIGH": 54.5,
-    "LOW": 53,
-    "CLOSEP": 54.1,
-    "YCP": 51.9,
-    "CHANGE": 2.2,
-    "TRADE": 760,
-    "VALUE (mn)": 22.447,
-    "VOLUME": 415416
+    "tradingCode": "TAKAFULINS",
+    "LTP": 57.9,
+    "HIGH": 58.7,
+    "LOW": 56.5,
+    "CLOSEP": 57.9,
+    "YCP": 55.9,
+    "CHANGE": 2,
+    "TRADE": 1674,
+    "VALUE (mn)": 62.051,
+    "VOLUME": 1077411
   },
   "marketInformation": {
     "lastTradingPrice": 57.9,
@@ -370,6 +371,6 @@
     "cellNo": "01711-409253",
     "telephoneNo": "41070084"
   },
-  "scrapedAt": "2026-09-11T07:00:21.237Z",
+  "scrapedAt": "2026-09-12T19:44:57.200Z",
   "shariaCompliant": true
 }

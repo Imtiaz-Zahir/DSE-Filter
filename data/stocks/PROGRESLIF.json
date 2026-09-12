@@ -8,15 +8,16 @@
   "overview": {
     "#": 291,
     "TRADING CODE": "PROGRESLIF",
-    "LTP": 38,
-    "HIGH": 39.8,
-    "LOW": 38,
-    "CLOSEP": 38.1,
-    "YCP": 38.6,
-    "CHANGE": -0.6,
-    "TRADE": 109,
-    "VALUE (mn)": 1.485,
-    "VOLUME": 38863
+    "tradingCode": "PROGRESLIF",
+    "LTP": 35.6,
+    "HIGH": 38.7,
+    "LOW": 35.6,
+    "CLOSEP": 36.3,
+    "YCP": 37.9,
+    "CHANGE": -2.3,
+    "TRADE": 60,
+    "VALUE (mn)": 0.446,
+    "VOLUME": 12116
   },
   "marketInformation": {
     "lastTradingPrice": 35.6,
@@ -318,6 +319,6 @@
     "cellNo": "+88 01713-361160",
     "telephoneNo": "+88-02-49350301-190"
   },
-  "scrapedAt": "2026-09-11T07:00:11.529Z",
+  "scrapedAt": "2026-09-12T19:44:35.581Z",
   "shariaCompliant": false
 }

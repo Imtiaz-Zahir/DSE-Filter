@@ -8,15 +8,16 @@
   "overview": {
     "#": 321,
     "TRADING CODE": "SALAMCRST",
-    "LTP": 12.3,
-    "HIGH": 12.6,
-    "LOW": 12.2,
-    "CLOSEP": 12.3,
-    "YCP": 12.3,
+    "tradingCode": "SALAMCRST",
+    "LTP": 11.5,
+    "HIGH": 11.8,
+    "LOW": 11.4,
+    "CLOSEP": 11.5,
+    "YCP": 11.5,
     "CHANGE": 0,
-    "TRADE": 119,
-    "VALUE (mn)": 1.351,
-    "VOLUME": 109524
+    "TRADE": 139,
+    "VALUE (mn)": 1.468,
+    "VOLUME": 126525
   },
   "marketInformation": {
     "lastTradingPrice": 11.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01710 535089",
     "telephoneNo": "88-031-611195, 611426, 638258, Ext-507, 505"
   },
-  "scrapedAt": "2026-09-11T07:00:14.442Z",
+  "scrapedAt": "2026-09-12T19:44:45.718Z",
   "shariaCompliant": false
 }

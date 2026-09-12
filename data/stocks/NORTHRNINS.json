@@ -8,15 +8,16 @@
   "overview": {
     "#": 251,
     "TRADING CODE": "NORTHRNINS",
-    "LTP": 39.7,
-    "HIGH": 41.1,
-    "LOW": 39.2,
-    "CLOSEP": 39.7,
-    "YCP": 39.7,
-    "CHANGE": 0,
-    "TRADE": 423,
-    "VALUE (mn)": 14.34,
-    "VOLUME": 355320
+    "tradingCode": "NORTHRNINS",
+    "LTP": 37.4,
+    "HIGH": 38.5,
+    "LOW": 37.1,
+    "CLOSEP": 37.4,
+    "YCP": 37.8,
+    "CHANGE": -0.4,
+    "TRADE": 267,
+    "VALUE (mn)": 3.655,
+    "VOLUME": 96863
   },
   "marketInformation": {
     "lastTradingPrice": 37.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01712704417",
     "telephoneNo": "0247113043"
   },
-  "scrapedAt": "2026-09-11T07:00:05.131Z",
+  "scrapedAt": "2026-09-12T19:44:18.854Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 246,
     "TRADING CODE": "NEWLINE",
-    "LTP": 5.8,
-    "HIGH": 6.2,
-    "LOW": 5.6,
-    "CLOSEP": 5.8,
-    "YCP": 6.1,
-    "CHANGE": -0.3,
-    "TRADE": 82,
-    "VALUE (mn)": 0.942,
-    "VOLUME": 159427
+    "tradingCode": "NEWLINE",
+    "LTP": 5.7,
+    "HIGH": 5.7,
+    "LOW": 5.5,
+    "CLOSEP": 5.6,
+    "YCP": 5.6,
+    "CHANGE": 0.1,
+    "TRADE": 56,
+    "VALUE (mn)": 0.613,
+    "VOLUME": 109614
   },
   "marketInformation": {
     "lastTradingPrice": 5.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01844652019",
     "telephoneNo": "8802- 9297403, 8802-9297415, 8802-9297417"
   },
-  "scrapedAt": "2026-09-11T07:00:05.361Z",
+  "scrapedAt": "2026-09-12T19:44:15.749Z",
   "shariaCompliant": false
 }

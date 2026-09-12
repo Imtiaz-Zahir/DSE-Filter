@@ -8,15 +8,16 @@
   "overview": {
     "#": 389,
     "TRADING CODE": "WALTONHIL",
-    "LTP": 392.2,
-    "HIGH": 397.9,
-    "LOW": 391.8,
-    "CLOSEP": 392.2,
-    "YCP": 395.7,
-    "CHANGE": -3.5,
-    "TRADE": 1145,
-    "VALUE (mn)": 18.527,
-    "VOLUME": 46986
+    "tradingCode": "WALTONHIL",
+    "LTP": 390,
+    "HIGH": 393.4,
+    "LOW": 389.5,
+    "CLOSEP": 390,
+    "YCP": 390,
+    "CHANGE": 0,
+    "TRADE": 922,
+    "VALUE (mn)": 21.268,
+    "VOLUME": 54407
   },
   "marketInformation": {
     "lastTradingPrice": 390,
@@ -373,6 +374,6 @@
     "cellNo": "01678863444",
     "telephoneNo": "+8809606-555555"
   },
-  "scrapedAt": "2026-09-11T07:00:23.117Z",
+  "scrapedAt": "2026-09-12T19:45:06.939Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 191,
     "TRADING CODE": "JHRML",
-    "LTP": 48.2,
-    "HIGH": 48.7,
-    "LOW": 48,
-    "CLOSEP": 48.2,
-    "YCP": 48.2,
-    "CHANGE": 0,
-    "TRADE": 348,
-    "VALUE (mn)": 7.878,
-    "VOLUME": 162947
+    "tradingCode": "JHRML",
+    "LTP": 44.1,
+    "HIGH": 45.6,
+    "LOW": 43.7,
+    "CLOSEP": 44.1,
+    "YCP": 45.2,
+    "CHANGE": -1.1,
+    "TRADE": 337,
+    "VALUE (mn)": 5.4,
+    "VOLUME": 121820
   },
   "marketInformation": {
     "lastTradingPrice": 44.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01777 742 569",
     "telephoneNo": "02-55138723-24"
   },
-  "scrapedAt": "2026-09-11T06:59:57.141Z",
+  "scrapedAt": "2026-09-12T19:43:55.572Z",
   "shariaCompliant": true
 }

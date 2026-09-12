@@ -8,15 +8,16 @@
   "overview": {
     "#": 388,
     "TRADING CODE": "VFSTDL",
-    "LTP": 14.7,
-    "HIGH": 15.4,
-    "LOW": 14.5,
-    "CLOSEP": 14.7,
-    "YCP": 15.2,
+    "tradingCode": "VFSTDL",
+    "LTP": 13.7,
+    "HIGH": 14.4,
+    "LOW": 13.6,
+    "CLOSEP": 13.7,
+    "YCP": 14.2,
     "CHANGE": -0.5,
-    "TRADE": 522,
-    "VALUE (mn)": 14.941,
-    "VOLUME": 1000581
+    "TRADE": 379,
+    "VALUE (mn)": 9.962,
+    "VOLUME": 720128
   },
   "marketInformation": {
     "lastTradingPrice": 13.7,
@@ -370,6 +371,6 @@
     "cellNo": "01993339199",
     "telephoneNo": "+88 02 8419542"
   },
-  "scrapedAt": "2026-09-11T07:00:23.008Z",
+  "scrapedAt": "2026-09-12T19:45:06.808Z",
   "shariaCompliant": true
 }

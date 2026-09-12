@@ -8,15 +8,16 @@
   "overview": {
     "#": 374,
     "TRADING CODE": "UCB",
-    "LTP": 9.1,
-    "HIGH": 9.3,
-    "LOW": 9.1,
-    "CLOSEP": 9.1,
-    "YCP": 9.2,
-    "CHANGE": -0.1,
-    "TRADE": 83,
-    "VALUE (mn)": 3.859,
-    "VOLUME": 420599
+    "tradingCode": "UCB",
+    "LTP": 9.6,
+    "HIGH": 9.9,
+    "LOW": 9.4,
+    "CLOSEP": 9.6,
+    "YCP": 9.5,
+    "CHANGE": 0.1,
+    "TRADE": 414,
+    "VALUE (mn)": 6.073,
+    "VOLUME": 624709
   },
   "marketInformation": {
     "lastTradingPrice": 9.6,
@@ -373,6 +374,6 @@
     "cellNo": "01611 027910",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:20.668Z",
+  "scrapedAt": "2026-09-12T19:45:00.697Z",
   "shariaCompliant": false
 }

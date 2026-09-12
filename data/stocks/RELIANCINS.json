@@ -8,15 +8,16 @@
   "overview": {
     "#": 306,
     "TRADING CODE": "RELIANCINS",
-    "LTP": 109.7,
-    "HIGH": 115.5,
-    "LOW": 108.4,
-    "CLOSEP": 109.7,
-    "YCP": 111.9,
-    "CHANGE": -2.2,
-    "TRADE": 868,
-    "VALUE (mn)": 103.554,
-    "VOLUME": 910791
+    "tradingCode": "RELIANCINS",
+    "LTP": 99.5,
+    "HIGH": 108.4,
+    "LOW": 93.3,
+    "CLOSEP": 97.2,
+    "YCP": 103.6,
+    "CHANGE": -4.1,
+    "TRADE": 1199,
+    "VALUE (mn)": 69.783,
+    "VOLUME": 695544
   },
   "marketInformation": {
     "lastTradingPrice": 99.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88-01713440953",
     "telephoneNo": "+880 222 660 1940 - 42"
   },
-  "scrapedAt": "2026-09-11T07:00:13.346Z",
+  "scrapedAt": "2026-09-12T19:44:40.880Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 1,
     "TRADING CODE": "1JANATAMF",
-    "LTP": 3.5,
-    "HIGH": 3.7,
-    "LOW": 3.5,
-    "CLOSEP": 3.5,
-    "YCP": 3.6,
-    "CHANGE": -0.1,
-    "TRADE": 197,
-    "VALUE (mn)": 5.202,
-    "VOLUME": 1473127
+    "tradingCode": "1JANATAMF",
+    "LTP": 3.6,
+    "HIGH": 3.6,
+    "LOW": 3.4,
+    "CLOSEP": 3.6,
+    "YCP": 3.4,
+    "CHANGE": 0.2,
+    "TRADE": 238,
+    "VALUE (mn)": 6.077,
+    "VOLUME": 1731498
   },
   "marketInformation": {
     "lastTradingPrice": 3.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:33.265Z",
+  "scrapedAt": "2026-09-12T19:42:45.560Z",
   "shariaCompliant": false
 }

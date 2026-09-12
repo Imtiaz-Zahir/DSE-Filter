@@ -8,15 +8,16 @@
   "overview": {
     "#": 295,
     "TRADING CODE": "PURABIGEN",
-    "LTP": 30.5,
-    "HIGH": 31.4,
-    "LOW": 30.1,
-    "CLOSEP": 30.5,
-    "YCP": 30.6,
-    "CHANGE": -0.1,
-    "TRADE": 270,
-    "VALUE (mn)": 6.921,
-    "VOLUME": 223763
+    "tradingCode": "PURABIGEN",
+    "LTP": 28.4,
+    "HIGH": 29.2,
+    "LOW": 28.3,
+    "CLOSEP": 28.5,
+    "YCP": 28.6,
+    "CHANGE": -0.2,
+    "TRADE": 203,
+    "VALUE (mn)": 4.229,
+    "VOLUME": 147269
   },
   "marketInformation": {
     "lastTradingPrice": 28.4,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01841-777999",
     "telephoneNo": "55168145"
   },
-  "scrapedAt": "2026-09-11T07:00:10.857Z",
+  "scrapedAt": "2026-09-12T19:44:32.690Z",
   "shariaCompliant": false
 }

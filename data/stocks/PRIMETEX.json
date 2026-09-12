@@ -8,15 +8,16 @@
   "overview": {
     "#": 290,
     "TRADING CODE": "PRIMETEX",
-    "LTP": 16.2,
-    "HIGH": 16.9,
-    "LOW": 16.1,
-    "CLOSEP": 16.2,
-    "YCP": 16.8,
-    "CHANGE": -0.6,
-    "TRADE": 45,
-    "VALUE (mn)": 0.174,
-    "VOLUME": 10665
+    "tradingCode": "PRIMETEX",
+    "LTP": 14.1,
+    "HIGH": 15.4,
+    "LOW": 14,
+    "CLOSEP": 14.1,
+    "YCP": 14.4,
+    "CHANGE": -0.3,
+    "TRADE": 47,
+    "VALUE (mn)": 0.412,
+    "VOLUME": 29235
   },
   "marketInformation": {
     "lastTradingPrice": 14.1,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01912 129 467",
     "telephoneNo": "9564851-2, 9564856 Ext. - 124"
   },
-  "scrapedAt": "2026-09-11T07:00:11.611Z",
+  "scrapedAt": "2026-09-12T19:44:31.590Z",
   "shariaCompliant": true
 }

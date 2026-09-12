@@ -8,15 +8,16 @@
   "overview": {
     "#": 52,
     "TRADING CODE": "BDAUTOCA",
-    "LTP": 197.9,
-    "HIGH": 199,
-    "LOW": 190.5,
-    "CLOSEP": 197.9,
-    "YCP": 190,
-    "CHANGE": 7.9,
-    "TRADE": 888,
-    "VALUE (mn)": 11.161,
-    "VOLUME": 57167
+    "tradingCode": "BDAUTOCA",
+    "LTP": 181.2,
+    "HIGH": 189.2,
+    "LOW": 179.7,
+    "CLOSEP": 181.2,
+    "YCP": 185.4,
+    "CHANGE": -4.2,
+    "TRADE": 482,
+    "VALUE (mn)": 4.963,
+    "VOLUME": 27001
   },
   "marketInformation": {
     "lastTradingPrice": 181.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 714 732",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:41.031Z",
+  "scrapedAt": "2026-09-12T19:43:08.160Z",
   "shariaCompliant": false
 }

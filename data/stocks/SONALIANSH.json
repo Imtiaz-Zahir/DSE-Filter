@@ -8,15 +8,16 @@
   "overview": {
     "#": 347,
     "TRADING CODE": "SONALIANSH",
-    "LTP": 215.6,
-    "HIGH": 218.8,
-    "LOW": 214.8,
-    "CLOSEP": 215.6,
-    "YCP": 215.3,
-    "CHANGE": 0.3,
-    "TRADE": 855,
-    "VALUE (mn)": 24.765,
-    "VOLUME": 114317
+    "tradingCode": "SONALIANSH",
+    "LTP": 208.5,
+    "HIGH": 212.8,
+    "LOW": 206.9,
+    "CLOSEP": 208.5,
+    "YCP": 209,
+    "CHANGE": -0.5,
+    "TRADE": 617,
+    "VALUE (mn)": 11.02,
+    "VOLUME": 52523
   },
   "marketInformation": {
     "lastTradingPrice": 208.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01713 399 061",
     "telephoneNo": "+8802 41054081"
   },
-  "scrapedAt": "2026-09-11T07:00:20.259Z",
+  "scrapedAt": "2026-09-12T19:44:54.402Z",
   "shariaCompliant": false
 }

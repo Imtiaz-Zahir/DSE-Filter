@@ -8,15 +8,16 @@
   "overview": {
     "#": 49,
     "TRADING CODE": "BAYLEASING",
-    "LTP": 4.8,
-    "HIGH": 5,
-    "LOW": 4.7,
-    "CLOSEP": 4.8,
-    "YCP": 4.8,
+    "tradingCode": "BAYLEASING",
+    "LTP": 4.6,
+    "HIGH": 4.7,
+    "LOW": 4.5,
+    "CLOSEP": 4.6,
+    "YCP": 4.6,
     "CHANGE": 0,
-    "TRADE": 63,
-    "VALUE (mn)": 1.515,
-    "VOLUME": 314580
+    "TRADE": 22,
+    "VALUE (mn)": 0.61,
+    "VOLUME": 131945
   },
   "marketInformation": {
     "lastTradingPrice": 4.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01793 477 212",
     "telephoneNo": "+88 02 223352504"
   },
-  "scrapedAt": "2026-09-11T06:59:41.759Z",
+  "scrapedAt": "2026-09-12T19:43:06.553Z",
   "shariaCompliant": false
 }

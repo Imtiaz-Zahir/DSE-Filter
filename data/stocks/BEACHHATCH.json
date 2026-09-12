@@ -8,15 +8,16 @@
   "overview": {
     "#": 60,
     "TRADING CODE": "BEACHHATCH",
-    "LTP": 30.1,
-    "HIGH": 30.9,
-    "LOW": 30,
-    "CLOSEP": 30.1,
-    "YCP": 30.4,
-    "CHANGE": -0.3,
-    "TRADE": 215,
-    "VALUE (mn)": 2.251,
-    "VOLUME": 74625
+    "tradingCode": "BEACHHATCH",
+    "LTP": 26.6,
+    "HIGH": 27.7,
+    "LOW": 25.9,
+    "CLOSEP": 26.6,
+    "YCP": 26.2,
+    "CHANGE": 0.4,
+    "TRADE": 321,
+    "VALUE (mn)": 3.601,
+    "VOLUME": 133811
   },
   "marketInformation": {
     "lastTradingPrice": 26.6,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01714 034 997",
     "telephoneNo": "9833506"
   },
-  "scrapedAt": "2026-09-11T06:59:40.964Z",
+  "scrapedAt": "2026-09-12T19:43:09.146Z",
   "shariaCompliant": false
 }

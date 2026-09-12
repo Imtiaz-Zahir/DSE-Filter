@@ -8,15 +8,16 @@
   "overview": {
     "#": 92,
     "TRADING CODE": "DACCADYE",
-    "LTP": 16.4,
-    "HIGH": 16.9,
-    "LOW": 16.4,
-    "CLOSEP": 16.4,
-    "YCP": 16.7,
-    "CHANGE": -0.3,
-    "TRADE": 69,
-    "VALUE (mn)": 0.432,
-    "VOLUME": 26218
+    "tradingCode": "DACCADYE",
+    "LTP": 15.7,
+    "HIGH": 16.3,
+    "LOW": 15.6,
+    "CLOSEP": 15.7,
+    "YCP": 16.2,
+    "CHANGE": -0.5,
+    "TRADE": 77,
+    "VALUE (mn)": 0.747,
+    "VOLUME": 47315
   },
   "marketInformation": {
     "lastTradingPrice": 15.7,
@@ -370,6 +371,6 @@
     "cellNo": "01715005162",
     "telephoneNo": "+88-02 9558131-32"
   },
-  "scrapedAt": "2026-09-11T06:59:45.566Z",
+  "scrapedAt": "2026-09-12T19:43:22.685Z",
   "shariaCompliant": true
 }

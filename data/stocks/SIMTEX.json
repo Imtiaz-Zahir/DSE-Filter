@@ -8,15 +8,16 @@
   "overview": {
     "#": 342,
     "TRADING CODE": "SIMTEX",
-    "LTP": 25.6,
-    "HIGH": 26.5,
-    "LOW": 25.5,
-    "CLOSEP": 25.7,
-    "YCP": 26.3,
-    "CHANGE": -0.7,
-    "TRADE": 822,
-    "VALUE (mn)": 24.898,
-    "VOLUME": 958594
+    "tradingCode": "SIMTEX",
+    "LTP": 24.4,
+    "HIGH": 25,
+    "LOW": 24.3,
+    "CLOSEP": 24.4,
+    "YCP": 24.7,
+    "CHANGE": -0.3,
+    "TRADE": 425,
+    "VALUE (mn)": 8.713,
+    "VOLUME": 355576
   },
   "marketInformation": {
     "lastTradingPrice": 24.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01404451250",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:16.721Z",
+  "scrapedAt": "2026-09-12T19:44:50.654Z",
   "shariaCompliant": true
 }

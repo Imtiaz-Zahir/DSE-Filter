@@ -8,15 +8,16 @@
   "overview": {
     "#": 296,
     "TRADING CODE": "QUASEMIND",
-    "LTP": 42.2,
-    "HIGH": 42.6,
-    "LOW": 41.8,
-    "CLOSEP": 42.2,
-    "YCP": 41.9,
-    "CHANGE": 0.3,
-    "TRADE": 362,
-    "VALUE (mn)": 8.295,
-    "VOLUME": 196192
+    "tradingCode": "QUASEMIND",
+    "LTP": 39.2,
+    "HIGH": 40.6,
+    "LOW": 38.9,
+    "CLOSEP": 39.2,
+    "YCP": 40.4,
+    "CHANGE": -1.2,
+    "TRADE": 607,
+    "VALUE (mn)": 9.347,
+    "VOLUME": 236781
   },
   "marketInformation": {
     "lastTradingPrice": 39.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01313 009 844",
     "telephoneNo": "09612007700 EXTN:608"
   },
-  "scrapedAt": "2026-09-11T07:00:11.035Z",
+  "scrapedAt": "2026-09-12T19:44:36.460Z",
   "shariaCompliant": true
 }

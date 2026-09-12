@@ -8,15 +8,16 @@
   "overview": {
     "#": 183,
     "TRADING CODE": "ISLAMIBANK",
-    "LTP": 27.1,
-    "HIGH": 28,
-    "LOW": 27.1,
-    "CLOSEP": 27.1,
-    "YCP": 27.3,
-    "CHANGE": -0.2,
-    "TRADE": 125,
-    "VALUE (mn)": 0.774,
-    "VOLUME": 28367
+    "tradingCode": "ISLAMIBANK",
+    "LTP": 27.7,
+    "HIGH": 27.8,
+    "LOW": 27.3,
+    "CLOSEP": 27.7,
+    "YCP": 27.5,
+    "CHANGE": 0.2,
+    "TRADE": 131,
+    "VALUE (mn)": 1.029,
+    "VOLUME": 37273
   },
   "marketInformation": {
     "lastTradingPrice": 27.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 739987",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:56.663Z",
+  "scrapedAt": "2026-09-12T19:43:53.330Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 250,
     "TRADING CODE": "NORTHERN",
-    "LTP": 106.4,
-    "HIGH": 107,
-    "LOW": 104,
-    "CLOSEP": 104,
-    "YCP": 103.3,
-    "CHANGE": 3.1,
+    "tradingCode": "NORTHERN",
+    "LTP": 100.8,
+    "HIGH": 106.5,
+    "LOW": 100.1,
+    "CLOSEP": 100.8,
+    "YCP": 102,
+    "CHANGE": -1.2,
     "TRADE": 28,
-    "VALUE (mn)": 0.205,
-    "VOLUME": 1971
+    "VALUE (mn)": 0.058,
+    "VOLUME": 576
   },
   "marketInformation": {
     "lastTradingPrice": 100.8,
@@ -373,6 +374,6 @@
     "cellNo": "01713755517",
     "telephoneNo": "55013506, Ext-133"
   },
-  "scrapedAt": "2026-09-11T07:00:04.855Z",
+  "scrapedAt": "2026-09-12T19:44:15.639Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 329,
     "TRADING CODE": "SEAPEARL",
-    "LTP": 35.6,
-    "HIGH": 36.4,
-    "LOW": 35.5,
-    "CLOSEP": 35.6,
-    "YCP": 36,
-    "CHANGE": -0.4,
-    "TRADE": 499,
-    "VALUE (mn)": 10.45,
-    "VOLUME": 291649
+    "tradingCode": "SEAPEARL",
+    "LTP": 33.7,
+    "HIGH": 34.4,
+    "LOW": 33.2,
+    "CLOSEP": 33.7,
+    "YCP": 33.8,
+    "CHANGE": -0.1,
+    "TRADE": 498,
+    "VALUE (mn)": 7.862,
+    "VOLUME": 233412
   },
   "marketInformation": {
     "lastTradingPrice": 33.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01844 016 004",
     "telephoneNo": "88-02-48812982-7"
   },
-  "scrapedAt": "2026-09-11T07:00:14.565Z",
+  "scrapedAt": "2026-09-12T19:44:46.347Z",
   "shariaCompliant": false
 }

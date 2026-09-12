@@ -8,15 +8,16 @@
   "overview": {
     "#": 307,
     "TRADING CODE": "RENATA",
-    "LTP": 466.3,
-    "HIGH": 467.8,
-    "LOW": 462.8,
-    "CLOSEP": 466.3,
-    "YCP": 463.4,
-    "CHANGE": 2.9,
-    "TRADE": 433,
-    "VALUE (mn)": 9.495,
-    "VOLUME": 20386
+    "tradingCode": "RENATA",
+    "LTP": 459,
+    "HIGH": 461.9,
+    "LOW": 458.5,
+    "CLOSEP": 459,
+    "YCP": 461.2,
+    "CHANGE": -2.2,
+    "TRADE": 216,
+    "VALUE (mn)": 5.039,
+    "VOLUME": 10964
   },
   "marketInformation": {
     "lastTradingPrice": 459,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 256 611",
     "telephoneNo": "880-2-41002750-54, ext:201"
   },
-  "scrapedAt": "2026-09-11T07:00:12.762Z",
+  "scrapedAt": "2026-09-12T19:44:40.773Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 189,
     "TRADING CODE": "JAMUNAOIL",
-    "LTP": 177,
-    "HIGH": 177.5,
-    "LOW": 176,
-    "CLOSEP": 176.2,
-    "YCP": 176.8,
-    "CHANGE": 0.2,
-    "TRADE": 135,
-    "VALUE (mn)": 2.462,
-    "VOLUME": 13921
+    "tradingCode": "JAMUNAOIL",
+    "LTP": 175.9,
+    "HIGH": 176.3,
+    "LOW": 175.6,
+    "CLOSEP": 175.9,
+    "YCP": 175.3,
+    "CHANGE": 0.6,
+    "TRADE": 137,
+    "VALUE (mn)": 1.808,
+    "VOLUME": 10281
   },
   "marketInformation": {
     "lastTradingPrice": 175.9,
@@ -370,6 +371,6 @@
     "cellNo": "01711-722500",
     "telephoneNo": "031-724335 031-2520134-9 Ext-214"
   },
-  "scrapedAt": "2026-09-11T06:59:56.566Z",
+  "scrapedAt": "2026-09-12T19:43:54.748Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 238,
     "TRADING CODE": "MTB",
-    "LTP": 13.3,
-    "HIGH": 13.5,
-    "LOW": 13.3,
-    "CLOSEP": 13.3,
-    "YCP": 13.4,
-    "CHANGE": -0.1,
-    "TRADE": 55,
-    "VALUE (mn)": 0.706,
-    "VOLUME": 52860
+    "tradingCode": "MTB",
+    "LTP": 12.9,
+    "HIGH": 13.1,
+    "LOW": 12.9,
+    "CLOSEP": 12.9,
+    "YCP": 12.9,
+    "CHANGE": 0,
+    "TRADE": 77,
+    "VALUE (mn)": 0.942,
+    "VOLUME": 72767
   },
   "marketInformation": {
     "lastTradingPrice": 12.9,
@@ -373,6 +374,6 @@
     "cellNo": "01711596025",
     "telephoneNo": "880 2-9846966"
   },
-  "scrapedAt": "2026-09-11T07:00:03.210Z",
+  "scrapedAt": "2026-09-12T19:44:12.577Z",
   "shariaCompliant": false
 }

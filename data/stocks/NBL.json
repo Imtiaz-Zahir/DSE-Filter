@@ -8,15 +8,16 @@
   "overview": {
     "#": 243,
     "TRADING CODE": "NBL",
-    "LTP": 3.5,
-    "HIGH": 3.6,
-    "LOW": 3.4,
-    "CLOSEP": 3.5,
-    "YCP": 3.6,
-    "CHANGE": -0.1,
-    "TRADE": 225,
-    "VALUE (mn)": 3.341,
-    "VOLUME": 952498
+    "tradingCode": "NBL",
+    "LTP": 3.4,
+    "HIGH": 3.4,
+    "LOW": 3.3,
+    "CLOSEP": 3.3,
+    "YCP": 3.3,
+    "CHANGE": 0.1,
+    "TRADE": 204,
+    "VALUE (mn)": 2.421,
+    "VOLUME": 730475
   },
   "marketInformation": {
     "lastTradingPrice": 3.4,
@@ -373,6 +374,6 @@
     "cellNo": "+8801701215273",
     "telephoneNo": "+880-2-41032411"
   },
-  "scrapedAt": "2026-09-11T07:00:05.985Z",
+  "scrapedAt": "2026-09-12T19:44:14.501Z",
   "shariaCompliant": false
 }

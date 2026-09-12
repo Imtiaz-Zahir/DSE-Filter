@@ -8,15 +8,16 @@
   "overview": {
     "#": 331,
     "TRADING CODE": "SEMLIBBLSF",
-    "LTP": 8,
-    "HIGH": 8,
-    "LOW": 7.8,
-    "CLOSEP": 7.9,
-    "YCP": 8,
-    "CHANGE": 0,
-    "TRADE": 40,
-    "VALUE (mn)": 0.832,
-    "VOLUME": 104952
+    "tradingCode": "SEMLIBBLSF",
+    "LTP": 0,
+    "HIGH": 0,
+    "LOW": 0,
+    "CLOSEP": 7.8,
+    "YCP": 7.8,
+    "CHANGE": null,
+    "TRADE": 0,
+    "VALUE (mn)": 0,
+    "VOLUME": 0
   },
   "marketInformation": {
     "lastTradingPrice": null,
@@ -373,6 +374,6 @@
     "cellNo": "01346990125",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-11T07:00:16.872Z",
+  "scrapedAt": "2026-09-12T19:44:48.963Z",
   "shariaCompliant": false
 }

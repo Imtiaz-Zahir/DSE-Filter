@@ -8,15 +8,16 @@
   "overview": {
     "#": 324,
     "TRADING CODE": "SAMORITA",
-    "LTP": 94.2,
-    "HIGH": 100.6,
-    "LOW": 93,
-    "CLOSEP": 94.2,
-    "YCP": 98.8,
-    "CHANGE": -4.6,
-    "TRADE": 1478,
-    "VALUE (mn)": 46.185,
-    "VOLUME": 480323
+    "tradingCode": "SAMORITA",
+    "LTP": 88.2,
+    "HIGH": 91.7,
+    "LOW": 87,
+    "CLOSEP": 88.2,
+    "YCP": 89.8,
+    "CHANGE": -1.6,
+    "TRADE": 797,
+    "VALUE (mn)": 14.653,
+    "VOLUME": 163107
   },
   "marketInformation": {
     "lastTradingPrice": 88.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 247 105",
     "telephoneNo": "02-48117618-9"
   },
-  "scrapedAt": "2026-09-11T07:00:16.246Z",
+  "scrapedAt": "2026-09-12T19:44:45.405Z",
   "shariaCompliant": true
 }

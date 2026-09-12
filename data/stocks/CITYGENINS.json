@@ -8,15 +8,16 @@
   "overview": {
     "#": 83,
     "TRADING CODE": "CITYGENINS",
-    "LTP": 127.8,
-    "HIGH": 128.1,
-    "LOW": 126.2,
-    "CLOSEP": 127.8,
-    "YCP": 127.3,
-    "CHANGE": 0.5,
-    "TRADE": 207,
-    "VALUE (mn)": 13.364,
-    "VOLUME": 104646
+    "tradingCode": "CITYGENINS",
+    "LTP": 127.9,
+    "HIGH": 127.9,
+    "LOW": 127,
+    "CLOSEP": 127.9,
+    "YCP": 127.2,
+    "CHANGE": 0.7,
+    "TRADE": 201,
+    "VALUE (mn)": 24.956,
+    "VOLUME": 195327
   },
   "marketInformation": {
     "lastTradingPrice": 127.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 660 670",
     "telephoneNo": "880-02-223387296 Ext-254"
   },
-  "scrapedAt": "2026-09-11T06:59:44.477Z",
+  "scrapedAt": "2026-09-12T19:43:20.582Z",
   "shariaCompliant": false
 }

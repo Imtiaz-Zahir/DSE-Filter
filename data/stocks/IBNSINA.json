@@ -8,15 +8,16 @@
   "overview": {
     "#": 163,
     "TRADING CODE": "IBNSINA",
-    "LTP": 314.5,
-    "HIGH": 316,
-    "LOW": 312.3,
-    "CLOSEP": 314.8,
-    "YCP": 312.3,
-    "CHANGE": 2.2,
-    "TRADE": 89,
-    "VALUE (mn)": 1.822,
-    "VOLUME": 5805
+    "tradingCode": "IBNSINA",
+    "LTP": 313.4,
+    "HIGH": 315.5,
+    "LOW": 313.2,
+    "CLOSEP": 313.4,
+    "YCP": 312.9,
+    "CHANGE": 0.5,
+    "TRADE": 56,
+    "VALUE (mn)": 0.684,
+    "VOLUME": 2181
   },
   "marketInformation": {
     "lastTradingPrice": 313.4,
@@ -373,6 +374,6 @@
     "cellNo": "01713 094075",
     "telephoneNo": "+8802-41022150-58, 41022174"
   },
-  "scrapedAt": "2026-09-11T06:59:52.879Z",
+  "scrapedAt": "2026-09-12T19:43:46.323Z",
   "shariaCompliant": true
 }

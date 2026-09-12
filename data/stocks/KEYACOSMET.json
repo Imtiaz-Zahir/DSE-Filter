@@ -8,15 +8,16 @@
   "overview": {
     "#": 198,
     "TRADING CODE": "KEYACOSMET",
-    "LTP": 5.2,
-    "HIGH": 5.4,
-    "LOW": 5.1,
-    "CLOSEP": 5.2,
-    "YCP": 5.3,
-    "CHANGE": -0.1,
-    "TRADE": 336,
-    "VALUE (mn)": 5.191,
-    "VOLUME": 999568
+    "tradingCode": "KEYACOSMET",
+    "LTP": 5.1,
+    "HIGH": 5.2,
+    "LOW": 5,
+    "CLOSEP": 5,
+    "YCP": 5,
+    "CHANGE": 0.1,
+    "TRADE": 152,
+    "VALUE (mn)": 5.683,
+    "VOLUME": 1118034
   },
   "marketInformation": {
     "lastTradingPrice": 5.1,
@@ -370,6 +371,6 @@
     "cellNo": "01712675421",
     "telephoneNo": "02-9297147"
   },
-  "scrapedAt": "2026-09-11T06:59:58.879Z",
+  "scrapedAt": "2026-09-12T19:43:59.765Z",
   "shariaCompliant": false
 }

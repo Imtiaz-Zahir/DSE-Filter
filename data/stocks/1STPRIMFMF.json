@@ -8,15 +8,16 @@
   "overview": {
     "#": 2,
     "TRADING CODE": "1STPRIMFMF",
-    "LTP": 21.7,
-    "HIGH": 22.1,
-    "LOW": 21.6,
-    "CLOSEP": 21.7,
-    "YCP": 21.9,
-    "CHANGE": -0.2,
-    "TRADE": 224,
-    "VALUE (mn)": 3.313,
-    "VOLUME": 152200
+    "tradingCode": "1STPRIMFMF",
+    "LTP": 22.1,
+    "HIGH": 22.5,
+    "LOW": 22,
+    "CLOSEP": 22.1,
+    "YCP": 21.7,
+    "CHANGE": 0.4,
+    "TRADE": 465,
+    "VALUE (mn)": 9.159,
+    "VOLUME": 411765
   },
   "marketInformation": {
     "lastTradingPrice": 22.1,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:33.177Z",
+  "scrapedAt": "2026-09-12T19:42:45.868Z",
   "shariaCompliant": false
 }

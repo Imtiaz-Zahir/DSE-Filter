@@ -8,15 +8,16 @@
   "overview": {
     "#": 349,
     "TRADING CODE": "SONALIPAPR",
-    "LTP": 231.1,
-    "HIGH": 233.4,
-    "LOW": 230.6,
-    "CLOSEP": 231.1,
-    "YCP": 231.1,
-    "CHANGE": 0,
-    "TRADE": 599,
-    "VALUE (mn)": 13.781,
-    "VOLUME": 59394
+    "tradingCode": "SONALIPAPR",
+    "LTP": 219.7,
+    "HIGH": 223,
+    "LOW": 218.8,
+    "CLOSEP": 219.7,
+    "YCP": 220.9,
+    "CHANGE": -1.2,
+    "TRADE": 332,
+    "VALUE (mn)": 6.019,
+    "VOLUME": 27257
   },
   "marketInformation": {
     "lastTradingPrice": 219.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01678 012 173",
     "telephoneNo": "+880258610056-59"
   },
-  "scrapedAt": "2026-09-11T07:00:19.506Z",
+  "scrapedAt": "2026-09-12T19:44:53.113Z",
   "shariaCompliant": true
 }

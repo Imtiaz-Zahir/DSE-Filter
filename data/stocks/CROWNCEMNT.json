@@ -8,15 +8,16 @@
   "overview": {
     "#": 89,
     "TRADING CODE": "CROWNCEMNT",
-    "LTP": 62.5,
-    "HIGH": 64.9,
-    "LOW": 62.3,
-    "CLOSEP": 62.6,
-    "YCP": 62.1,
-    "CHANGE": 0.4,
-    "TRADE": 47,
-    "VALUE (mn)": 0.11,
-    "VOLUME": 1750
+    "tradingCode": "CROWNCEMNT",
+    "LTP": 59.6,
+    "HIGH": 62,
+    "LOW": 59.4,
+    "CLOSEP": 59.7,
+    "YCP": 59.4,
+    "CHANGE": 0.2,
+    "TRADE": 61,
+    "VALUE (mn)": 0.589,
+    "VOLUME": 9855
   },
   "marketInformation": {
     "lastTradingPrice": 59.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 709 003",
     "telephoneNo": "02-222263631, 02-222261633, 02-222262634, 02-222284636, 02-222290641 Ext.- 120"
   },
-  "scrapedAt": "2026-09-11T06:59:44.074Z",
+  "scrapedAt": "2026-09-12T19:43:21.872Z",
   "shariaCompliant": false
 }

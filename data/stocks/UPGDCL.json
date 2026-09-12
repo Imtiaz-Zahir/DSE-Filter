@@ -8,15 +8,16 @@
   "overview": {
     "#": 382,
     "TRADING CODE": "UPGDCL",
-    "LTP": 113,
-    "HIGH": 116,
-    "LOW": 112.7,
-    "CLOSEP": 113,
-    "YCP": 115.1,
-    "CHANGE": -2.1,
-    "TRADE": 1570,
-    "VALUE (mn)": 17.438,
-    "VOLUME": 153535
+    "tradingCode": "UPGDCL",
+    "LTP": 112.5,
+    "HIGH": 114,
+    "LOW": 111.5,
+    "CLOSEP": 111.7,
+    "YCP": 112.6,
+    "CHANGE": -0.1,
+    "TRADE": 303,
+    "VALUE (mn)": 2.732,
+    "VOLUME": 24404
   },
   "marketInformation": {
     "lastTradingPrice": 112.5,
@@ -373,6 +374,6 @@
     "cellNo": "01951155051",
     "telephoneNo": "+88 09666 700900, Ext-3065"
   },
-  "scrapedAt": "2026-09-11T07:00:24.317Z",
+  "scrapedAt": "2026-09-12T19:45:03.787Z",
   "shariaCompliant": false
 }

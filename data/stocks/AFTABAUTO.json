@@ -8,15 +8,16 @@
   "overview": {
     "#": 16,
     "TRADING CODE": "AFTABAUTO",
-    "LTP": 27.8,
-    "HIGH": 28.6,
-    "LOW": 27.7,
-    "CLOSEP": 27.8,
-    "YCP": 28.2,
-    "CHANGE": -0.4,
-    "TRADE": 210,
-    "VALUE (mn)": 2.017,
-    "VOLUME": 72142
+    "tradingCode": "AFTABAUTO",
+    "LTP": 26.7,
+    "HIGH": 26.9,
+    "LOW": 26.5,
+    "CLOSEP": 26.7,
+    "YCP": 26.5,
+    "CHANGE": 0.2,
+    "TRADE": 85,
+    "VALUE (mn)": 0.487,
+    "VOLUME": 18245
   },
   "marketInformation": {
     "lastTradingPrice": 26.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 245 382",
     "telephoneNo": "+880 2223381812"
   },
-  "scrapedAt": "2026-09-11T06:59:35.846Z",
+  "scrapedAt": "2026-09-12T19:42:51.584Z",
   "shariaCompliant": false
 }

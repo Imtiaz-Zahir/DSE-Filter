@@ -8,15 +8,16 @@
   "overview": {
     "#": 33,
     "TRADING CODE": "APEXSPINN",
-    "LTP": 296.5,
-    "HIGH": 323,
-    "LOW": 294.4,
-    "CLOSEP": 296.5,
-    "YCP": 322.6,
-    "CHANGE": -26.1,
-    "TRADE": 1567,
-    "VALUE (mn)": 26.696,
-    "VOLUME": 87921
+    "tradingCode": "APEXSPINN",
+    "LTP": 281.9,
+    "HIGH": 297,
+    "LOW": 277.9,
+    "CLOSEP": 281.9,
+    "YCP": 277.9,
+    "CHANGE": 4,
+    "TRADE": 630,
+    "VALUE (mn)": 10.444,
+    "VOLUME": 36549
   },
   "marketInformation": {
     "lastTradingPrice": 281.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01819 542 647",
     "telephoneNo": "09606669988 Ext-153"
   },
-  "scrapedAt": "2026-09-11T06:59:36.861Z",
+  "scrapedAt": "2026-09-12T19:42:58.950Z",
   "shariaCompliant": true
 }

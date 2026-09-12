@@ -8,15 +8,16 @@
   "overview": {
     "#": 205,
     "TRADING CODE": "LHB",
-    "LTP": 53.8,
-    "HIGH": 54.2,
-    "LOW": 52.7,
-    "CLOSEP": 53.8,
-    "YCP": 52.5,
-    "CHANGE": 1.3,
-    "TRADE": 1095,
-    "VALUE (mn)": 55.542,
-    "VOLUME": 1041498
+    "tradingCode": "LHB",
+    "LTP": 51.1,
+    "HIGH": 52,
+    "LOW": 51,
+    "CLOSEP": 51.1,
+    "YCP": 51.6,
+    "CHANGE": -0.5,
+    "TRADE": 1286,
+    "VALUE (mn)": 32.939,
+    "VOLUME": 642445
   },
   "marketInformation": {
     "lastTradingPrice": 51.1,
@@ -373,6 +374,6 @@
     "cellNo": "+8801313779359",
     "telephoneNo": "+880 2226601351-52, Ext. 103"
   },
-  "scrapedAt": "2026-09-11T07:00:00.327Z",
+  "scrapedAt": "2026-09-12T19:44:00.553Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 270,
     "TRADING CODE": "PF1STMF",
-    "LTP": 14.8,
-    "HIGH": 14.9,
-    "LOW": 14.4,
-    "CLOSEP": 14.8,
-    "YCP": 14.4,
-    "CHANGE": 0.4,
-    "TRADE": 604,
-    "VALUE (mn)": 24.873,
-    "VOLUME": 1697506
+    "tradingCode": "PF1STMF",
+    "LTP": 17.8,
+    "HIGH": 17.9,
+    "LOW": 16.5,
+    "CLOSEP": 17.8,
+    "YCP": 16.3,
+    "CHANGE": 1.5,
+    "TRADE": 1317,
+    "VALUE (mn)": 66.047,
+    "VOLUME": 3829852
   },
   "marketInformation": {
     "lastTradingPrice": 17.8,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712 117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T07:00:06.888Z",
+  "scrapedAt": "2026-09-12T19:44:22.845Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 122,
     "TRADING CODE": "ESQUIRENIT",
-    "LTP": 26.1,
-    "HIGH": 26.8,
-    "LOW": 26,
-    "CLOSEP": 26.1,
-    "YCP": 26.7,
-    "CHANGE": -0.6,
-    "TRADE": 263,
-    "VALUE (mn)": 7.612,
-    "VOLUME": 289976
+    "tradingCode": "ESQUIRENIT",
+    "LTP": 24.1,
+    "HIGH": 24.7,
+    "LOW": 24,
+    "CLOSEP": 24.1,
+    "YCP": 24.4,
+    "CHANGE": -0.3,
+    "TRADE": 142,
+    "VALUE (mn)": 1.667,
+    "VOLUME": 68865
   },
   "marketInformation": {
     "lastTradingPrice": 24.1,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01713 333 040",
     "telephoneNo": "+8809612443322 Ext. 788"
   },
-  "scrapedAt": "2026-09-11T06:59:49.846Z",
+  "scrapedAt": "2026-09-12T19:43:30.356Z",
   "shariaCompliant": true
 }

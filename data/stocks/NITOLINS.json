@@ -8,15 +8,16 @@
   "overview": {
     "#": 249,
     "TRADING CODE": "NITOLINS",
-    "LTP": 52.6,
-    "HIGH": 53.3,
-    "LOW": 52.1,
-    "CLOSEP": 52.6,
-    "YCP": 52.1,
-    "CHANGE": 0.5,
-    "TRADE": 1702,
-    "VALUE (mn)": 65.641,
-    "VOLUME": 1247577
+    "tradingCode": "NITOLINS",
+    "LTP": 56.8,
+    "HIGH": 57,
+    "LOW": 54.6,
+    "CLOSEP": 56.8,
+    "YCP": 55,
+    "CHANGE": 1.8,
+    "TRADE": 2175,
+    "VALUE (mn)": 111.96,
+    "VOLUME": 1997638
   },
   "marketInformation": {
     "lastTradingPrice": 56.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 142 754",
     "telephoneNo": "02-55045202-05, (Ext-107)"
   },
-  "scrapedAt": "2026-09-11T07:00:05.041Z",
+  "scrapedAt": "2026-09-12T19:44:15.505Z",
   "shariaCompliant": false
 }

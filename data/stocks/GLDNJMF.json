@@ -8,15 +8,16 @@
   "overview": {
     "#": 147,
     "TRADING CODE": "GLDNJMF",
-    "LTP": 8.2,
-    "HIGH": 8.5,
-    "LOW": 8.1,
-    "CLOSEP": 8.2,
-    "YCP": 8.3,
-    "CHANGE": -0.1,
-    "TRADE": 187,
-    "VALUE (mn)": 4.356,
-    "VOLUME": 527650
+    "tradingCode": "GLDNJMF",
+    "LTP": 8.8,
+    "HIGH": 8.8,
+    "LOW": 8.2,
+    "CLOSEP": 8.7,
+    "YCP": 8.2,
+    "CHANGE": 0.6,
+    "TRADE": 480,
+    "VALUE (mn)": 15.183,
+    "VOLUME": 1786911
   },
   "marketInformation": {
     "lastTradingPrice": 8.8,
@@ -346,6 +347,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:51.378Z",
+  "scrapedAt": "2026-09-12T19:43:38.815Z",
   "shariaCompliant": false
 }

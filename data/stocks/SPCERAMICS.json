@@ -8,15 +8,16 @@
   "overview": {
     "#": 353,
     "TRADING CODE": "SPCERAMICS",
-    "LTP": 20.7,
-    "HIGH": 21.1,
-    "LOW": 19.6,
-    "CLOSEP": 20.7,
-    "YCP": 19.7,
-    "CHANGE": 1,
-    "TRADE": 812,
-    "VALUE (mn)": 16.208,
-    "VOLUME": 794186
+    "tradingCode": "SPCERAMICS",
+    "LTP": 21,
+    "HIGH": 21.4,
+    "LOW": 20.9,
+    "CLOSEP": 21,
+    "YCP": 21,
+    "CHANGE": 0,
+    "TRADE": 425,
+    "VALUE (mn)": 8.244,
+    "VOLUME": 390219
   },
   "marketInformation": {
     "lastTradingPrice": 21,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611891-5, 58612040-7 Ext.-10140"
   },
-  "scrapedAt": "2026-09-11T07:00:18.665Z",
+  "scrapedAt": "2026-09-12T19:44:55.278Z",
   "shariaCompliant": true
 }

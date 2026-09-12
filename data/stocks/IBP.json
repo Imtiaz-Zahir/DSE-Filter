@@ -8,15 +8,16 @@
   "overview": {
     "#": 164,
     "TRADING CODE": "IBP",
-    "LTP": 17.5,
-    "HIGH": 18.4,
-    "LOW": 17.3,
-    "CLOSEP": 17.5,
-    "YCP": 18,
-    "CHANGE": -0.5,
-    "TRADE": 807,
-    "VALUE (mn)": 27.515,
-    "VOLUME": 1546617
+    "tradingCode": "IBP",
+    "LTP": 15.8,
+    "HIGH": 16.3,
+    "LOW": 15.6,
+    "CLOSEP": 15.8,
+    "YCP": 16,
+    "CHANGE": -0.2,
+    "TRADE": 488,
+    "VALUE (mn)": 13.673,
+    "VOLUME": 856316
   },
   "marketInformation": {
     "lastTradingPrice": 15.8,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01777 685 176",
     "telephoneNo": "9678777995"
   },
-  "scrapedAt": "2026-09-11T06:59:52.972Z",
+  "scrapedAt": "2026-09-12T19:43:46.165Z",
   "shariaCompliant": true
 }

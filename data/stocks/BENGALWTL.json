@@ -8,15 +8,16 @@
   "overview": {
     "#": 62,
     "TRADING CODE": "BENGALWTL",
-    "LTP": 23.3,
-    "HIGH": 24.2,
-    "LOW": 23.1,
-    "CLOSEP": 23.3,
-    "YCP": 23.9,
+    "tradingCode": "BENGALWTL",
+    "LTP": 21.8,
+    "HIGH": 22.7,
+    "LOW": 21.6,
+    "CLOSEP": 21.8,
+    "YCP": 22.4,
     "CHANGE": -0.6,
-    "TRADE": 476,
-    "VALUE (mn)": 12.808,
-    "VOLUME": 541046
+    "TRADE": 236,
+    "VALUE (mn)": 2.825,
+    "VOLUME": 128331
   },
   "marketInformation": {
     "lastTradingPrice": 21.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01971 044 199",
     "telephoneNo": "+8802 2222 88248-49, Ext-1034"
   },
-  "scrapedAt": "2026-09-11T06:59:42.517Z",
+  "scrapedAt": "2026-09-12T19:43:11.148Z",
   "shariaCompliant": true
 }

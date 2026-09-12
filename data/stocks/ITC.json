@@ -8,15 +8,16 @@
   "overview": {
     "#": 187,
     "TRADING CODE": "ITC",
-    "LTP": 47.2,
-    "HIGH": 47.9,
-    "LOW": 47,
-    "CLOSEP": 47.2,
-    "YCP": 47,
-    "CHANGE": 0.2,
-    "TRADE": 932,
-    "VALUE (mn)": 58.725,
-    "VOLUME": 1237869
+    "tradingCode": "ITC",
+    "LTP": 45.5,
+    "HIGH": 46.2,
+    "LOW": 45.3,
+    "CLOSEP": 45.5,
+    "YCP": 45.7,
+    "CHANGE": -0.2,
+    "TRADE": 432,
+    "VALUE (mn)": 15.821,
+    "VOLUME": 346214
   },
   "marketInformation": {
     "lastTradingPrice": 45.5,
@@ -373,6 +374,6 @@
     "cellNo": "01730-799989",
     "telephoneNo": "+88 02-9830310-13"
   },
-  "scrapedAt": "2026-09-11T06:59:56.708Z",
+  "scrapedAt": "2026-09-12T19:43:54.687Z",
   "shariaCompliant": true
 }

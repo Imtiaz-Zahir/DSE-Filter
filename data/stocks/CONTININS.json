@@ -8,15 +8,16 @@
   "overview": {
     "#": 87,
     "TRADING CODE": "CONTININS",
-    "LTP": 36.3,
-    "HIGH": 36.8,
-    "LOW": 36,
-    "CLOSEP": 36.3,
-    "YCP": 35.8,
-    "CHANGE": 0.5,
-    "TRADE": 785,
-    "VALUE (mn)": 30.426,
-    "VOLUME": 835054
+    "tradingCode": "CONTININS",
+    "LTP": 33.6,
+    "HIGH": 34.7,
+    "LOW": 33.5,
+    "CLOSEP": 33.6,
+    "YCP": 34.1,
+    "CHANGE": -0.5,
+    "TRADE": 412,
+    "VALUE (mn)": 10.946,
+    "VOLUME": 323030
   },
   "marketInformation": {
     "lastTradingPrice": 33.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 370 149",
     "telephoneNo": "02-58817491-6"
   },
-  "scrapedAt": "2026-09-11T06:59:44.296Z",
+  "scrapedAt": "2026-09-12T19:43:21.250Z",
   "shariaCompliant": false
 }

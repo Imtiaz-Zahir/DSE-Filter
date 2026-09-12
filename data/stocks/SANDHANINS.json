@@ -8,15 +8,16 @@
   "overview": {
     "#": 325,
     "TRADING CODE": "SANDHANINS",
-    "LTP": 25.7,
-    "HIGH": 26.3,
-    "LOW": 25.4,
-    "CLOSEP": 25.7,
-    "YCP": 25.3,
-    "CHANGE": 0.4,
-    "TRADE": 638,
-    "VALUE (mn)": 13.02,
-    "VOLUME": 502662
+    "tradingCode": "SANDHANINS",
+    "LTP": 24.5,
+    "HIGH": 25,
+    "LOW": 24.4,
+    "CLOSEP": 24.5,
+    "YCP": 24.7,
+    "CHANGE": -0.2,
+    "TRADE": 232,
+    "VALUE (mn)": 4.416,
+    "VOLUME": 179037
   },
   "marketInformation": {
     "lastTradingPrice": 24.5,
@@ -373,6 +374,6 @@
     "cellNo": "01817030900",
     "telephoneNo": "02-55168181-5, 9611197, 9664931, 9661241"
   },
-  "scrapedAt": "2026-09-11T07:00:14.749Z",
+  "scrapedAt": "2026-09-12T19:44:45.476Z",
   "shariaCompliant": false
 }

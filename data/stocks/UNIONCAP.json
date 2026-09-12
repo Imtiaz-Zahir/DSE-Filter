@@ -8,15 +8,16 @@
   "overview": {
     "#": 377,
     "TRADING CODE": "UNIONCAP",
-    "LTP": 4.6,
-    "HIGH": 4.7,
-    "LOW": 4.4,
-    "CLOSEP": 4.4,
-    "YCP": 4.6,
-    "CHANGE": 0,
-    "TRADE": 52,
-    "VALUE (mn)": 0.725,
-    "VOLUME": 162188
+    "tradingCode": "UNIONCAP",
+    "LTP": 4.4,
+    "HIGH": 4.4,
+    "LOW": 4.2,
+    "CLOSEP": 4.3,
+    "YCP": 4.3,
+    "CHANGE": 0.1,
+    "TRADE": 31,
+    "VALUE (mn)": 0.24,
+    "VOLUME": 55740
   },
   "marketInformation": {
     "lastTradingPrice": 4.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01988899821",
     "telephoneNo": "+880(2)226601505-10"
   },
-  "scrapedAt": "2026-09-11T07:00:23.240Z",
+  "scrapedAt": "2026-09-12T19:45:02.822Z",
   "shariaCompliant": false
 }

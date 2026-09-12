@@ -8,15 +8,16 @@
   "overview": {
     "#": 150,
     "TRADING CODE": "GP",
-    "LTP": 244.5,
-    "HIGH": 245.4,
-    "LOW": 244,
-    "CLOSEP": 244.1,
-    "YCP": 244.5,
-    "CHANGE": 0,
-    "TRADE": 639,
-    "VALUE (mn)": 10.542,
-    "VOLUME": 43152
+    "tradingCode": "GP",
+    "LTP": 239.1,
+    "HIGH": 243,
+    "LOW": 238.2,
+    "CLOSEP": 239.1,
+    "YCP": 241.8,
+    "CHANGE": -2.7,
+    "TRADE": 2802,
+    "VALUE (mn)": 40.394,
+    "VOLUME": 168654
   },
   "marketInformation": {
     "lastTradingPrice": 239.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 118 191",
     "telephoneNo": "0202222282990"
   },
-  "scrapedAt": "2026-09-11T06:59:51.076Z",
+  "scrapedAt": "2026-09-12T19:43:38.738Z",
   "shariaCompliant": true
 }

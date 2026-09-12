@@ -8,15 +8,16 @@
   "overview": {
     "#": 157,
     "TRADING CODE": "HAKKANIPUL",
-    "LTP": 74.7,
-    "HIGH": 76,
-    "LOW": 74.6,
-    "CLOSEP": 74.7,
-    "YCP": 74.7,
-    "CHANGE": 0,
-    "TRADE": 559,
-    "VALUE (mn)": 10.474,
-    "VOLUME": 139421
+    "tradingCode": "HAKKANIPUL",
+    "LTP": 69.6,
+    "HIGH": 71,
+    "LOW": 69.3,
+    "CLOSEP": 69.6,
+    "YCP": 69.9,
+    "CHANGE": -0.3,
+    "TRADE": 299,
+    "VALUE (mn)": 4.029,
+    "VOLUME": 57534
   },
   "marketInformation": {
     "lastTradingPrice": 69.6,
@@ -373,6 +374,6 @@
     "cellNo": "01714-087510",
     "telephoneNo": "02-333381464, EXT-126,"
   },
-  "scrapedAt": "2026-09-11T06:59:52.811Z",
+  "scrapedAt": "2026-09-12T19:43:44.803Z",
   "shariaCompliant": true
 }

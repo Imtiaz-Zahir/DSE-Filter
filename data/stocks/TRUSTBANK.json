@@ -8,15 +8,16 @@
   "overview": {
     "#": 372,
     "TRADING CODE": "TRUSTBANK",
-    "LTP": 14.7,
-    "HIGH": 14.9,
-    "LOW": 14.7,
-    "CLOSEP": 14.7,
-    "YCP": 14.8,
-    "CHANGE": -0.1,
-    "TRADE": 402,
-    "VALUE (mn)": 8.98,
-    "VOLUME": 608573
+    "tradingCode": "TRUSTBANK",
+    "LTP": 14.6,
+    "HIGH": 14.7,
+    "LOW": 14.5,
+    "CLOSEP": 14.6,
+    "YCP": 14.6,
+    "CHANGE": 0,
+    "TRADE": 426,
+    "VALUE (mn)": 66.701,
+    "VOLUME": 4569450
   },
   "marketInformation": {
     "lastTradingPrice": 14.6,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01755 636 234 (Share Dept.)",
     "telephoneNo": "44870030-2 (Ext-2010)"
   },
-  "scrapedAt": "2026-09-11T07:00:22.600Z",
+  "scrapedAt": "2026-09-12T19:45:00.616Z",
   "shariaCompliant": false
 }

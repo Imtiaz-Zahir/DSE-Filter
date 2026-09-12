@@ -8,15 +8,16 @@
   "overview": {
     "#": 288,
     "TRADING CODE": "PRIMEINSUR",
-    "LTP": 55,
-    "HIGH": 56.4,
-    "LOW": 54.5,
-    "CLOSEP": 55,
-    "YCP": 54.5,
-    "CHANGE": 0.5,
-    "TRADE": 845,
-    "VALUE (mn)": 23.496,
-    "VOLUME": 423285
+    "tradingCode": "PRIMEINSUR",
+    "LTP": 50.9,
+    "HIGH": 52.5,
+    "LOW": 50.5,
+    "CLOSEP": 50.9,
+    "YCP": 51.1,
+    "CHANGE": -0.2,
+    "TRADE": 368,
+    "VALUE (mn)": 10.017,
+    "VOLUME": 194186
   },
   "marketInformation": {
     "lastTradingPrice": 50.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01716 016 561",
     "telephoneNo": "09644448888 & Ex-110"
   },
-  "scrapedAt": "2026-09-11T07:00:10.666Z",
+  "scrapedAt": "2026-09-12T19:44:31.817Z",
   "shariaCompliant": false
 }

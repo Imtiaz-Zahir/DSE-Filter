@@ -8,15 +8,16 @@
   "overview": {
     "#": 320,
     "TRADING CODE": "SAIHAMTEX",
-    "LTP": 34.4,
-    "HIGH": 38,
-    "LOW": 34.4,
-    "CLOSEP": 34.4,
-    "YCP": 38.2,
-    "CHANGE": -3.8,
-    "TRADE": 3582,
-    "VALUE (mn)": 307.385,
-    "VOLUME": 8681943
+    "tradingCode": "SAIHAMTEX",
+    "LTP": 32.3,
+    "HIGH": 33.1,
+    "LOW": 31.6,
+    "CLOSEP": 32.3,
+    "YCP": 31.5,
+    "CHANGE": 0.8,
+    "TRADE": 2370,
+    "VALUE (mn)": 137.108,
+    "VOLUME": 4245999
   },
   "marketInformation": {
     "lastTradingPrice": 32.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01916 754 255",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-11T07:00:14.624Z",
+  "scrapedAt": "2026-09-12T19:44:44.084Z",
   "shariaCompliant": false
 }

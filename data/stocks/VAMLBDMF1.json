@@ -8,6 +8,7 @@
   "overview": {
     "#": 386,
     "TRADING CODE": "VAMLBDMF1",
+    "tradingCode": "VAMLBDMF1",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01841 082 262",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:23.140Z",
+  "scrapedAt": "2026-09-12T19:45:06.996Z",
   "shariaCompliant": false
 }

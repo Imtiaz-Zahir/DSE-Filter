@@ -8,15 +8,16 @@
   "overview": {
     "#": 313,
     "TRADING CODE": "RUNNERAUTO",
-    "LTP": 47,
-    "HIGH": 48.6,
-    "LOW": 46.8,
-    "CLOSEP": 47,
-    "YCP": 48.4,
-    "CHANGE": -1.4,
-    "TRADE": 1528,
-    "VALUE (mn)": 53.782,
-    "VOLUME": 1128978
+    "tradingCode": "RUNNERAUTO",
+    "LTP": 44.6,
+    "HIGH": 45.1,
+    "LOW": 44.1,
+    "CLOSEP": 44.6,
+    "YCP": 44.9,
+    "CHANGE": -0.3,
+    "TRADE": 871,
+    "VALUE (mn)": 21.675,
+    "VOLUME": 486356
   },
   "marketInformation": {
     "lastTradingPrice": 44.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 405 010",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:12.703Z",
+  "scrapedAt": "2026-09-12T19:44:41.796Z",
   "shariaCompliant": false
 }

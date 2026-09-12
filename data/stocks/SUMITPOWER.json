@@ -8,15 +8,16 @@
   "overview": {
     "#": 362,
     "TRADING CODE": "SUMITPOWER",
-    "LTP": 15.7,
-    "HIGH": 15.9,
-    "LOW": 15.6,
-    "CLOSEP": 15.7,
-    "YCP": 15.7,
+    "tradingCode": "SUMITPOWER",
+    "LTP": 15.4,
+    "HIGH": 15.7,
+    "LOW": 15.2,
+    "CLOSEP": 15.4,
+    "YCP": 15.4,
     "CHANGE": 0,
-    "TRADE": 363,
-    "VALUE (mn)": 6.968,
-    "VOLUME": 443134
+    "TRADE": 246,
+    "VALUE (mn)": 4.794,
+    "VOLUME": 311969
   },
   "marketInformation": {
     "lastTradingPrice": 15.4,
@@ -373,6 +374,6 @@
     "cellNo": "01730808181",
     "telephoneNo": "+8802-55012255-59"
   },
-  "scrapedAt": "2026-09-11T07:00:22.578Z",
+  "scrapedAt": "2026-09-12T19:44:57.747Z",
   "shariaCompliant": true
 }

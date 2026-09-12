@@ -8,6 +8,7 @@
   "overview": {
     "#": 178,
     "TRADING CODE": "ILFSL",
+    "tradingCode": "ILFSL",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01742381222",
     "telephoneNo": "+880-2-222223841 (106)"
   },
-  "scrapedAt": "2026-09-11T06:59:55.679Z",
+  "scrapedAt": "2026-09-12T19:43:52.418Z",
   "shariaCompliant": false
 }

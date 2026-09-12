@@ -8,15 +8,16 @@
   "overview": {
     "#": 241,
     "TRADING CODE": "NAVANACNG",
-    "LTP": 21,
-    "HIGH": 21.7,
-    "LOW": 20.9,
-    "CLOSEP": 21.1,
-    "YCP": 21.1,
+    "tradingCode": "NAVANACNG",
+    "LTP": 20.4,
+    "HIGH": 20.9,
+    "LOW": 20.1,
+    "CLOSEP": 20.2,
+    "YCP": 20.5,
     "CHANGE": -0.1,
-    "TRADE": 24,
-    "VALUE (mn)": 0.128,
-    "VOLUME": 6050
+    "TRADE": 68,
+    "VALUE (mn)": 0.545,
+    "VOLUME": 26960
   },
   "marketInformation": {
     "lastTradingPrice": 20.4,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01811 448 104",
     "telephoneNo": "02223381812"
   },
-  "scrapedAt": "2026-09-11T07:00:05.961Z",
+  "scrapedAt": "2026-09-12T19:44:14.572Z",
   "shariaCompliant": true
 }

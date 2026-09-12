@@ -8,15 +8,16 @@
   "overview": {
     "#": 19,
     "TRADING CODE": "AIBL1STIMF",
-    "LTP": 5.6,
-    "HIGH": 6,
-    "LOW": 5.5,
-    "CLOSEP": 5.6,
-    "YCP": 5.7,
-    "CHANGE": -0.1,
-    "TRADE": 411,
-    "VALUE (mn)": 14.406,
-    "VOLUME": 2535783
+    "tradingCode": "AIBL1STIMF",
+    "LTP": 6.1,
+    "HIGH": 6.2,
+    "LOW": 5.8,
+    "CLOSEP": 6.1,
+    "YCP": 5.8,
+    "CHANGE": 0.3,
+    "TRADE": 654,
+    "VALUE (mn)": 28.091,
+    "VOLUME": 4643515
   },
   "marketInformation": {
     "lastTradingPrice": 6.1,
@@ -370,6 +371,6 @@
     "cellNo": "N/A",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-11T06:59:36.150Z",
+  "scrapedAt": "2026-09-12T19:42:51.393Z",
   "shariaCompliant": false
 }

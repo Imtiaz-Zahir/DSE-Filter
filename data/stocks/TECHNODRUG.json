@@ -8,15 +8,16 @@
   "overview": {
     "#": 367,
     "TRADING CODE": "TECHNODRUG",
-    "LTP": 44.5,
-    "HIGH": 45.3,
-    "LOW": 43.1,
-    "CLOSEP": 44.5,
-    "YCP": 42.9,
-    "CHANGE": 1.6,
-    "TRADE": 2696,
-    "VALUE (mn)": 117.447,
-    "VOLUME": 2636675
+    "tradingCode": "TECHNODRUG",
+    "LTP": 41.7,
+    "HIGH": 43,
+    "LOW": 41.4,
+    "CLOSEP": 41.7,
+    "YCP": 42.4,
+    "CHANGE": -0.7,
+    "TRADE": 1040,
+    "VALUE (mn)": 30.08,
+    "VOLUME": 715198
   },
   "marketInformation": {
     "lastTradingPrice": 41.7,
@@ -321,6 +322,6 @@
     "cellNo": "01313011301",
     "telephoneNo": "+880258316038"
   },
-  "scrapedAt": "2026-09-11T07:00:20.779Z",
+  "scrapedAt": "2026-09-12T19:44:59.565Z",
   "shariaCompliant": false
 }

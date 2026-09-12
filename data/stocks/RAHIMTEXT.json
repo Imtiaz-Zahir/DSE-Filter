@@ -8,15 +8,16 @@
   "overview": {
     "#": 299,
     "TRADING CODE": "RAHIMTEXT",
-    "LTP": 198.4,
-    "HIGH": 206.9,
-    "LOW": 197,
-    "CLOSEP": 198.4,
-    "YCP": 200.2,
-    "CHANGE": -1.8,
-    "TRADE": 104,
-    "VALUE (mn)": 1.32,
-    "VOLUME": 6622
+    "tradingCode": "RAHIMTEXT",
+    "LTP": 182.7,
+    "HIGH": 187.9,
+    "LOW": 181,
+    "CLOSEP": 182.7,
+    "YCP": 183.1,
+    "CHANGE": -0.4,
+    "TRADE": 145,
+    "VALUE (mn)": 1.27,
+    "VOLUME": 6864
   },
   "marketInformation": {
     "lastTradingPrice": 182.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01709 998 863",
     "telephoneNo": "+8809612111177-92 Ext.-185, +880-2-8878062, +880-2-8878065"
   },
-  "scrapedAt": "2026-09-11T07:00:12.322Z",
+  "scrapedAt": "2026-09-12T19:44:36.391Z",
   "shariaCompliant": false
 }

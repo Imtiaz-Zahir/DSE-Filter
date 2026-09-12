@@ -8,15 +8,16 @@
   "overview": {
     "#": 8,
     "TRADING CODE": "ACI",
-    "LTP": 189.7,
-    "HIGH": 190.7,
-    "LOW": 189,
-    "CLOSEP": 189.9,
-    "YCP": 189.3,
-    "CHANGE": 0.4,
-    "TRADE": 170,
-    "VALUE (mn)": 1.645,
-    "VOLUME": 8670
+    "tradingCode": "ACI",
+    "LTP": 186.7,
+    "HIGH": 188.8,
+    "LOW": 186.2,
+    "CLOSEP": 186.7,
+    "YCP": 186.2,
+    "CHANGE": 0.5,
+    "TRADE": 105,
+    "VALUE (mn)": 0.592,
+    "VOLUME": 3165
   },
   "marketInformation": {
     "lastTradingPrice": 186.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01708467600",
     "telephoneNo": "02226605101"
   },
-  "scrapedAt": "2026-09-11T06:59:33.077Z",
+  "scrapedAt": "2026-09-12T19:42:48.622Z",
   "shariaCompliant": false
 }

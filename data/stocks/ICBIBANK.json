@@ -8,15 +8,16 @@
   "overview": {
     "#": 170,
     "TRADING CODE": "ICBIBANK",
-    "LTP": 2.6,
+    "tradingCode": "ICBIBANK",
+    "LTP": 2.7,
     "HIGH": 2.7,
     "LOW": 2.6,
-    "CLOSEP": 2.6,
+    "CLOSEP": 2.7,
     "YCP": 2.6,
-    "CHANGE": 0,
-    "TRADE": 25,
-    "VALUE (mn)": 0.051,
-    "VOLUME": 19732
+    "CHANGE": 0.1,
+    "TRADE": 31,
+    "VALUE (mn)": 0.159,
+    "VOLUME": 59848
   },
   "marketInformation": {
     "lastTradingPrice": 2.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01847 090 781",
     "telephoneNo": "02 55012079"
   },
-  "scrapedAt": "2026-09-11T06:59:54.719Z",
+  "scrapedAt": "2026-09-12T19:43:47.946Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 370,
     "TRADING CODE": "TOSRIFA",
-    "LTP": 21.1,
-    "HIGH": 21.9,
-    "LOW": 21,
-    "CLOSEP": 21.1,
-    "YCP": 21.7,
-    "CHANGE": -0.6,
-    "TRADE": 209,
-    "VALUE (mn)": 3.574,
-    "VOLUME": 168287
+    "tradingCode": "TOSRIFA",
+    "LTP": 19,
+    "HIGH": 19.6,
+    "LOW": 18.9,
+    "CLOSEP": 19,
+    "YCP": 19.3,
+    "CHANGE": -0.3,
+    "TRADE": 291,
+    "VALUE (mn)": 3.59,
+    "VOLUME": 187987
   },
   "marketInformation": {
     "lastTradingPrice": 19,
@@ -373,6 +374,6 @@
     "cellNo": "+ 88 01817 036 560",
     "telephoneNo": "+88 0961 299 3388 Ext.126"
   },
-  "scrapedAt": "2026-09-11T07:00:20.807Z",
+  "scrapedAt": "2026-09-12T19:44:59.429Z",
   "shariaCompliant": false
 }

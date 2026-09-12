@@ -8,15 +8,16 @@
   "overview": {
     "#": 88,
     "TRADING CODE": "COPPERTECH",
-    "LTP": 24.7,
-    "HIGH": 25.4,
-    "LOW": 24.4,
-    "CLOSEP": 24.7,
-    "YCP": 24.8,
-    "CHANGE": -0.1,
-    "TRADE": 311,
-    "VALUE (mn)": 5.687,
-    "VOLUME": 227887
+    "tradingCode": "COPPERTECH",
+    "LTP": 22.6,
+    "HIGH": 23.4,
+    "LOW": 22.5,
+    "CLOSEP": 22.6,
+    "YCP": 23.1,
+    "CHANGE": -0.5,
+    "TRADE": 185,
+    "VALUE (mn)": 4.09,
+    "VOLUME": 179752
   },
   "marketInformation": {
     "lastTradingPrice": 22.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01917 701 642",
     "telephoneNo": "+880-2-8715809"
   },
-  "scrapedAt": "2026-09-11T06:59:44.232Z",
+  "scrapedAt": "2026-09-12T19:43:21.397Z",
   "shariaCompliant": true
 }

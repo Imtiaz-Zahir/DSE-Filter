@@ -8,15 +8,16 @@
   "overview": {
     "#": 53,
     "TRADING CODE": "BDCOM",
-    "LTP": 29.9,
-    "HIGH": 30.2,
-    "LOW": 29.3,
-    "CLOSEP": 29.9,
-    "YCP": 29.7,
-    "CHANGE": 0.2,
-    "TRADE": 490,
-    "VALUE (mn)": 11.565,
-    "VOLUME": 386422
+    "tradingCode": "BDCOM",
+    "LTP": 29.2,
+    "HIGH": 30,
+    "LOW": 29,
+    "CLOSEP": 29.2,
+    "YCP": 29.6,
+    "CHANGE": -0.4,
+    "TRADE": 387,
+    "VALUE (mn)": 9.042,
+    "VOLUME": 307650
   },
   "marketInformation": {
     "lastTradingPrice": 29.2,
@@ -373,6 +374,6 @@
     "cellNo": "+8801713339850, 01713331412, 01755521290",
     "telephoneNo": "+8809666333697"
   },
-  "scrapedAt": "2026-09-11T06:59:40.222Z",
+  "scrapedAt": "2026-09-12T19:43:07.809Z",
   "shariaCompliant": false
 }

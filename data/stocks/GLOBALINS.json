@@ -8,15 +8,16 @@
   "overview": {
     "#": 148,
     "TRADING CODE": "GLOBALINS",
-    "LTP": 46.4,
-    "HIGH": 47.8,
-    "LOW": 46,
-    "CLOSEP": 46.4,
-    "YCP": 46.8,
-    "CHANGE": -0.4,
-    "TRADE": 1045,
-    "VALUE (mn)": 40.97,
-    "VOLUME": 872353
+    "tradingCode": "GLOBALINS",
+    "LTP": 45.4,
+    "HIGH": 46.4,
+    "LOW": 45.1,
+    "CLOSEP": 45.4,
+    "YCP": 45.5,
+    "CHANGE": -0.1,
+    "TRADE": 758,
+    "VALUE (mn)": 27.323,
+    "VOLUME": 596525
   },
   "marketInformation": {
     "lastTradingPrice": 45.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 677 215",
     "telephoneNo": "223390450, 223390147, Ext: 201"
   },
-  "scrapedAt": "2026-09-11T06:59:51.864Z",
+  "scrapedAt": "2026-09-12T19:43:39.649Z",
   "shariaCompliant": false
 }

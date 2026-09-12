@@ -8,15 +8,16 @@
   "overview": {
     "#": 303,
     "TRADING CODE": "RECKITTBEN",
-    "LTP": 3287.1,
-    "HIGH": 3300.1,
-    "LOW": 3286.1,
-    "CLOSEP": 3287.1,
-    "YCP": 3300.9,
-    "CHANGE": -13.8,
-    "TRADE": 50,
-    "VALUE (mn)": 0.727,
-    "VOLUME": 221
+    "tradingCode": "RECKITTBEN",
+    "LTP": 3283.2,
+    "HIGH": 3299,
+    "LOW": 3276,
+    "CLOSEP": 3295.4,
+    "YCP": 3277.1,
+    "CHANGE": 6.1,
+    "TRADE": 38,
+    "VALUE (mn)": 0.616,
+    "VOLUME": 187
   },
   "marketInformation": {
     "lastTradingPrice": 3283.2,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01777 758 995",
     "telephoneNo": "+88-02-222290770-72"
   },
-  "scrapedAt": "2026-09-11T07:00:13.596Z",
+  "scrapedAt": "2026-09-12T19:44:40.168Z",
   "shariaCompliant": true
 }

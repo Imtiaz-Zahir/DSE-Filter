@@ -8,15 +8,16 @@
   "overview": {
     "#": 64,
     "TRADING CODE": "BESTHLDNG",
-    "LTP": 14.6,
-    "HIGH": 14.8,
-    "LOW": 14.5,
-    "CLOSEP": 14.6,
-    "YCP": 14.6,
-    "CHANGE": 0,
-    "TRADE": 118,
-    "VALUE (mn)": 1.514,
-    "VOLUME": 104162
+    "tradingCode": "BESTHLDNG",
+    "LTP": 14.8,
+    "HIGH": 15.3,
+    "LOW": 14.8,
+    "CLOSEP": 15,
+    "YCP": 15.1,
+    "CHANGE": -0.3,
+    "TRADE": 234,
+    "VALUE (mn)": 4.99,
+    "VOLUME": 329624
   },
   "marketInformation": {
     "lastTradingPrice": 14.8,
@@ -295,6 +296,6 @@
     "cellNo": "01777 774338",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:42.243Z",
+  "scrapedAt": "2026-09-12T19:43:11.259Z",
   "shariaCompliant": false
 }

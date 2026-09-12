@@ -8,15 +8,16 @@
   "overview": {
     "#": 67,
     "TRADING CODE": "BIFC",
+    "tradingCode": "BIFC",
     "LTP": 4.1,
-    "HIGH": 4.3,
-    "LOW": 4,
-    "CLOSEP": 4.1,
-    "YCP": 4.2,
-    "CHANGE": -0.1,
-    "TRADE": 56,
-    "VALUE (mn)": 0.38,
-    "VOLUME": 91456
+    "HIGH": 4.1,
+    "LOW": 3.8,
+    "CLOSEP": 3.9,
+    "YCP": 4,
+    "CHANGE": 0.1,
+    "TRADE": 35,
+    "VALUE (mn)": 0.404,
+    "VOLUME": 104763
   },
   "marketInformation": {
     "lastTradingPrice": 4.1,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01843257038",
     "telephoneNo": "02-55045123-5, Ext: 110"
   },
-  "scrapedAt": "2026-09-11T06:59:43.736Z",
+  "scrapedAt": "2026-09-12T19:43:14.058Z",
   "shariaCompliant": false
 }

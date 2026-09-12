@@ -8,15 +8,16 @@
   "overview": {
     "#": 129,
     "TRADING CODE": "FAREASTLIF",
-    "LTP": 20.1,
-    "HIGH": 21,
-    "LOW": 19.4,
-    "CLOSEP": 20.1,
+    "tradingCode": "FAREASTLIF",
+    "LTP": 18.9,
+    "HIGH": 19.3,
+    "LOW": 18.6,
+    "CLOSEP": 18.9,
     "YCP": 19.1,
-    "CHANGE": 1,
-    "TRADE": 206,
-    "VALUE (mn)": 1.834,
-    "VOLUME": 90070
+    "CHANGE": -0.2,
+    "TRADE": 17,
+    "VALUE (mn)": 0.032,
+    "VOLUME": 1679
   },
   "marketInformation": {
     "lastTradingPrice": 18.9,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01730113653",
     "telephoneNo": "9613000123 Ext. 1014"
   },
-  "scrapedAt": "2026-09-11T06:59:49.496Z",
+  "scrapedAt": "2026-09-12T19:43:32.934Z",
   "shariaCompliant": true
 }

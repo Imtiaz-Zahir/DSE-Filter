@@ -8,15 +8,16 @@
   "overview": {
     "#": 6,
     "TRADING CODE": "ABBANK",
-    "LTP": 4.6,
-    "HIGH": 4.8,
-    "LOW": 4.6,
-    "CLOSEP": 4.6,
-    "YCP": 4.7,
-    "CHANGE": -0.1,
-    "TRADE": 107,
-    "VALUE (mn)": 1.657,
-    "VOLUME": 356556
+    "tradingCode": "ABBANK",
+    "LTP": 4.5,
+    "HIGH": 4.5,
+    "LOW": 4.4,
+    "CLOSEP": 4.5,
+    "YCP": 4.5,
+    "CHANGE": 0,
+    "TRADE": 194,
+    "VALUE (mn)": 1.179,
+    "VOLUME": 266746
   },
   "marketInformation": {
     "lastTradingPrice": 4.5,
@@ -373,6 +374,6 @@
     "cellNo": "+8801841075550",
     "telephoneNo": "0967855-5498"
   },
-  "scrapedAt": "2026-09-11T06:59:33.122Z",
+  "scrapedAt": "2026-09-12T19:42:47.947Z",
   "shariaCompliant": false
 }

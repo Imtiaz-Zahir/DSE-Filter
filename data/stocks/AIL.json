@@ -8,15 +8,16 @@
   "overview": {
     "#": 20,
     "TRADING CODE": "AIL",
-    "LTP": 34.5,
-    "HIGH": 36.3,
-    "LOW": 34.4,
-    "CLOSEP": 34.5,
-    "YCP": 35.8,
-    "CHANGE": -1.3,
-    "TRADE": 302,
-    "VALUE (mn)": 5.175,
-    "VOLUME": 146775
+    "tradingCode": "AIL",
+    "LTP": 31.6,
+    "HIGH": 32.4,
+    "LOW": 31.4,
+    "CLOSEP": 31.6,
+    "YCP": 32,
+    "CHANGE": -0.4,
+    "TRADE": 119,
+    "VALUE (mn)": 1.474,
+    "VOLUME": 46611
   },
   "marketInformation": {
     "lastTradingPrice": 31.6,
@@ -373,6 +374,6 @@
     "cellNo": "01787694812",
     "telephoneNo": "58815226, 58815227"
   },
-  "scrapedAt": "2026-09-11T06:59:36.094Z",
+  "scrapedAt": "2026-09-12T19:42:51.543Z",
   "shariaCompliant": false
 }

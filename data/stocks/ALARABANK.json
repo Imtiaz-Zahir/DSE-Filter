@@ -8,15 +8,16 @@
   "overview": {
     "#": 22,
     "TRADING CODE": "ALARABANK",
-    "LTP": 17,
-    "HIGH": 17.5,
-    "LOW": 16.9,
-    "CLOSEP": 17,
-    "YCP": 16.8,
-    "CHANGE": 0.2,
-    "TRADE": 26,
-    "VALUE (mn)": 0.098,
-    "VOLUME": 5754
+    "tradingCode": "ALARABANK",
+    "LTP": 15.4,
+    "HIGH": 16,
+    "LOW": 15.2,
+    "CLOSEP": 15.4,
+    "YCP": 15.8,
+    "CHANGE": -0.4,
+    "TRADE": 99,
+    "VALUE (mn)": 0.871,
+    "VOLUME": 56157
   },
   "marketInformation": {
     "lastTradingPrice": 15.4,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01712890010",
     "telephoneNo": "02-44850027, 02-44850005 Ext. 111"
   },
-  "scrapedAt": "2026-09-11T06:59:35.797Z",
+  "scrapedAt": "2026-09-12T19:42:54.751Z",
   "shariaCompliant": true
 }

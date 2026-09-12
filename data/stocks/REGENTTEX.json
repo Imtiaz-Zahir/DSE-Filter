@@ -8,15 +8,16 @@
   "overview": {
     "#": 304,
     "TRADING CODE": "REGENTTEX",
-    "LTP": 6.2,
-    "HIGH": 6.5,
-    "LOW": 6.2,
-    "CLOSEP": 6.2,
-    "YCP": 6.4,
-    "CHANGE": -0.2,
-    "TRADE": 119,
-    "VALUE (mn)": 0.844,
-    "VOLUME": 135618
+    "tradingCode": "REGENTTEX",
+    "LTP": 6.3,
+    "HIGH": 6.4,
+    "LOW": 6.1,
+    "CLOSEP": 6.3,
+    "YCP": 6.2,
+    "CHANGE": 0.1,
+    "TRADE": 90,
+    "VALUE (mn)": 0.57,
+    "VOLUME": 90561
   },
   "marketInformation": {
     "lastTradingPrice": 6.3,
@@ -370,6 +371,6 @@
     "cellNo": "01730700417",
     "telephoneNo": "+88031-2868841-3 Ext. 308"
   },
-  "scrapedAt": "2026-09-11T07:00:12.872Z",
+  "scrapedAt": "2026-09-12T19:44:38.443Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 105,
     "TRADING CODE": "DSHGARME",
-    "LTP": 174.7,
-    "HIGH": 175.9,
-    "LOW": 167.2,
-    "CLOSEP": 174.7,
-    "YCP": 167.8,
-    "CHANGE": 6.9,
-    "TRADE": 1042,
-    "VALUE (mn)": 17.931,
-    "VOLUME": 104315
+    "tradingCode": "DSHGARME",
+    "LTP": 150.8,
+    "HIGH": 162.7,
+    "LOW": 149.9,
+    "CLOSEP": 150.8,
+    "YCP": 158.6,
+    "CHANGE": -7.8,
+    "TRADE": 836,
+    "VALUE (mn)": 10.513,
+    "VOLUME": 68221
   },
   "marketInformation": {
     "lastTradingPrice": 150.8,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01709 632 710",
     "telephoneNo": "222276019, 222276234"
   },
-  "scrapedAt": "2026-09-11T06:59:45.709Z",
+  "scrapedAt": "2026-09-12T19:43:25.817Z",
   "shariaCompliant": false
 }

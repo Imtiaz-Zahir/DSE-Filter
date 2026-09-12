@@ -8,15 +8,16 @@
   "overview": {
     "#": 73,
     "TRADING CODE": "BSCPLC",
-    "LTP": 149.5,
-    "HIGH": 151.4,
-    "LOW": 147.3,
-    "CLOSEP": 148.2,
-    "YCP": 150,
-    "CHANGE": -0.5,
-    "TRADE": 278,
-    "VALUE (mn)": 10.671,
-    "VOLUME": 71801
+    "tradingCode": "BSCPLC",
+    "LTP": 147,
+    "HIGH": 148.5,
+    "LOW": 146.8,
+    "CLOSEP": 147,
+    "YCP": 146.8,
+    "CHANGE": 0.2,
+    "TRADE": 98,
+    "VALUE (mn)": 3.858,
+    "VOLUME": 26225
   },
   "marketInformation": {
     "lastTradingPrice": 147,
@@ -373,6 +374,6 @@
     "cellNo": "01819723786",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:42.457Z",
+  "scrapedAt": "2026-09-12T19:43:16.786Z",
   "shariaCompliant": false
 }

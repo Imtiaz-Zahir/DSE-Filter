@@ -8,15 +8,16 @@
   "overview": {
     "#": 51,
     "TRADING CODE": "BBSCABLES",
-    "LTP": 19,
-    "HIGH": 19.4,
-    "LOW": 18.9,
-    "CLOSEP": 19,
-    "YCP": 19.2,
-    "CHANGE": -0.2,
-    "TRADE": 432,
-    "VALUE (mn)": 8.43,
-    "VOLUME": 440944
+    "tradingCode": "BBSCABLES",
+    "LTP": 17.2,
+    "HIGH": 17.7,
+    "LOW": 17.1,
+    "CLOSEP": 17.2,
+    "YCP": 17.5,
+    "CHANGE": -0.3,
+    "TRADE": 329,
+    "VALUE (mn)": 5.976,
+    "VOLUME": 343763
   },
   "marketInformation": {
     "lastTradingPrice": 17.2,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01708 813 848",
     "telephoneNo": "02-222288916, 222294771"
   },
-  "scrapedAt": "2026-09-11T06:59:40.283Z",
+  "scrapedAt": "2026-09-12T19:43:08.087Z",
   "shariaCompliant": true
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 25,
     "TRADING CODE": "AMANFEED",
-    "LTP": 35.3,
-    "HIGH": 36.3,
-    "LOW": 35,
-    "CLOSEP": 35.3,
-    "YCP": 35.6,
-    "CHANGE": -0.3,
-    "TRADE": 680,
-    "VALUE (mn)": 22.484,
-    "VOLUME": 629905
+    "tradingCode": "AMANFEED",
+    "LTP": 31.3,
+    "HIGH": 32.6,
+    "LOW": 31.2,
+    "CLOSEP": 31.3,
+    "YCP": 32.1,
+    "CHANGE": -0.8,
+    "TRADE": 647,
+    "VALUE (mn)": 12.598,
+    "VOLUME": 397880
   },
   "marketInformation": {
     "lastTradingPrice": 31.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01755 675 028",
     "telephoneNo": "+8802-48961691-3; 09606-613000"
   },
-  "scrapedAt": "2026-09-11T06:59:34.775Z",
+  "scrapedAt": "2026-09-12T19:42:52.996Z",
   "shariaCompliant": false
 }

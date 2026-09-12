@@ -8,15 +8,16 @@
   "overview": {
     "#": 172,
     "TRADING CODE": "ICICL",
-    "LTP": 38,
-    "HIGH": 38.5,
-    "LOW": 37.7,
-    "CLOSEP": 38,
-    "YCP": 37.3,
-    "CHANGE": 0.7,
-    "TRADE": 884,
-    "VALUE (mn)": 29.281,
-    "VOLUME": 768274
+    "tradingCode": "ICICL",
+    "LTP": 36.8,
+    "HIGH": 37.4,
+    "LOW": 36.1,
+    "CLOSEP": 36.8,
+    "YCP": 36.9,
+    "CHANGE": -0.1,
+    "TRADE": 467,
+    "VALUE (mn)": 13.427,
+    "VOLUME": 363133
   },
   "marketInformation": {
     "lastTradingPrice": 36.8,
@@ -373,6 +374,6 @@
     "cellNo": "01787767676",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:54.586Z",
+  "scrapedAt": "2026-09-12T19:43:48.803Z",
   "shariaCompliant": false
 }

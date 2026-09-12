@@ -8,15 +8,16 @@
   "overview": {
     "#": 5,
     "TRADING CODE": "ABB1STMF",
-    "LTP": 3.6,
-    "HIGH": 3.8,
+    "tradingCode": "ABB1STMF",
+    "LTP": 3.7,
+    "HIGH": 3.7,
     "LOW": 3.6,
-    "CLOSEP": 3.6,
-    "YCP": 3.7,
-    "CHANGE": -0.1,
-    "TRADE": 169,
-    "VALUE (mn)": 7.718,
-    "VOLUME": 2094503
+    "CLOSEP": 3.7,
+    "YCP": 3.6,
+    "CHANGE": 0.1,
+    "TRADE": 230,
+    "VALUE (mn)": 6.333,
+    "VOLUME": 1729013
   },
   "marketInformation": {
     "lastTradingPrice": 3.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:32.966Z",
+  "scrapedAt": "2026-09-12T19:42:45.778Z",
   "shariaCompliant": false
 }

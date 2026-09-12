@@ -8,15 +8,16 @@
   "overview": {
     "#": 255,
     "TRADING CODE": "NTC",
-    "LTP": 157.8,
-    "HIGH": 160,
-    "LOW": 152.2,
-    "CLOSEP": 155.5,
-    "YCP": 155.1,
-    "CHANGE": 2.7,
-    "TRADE": 35,
-    "VALUE (mn)": 0.25,
-    "VOLUME": 1613
+    "tradingCode": "NTC",
+    "LTP": 151.7,
+    "HIGH": 158.5,
+    "LOW": 148.7,
+    "CLOSEP": 151.7,
+    "YCP": 155.3,
+    "CHANGE": -3.6,
+    "TRADE": 91,
+    "VALUE (mn)": 0.398,
+    "VOLUME": 2621
   },
   "marketInformation": {
     "lastTradingPrice": 151.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01313422906",
     "telephoneNo": "9515929"
   },
-  "scrapedAt": "2026-09-11T07:00:05.074Z",
+  "scrapedAt": "2026-09-12T19:44:17.322Z",
   "shariaCompliant": false
 }

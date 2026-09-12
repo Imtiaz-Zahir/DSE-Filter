@@ -8,15 +8,16 @@
   "overview": {
     "#": 328,
     "TRADING CODE": "SBACBANK",
+    "tradingCode": "SBACBANK",
     "LTP": 6.7,
-    "HIGH": 7,
-    "LOW": 6.7,
+    "HIGH": 6.8,
+    "LOW": 6.6,
     "CLOSEP": 6.7,
-    "YCP": 6.9,
-    "CHANGE": -0.2,
-    "TRADE": 122,
-    "VALUE (mn)": 0.333,
-    "VOLUME": 49525
+    "YCP": 6.7,
+    "CHANGE": 0,
+    "TRADE": 21,
+    "VALUE (mn)": 0.026,
+    "VOLUME": 3821
   },
   "marketInformation": {
     "lastTradingPrice": 6.7,
@@ -370,6 +371,6 @@
     "cellNo": "+8801911401251",
     "telephoneNo": "+8802 223357201-12, Ext-205."
   },
-  "scrapedAt": "2026-09-11T07:00:14.679Z",
+  "scrapedAt": "2026-09-12T19:44:46.494Z",
   "shariaCompliant": false
 }

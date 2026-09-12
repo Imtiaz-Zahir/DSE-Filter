@@ -8,15 +8,16 @@
   "overview": {
     "#": 339,
     "TRADING CODE": "SICL",
-    "LTP": 39.8,
-    "HIGH": 41.2,
-    "LOW": 39.5,
-    "CLOSEP": 39.8,
-    "YCP": 39.7,
-    "CHANGE": 0.1,
-    "TRADE": 1798,
-    "VALUE (mn)": 67.904,
-    "VOLUME": 1685053
+    "tradingCode": "SICL",
+    "LTP": 36.3,
+    "HIGH": 37.8,
+    "LOW": 35.8,
+    "CLOSEP": 36.3,
+    "YCP": 37.4,
+    "CHANGE": -1.1,
+    "TRADE": 1279,
+    "VALUE (mn)": 55.13,
+    "VOLUME": 1499256
   },
   "marketInformation": {
     "lastTradingPrice": 36.3,
@@ -321,6 +322,6 @@
     "cellNo": "01747472696",
     "telephoneNo": "0088 02-223371513-17"
   },
-  "scrapedAt": "2026-09-11T07:00:16.690Z",
+  "scrapedAt": "2026-09-12T19:44:49.684Z",
   "shariaCompliant": false
 }

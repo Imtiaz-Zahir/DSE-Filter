@@ -8,15 +8,16 @@
   "overview": {
     "#": 274,
     "TRADING CODE": "PHPMF1",
-    "LTP": 3.5,
+    "tradingCode": "PHPMF1",
+    "LTP": 3.6,
     "HIGH": 3.7,
     "LOW": 3.5,
-    "CLOSEP": 3.5,
-    "YCP": 3.7,
-    "CHANGE": -0.2,
-    "TRADE": 126,
-    "VALUE (mn)": 4.309,
-    "VOLUME": 1197581
+    "CLOSEP": 3.6,
+    "YCP": 3.5,
+    "CHANGE": 0.1,
+    "TRADE": 114,
+    "VALUE (mn)": 3.325,
+    "VOLUME": 925245
   },
   "marketInformation": {
     "lastTradingPrice": 3.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:10.062Z",
+  "scrapedAt": "2026-09-12T19:44:23.720Z",
   "shariaCompliant": false
 }

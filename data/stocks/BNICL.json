@@ -8,15 +8,16 @@
   "overview": {
     "#": 68,
     "TRADING CODE": "BNICL",
-    "LTP": 117.5,
-    "HIGH": 120.5,
-    "LOW": 110.1,
-    "CLOSEP": 117.5,
-    "YCP": 110,
-    "CHANGE": 7.5,
-    "TRADE": 1136,
-    "VALUE (mn)": 78.81,
-    "VOLUME": 672072
+    "tradingCode": "BNICL",
+    "LTP": 122.4,
+    "HIGH": 126.9,
+    "LOW": 119,
+    "CLOSEP": 122.4,
+    "YCP": 117.9,
+    "CHANGE": 4.5,
+    "TRADE": 1122,
+    "VALUE (mn)": 44.367,
+    "VOLUME": 359941
   },
   "marketInformation": {
     "lastTradingPrice": 122.4,
@@ -373,6 +374,6 @@
     "cellNo": "01711582560",
     "telephoneNo": "09613112233"
   },
-  "scrapedAt": "2026-09-11T06:59:42.397Z",
+  "scrapedAt": "2026-09-12T19:43:14.310Z",
   "shariaCompliant": false
 }

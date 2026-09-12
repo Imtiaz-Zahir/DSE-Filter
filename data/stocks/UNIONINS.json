@@ -8,15 +8,16 @@
   "overview": {
     "#": 378,
     "TRADING CODE": "UNIONINS",
-    "LTP": 50.4,
-    "HIGH": 52.2,
-    "LOW": 50.1,
-    "CLOSEP": 50.4,
-    "YCP": 50.2,
-    "CHANGE": 0.2,
-    "TRADE": 750,
-    "VALUE (mn)": 12.95,
-    "VOLUME": 255950
+    "tradingCode": "UNIONINS",
+    "LTP": 48.4,
+    "HIGH": 49.7,
+    "LOW": 48,
+    "CLOSEP": 48.4,
+    "YCP": 48.9,
+    "CHANGE": -0.5,
+    "TRADE": 262,
+    "VALUE (mn)": 5.616,
+    "VOLUME": 115435
   },
   "marketInformation": {
     "lastTradingPrice": 48.4,
@@ -373,6 +374,6 @@
     "cellNo": "01819491657",
     "telephoneNo": "02-55112904"
   },
-  "scrapedAt": "2026-09-11T07:00:23.059Z",
+  "scrapedAt": "2026-09-12T19:45:02.886Z",
   "shariaCompliant": false
 }

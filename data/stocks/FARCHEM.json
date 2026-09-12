@@ -8,15 +8,16 @@
   "overview": {
     "#": 127,
     "TRADING CODE": "FARCHEM",
-    "LTP": 15.9,
-    "HIGH": 17.2,
-    "LOW": 15.6,
-    "CLOSEP": 15.9,
-    "YCP": 17,
-    "CHANGE": -1.1,
-    "TRADE": 2149,
-    "VALUE (mn)": 58.349,
-    "VOLUME": 3550187
+    "tradingCode": "FARCHEM",
+    "LTP": 14.8,
+    "HIGH": 15.7,
+    "LOW": 14.7,
+    "CLOSEP": 14.8,
+    "YCP": 15.2,
+    "CHANGE": -0.4,
+    "TRADE": 891,
+    "VALUE (mn)": 28.288,
+    "VOLUME": 1876846
   },
   "marketInformation": {
     "lastTradingPrice": 14.8,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01862 264 064",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:49.223Z",
+  "scrapedAt": "2026-09-12T19:43:31.201Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 247,
     "TRADING CODE": "NFML",
-    "LTP": 17.1,
-    "HIGH": 17.7,
-    "LOW": 17,
-    "CLOSEP": 17.1,
-    "YCP": 17.4,
-    "CHANGE": -0.3,
-    "TRADE": 496,
-    "VALUE (mn)": 7.114,
-    "VOLUME": 412002
+    "tradingCode": "NFML",
+    "LTP": 15.6,
+    "HIGH": 16.5,
+    "LOW": 15.4,
+    "CLOSEP": 15.6,
+    "YCP": 16.1,
+    "CHANGE": -0.5,
+    "TRADE": 416,
+    "VALUE (mn)": 7.88,
+    "VOLUME": 500608
   },
   "marketInformation": {
     "lastTradingPrice": 15.6,
@@ -373,6 +374,6 @@
     "cellNo": "01730066269",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:04.921Z",
+  "scrapedAt": "2026-09-12T19:44:16.502Z",
   "shariaCompliant": true
 }

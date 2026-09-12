@@ -8,15 +8,16 @@
   "overview": {
     "#": 71,
     "TRADING CODE": "BRACBANK",
-    "LTP": 62.8,
-    "HIGH": 63,
+    "tradingCode": "BRACBANK",
+    "LTP": 62.3,
+    "HIGH": 62.8,
     "LOW": 62.2,
-    "CLOSEP": 62.8,
-    "YCP": 62.5,
-    "CHANGE": 0.3,
-    "TRADE": 1130,
-    "VALUE (mn)": 62.765,
-    "VOLUME": 1004483
+    "CLOSEP": 62.3,
+    "YCP": 62.3,
+    "CHANGE": 0,
+    "TRADE": 699,
+    "VALUE (mn)": 22.475,
+    "VOLUME": 360871
   },
   "marketInformation": {
     "lastTradingPrice": 62.3,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01713 060 835",
     "telephoneNo": "09677551001-31"
   },
-  "scrapedAt": "2026-09-11T06:59:42.197Z",
+  "scrapedAt": "2026-09-12T19:43:16.006Z",
   "shariaCompliant": false
 }

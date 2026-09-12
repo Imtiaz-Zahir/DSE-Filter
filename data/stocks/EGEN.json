@@ -8,15 +8,16 @@
   "overview": {
     "#": 116,
     "TRADING CODE": "EGEN",
-    "LTP": 24.9,
-    "HIGH": 25.2,
-    "LOW": 24.7,
-    "CLOSEP": 24.9,
-    "YCP": 24.6,
-    "CHANGE": 0.3,
-    "TRADE": 529,
-    "VALUE (mn)": 11.138,
-    "VOLUME": 447262
+    "tradingCode": "EGEN",
+    "LTP": 23.3,
+    "HIGH": 23.9,
+    "LOW": 23.2,
+    "CLOSEP": 23.3,
+    "YCP": 23.5,
+    "CHANGE": -0.2,
+    "TRADE": 276,
+    "VALUE (mn)": 4.747,
+    "VOLUME": 202435
   },
   "marketInformation": {
     "lastTradingPrice": 23.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01795 139 038",
     "telephoneNo": "8802-8413076"
   },
-  "scrapedAt": "2026-09-11T06:59:47.473Z",
+  "scrapedAt": "2026-09-12T19:43:29.321Z",
   "shariaCompliant": true
 }

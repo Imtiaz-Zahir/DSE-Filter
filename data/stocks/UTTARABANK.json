@@ -8,15 +8,16 @@
   "overview": {
     "#": 384,
     "TRADING CODE": "UTTARABANK",
+    "tradingCode": "UTTARABANK",
     "LTP": 20.8,
     "HIGH": 20.9,
     "LOW": 20.7,
     "CLOSEP": 20.8,
     "YCP": 20.8,
     "CHANGE": 0,
-    "TRADE": 424,
-    "VALUE (mn)": 17.426,
-    "VOLUME": 838756
+    "TRADE": 280,
+    "VALUE (mn)": 10.374,
+    "VOLUME": 499360
   },
   "marketInformation": {
     "lastTradingPrice": 20.8,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01991 144 088",
     "telephoneNo": "+8802223382206"
   },
-  "scrapedAt": "2026-09-11T07:00:24.625Z",
+  "scrapedAt": "2026-09-12T19:45:06.061Z",
   "shariaCompliant": false
 }

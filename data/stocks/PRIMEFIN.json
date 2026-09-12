@@ -8,15 +8,16 @@
   "overview": {
     "#": 287,
     "TRADING CODE": "PRIMEFIN",
-    "LTP": 3.1,
-    "HIGH": 3.3,
-    "LOW": 3.1,
-    "CLOSEP": 3.1,
-    "YCP": 3.2,
-    "CHANGE": -0.1,
-    "TRADE": 132,
-    "VALUE (mn)": 1.35,
-    "VOLUME": 433882
+    "tradingCode": "PRIMEFIN",
+    "LTP": 2.9,
+    "HIGH": 3,
+    "LOW": 2.8,
+    "CLOSEP": 2.9,
+    "YCP": 2.9,
+    "CHANGE": 0,
+    "TRADE": 62,
+    "VALUE (mn)": 0.779,
+    "VOLUME": 270741
   },
   "marketInformation": {
     "lastTradingPrice": 2.9,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01755 543 413",
     "telephoneNo": "+88 02 47123462"
   },
-  "scrapedAt": "2026-09-11T07:00:12.088Z",
+  "scrapedAt": "2026-09-12T19:44:31.870Z",
   "shariaCompliant": false
 }

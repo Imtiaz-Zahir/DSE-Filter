@@ -8,15 +8,16 @@
   "overview": {
     "#": 385,
     "TRADING CODE": "UTTARAFIN",
-    "LTP": 12.7,
-    "HIGH": 13,
-    "LOW": 12.7,
-    "CLOSEP": 12.9,
-    "YCP": 12.9,
+    "tradingCode": "UTTARAFIN",
+    "LTP": 12.3,
+    "HIGH": 12.5,
+    "LOW": 11.5,
+    "CLOSEP": 12.3,
+    "YCP": 12.5,
     "CHANGE": -0.2,
-    "TRADE": 13,
-    "VALUE (mn)": 0.066,
-    "VOLUME": 5155
+    "TRADE": 9,
+    "VALUE (mn)": 0.012,
+    "VOLUME": 1015
   },
   "marketInformation": {
     "lastTradingPrice": 12.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01676969599",
     "telephoneNo": "+880-2-41025081-83"
   },
-  "scrapedAt": "2026-09-11T07:00:25.778Z",
+  "scrapedAt": "2026-09-12T19:45:05.184Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 258,
     "TRADING CODE": "OAL",
-    "LTP": 6.8,
-    "HIGH": 7.1,
-    "LOW": 6.8,
-    "CLOSEP": 6.8,
-    "YCP": 7,
-    "CHANGE": -0.2,
-    "TRADE": 148,
-    "VALUE (mn)": 2.729,
-    "VOLUME": 392602
+    "tradingCode": "OAL",
+    "LTP": 6.5,
+    "HIGH": 6.7,
+    "LOW": 6.4,
+    "CLOSEP": 6.5,
+    "YCP": 6.6,
+    "CHANGE": -0.1,
+    "TRADE": 66,
+    "VALUE (mn)": 1.097,
+    "VOLUME": 168574
   },
   "marketInformation": {
     "lastTradingPrice": 6.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01909 103054",
     "telephoneNo": "02-8392459"
   },
-  "scrapedAt": "2026-09-11T07:00:08.061Z",
+  "scrapedAt": "2026-09-12T19:44:21.036Z",
   "shariaCompliant": true
 }

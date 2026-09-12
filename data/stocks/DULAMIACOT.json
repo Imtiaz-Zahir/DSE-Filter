@@ -8,15 +8,16 @@
   "overview": {
     "#": 107,
     "TRADING CODE": "DULAMIACOT",
-    "LTP": 184.4,
-    "HIGH": 190.9,
-    "LOW": 182.3,
-    "CLOSEP": 184.4,
-    "YCP": 181.9,
-    "CHANGE": 2.5,
-    "TRADE": 148,
-    "VALUE (mn)": 1.714,
-    "VOLUME": 9329
+    "tradingCode": "DULAMIACOT",
+    "LTP": 180,
+    "HIGH": 184.9,
+    "LOW": 176,
+    "CLOSEP": 180,
+    "YCP": 179.4,
+    "CHANGE": 0.6,
+    "TRADE": 71,
+    "VALUE (mn)": 0.356,
+    "VOLUME": 1965
   },
   "marketInformation": {
     "lastTradingPrice": 180,
@@ -372,6 +373,6 @@
     "cellNo": "01713554206",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-11T06:59:47.554Z",
+  "scrapedAt": "2026-09-12T19:43:26.749Z",
   "shariaCompliant": false
 }

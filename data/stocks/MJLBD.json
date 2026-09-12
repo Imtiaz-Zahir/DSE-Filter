@@ -8,15 +8,16 @@
   "overview": {
     "#": 231,
     "TRADING CODE": "MJLBD",
-    "LTP": 91.9,
-    "HIGH": 92.2,
-    "LOW": 91.3,
-    "CLOSEP": 91.5,
-    "YCP": 92,
-    "CHANGE": -0.1,
-    "TRADE": 158,
-    "VALUE (mn)": 2.909,
-    "VOLUME": 31782
+    "tradingCode": "MJLBD",
+    "LTP": 90.3,
+    "HIGH": 91.2,
+    "LOW": 90.1,
+    "CLOSEP": 90.3,
+    "YCP": 90.2,
+    "CHANGE": 0.1,
+    "TRADE": 154,
+    "VALUE (mn)": 1.294,
+    "VOLUME": 14322
   },
   "marketInformation": {
     "lastTradingPrice": 90.3,
@@ -372,6 +373,6 @@
     "cellNo": "01730336964",
     "telephoneNo": "+8802226601427-29"
   },
-  "scrapedAt": "2026-09-11T07:00:02.876Z",
+  "scrapedAt": "2026-09-12T19:44:11.038Z",
   "shariaCompliant": true
 }

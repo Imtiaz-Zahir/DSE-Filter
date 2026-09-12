@@ -8,15 +8,16 @@
   "overview": {
     "#": 142,
     "TRADING CODE": "GENEXIL",
-    "LTP": 36.4,
+    "tradingCode": "GENEXIL",
+    "LTP": 35.7,
     "HIGH": 36.7,
-    "LOW": 35.9,
-    "CLOSEP": 36.4,
+    "LOW": 35.6,
+    "CLOSEP": 35.7,
     "YCP": 35.9,
-    "CHANGE": 0.5,
-    "TRADE": 821,
-    "VALUE (mn)": 27.258,
-    "VOLUME": 749977
+    "CHANGE": -0.2,
+    "TRADE": 613,
+    "VALUE (mn)": 19.263,
+    "VOLUME": 534676
   },
   "marketInformation": {
     "lastTradingPrice": 35.7,
@@ -372,6 +373,6 @@
     "cellNo": "+8801847100128",
     "telephoneNo": "+8809612111000"
   },
-  "scrapedAt": "2026-09-11T06:59:51.140Z",
+  "scrapedAt": "2026-09-12T19:43:37.620Z",
   "shariaCompliant": false
 }

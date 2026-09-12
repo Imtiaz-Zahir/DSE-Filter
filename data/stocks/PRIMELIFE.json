@@ -8,15 +8,16 @@
   "overview": {
     "#": 289,
     "TRADING CODE": "PRIMELIFE",
-    "LTP": 38.4,
-    "HIGH": 38.9,
-    "LOW": 38,
-    "CLOSEP": 38.2,
-    "YCP": 38.2,
-    "CHANGE": 0.2,
-    "TRADE": 60,
-    "VALUE (mn)": 0.704,
-    "VOLUME": 18386
+    "tradingCode": "PRIMELIFE",
+    "LTP": 36.6,
+    "HIGH": 38,
+    "LOW": 36.5,
+    "CLOSEP": 36.6,
+    "YCP": 37.2,
+    "CHANGE": -0.6,
+    "TRADE": 49,
+    "VALUE (mn)": 0.561,
+    "VOLUME": 15256
   },
   "marketInformation": {
     "lastTradingPrice": 36.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01707 213 979",
     "telephoneNo": "41070180-83 (Ext. 433)"
   },
-  "scrapedAt": "2026-09-11T07:00:10.836Z",
+  "scrapedAt": "2026-09-12T19:44:31.684Z",
   "shariaCompliant": true
 }

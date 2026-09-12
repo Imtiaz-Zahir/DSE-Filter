@@ -8,15 +8,16 @@
   "overview": {
     "#": 114,
     "TRADING CODE": "EBLNRBMF",
+    "tradingCode": "EBLNRBMF",
     "LTP": 3.6,
     "HIGH": 3.6,
-    "LOW": 3.5,
-    "CLOSEP": 3.5,
-    "YCP": 3.6,
-    "CHANGE": 0,
-    "TRADE": 106,
-    "VALUE (mn)": 2.902,
-    "VOLUME": 825167
+    "LOW": 3.4,
+    "CLOSEP": 3.6,
+    "YCP": 3.4,
+    "CHANGE": 0.2,
+    "TRADE": 190,
+    "VALUE (mn)": 6.578,
+    "VOLUME": 1875335
   },
   "marketInformation": {
     "lastTradingPrice": 3.6,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:48.843Z",
+  "scrapedAt": "2026-09-12T19:43:27.877Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 171,
     "TRADING CODE": "ICBSONALI1",
-    "LTP": 6.3,
-    "HIGH": 6.5,
-    "LOW": 6.2,
-    "CLOSEP": 6.3,
+    "tradingCode": "ICBSONALI1",
+    "LTP": 6.9,
+    "HIGH": 7.1,
+    "LOW": 6.6,
+    "CLOSEP": 6.9,
     "YCP": 6.6,
-    "CHANGE": -0.3,
-    "TRADE": 161,
-    "VALUE (mn)": 3.943,
-    "VOLUME": 623858
+    "CHANGE": 0.3,
+    "TRADE": 544,
+    "VALUE (mn)": 21.543,
+    "VOLUME": 3141470
   },
   "marketInformation": {
     "lastTradingPrice": 6.9,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:55.197Z",
+  "scrapedAt": "2026-09-12T19:43:48.653Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 319,
     "TRADING CODE": "SAIHAMCOT",
-    "LTP": 24,
-    "HIGH": 26.7,
-    "LOW": 23.9,
-    "CLOSEP": 24,
-    "YCP": 26.5,
-    "CHANGE": -2.5,
-    "TRADE": 6087,
-    "VALUE (mn)": 343.186,
-    "VOLUME": 13583022
+    "tradingCode": "SAIHAMCOT",
+    "LTP": 22.7,
+    "HIGH": 24,
+    "LOW": 22.6,
+    "CLOSEP": 22.7,
+    "YCP": 23.6,
+    "CHANGE": -0.9,
+    "TRADE": 2832,
+    "VALUE (mn)": 106.096,
+    "VOLUME": 4573353
   },
   "marketInformation": {
     "lastTradingPrice": 22.7,
@@ -373,6 +374,6 @@
     "cellNo": "01818-062160",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-11T07:00:14.712Z",
+  "scrapedAt": "2026-09-12T19:44:44.188Z",
   "shariaCompliant": true
 }

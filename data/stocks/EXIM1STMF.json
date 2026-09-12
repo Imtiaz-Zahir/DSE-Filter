@@ -8,15 +8,16 @@
   "overview": {
     "#": 124,
     "TRADING CODE": "EXIM1STMF",
-    "LTP": 6.7,
-    "HIGH": 6.7,
-    "LOW": 6.2,
-    "CLOSEP": 6.5,
-    "YCP": 6.3,
-    "CHANGE": 0.4,
-    "TRADE": 660,
-    "VALUE (mn)": 22.821,
-    "VOLUME": 3566971
+    "tradingCode": "EXIM1STMF",
+    "LTP": 7.4,
+    "HIGH": 7.4,
+    "LOW": 6.9,
+    "CLOSEP": 7.4,
+    "YCP": 6.8,
+    "CHANGE": 0.6,
+    "TRADE": 2615,
+    "VALUE (mn)": 163.119,
+    "VOLUME": 22703663
   },
   "marketInformation": {
     "lastTradingPrice": 7.4,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:49.351Z",
+  "scrapedAt": "2026-09-12T19:43:30.441Z",
   "shariaCompliant": false
 }

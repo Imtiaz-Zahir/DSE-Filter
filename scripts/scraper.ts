@@ -251,14 +251,13 @@ export function loadShariaData(customData?: ShariaStockItem[] | string): ShariaS
 }
 
 /**
- * Loads market overview records (e.g. data.json).
+ * Loads market overview records (e.g. data/data.json).
  */
 export function loadOverviewData(customPath?: string): RawOverviewItem[] {
   const candidatePaths = [
     customPath,
     path.resolve(process.cwd(), "data", "data.json"),
     path.resolve(process.cwd(), "data.json"),
-    "C:\\Users\\imtia\\Downloads\\stock\\data.json",
   ].filter(Boolean) as string[];
 
   for (const p of candidatePaths) {
@@ -266,7 +265,7 @@ export function loadOverviewData(customPath?: string): RawOverviewItem[] {
       try {
         const raw = fs.readFileSync(p, "utf-8");
         const parsed = JSON.parse(raw);
-        if (Array.isArray(parsed)) {
+        if (Array.isArray(parsed) && parsed.length > 0) {
           cachedAllCodes = parsed
             .map((s) => s["TRADING CODE"] || s.tradingCode)
             .filter((c): c is string => typeof c === "string" && c.length > 0);
@@ -326,61 +325,67 @@ export function isShariaCompliant(
 }
 
 /**
- * Scrapes latest quotes / list of all companies from DSE live endpoints.
+ * Scrapes latest quotes & list of active mainboard companies from DSE live share price board.
+ * URL: https://www.dsebd.org/latest_share_price_scroll_l.php
  */
 export async function fetchLiveDseOverview(): Promise<RawOverviewItem[]> {
-  const urls = [
-    "https://www.dsebd.org/company_listing.php",
-    "https://www.dsebd.org/latest_share_price_scroll_l.php",
-  ];
+  const url = "https://www.dsebd.org/latest_share_price_scroll_l.php";
 
   const headers = {
     "User-Agent":
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
   };
 
-  const codesMap = new Map<string, RawOverviewItem>();
+  console.log(`[scraper] Fetching live DSE stock price board from ${url}...`);
+  const res = await fetch(url, { headers });
+  if (!res.ok) {
+    throw new Error(`Failed to fetch live share price list: HTTP ${res.status} ${res.statusText}`);
+  }
 
-  for (const url of urls) {
-    try {
-      console.log(`[scraper] Fetching live DSE company list from ${url}...`);
-      const res = await fetch(url, { headers });
-      if (!res.ok) continue;
+  const html = await res.text();
+  const $ = cheerio.load(html);
 
-      const html = await res.text();
-      const $ = cheerio.load(html);
+  const items: RawOverviewItem[] = [];
+  const seenCodes = new Set<string>();
 
-      // Parse links with displayCompany.php?name=
-      $("a[href*='displayCompany.php']").each((i, a) => {
-        const href = $(a).attr("href") || "";
-        const match = href.match(/name=([^&]+)/i);
-        if (match) {
-          const code = decodeURIComponent(match[1]).trim().toUpperCase();
-          if (code && !codesMap.has(code)) {
-            codesMap.set(code, {
-              "#": codesMap.size + 1,
-              "TRADING CODE": code,
-              tradingCode: code,
-            });
-          }
-        }
-      });
+  $("table.shares-table tr, table.table-bordered tr").each((_, tr) => {
+    const tds = $(tr).find("td");
+    if (tds.length >= 10) {
+      const row = tds.map((_, td) => cleanText($(td).text())).get();
+      const codeLink = cleanText($(tr).find("a[href*='displayCompany.php']").text());
+      const rawCode = (codeLink || row[1] || "").trim().toUpperCase();
 
-      if (codesMap.size > 0) {
-        break;
+      if (rawCode && !seenCodes.has(rawCode)) {
+        seenCodes.add(rawCode);
+        const item: RawOverviewItem = {
+          "#": parseInt(row[0], 10) || items.length + 1,
+          "TRADING CODE": rawCode,
+          tradingCode: rawCode,
+          "LTP*": row[2] || "",
+          "HIGH": row[3] || "",
+          "LOW": row[4] || "",
+          "CLOSEP*": row[5] || "",
+          "YCP*": row[6] || "",
+          "CHANGE": row[7] || "",
+          "TRADE": row[8] || "",
+          "VALUE (mn)": row[9] || "",
+          "VOLUME": row[10] || "",
+        };
+        items.push(item);
       }
-    } catch (err: any) {
-      console.warn(`[scraper] Warning: Failed to fetch ${url}:`, err.message);
     }
+  });
+
+  if (items.length === 0) {
+    throw new Error("Failed to parse stock entries from DSE live share price board.");
   }
 
-  const items = Array.from(codesMap.values());
-  if (items.length === 0) {
-    throw new Error("Failed to fetch live company list from DSE website.");
-  }
+  cachedAllCodes = items
+    .map((s) => s["TRADING CODE"] || s.tradingCode)
+    .filter((c): c is string => typeof c === "string" && c.length > 0);
 
   console.log(
-    `[scraper] Successfully parsed ${items.length} trading codes from live DSE website.`,
+    `[scraper] Successfully parsed ${items.length} active stocks with live market quotes.`,
   );
   return items;
 }

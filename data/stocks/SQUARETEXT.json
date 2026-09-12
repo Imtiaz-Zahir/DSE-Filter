@@ -8,15 +8,16 @@
   "overview": {
     "#": 355,
     "TRADING CODE": "SQUARETEXT",
-    "LTP": 49.2,
-    "HIGH": 50.9,
-    "LOW": 49.2,
-    "CLOSEP": 49.5,
-    "YCP": 49.6,
-    "CHANGE": -0.4,
-    "TRADE": 210,
-    "VALUE (mn)": 4.368,
-    "VOLUME": 87387
+    "tradingCode": "SQUARETEXT",
+    "LTP": 50.5,
+    "HIGH": 50.8,
+    "LOW": 49.1,
+    "CLOSEP": 50.5,
+    "YCP": 49.1,
+    "CHANGE": 1.4,
+    "TRADE": 531,
+    "VALUE (mn)": 10.074,
+    "VOLUME": 200780
   },
   "marketInformation": {
     "lastTradingPrice": 50.5,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01730 328 776",
     "telephoneNo": "880-2-8833047-56, 02222295007 Ext.-585"
   },
-  "scrapedAt": "2026-09-11T07:00:20.193Z",
+  "scrapedAt": "2026-09-12T19:44:55.157Z",
   "shariaCompliant": false
 }

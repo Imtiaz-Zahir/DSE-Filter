@@ -8,15 +8,16 @@
   "overview": {
     "#": 346,
     "TRADING CODE": "SKTRIMS",
-    "LTP": 14,
-    "HIGH": 14.1,
-    "LOW": 13.6,
-    "CLOSEP": 14,
-    "YCP": 13.7,
-    "CHANGE": 0.3,
-    "TRADE": 159,
-    "VALUE (mn)": 1.304,
-    "VOLUME": 93475
+    "tradingCode": "SKTRIMS",
+    "LTP": 12.9,
+    "HIGH": 13.1,
+    "LOW": 12.7,
+    "CLOSEP": 12.9,
+    "YCP": 12.9,
+    "CHANGE": 0,
+    "TRADE": 100,
+    "VALUE (mn)": 0.513,
+    "VOLUME": 39917
   },
   "marketInformation": {
     "lastTradingPrice": 12.9,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01708 860 503",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:18.478Z",
+  "scrapedAt": "2026-09-12T19:44:53.235Z",
   "shariaCompliant": true
 }

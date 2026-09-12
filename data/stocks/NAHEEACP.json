@@ -8,15 +8,16 @@
   "overview": {
     "#": 239,
     "TRADING CODE": "NAHEEACP",
-    "LTP": 35.9,
-    "HIGH": 36.1,
-    "LOW": 35.2,
-    "CLOSEP": 35.9,
-    "YCP": 35.2,
-    "CHANGE": 0.7,
-    "TRADE": 1013,
-    "VALUE (mn)": 39.108,
-    "VOLUME": 1093862
+    "tradingCode": "NAHEEACP",
+    "LTP": 34,
+    "HIGH": 34.8,
+    "LOW": 33.2,
+    "CLOSEP": 34,
+    "YCP": 34.4,
+    "CHANGE": -0.4,
+    "TRADE": 475,
+    "VALUE (mn)": 15.085,
+    "VOLUME": 443067
   },
   "marketInformation": {
     "lastTradingPrice": 34,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01730 097 865",
     "telephoneNo": "+8809611677844"
   },
-  "scrapedAt": "2026-09-11T07:00:03.088Z",
+  "scrapedAt": "2026-09-12T19:44:13.164Z",
   "shariaCompliant": true
 }

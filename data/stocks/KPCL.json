@@ -8,15 +8,16 @@
   "overview": {
     "#": 200,
     "TRADING CODE": "KPCL",
-    "LTP": 11.2,
-    "HIGH": 11.7,
-    "LOW": 11.1,
-    "CLOSEP": 11.2,
-    "YCP": 11.5,
-    "CHANGE": -0.3,
-    "TRADE": 209,
-    "VALUE (mn)": 6.389,
-    "VOLUME": 558284
+    "tradingCode": "KPCL",
+    "LTP": 10.7,
+    "HIGH": 10.9,
+    "LOW": 10.5,
+    "CLOSEP": 10.6,
+    "YCP": 10.7,
+    "CHANGE": 0,
+    "TRADE": 117,
+    "VALUE (mn)": 1.812,
+    "VOLUME": 170291
   },
   "marketInformation": {
     "lastTradingPrice": 10.7,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01841403333",
     "telephoneNo": "+880 9666 700 900, Ext. 4006"
   },
-  "scrapedAt": "2026-09-11T06:59:58.642Z",
+  "scrapedAt": "2026-09-12T19:43:59.868Z",
   "shariaCompliant": true
 }

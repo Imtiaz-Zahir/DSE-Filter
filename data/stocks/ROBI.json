@@ -8,15 +8,16 @@
   "overview": {
     "#": 311,
     "TRADING CODE": "ROBI",
-    "LTP": 30.2,
-    "HIGH": 30.7,
-    "LOW": 30.1,
-    "CLOSEP": 30.2,
-    "YCP": 30.5,
-    "CHANGE": -0.3,
-    "TRADE": 1045,
-    "VALUE (mn)": 31.053,
-    "VOLUME": 1024957
+    "tradingCode": "ROBI",
+    "LTP": 30,
+    "HIGH": 30.5,
+    "LOW": 29.8,
+    "CLOSEP": 30,
+    "YCP": 29.9,
+    "CHANGE": 0.1,
+    "TRADE": 853,
+    "VALUE (mn)": 35.246,
+    "VOLUME": 1173961
   },
   "marketInformation": {
     "lastTradingPrice": 30,
@@ -373,6 +374,6 @@
     "cellNo": "+8801886110110",
     "telephoneNo": "+8801886110110"
   },
-  "scrapedAt": "2026-09-11T07:00:12.646Z",
+  "scrapedAt": "2026-09-12T19:44:41.744Z",
   "shariaCompliant": false
 }

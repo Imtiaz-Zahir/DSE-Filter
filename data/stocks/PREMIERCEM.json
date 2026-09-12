@@ -8,15 +8,16 @@
   "overview": {
     "#": 283,
     "TRADING CODE": "PREMIERCEM",
-    "LTP": 47,
-    "HIGH": 47.3,
-    "LOW": 46.6,
-    "CLOSEP": 46.8,
-    "YCP": 46.9,
-    "CHANGE": 0.1,
-    "TRADE": 307,
-    "VALUE (mn)": 8.403,
-    "VOLUME": 178872
+    "tradingCode": "PREMIERCEM",
+    "LTP": 43.3,
+    "HIGH": 44.4,
+    "LOW": 43.1,
+    "CLOSEP": 43.3,
+    "YCP": 43.9,
+    "CHANGE": -0.6,
+    "TRADE": 328,
+    "VALUE (mn)": 6.965,
+    "VOLUME": 158988
   },
   "marketInformation": {
     "lastTradingPrice": 43.3,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01714 003 195",
     "telephoneNo": "880255012191-8"
   },
-  "scrapedAt": "2026-09-11T07:00:08.988Z",
+  "scrapedAt": "2026-09-12T19:44:30.843Z",
   "shariaCompliant": true
 }

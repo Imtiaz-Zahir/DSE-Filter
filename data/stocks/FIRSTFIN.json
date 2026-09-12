@@ -8,15 +8,16 @@
   "overview": {
     "#": 135,
     "TRADING CODE": "FIRSTFIN",
-    "LTP": 4.8,
-    "HIGH": 4.9,
+    "tradingCode": "FIRSTFIN",
+    "LTP": 4.2,
+    "HIGH": 4.6,
     "LOW": 4.2,
-    "CLOSEP": 4.7,
-    "YCP": 4.5,
-    "CHANGE": 0.3,
-    "TRADE": 32,
-    "VALUE (mn)": 0.126,
-    "VOLUME": 27303
+    "CLOSEP": 4.2,
+    "YCP": 4.4,
+    "CHANGE": -0.2,
+    "TRADE": 36,
+    "VALUE (mn)": 0.357,
+    "VOLUME": 84632
   },
   "marketInformation": {
     "lastTradingPrice": 4.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01987 007 879",
     "telephoneNo": "55013842-43"
   },
-  "scrapedAt": "2026-09-11T06:59:49.737Z",
+  "scrapedAt": "2026-09-12T19:43:33.603Z",
   "shariaCompliant": false
 }

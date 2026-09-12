@@ -8,6 +8,7 @@
   "overview": {
     "#": 376,
     "TRADING CODE": "UNIONBANK",
+    "tradingCode": "UNIONBANK",
     "LTP": 0,
     "HIGH": 0,
     "LOW": 0,
@@ -321,6 +322,6 @@
     "cellNo": "+88 01935307444",
     "telephoneNo": "+880-02-222280523"
   },
-  "scrapedAt": "2026-09-11T07:00:23.080Z",
+  "scrapedAt": "2026-09-12T19:45:03.091Z",
   "shariaCompliant": true
 }

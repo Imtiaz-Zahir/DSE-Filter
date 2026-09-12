@@ -8,15 +8,16 @@
   "overview": {
     "#": 302,
     "TRADING CODE": "RDFOOD",
-    "LTP": 24.6,
-    "HIGH": 25.6,
-    "LOW": 24.4,
-    "CLOSEP": 24.6,
-    "YCP": 25.3,
-    "CHANGE": -0.7,
-    "TRADE": 535,
-    "VALUE (mn)": 9.798,
-    "VOLUME": 391891
+    "tradingCode": "RDFOOD",
+    "LTP": 23.9,
+    "HIGH": 24.3,
+    "LOW": 23.7,
+    "CLOSEP": 23.9,
+    "YCP": 24,
+    "CHANGE": -0.1,
+    "TRADE": 276,
+    "VALUE (mn)": 5.119,
+    "VOLUME": 213844
   },
   "marketInformation": {
     "lastTradingPrice": 23.9,
@@ -370,6 +371,6 @@
     "cellNo": "01978 090802",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:13.380Z",
+  "scrapedAt": "2026-09-12T19:44:37.724Z",
   "shariaCompliant": true
 }

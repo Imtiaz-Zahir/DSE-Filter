@@ -8,15 +8,16 @@
   "overview": {
     "#": 141,
     "TRADING CODE": "GEMINISEA",
-    "LTP": 114.8,
-    "HIGH": 118,
-    "LOW": 113.9,
-    "CLOSEP": 114,
-    "YCP": 116.1,
-    "CHANGE": -1.3,
-    "TRADE": 85,
-    "VALUE (mn)": 0.741,
-    "VOLUME": 6483
+    "tradingCode": "GEMINISEA",
+    "LTP": 108.8,
+    "HIGH": 112.4,
+    "LOW": 107.3,
+    "CLOSEP": 108.8,
+    "YCP": 107.6,
+    "CHANGE": 1.2,
+    "TRADE": 53,
+    "VALUE (mn)": 0.413,
+    "VOLUME": 3799
   },
   "marketInformation": {
     "lastTradingPrice": 108.8,
@@ -373,6 +374,6 @@
     "cellNo": "01708803244",
     "telephoneNo": "+88-02-41020596-9, Extension: 117"
   },
-  "scrapedAt": "2026-09-11T06:59:51.580Z",
+  "scrapedAt": "2026-09-12T19:43:37.099Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 235,
     "TRADING CODE": "MONNOFABR",
-    "LTP": 21.8,
-    "HIGH": 22.8,
-    "LOW": 21.7,
-    "CLOSEP": 21.8,
-    "YCP": 22.5,
-    "CHANGE": -0.7,
-    "TRADE": 961,
-    "VALUE (mn)": 27.183,
-    "VOLUME": 1222753
+    "tradingCode": "MONNOFABR",
+    "LTP": 20.5,
+    "HIGH": 21,
+    "LOW": 20.3,
+    "CLOSEP": 20.5,
+    "YCP": 20.8,
+    "CHANGE": -0.3,
+    "TRADE": 547,
+    "VALUE (mn)": 13.647,
+    "VOLUME": 663193
   },
   "marketInformation": {
     "lastTradingPrice": 20.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "02 47123449"
   },
-  "scrapedAt": "2026-09-11T07:00:02.915Z",
+  "scrapedAt": "2026-09-12T19:44:11.226Z",
   "shariaCompliant": false
 }

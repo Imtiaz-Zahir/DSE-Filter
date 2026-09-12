@@ -8,15 +8,16 @@
   "overview": {
     "#": 223,
     "TRADING CODE": "MERCINS",
-    "LTP": 43.2,
-    "HIGH": 44.1,
-    "LOW": 42.8,
-    "CLOSEP": 43.2,
-    "YCP": 42.4,
-    "CHANGE": 0.8,
-    "TRADE": 391,
-    "VALUE (mn)": 10.194,
-    "VOLUME": 234982
+    "tradingCode": "MERCINS",
+    "LTP": 48.3,
+    "HIGH": 48.9,
+    "LOW": 44.7,
+    "CLOSEP": 48.3,
+    "YCP": 45,
+    "CHANGE": 3.3,
+    "TRADE": 2146,
+    "VALUE (mn)": 109.412,
+    "VOLUME": 2334595
   },
   "marketInformation": {
     "lastTradingPrice": 48.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01727 325 514",
     "telephoneNo": "47118799"
   },
-  "scrapedAt": "2026-09-11T07:00:00.745Z",
+  "scrapedAt": "2026-09-12T19:44:06.675Z",
   "shariaCompliant": false
 }

@@ -8,15 +8,16 @@
   "overview": {
     "#": 3,
     "TRADING CODE": "AAMRANET",
-    "LTP": 19.8,
-    "HIGH": 20.3,
-    "LOW": 19.7,
-    "CLOSEP": 19.8,
-    "YCP": 19.7,
-    "CHANGE": 0.1,
-    "TRADE": 284,
-    "VALUE (mn)": 2.183,
-    "VOLUME": 109519
+    "tradingCode": "AAMRANET",
+    "LTP": 18.2,
+    "HIGH": 18.4,
+    "LOW": 18,
+    "CLOSEP": 18.2,
+    "YCP": 17.9,
+    "CHANGE": 0.3,
+    "TRADE": 291,
+    "VALUE (mn)": 3.488,
+    "VOLUME": 191639
   },
   "marketInformation": {
     "lastTradingPrice": 18.2,
@@ -373,6 +374,6 @@
     "cellNo": "01713477405",
     "telephoneNo": "8802-8832446 Ext-140"
   },
-  "scrapedAt": "2026-09-11T06:59:32.909Z",
+  "scrapedAt": "2026-09-12T19:42:45.899Z",
   "shariaCompliant": true
 }

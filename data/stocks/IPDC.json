@@ -8,15 +8,16 @@
   "overview": {
     "#": 182,
     "TRADING CODE": "IPDC",
-    "LTP": 32,
-    "HIGH": 32.9,
-    "LOW": 31.5,
-    "CLOSEP": 32,
-    "YCP": 31.9,
-    "CHANGE": 0.1,
-    "TRADE": 1498,
-    "VALUE (mn)": 129.322,
-    "VOLUME": 4009901
+    "tradingCode": "IPDC",
+    "LTP": 31.7,
+    "HIGH": 32.6,
+    "LOW": 31.6,
+    "CLOSEP": 31.7,
+    "YCP": 31.8,
+    "CHANGE": -0.1,
+    "TRADE": 884,
+    "VALUE (mn)": 46.171,
+    "VOLUME": 1446771
   },
   "marketInformation": {
     "lastTradingPrice": 31.7,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01313778144",
     "telephoneNo": "09612 885533 Ext-112"
   },
-  "scrapedAt": "2026-09-11T06:59:58.338Z",
+  "scrapedAt": "2026-09-12T19:43:53.266Z",
   "shariaCompliant": false
 }

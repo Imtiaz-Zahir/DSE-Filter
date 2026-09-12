@@ -8,15 +8,16 @@
   "overview": {
     "#": 96,
     "TRADING CODE": "DELTALIFE",
-    "LTP": 76.7,
-    "HIGH": 77.9,
-    "LOW": 76,
-    "CLOSEP": 77.1,
-    "YCP": 76.7,
-    "CHANGE": 0,
-    "TRADE": 245,
-    "VALUE (mn)": 5.725,
-    "VOLUME": 74372
+    "tradingCode": "DELTALIFE",
+    "LTP": 71.6,
+    "HIGH": 73.3,
+    "LOW": 71.2,
+    "CLOSEP": 71.6,
+    "YCP": 72.8,
+    "CHANGE": -1.2,
+    "TRADE": 308,
+    "VALUE (mn)": 5.196,
+    "VOLUME": 72068
   },
   "marketInformation": {
     "lastTradingPrice": 71.6,
@@ -318,6 +319,6 @@
     "cellNo": "+8 801713360300",
     "telephoneNo": "09613666000 Ext. 166"
   },
-  "scrapedAt": "2026-09-11T06:59:45.339Z",
+  "scrapedAt": "2026-09-12T19:43:24.501Z",
   "shariaCompliant": false
 }

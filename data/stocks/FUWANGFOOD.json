@@ -8,15 +8,16 @@
   "overview": {
     "#": 139,
     "TRADING CODE": "FUWANGFOOD",
-    "LTP": 10.2,
-    "HIGH": 10.4,
-    "LOW": 10.1,
-    "CLOSEP": 10.2,
-    "YCP": 10.3,
-    "CHANGE": -0.1,
-    "TRADE": 133,
-    "VALUE (mn)": 1.229,
-    "VOLUME": 120233
+    "tradingCode": "FUWANGFOOD",
+    "LTP": 9.6,
+    "HIGH": 9.8,
+    "LOW": 9.5,
+    "CLOSEP": 9.6,
+    "YCP": 9.6,
+    "CHANGE": 0,
+    "TRADE": 94,
+    "VALUE (mn)": 0.918,
+    "VOLUME": 95654
   },
   "marketInformation": {
     "lastTradingPrice": 9.6,
@@ -373,6 +374,6 @@
     "cellNo": "+8801701 222 901",
     "telephoneNo": "+880222287359-60, Ext-139"
   },
-  "scrapedAt": "2026-09-11T06:59:51.624Z",
+  "scrapedAt": "2026-09-12T19:43:34.661Z",
   "shariaCompliant": true
 }

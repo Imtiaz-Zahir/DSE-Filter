@@ -8,15 +8,16 @@
   "overview": {
     "#": 293,
     "TRADING CODE": "PTL",
-    "LTP": 74.8,
-    "HIGH": 75.1,
-    "LOW": 73.9,
-    "CLOSEP": 74.8,
-    "YCP": 73.9,
-    "CHANGE": 0.9,
-    "TRADE": 1999,
-    "VALUE (mn)": 182.24,
-    "VOLUME": 2441274
+    "tradingCode": "PTL",
+    "LTP": 78.1,
+    "HIGH": 78.7,
+    "LOW": 76.7,
+    "CLOSEP": 78.1,
+    "YCP": 78.1,
+    "CHANGE": 0,
+    "TRADE": 2015,
+    "VALUE (mn)": 160.114,
+    "VOLUME": 2060575
   },
   "marketInformation": {
     "lastTradingPrice": 78.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01713 236 107",
     "telephoneNo": "+880-2-55049834"
   },
-  "scrapedAt": "2026-09-11T07:00:10.780Z",
+  "scrapedAt": "2026-09-12T19:44:32.609Z",
   "shariaCompliant": false
 }

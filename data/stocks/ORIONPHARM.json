@@ -8,15 +8,16 @@
   "overview": {
     "#": 263,
     "TRADING CODE": "ORIONPHARM",
-    "LTP": 26.4,
-    "HIGH": 26.8,
-    "LOW": 26.3,
-    "CLOSEP": 26.4,
-    "YCP": 26.2,
-    "CHANGE": 0.2,
-    "TRADE": 138,
-    "VALUE (mn)": 2.207,
-    "VOLUME": 83326
+    "tradingCode": "ORIONPHARM",
+    "LTP": 25,
+    "HIGH": 25.5,
+    "LOW": 24.9,
+    "CLOSEP": 25,
+    "YCP": 25.1,
+    "CHANGE": -0.1,
+    "TRADE": 165,
+    "VALUE (mn)": 2.221,
+    "VOLUME": 88659
   },
   "marketInformation": {
     "lastTradingPrice": 25,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01711 402 522",
     "telephoneNo": "+88028870133 Ext-114"
   },
-  "scrapedAt": "2026-09-11T07:00:06.865Z",
+  "scrapedAt": "2026-09-12T19:44:21.972Z",
   "shariaCompliant": false
 }

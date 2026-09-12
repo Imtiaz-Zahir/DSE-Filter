@@ -8,15 +8,16 @@
   "overview": {
     "#": 335,
     "TRADING CODE": "SHEPHERD",
-    "LTP": 15.1,
-    "HIGH": 15.8,
-    "LOW": 15,
-    "CLOSEP": 15.1,
-    "YCP": 15.5,
-    "CHANGE": -0.4,
-    "TRADE": 371,
-    "VALUE (mn)": 11.517,
-    "VOLUME": 752355
+    "tradingCode": "SHEPHERD",
+    "LTP": 13.5,
+    "HIGH": 14,
+    "LOW": 13.3,
+    "CLOSEP": 13.5,
+    "YCP": 13.8,
+    "CHANGE": -0.3,
+    "TRADE": 274,
+    "VALUE (mn)": 5.002,
+    "VOLUME": 367372
   },
   "marketInformation": {
     "lastTradingPrice": 13.5,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01966 660 445",
     "telephoneNo": "48963340-42 Ext.111"
   },
-  "scrapedAt": "2026-09-11T07:00:16.909Z",
+  "scrapedAt": "2026-09-12T19:44:47.902Z",
   "shariaCompliant": false
 }

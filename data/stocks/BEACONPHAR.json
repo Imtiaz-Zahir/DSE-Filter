@@ -8,15 +8,16 @@
   "overview": {
     "#": 61,
     "TRADING CODE": "BEACONPHAR",
-    "LTP": 107,
-    "HIGH": 107.4,
-    "LOW": 105,
-    "CLOSEP": 106.6,
-    "YCP": 105.5,
-    "CHANGE": 1.5,
-    "TRADE": 476,
-    "VALUE (mn)": 9.361,
-    "VOLUME": 87892
+    "tradingCode": "BEACONPHAR",
+    "LTP": 102.3,
+    "HIGH": 103.9,
+    "LOW": 102,
+    "CLOSEP": 102.3,
+    "YCP": 102.8,
+    "CHANGE": -0.5,
+    "TRADE": 422,
+    "VALUE (mn)": 5.911,
+    "VOLUME": 57552
   },
   "marketInformation": {
     "lastTradingPrice": 102.3,
@@ -372,6 +373,6 @@
     "cellNo": "+88 01335 251144",
     "telephoneNo": "+880-2-57165371-76"
   },
-  "scrapedAt": "2026-09-11T06:59:42.267Z",
+  "scrapedAt": "2026-09-12T19:43:11.326Z",
   "shariaCompliant": true
 }

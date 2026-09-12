@@ -8,15 +8,16 @@
   "overview": {
     "#": 360,
     "TRADING CODE": "STANDBANKL",
+    "tradingCode": "STANDBANKL",
     "LTP": 4.5,
-    "HIGH": 4.6,
+    "HIGH": 4.5,
     "LOW": 4.4,
     "CLOSEP": 4.5,
     "YCP": 4.4,
     "CHANGE": 0.1,
-    "TRADE": 99,
-    "VALUE (mn)": 1.296,
-    "VOLUME": 288355
+    "TRADE": 48,
+    "VALUE (mn)": 0.508,
+    "VOLUME": 114182
   },
   "marketInformation": {
     "lastTradingPrice": 4.5,
@@ -373,6 +374,6 @@
     "cellNo": "+8801999055536",
     "telephoneNo": "+8802223358385, +8802223385106, +8802223357913"
   },
-  "scrapedAt": "2026-09-11T07:00:20.281Z",
+  "scrapedAt": "2026-09-12T19:44:56.260Z",
   "shariaCompliant": false
 }

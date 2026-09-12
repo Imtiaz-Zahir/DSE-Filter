@@ -8,15 +8,16 @@
   "overview": {
     "#": 95,
     "TRADING CODE": "DBH1STMF",
-    "LTP": 5.2,
-    "HIGH": 5.5,
-    "LOW": 5.1,
-    "CLOSEP": 5.2,
+    "tradingCode": "DBH1STMF",
+    "LTP": 5.6,
+    "HIGH": 5.7,
+    "LOW": 5.5,
+    "CLOSEP": 5.6,
     "YCP": 5.4,
-    "CHANGE": -0.2,
-    "TRADE": 115,
-    "VALUE (mn)": 3.26,
-    "VOLUME": 618220
+    "CHANGE": 0.2,
+    "TRADE": 399,
+    "VALUE (mn)": 11.809,
+    "VOLUME": 2110153
   },
   "marketInformation": {
     "lastTradingPrice": 5.6,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-11T06:59:46.891Z",
+  "scrapedAt": "2026-09-12T19:43:22.797Z",
   "shariaCompliant": false
 }

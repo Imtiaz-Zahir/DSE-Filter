@@ -8,15 +8,16 @@
   "overview": {
     "#": 193,
     "TRADING CODE": "JUTESPINN",
-    "LTP": 213,
-    "HIGH": 213.2,
-    "LOW": 212,
-    "CLOSEP": 213,
-    "YCP": 213.3,
-    "CHANGE": -0.3,
-    "TRADE": 21,
-    "VALUE (mn)": 0.18,
-    "VOLUME": 845
+    "tradingCode": "JUTESPINN",
+    "LTP": 209,
+    "HIGH": 212.1,
+    "LOW": 206,
+    "CLOSEP": 209,
+    "YCP": 208.3,
+    "CHANGE": 0.7,
+    "TRADE": 22,
+    "VALUE (mn)": 0.148,
+    "VOLUME": 706
   },
   "marketInformation": {
     "lastTradingPrice": 209,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01713 431 772",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:56.744Z",
+  "scrapedAt": "2026-09-12T19:43:55.635Z",
   "shariaCompliant": false
 }

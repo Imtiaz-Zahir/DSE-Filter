@@ -8,15 +8,16 @@
   "overview": {
     "#": 43,
     "TRADING CODE": "AZIZPIPES",
-    "LTP": 78.7,
-    "HIGH": 80.7,
-    "LOW": 78.2,
-    "CLOSEP": 78.7,
-    "YCP": 79.7,
-    "CHANGE": -1,
-    "TRADE": 312,
-    "VALUE (mn)": 1.483,
-    "VOLUME": 18751
+    "tradingCode": "AZIZPIPES",
+    "LTP": 75,
+    "HIGH": 77.9,
+    "LOW": 73,
+    "CLOSEP": 75,
+    "YCP": 75.8,
+    "CHANGE": -0.8,
+    "TRADE": 154,
+    "VALUE (mn)": 0.239,
+    "VOLUME": 3200
   },
   "marketInformation": {
     "lastTradingPrice": 75,
@@ -373,6 +374,6 @@
     "cellNo": "01678029190",
     "telephoneNo": "+880-2-223382691"
   },
-  "scrapedAt": "2026-09-11T06:59:39.754Z",
+  "scrapedAt": "2026-09-12T19:43:04.113Z",
   "shariaCompliant": false
 }

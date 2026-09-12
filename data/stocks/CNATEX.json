@@ -8,15 +8,16 @@
   "overview": {
     "#": 85,
     "TRADING CODE": "CNATEX",
-    "LTP": 3.1,
-    "HIGH": 3.3,
-    "LOW": 3.1,
-    "CLOSEP": 3.1,
-    "YCP": 3.2,
-    "CHANGE": -0.1,
-    "TRADE": 123,
-    "VALUE (mn)": 1.79,
-    "VOLUME": 567988
+    "tradingCode": "CNATEX",
+    "LTP": 3,
+    "HIGH": 3.1,
+    "LOW": 2.9,
+    "CLOSEP": 3,
+    "YCP": 3,
+    "CHANGE": 0,
+    "TRADE": 135,
+    "VALUE (mn)": 1.375,
+    "VOLUME": 458745
   },
   "marketInformation": {
     "lastTradingPrice": 3,
@@ -370,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:44.523Z",
+  "scrapedAt": "2026-09-12T19:43:19.143Z",
   "shariaCompliant": false
 }

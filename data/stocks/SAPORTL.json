@@ -8,15 +8,16 @@
   "overview": {
     "#": 326,
     "TRADING CODE": "SAPORTL",
-    "LTP": 59,
-    "HIGH": 59.8,
-    "LOW": 58.9,
-    "CLOSEP": 59,
-    "YCP": 59.2,
-    "CHANGE": -0.2,
-    "TRADE": 636,
-    "VALUE (mn)": 63.948,
-    "VOLUME": 1078850
+    "tradingCode": "SAPORTL",
+    "LTP": 60.1,
+    "HIGH": 61.9,
+    "LOW": 59.9,
+    "CLOSEP": 60.1,
+    "YCP": 60.5,
+    "CHANGE": -0.4,
+    "TRADE": 861,
+    "VALUE (mn)": 74.535,
+    "VOLUME": 1234824
   },
   "marketInformation": {
     "lastTradingPrice": 60.1,
@@ -373,6 +374,6 @@
     "cellNo": "01970025057",
     "telephoneNo": "+88 02 55048284-6, Ext-404"
   },
-  "scrapedAt": "2026-09-11T07:00:16.282Z",
+  "scrapedAt": "2026-09-12T19:44:47.167Z",
   "shariaCompliant": true
 }

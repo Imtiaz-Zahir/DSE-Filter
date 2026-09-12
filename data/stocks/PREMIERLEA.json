@@ -8,15 +8,16 @@
   "overview": {
     "#": 284,
     "TRADING CODE": "PREMIERLEA",
-    "LTP": 2.3,
-    "HIGH": 2.4,
-    "LOW": 2.1,
-    "CLOSEP": 2.2,
-    "YCP": 2.3,
+    "tradingCode": "PREMIERLEA",
+    "LTP": 2.1,
+    "HIGH": 2.3,
+    "LOW": 2,
+    "CLOSEP": 2.1,
+    "YCP": 2.1,
     "CHANGE": 0,
-    "TRADE": 108,
-    "VALUE (mn)": 0.894,
-    "VOLUME": 402166
+    "TRADE": 116,
+    "VALUE (mn)": 1.516,
+    "VOLUME": 720313
   },
   "marketInformation": {
     "lastTradingPrice": 2.1,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01818 618 990",
     "telephoneNo": "+880-2-09666777880 Ext-2031"
   },
-  "scrapedAt": "2026-09-11T07:00:09.335Z",
+  "scrapedAt": "2026-09-12T19:44:29.298Z",
   "shariaCompliant": false
 }

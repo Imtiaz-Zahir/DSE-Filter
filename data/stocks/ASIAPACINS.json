@@ -8,15 +8,16 @@
   "overview": {
     "#": 40,
     "TRADING CODE": "ASIAPACINS",
-    "LTP": 50.3,
-    "HIGH": 51.6,
-    "LOW": 49.1,
-    "CLOSEP": 50.3,
-    "YCP": 50.2,
-    "CHANGE": 0.1,
-    "TRADE": 491,
-    "VALUE (mn)": 16.936,
-    "VOLUME": 333181
+    "tradingCode": "ASIAPACINS",
+    "LTP": 47.6,
+    "HIGH": 48.6,
+    "LOW": 47.5,
+    "CLOSEP": 47.7,
+    "YCP": 47.7,
+    "CHANGE": -0.1,
+    "TRADE": 240,
+    "VALUE (mn)": 8.538,
+    "VOLUME": 178319
   },
   "marketInformation": {
     "lastTradingPrice": 47.6,
@@ -373,6 +374,6 @@
     "cellNo": "+8801914397616",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:36.795Z",
+  "scrapedAt": "2026-09-12T19:43:00.477Z",
   "shariaCompliant": false
 }

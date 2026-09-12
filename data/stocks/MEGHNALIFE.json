@@ -8,15 +8,16 @@
   "overview": {
     "#": 220,
     "TRADING CODE": "MEGHNALIFE",
-    "LTP": 55.8,
-    "HIGH": 56.8,
-    "LOW": 55.6,
-    "CLOSEP": 55.8,
-    "YCP": 55.5,
-    "CHANGE": 0.3,
-    "TRADE": 160,
-    "VALUE (mn)": 2.282,
-    "VOLUME": 40730
+    "tradingCode": "MEGHNALIFE",
+    "LTP": 52.7,
+    "HIGH": 54.7,
+    "LOW": 52.2,
+    "CLOSEP": 52.7,
+    "YCP": 53.3,
+    "CHANGE": -0.6,
+    "TRADE": 68,
+    "VALUE (mn)": 0.907,
+    "VOLUME": 17073
   },
   "marketInformation": {
     "lastTradingPrice": 52.7,
@@ -318,6 +319,6 @@
     "cellNo": "01322916097",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T07:00:01.288Z",
+  "scrapedAt": "2026-09-12T19:44:05.384Z",
   "shariaCompliant": false
 }

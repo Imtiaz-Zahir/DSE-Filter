@@ -8,15 +8,16 @@
   "overview": {
     "#": 177,
     "TRADING CODE": "IFILISLMF1",
-    "LTP": 5.2,
-    "HIGH": 5.4,
-    "LOW": 5.2,
-    "CLOSEP": 5.2,
-    "YCP": 5.4,
-    "CHANGE": -0.2,
-    "TRADE": 44,
-    "VALUE (mn)": 1.615,
-    "VOLUME": 304130
+    "tradingCode": "IFILISLMF1",
+    "LTP": 5.5,
+    "HIGH": 5.6,
+    "LOW": 5.4,
+    "CLOSEP": 5.5,
+    "YCP": 5.3,
+    "CHANGE": 0.2,
+    "TRADE": 93,
+    "VALUE (mn)": 2.646,
+    "VOLUME": 484189
   },
   "marketInformation": {
     "lastTradingPrice": 5.5,
@@ -372,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-11T06:59:56.186Z",
+  "scrapedAt": "2026-09-12T19:43:52.332Z",
   "shariaCompliant": false
 }

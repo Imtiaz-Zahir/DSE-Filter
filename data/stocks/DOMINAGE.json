@@ -8,15 +8,16 @@
   "overview": {
     "#": 103,
     "TRADING CODE": "DOMINAGE",
-    "LTP": 63.6,
-    "HIGH": 63.9,
-    "LOW": 63.3,
-    "CLOSEP": 63.6,
-    "YCP": 63.6,
-    "CHANGE": 0,
-    "TRADE": 681,
-    "VALUE (mn)": 42.724,
-    "VOLUME": 673225
+    "tradingCode": "DOMINAGE",
+    "LTP": 63.7,
+    "HIGH": 65.2,
+    "LOW": 62,
+    "CLOSEP": 63.7,
+    "YCP": 62.5,
+    "CHANGE": 1.2,
+    "TRADE": 1483,
+    "VALUE (mn)": 101.584,
+    "VOLUME": 1592385
   },
   "marketInformation": {
     "lastTradingPrice": 63.7,
@@ -373,6 +374,6 @@
     "cellNo": "01733-037301",
     "telephoneNo": "88-02-222282140-43"
   },
-  "scrapedAt": "2026-09-11T06:59:45.528Z",
+  "scrapedAt": "2026-09-12T19:43:25.660Z",
   "shariaCompliant": true
 }

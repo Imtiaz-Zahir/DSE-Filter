@@ -8,15 +8,16 @@
   "overview": {
     "#": 369,
     "TRADING CODE": "TITASGAS",
-    "LTP": 18.1,
-    "HIGH": 18.3,
-    "LOW": 18.1,
-    "CLOSEP": 18.1,
-    "YCP": 18.2,
-    "CHANGE": -0.1,
-    "TRADE": 89,
-    "VALUE (mn)": 0.947,
-    "VOLUME": 52091
+    "tradingCode": "TITASGAS",
+    "LTP": 17.2,
+    "HIGH": 17.6,
+    "LOW": 17.1,
+    "CLOSEP": 17.2,
+    "YCP": 17.4,
+    "CHANGE": -0.2,
+    "TRADE": 149,
+    "VALUE (mn)": 1.824,
+    "VOLUME": 105271
   },
   "marketInformation": {
     "lastTradingPrice": 17.2,
@@ -373,6 +374,6 @@
     "cellNo": "01939-921223",
     "telephoneNo": "88-02-55012698"
   },
-  "scrapedAt": "2026-09-11T07:00:21.266Z",
+  "scrapedAt": "2026-09-12T19:44:59.867Z",
   "shariaCompliant": true
 }

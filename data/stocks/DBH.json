@@ -8,15 +8,16 @@
   "overview": {
     "#": 94,
     "TRADING CODE": "DBH",
-    "LTP": 41.5,
-    "HIGH": 42.2,
-    "LOW": 41.4,
-    "CLOSEP": 41.5,
-    "YCP": 41.7,
-    "CHANGE": -0.2,
-    "TRADE": 210,
-    "VALUE (mn)": 4.881,
-    "VOLUME": 116428
+    "tradingCode": "DBH",
+    "LTP": 40.3,
+    "HIGH": 41,
+    "LOW": 40.1,
+    "CLOSEP": 40.3,
+    "YCP": 40.3,
+    "CHANGE": 0,
+    "TRADE": 68,
+    "VALUE (mn)": 0.892,
+    "VOLUME": 22076
   },
   "marketInformation": {
     "lastTradingPrice": 40.3,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01614 072 145",
     "telephoneNo": "09610334197"
   },
-  "scrapedAt": "2026-09-11T06:59:45.669Z",
+  "scrapedAt": "2026-09-12T19:43:22.740Z",
   "shariaCompliant": false
 }

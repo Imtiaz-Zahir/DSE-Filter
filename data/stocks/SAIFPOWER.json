@@ -8,15 +8,16 @@
   "overview": {
     "#": 318,
     "TRADING CODE": "SAIFPOWER",
-    "LTP": 9.4,
-    "HIGH": 9.7,
-    "LOW": 9.4,
-    "CLOSEP": 9.4,
-    "YCP": 9.6,
-    "CHANGE": -0.2,
-    "TRADE": 128,
-    "VALUE (mn)": 2.241,
-    "VOLUME": 236984
+    "tradingCode": "SAIFPOWER",
+    "LTP": 8.7,
+    "HIGH": 9,
+    "LOW": 8.6,
+    "CLOSEP": 8.7,
+    "YCP": 8.8,
+    "CHANGE": -0.1,
+    "TRADE": 184,
+    "VALUE (mn)": 2.181,
+    "VOLUME": 250355
   },
   "marketInformation": {
     "lastTradingPrice": 8.7,
@@ -370,6 +371,6 @@
     "cellNo": "01714012508",
     "telephoneNo": "+8809666789121"
   },
-  "scrapedAt": "2026-09-11T07:00:14.511Z",
+  "scrapedAt": "2026-09-12T19:44:44.345Z",
   "shariaCompliant": false
 }

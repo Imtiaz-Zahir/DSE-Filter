@@ -8,43 +8,44 @@
   "overview": {
     "#": 209,
     "TRADING CODE": "LRBDL",
-    "LTP": 14.5,
-    "HIGH": 14.8,
-    "LOW": 14.5,
-    "CLOSEP": 14.5,
-    "YCP": 14.5,
-    "CHANGE": 0,
-    "TRADE": 141,
-    "VALUE (mn)": 1.4,
-    "VOLUME": 96162
+    "tradingCode": "LRBDL",
+    "LTP": 13.6,
+    "HIGH": 14,
+    "LOW": 13.2,
+    "CLOSEP": 13.6,
+    "YCP": 13.9,
+    "CHANGE": -0.3,
+    "TRADE": 183,
+    "VALUE (mn)": 1.083,
+    "VOLUME": 80116
   },
   "marketInformation": {
-    "lastTradingPrice": 13.6,
+    "lastTradingPrice": null,
     "daysRange": [
-      13.2,
-      14
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       16.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 183,
-    "yesterdaysClose": 13.9,
-    "daysVolumeNos": 80116,
-    "adjustedOpeningPrice": 13.9,
-    "daysValueMn": 1.08,
-    "openingPrice": 14,
-    "marketCapMn": 2018.88,
-    "closingPrice": 13.6,
-    "freeFloatMarketCapMn": 1297.437
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": null,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": null,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 0,
+    "closingPrice": null,
+    "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
     "debutTradingDate": "2021-03-09",
     "paidUpCapitalMn": 1452.43,
-    "typeOfInstrument": "Equity",
+    "typeOfInstrument": "Unknown",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 145243144,
@@ -52,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2021,
-    "marketCategory": "Z",
+    "marketCategory": "-",
     "electronicShare": true,
     "cashDividend": null,
     "bonusIssue": null,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01977 266 193",
     "telephoneNo": "02-43151995, 02-43150036"
   },
-  "scrapedAt": "2026-09-11T06:59:58.678Z",
+  "scrapedAt": "2026-09-12T19:44:01.880Z",
   "shariaCompliant": true
 }

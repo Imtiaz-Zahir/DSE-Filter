@@ -8,15 +8,16 @@
   "overview": {
     "#": 151,
     "TRADING CODE": "GPHISPAT",
-    "LTP": 17.4,
-    "HIGH": 17.9,
-    "LOW": 17.4,
-    "CLOSEP": 17.4,
-    "YCP": 17.7,
-    "CHANGE": -0.3,
-    "TRADE": 362,
-    "VALUE (mn)": 3.933,
-    "VOLUME": 223924
+    "tradingCode": "GPHISPAT",
+    "LTP": 16.2,
+    "HIGH": 16.5,
+    "LOW": 16.1,
+    "CLOSEP": 16.2,
+    "YCP": 16.3,
+    "CHANGE": -0.1,
+    "TRADE": 331,
+    "VALUE (mn)": 7.664,
+    "VOLUME": 473757
   },
   "marketInformation": {
     "lastTradingPrice": 16.2,
@@ -373,6 +374,6 @@
     "cellNo": "+88 01718 224827",
     "telephoneNo": "+88 031 631460 (Ext: 127), +88 031 2866481"
   },
-  "scrapedAt": "2026-09-11T06:59:52.946Z",
+  "scrapedAt": "2026-09-12T19:43:41.101Z",
   "shariaCompliant": false
 }

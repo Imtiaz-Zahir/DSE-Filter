@@ -8,15 +8,16 @@
   "overview": {
     "#": 154,
     "TRADING CODE": "GREENDELMF",
-    "LTP": 4.5,
-    "HIGH": 4.7,
-    "LOW": 4.4,
-    "CLOSEP": 4.5,
-    "YCP": 4.6,
-    "CHANGE": -0.1,
-    "TRADE": 126,
-    "VALUE (mn)": 4.933,
-    "VOLUME": 1073958
+    "tradingCode": "GREENDELMF",
+    "LTP": 4.7,
+    "HIGH": 4.8,
+    "LOW": 4.5,
+    "CLOSEP": 4.7,
+    "YCP": 4.5,
+    "CHANGE": 0.2,
+    "TRADE": 282,
+    "VALUE (mn)": 6.587,
+    "VOLUME": 1413741
   },
   "marketInformation": {
     "lastTradingPrice": 4.7,
@@ -370,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-11T06:59:53.163Z",
+  "scrapedAt": "2026-09-12T19:43:41.488Z",
   "shariaCompliant": false
 }

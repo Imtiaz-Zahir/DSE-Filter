@@ -8,15 +8,16 @@
   "overview": {
     "#": 260,
     "TRADING CODE": "OLYMPIC",
-    "LTP": 146.7,
-    "HIGH": 147.9,
-    "LOW": 146.2,
-    "CLOSEP": 146.7,
-    "YCP": 146.7,
-    "CHANGE": 0,
-    "TRADE": 210,
-    "VALUE (mn)": 7.736,
-    "VOLUME": 52666
+    "tradingCode": "OLYMPIC",
+    "LTP": 142.5,
+    "HIGH": 144.6,
+    "LOW": 142.2,
+    "CLOSEP": 142.5,
+    "YCP": 143.5,
+    "CHANGE": -1,
+    "TRADE": 569,
+    "VALUE (mn)": 10.233,
+    "VOLUME": 71642
   },
   "marketInformation": {
     "lastTradingPrice": 142.5,
@@ -373,6 +374,6 @@
     "cellNo": "+880-1876887353",
     "telephoneNo": "+880-9606565228"
   },
-  "scrapedAt": "2026-09-11T07:00:06.711Z",
+  "scrapedAt": "2026-09-12T19:44:21.100Z",
   "shariaCompliant": true
 }

@@ -30,19 +30,6 @@ const bindingName = bindingIdx !== -1 && args[bindingIdx + 1] ? args[bindingIdx 
 const checkKeyIdx = args.indexOf("--check-key");
 const checkKey = checkKeyIdx !== -1 && args[checkKeyIdx + 1] ? args[checkKeyIdx + 1] : "dse:meta";
 
-const isRevalidate = args.includes("--revalidate");
-const revalidateUrlIdx = args.indexOf("--revalidate-url");
-const revalidateUrl =
-  revalidateUrlIdx !== -1 && args[revalidateUrlIdx + 1]
-    ? args[revalidateUrlIdx + 1]
-    : process.env.REVALIDATION_URL || "https://dse-filter.1mt2.workers.dev/api/revalidate";
-
-const revalidateSecretIdx = args.indexOf("--revalidate-secret");
-const revalidateSecret =
-  revalidateSecretIdx !== -1 && args[revalidateSecretIdx + 1]
-    ? args[revalidateSecretIdx + 1]
-    : process.env.REVALIDATION_SECRET || "";
-
 console.log("=== DSE Filter Cloudflare KV Seeder ===");
 console.log(`Mode: ${isDryRun ? "DRY RUN (no upload)" : targetFlag}`);
 console.log(`KV Binding: ${bindingName}`);
@@ -193,30 +180,6 @@ try {
   });
 
   console.log("\n✓ KV upload completed successfully!");
-
-  // Optional on-demand cache revalidation
-  if (isRevalidate) {
-    try {
-      console.log(`\nTriggering cache revalidation at ${revalidateUrl}...`);
-      const headers = { "Content-Type": "application/json" };
-      if (revalidateSecret) {
-        headers["x-revalidate-secret"] = revalidateSecret;
-      }
-      const resp = await fetch(revalidateUrl, {
-        method: "POST",
-        headers,
-        body: JSON.stringify({ tags: ["stocks", "screener", "dse-meta"] }),
-      });
-      const data = await resp.json().catch(() => null);
-      if (resp.ok) {
-        console.log("✓ Edge cache revalidation successful:", data);
-      } else {
-        console.warn("⚠️ Revalidation returned status", resp.status, data);
-      }
-    } catch (revErr) {
-      console.warn("⚠️ Failed to trigger revalidation webhook:", revErr.message);
-    }
-  }
 } catch (err) {
   console.error("\n❌ KV upload failed:", err.message);
   if (isOptional) {

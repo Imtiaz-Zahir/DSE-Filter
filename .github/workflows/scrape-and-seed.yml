@@ -1,0 +1,63 @@
+name: Scrape DSE & Seed Cloudflare KV
+
+on:
+  schedule:
+    # 03:30 PM BST (Bangladesh Standard Time, UTC+6) -> 09:30 AM UTC
+    # Runs Sunday through Thursday (trading days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu)
+    - cron: '30 9 * * 0-4'
+
+  # Manual trigger with optional concurrency input
+  workflow_dispatch:
+    inputs:
+      concurrency:
+        description: 'Scrape concurrency (parallel requests)'
+        required: false
+        default: '8'
+
+concurrency:
+  group: scrape-and-seed-kv
+  cancel-in-progress: true
+
+jobs:
+  scrape-and-upload:
+    name: Scrape DSE Data and Upload to KV
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Scrape DSE stock data
+        run: |
+          CONCURRENCY="${{ github.event.inputs.concurrency || '8' }}"
+          npx tsx scripts/index.ts --scrape --concurrency $CONCURRENCY --delay 250
+
+      - name: Upload datasets to Cloudflare KV
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npm run kv:seed:prod
+
+      - name: Commit & Push updated data to repository
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/meta.json data/screener_stocks.json data/search_index.json data/stocks/
+          if git diff --staged --quiet; then
+            echo "No data changes detected to commit."
+          else
+            git commit -m "chore(data): automated DSE scrape update [skip ci]"
+            git push
+          fi

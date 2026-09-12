@@ -44,9 +44,7 @@
     "data:scrape": "tsx scripts/index.ts --scrape",
     "data:format": "tsx scripts/index.ts --format",
     "kv:seed": "node scripts/seed-kv.mjs --preview",
-    "kv:seed:prod": "node scripts/seed-kv.mjs --remote --force --revalidate",
-    "kv:seed:if-empty": "node scripts/seed-kv.mjs --remote --if-empty",
-    "revalidate": "node scripts/revalidate.mjs",
-    "revalidate:stock": "node scripts/revalidate.mjs --code"
+    "kv:seed:prod": "node scripts/seed-kv.mjs --remote --force",
+    "kv:seed:if-empty": "node scripts/seed-kv.mjs --remote --if-empty"
   }
 }

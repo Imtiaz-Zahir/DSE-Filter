@@ -29,8 +29,6 @@ interface StockPageProps {
   params: Promise<{ code: string }> | { code: string };
 }
 
-export const revalidate = 86400; // Automatic ISR fallback every 24 hours
-
 export async function generateStaticParams() {
   const stocks = await fetchServerScreenerStocks();
   return stocks.map((s) => ({

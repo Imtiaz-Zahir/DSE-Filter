@@ -33,19 +33,18 @@ function getDefaultScreenerMap(): Map<string, ScreenerStock> {
 }
 
 /**
- * Safely retrieves the Cloudflare KV namespace binding 'DSE_DATA'.
- * Checks dynamic 'cloudflare:workers' env import, then global / process fallbacks.
+ * Safely resolves the runtime environment object containing bindings and variables.
  */
-async function getKvNamespace(): Promise<any | null> {
+async function getRuntimeEnv(): Promise<any | null> {
   if (typeof window !== "undefined") {
     return null;
   }
 
   // 1. Cloudflare Workers native module in workerd runtime
   try {
-    const workers = await import(/* @vite-ignore */ "cloudflare:workers");
-    if (workers?.env?.DSE_DATA && typeof workers.env.DSE_DATA.get === "function") {
-      return workers.env.DSE_DATA;
+    const workers = await import("cloudflare:workers");
+    if (workers && (workers.env || workers.default?.env)) {
+      return workers.env || workers.default?.env;
     }
   } catch {
     // Not running inside workerd runtime
@@ -54,14 +53,9 @@ async function getKvNamespace(): Promise<any | null> {
   // 2. Global / environment fallbacks
   try {
     const g = globalThis as any;
-    if (g?.DSE_DATA && typeof g.DSE_DATA.get === "function") {
-      return g.DSE_DATA;
-    }
-    if (g?.env?.DSE_DATA && typeof g.env.DSE_DATA.get === "function") {
-      return g.env.DSE_DATA;
-    }
-    if (typeof process !== "undefined" && (process as any).env?.DSE_DATA?.get) {
-      return (process as any).env.DSE_DATA;
+    if (g?.env) return g.env;
+    if (typeof process !== "undefined" && process.env) {
+      return process.env;
     }
   } catch {
     // Ignore global access errors
@@ -71,8 +65,43 @@ async function getKvNamespace(): Promise<any | null> {
 }
 
 /**
+ * Checks if the runtime environment variable ENVIRONMENT is 'production'.
+ */
+async function isProductionEnvironment(): Promise<boolean> {
+  const envObj = await getRuntimeEnv();
+  const envVal =
+    envObj?.ENVIRONMENT ||
+    (typeof process !== "undefined" ? process.env?.ENVIRONMENT : undefined);
+  return envVal === "production";
+}
+
+/**
+ * Safely retrieves the Cloudflare KV namespace binding 'DSE_DATA'
+ * only when ENVIRONMENT === 'production'.
+ */
+async function getKvNamespace(): Promise<any | null> {
+  const isProd = await isProductionEnvironment();
+  if (!isProd) {
+    return null;
+  }
+
+  const envObj = await getRuntimeEnv();
+  if (envObj?.DSE_DATA && typeof envObj.DSE_DATA.get === "function") {
+    return envObj.DSE_DATA;
+  }
+
+  const g = globalThis as any;
+  if (g?.DSE_DATA && typeof g.DSE_DATA.get === "function") {
+    return g.DSE_DATA;
+  }
+
+  return null;
+}
+
+/**
  * Internal loader for screener stocks.
- * Checks Cloudflare KV first, falling back to bundled dataset.
+ * When in production, checks Cloudflare KV first; falls back to bundled dataset if missing.
+ * When not in production, uses bundled dataset directly.
  */
 async function loadScreenerStocks(): Promise<ScreenerStock[]> {
   const kv = await getKvNamespace();
@@ -91,13 +120,12 @@ async function loadScreenerStocks(): Promise<ScreenerStock[]> {
 }
 
 /**
- * Fetches lightweight screener stocks with caching and tag revalidation support.
+ * Fetches lightweight screener stocks with tag-based revalidation.
  */
 export const fetchServerScreenerStocks = unstable_cache(
   async () => loadScreenerStocks(),
   ["dse-screener-stocks"],
   {
-    revalidate: 3600,
     tags: [CACHE_TAGS.STOCKS, CACHE_TAGS.SCREENER],
   }
 );
@@ -162,7 +190,7 @@ async function loadStockByCode(code: string): Promise<Stock | null> {
 }
 
 /**
- * Fetches an individual stock by trading code with caching and tag revalidation support.
+ * Fetches an individual stock by trading code with tag-based revalidation.
  */
 export async function fetchServerStockByCode(code: string): Promise<Stock | null> {
   if (!code) return null;
@@ -171,7 +199,6 @@ export async function fetchServerStockByCode(code: string): Promise<Stock | null
     async () => loadStockByCode(normalized),
     [`dse-stock-${normalized}`],
     {
-      revalidate: 86400,
       tags: [CACHE_TAGS.STOCKS, CACHE_TAGS.stock(normalized)],
     }
   );
@@ -180,7 +207,8 @@ export async function fetchServerStockByCode(code: string): Promise<Stock | null
 
 /**
  * Internal loader for metadata.
- * Checks Cloudflare KV first, falling back to bundled metadata.
+ * When in production, checks Cloudflare KV first; falls back to bundled metadata if missing.
+ * When not in production, uses bundled metadata directly.
  */
 async function loadMeta(): Promise<DseMeta> {
   const kv = await getKvNamespace();
@@ -199,14 +227,13 @@ async function loadMeta(): Promise<DseMeta> {
 }
 
 /**
- * Fetches dataset metadata with caching and tag revalidation support.
+ * Fetches dataset metadata with tag-based revalidation.
  */
 export const fetchServerMeta = unstable_cache(
   async () => loadMeta(),
   ["dse-meta"],
   {
-    revalidate: 3600,
-    tags: [CACHE_TAGS.META],
+    tags: [CACHE_TAGS.META, CACHE_TAGS.STOCKS],
   }
 );
 

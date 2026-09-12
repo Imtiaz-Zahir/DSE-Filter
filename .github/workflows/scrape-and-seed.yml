@@ -48,3 +48,18 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           npm run kv:seed:prod
+
+      - name: Revalidate Production Cache
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          echo "Triggering on-demand cache revalidation for production..."
+          if [ -n "$REVALIDATE_SECRET" ]; then
+            curl -fsS -X POST "https://dse-filter.1mt2.workers.dev/api/revalidate?secret=${REVALIDATE_SECRET}" \
+              -H "Content-Type: application/json" \
+              -d '{"tag": "stocks"}' || echo "⚠️ Revalidation request failed or worker unreachable"
+          else
+            curl -fsS -X POST "https://dse-filter.1mt2.workers.dev/api/revalidate" \
+              -H "Content-Type: application/json" \
+              -d '{"tag": "stocks"}' || echo "⚠️ Revalidation request failed or worker unreachable"
+          fi

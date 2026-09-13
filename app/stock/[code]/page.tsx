@@ -4,12 +4,10 @@ import type { Metadata } from "next";
 import { fetchServerStockByCode, fetchServerScreenerStocks } from "@/lib/data-provider";
 import {
   getPeerStocks,
-  getTradingCode,
   getCompanyName,
   getSector,
   getCategory,
   getLtp,
-  getChange,
   getChangePct,
   getPe,
   getDivYieldPct,
@@ -22,6 +20,8 @@ import { ValuationGrid } from "@/components/stock-detail/valuation-grid";
 import { ShareholdingCard } from "@/components/stock-detail/shareholding-card";
 import { AuditedHistoryTable } from "@/components/stock-detail/audited-history-table";
 import { QuarterlyTable } from "@/components/stock-detail/quarterly-table";
+import { StockSeoSummary } from "@/components/stock-detail/stock-seo-summary";
+import { StockFaq } from "@/components/stock-detail/stock-faq";
 import { CorporateInfoCard } from "@/components/stock-detail/corporate-info-card";
 import { PeerStocks } from "@/components/stock-detail/peer-stocks";
 
@@ -50,14 +50,19 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
 
   const name = getCompanyName(stock);
   const sector = getSector(stock);
+  const category = getCategory(stock);
   const ltp = getLtp(stock);
   const chgPct = getChangePct(stock);
   const pe = getPe(stock);
   const divYield = getDivYieldPct(stock);
   const sharia = stock.shariaCompliant ? "DSES Sharia Compliant" : "";
 
-  const title = `${code} - ${name} Share Price, Financials & Valuation`;
-  const description = `${name} (${code}) latest LTP: ${formatBDT(ltp)} (${formatPct(chgPct)}). P/E: ${pe ? `${pe}x` : "-"}, Div Yield: ${divYield ? `${divYield}%` : "-"}. Sector: ${sector}. ${sharia}. View audited financials, quarterly EPS & shareholding history.`;
+  const title = `${code} Share Price, Financials, P/E & Dividend Yield — ${name} (DSE)`;
+  const description = `${name} (${code}) latest LTP: ${formatBDT(ltp)} (${formatPct(chgPct)}). P/E: ${
+    pe ? `${pe}x` : "-"
+  }, Div Yield: ${
+    divYield ? `${divYield}%` : "-"
+  }. Sector: ${sector}. Category: ${category}. ${sharia}. View 5-year audited financials, NAVPS, EPS, and shareholding records on DSE Filter.`;
 
   return {
     title,
@@ -66,12 +71,17 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
       code,
       name,
       `${code} share price`,
+      `${code} share price today`,
       `${code} DSE`,
       `${code} stock analysis`,
       `${code} dividend yield`,
       `${code} PE ratio`,
+      `${code} quarterly EPS`,
+      `${code} NAV per share`,
+      `${code} shareholding`,
       `${sector} stocks DSE`,
       "Dhaka Stock Exchange",
+      "Bangladesh Stock Market",
     ],
     openGraph: {
       title,
@@ -126,6 +136,12 @@ export default async function StockDetailPage({ params }: StockPageProps) {
         {/* Interim Quarterly EPS */}
         <QuarterlyTable stock={stock} />
 
+        {/* SEO Editorial Summary & In-Depth Fundamental Breakdown */}
+        <StockSeoSummary stock={stock} />
+
+        {/* Stock Specific Frequently Asked Questions (FAQ) */}
+        <StockFaq stock={stock} />
+
         {/* Corporate Information, Address & Debt Status */}
         <CorporateInfoCard stock={stock} />
 
@@ -135,4 +151,3 @@ export default async function StockDetailPage({ params }: StockPageProps) {
     </main>
   );
 }
-

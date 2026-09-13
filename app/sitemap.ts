@@ -1,12 +1,15 @@
 import { MetadataRoute } from "next";
 import { getScreenerStocksSync } from "@/lib/data-provider";
+import { getAllMarketGroups } from "@/lib/market-groups";
 import metaData from "@/data/meta.json";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://dse-filter.1mt2.workers.dev";
   const stocks = getScreenerStocksSync();
+  const groups = getAllMarketGroups();
   const lastUpdated = metaData.lastUpdated ? new Date(metaData.lastUpdated) : new Date();
 
+  // Individual stock URLs
   const stockUrls: MetadataRoute.Sitemap = stocks
     .filter((s) => Boolean(s.tradingCode))
     .map((stock) => {
@@ -30,6 +33,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       };
     });
 
+  // Curated market group URLs
+  const groupUrls: MetadataRoute.Sitemap = groups.map((group) => {
+    let priority = 0.85;
+    if (
+      group.slug === "category-a" ||
+      group.slug === "shariah" ||
+      group.slug === "bullish" ||
+      group.slug === "high-dividend" ||
+      group.slug === "large-cap"
+    ) {
+      priority = 0.9;
+    }
+
+    return {
+      url: `${baseUrl}/market/${group.slug}`,
+      lastModified: lastUpdated,
+      changeFrequency: "daily" as const,
+      priority,
+    };
+  });
+
   return [
     {
       url: baseUrl,
@@ -38,11 +62,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1.0,
     },
     {
+      url: `${baseUrl}/market`,
+      lastModified: lastUpdated,
+      changeFrequency: "daily",
+      priority: 0.95,
+    },
+    {
       url: `${baseUrl}/compare`,
       lastModified: lastUpdated,
       changeFrequency: "daily",
       priority: 0.85,
     },
+    ...groupUrls,
     ...stockUrls,
   ];
 }

@@ -9,9 +9,9 @@ export function Footer() {
   return (
     <footer className="border-t border-border/60 bg-muted/20 mt-16 text-muted-foreground">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5">
           {/* Col 1: Brand & Overview */}
-          <div className="space-y-3">
+          <div className="space-y-3 lg:col-span-1">
             <div className="flex items-center gap-2">
               <div className="flex size-7 items-center justify-center rounded-md bg-primary text-primary-foreground">
                 <TrendingUp className="size-4" />
@@ -26,61 +26,149 @@ export function Footer() {
               multi-tier valuation metrics, audited histories, and shareholding insights.
             </p>
             <div className="flex items-center gap-2 pt-1 text-xs">
-              <span className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 font-medium text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
+              <Link
+                href="/market/shariah"
+                className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 font-medium text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 hover:bg-emerald-500/20 transition-colors"
+              >
                 <ShieldCheck className="size-3 mr-1" /> 125+ DSES Sharia Stocks
-              </span>
+              </Link>
             </div>
           </div>
 
-          {/* Col 2: Category Guide */}
+          {/* Col 2: DSE Categories */}
           <div className="space-y-3">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-foreground">
-              DSE Market Categories
+              DSE Categories
             </h4>
             <ul className="space-y-2 text-xs">
-              <li className="flex gap-2">
-                <span className="font-bold text-foreground">Category A:</span>
-                <span>Companies holding regular AGMs and declaring 10%+ dividend.</span>
+              <li>
+                <Link href="/market/category-a" className="hover:text-primary transition-colors flex items-center justify-between">
+                  <span className="font-semibold text-foreground">Category A</span>
+                  <span className="text-[10px] text-muted-foreground">≥10% Div</span>
+                </Link>
               </li>
-              <li className="flex gap-2">
-                <span className="font-bold text-foreground">Category B:</span>
-                <span>Companies holding regular AGMs but declaring &lt;10% dividend.</span>
+              <li>
+                <Link href="/market/category-b" className="hover:text-primary transition-colors flex items-center justify-between">
+                  <span className="font-semibold text-foreground">Category B</span>
+                  <span className="text-[10px] text-muted-foreground">&lt;10% Div</span>
+                </Link>
               </li>
-              <li className="flex gap-2">
-                <span className="font-bold text-foreground">Category N:</span>
-                <span>Newly listed companies in their first operational cycle.</span>
+              <li>
+                <Link href="/market/category-n" className="hover:text-primary transition-colors flex items-center justify-between">
+                  <span className="font-semibold text-foreground">Category N</span>
+                  <span className="text-[10px] text-muted-foreground">New IPOs</span>
+                </Link>
               </li>
-              <li className="flex gap-2">
-                <span className="font-bold text-rose-600 dark:text-rose-400">Category Z:</span>
-                <span>Irregular AGMs, non-operational, or accumulated loss makers.</span>
+              <li>
+                <Link href="/market/category-z" className="hover:text-destructive transition-colors flex items-center justify-between">
+                  <span className="font-semibold text-destructive">Category Z</span>
+                  <span className="text-[10px] text-muted-foreground">High Risk</span>
+                </Link>
+              </li>
+              <li className="pt-1 border-t border-border/40">
+                <Link href="/market" className="font-medium text-primary hover:underline text-[11px]">
+                  All Market Groups &rarr;
+                </Link>
               </li>
             </ul>
           </div>
 
-          {/* Col 3: Sectors */}
+          {/* Col 3: Market Breadth & Screeners */}
+          <div className="space-y-3">
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-foreground">
+              Breadth & Screeners
+            </h4>
+            <ul className="space-y-1.5 text-xs">
+              <li>
+                <Link href="/market/bullish" className="hover:text-primary transition-colors">
+                  Last Session Bullish (Gainers)
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/bearish" className="hover:text-primary transition-colors">
+                  Last Session Bearish (Losers)
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/neutral" className="hover:text-primary transition-colors">
+                  Last Session Neutral (Flat)
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/operational" className="hover:text-primary transition-colors">
+                  Operational Active Companies
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/closed" className="hover:text-primary transition-colors">
+                  Closed & Suspended Companies
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/high-dividend" className="hover:text-primary transition-colors">
+                  High Dividend Yield (≥5%)
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/low-pe" className="hover:text-primary transition-colors">
+                  Low P/E Undervalued (≤15)
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/zero-debt" className="hover:text-primary transition-colors">
+                  Zero Debt Companies
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Col 4: Active Sectors */}
           <div className="space-y-3">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-foreground">
               Active DSE Sectors
             </h4>
             <div className="flex flex-wrap gap-1.5 max-h-48 overflow-y-auto pr-1">
-              {sectors.map((sec) => (
-                <Link
-                  key={sec}
-                  href={`/?sector=${encodeURIComponent(sec)}`}
-                  className="rounded bg-secondary/80 px-2 py-0.5 text-[11px] text-foreground/80 hover:bg-secondary hover:text-foreground transition-colors"
-                >
-                  {sec}
-                </Link>
-              ))}
+              {sectors.map((sec) => {
+                const slug = `sector-${sec.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
+                return (
+                  <Link
+                    key={sec}
+                    href={`/market/${slug}`}
+                    className="rounded bg-secondary/80 px-2 py-0.5 text-[11px] text-foreground/80 hover:bg-primary/10 hover:text-primary transition-colors"
+                  >
+                    {sec}
+                  </Link>
+                );
+              })}
             </div>
           </div>
 
-          {/* Col 4: Quick Links & Legal */}
+          {/* Col 5: Resources & Tools */}
           <div className="space-y-3">
             <h4 className="text-xs font-semibold uppercase tracking-wider text-foreground">
-              Resources & Official Links
+              Resources & Tools
             </h4>
             <ul className="space-y-2 text-xs">
+              <li>
+                <Link href="/compare" className="hover:text-foreground transition-colors font-medium">
+                  Stock Comparison Matrix
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/mutual-funds" className="hover:text-foreground transition-colors">
+                  Closed-End Mutual Funds
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/large-cap" className="hover:text-foreground transition-colors">
+                  Large Cap Blue-Chips
+                </Link>
+              </li>
+              <li>
+                <Link href="/market/top-turnover" className="hover:text-foreground transition-colors">
+                  Top Turnover Leaders
+                </Link>
+              </li>
               <li>
                 <a
                   href="https://www.dsebd.org"
@@ -88,7 +176,7 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="flex items-center gap-1 hover:text-foreground transition-colors"
                 >
-                  <span>Dhaka Stock Exchange Official</span>
+                  <span>Dhaka Stock Exchange</span>
                   <ExternalLink className="size-3" />
                 </a>
               </li>
@@ -99,19 +187,9 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="flex items-center gap-1 hover:text-foreground transition-colors"
                 >
-                  <span>Bangladesh Securities and Exchange Commission (BSEC)</span>
+                  <span>BSEC Official</span>
                   <ExternalLink className="size-3" />
                 </a>
-              </li>
-              <li>
-                <Link href="/compare" className="hover:text-foreground transition-colors">
-                  Stock Comparison Matrix
-                </Link>
-              </li>
-              <li>
-                <Link href="/?preset=sharia" className="hover:text-foreground transition-colors">
-                  DSES Sharia Compliant Stocks
-                </Link>
               </li>
             </ul>
           </div>

@@ -173,7 +173,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
                 <Building className="size-4 text-primary" />
                 <span>Top Market Cap</span>
               </h3>
-              <Link href="/?preset=blue-chip" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
+              <Link href="/market/large-cap" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
                 <span>View all</span>
                 <ArrowRight className="size-3" />
               </Link>
@@ -214,7 +214,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
                 <Coins className="size-4 text-emerald-600 dark:text-emerald-400" />
                 <span>Top Dividend Yield</span>
               </h3>
-              <Link href="/?preset=high-dividend" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
+              <Link href="/market/high-dividend" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
                 <span>View all</span>
                 <ArrowRight className="size-3" />
               </Link>
@@ -257,7 +257,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
                 <ShieldCheck className="size-4 text-emerald-500" />
                 <span>DSES Sharia Stocks</span>
               </h3>
-              <Link href="/?preset=sharia" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
+              <Link href="/market/shariah" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
                 <span>View all</span>
                 <ArrowRight className="size-3" />
               </Link>
@@ -300,7 +300,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
                 <TrendingUp className="size-4 text-blue-500" />
                 <span>Low P/E Value</span>
               </h3>
-              <Link href="/?preset=low-pe" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
+              <Link href="/market/low-pe" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
                 <span>View all</span>
                 <ArrowRight className="size-3" />
               </Link>
@@ -352,10 +352,11 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
         <div className="flex flex-wrap gap-2 pt-2">
           {sectors.map((sec) => {
             const count = stocks.filter((s) => getSector(s) === sec).length;
+            const sectorSlug = `sector-${sec.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
             return (
               <Link
                 key={sec}
-                href={`/?sector=${encodeURIComponent(sec)}`}
+                href={`/market/${sectorSlug}`}
                 className="inline-flex items-center gap-1.5 rounded-lg border border-border/60 bg-muted/30 px-3 py-1.5 text-xs font-medium text-foreground hover:bg-primary/10 hover:border-primary/40 hover:text-primary transition-all"
               >
                 <span>{sec}</span>

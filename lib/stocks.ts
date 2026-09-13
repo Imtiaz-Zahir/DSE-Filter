@@ -644,6 +644,14 @@ export function filterAndSortStocks<T extends AnyStock>(
         valA = getSponsorPct(a);
         valB = getSponsorPct(b);
         break;
+      case "institutePct":
+        valA = getInstitutePct(a);
+        valB = getInstitutePct(b);
+        break;
+      case "foreignPct":
+        valA = getForeignPct(a);
+        valB = getForeignPct(b);
+        break;
       case "listingYear":
         valA = getListingYear(a);
         valB = getListingYear(b);

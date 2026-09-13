@@ -224,6 +224,8 @@ export type SortField =
   | "trades"
   | "debt"
   | "sponsorPct"
+  | "institutePct"
+  | "foreignPct"
   | "listingYear";
 
 export type SortDirection = "asc" | "desc";

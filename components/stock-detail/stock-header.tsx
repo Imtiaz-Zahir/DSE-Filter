@@ -39,6 +39,9 @@ export function StockHeader({ stock }: StockHeaderProps) {
   const scripCode = stock.scripCode;
   const sourceUrl = stock.sourceUrl || `https://www.dsebd.org/displayCompany.php?name=${code}`;
 
+    const sectorSlug = `sector-${sector.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
+    const catSlug = cat === "A" || cat === "B" || cat === "Z" || cat === "N" ? `category-${cat.toLowerCase()}` : "category-a";
+
   return (
     <div className="space-y-4">
       {/* Breadcrumb Navigation */}
@@ -48,7 +51,7 @@ export function StockHeader({ stock }: StockHeaderProps) {
           <span>Home</span>
         </Link>
         <ChevronRight className="size-3 text-muted-foreground/60" />
-        <Link href={`/?sector=${encodeURIComponent(sector)}`} className="hover:text-foreground transition-colors">
+        <Link href={`/market/${sectorSlug}`} className="hover:text-foreground transition-colors">
           {sector}
         </Link>
         <ChevronRight className="size-3 text-muted-foreground/60" />
@@ -64,14 +67,18 @@ export function StockHeader({ stock }: StockHeaderProps) {
               {code}
             </h1>
 
-            <Badge variant={getCategoryBadgeVariant(cat)} className="text-xs px-2 py-0.5 font-bold">
-              Category {cat}
-            </Badge>
+            <Link href={`/market/${catSlug}`} title={`View all ${cat} category stocks`}>
+              <Badge variant={getCategoryBadgeVariant(cat)} className="text-xs px-2 py-0.5 font-bold hover:opacity-80 transition-opacity">
+                Category {cat}
+              </Badge>
+            </Link>
 
             {isSharia && (
-              <span className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 text-xs font-semibold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
-                <ShieldCheck className="size-3 mr-1" /> DSES Sharia Compliant
-              </span>
+              <Link href="/market/shariah" title="View all DSES Sharia compliant stocks">
+                <span className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 text-xs font-semibold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 hover:bg-emerald-500/20 transition-colors">
+                  <ShieldCheck className="size-3 mr-1" /> DSES Sharia Compliant
+                </span>
+              </Link>
             )}
 
             <Badge variant="outline" className="text-xs px-2 py-0.5 text-muted-foreground">
@@ -79,13 +86,17 @@ export function StockHeader({ stock }: StockHeaderProps) {
             </Badge>
 
             {status === "Active" ? (
-              <span className="inline-flex items-center text-[11px] font-medium text-emerald-600 dark:text-emerald-400">
-                <CheckCircle2 className="size-3 mr-1" /> Operational
-              </span>
+              <Link href="/market/operational" title="View all operational active companies">
+                <span className="inline-flex items-center text-[11px] font-medium text-emerald-600 dark:text-emerald-400 hover:underline">
+                  <CheckCircle2 className="size-3 mr-1" /> Operational
+                </span>
+              </Link>
             ) : (
-              <span className="inline-flex items-center text-[11px] font-medium text-rose-600 dark:text-rose-400">
-                <AlertCircle className="size-3 mr-1" /> {status}
-              </span>
+              <Link href="/market/closed" title="View closed & suspended companies">
+                <span className="inline-flex items-center text-[11px] font-medium text-rose-600 dark:text-rose-400 hover:underline">
+                  <AlertCircle className="size-3 mr-1" /> {status}
+                </span>
+              </Link>
             )}
           </div>
 
@@ -97,7 +108,7 @@ export function StockHeader({ stock }: StockHeaderProps) {
             <div className="flex items-center gap-3 text-xs text-muted-foreground">
               {scripCode && <span>Scrip Code: <strong className="text-foreground">{scripCode}</strong></span>}
               <span>•</span>
-              <span>Sector: <Link href={`/?sector=${encodeURIComponent(sector)}`} className="text-primary hover:underline">{sector}</Link></span>
+              <span>Sector: <Link href={`/market/${sectorSlug}`} className="text-primary hover:underline">{sector}</Link></span>
               {stock.dividendAndSurplus?.listingYear && (
                 <>
                   <span>•</span>

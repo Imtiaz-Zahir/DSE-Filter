@@ -2,11 +2,8 @@ name: Scrape DSE & Seed Cloudflare KV
 
 on:
   schedule:
-    # 03:30 PM BST (Bangladesh Standard Time, UTC+6) -> 09:30 AM UTC
-    # Runs Sunday through Thursday (trading days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu)
-    - cron: "30 9 * * 0-4"
+    - cron: "0 9 * * 0-4"
 
-  # Manual trigger with optional concurrency input
   workflow_dispatch:
     inputs:
       concurrency:

@@ -15,6 +15,7 @@ export function Navbar() {
 
   const navLinks = [
     { href: "/", label: "Screener", icon: BarChart3 },
+    { href: "/market", label: "Market Groups", icon: Layers },
     { href: "/compare", label: "Compare", icon: Scale },
   ];
 
@@ -69,6 +70,12 @@ export function Navbar() {
         {/* Right side controls: Search + Compare + Theme toggle */}
         <div className="flex items-center gap-1.5 sm:gap-2">
           <QuickSearch />
+
+          <Link href="/market" className="md:hidden">
+            <Button variant="ghost" size="icon-sm" className="size-8 rounded-md" aria-label="Market Groups">
+              <Layers className="size-4" />
+            </Button>
+          </Link>
 
           <Link href="/compare" className="md:hidden">
             <Button variant="ghost" size="icon-sm" className="size-8 rounded-md" aria-label="Compare stocks">

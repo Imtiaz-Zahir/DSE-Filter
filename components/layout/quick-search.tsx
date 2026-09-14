@@ -86,12 +86,13 @@ export function QuickSearch() {
           <Button
             variant="outline"
             size="sm"
-            className="relative h-8 w-full max-w-[200px] justify-start rounded-lg bg-muted/40 px-2.5 text-xs text-muted-foreground sm:w-56 sm:pr-12 md:w-64"
+            aria-label="Search DSE stocks"
+            className="relative h-8 w-8 sm:w-36 md:w-44 lg:w-56 justify-center sm:justify-start rounded-lg bg-muted/40 p-0 sm:px-2.5 text-xs text-muted-foreground sm:pr-8 md:pr-10 shrink-0"
           >
-            <Search className="mr-2 size-3.5" />
-            <span className="inline-flex">Search DSE stocks...</span>
-            <kbd className="pointer-events-none absolute right-1.5 top-1.5 hidden h-5 select-none items-center gap-1 rounded border bg-background px-1.5 font-mono text-[10px] font-medium text-muted-foreground opacity-100 sm:flex">
-              <span className="text-xs">⌘</span>K
+            <Search className="size-3.5 sm:mr-2 shrink-0" />
+            <span className="hidden sm:inline-flex truncate">Search DSE...</span>
+            <kbd className="pointer-events-none absolute right-1.5 top-1.5 hidden h-5 select-none items-center gap-0.5 rounded border bg-background px-1 font-mono text-[10px] font-medium text-muted-foreground opacity-100 sm:flex">
+              <span className="text-[10px]">⌘</span>K
             </kbd>
           </Button>
         }
@@ -101,6 +102,9 @@ export function QuickSearch() {
           <div className="flex items-center gap-2">
             <Search className="size-4 text-muted-foreground shrink-0" />
             <Input
+              id="quick-search-input"
+              name="quick-search-input"
+              aria-label="Search ticker, company, or sector"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={handleInputKeyDown}

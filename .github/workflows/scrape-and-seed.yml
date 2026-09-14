@@ -1,15 +1,15 @@
 name: Scrape DSE & Seed Cloudflare KV
 
 on:
-  schedule:
-    - cron: "0 9 * * 0-4"
-
   workflow_dispatch:
     inputs:
       concurrency:
         description: "Scrape concurrency (parallel requests)"
         required: false
         default: "8"
+
+  schedule:
+    - cron: "0 9 * * 0-4" # Every day at 9:00 AM UTC, Sunday to Thursday
 
 concurrency:
   group: scrape-and-seed-kv

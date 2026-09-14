@@ -229,8 +229,14 @@ export function ActiveFilters({
       <div className="flex flex-wrap items-center justify-between gap-2 text-xs">
         <div className="flex flex-wrap items-center gap-1.5">
           <span className="text-muted-foreground font-medium">
-            Showing <strong className="text-foreground">{filteredCount}</strong> of{" "}
-            {totalCount} stocks
+            {filteredCount === totalCount ? (
+              <>Showing <strong className="text-foreground">{totalCount}</strong> stocks</>
+            ) : (
+              <>
+                Showing <strong className="text-foreground">{filteredCount}</strong> of{" "}
+                {totalCount} stocks
+              </>
+            )}
           </span>
 
           {filterPills.map((pill, idx) => (
@@ -281,6 +287,9 @@ export function ActiveFilters({
                 </DialogHeader>
                 <div className="py-2">
                   <Input
+                    id="custom-preset-name"
+                    name="custom-preset-name"
+                    aria-label="Preset name"
                     placeholder="e.g. High Yield + Low Debt"
                     value={newPresetName}
                     onChange={(e) => setNewPresetName(e.target.value)}

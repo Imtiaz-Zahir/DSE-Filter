@@ -180,7 +180,7 @@ export function StockTable({
       {/* Table Top Controls (Column Customizer & Scroll to Top Action) */}
       <div className="flex items-center justify-between px-1">
         <span className="text-xs text-muted-foreground">
-          Showing <span className="font-semibold text-foreground">{stocks.length}</span> records • Click header to sort
+          Click column headers to sort
         </span>
         <div className="flex items-center gap-1.5">
           {isScrolled && (
@@ -469,6 +469,8 @@ export function StockTable({
                         }`}
                       >
                         <input
+                          id={`compare-${code}`}
+                          name={`compare-${code}`}
                           type="checkbox"
                           checked={isChecked}
                           onChange={() => onToggleSelect(code)}

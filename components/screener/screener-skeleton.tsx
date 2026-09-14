@@ -34,7 +34,7 @@ export function ScreenerStockList({ stocks = [] }: ScreenerStockListProps) {
       <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8 pt-4 sm:pt-6 space-y-2">
         <div className="flex items-center justify-between px-1">
           <span className="text-xs text-muted-foreground">
-            Showing <span className="font-semibold text-foreground">{stocks.length}</span> records
+            Click column headers to sort
           </span>
         </div>
 

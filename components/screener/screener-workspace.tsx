@@ -17,9 +17,13 @@ import { CompareTray } from "@/components/screener/compare-tray";
 
 interface ScreenerWorkspaceProps {
   initialStocks: AnyStock[];
+  showStatsBar?: boolean;
 }
 
-export function ScreenerWorkspace({ initialStocks }: ScreenerWorkspaceProps) {
+export function ScreenerWorkspace({
+  initialStocks,
+  showStatsBar = true,
+}: ScreenerWorkspaceProps) {
   const searchParams = useSearchParams();
 
   // Initial filter state from URL search params
@@ -162,7 +166,6 @@ export function ScreenerWorkspace({ initialStocks }: ScreenerWorkspaceProps) {
         return prev.filter((c) => c !== code);
       }
       if (prev.length >= 4) {
-        alert("You can compare up to 4 stocks at a time.");
         return prev;
       }
       return [...prev, code];
@@ -180,10 +183,12 @@ export function ScreenerWorkspace({ initialStocks }: ScreenerWorkspaceProps) {
   return (
     <>
       {/* 1. Market Summary KPI Bar */}
-      <SummaryStatsBar
-        stats={summaryStats}
-        filteredCount={filteredStocks.length}
-      />
+      {showStatsBar && (
+        <SummaryStatsBar
+          stats={summaryStats}
+          filteredCount={filteredStocks.length}
+        />
+      )}
 
       {/* 2. Main Screener Workspace */}
       <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8 pt-4 sm:pt-6 space-y-4">

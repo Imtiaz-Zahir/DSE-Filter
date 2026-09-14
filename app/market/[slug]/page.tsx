@@ -118,7 +118,7 @@ export default async function MarketGroupDetailPage({ params }: MarketGroupPageP
       <div className="mt-4">
         {groupStocks.length > 0 ? (
           <Suspense fallback={<ScreenerStockList stocks={tableStocks} />}>
-            <ScreenerWorkspace initialStocks={groupStocks} />
+            <ScreenerWorkspace initialStocks={groupStocks} showStatsBar={false} />
           </Suspense>
         ) : (
           <div className="mx-auto max-w-7xl px-3 sm:px-6 lg:px-8 py-12">
@@ -135,12 +135,15 @@ export default async function MarketGroupDetailPage({ params }: MarketGroupPageP
                 </p>
               </div>
               <div className="pt-2">
-                <Link href="/market">
-                  <Button variant="outline" size="sm" className="text-xs gap-1.5">
-                    <SlidersHorizontal className="size-3.5" />
-                    <span>Browse Other Market Groups</span>
-                  </Button>
-                </Link>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  className="text-xs gap-1.5"
+                  render={<Link href="/market" />}
+                >
+                  <SlidersHorizontal className="size-3.5" />
+                  <span>Browse Other Market Groups</span>
+                </Button>
               </div>
             </div>
           </div>

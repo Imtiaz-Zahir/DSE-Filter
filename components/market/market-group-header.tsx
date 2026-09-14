@@ -154,18 +154,24 @@ export function MarketGroupHeader({
 
           {/* Action Links */}
           <div className="flex items-center gap-2 shrink-0 pt-1 lg:pt-0">
-            <Link href="/market">
-              <Button variant="outline" size="sm" className="h-8.5 text-xs gap-1.5 shadow-2xs">
-                <SlidersHorizontal className="size-3.5" />
-                <span>All Market Groups</span>
-              </Button>
-            </Link>
-            <Link href="/compare">
-              <Button variant="secondary" size="sm" className="h-8.5 text-xs gap-1.5 shadow-2xs">
-                <Scale className="size-3.5" />
-                <span>Compare</span>
-              </Button>
-            </Link>
+            <Button
+              variant="outline"
+              size="sm"
+              className="h-8.5 text-xs gap-1.5 shadow-2xs"
+              render={<Link href="/market" />}
+            >
+              <SlidersHorizontal className="size-3.5" />
+              <span>All Market Groups</span>
+            </Button>
+            <Button
+              variant="secondary"
+              size="sm"
+              className="h-8.5 text-xs gap-1.5 shadow-2xs"
+              render={<Link href="/compare" />}
+            >
+              <Scale className="size-3.5" />
+              <span>Compare</span>
+            </Button>
           </div>
         </div>
       </div>

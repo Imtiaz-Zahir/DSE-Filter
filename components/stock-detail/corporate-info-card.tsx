@@ -104,20 +104,42 @@ export function CorporateInfoCard({ stock }: CorporateInfoCardProps) {
               <span className="text-[11px] font-semibold text-muted-foreground uppercase">
                 Investor Reports & Price Sensitive Information
               </span>
-              <div className="space-y-1">
-                {links.map((link, idx) => (
-                  <a
-                    key={idx}
-                    href={link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-1.5 text-primary hover:underline truncate"
-                  >
-                    <FileText className="size-3.5 shrink-0" />
-                    <span className="truncate">{link}</span>
-                    <ExternalLink className="size-3 shrink-0" />
-                  </a>
-                ))}
+              <div className="space-y-1.5">
+                {links.map((link, idx) => {
+                  let label = "Investor Document / Disclosure";
+                  if (link.toLowerCase().includes("financial-report") || link.toLowerCase().includes("annual-report")) {
+                    label = "Annual / Financial Reports";
+                  } else if (link.toLowerCase().includes("price-sensitive") || link.toLowerCase().includes("psi")) {
+                    label = "Price Sensitive Information (PSI)";
+                  } else if (link.toLowerCase().includes("quarterly") || link.toLowerCase().includes("interim")) {
+                    label = "Interim & Quarterly Statements";
+                  } else if (link.toLowerCase().includes("shareholding")) {
+                    label = "Shareholding Reports";
+                  }
+
+                  return (
+                    <a
+                      key={idx}
+                      href={link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-between p-2 rounded-lg bg-muted/30 border border-border/40 text-primary hover:bg-primary/10 hover:border-primary/40 transition-colors group"
+                    >
+                      <div className="flex items-center gap-2 min-w-0 pr-2">
+                        <FileText className="size-3.5 shrink-0 text-primary" />
+                        <div className="min-w-0">
+                          <span className="font-medium text-xs block text-foreground group-hover:text-primary transition-colors">
+                            {label}
+                          </span>
+                          <span className="text-[10px] text-muted-foreground truncate block">
+                            {link}
+                          </span>
+                        </div>
+                      </div>
+                      <ExternalLink className="size-3.5 shrink-0 text-muted-foreground group-hover:text-primary transition-colors" />
+                    </a>
+                  );
+                })}
               </div>
             </div>
           )}

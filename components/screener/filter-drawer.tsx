@@ -551,20 +551,27 @@ function RangeInputPair({
   placeholderMin: string;
   placeholderMax: string;
 }) {
+  const sanitizedLabel = label.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   return (
     <div className="space-y-1">
       <span className="text-xs font-medium text-foreground">{label}</span>
       <div className="grid grid-cols-2 gap-2">
         <Input
+          id={`filter-${sanitizedLabel}-min`}
+          name={`filter-${sanitizedLabel}-min`}
           type="number"
           placeholder={placeholderMin}
+          aria-label={`${label} minimum`}
           value={minVal ?? ""}
           onChange={(e) => onMinChange(e.target.value)}
           className="h-8 text-xs"
         />
         <Input
+          id={`filter-${sanitizedLabel}-max`}
+          name={`filter-${sanitizedLabel}-max`}
           type="number"
           placeholder={placeholderMax}
+          aria-label={`${label} maximum`}
           value={maxVal ?? ""}
           onChange={(e) => onMaxChange(e.target.value)}
           className="h-8 text-xs"

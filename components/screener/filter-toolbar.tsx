@@ -94,6 +94,8 @@ export function FilterToolbar({
         <div className="relative flex-1 max-w-md">
           <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 size-3.5 text-muted-foreground" />
           <Input
+            id="screener-search"
+            name="screener-search"
             type="text"
             placeholder="Filter by ticker (GP, LHBL), company name..."
             value={filters.searchQuery}
@@ -115,6 +117,8 @@ export function FilterToolbar({
         <div className="flex items-center gap-1.5 flex-wrap sm:flex-nowrap">
           {/* Quick Sector Selector */}
           <select
+            id="sector-select"
+            name="sector-select"
             value={filters.sectors[0] || ""}
             onChange={handleSectorChange}
             aria-label="Filter by sector"

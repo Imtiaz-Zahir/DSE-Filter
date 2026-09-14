@@ -198,19 +198,15 @@ export function StockGrid({
               </div>
 
               {/* View Company Link */}
-              <Link
-                href={`/stock/${encodeURIComponent(code)}`}
-                className="w-full"
+              <Button
+                variant="outline"
+                size="sm"
+                className="w-full text-xs h-7.5 justify-between group-hover:bg-primary group-hover:text-primary-foreground group-hover:border-primary transition-all"
+                render={<Link href={`/stock/${encodeURIComponent(code)}`} className="w-full" />}
               >
-                <Button
-                  variant="outline"
-                  size="sm"
-                  className="w-full text-xs h-7.5 justify-between group-hover:bg-primary group-hover:text-primary-foreground group-hover:border-primary transition-all"
-                >
-                  <span>View Details & Financials</span>
-                  <ChevronRight className="size-3.5" />
-                </Button>
-              </Link>
+                <span>View Details & Financials</span>
+                <ChevronRight className="size-3.5" />
+              </Button>
             </CardContent>
           </Card>
         );

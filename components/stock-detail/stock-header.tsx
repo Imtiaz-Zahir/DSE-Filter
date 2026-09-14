@@ -121,22 +121,22 @@ export function StockHeader({ stock }: StockHeaderProps) {
 
         {/* Action buttons: DSE Official link & Compare button */}
         <div className="flex items-center gap-2 pt-2 md:pt-0 shrink-0">
-          <Link href={`/compare?codes=${encodeURIComponent(code)}`}>
-            <Button variant="outline" size="sm" className="h-8.5 text-xs">
-              Compare Stock
-            </Button>
-          </Link>
-          <a
-            href={sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5"
+          <Button
+            variant="outline"
+            size="sm"
+            className="h-8.5 text-xs"
+            render={<Link href={`/compare?codes=${encodeURIComponent(code)}`} />}
           >
-            <Button size="sm" className="h-8.5 text-xs gap-1.5">
-              <span>Official DSE Page</span>
-              <ExternalLink className="size-3.5" />
-            </Button>
-          </a>
+            Compare Stock
+          </Button>
+          <Button
+            size="sm"
+            className="h-8.5 text-xs gap-1.5"
+            render={<a href={sourceUrl} target="_blank" rel="noopener noreferrer" />}
+          >
+            <span>Official DSE Page</span>
+            <ExternalLink className="size-3.5" />
+          </Button>
         </div>
       </div>
     </div>

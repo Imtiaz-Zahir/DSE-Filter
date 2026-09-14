@@ -13,7 +13,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Stock, AnyStock } from "@/lib/types";
-import { getScreenerStocksSync, getScreenerStockByCodeSync } from "@/lib/data-provider";
+import { getClientScreenerStocks, getClientScreenerStockByCode } from "@/lib/client-data";
 import {
   getTradingCode,
   getCompanyName,
@@ -54,7 +54,7 @@ import {
 export function CompareWorkspace() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const allStocks = useMemo(() => getScreenerStocksSync(), []);
+  const allStocks = useMemo(() => getClientScreenerStocks(), []);
 
   const [selectedCodes, setSelectedCodes] = useState<string[]>(() => {
     const raw = searchParams?.get("codes");
@@ -62,7 +62,7 @@ export function CompareWorkspace() {
       const parsed = raw.split(",").map((c) => c.trim().toUpperCase()).filter(Boolean);
       return Array.from(new Set(parsed)).slice(0, 4);
     }
-    return ["GP", "SQURPHARMA", "BATBC"].filter((c) => getScreenerStockByCodeSync(c));
+    return ["GP", "SQURPHARMA", "BATBC"].filter((c) => getClientScreenerStockByCode(c));
   });
 
   const [searchQuery, setSearchQuery] = useState("");
@@ -86,7 +86,7 @@ export function CompareWorkspace() {
   };
 
   const stocks: AnyStock[] = selectedCodes
-    .map((code) => getScreenerStockByCodeSync(code))
+    .map((code) => getClientScreenerStockByCode(code))
     .filter(Boolean) as AnyStock[];
 
   const searchResults = useMemo(() => {
@@ -303,6 +303,9 @@ export function CompareWorkspace() {
               {searchOpen && (
                 <div className="absolute right-0 top-10 z-50 w-72 rounded-xl border border-border bg-popover p-2 shadow-xl animate-in fade-in zoom-in-95">
                   <Input
+                    id="compare-search-input"
+                    name="compare-search-input"
+                    aria-label="Search ticker to compare"
                     type="text"
                     placeholder="Search ticker (e.g. OLYMPIC)..."
                     value={searchQuery}

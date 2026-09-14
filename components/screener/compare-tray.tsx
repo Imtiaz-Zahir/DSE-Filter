@@ -61,16 +61,25 @@ export function CompareTray({
             Clear
           </Button>
 
-          <Link href={compareUrl}>
+          {selectedCodes.length >= 2 ? (
             <Button
               size="sm"
-              disabled={selectedCodes.length < 2}
-              className="h-7.5 text-xs font-semibold bg-emerald-500 hover:bg-emerald-600 text-white gap-1 px-3"
+              className="h-7.5 text-xs font-semibold bg-emerald-500 hover:bg-emerald-600 text-white gap-1 px-3 shadow-sm"
+              render={<Link href={compareUrl} />}
             >
               <span>Compare</span>
               <ArrowRight className="size-3.5" />
             </Button>
-          </Link>
+          ) : (
+            <Button
+              size="sm"
+              disabled
+              className="h-7.5 text-xs font-semibold bg-emerald-500/50 text-white/70 gap-1 px-3 cursor-not-allowed opacity-60"
+            >
+              <span>Compare</span>
+              <ArrowRight className="size-3.5" />
+            </Button>
+          )}
         </div>
       </div>
     </div>

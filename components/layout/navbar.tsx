@@ -44,7 +44,7 @@ export function Navbar() {
           </Link>
 
           {/* Desktop Nav links */}
-          <nav className="hidden md:flex items-center gap-1 ml-4 pl-4 border-l border-border/60">
+          <nav className="hidden md:flex items-center gap-0.5 lg:gap-1 ml-2 pl-2 lg:ml-4 lg:pl-4 border-l border-border/60">
             {navLinks.map((link) => {
               const Icon = link.icon;
               const isActive = pathname === link.href;
@@ -53,7 +53,7 @@ export function Navbar() {
                   key={link.href}
                   href={link.href}
                   className={cn(
-                    "flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md transition-colors",
+                    "flex items-center gap-1 lg:gap-1.5 px-2 lg:px-3 py-1.5 text-xs font-medium rounded-md transition-colors",
                     isActive
                       ? "bg-secondary text-foreground font-semibold"
                       : "text-muted-foreground hover:text-foreground hover:bg-muted/60"

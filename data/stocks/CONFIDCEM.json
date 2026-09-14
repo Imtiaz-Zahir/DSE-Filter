@@ -9,37 +9,37 @@
     "#": 86,
     "TRADING CODE": "CONFIDCEM",
     "tradingCode": "CONFIDCEM",
-    "LTP": 61.2,
-    "HIGH": 62.4,
-    "LOW": 60.8,
-    "CLOSEP": 61.2,
-    "YCP": 61.4,
-    "CHANGE": -0.2,
-    "TRADE": 148,
-    "VALUE (mn)": 3.754,
-    "VOLUME": 60963
+    "LTP": 58.4,
+    "HIGH": 61.8,
+    "LOW": 58,
+    "CLOSEP": 58.4,
+    "YCP": 61.2,
+    "CHANGE": -2.8,
+    "TRADE": 432,
+    "VALUE (mn)": 6.918,
+    "VOLUME": 116752
   },
   "marketInformation": {
-    "lastTradingPrice": 61.2,
+    "lastTradingPrice": 58.4,
     "daysRange": [
-      60.8,
-      62.4
+      58,
+      61.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44,
       74.6
     ],
-    "change": -0.2,
-    "daysTradeNos": 148,
-    "yesterdaysClose": 61.4,
-    "daysVolumeNos": 60963,
-    "adjustedOpeningPrice": 61.4,
-    "daysValueMn": 3.75,
-    "openingPrice": 62,
-    "marketCapMn": 5295.983,
-    "closingPrice": 61.2,
-    "freeFloatMarketCapMn": 3688.991
+    "change": -2.8,
+    "daysTradeNos": 432,
+    "yesterdaysClose": 61.2,
+    "daysVolumeNos": 116752,
+    "adjustedOpeningPrice": 61.2,
+    "daysValueMn": 6.92,
+    "openingPrice": 61.8,
+    "marketCapMn": 5278.732,
+    "closingPrice": 58.4,
+    "freeFloatMarketCapMn": 3676.974
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.73,
-        "peDiluted": null,
-        "peTrailing": 7.36
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.51,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.45,
         "peDiluted": null,
         "peTrailing": 7.05
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.15,
+        "peDiluted": null,
+        "peTrailing": 6.73
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 5.69,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 5.5,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 5.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.2,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01704 124 276",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:21.195Z",
+  "scrapedAt": "2026-09-13T15:42:21.403Z",
   "shariaCompliant": false
 }

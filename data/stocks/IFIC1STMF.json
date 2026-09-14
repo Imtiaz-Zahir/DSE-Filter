@@ -9,21 +9,21 @@
     "#": 176,
     "TRADING CODE": "IFIC1STMF",
     "tradingCode": "IFIC1STMF",
-    "LTP": 4.1,
-    "HIGH": 4.2,
-    "LOW": 4,
-    "CLOSEP": 4.1,
-    "YCP": 4,
+    "LTP": 4.2,
+    "HIGH": 4.3,
+    "LOW": 4.1,
+    "CLOSEP": 4.2,
+    "YCP": 4.1,
     "CHANGE": 0.1,
-    "TRADE": 220,
-    "VALUE (mn)": 7.957,
-    "VOLUME": 1941061
+    "TRADE": 229,
+    "VALUE (mn)": 6.892,
+    "VOLUME": 1644498
   },
   "marketInformation": {
-    "lastTradingPrice": 4.1,
+    "lastTradingPrice": 4.2,
     "daysRange": [
-      4,
-      4.2
+      4.1,
+      4.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,14 +31,14 @@
       5.1
     ],
     "change": 0.1,
-    "daysTradeNos": 220,
-    "yesterdaysClose": 4,
-    "daysVolumeNos": 1941061,
-    "adjustedOpeningPrice": 4,
-    "daysValueMn": 7.96,
-    "openingPrice": 4.1,
-    "marketCapMn": 728.672,
-    "closingPrice": 4.1,
+    "daysTradeNos": 229,
+    "yesterdaysClose": 4.1,
+    "daysVolumeNos": 1644498,
+    "adjustedOpeningPrice": 4.1,
+    "daysValueMn": 6.89,
+    "openingPrice": 4.2,
+    "marketCapMn": 746.889,
+    "closingPrice": 4.2,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:52.484Z",
+  "scrapedAt": "2026-09-13T15:42:51.048Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 42,
     "TRADING CODE": "ATLASBANG",
     "tradingCode": "ATLASBANG",
-    "LTP": 84.9,
-    "HIGH": 85.9,
-    "LOW": 84.9,
-    "CLOSEP": 85.1,
-    "YCP": 83.7,
-    "CHANGE": 1.2,
-    "TRADE": 30,
-    "VALUE (mn)": 0.413,
-    "VOLUME": 4853
+    "LTP": 82.8,
+    "HIGH": 85.5,
+    "LOW": 82.5,
+    "CLOSEP": 82.8,
+    "YCP": 85.1,
+    "CHANGE": -2.3,
+    "TRADE": 43,
+    "VALUE (mn)": 0.542,
+    "VOLUME": 6551
   },
   "marketInformation": {
-    "lastTradingPrice": 84.9,
+    "lastTradingPrice": 82.8,
     "daysRange": [
-      84.9,
-      85.9
+      82.5,
+      85.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44.2,
       102
     ],
-    "change": 1.2,
-    "daysTradeNos": 30,
-    "yesterdaysClose": 83.7,
-    "daysVolumeNos": 4853,
-    "adjustedOpeningPrice": 83.7,
-    "daysValueMn": 0.41,
-    "openingPrice": 85.9,
-    "marketCapMn": 2772.739,
-    "closingPrice": 85.1,
-    "freeFloatMarketCapMn": 888.285
+    "change": -2.3,
+    "daysTradeNos": 43,
+    "yesterdaysClose": 85.1,
+    "daysVolumeNos": 6551,
+    "adjustedOpeningPrice": 85.1,
+    "daysValueMn": 0.54,
+    "openingPrice": 83.1,
+    "marketCapMn": 2819.117,
+    "closingPrice": 82.8,
+    "freeFloatMarketCapMn": 903.142
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01818600714",
     "telephoneNo": "9814190, Ex-18"
   },
-  "scrapedAt": "2026-09-12T19:43:03.304Z",
+  "scrapedAt": "2026-09-13T15:42:03.746Z",
   "shariaCompliant": false
 }

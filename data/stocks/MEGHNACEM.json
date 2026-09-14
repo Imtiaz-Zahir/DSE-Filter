@@ -9,37 +9,37 @@
     "#": 218,
     "TRADING CODE": "MEGHNACEM",
     "tradingCode": "MEGHNACEM",
-    "LTP": 28.4,
-    "HIGH": 30.7,
-    "LOW": 28.3,
-    "CLOSEP": 28.4,
-    "YCP": 29.3,
-    "CHANGE": -0.9,
-    "TRADE": 71,
-    "VALUE (mn)": 0.486,
-    "VOLUME": 17017
+    "LTP": 29,
+    "HIGH": 30.6,
+    "LOW": 28.8,
+    "CLOSEP": 29,
+    "YCP": 28.4,
+    "CHANGE": 0.6,
+    "TRADE": 13,
+    "VALUE (mn)": 0.049,
+    "VOLUME": 1691
   },
   "marketInformation": {
-    "lastTradingPrice": 28.4,
+    "lastTradingPrice": 29,
     "daysRange": [
-      28.3,
-      30.7
+      28.8,
+      30.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.1,
       52
     ],
-    "change": -0.9,
-    "daysTradeNos": 71,
-    "yesterdaysClose": 29.3,
-    "daysVolumeNos": 17017,
-    "adjustedOpeningPrice": 29.3,
-    "daysValueMn": 0.49,
-    "openingPrice": 30.7,
-    "marketCapMn": 925.544,
-    "closingPrice": 28.4,
-    "freeFloatMarketCapMn": 537.773
+    "change": 0.6,
+    "daysTradeNos": 13,
+    "yesterdaysClose": 28.4,
+    "daysVolumeNos": 1691,
+    "adjustedOpeningPrice": 28.4,
+    "daysValueMn": 0.05,
+    "openingPrice": 30.6,
+    "marketCapMn": 897.114,
+    "closingPrice": 29,
+    "freeFloatMarketCapMn": 521.254
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730068979",
     "telephoneNo": "+88-09666443310-19, Ext-5566"
   },
-  "scrapedAt": "2026-09-12T19:44:05.753Z",
+  "scrapedAt": "2026-09-13T15:43:08.886Z",
   "shariaCompliant": false
 }

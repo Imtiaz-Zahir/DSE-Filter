@@ -9,37 +9,37 @@
     "#": 395,
     "TRADING CODE": "ZEALBANGLA",
     "tradingCode": "ZEALBANGLA",
-    "LTP": 173,
-    "HIGH": 177.2,
-    "LOW": 169.3,
-    "CLOSEP": 173,
-    "YCP": 169.4,
-    "CHANGE": 3.6,
-    "TRADE": 146,
-    "VALUE (mn)": 0.784,
-    "VOLUME": 4526
+    "LTP": 162.5,
+    "HIGH": 178,
+    "LOW": 160,
+    "CLOSEP": 162.5,
+    "YCP": 173,
+    "CHANGE": -10.5,
+    "TRADE": 193,
+    "VALUE (mn)": 1.762,
+    "VOLUME": 10545
   },
   "marketInformation": {
-    "lastTradingPrice": 173,
+    "lastTradingPrice": 162.5,
     "daysRange": [
-      169.3,
-      177.2
+      160,
+      178
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       78.1,
       251.4
     ],
-    "change": 3.6,
-    "daysTradeNos": 146,
-    "yesterdaysClose": 169.4,
-    "daysVolumeNos": 4526,
-    "adjustedOpeningPrice": 169.4,
-    "daysValueMn": 0.78,
-    "openingPrice": 176.9,
-    "marketCapMn": 1016.4,
-    "closingPrice": 173,
-    "freeFloatMarketCapMn": 376.567
+    "change": -10.5,
+    "daysTradeNos": 193,
+    "yesterdaysClose": 173,
+    "daysVolumeNos": 10545,
+    "adjustedOpeningPrice": 173,
+    "daysValueMn": 1.76,
+    "openingPrice": 175,
+    "marketCapMn": 1038,
+    "closingPrice": 162.5,
+    "freeFloatMarketCapMn": 384.57
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01818-053145",
     "telephoneNo": "02-951669"
   },
-  "scrapedAt": "2026-09-12T19:45:08.621Z",
+  "scrapedAt": "2026-09-13T15:44:20.202Z",
   "shariaCompliant": false
 }

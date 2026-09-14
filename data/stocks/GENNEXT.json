@@ -9,36 +9,36 @@
     "#": 143,
     "TRADING CODE": "GENNEXT",
     "tradingCode": "GENNEXT",
-    "LTP": 3,
-    "HIGH": 3.1,
-    "LOW": 2.9,
-    "CLOSEP": 3,
+    "LTP": 2.9,
+    "HIGH": 3,
+    "LOW": 2.8,
+    "CLOSEP": 2.9,
     "YCP": 3,
-    "CHANGE": 0,
-    "TRADE": 94,
-    "VALUE (mn)": 1.291,
-    "VOLUME": 431792
+    "CHANGE": -0.1,
+    "TRADE": 143,
+    "VALUE (mn)": 2.439,
+    "VOLUME": 841485
   },
   "marketInformation": {
-    "lastTradingPrice": 3,
+    "lastTradingPrice": 2.9,
     "daysRange": [
-      2.9,
-      3.1
+      2.8,
+      3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.9,
       4.5
     ],
-    "change": 0,
-    "daysTradeNos": 94,
+    "change": -0.1,
+    "daysTradeNos": 143,
     "yesterdaysClose": 3,
-    "daysVolumeNos": 431792,
+    "daysVolumeNos": 841485,
     "adjustedOpeningPrice": 3,
-    "daysValueMn": 1.29,
+    "daysValueMn": 2.44,
     "openingPrice": 3,
     "marketCapMn": 1484.924,
-    "closingPrice": 3,
+    "closingPrice": 2.9,
     "freeFloatMarketCapMn": 1087.395
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 45.71,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 42.86,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 42.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 41.43,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:37.249Z",
+  "scrapedAt": "2026-09-13T15:42:36.725Z",
   "shariaCompliant": false
 }

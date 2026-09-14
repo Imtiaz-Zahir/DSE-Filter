@@ -9,37 +9,37 @@
     "#": 15,
     "TRADING CODE": "AFCAGRO",
     "tradingCode": "AFCAGRO",
-    "LTP": 6.4,
-    "HIGH": 6.6,
-    "LOW": 6.2,
-    "CLOSEP": 6.2,
-    "YCP": 6.5,
+    "LTP": 6.1,
+    "HIGH": 6.4,
+    "LOW": 6,
+    "CLOSEP": 6.1,
+    "YCP": 6.2,
     "CHANGE": -0.1,
-    "TRADE": 64,
-    "VALUE (mn)": 0.283,
-    "VOLUME": 44777
+    "TRADE": 32,
+    "VALUE (mn)": 0.223,
+    "VOLUME": 36130
   },
   "marketInformation": {
-    "lastTradingPrice": 6.4,
+    "lastTradingPrice": 6.1,
     "daysRange": [
-      6.2,
-      6.6
+      6,
+      6.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4,
-      8.5
+      8.4
     ],
     "change": -0.1,
-    "daysTradeNos": 64,
-    "yesterdaysClose": 6.5,
-    "daysVolumeNos": 44777,
-    "adjustedOpeningPrice": 6.5,
-    "daysValueMn": 0.28,
-    "openingPrice": 6.5,
-    "marketCapMn": 748.905,
-    "closingPrice": 6.2,
-    "freeFloatMarketCapMn": 540.401
+    "daysTradeNos": 32,
+    "yesterdaysClose": 6.2,
+    "daysVolumeNos": 36130,
+    "adjustedOpeningPrice": 6.2,
+    "daysValueMn": 0.22,
+    "openingPrice": 6.4,
+    "marketCapMn": 714.34,
+    "closingPrice": 6.1,
+    "freeFloatMarketCapMn": 515.459
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 30,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 28.68,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 27.35,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.91,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 30.91,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 29.55,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 28.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.73,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01992 024 515, +88 01992 024 696",
     "telephoneNo": "02-9531023"
   },
-  "scrapedAt": "2026-09-12T19:42:49.316Z",
+  "scrapedAt": "2026-09-13T15:41:21.669Z",
   "shariaCompliant": true
 }

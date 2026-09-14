@@ -9,37 +9,37 @@
     "#": 120,
     "TRADING CODE": "ENVOYTEX",
     "tradingCode": "ENVOYTEX",
-    "LTP": 74.5,
-    "HIGH": 75.6,
-    "LOW": 70.1,
-    "CLOSEP": 74.5,
-    "YCP": 74.1,
-    "CHANGE": 0.4,
-    "TRADE": 3927,
-    "VALUE (mn)": 201.748,
-    "VOLUME": 2740682
+    "LTP": 73.4,
+    "HIGH": 76.4,
+    "LOW": 73,
+    "CLOSEP": 73.4,
+    "YCP": 74.5,
+    "CHANGE": -1.1,
+    "TRADE": 4083,
+    "VALUE (mn)": 292.657,
+    "VOLUME": 3933176
   },
   "marketInformation": {
-    "lastTradingPrice": 74.5,
+    "lastTradingPrice": 73.4,
     "daysRange": [
-      70.1,
-      75.6
+      73,
+      76.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       42.9,
-      75.6
+      76.4
     ],
-    "change": 0.4,
-    "daysTradeNos": 3927,
-    "yesterdaysClose": 74.1,
-    "daysVolumeNos": 2740682,
-    "adjustedOpeningPrice": 74.1,
-    "daysValueMn": 201.75,
-    "openingPrice": 70.1,
-    "marketCapMn": 12429.146,
-    "closingPrice": 74.5,
-    "freeFloatMarketCapMn": 3263.891
+    "change": -1.1,
+    "daysTradeNos": 4083,
+    "yesterdaysClose": 74.5,
+    "daysVolumeNos": 3933176,
+    "adjustedOpeningPrice": 74.5,
+    "daysValueMn": 292.66,
+    "openingPrice": 74,
+    "marketCapMn": 12496.24,
+    "closingPrice": 73.4,
+    "freeFloatMarketCapMn": 3281.51
   },
   "basicInformation": {
     "authorizedCapitalMn": 4750,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.88,
-        "peDiluted": null,
-        "peTrailing": 7.49
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.98,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 9.49,
         "peDiluted": null,
         "peTrailing": 9.02
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.35,
+        "peDiluted": null,
+        "peTrailing": 8.89
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 7.37,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 7.46,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 8.87,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.74,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713-277534",
     "telephoneNo": "880-2-41021684-87"
   },
-  "scrapedAt": "2026-09-12T19:43:29.435Z",
+  "scrapedAt": "2026-09-13T15:42:29.610Z",
   "shariaCompliant": false
 }

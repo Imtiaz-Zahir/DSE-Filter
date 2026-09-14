@@ -9,20 +9,20 @@
     "#": 6,
     "TRADING CODE": "ABBANK",
     "tradingCode": "ABBANK",
-    "LTP": 4.5,
+    "LTP": 4.4,
     "HIGH": 4.5,
-    "LOW": 4.4,
-    "CLOSEP": 4.5,
+    "LOW": 4.3,
+    "CLOSEP": 4.4,
     "YCP": 4.5,
-    "CHANGE": 0,
-    "TRADE": 194,
-    "VALUE (mn)": 1.179,
-    "VOLUME": 266746
+    "CHANGE": -0.1,
+    "TRADE": 125,
+    "VALUE (mn)": 0.747,
+    "VOLUME": 169596
   },
   "marketInformation": {
-    "lastTradingPrice": 4.5,
+    "lastTradingPrice": 4.4,
     "daysRange": [
-      4.4,
+      4.3,
       4.5
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       3.4,
       7.7
     ],
-    "change": 0,
-    "daysTradeNos": 194,
+    "change": -0.1,
+    "daysTradeNos": 125,
     "yesterdaysClose": 4.5,
-    "daysVolumeNos": 266746,
+    "daysVolumeNos": 169596,
     "adjustedOpeningPrice": 4.5,
-    "daysValueMn": 1.18,
+    "daysValueMn": 0.75,
     "openingPrice": 4.5,
     "marketCapMn": 4030.626,
-    "closingPrice": 4.5,
+    "closingPrice": 4.4,
     "freeFloatMarketCapMn": 2841.437
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801841075550",
     "telephoneNo": "0967855-5498"
   },
-  "scrapedAt": "2026-09-12T19:42:47.947Z",
+  "scrapedAt": "2026-09-13T15:40:59.322Z",
   "shariaCompliant": false
 }

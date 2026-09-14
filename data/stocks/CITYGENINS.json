@@ -9,37 +9,37 @@
     "#": 83,
     "TRADING CODE": "CITYGENINS",
     "tradingCode": "CITYGENINS",
-    "LTP": 127.9,
-    "HIGH": 127.9,
-    "LOW": 127,
-    "CLOSEP": 127.9,
-    "YCP": 127.2,
-    "CHANGE": 0.7,
-    "TRADE": 201,
-    "VALUE (mn)": 24.956,
-    "VOLUME": 195327
+    "LTP": 127.7,
+    "HIGH": 127.8,
+    "LOW": 127.1,
+    "CLOSEP": 127.7,
+    "YCP": 127.9,
+    "CHANGE": -0.2,
+    "TRADE": 152,
+    "VALUE (mn)": 13.097,
+    "VOLUME": 102769
   },
   "marketInformation": {
-    "lastTradingPrice": 127.9,
+    "lastTradingPrice": 127.7,
     "daysRange": [
-      127,
-      127.9
+      127.1,
+      127.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      62.4,
+      62.7,
       128.4
     ],
-    "change": 0.7,
-    "daysTradeNos": 201,
-    "yesterdaysClose": 127.2,
-    "daysVolumeNos": 195327,
-    "adjustedOpeningPrice": 127.2,
-    "daysValueMn": 24.96,
-    "openingPrice": 127,
-    "marketCapMn": 8670.731,
-    "closingPrice": 127.9,
-    "freeFloatMarketCapMn": 5055.436
+    "change": -0.2,
+    "daysTradeNos": 152,
+    "yesterdaysClose": 127.9,
+    "daysVolumeNos": 102769,
+    "adjustedOpeningPrice": 127.9,
+    "daysValueMn": 13.1,
+    "openingPrice": 127.1,
+    "marketCapMn": 8718.447,
+    "closingPrice": 127.7,
+    "freeFloatMarketCapMn": 5083.256
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 23.67,
-        "peDiluted": null,
-        "peTrailing": 28.59
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 23.63,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 23.69,
         "peDiluted": null,
         "peTrailing": 28.61
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.65,
+        "peDiluted": null,
+        "peTrailing": 28.57
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 37.59,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 37.53,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 37.62,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 37.56,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 660 670",
     "telephoneNo": "880-02-223387296 Ext-254"
   },
-  "scrapedAt": "2026-09-12T19:43:20.582Z",
+  "scrapedAt": "2026-09-13T15:42:20.483Z",
   "shariaCompliant": false
 }

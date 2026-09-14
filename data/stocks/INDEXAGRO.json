@@ -9,37 +9,37 @@
     "#": 179,
     "TRADING CODE": "INDEXAGRO",
     "tradingCode": "INDEXAGRO",
-    "LTP": 68.3,
-    "HIGH": 68.9,
-    "LOW": 68.1,
-    "CLOSEP": 68.3,
-    "YCP": 68.4,
-    "CHANGE": -0.1,
-    "TRADE": 104,
-    "VALUE (mn)": 0.809,
-    "VOLUME": 11822
+    "LTP": 66.7,
+    "HIGH": 68.3,
+    "LOW": 66.2,
+    "CLOSEP": 66.7,
+    "YCP": 68.3,
+    "CHANGE": -1.6,
+    "TRADE": 155,
+    "VALUE (mn)": 1.6,
+    "VOLUME": 23952
   },
   "marketInformation": {
-    "lastTradingPrice": 68.3,
+    "lastTradingPrice": 66.7,
     "daysRange": [
-      68.1,
-      68.9
+      66.2,
+      68.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       60,
-      85
+      84.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 104,
-    "yesterdaysClose": 68.4,
-    "daysVolumeNos": 11822,
-    "adjustedOpeningPrice": 68.4,
-    "daysValueMn": 0.81,
-    "openingPrice": 68.4,
-    "marketCapMn": 3393.757,
-    "closingPrice": 68.3,
-    "freeFloatMarketCapMn": 872.875
+    "change": -1.6,
+    "daysTradeNos": 155,
+    "yesterdaysClose": 68.3,
+    "daysVolumeNos": 23952,
+    "adjustedOpeningPrice": 68.3,
+    "daysValueMn": 1.6,
+    "openingPrice": 68.3,
+    "marketCapMn": 3388.795,
+    "closingPrice": 66.7,
+    "freeFloatMarketCapMn": 871.599
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 18.26,
-        "peDiluted": null,
-        "peTrailing": 13.84
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.69,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 17.66,
         "peDiluted": null,
         "peTrailing": 13.39
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.25,
+        "peDiluted": null,
+        "peTrailing": 13.08
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 12.79,
-        "peDiluted": 13.42
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.39,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 12.37,
         "peDiluted": 12.98
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.08,
+        "peDiluted": 12.68
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01844 004 026",
     "telephoneNo": "+88-02-58817175, +88-02-222296442"
   },
-  "scrapedAt": "2026-09-12T19:43:52.203Z",
+  "scrapedAt": "2026-09-13T15:42:50.943Z",
   "shariaCompliant": true
 }

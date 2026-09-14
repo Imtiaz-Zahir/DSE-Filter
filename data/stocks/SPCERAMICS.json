@@ -9,36 +9,36 @@
     "#": 353,
     "TRADING CODE": "SPCERAMICS",
     "tradingCode": "SPCERAMICS",
-    "LTP": 21,
-    "HIGH": 21.4,
-    "LOW": 20.9,
-    "CLOSEP": 21,
+    "LTP": 20.3,
+    "HIGH": 21,
+    "LOW": 20.3,
+    "CLOSEP": 20.3,
     "YCP": 21,
-    "CHANGE": 0,
-    "TRADE": 425,
-    "VALUE (mn)": 8.244,
-    "VOLUME": 390219
+    "CHANGE": -0.7,
+    "TRADE": 444,
+    "VALUE (mn)": 8.715,
+    "VOLUME": 422503
   },
   "marketInformation": {
-    "lastTradingPrice": 21,
+    "lastTradingPrice": 20.3,
     "daysRange": [
-      20.9,
-      21.4
+      20.3,
+      21
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       26.4
     ],
-    "change": 0,
-    "daysTradeNos": 425,
+    "change": -0.7,
+    "daysTradeNos": 444,
     "yesterdaysClose": 21,
-    "daysVolumeNos": 390219,
+    "daysVolumeNos": 422503,
     "adjustedOpeningPrice": 21,
-    "daysValueMn": 8.24,
+    "daysValueMn": 8.72,
     "openingPrice": 21,
     "marketCapMn": 3086.287,
-    "closingPrice": 21,
+    "closingPrice": 20.3,
     "freeFloatMarketCapMn": 1543.144
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 129.38,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 125,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 131.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 126.88,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611891-5, 58612040-7 Ext.-10140"
   },
-  "scrapedAt": "2026-09-12T19:44:55.278Z",
+  "scrapedAt": "2026-09-13T15:44:06.215Z",
   "shariaCompliant": true
 }

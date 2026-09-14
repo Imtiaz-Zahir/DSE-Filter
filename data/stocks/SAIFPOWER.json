@@ -9,37 +9,37 @@
     "#": 318,
     "TRADING CODE": "SAIFPOWER",
     "tradingCode": "SAIFPOWER",
-    "LTP": 8.7,
-    "HIGH": 9,
-    "LOW": 8.6,
-    "CLOSEP": 8.7,
-    "YCP": 8.8,
-    "CHANGE": -0.1,
-    "TRADE": 184,
-    "VALUE (mn)": 2.181,
-    "VOLUME": 250355
+    "LTP": 8.1,
+    "HIGH": 8.8,
+    "LOW": 7.9,
+    "CLOSEP": 8,
+    "YCP": 8.7,
+    "CHANGE": -0.6,
+    "TRADE": 358,
+    "VALUE (mn)": 5.956,
+    "VOLUME": 733355
   },
   "marketInformation": {
-    "lastTradingPrice": 8.7,
+    "lastTradingPrice": 8.1,
     "daysRange": [
-      8.6,
-      9
+      7.9,
+      8.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
       11.5
     ],
-    "change": -0.1,
-    "daysTradeNos": 184,
-    "yesterdaysClose": 8.8,
-    "daysVolumeNos": 250355,
-    "adjustedOpeningPrice": 8.8,
-    "daysValueMn": 2.18,
-    "openingPrice": 8.7,
-    "marketCapMn": 3338.18,
-    "closingPrice": 8.7,
-    "freeFloatMarketCapMn": 2000.971
+    "change": -0.6,
+    "daysTradeNos": 358,
+    "yesterdaysClose": 8.7,
+    "daysVolumeNos": 733355,
+    "adjustedOpeningPrice": 8.7,
+    "daysValueMn": 5.96,
+    "openingPrice": 8.8,
+    "marketCapMn": 3300.246,
+    "closingPrice": 8,
+    "freeFloatMarketCapMn": 1978.233
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.43,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.86,
         "peDiluted": null,
@@ -183,17 +177,18 @@
       {
         "date": "2026-09-10",
         "peBasic": 12.43,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.43,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.43,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.86,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 12.43,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.43,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01714012508",
     "telephoneNo": "+8809666789121"
   },
-  "scrapedAt": "2026-09-12T19:44:44.345Z",
+  "scrapedAt": "2026-09-13T15:43:51.137Z",
   "shariaCompliant": false
 }

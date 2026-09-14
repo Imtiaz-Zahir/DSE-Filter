@@ -9,21 +9,21 @@
     "#": 253,
     "TRADING CODE": "NRBBANK",
     "tradingCode": "NRBBANK",
-    "LTP": 6.4,
-    "HIGH": 6.6,
+    "LTP": 6.5,
+    "HIGH": 6.5,
     "LOW": 6.4,
-    "CLOSEP": 6.5,
-    "YCP": 6.4,
+    "CLOSEP": 6.4,
+    "YCP": 6.5,
     "CHANGE": 0,
-    "TRADE": 58,
-    "VALUE (mn)": 1.19,
-    "VOLUME": 183015
+    "TRADE": 25,
+    "VALUE (mn)": 0.846,
+    "VOLUME": 131397
   },
   "marketInformation": {
-    "lastTradingPrice": 6.4,
+    "lastTradingPrice": 6.5,
     "daysRange": [
       6.4,
-      6.6
+      6.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       9.2
     ],
     "change": 0,
-    "daysTradeNos": 58,
-    "yesterdaysClose": 6.4,
-    "daysVolumeNos": 183015,
-    "adjustedOpeningPrice": 6.4,
-    "daysValueMn": 1.19,
+    "daysTradeNos": 25,
+    "yesterdaysClose": 6.5,
+    "daysVolumeNos": 131397,
+    "adjustedOpeningPrice": 6.5,
+    "daysValueMn": 0.85,
     "openingPrice": 6.5,
-    "marketCapMn": 4419.758,
-    "closingPrice": 6.5,
-    "freeFloatMarketCapMn": 640
+    "marketCapMn": 4488.817,
+    "closingPrice": 6.4,
+    "freeFloatMarketCapMn": 650
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 25.77,
-        "peDiluted": null,
-        "peTrailing": 4.27
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 25.77,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 25,
         "peDiluted": null,
         "peTrailing": 4.14
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.62,
+        "peDiluted": null,
+        "peTrailing": 4.08
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 60.91,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 60.91,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 59.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 58.18,
         "peDiluted": null
       }
     ]
@@ -322,6 +322,6 @@
     "cellNo": "01955544447",
     "telephoneNo": "+8809666456384"
   },
-  "scrapedAt": "2026-09-12T19:44:17.139Z",
+  "scrapedAt": "2026-09-13T15:43:24.183Z",
   "shariaCompliant": false
 }

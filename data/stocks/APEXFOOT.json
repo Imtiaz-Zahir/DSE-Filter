@@ -9,37 +9,37 @@
     "#": 32,
     "TRADING CODE": "APEXFOOT",
     "tradingCode": "APEXFOOT",
-    "LTP": 209.1,
-    "HIGH": 209.6,
-    "LOW": 207.7,
-    "CLOSEP": 209.1,
-    "YCP": 207,
-    "CHANGE": 2.1,
-    "TRADE": 358,
-    "VALUE (mn)": 9.693,
-    "VOLUME": 46479
+    "LTP": 207.1,
+    "HIGH": 209,
+    "LOW": 207,
+    "CLOSEP": 207.1,
+    "YCP": 209.1,
+    "CHANGE": -2,
+    "TRADE": 314,
+    "VALUE (mn)": 6.712,
+    "VOLUME": 32381
   },
   "marketInformation": {
-    "lastTradingPrice": 209.1,
+    "lastTradingPrice": 207.1,
     "daysRange": [
-      207.7,
-      209.6
+      207,
+      209
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       169.5,
       267
     ],
-    "change": 2.1,
-    "daysTradeNos": 358,
-    "yesterdaysClose": 207,
-    "daysVolumeNos": 46479,
-    "adjustedOpeningPrice": 207,
-    "daysValueMn": 9.69,
-    "openingPrice": 207.7,
-    "marketCapMn": 4068.181,
-    "closingPrice": 209.1,
-    "freeFloatMarketCapMn": 2473.276
+    "change": -2,
+    "daysTradeNos": 314,
+    "yesterdaysClose": 209.1,
+    "daysVolumeNos": 32381,
+    "adjustedOpeningPrice": 209.1,
+    "daysValueMn": 6.71,
+    "openingPrice": 209,
+    "marketCapMn": 4109.452,
+    "closingPrice": 207.1,
+    "freeFloatMarketCapMn": 2498.367
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 34.38,
-        "peDiluted": null,
-        "peTrailing": 23.89
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 33.95,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 34.54,
         "peDiluted": null,
         "peTrailing": 24.01
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34.21,
+        "peDiluted": null,
+        "peTrailing": 23.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.14,
-        "peDiluted": 30.16
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.84,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 24.26,
         "peDiluted": 30.3
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.03,
+        "peDiluted": 30.01
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01717 306 107",
     "telephoneNo": "+8802 5504841"
   },
-  "scrapedAt": "2026-09-12T19:42:58.995Z",
+  "scrapedAt": "2026-09-13T15:41:59.373Z",
   "shariaCompliant": false
 }

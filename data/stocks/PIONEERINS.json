@@ -9,37 +9,37 @@
     "#": 275,
     "TRADING CODE": "PIONEERINS",
     "tradingCode": "PIONEERINS",
-    "LTP": 63.6,
-    "HIGH": 65.6,
-    "LOW": 62.9,
-    "CLOSEP": 63.6,
-    "YCP": 64.5,
-    "CHANGE": -0.9,
-    "TRADE": 415,
-    "VALUE (mn)": 15.843,
-    "VOLUME": 247238
+    "LTP": 62.1,
+    "HIGH": 63.6,
+    "LOW": 61.9,
+    "CLOSEP": 62.1,
+    "YCP": 63.6,
+    "CHANGE": -1.5,
+    "TRADE": 384,
+    "VALUE (mn)": 7.625,
+    "VOLUME": 122204
   },
   "marketInformation": {
-    "lastTradingPrice": 63.6,
+    "lastTradingPrice": 62.1,
     "daysRange": [
-      62.9,
-      65.6
+      61.9,
+      63.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.1,
       75.9
     ],
-    "change": -0.9,
-    "daysTradeNos": 415,
-    "yesterdaysClose": 64.5,
-    "daysVolumeNos": 247238,
-    "adjustedOpeningPrice": 64.5,
-    "daysValueMn": 15.84,
-    "openingPrice": 65.6,
-    "marketCapMn": 6623.601,
-    "closingPrice": 63.6,
-    "freeFloatMarketCapMn": 2874.214
+    "change": -1.5,
+    "daysTradeNos": 384,
+    "yesterdaysClose": 63.6,
+    "daysVolumeNos": 122204,
+    "adjustedOpeningPrice": 63.6,
+    "daysValueMn": 7.63,
+    "openingPrice": 63.5,
+    "marketCapMn": 6531.179,
+    "closingPrice": 62.1,
+    "freeFloatMarketCapMn": 2834.109
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.31,
-        "peDiluted": null,
-        "peTrailing": 12.66
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 10.81,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.56,
         "peDiluted": null,
         "peTrailing": 11.82
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.32,
+        "peDiluted": null,
+        "peTrailing": 11.54
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.9,
-        "peDiluted": 15.66
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.25,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 13.92,
         "peDiluted": 14.62
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.59,
+        "peDiluted": 14.28
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01322905143",
     "telephoneNo": "88-02-8878901-102"
   },
-  "scrapedAt": "2026-09-12T19:44:23.668Z",
+  "scrapedAt": "2026-09-13T15:43:31.189Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 297,
     "TRADING CODE": "QUEENSOUTH",
     "tradingCode": "QUEENSOUTH",
-    "LTP": 14.5,
-    "HIGH": 14.9,
-    "LOW": 14.4,
-    "CLOSEP": 14.5,
-    "YCP": 14.6,
-    "CHANGE": -0.1,
-    "TRADE": 408,
-    "VALUE (mn)": 9.104,
-    "VOLUME": 622691
+    "LTP": 13.7,
+    "HIGH": 14.5,
+    "LOW": 13.5,
+    "CLOSEP": 13.7,
+    "YCP": 14.5,
+    "CHANGE": -0.8,
+    "TRADE": 693,
+    "VALUE (mn)": 16.675,
+    "VOLUME": 1198513
   },
   "marketInformation": {
-    "lastTradingPrice": 14.5,
+    "lastTradingPrice": 13.7,
     "daysRange": [
-      14.4,
-      14.9
+      13.5,
+      14.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       21.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 408,
-    "yesterdaysClose": 14.6,
-    "daysVolumeNos": 622691,
-    "adjustedOpeningPrice": 14.6,
-    "daysValueMn": 9.1,
-    "openingPrice": 14.8,
-    "marketCapMn": 2227.981,
-    "closingPrice": 14.5,
-    "freeFloatMarketCapMn": 1016.639
+    "change": -0.8,
+    "daysTradeNos": 693,
+    "yesterdaysClose": 14.5,
+    "daysVolumeNos": 1198513,
+    "adjustedOpeningPrice": 14.5,
+    "daysValueMn": 16.68,
+    "openingPrice": 14.5,
+    "marketCapMn": 2212.721,
+    "closingPrice": 13.7,
+    "freeFloatMarketCapMn": 1009.676
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 49.06,
-        "peDiluted": null,
-        "peTrailing": 196.25
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 45,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 45.31,
         "peDiluted": null,
         "peTrailing": 181.25
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 42.81,
+        "peDiluted": null,
+        "peTrailing": 171.25
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 78.5,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 72,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 72.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 68.5,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 1730 027 955",
     "telephoneNo": "+8809617775555-Ext 8039"
   },
-  "scrapedAt": "2026-09-12T19:44:37.012Z",
+  "scrapedAt": "2026-09-13T15:43:39.652Z",
   "shariaCompliant": false
 }

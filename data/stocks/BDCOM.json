@@ -9,37 +9,37 @@
     "#": 53,
     "TRADING CODE": "BDCOM",
     "tradingCode": "BDCOM",
-    "LTP": 29.2,
-    "HIGH": 30,
-    "LOW": 29,
-    "CLOSEP": 29.2,
-    "YCP": 29.6,
-    "CHANGE": -0.4,
-    "TRADE": 387,
-    "VALUE (mn)": 9.042,
-    "VOLUME": 307650
+    "LTP": 27.9,
+    "HIGH": 29.5,
+    "LOW": 27.6,
+    "CLOSEP": 27.9,
+    "YCP": 29.2,
+    "CHANGE": -1.3,
+    "TRADE": 556,
+    "VALUE (mn)": 7.613,
+    "VOLUME": 266537
   },
   "marketInformation": {
-    "lastTradingPrice": 29.2,
+    "lastTradingPrice": 27.9,
     "daysRange": [
-      29,
-      30
+      27.6,
+      29.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       22.5,
       36.8
     ],
-    "change": -0.4,
-    "daysTradeNos": 387,
-    "yesterdaysClose": 29.6,
-    "daysVolumeNos": 307650,
-    "adjustedOpeningPrice": 29.6,
-    "daysValueMn": 9.04,
-    "openingPrice": 29.5,
-    "marketCapMn": 1862.961,
-    "closingPrice": 29.2,
-    "freeFloatMarketCapMn": 1304.008
+    "change": -1.3,
+    "daysTradeNos": 556,
+    "yesterdaysClose": 29.2,
+    "daysVolumeNos": 266537,
+    "adjustedOpeningPrice": 29.2,
+    "daysValueMn": 7.61,
+    "openingPrice": 28.7,
+    "marketCapMn": 1837.786,
+    "closingPrice": 27.9,
+    "freeFloatMarketCapMn": 1286.386
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 48.75,
-        "peDiluted": null,
-        "peTrailing": 40.41
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 48.26,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 47.61,
         "peDiluted": null,
         "peTrailing": 39.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 45.49,
+        "peDiluted": null,
+        "peTrailing": 37.7
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 34.77,
-        "peDiluted": 36.46
-      },
       {
         "date": "2026-09-06",
         "peBasic": 34.42,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 33.95,
         "peDiluted": 35.61
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 32.44,
+        "peDiluted": 34.02
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+8801713339850, 01713331412, 01755521290",
     "telephoneNo": "+8809666333697"
   },
-  "scrapedAt": "2026-09-12T19:43:07.809Z",
+  "scrapedAt": "2026-09-13T15:42:06.905Z",
   "shariaCompliant": false
 }

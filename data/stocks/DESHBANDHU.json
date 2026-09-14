@@ -9,37 +9,37 @@
     "#": 99,
     "TRADING CODE": "DESHBANDHU",
     "tradingCode": "DESHBANDHU",
-    "LTP": 17.5,
-    "HIGH": 18,
-    "LOW": 17.4,
-    "CLOSEP": 17.5,
-    "YCP": 17.8,
-    "CHANGE": -0.3,
-    "TRADE": 201,
-    "VALUE (mn)": 3.269,
-    "VOLUME": 185379
+    "LTP": 16.3,
+    "HIGH": 17.7,
+    "LOW": 15.8,
+    "CLOSEP": 16.3,
+    "YCP": 17.5,
+    "CHANGE": -1.2,
+    "TRADE": 450,
+    "VALUE (mn)": 7.282,
+    "VOLUME": 434916
   },
   "marketInformation": {
-    "lastTradingPrice": 17.5,
+    "lastTradingPrice": 16.3,
     "daysRange": [
-      17.4,
-      18
+      15.8,
+      17.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.2,
       25.1
     ],
-    "change": -0.3,
-    "daysTradeNos": 201,
-    "yesterdaysClose": 17.8,
-    "daysVolumeNos": 185379,
-    "adjustedOpeningPrice": 17.8,
-    "daysValueMn": 3.27,
-    "openingPrice": 17.8,
-    "marketCapMn": 1092.3,
-    "closingPrice": 17.5,
-    "freeFloatMarketCapMn": 725.915
+    "change": -1.2,
+    "daysTradeNos": 450,
+    "yesterdaysClose": 17.5,
+    "daysVolumeNos": 434916,
+    "adjustedOpeningPrice": 17.5,
+    "daysValueMn": 7.28,
+    "openingPrice": 17.3,
+    "marketCapMn": 1073.89,
+    "closingPrice": 16.3,
+    "freeFloatMarketCapMn": 713.681
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01713 375221",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:23.492Z",
+  "scrapedAt": "2026-09-13T15:42:24.707Z",
   "shariaCompliant": false
 }

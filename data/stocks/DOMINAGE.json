@@ -9,37 +9,37 @@
     "#": 103,
     "TRADING CODE": "DOMINAGE",
     "tradingCode": "DOMINAGE",
-    "LTP": 63.7,
-    "HIGH": 65.2,
-    "LOW": 62,
-    "CLOSEP": 63.7,
-    "YCP": 62.5,
-    "CHANGE": 1.2,
-    "TRADE": 1483,
-    "VALUE (mn)": 101.584,
-    "VOLUME": 1592385
+    "LTP": 62.7,
+    "HIGH": 64.6,
+    "LOW": 62.2,
+    "CLOSEP": 62.7,
+    "YCP": 63.7,
+    "CHANGE": -1,
+    "TRADE": 817,
+    "VALUE (mn)": 29.465,
+    "VOLUME": 464386
   },
   "marketInformation": {
-    "lastTradingPrice": 63.7,
+    "lastTradingPrice": 62.7,
     "daysRange": [
-      62,
-      65.2
+      62.2,
+      64.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.4,
       89.7
     ],
-    "change": 1.2,
-    "daysTradeNos": 1483,
-    "yesterdaysClose": 62.5,
-    "daysVolumeNos": 1592385,
-    "adjustedOpeningPrice": 62.5,
-    "daysValueMn": 101.58,
-    "openingPrice": 62.9,
-    "marketCapMn": 6412.5,
-    "closingPrice": 63.7,
-    "freeFloatMarketCapMn": 4476.212
+    "change": -1,
+    "daysTradeNos": 817,
+    "yesterdaysClose": 63.7,
+    "daysVolumeNos": 464386,
+    "adjustedOpeningPrice": 63.7,
+    "daysValueMn": 29.47,
+    "openingPrice": 63.4,
+    "marketCapMn": 6535.62,
+    "closingPrice": 62.7,
+    "freeFloatMarketCapMn": 4562.155
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1272,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1146,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 1274,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1254,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01733-037301",
     "telephoneNo": "88-02-222282140-43"
   },
-  "scrapedAt": "2026-09-12T19:43:25.660Z",
+  "scrapedAt": "2026-09-13T15:42:25.490Z",
   "shariaCompliant": true
 }

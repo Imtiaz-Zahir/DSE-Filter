@@ -9,37 +9,37 @@
     "#": 374,
     "TRADING CODE": "UCB",
     "tradingCode": "UCB",
-    "LTP": 9.6,
-    "HIGH": 9.9,
-    "LOW": 9.4,
-    "CLOSEP": 9.6,
-    "YCP": 9.5,
-    "CHANGE": 0.1,
-    "TRADE": 414,
-    "VALUE (mn)": 6.073,
-    "VOLUME": 624709
+    "LTP": 9.2,
+    "HIGH": 9.7,
+    "LOW": 9.2,
+    "CLOSEP": 9.2,
+    "YCP": 9.6,
+    "CHANGE": -0.4,
+    "TRADE": 175,
+    "VALUE (mn)": 2.442,
+    "VOLUME": 259732
   },
   "marketInformation": {
-    "lastTradingPrice": 9.6,
+    "lastTradingPrice": 9.2,
     "daysRange": [
-      9.4,
-      9.9
+      9.2,
+      9.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.4,
       11.7
     ],
-    "change": 0.1,
-    "daysTradeNos": 414,
-    "yesterdaysClose": 9.5,
-    "daysVolumeNos": 624709,
-    "adjustedOpeningPrice": 9.5,
-    "daysValueMn": 6.07,
-    "openingPrice": 9.5,
-    "marketCapMn": 22092.857,
-    "closingPrice": 9.6,
-    "freeFloatMarketCapMn": 19644.249
+    "change": -0.4,
+    "daysTradeNos": 175,
+    "yesterdaysClose": 9.6,
+    "daysVolumeNos": 259732,
+    "adjustedOpeningPrice": 9.6,
+    "daysValueMn": 2.44,
+    "openingPrice": 9.6,
+    "marketCapMn": 22325.413,
+    "closingPrice": 9.2,
+    "freeFloatMarketCapMn": 19851.03
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.68,
-        "peDiluted": null,
-        "peTrailing": 36.4
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.23,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 21.82,
         "peDiluted": null,
         "peTrailing": 38.4
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.91,
+        "peDiluted": null,
+        "peTrailing": 36.8
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 60.67,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 59.33,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 61.33,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01611 027910",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:00.697Z",
+  "scrapedAt": "2026-09-13T15:44:14.657Z",
   "shariaCompliant": false
 }

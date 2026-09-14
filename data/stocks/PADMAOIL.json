@@ -9,37 +9,37 @@
     "#": 265,
     "TRADING CODE": "PADMAOIL",
     "tradingCode": "PADMAOIL",
-    "LTP": 192.9,
-    "HIGH": 193.3,
-    "LOW": 192.1,
-    "CLOSEP": 192.9,
-    "YCP": 192.6,
-    "CHANGE": 0.3,
-    "TRADE": 104,
-    "VALUE (mn)": 2.175,
-    "VOLUME": 11278
+    "LTP": 193,
+    "HIGH": 193.4,
+    "LOW": 192.2,
+    "CLOSEP": 192.6,
+    "YCP": 192.9,
+    "CHANGE": 0.1,
+    "TRADE": 179,
+    "VALUE (mn)": 6.071,
+    "VOLUME": 31523
   },
   "marketInformation": {
-    "lastTradingPrice": 192.9,
+    "lastTradingPrice": 193,
     "daysRange": [
-      192.1,
-      193.3
+      192.2,
+      193.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       163.8,
       205.5
     ],
-    "change": 0.3,
-    "daysTradeNos": 104,
-    "yesterdaysClose": 192.6,
-    "daysVolumeNos": 11278,
-    "adjustedOpeningPrice": 192.6,
-    "daysValueMn": 2.18,
-    "openingPrice": 192.6,
-    "marketCapMn": 18919.628,
-    "closingPrice": 192.9,
-    "freeFloatMarketCapMn": 9004.718
+    "change": 0.1,
+    "daysTradeNos": 179,
+    "yesterdaysClose": 192.9,
+    "daysVolumeNos": 31523,
+    "adjustedOpeningPrice": 192.9,
+    "daysValueMn": 6.07,
+    "openingPrice": 192.9,
+    "marketCapMn": 18949.097,
+    "closingPrice": 192.6,
+    "freeFloatMarketCapMn": 9018.744
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.3,
-        "peDiluted": null,
-        "peTrailing": 3.17
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.28,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 3.29,
         "peDiluted": null,
         "peTrailing": 3.16
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.28,
+        "peDiluted": null,
+        "peTrailing": 3.15
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.38,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.36,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 3.37,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.36,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01777703383",
     "telephoneNo": "02333354235, 02333364236, 02333357237"
   },
-  "scrapedAt": "2026-09-12T19:44:21.919Z",
+  "scrapedAt": "2026-09-13T15:43:27.713Z",
   "shariaCompliant": false
 }

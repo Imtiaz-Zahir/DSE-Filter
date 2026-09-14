@@ -9,37 +9,37 @@
     "#": 172,
     "TRADING CODE": "ICICL",
     "tradingCode": "ICICL",
-    "LTP": 36.8,
-    "HIGH": 37.4,
-    "LOW": 36.1,
-    "CLOSEP": 36.8,
-    "YCP": 36.9,
-    "CHANGE": -0.1,
-    "TRADE": 467,
-    "VALUE (mn)": 13.427,
-    "VOLUME": 363133
+    "LTP": 35.4,
+    "HIGH": 37,
+    "LOW": 35.2,
+    "CLOSEP": 35.4,
+    "YCP": 36.8,
+    "CHANGE": -1.4,
+    "TRADE": 482,
+    "VALUE (mn)": 15.099,
+    "VOLUME": 421864
   },
   "marketInformation": {
-    "lastTradingPrice": 36.8,
+    "lastTradingPrice": 35.4,
     "daysRange": [
-      36.1,
-      37.4
+      35.2,
+      37
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20,
       39.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 467,
-    "yesterdaysClose": 36.9,
-    "daysVolumeNos": 363133,
-    "adjustedOpeningPrice": 36.9,
-    "daysValueMn": 13.43,
-    "openingPrice": 37.3,
-    "marketCapMn": 1869.087,
-    "closingPrice": 36.8,
-    "freeFloatMarketCapMn": 747.635
+    "change": -1.4,
+    "daysTradeNos": 482,
+    "yesterdaysClose": 36.8,
+    "daysVolumeNos": 421864,
+    "adjustedOpeningPrice": 36.8,
+    "daysValueMn": 15.1,
+    "openingPrice": 37,
+    "marketCapMn": 1864.022,
+    "closingPrice": 35.4,
+    "freeFloatMarketCapMn": 745.609
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.21,
-        "peDiluted": null,
-        "peTrailing": 22.09
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.41,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.57,
         "peDiluted": null,
         "peTrailing": 21.4
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.83,
+        "peDiluted": null,
+        "peTrailing": 20.58
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 33.63,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 32.3,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 32.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 31.33,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01787767676",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:48.803Z",
+  "scrapedAt": "2026-09-13T15:42:50.132Z",
   "shariaCompliant": false
 }

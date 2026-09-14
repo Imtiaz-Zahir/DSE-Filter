@@ -9,37 +9,37 @@
     "#": 364,
     "TRADING CODE": "TAKAFULINS",
     "tradingCode": "TAKAFULINS",
-    "LTP": 57.9,
-    "HIGH": 58.7,
-    "LOW": 56.5,
-    "CLOSEP": 57.9,
-    "YCP": 55.9,
-    "CHANGE": 2,
-    "TRADE": 1674,
-    "VALUE (mn)": 62.051,
-    "VOLUME": 1077411
+    "LTP": 55.3,
+    "HIGH": 59,
+    "LOW": 54.5,
+    "CLOSEP": 55.3,
+    "YCP": 57.9,
+    "CHANGE": -2.6,
+    "TRADE": 1330,
+    "VALUE (mn)": 45.002,
+    "VOLUME": 784142
   },
   "marketInformation": {
-    "lastTradingPrice": 57.9,
+    "lastTradingPrice": 55.3,
     "daysRange": [
-      56.5,
-      58.7
+      54.5,
+      59
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       28.2,
-      58.7
+      59
     ],
-    "change": 2,
-    "daysTradeNos": 1674,
-    "yesterdaysClose": 55.9,
-    "daysVolumeNos": 1077411,
-    "adjustedOpeningPrice": 55.9,
-    "daysValueMn": 62.05,
-    "openingPrice": 56.5,
-    "marketCapMn": 2380.612,
-    "closingPrice": 57.9,
-    "freeFloatMarketCapMn": 984.445
+    "change": -2.6,
+    "daysTradeNos": 1330,
+    "yesterdaysClose": 57.9,
+    "daysVolumeNos": 784142,
+    "adjustedOpeningPrice": 57.9,
+    "daysValueMn": 45,
+    "openingPrice": 58.1,
+    "marketCapMn": 2465.786,
+    "closingPrice": 55.3,
+    "freeFloatMarketCapMn": 1019.667
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.6,
-        "peDiluted": null,
-        "peTrailing": 29.24
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.31,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.98,
         "peDiluted": null,
         "peTrailing": 31.3
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.04,
+        "peDiluted": null,
+        "peTrailing": 29.89
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 44.71,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 44.05,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 47.85,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 45.7,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01711-409253",
     "telephoneNo": "41070084"
   },
-  "scrapedAt": "2026-09-12T19:44:57.200Z",
+  "scrapedAt": "2026-09-13T15:44:09.239Z",
   "shariaCompliant": true
 }

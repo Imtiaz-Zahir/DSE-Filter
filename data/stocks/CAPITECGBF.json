@@ -9,36 +9,36 @@
     "#": 77,
     "TRADING CODE": "CAPITECGBF",
     "tradingCode": "CAPITECGBF",
-    "LTP": 8.6,
-    "HIGH": 8.7,
-    "LOW": 8.5,
-    "CLOSEP": 8.6,
-    "YCP": 8.4,
-    "CHANGE": 0.2,
-    "TRADE": 644,
-    "VALUE (mn)": 24.636,
-    "VOLUME": 2864490
+    "LTP": 8.7,
+    "HIGH": 9,
+    "LOW": 8.6,
+    "CLOSEP": 8.7,
+    "YCP": 8.6,
+    "CHANGE": 0.1,
+    "TRADE": 810,
+    "VALUE (mn)": 26.827,
+    "VOLUME": 3038120
   },
   "marketInformation": {
-    "lastTradingPrice": 8.6,
+    "lastTradingPrice": 8.7,
     "daysRange": [
-      8.5,
-      8.7
+      8.6,
+      9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.1,
       11.5
     ],
-    "change": 0.2,
-    "daysTradeNos": 644,
-    "yesterdaysClose": 8.4,
-    "daysVolumeNos": 2864490,
-    "adjustedOpeningPrice": 8.4,
-    "daysValueMn": 24.64,
-    "openingPrice": 8.5,
-    "marketCapMn": 1307.712,
-    "closingPrice": 8.6,
+    "change": 0.1,
+    "daysTradeNos": 810,
+    "yesterdaysClose": 8.6,
+    "daysVolumeNos": 3038120,
+    "adjustedOpeningPrice": 8.6,
+    "daysValueMn": 26.83,
+    "openingPrice": 8.7,
+    "marketCapMn": 1338.848,
+    "closingPrice": 8.7,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.92,
-        "peDiluted": null,
-        "peTrailing": 7.92
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.92,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 8.11,
         "peDiluted": null,
         "peTrailing": 8.11
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.21,
+        "peDiluted": null,
+        "peTrailing": 8.21
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.71,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.71,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.59,
         "peDiluted": null
       }
     ]
@@ -293,6 +293,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:18.212Z",
+  "scrapedAt": "2026-09-13T15:42:16.800Z",
   "shariaCompliant": false
 }

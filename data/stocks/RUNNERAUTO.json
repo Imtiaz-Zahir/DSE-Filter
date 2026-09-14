@@ -9,37 +9,37 @@
     "#": 313,
     "TRADING CODE": "RUNNERAUTO",
     "tradingCode": "RUNNERAUTO",
-    "LTP": 44.6,
-    "HIGH": 45.1,
-    "LOW": 44.1,
+    "LTP": 0,
+    "HIGH": 0,
+    "LOW": 0,
     "CLOSEP": 44.6,
-    "YCP": 44.9,
-    "CHANGE": -0.3,
-    "TRADE": 871,
-    "VALUE (mn)": 21.675,
-    "VOLUME": 486356
+    "YCP": 44.6,
+    "CHANGE": null,
+    "TRADE": 0,
+    "VALUE (mn)": 0,
+    "VOLUME": 0
   },
   "marketInformation": {
-    "lastTradingPrice": 44.6,
+    "lastTradingPrice": null,
     "daysRange": [
-      44.1,
-      45.1
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27.9,
       54.2
     ],
-    "change": -0.3,
-    "daysTradeNos": 871,
-    "yesterdaysClose": 44.9,
-    "daysVolumeNos": 486356,
-    "adjustedOpeningPrice": 44.9,
-    "daysValueMn": 21.68,
-    "openingPrice": 45.1,
-    "marketCapMn": 5097.943,
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": 44.6,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": 44.6,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 5063.881,
     "closingPrice": 44.6,
-    "freeFloatMarketCapMn": 2757.422
+    "freeFloatMarketCapMn": 2738.998
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 70.5,
-        "peDiluted": null,
-        "peTrailing": 35.34
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 68.1,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 66.9,
         "peDiluted": null,
         "peTrailing": 33.53
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 66.9,
+        "peDiluted": null,
+        "peTrailing": 33.53
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 52.22,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 50.44,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 49.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 49.56,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 405 010",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:41.796Z",
+  "scrapedAt": "2026-09-13T15:43:47.821Z",
   "shariaCompliant": false
 }

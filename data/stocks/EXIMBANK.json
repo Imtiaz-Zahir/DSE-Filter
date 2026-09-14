@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 3.85
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 3.85
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 3.85
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 16.67,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.67,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 16.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 16.67,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01922 290 840",
     "telephoneNo": "09 666 716 246"
   },
-  "scrapedAt": "2026-09-12T19:43:30.290Z",
+  "scrapedAt": "2026-09-13T15:42:30.674Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 291,
     "TRADING CODE": "PROGRESLIF",
     "tradingCode": "PROGRESLIF",
-    "LTP": 35.6,
-    "HIGH": 38.7,
-    "LOW": 35.6,
-    "CLOSEP": 36.3,
-    "YCP": 37.9,
-    "CHANGE": -2.3,
-    "TRADE": 60,
-    "VALUE (mn)": 0.446,
-    "VOLUME": 12116
+    "LTP": 36,
+    "HIGH": 37.2,
+    "LOW": 35.2,
+    "CLOSEP": 35.6,
+    "YCP": 36.3,
+    "CHANGE": -0.3,
+    "TRADE": 48,
+    "VALUE (mn)": 0.244,
+    "VOLUME": 6774
   },
   "marketInformation": {
-    "lastTradingPrice": 35.6,
+    "lastTradingPrice": 36,
     "daysRange": [
-      35.6,
-      38.7
+      35.2,
+      37.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.2,
       61.8
     ],
-    "change": -2.3,
-    "daysTradeNos": 60,
-    "yesterdaysClose": 37.9,
-    "daysVolumeNos": 12116,
-    "adjustedOpeningPrice": 37.9,
-    "daysValueMn": 0.45,
-    "openingPrice": 37.9,
-    "marketCapMn": 630.776,
-    "closingPrice": 36.3,
-    "freeFloatMarketCapMn": 385.913
+    "change": -0.3,
+    "daysTradeNos": 48,
+    "yesterdaysClose": 36.3,
+    "daysVolumeNos": 6774,
+    "adjustedOpeningPrice": 36.3,
+    "daysValueMn": 0.24,
+    "openingPrice": 36.6,
+    "marketCapMn": 604.147,
+    "closingPrice": 35.6,
+    "freeFloatMarketCapMn": 369.621
   },
   "basicInformation": {
     "authorizedCapitalMn": 750,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": "+88 01713-361160",
     "telephoneNo": "+88-02-49350301-190"
   },
-  "scrapedAt": "2026-09-12T19:44:35.581Z",
+  "scrapedAt": "2026-09-13T15:43:38.574Z",
   "shariaCompliant": false
 }

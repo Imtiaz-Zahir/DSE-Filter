@@ -9,20 +9,20 @@
     "#": 12,
     "TRADING CODE": "ACTIVEFINE",
     "tradingCode": "ACTIVEFINE",
-    "LTP": 5.8,
+    "LTP": 5.7,
     "HIGH": 5.8,
-    "LOW": 5.7,
+    "LOW": 5.6,
     "CLOSEP": 5.7,
     "YCP": 5.7,
-    "CHANGE": 0.1,
-    "TRADE": 46,
-    "VALUE (mn)": 0.491,
-    "VOLUME": 85572
+    "CHANGE": 0,
+    "TRADE": 122,
+    "VALUE (mn)": 0.988,
+    "VOLUME": 174999
   },
   "marketInformation": {
-    "lastTradingPrice": 5.8,
+    "lastTradingPrice": 5.7,
     "daysRange": [
-      5.7,
+      5.6,
       5.8
     ],
     "lastUpdate": "2:40 PM",
@@ -30,12 +30,12 @@
       4.7,
       9.2
     ],
-    "change": 0.1,
-    "daysTradeNos": 46,
+    "change": 0,
+    "daysTradeNos": 122,
     "yesterdaysClose": 5.7,
-    "daysVolumeNos": 85572,
+    "daysVolumeNos": 174999,
     "adjustedOpeningPrice": 5.7,
-    "daysValueMn": 0.49,
+    "daysValueMn": 0.99,
     "openingPrice": 5.8,
     "marketCapMn": 1367.639,
     "closingPrice": 5.7,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 38.13,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 36.25,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.63,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.63,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 55.45,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 52.73,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 51.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 51.82,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01992 024 696",
     "telephoneNo": "02-9531023"
   },
-  "scrapedAt": "2026-09-12T19:42:50.782Z",
+  "scrapedAt": "2026-09-13T15:41:21.597Z",
   "shariaCompliant": false
 }

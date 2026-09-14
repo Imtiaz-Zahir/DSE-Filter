@@ -9,37 +9,37 @@
     "#": 315,
     "TRADING CODE": "RUPALIINS",
     "tradingCode": "RUPALIINS",
-    "LTP": 28.1,
-    "HIGH": 28.9,
-    "LOW": 27.7,
-    "CLOSEP": 28.1,
-    "YCP": 28,
-    "CHANGE": 0.1,
-    "TRADE": 211,
-    "VALUE (mn)": 5.976,
-    "VOLUME": 212166
+    "LTP": 27.2,
+    "HIGH": 28.4,
+    "LOW": 27.1,
+    "CLOSEP": 27.2,
+    "YCP": 28.1,
+    "CHANGE": -0.9,
+    "TRADE": 267,
+    "VALUE (mn)": 5.285,
+    "VOLUME": 192696
   },
   "marketInformation": {
-    "lastTradingPrice": 28.1,
+    "lastTradingPrice": 27.2,
     "daysRange": [
-      27.7,
-      28.9
+      27.1,
+      28.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18,
       33.6
     ],
-    "change": 0.1,
-    "daysTradeNos": 211,
-    "yesterdaysClose": 28,
-    "daysVolumeNos": 212166,
-    "adjustedOpeningPrice": 28,
-    "daysValueMn": 5.98,
-    "openingPrice": 28.9,
-    "marketCapMn": 2253.963,
-    "closingPrice": 28.1,
-    "freeFloatMarketCapMn": 1209.386
+    "change": -0.9,
+    "daysTradeNos": 267,
+    "yesterdaysClose": 28.1,
+    "daysVolumeNos": 192696,
+    "adjustedOpeningPrice": 28.1,
+    "daysValueMn": 5.29,
+    "openingPrice": 28.4,
+    "marketCapMn": 2262.013,
+    "closingPrice": 27.2,
+    "freeFloatMarketCapMn": 1213.705
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.85,
-        "peDiluted": null,
-        "peTrailing": 28.74
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.86,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.79,
         "peDiluted": null,
         "peTrailing": 27.28
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.15,
+        "peDiluted": null,
+        "peTrailing": 26.41
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 29.02,
-        "peDiluted": 30.52
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.65,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 27.55,
         "peDiluted": 28.97
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.67,
+        "peDiluted": 28.04
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01818 680 664",
     "telephoneNo": "02 223385625-6, 02 223387238"
   },
-  "scrapedAt": "2026-09-12T19:44:42.761Z",
+  "scrapedAt": "2026-09-13T15:43:48.993Z",
   "shariaCompliant": false
 }

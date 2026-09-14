@@ -9,37 +9,37 @@
     "#": 289,
     "TRADING CODE": "PRIMELIFE",
     "tradingCode": "PRIMELIFE",
-    "LTP": 36.6,
-    "HIGH": 38,
-    "LOW": 36.5,
-    "CLOSEP": 36.6,
-    "YCP": 37.2,
-    "CHANGE": -0.6,
-    "TRADE": 49,
-    "VALUE (mn)": 0.561,
-    "VOLUME": 15256
+    "LTP": 35.5,
+    "HIGH": 37.8,
+    "LOW": 35,
+    "CLOSEP": 35.5,
+    "YCP": 36.6,
+    "CHANGE": -1.1,
+    "TRADE": 102,
+    "VALUE (mn)": 0.859,
+    "VOLUME": 24232
   },
   "marketInformation": {
-    "lastTradingPrice": 36.6,
+    "lastTradingPrice": 35.5,
     "daysRange": [
-      36.5,
-      38
+      35,
+      37.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27,
-      48.9
+      46.8
     ],
-    "change": -0.6,
-    "daysTradeNos": 49,
-    "yesterdaysClose": 37.2,
-    "daysVolumeNos": 15256,
-    "adjustedOpeningPrice": 37.2,
-    "daysValueMn": 0.56,
-    "openingPrice": 37,
-    "marketCapMn": 1135.353,
-    "closingPrice": 36.6,
-    "freeFloatMarketCapMn": 644.023
+    "change": -1.1,
+    "daysTradeNos": 102,
+    "yesterdaysClose": 36.6,
+    "daysVolumeNos": 24232,
+    "adjustedOpeningPrice": 36.6,
+    "daysValueMn": 0.86,
+    "openingPrice": 37.7,
+    "marketCapMn": 1117.04,
+    "closingPrice": 35.5,
+    "freeFloatMarketCapMn": 633.635
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01707 213 979",
     "telephoneNo": "41070180-83 (Ext. 433)"
   },
-  "scrapedAt": "2026-09-12T19:44:31.684Z",
+  "scrapedAt": "2026-09-13T15:43:35.877Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 342,
     "TRADING CODE": "SIMTEX",
     "tradingCode": "SIMTEX",
-    "LTP": 24.4,
-    "HIGH": 25,
-    "LOW": 24.3,
-    "CLOSEP": 24.4,
-    "YCP": 24.7,
-    "CHANGE": -0.3,
-    "TRADE": 425,
-    "VALUE (mn)": 8.713,
-    "VOLUME": 355576
+    "LTP": 23.8,
+    "HIGH": 24.4,
+    "LOW": 23.7,
+    "CLOSEP": 23.8,
+    "YCP": 24.4,
+    "CHANGE": -0.6,
+    "TRADE": 494,
+    "VALUE (mn)": 11.442,
+    "VOLUME": 478066
   },
   "marketInformation": {
-    "lastTradingPrice": 24.4,
+    "lastTradingPrice": 23.8,
     "daysRange": [
-      24.3,
-      25
+      23.7,
+      24.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.3,
       34.5
     ],
-    "change": -0.3,
-    "daysTradeNos": 425,
-    "yesterdaysClose": 24.7,
-    "daysVolumeNos": 355576,
-    "adjustedOpeningPrice": 24.7,
-    "daysValueMn": 8.71,
-    "openingPrice": 24.7,
-    "marketCapMn": 1966.006,
-    "closingPrice": 24.4,
-    "freeFloatMarketCapMn": 1343.736
+    "change": -0.6,
+    "daysTradeNos": 494,
+    "yesterdaysClose": 24.4,
+    "daysVolumeNos": 478066,
+    "adjustedOpeningPrice": 24.4,
+    "daysValueMn": 11.44,
+    "openingPrice": 24.4,
+    "marketCapMn": 1942.127,
+    "closingPrice": 23.8,
+    "freeFloatMarketCapMn": 1327.416
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.08,
-        "peDiluted": null,
-        "peTrailing": 22.95
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.98,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.06,
         "peDiluted": null,
         "peTrailing": 21.79
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.59,
+        "peDiluted": null,
+        "peTrailing": 21.25
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.95,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.59,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.69,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.11,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01404451250",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:50.654Z",
+  "scrapedAt": "2026-09-13T15:44:00.251Z",
   "shariaCompliant": true
 }

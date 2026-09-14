@@ -9,21 +9,21 @@
     "#": 204,
     "TRADING CODE": "LEGACYFOOT",
     "tradingCode": "LEGACYFOOT",
-    "LTP": 70.3,
-    "HIGH": 72.9,
-    "LOW": 70.3,
-    "CLOSEP": 71,
-    "YCP": 72.2,
+    "LTP": 69.1,
+    "HIGH": 71.4,
+    "LOW": 69,
+    "CLOSEP": 69.1,
+    "YCP": 71,
     "CHANGE": -1.9,
-    "TRADE": 518,
-    "VALUE (mn)": 9.234,
-    "VOLUME": 129433
+    "TRADE": 429,
+    "VALUE (mn)": 8.239,
+    "VOLUME": 118076
   },
   "marketInformation": {
-    "lastTradingPrice": 70.3,
+    "lastTradingPrice": 69.1,
     "daysRange": [
-      70.3,
-      72.9
+      69,
+      71.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       85.4
     ],
     "change": -1.9,
-    "daysTradeNos": 518,
-    "yesterdaysClose": 72.2,
-    "daysVolumeNos": 129433,
-    "adjustedOpeningPrice": 72.2,
-    "daysValueMn": 9.23,
-    "openingPrice": 72,
-    "marketCapMn": 3110.375,
-    "closingPrice": 71,
-    "freeFloatMarketCapMn": 2094.853
+    "daysTradeNos": 429,
+    "yesterdaysClose": 71,
+    "daysVolumeNos": 118076,
+    "adjustedOpeningPrice": 71,
+    "daysValueMn": 8.24,
+    "openingPrice": 71.4,
+    "marketCapMn": 3058.679,
+    "closingPrice": 69.1,
+    "freeFloatMarketCapMn": 2060.036
   },
   "basicInformation": {
     "authorizedCapitalMn": 750,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1380,
-        "peDiluted": null,
-        "peTrailing": 320
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1370.63,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1331.25,
         "peDiluted": null,
         "peTrailing": 308.7
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1295.63,
+        "peDiluted": null,
+        "peTrailing": 300.43
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1472,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1462,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 1420,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1382,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01717 829657",
     "telephoneNo": "02-8415983"
   },
-  "scrapedAt": "2026-09-12T19:44:00.461Z",
+  "scrapedAt": "2026-09-13T15:43:05.711Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 224,
     "TRADING CODE": "METROSPIN",
     "tradingCode": "METROSPIN",
-    "LTP": 9.5,
-    "HIGH": 10.5,
-    "LOW": 9.5,
-    "CLOSEP": 9.7,
-    "YCP": 10.1,
-    "CHANGE": -0.6,
-    "TRADE": 185,
-    "VALUE (mn)": 1.566,
-    "VOLUME": 159712
+    "LTP": 9.6,
+    "HIGH": 10.3,
+    "LOW": 9.6,
+    "CLOSEP": 9.6,
+    "YCP": 9.7,
+    "CHANGE": -0.1,
+    "TRADE": 37,
+    "VALUE (mn)": 0.344,
+    "VOLUME": 35588
   },
   "marketInformation": {
-    "lastTradingPrice": 9.5,
+    "lastTradingPrice": 9.6,
     "daysRange": [
-      9.5,
-      10.5
+      9.6,
+      10.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7,
       12.7
     ],
-    "change": -0.6,
-    "daysTradeNos": 185,
-    "yesterdaysClose": 10.1,
-    "daysVolumeNos": 159712,
-    "adjustedOpeningPrice": 10.1,
-    "daysValueMn": 1.57,
-    "openingPrice": 10.1,
-    "marketCapMn": 623.153,
-    "closingPrice": 9.7,
-    "freeFloatMarketCapMn": 435.677
+    "change": -0.1,
+    "daysTradeNos": 37,
+    "yesterdaysClose": 9.7,
+    "daysVolumeNos": 35588,
+    "adjustedOpeningPrice": 9.7,
+    "daysValueMn": 0.34,
+    "openingPrice": 10.3,
+    "marketCapMn": 598.473,
+    "closingPrice": 9.6,
+    "freeFloatMarketCapMn": 418.422
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01841 166 203",
     "telephoneNo": "8933612 8933613"
   },
-  "scrapedAt": "2026-09-12T19:44:06.471Z",
+  "scrapedAt": "2026-09-13T15:43:10.492Z",
   "shariaCompliant": false
 }

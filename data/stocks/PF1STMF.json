@@ -9,36 +9,36 @@
     "#": 270,
     "TRADING CODE": "PF1STMF",
     "tradingCode": "PF1STMF",
-    "LTP": 17.8,
-    "HIGH": 17.9,
-    "LOW": 16.5,
-    "CLOSEP": 17.8,
-    "YCP": 16.3,
-    "CHANGE": 1.5,
-    "TRADE": 1317,
-    "VALUE (mn)": 66.047,
-    "VOLUME": 3829852
+    "LTP": 17.7,
+    "HIGH": 18.4,
+    "LOW": 17.2,
+    "CLOSEP": 17.7,
+    "YCP": 17.8,
+    "CHANGE": -0.1,
+    "TRADE": 1544,
+    "VALUE (mn)": 82.009,
+    "VOLUME": 4633447
   },
   "marketInformation": {
-    "lastTradingPrice": 17.8,
+    "lastTradingPrice": 17.7,
     "daysRange": [
-      16.5,
-      17.9
+      17.2,
+      18.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.6,
-      17.9
+      18.4
     ],
-    "change": 1.5,
-    "daysTradeNos": 1317,
-    "yesterdaysClose": 16.3,
-    "daysVolumeNos": 3829852,
-    "adjustedOpeningPrice": 16.3,
-    "daysValueMn": 66.05,
-    "openingPrice": 16.7,
-    "marketCapMn": 978,
-    "closingPrice": 17.8,
+    "change": -0.1,
+    "daysTradeNos": 1544,
+    "yesterdaysClose": 17.8,
+    "daysVolumeNos": 4633447,
+    "adjustedOpeningPrice": 17.8,
+    "daysValueMn": 82.01,
+    "openingPrice": 18,
+    "marketCapMn": 1068,
+    "closingPrice": 17.7,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 9.02,
-        "peDiluted": null,
-        "peTrailing": 9.02
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 9.21,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.85,
         "peDiluted": null,
         "peTrailing": 10.85
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.79,
+        "peDiluted": null,
+        "peTrailing": 10.79
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+8801712 117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-12T19:44:22.845Z",
+  "scrapedAt": "2026-09-13T15:43:28.517Z",
   "shariaCompliant": false
 }

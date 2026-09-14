@@ -9,37 +9,37 @@
     "#": 33,
     "TRADING CODE": "APEXSPINN",
     "tradingCode": "APEXSPINN",
-    "LTP": 281.9,
-    "HIGH": 297,
-    "LOW": 277.9,
-    "CLOSEP": 281.9,
-    "YCP": 277.9,
-    "CHANGE": 4,
-    "TRADE": 630,
-    "VALUE (mn)": 10.444,
-    "VOLUME": 36549
+    "LTP": 282.2,
+    "HIGH": 289,
+    "LOW": 280,
+    "CLOSEP": 282.2,
+    "YCP": 281.9,
+    "CHANGE": 0.3,
+    "TRADE": 560,
+    "VALUE (mn)": 9.161,
+    "VOLUME": 32274
   },
   "marketInformation": {
-    "lastTradingPrice": 281.9,
+    "lastTradingPrice": 282.2,
     "daysRange": [
-      277.9,
-      297
+      280,
+      289
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       125.4,
       440
     ],
-    "change": 4,
-    "daysTradeNos": 630,
-    "yesterdaysClose": 277.9,
-    "daysVolumeNos": 36549,
-    "adjustedOpeningPrice": 277.9,
-    "daysValueMn": 10.44,
-    "openingPrice": 277.9,
-    "marketCapMn": 2334.36,
-    "closingPrice": 281.9,
-    "freeFloatMarketCapMn": 1072.957
+    "change": 0.3,
+    "daysTradeNos": 560,
+    "yesterdaysClose": 281.9,
+    "daysVolumeNos": 32274,
+    "adjustedOpeningPrice": 281.9,
+    "daysValueMn": 9.16,
+    "openingPrice": 281,
+    "marketCapMn": 2367.96,
+    "closingPrice": 282.2,
+    "freeFloatMarketCapMn": 1088.401
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 86.87,
-        "peDiluted": null,
-        "peTrailing": 94.43
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 81.36,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 82.59,
         "peDiluted": null,
         "peTrailing": 89.78
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 82.68,
+        "peDiluted": null,
+        "peTrailing": 89.87
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 82.36,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 77.14,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 78.31,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 78.39,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 542 647",
     "telephoneNo": "09606669988 Ext-153"
   },
-  "scrapedAt": "2026-09-12T19:42:58.950Z",
+  "scrapedAt": "2026-09-13T15:41:59.287Z",
   "shariaCompliant": true
 }

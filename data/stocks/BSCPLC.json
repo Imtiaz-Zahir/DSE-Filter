@@ -9,37 +9,37 @@
     "#": 73,
     "TRADING CODE": "BSCPLC",
     "tradingCode": "BSCPLC",
-    "LTP": 147,
-    "HIGH": 148.5,
-    "LOW": 146.8,
-    "CLOSEP": 147,
-    "YCP": 146.8,
-    "CHANGE": 0.2,
-    "TRADE": 98,
-    "VALUE (mn)": 3.858,
-    "VOLUME": 26225
+    "LTP": 144.5,
+    "HIGH": 146.3,
+    "LOW": 144.3,
+    "CLOSEP": 144.5,
+    "YCP": 147,
+    "CHANGE": -2.5,
+    "TRADE": 285,
+    "VALUE (mn)": 7.345,
+    "VOLUME": 50786
   },
   "marketInformation": {
-    "lastTradingPrice": 147,
+    "lastTradingPrice": 144.5,
     "daysRange": [
-      146.8,
-      148.5
+      144.3,
+      146.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       117,
       169.1
     ],
-    "change": 0.2,
-    "daysTradeNos": 98,
-    "yesterdaysClose": 146.8,
-    "daysVolumeNos": 26225,
-    "adjustedOpeningPrice": 146.8,
-    "daysValueMn": 3.86,
-    "openingPrice": 148.5,
-    "marketCapMn": 27457.302,
-    "closingPrice": 147,
-    "freeFloatMarketCapMn": 6332.439
+    "change": -2.5,
+    "daysTradeNos": 285,
+    "yesterdaysClose": 147,
+    "daysVolumeNos": 50786,
+    "adjustedOpeningPrice": 147,
+    "daysValueMn": 7.35,
+    "openingPrice": 146.3,
+    "marketCapMn": 27494.71,
+    "closingPrice": 144.5,
+    "freeFloatMarketCapMn": 6341.067
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 9.49,
-        "peDiluted": 10.52,
-        "peTrailing": 10.84
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 9.4,
         "peDiluted": 10.42,
@@ -185,14 +179,15 @@
         "peBasic": 9.42,
         "peDiluted": 10.43,
         "peTrailing": 10.75
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.25,
+        "peDiluted": 10.25,
+        "peTrailing": 10.57
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.92,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.78,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.8,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.55,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01819723786",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:16.786Z",
+  "scrapedAt": "2026-09-13T15:42:14.451Z",
   "shariaCompliant": false
 }

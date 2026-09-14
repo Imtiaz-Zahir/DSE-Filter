@@ -9,36 +9,36 @@
     "#": 389,
     "TRADING CODE": "WALTONHIL",
     "tradingCode": "WALTONHIL",
-    "LTP": 390,
-    "HIGH": 393.4,
-    "LOW": 389.5,
-    "CLOSEP": 390,
+    "LTP": 389.8,
+    "HIGH": 393.9,
+    "LOW": 388,
+    "CLOSEP": 389.8,
     "YCP": 390,
-    "CHANGE": 0,
-    "TRADE": 922,
-    "VALUE (mn)": 21.268,
-    "VOLUME": 54407
+    "CHANGE": -0.2,
+    "TRADE": 1102,
+    "VALUE (mn)": 21.487,
+    "VOLUME": 55107
   },
   "marketInformation": {
-    "lastTradingPrice": 390,
+    "lastTradingPrice": 389.8,
     "daysRange": [
-      389.5,
-      393.4
+      388,
+      393.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       356.8,
       486
     ],
-    "change": 0,
-    "daysTradeNos": 922,
+    "change": -0.2,
+    "daysTradeNos": 1102,
     "yesterdaysClose": 390,
-    "daysVolumeNos": 54407,
+    "daysVolumeNos": 55107,
     "adjustedOpeningPrice": 390,
-    "daysValueMn": 21.27,
-    "openingPrice": 390.1,
+    "daysValueMn": 21.49,
+    "openingPrice": 391.1,
     "marketCapMn": 129956.259,
-    "closingPrice": 390,
+    "closingPrice": 389.8,
     "freeFloatMarketCapMn": 37567.418
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.62,
-        "peDiluted": null,
-        "peTrailing": 11.62
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.56,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.56,
         "peDiluted": null,
         "peTrailing": 11.56
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.55,
+        "peDiluted": null,
+        "peTrailing": 11.55
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 11.46,
-        "peDiluted": 12.61
-      },
       {
         "date": "2026-09-06",
         "peBasic": 11.4,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 11.4,
         "peDiluted": 12.54
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.39,
+        "peDiluted": 12.53
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01678863444",
     "telephoneNo": "+8809606-555555"
   },
-  "scrapedAt": "2026-09-12T19:45:06.939Z",
+  "scrapedAt": "2026-09-13T15:44:18.682Z",
   "shariaCompliant": true
 }

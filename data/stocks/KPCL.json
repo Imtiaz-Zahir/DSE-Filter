@@ -9,37 +9,37 @@
     "#": 200,
     "TRADING CODE": "KPCL",
     "tradingCode": "KPCL",
-    "LTP": 10.7,
-    "HIGH": 10.9,
-    "LOW": 10.5,
-    "CLOSEP": 10.6,
-    "YCP": 10.7,
-    "CHANGE": 0,
-    "TRADE": 117,
-    "VALUE (mn)": 1.812,
-    "VOLUME": 170291
+    "LTP": 10.4,
+    "HIGH": 10.7,
+    "LOW": 10.3,
+    "CLOSEP": 10.4,
+    "YCP": 10.6,
+    "CHANGE": -0.2,
+    "TRADE": 200,
+    "VALUE (mn)": 3.291,
+    "VOLUME": 315639
   },
   "marketInformation": {
-    "lastTradingPrice": 10.7,
+    "lastTradingPrice": 10.4,
     "daysRange": [
-      10.5,
-      10.9
+      10.3,
+      10.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.1,
       12.5
     ],
-    "change": 0,
-    "daysTradeNos": 117,
-    "yesterdaysClose": 10.7,
-    "daysVolumeNos": 170291,
-    "adjustedOpeningPrice": 10.7,
-    "daysValueMn": 1.81,
+    "change": -0.2,
+    "daysTradeNos": 200,
+    "yesterdaysClose": 10.6,
+    "daysVolumeNos": 315639,
+    "adjustedOpeningPrice": 10.6,
+    "daysValueMn": 3.29,
     "openingPrice": 10.7,
-    "marketCapMn": 4252.321,
-    "closingPrice": 10.6,
-    "freeFloatMarketCapMn": 1276.104
+    "marketCapMn": 4212.58,
+    "closingPrice": 10.4,
+    "freeFloatMarketCapMn": 1264.178
   },
   "basicInformation": {
     "authorizedCapitalMn": 7000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.51,
-        "peDiluted": null,
-        "peTrailing": 12.58
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.1,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.89,
         "peDiluted": null,
         "peTrailing": 11.91
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.68,
+        "peDiluted": null,
+        "peTrailing": 11.69
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 38.62,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 37.24,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 36.55,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.86,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01841403333",
     "telephoneNo": "+880 9666 700 900, Ext. 4006"
   },
-  "scrapedAt": "2026-09-12T19:43:59.868Z",
+  "scrapedAt": "2026-09-13T15:43:01.271Z",
   "shariaCompliant": true
 }

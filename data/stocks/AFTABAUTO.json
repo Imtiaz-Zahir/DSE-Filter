@@ -9,37 +9,37 @@
     "#": 16,
     "TRADING CODE": "AFTABAUTO",
     "tradingCode": "AFTABAUTO",
-    "LTP": 26.7,
-    "HIGH": 26.9,
-    "LOW": 26.5,
-    "CLOSEP": 26.7,
-    "YCP": 26.5,
-    "CHANGE": 0.2,
-    "TRADE": 85,
-    "VALUE (mn)": 0.487,
-    "VOLUME": 18245
+    "LTP": 25.7,
+    "HIGH": 26.7,
+    "LOW": 25,
+    "CLOSEP": 25.7,
+    "YCP": 26.7,
+    "CHANGE": -1,
+    "TRADE": 246,
+    "VALUE (mn)": 2.323,
+    "VOLUME": 89924
   },
   "marketInformation": {
-    "lastTradingPrice": 26.7,
+    "lastTradingPrice": 25.7,
     "daysRange": [
-      26.5,
-      26.9
+      25,
+      26.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      26.2,
+      25,
       39.7
     ],
-    "change": 0.2,
-    "daysTradeNos": 85,
-    "yesterdaysClose": 26.5,
-    "daysVolumeNos": 18245,
-    "adjustedOpeningPrice": 26.5,
-    "daysValueMn": 0.49,
+    "change": -1,
+    "daysTradeNos": 246,
+    "yesterdaysClose": 26.7,
+    "daysVolumeNos": 89924,
+    "adjustedOpeningPrice": 26.7,
+    "daysValueMn": 2.32,
     "openingPrice": 26.7,
-    "marketCapMn": 2796.942,
-    "closingPrice": 26.7,
-    "freeFloatMarketCapMn": 1730.194
+    "marketCapMn": 2818.051,
+    "closingPrice": 25.7,
+    "freeFloatMarketCapMn": 1743.252
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 245 382",
     "telephoneNo": "+880 2223381812"
   },
-  "scrapedAt": "2026-09-12T19:42:51.584Z",
+  "scrapedAt": "2026-09-13T15:41:52.210Z",
   "shariaCompliant": false
 }

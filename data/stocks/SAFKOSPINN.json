@@ -9,37 +9,37 @@
     "#": 317,
     "TRADING CODE": "SAFKOSPINN",
     "tradingCode": "SAFKOSPINN",
-    "LTP": 20.8,
-    "HIGH": 21.2,
-    "LOW": 20.7,
-    "CLOSEP": 20.8,
-    "YCP": 20.9,
-    "CHANGE": -0.1,
-    "TRADE": 105,
-    "VALUE (mn)": 1.633,
-    "VOLUME": 78513
+    "LTP": 19.8,
+    "HIGH": 20.6,
+    "LOW": 19.6,
+    "CLOSEP": 19.7,
+    "YCP": 20.8,
+    "CHANGE": -1,
+    "TRADE": 153,
+    "VALUE (mn)": 2.457,
+    "VOLUME": 123203
   },
   "marketInformation": {
-    "lastTradingPrice": 20.8,
+    "lastTradingPrice": 19.8,
     "daysRange": [
-      20.7,
-      21.2
+      19.6,
+      20.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.9,
       24.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 105,
-    "yesterdaysClose": 20.9,
-    "daysVolumeNos": 78513,
-    "adjustedOpeningPrice": 20.9,
-    "daysValueMn": 1.63,
-    "openingPrice": 21.2,
-    "marketCapMn": 626.618,
-    "closingPrice": 20.8,
-    "freeFloatMarketCapMn": 438.624
+    "change": -1,
+    "daysTradeNos": 153,
+    "yesterdaysClose": 20.8,
+    "daysVolumeNos": 123203,
+    "adjustedOpeningPrice": 20.8,
+    "daysValueMn": 2.46,
+    "openingPrice": 20.3,
+    "marketCapMn": 623.62,
+    "closingPrice": 19.7,
+    "freeFloatMarketCapMn": 436.526
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01671 012 818",
     "telephoneNo": "02-222280092"
   },
-  "scrapedAt": "2026-09-12T19:44:44.247Z",
+  "scrapedAt": "2026-09-13T15:43:49.893Z",
   "shariaCompliant": false
 }

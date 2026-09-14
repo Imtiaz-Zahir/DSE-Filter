@@ -9,20 +9,20 @@
     "#": 101,
     "TRADING CODE": "DHAKABANK",
     "tradingCode": "DHAKABANK",
-    "LTP": 11.8,
+    "LTP": 11.7,
     "HIGH": 11.9,
-    "LOW": 11.8,
-    "CLOSEP": 11.8,
+    "LOW": 11.6,
+    "CLOSEP": 11.7,
     "YCP": 11.8,
-    "CHANGE": 0,
-    "TRADE": 239,
-    "VALUE (mn)": 5.654,
-    "VOLUME": 478720
+    "CHANGE": -0.1,
+    "TRADE": 238,
+    "VALUE (mn)": 8.171,
+    "VOLUME": 697112
   },
   "marketInformation": {
-    "lastTradingPrice": 11.8,
+    "lastTradingPrice": 11.7,
     "daysRange": [
-      11.8,
+      11.6,
       11.9
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       10.2,
       16
     ],
-    "change": 0,
-    "daysTradeNos": 239,
+    "change": -0.1,
+    "daysTradeNos": 238,
     "yesterdaysClose": 11.8,
-    "daysVolumeNos": 478720,
+    "daysVolumeNos": 697112,
     "adjustedOpeningPrice": 11.8,
-    "daysValueMn": 5.65,
+    "daysValueMn": 8.17,
     "openingPrice": 11.8,
     "marketCapMn": 12471.802,
-    "closingPrice": 11.8,
+    "closingPrice": 11.7,
     "freeFloatMarketCapMn": 6952.407
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.26,
-        "peDiluted": null,
-        "peTrailing": 4.86
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.21,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 6.21,
         "peDiluted": null,
         "peTrailing": 4.82
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.16,
+        "peDiluted": null,
+        "peTrailing": 4.78
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.49,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.45,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 4.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.42,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 038 522",
     "telephoneNo": "8802 5831 4424-30 (Ext. 241)"
   },
-  "scrapedAt": "2026-09-12T19:43:25.908Z",
+  "scrapedAt": "2026-09-13T15:42:25.636Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 239,
     "TRADING CODE": "NAHEEACP",
     "tradingCode": "NAHEEACP",
-    "LTP": 34,
-    "HIGH": 34.8,
-    "LOW": 33.2,
-    "CLOSEP": 34,
-    "YCP": 34.4,
-    "CHANGE": -0.4,
-    "TRADE": 475,
-    "VALUE (mn)": 15.085,
-    "VOLUME": 443067
+    "LTP": 32.7,
+    "HIGH": 34.4,
+    "LOW": 31.8,
+    "CLOSEP": 32.7,
+    "YCP": 34,
+    "CHANGE": -1.3,
+    "TRADE": 483,
+    "VALUE (mn)": 9.785,
+    "VOLUME": 294699
   },
   "marketInformation": {
-    "lastTradingPrice": 34,
+    "lastTradingPrice": 32.7,
     "daysRange": [
-      33.2,
-      34.8
+      31.8,
+      34.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.9,
       42
     ],
-    "change": -0.4,
-    "daysTradeNos": 475,
-    "yesterdaysClose": 34.4,
-    "daysVolumeNos": 443067,
-    "adjustedOpeningPrice": 34.4,
-    "daysValueMn": 15.09,
+    "change": -1.3,
+    "daysTradeNos": 483,
+    "yesterdaysClose": 34,
+    "daysVolumeNos": 294699,
+    "adjustedOpeningPrice": 34,
+    "daysValueMn": 9.79,
     "openingPrice": 34.2,
-    "marketCapMn": 2351.59,
-    "closingPrice": 34,
-    "freeFloatMarketCapMn": 1592.222
+    "marketCapMn": 2324.245,
+    "closingPrice": 32.7,
+    "freeFloatMarketCapMn": 1573.708
   },
   "basicInformation": {
     "authorizedCapitalMn": 1200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 158.38,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 148.68,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 150,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 144.26,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01730 097 865",
     "telephoneNo": "+8809611677844"
   },
-  "scrapedAt": "2026-09-12T19:44:13.164Z",
+  "scrapedAt": "2026-09-13T15:43:18.517Z",
   "shariaCompliant": true
 }

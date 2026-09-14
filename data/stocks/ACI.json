@@ -9,37 +9,37 @@
     "#": 8,
     "TRADING CODE": "ACI",
     "tradingCode": "ACI",
-    "LTP": 186.7,
-    "HIGH": 188.8,
-    "LOW": 186.2,
-    "CLOSEP": 186.7,
-    "YCP": 186.2,
-    "CHANGE": 0.5,
-    "TRADE": 105,
-    "VALUE (mn)": 0.592,
-    "VOLUME": 3165
+    "LTP": 180.7,
+    "HIGH": 186.9,
+    "LOW": 180,
+    "CLOSEP": 180.7,
+    "YCP": 186.7,
+    "CHANGE": -6,
+    "TRADE": 337,
+    "VALUE (mn)": 2.602,
+    "VOLUME": 14303
   },
   "marketInformation": {
-    "lastTradingPrice": 186.7,
+    "lastTradingPrice": 180.7,
     "daysRange": [
-      186.2,
-      188.8
+      180,
+      186.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       165.1,
       231
     ],
-    "change": 0.5,
-    "daysTradeNos": 105,
-    "yesterdaysClose": 186.2,
-    "daysVolumeNos": 3165,
-    "adjustedOpeningPrice": 186.2,
-    "daysValueMn": 0.59,
-    "openingPrice": 186.2,
-    "marketCapMn": 16354.289,
-    "closingPrice": 186.7,
-    "freeFloatMarketCapMn": 7312.814
+    "change": -6,
+    "daysTradeNos": 337,
+    "yesterdaysClose": 186.7,
+    "daysVolumeNos": 14303,
+    "adjustedOpeningPrice": 186.7,
+    "daysValueMn": 2.6,
+    "openingPrice": 186.9,
+    "marketCapMn": 16398.205,
+    "closingPrice": 180.7,
+    "freeFloatMarketCapMn": 7332.451
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01708467600",
     "telephoneNo": "02226605101"
   },
-  "scrapedAt": "2026-09-12T19:42:48.622Z",
+  "scrapedAt": "2026-09-13T15:40:55.413Z",
   "shariaCompliant": false
 }

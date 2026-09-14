@@ -9,37 +9,37 @@
     "#": 122,
     "TRADING CODE": "ESQUIRENIT",
     "tradingCode": "ESQUIRENIT",
-    "LTP": 24.1,
-    "HIGH": 24.7,
-    "LOW": 24,
-    "CLOSEP": 24.1,
-    "YCP": 24.4,
-    "CHANGE": -0.3,
-    "TRADE": 142,
-    "VALUE (mn)": 1.667,
-    "VOLUME": 68865
+    "LTP": 22.8,
+    "HIGH": 24.1,
+    "LOW": 22.6,
+    "CLOSEP": 22.8,
+    "YCP": 24.1,
+    "CHANGE": -1.3,
+    "TRADE": 275,
+    "VALUE (mn)": 3.702,
+    "VOLUME": 159979
   },
   "marketInformation": {
-    "lastTradingPrice": 24.1,
+    "lastTradingPrice": 22.8,
     "daysRange": [
-      24,
-      24.7
+      22.6,
+      24.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.8,
       28.9
     ],
-    "change": -0.3,
-    "daysTradeNos": 142,
-    "yesterdaysClose": 24.4,
-    "daysVolumeNos": 68865,
-    "adjustedOpeningPrice": 24.4,
-    "daysValueMn": 1.67,
-    "openingPrice": 24.7,
-    "marketCapMn": 3291.458,
-    "closingPrice": 24.1,
-    "freeFloatMarketCapMn": 1023.788
+    "change": -1.3,
+    "daysTradeNos": 275,
+    "yesterdaysClose": 24.1,
+    "daysVolumeNos": 159979,
+    "adjustedOpeningPrice": 24.1,
+    "daysValueMn": 3.7,
+    "openingPrice": 24.1,
+    "marketCapMn": 3250.99,
+    "closingPrice": 22.8,
+    "freeFloatMarketCapMn": 1011.2
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 59.32,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 56.59,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 54.77,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 51.82,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01713 333 040",
     "telephoneNo": "+8809612443322 Ext. 788"
   },
-  "scrapedAt": "2026-09-12T19:43:30.356Z",
+  "scrapedAt": "2026-09-13T15:42:30.734Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 341,
     "TRADING CODE": "SILVAPHL",
     "tradingCode": "SILVAPHL",
-    "LTP": 12.6,
-    "HIGH": 13.3,
-    "LOW": 12.5,
-    "CLOSEP": 12.6,
-    "YCP": 13,
-    "CHANGE": -0.4,
-    "TRADE": 235,
-    "VALUE (mn)": 3.56,
-    "VOLUME": 278701
+    "LTP": 12.1,
+    "HIGH": 12.8,
+    "LOW": 12,
+    "CLOSEP": 12.1,
+    "YCP": 12.6,
+    "CHANGE": -0.5,
+    "TRADE": 280,
+    "VALUE (mn)": 4.838,
+    "VOLUME": 392806
   },
   "marketInformation": {
-    "lastTradingPrice": 12.6,
+    "lastTradingPrice": 12.1,
     "daysRange": [
-      12.5,
-      13.3
+      12,
+      12.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.6,
       18
     ],
-    "change": -0.4,
-    "daysTradeNos": 235,
-    "yesterdaysClose": 13,
-    "daysVolumeNos": 278701,
-    "adjustedOpeningPrice": 13,
-    "daysValueMn": 3.56,
-    "openingPrice": 13.3,
-    "marketCapMn": 1774.5,
-    "closingPrice": 12.6,
-    "freeFloatMarketCapMn": 800.537
+    "change": -0.5,
+    "daysTradeNos": 280,
+    "yesterdaysClose": 12.6,
+    "daysVolumeNos": 392806,
+    "adjustedOpeningPrice": 12.6,
+    "daysValueMn": 4.84,
+    "openingPrice": 12.8,
+    "marketCapMn": 1719.9,
+    "closingPrice": 12.1,
+    "freeFloatMarketCapMn": 775.905
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01711891686",
     "telephoneNo": "+88-02-9146009-205"
   },
-  "scrapedAt": "2026-09-12T19:44:50.845Z",
+  "scrapedAt": "2026-09-13T15:43:58.885Z",
   "shariaCompliant": true
 }

@@ -9,21 +9,21 @@
     "#": 82,
     "TRADING CODE": "CITYBANK",
     "tradingCode": "CITYBANK",
-    "LTP": 29.8,
-    "HIGH": 30,
-    "LOW": 29.7,
-    "CLOSEP": 29.8,
-    "YCP": 29.9,
+    "LTP": 29.7,
+    "HIGH": 29.9,
+    "LOW": 29.5,
+    "CLOSEP": 29.7,
+    "YCP": 29.8,
     "CHANGE": -0.1,
-    "TRADE": 539,
-    "VALUE (mn)": 14.964,
-    "VOLUME": 501625
+    "TRADE": 861,
+    "VALUE (mn)": 42.729,
+    "VOLUME": 1443416
   },
   "marketInformation": {
-    "lastTradingPrice": 29.8,
+    "lastTradingPrice": 29.7,
     "daysRange": [
-      29.7,
-      30
+      29.5,
+      29.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       33.9
     ],
     "change": -0.1,
-    "daysTradeNos": 539,
-    "yesterdaysClose": 29.9,
-    "daysVolumeNos": 501625,
-    "adjustedOpeningPrice": 29.9,
-    "daysValueMn": 14.96,
-    "openingPrice": 30,
-    "marketCapMn": 52307.221,
-    "closingPrice": 29.8,
-    "freeFloatMarketCapMn": 36327.632
+    "daysTradeNos": 861,
+    "yesterdaysClose": 29.8,
+    "daysVolumeNos": 1443416,
+    "adjustedOpeningPrice": 29.8,
+    "daysValueMn": 42.73,
+    "openingPrice": 29.9,
+    "marketCapMn": 52132.28,
+    "closingPrice": 29.7,
+    "freeFloatMarketCapMn": 36206.134
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5,
-        "peDiluted": null,
-        "peTrailing": 3.17
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.95,
         "peDiluted": null,
         "peTrailing": 3.14
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.93,
+        "peDiluted": null,
+        "peTrailing": 3.13
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3.46,
-        "peDiluted": 3.98
-      },
       {
         "date": "2026-09-06",
         "peBasic": 3.46,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 3.42,
         "peDiluted": 3.94
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.41,
+        "peDiluted": 3.92
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01912927161",
     "telephoneNo": "58814635 (Direct) 58813483, 58814375 and 58813126 (Hunting) Ext.-1031"
   },
-  "scrapedAt": "2026-09-12T19:43:19.054Z",
+  "scrapedAt": "2026-09-13T15:42:19.463Z",
   "shariaCompliant": false
 }

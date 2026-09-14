@@ -9,37 +9,37 @@
     "#": 189,
     "TRADING CODE": "JAMUNAOIL",
     "tradingCode": "JAMUNAOIL",
-    "LTP": 175.9,
-    "HIGH": 176.3,
-    "LOW": 175.6,
-    "CLOSEP": 175.9,
-    "YCP": 175.3,
-    "CHANGE": 0.6,
+    "LTP": 175.1,
+    "HIGH": 175.9,
+    "LOW": 175,
+    "CLOSEP": 175.1,
+    "YCP": 175.9,
+    "CHANGE": -0.8,
     "TRADE": 137,
-    "VALUE (mn)": 1.808,
-    "VOLUME": 10281
+    "VALUE (mn)": 1.527,
+    "VOLUME": 8716
   },
   "marketInformation": {
-    "lastTradingPrice": 175.9,
+    "lastTradingPrice": 175.1,
     "daysRange": [
-      175.6,
-      176.3
+      175,
+      175.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       164.9,
       195
     ],
-    "change": 0.6,
+    "change": -0.8,
     "daysTradeNos": 137,
-    "yesterdaysClose": 175.3,
-    "daysVolumeNos": 10281,
-    "adjustedOpeningPrice": 175.3,
-    "daysValueMn": 1.81,
-    "openingPrice": 176,
-    "marketCapMn": 19357.432,
-    "closingPrice": 175.9,
-    "freeFloatMarketCapMn": 7165.882
+    "yesterdaysClose": 175.9,
+    "daysVolumeNos": 8716,
+    "adjustedOpeningPrice": 175.9,
+    "daysValueMn": 1.53,
+    "openingPrice": 175.9,
+    "marketCapMn": 19423.687,
+    "closingPrice": 175.1,
+    "freeFloatMarketCapMn": 7190.409
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.97,
-        "peDiluted": null,
-        "peTrailing": 3.62
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.94,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.97,
         "peDiluted": null,
         "peTrailing": 3.62
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.94,
+        "peDiluted": null,
+        "peTrailing": 3.6
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 2.98,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 2.98,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01711-722500",
     "telephoneNo": "031-724335 031-2520134-9 Ext-214"
   },
-  "scrapedAt": "2026-09-12T19:43:54.748Z",
+  "scrapedAt": "2026-09-13T15:42:55.688Z",
   "shariaCompliant": false
 }

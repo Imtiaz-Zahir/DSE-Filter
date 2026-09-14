@@ -9,21 +9,21 @@
     "#": 257,
     "TRADING CODE": "NURANI",
     "tradingCode": "NURANI",
-    "LTP": 3,
-    "HIGH": 3.2,
+    "LTP": 2.9,
+    "HIGH": 3.1,
     "LOW": 2.9,
-    "CLOSEP": 3,
-    "YCP": 3.1,
+    "CLOSEP": 2.9,
+    "YCP": 3,
     "CHANGE": -0.1,
-    "TRADE": 60,
-    "VALUE (mn)": 1.142,
-    "VOLUME": 377844
+    "TRADE": 48,
+    "VALUE (mn)": 0.711,
+    "VOLUME": 243109
   },
   "marketInformation": {
-    "lastTradingPrice": 3,
+    "lastTradingPrice": 2.9,
     "daysRange": [
       2.9,
-      3.2
+      3.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       4.6
     ],
     "change": -0.1,
-    "daysTradeNos": 60,
-    "yesterdaysClose": 3.1,
-    "daysVolumeNos": 377844,
-    "adjustedOpeningPrice": 3.1,
-    "daysValueMn": 1.14,
+    "daysTradeNos": 48,
+    "yesterdaysClose": 3,
+    "daysVolumeNos": 243109,
+    "adjustedOpeningPrice": 3,
+    "daysValueMn": 0.71,
     "openingPrice": 3.1,
-    "marketCapMn": 380.138,
-    "closingPrice": 3,
-    "freeFloatMarketCapMn": 262.544
+    "marketCapMn": 367.875,
+    "closingPrice": 2.9,
+    "freeFloatMarketCapMn": 254.075
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:19.592Z",
+  "scrapedAt": "2026-09-13T15:43:25.218Z",
   "shariaCompliant": false
 }

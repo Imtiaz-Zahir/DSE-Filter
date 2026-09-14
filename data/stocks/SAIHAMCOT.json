@@ -9,37 +9,37 @@
     "#": 319,
     "TRADING CODE": "SAIHAMCOT",
     "tradingCode": "SAIHAMCOT",
-    "LTP": 22.7,
-    "HIGH": 24,
-    "LOW": 22.6,
-    "CLOSEP": 22.7,
-    "YCP": 23.6,
-    "CHANGE": -0.9,
-    "TRADE": 2832,
-    "VALUE (mn)": 106.096,
-    "VOLUME": 4573353
+    "LTP": 22.2,
+    "HIGH": 22.9,
+    "LOW": 22,
+    "CLOSEP": 22.2,
+    "YCP": 22.7,
+    "CHANGE": -0.5,
+    "TRADE": 2395,
+    "VALUE (mn)": 114.973,
+    "VOLUME": 5140020
   },
   "marketInformation": {
-    "lastTradingPrice": 22.7,
+    "lastTradingPrice": 22.2,
     "daysRange": [
-      22.6,
-      24
+      22,
+      22.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.2,
       26.8
     ],
-    "change": -0.9,
-    "daysTradeNos": 2832,
-    "yesterdaysClose": 23.6,
-    "daysVolumeNos": 4573353,
-    "adjustedOpeningPrice": 23.6,
-    "daysValueMn": 106.1,
-    "openingPrice": 23.8,
-    "marketCapMn": 3511.09,
-    "closingPrice": 22.7,
-    "freeFloatMarketCapMn": 1845.39
+    "change": -0.5,
+    "daysTradeNos": 2395,
+    "yesterdaysClose": 22.7,
+    "daysVolumeNos": 5140020,
+    "adjustedOpeningPrice": 22.7,
+    "daysValueMn": 114.97,
+    "openingPrice": 22.8,
+    "marketCapMn": 3377.193,
+    "closingPrice": 22.2,
+    "freeFloatMarketCapMn": 1775.015
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 22.78,
-        "peDiluted": null,
-        "peTrailing": 26.37
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.98,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 21.55,
         "peDiluted": null,
         "peTrailing": 24.95
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.08,
+        "peDiluted": null,
+        "peTrailing": 24.4
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.24,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 22.32,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.93,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.42,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01818-062160",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-12T19:44:44.188Z",
+  "scrapedAt": "2026-09-13T15:43:50.010Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 24,
     "TRADING CODE": "ALLTEX",
     "tradingCode": "ALLTEX",
-    "LTP": 24.1,
-    "HIGH": 24.5,
-    "LOW": 23.9,
-    "CLOSEP": 24.1,
-    "YCP": 24.3,
-    "CHANGE": -0.2,
-    "TRADE": 99,
-    "VALUE (mn)": 1.863,
-    "VOLUME": 77224
+    "LTP": 23.2,
+    "HIGH": 24.1,
+    "LOW": 23.1,
+    "CLOSEP": 23.2,
+    "YCP": 24.1,
+    "CHANGE": -0.9,
+    "TRADE": 129,
+    "VALUE (mn)": 3.822,
+    "VOLUME": 163961
   },
   "marketInformation": {
-    "lastTradingPrice": 24.1,
+    "lastTradingPrice": 23.2,
     "daysRange": [
-      23.9,
-      24.5
+      23.1,
+      24.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.1,
       26
     ],
-    "change": -0.2,
-    "daysTradeNos": 99,
-    "yesterdaysClose": 24.3,
-    "daysVolumeNos": 77224,
-    "adjustedOpeningPrice": 24.3,
-    "daysValueMn": 1.86,
-    "openingPrice": 24.5,
-    "marketCapMn": 1360.022,
-    "closingPrice": 24.1,
-    "freeFloatMarketCapMn": 867.024
+    "change": -0.9,
+    "daysTradeNos": 129,
+    "yesterdaysClose": 24.1,
+    "daysVolumeNos": 163961,
+    "adjustedOpeningPrice": 24.1,
+    "daysValueMn": 3.82,
+    "openingPrice": 24.1,
+    "marketCapMn": 1348.829,
+    "closingPrice": 23.2,
+    "freeFloatMarketCapMn": 859.888
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 597.5,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 585,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 602.5,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 580,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01730 031 245",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:53.849Z",
+  "scrapedAt": "2026-09-13T15:41:56.293Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 190,
     "TRADING CODE": "JANATAINS",
     "tradingCode": "JANATAINS",
-    "LTP": 32.6,
-    "HIGH": 33.2,
-    "LOW": 32.4,
-    "CLOSEP": 32.6,
+    "LTP": 31.1,
+    "HIGH": 33.4,
+    "LOW": 29.4,
+    "CLOSEP": 31.1,
     "YCP": 32.6,
-    "CHANGE": 0,
-    "TRADE": 214,
-    "VALUE (mn)": 6.932,
-    "VOLUME": 212679
+    "CHANGE": -1.5,
+    "TRADE": 299,
+    "VALUE (mn)": 5.719,
+    "VOLUME": 181849
   },
   "marketInformation": {
-    "lastTradingPrice": 32.6,
+    "lastTradingPrice": 31.1,
     "daysRange": [
-      32.4,
-      33.2
+      29.4,
+      33.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.8,
       39.3
     ],
-    "change": 0,
-    "daysTradeNos": 214,
+    "change": -1.5,
+    "daysTradeNos": 299,
     "yesterdaysClose": 32.6,
-    "daysVolumeNos": 212679,
+    "daysVolumeNos": 181849,
     "adjustedOpeningPrice": 32.6,
-    "daysValueMn": 6.93,
-    "openingPrice": 32.4,
+    "daysValueMn": 5.72,
+    "openingPrice": 33.4,
     "marketCapMn": 1580.534,
-    "closingPrice": 32.6,
+    "closingPrice": 31.1,
     "freeFloatMarketCapMn": 949.871
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.31,
-        "peDiluted": null,
-        "peTrailing": 25.64
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.31,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 20.38,
         "peDiluted": null,
         "peTrailing": 24.51
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.44,
+        "peDiluted": null,
+        "peTrailing": 23.38
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 31,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 29.55,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 29.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 28.27,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01676 821 217",
     "telephoneNo": "880 2226602813"
   },
-  "scrapedAt": "2026-09-12T19:43:54.589Z",
+  "scrapedAt": "2026-09-13T15:42:55.604Z",
   "shariaCompliant": false
 }

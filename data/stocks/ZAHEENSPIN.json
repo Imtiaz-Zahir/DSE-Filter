@@ -9,36 +9,36 @@
     "#": 393,
     "TRADING CODE": "ZAHEENSPIN",
     "tradingCode": "ZAHEENSPIN",
-    "LTP": 5.5,
-    "HIGH": 5.6,
-    "LOW": 5.4,
-    "CLOSEP": 5.5,
+    "LTP": 5.1,
+    "HIGH": 5.5,
+    "LOW": 5.1,
+    "CLOSEP": 5.1,
     "YCP": 5.5,
-    "CHANGE": 0,
-    "TRADE": 29,
-    "VALUE (mn)": 0.315,
-    "VOLUME": 57682
+    "CHANGE": -0.4,
+    "TRADE": 117,
+    "VALUE (mn)": 1.944,
+    "VOLUME": 373275
   },
   "marketInformation": {
-    "lastTradingPrice": 5.5,
+    "lastTradingPrice": 5.1,
     "daysRange": [
-      5.4,
-      5.6
+      5.1,
+      5.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.3,
-      7.4
+      7.2
     ],
-    "change": 0,
-    "daysTradeNos": 29,
+    "change": -0.4,
+    "daysTradeNos": 117,
     "yesterdaysClose": 5.5,
-    "daysVolumeNos": 57682,
+    "daysVolumeNos": 373275,
     "adjustedOpeningPrice": 5.5,
-    "daysValueMn": 0.32,
-    "openingPrice": 5.6,
+    "daysValueMn": 1.94,
+    "openingPrice": 5.5,
     "marketCapMn": 626.056,
-    "closingPrice": 5.5,
+    "closingPrice": 5.1,
     "freeFloatMarketCapMn": 392.635
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 11
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 11
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 10.2
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01705 430 311",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:07.769Z",
+  "scrapedAt": "2026-09-13T15:44:19.702Z",
   "shariaCompliant": true
 }

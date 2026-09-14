@@ -9,37 +9,37 @@
     "#": 54,
     "TRADING CODE": "BDFINANCE",
     "tradingCode": "BDFINANCE",
-    "LTP": 12.3,
-    "HIGH": 12.9,
-    "LOW": 12.2,
-    "CLOSEP": 12.3,
-    "YCP": 12.4,
-    "CHANGE": -0.1,
-    "TRADE": 105,
-    "VALUE (mn)": 0.944,
-    "VOLUME": 76378
+    "LTP": 11.6,
+    "HIGH": 12.2,
+    "LOW": 11.5,
+    "CLOSEP": 11.6,
+    "YCP": 12.3,
+    "CHANGE": -0.7,
+    "TRADE": 175,
+    "VALUE (mn)": 2.724,
+    "VOLUME": 231280
   },
   "marketInformation": {
-    "lastTradingPrice": 12.3,
+    "lastTradingPrice": 11.6,
     "daysRange": [
-      12.2,
-      12.9
+      11.5,
+      12.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      10.3,
+      10.7,
       17.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 105,
-    "yesterdaysClose": 12.4,
-    "daysVolumeNos": 76378,
-    "adjustedOpeningPrice": 12.4,
-    "daysValueMn": 0.94,
+    "change": -0.7,
+    "daysTradeNos": 175,
+    "yesterdaysClose": 12.3,
+    "daysVolumeNos": 231280,
+    "adjustedOpeningPrice": 12.3,
+    "daysValueMn": 2.72,
     "openingPrice": 12.2,
-    "marketCapMn": 2334.13,
-    "closingPrice": 12.3,
-    "freeFloatMarketCapMn": 1843.569
+    "marketCapMn": 2315.306,
+    "closingPrice": 11.6,
+    "freeFloatMarketCapMn": 1828.701
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 28.04,
-        "peDiluted": null,
-        "peTrailing": 9.92
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 26.96,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.74,
         "peDiluted": null,
         "peTrailing": 9.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.22,
+        "peDiluted": null,
+        "peTrailing": 8.92
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 10.84,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 10.42,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 10.34,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.75,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01618 448756",
     "telephoneNo": "88-02-223389146"
   },
-  "scrapedAt": "2026-09-12T19:43:07.912Z",
+  "scrapedAt": "2026-09-13T15:42:06.759Z",
   "shariaCompliant": false
 }

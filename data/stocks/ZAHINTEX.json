@@ -9,37 +9,37 @@
     "#": 394,
     "TRADING CODE": "ZAHINTEX",
     "tradingCode": "ZAHINTEX",
-    "LTP": 8.5,
-    "HIGH": 8.5,
-    "LOW": 8.1,
-    "CLOSEP": 8.4,
-    "YCP": 8.5,
-    "CHANGE": 0,
-    "TRADE": 71,
-    "VALUE (mn)": 0.512,
-    "VOLUME": 61320
+    "LTP": 8,
+    "HIGH": 8.4,
+    "LOW": 7.9,
+    "CLOSEP": 8,
+    "YCP": 8.4,
+    "CHANGE": -0.4,
+    "TRADE": 34,
+    "VALUE (mn)": 0.416,
+    "VOLUME": 51936
   },
   "marketInformation": {
-    "lastTradingPrice": 8.5,
+    "lastTradingPrice": 8,
     "daysRange": [
-      8.1,
-      8.5
+      7.9,
+      8.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4,
       10.1
     ],
-    "change": 0,
-    "daysTradeNos": 71,
-    "yesterdaysClose": 8.5,
-    "daysVolumeNos": 61320,
-    "adjustedOpeningPrice": 8.5,
-    "daysValueMn": 0.51,
-    "openingPrice": 8.4,
-    "marketCapMn": 695.543,
-    "closingPrice": 8.4,
-    "freeFloatMarketCapMn": 438.66
+    "change": -0.4,
+    "daysTradeNos": 34,
+    "yesterdaysClose": 8.4,
+    "daysVolumeNos": 51936,
+    "adjustedOpeningPrice": 8.4,
+    "daysValueMn": 0.42,
+    "openingPrice": 8.3,
+    "marketCapMn": 687.36,
+    "closingPrice": 8,
+    "freeFloatMarketCapMn": 433.499
   },
   "basicInformation": {
     "authorizedCapitalMn": 1200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "01911110990",
     "telephoneNo": "02-2244234559"
   },
-  "scrapedAt": "2026-09-12T19:45:07.717Z",
+  "scrapedAt": "2026-09-13T15:44:19.564Z",
   "shariaCompliant": false
 }

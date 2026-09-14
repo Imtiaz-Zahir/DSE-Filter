@@ -9,37 +9,37 @@
     "#": 132,
     "TRADING CODE": "FEDERALINS",
     "tradingCode": "FEDERALINS",
-    "LTP": 27.7,
-    "HIGH": 28.7,
-    "LOW": 27.5,
-    "CLOSEP": 27.7,
-    "YCP": 28.2,
-    "CHANGE": -0.5,
-    "TRADE": 522,
-    "VALUE (mn)": 14.675,
-    "VOLUME": 524587
+    "LTP": 26.7,
+    "HIGH": 27.7,
+    "LOW": 26.6,
+    "CLOSEP": 26.7,
+    "YCP": 27.7,
+    "CHANGE": -1,
+    "TRADE": 548,
+    "VALUE (mn)": 15.019,
+    "VOLUME": 554747
   },
   "marketInformation": {
-    "lastTradingPrice": 27.7,
+    "lastTradingPrice": 26.7,
     "daysRange": [
-      27.5,
-      28.7
+      26.6,
+      27.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17,
       32.6
     ],
-    "change": -0.5,
-    "daysTradeNos": 522,
-    "yesterdaysClose": 28.2,
-    "daysVolumeNos": 524587,
-    "adjustedOpeningPrice": 28.2,
-    "daysValueMn": 14.68,
-    "openingPrice": 28.5,
-    "marketCapMn": 2003.318,
-    "closingPrice": 27.7,
-    "freeFloatMarketCapMn": 1281.236
+    "change": -1,
+    "daysTradeNos": 548,
+    "yesterdaysClose": 27.7,
+    "daysVolumeNos": 554747,
+    "adjustedOpeningPrice": 27.7,
+    "daysValueMn": 15.02,
+    "openingPrice": 27.6,
+    "marketCapMn": 1967.798,
+    "closingPrice": 26.7,
+    "freeFloatMarketCapMn": 1258.519
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.46,
-        "peDiluted": null,
-        "peTrailing": 21.01
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 13.96,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 13.71,
         "peDiluted": null,
         "peTrailing": 19.93
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.22,
+        "peDiluted": null,
+        "peTrailing": 19.21
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26.55,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.64,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.27,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 806 474",
     "telephoneNo": "223374067"
   },
-  "scrapedAt": "2026-09-12T19:43:33.745Z",
+  "scrapedAt": "2026-09-13T15:42:34.497Z",
   "shariaCompliant": false
 }

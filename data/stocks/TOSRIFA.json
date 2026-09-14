@@ -9,37 +9,37 @@
     "#": 370,
     "TRADING CODE": "TOSRIFA",
     "tradingCode": "TOSRIFA",
-    "LTP": 19,
-    "HIGH": 19.6,
-    "LOW": 18.9,
-    "CLOSEP": 19,
-    "YCP": 19.3,
-    "CHANGE": -0.3,
-    "TRADE": 291,
-    "VALUE (mn)": 3.59,
-    "VOLUME": 187987
+    "LTP": 18.4,
+    "HIGH": 19.2,
+    "LOW": 18.2,
+    "CLOSEP": 18.4,
+    "YCP": 19,
+    "CHANGE": -0.6,
+    "TRADE": 309,
+    "VALUE (mn)": 3.37,
+    "VOLUME": 181408
   },
   "marketInformation": {
-    "lastTradingPrice": 19,
+    "lastTradingPrice": 18.4,
     "daysRange": [
-      18.9,
-      19.6
+      18.2,
+      19.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.9,
       26.3
     ],
-    "change": -0.3,
-    "daysTradeNos": 291,
-    "yesterdaysClose": 19.3,
-    "daysVolumeNos": 187987,
-    "adjustedOpeningPrice": 19.3,
-    "daysValueMn": 3.59,
-    "openingPrice": 19.6,
-    "marketCapMn": 1312.113,
-    "closingPrice": 19,
-    "freeFloatMarketCapMn": 747.607
+    "change": -0.6,
+    "daysTradeNos": 309,
+    "yesterdaysClose": 19,
+    "daysVolumeNos": 181408,
+    "adjustedOpeningPrice": 19,
+    "daysValueMn": 3.37,
+    "openingPrice": 18.8,
+    "marketCapMn": 1291.717,
+    "closingPrice": 18.4,
+    "freeFloatMarketCapMn": 735.986
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 63.3,
-        "peDiluted": null,
-        "peTrailing": 39.81
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 58.2,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 57,
         "peDiluted": null,
         "peTrailing": 35.85
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 55.2,
+        "peDiluted": null,
+        "peTrailing": 34.72
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.13,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.87,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.53,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+ 88 01817 036 560",
     "telephoneNo": "+88 0961 299 3388 Ext.126"
   },
-  "scrapedAt": "2026-09-12T19:44:59.429Z",
+  "scrapedAt": "2026-09-13T15:44:12.351Z",
   "shariaCompliant": false
 }

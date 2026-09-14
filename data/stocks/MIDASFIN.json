@@ -9,37 +9,37 @@
     "#": 226,
     "TRADING CODE": "MIDASFIN",
     "tradingCode": "MIDASFIN",
-    "LTP": 5.1,
-    "HIGH": 5.3,
-    "LOW": 4.9,
-    "CLOSEP": 5.1,
-    "YCP": 5.2,
-    "CHANGE": -0.1,
-    "TRADE": 66,
-    "VALUE (mn)": 0.232,
-    "VOLUME": 45654
+    "LTP": 4.9,
+    "HIGH": 5,
+    "LOW": 4.8,
+    "CLOSEP": 4.9,
+    "YCP": 5.1,
+    "CHANGE": -0.2,
+    "TRADE": 26,
+    "VALUE (mn)": 0.078,
+    "VOLUME": 15807
   },
   "marketInformation": {
-    "lastTradingPrice": 5.1,
+    "lastTradingPrice": 4.9,
     "daysRange": [
-      4.9,
-      5.3
+      4.8,
+      5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.7,
       7.6
     ],
-    "change": -0.1,
-    "daysTradeNos": 66,
-    "yesterdaysClose": 5.2,
-    "daysVolumeNos": 45654,
-    "adjustedOpeningPrice": 5.2,
-    "daysValueMn": 0.23,
-    "openingPrice": 5.2,
-    "marketCapMn": 748.241,
-    "closingPrice": 5.1,
-    "freeFloatMarketCapMn": 292.201
+    "change": -0.2,
+    "daysTradeNos": 26,
+    "yesterdaysClose": 5.1,
+    "daysVolumeNos": 15807,
+    "adjustedOpeningPrice": 5.1,
+    "daysValueMn": 0.08,
+    "openingPrice": 5,
+    "marketCapMn": 733.852,
+    "closingPrice": 4.9,
+    "freeFloatMarketCapMn": 286.582
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01715 094 176",
     "telephoneNo": "+88-02-41021293, +88-02-41021295 IP Phone: 09611221055"
   },
-  "scrapedAt": "2026-09-12T19:44:08.820Z",
+  "scrapedAt": "2026-09-13T15:43:12.488Z",
   "shariaCompliant": false
 }

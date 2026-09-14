@@ -9,37 +9,37 @@
     "#": 373,
     "TRADING CODE": "TUNGHAI",
     "tradingCode": "TUNGHAI",
-    "LTP": 4.3,
-    "HIGH": 4.5,
-    "LOW": 4.1,
-    "CLOSEP": 4.2,
-    "YCP": 4.3,
-    "CHANGE": 0,
-    "TRADE": 91,
-    "VALUE (mn)": 0.541,
-    "VOLUME": 129151
+    "LTP": 4.1,
+    "HIGH": 4.2,
+    "LOW": 4,
+    "CLOSEP": 4.1,
+    "YCP": 4.2,
+    "CHANGE": -0.1,
+    "TRADE": 112,
+    "VALUE (mn)": 0.646,
+    "VOLUME": 157235
   },
   "marketInformation": {
-    "lastTradingPrice": 4.3,
+    "lastTradingPrice": 4.1,
     "daysRange": [
-      4.1,
-      4.5
+      4,
+      4.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.1,
       6
     ],
-    "change": 0,
-    "daysTradeNos": 91,
-    "yesterdaysClose": 4.3,
-    "daysVolumeNos": 129151,
-    "adjustedOpeningPrice": 4.3,
-    "daysValueMn": 0.54,
-    "openingPrice": 4.5,
-    "marketCapMn": 458.608,
-    "closingPrice": 4.2,
-    "freeFloatMarketCapMn": 320.848
+    "change": -0.1,
+    "daysTradeNos": 112,
+    "yesterdaysClose": 4.2,
+    "daysVolumeNos": 157235,
+    "adjustedOpeningPrice": 4.2,
+    "daysValueMn": 0.65,
+    "openingPrice": 4.2,
+    "marketCapMn": 447.943,
+    "closingPrice": 4.1,
+    "freeFloatMarketCapMn": 313.387
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:00.838Z",
+  "scrapedAt": "2026-09-13T15:44:13.248Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 211,
     "TRADING CODE": "MAGURAPLEX",
     "tradingCode": "MAGURAPLEX",
-    "LTP": 81.6,
-    "HIGH": 82.8,
-    "LOW": 81.5,
-    "CLOSEP": 81.6,
-    "YCP": 81.7,
-    "CHANGE": -0.1,
-    "TRADE": 244,
-    "VALUE (mn)": 2.335,
-    "VOLUME": 28469
+    "LTP": 79.1,
+    "HIGH": 82.4,
+    "LOW": 78.7,
+    "CLOSEP": 79.1,
+    "YCP": 81.6,
+    "CHANGE": -2.5,
+    "TRADE": 277,
+    "VALUE (mn)": 4.609,
+    "VOLUME": 57908
   },
   "marketInformation": {
-    "lastTradingPrice": 81.6,
+    "lastTradingPrice": 79.1,
     "daysRange": [
-      81.5,
-      82.8
+      78.7,
+      82.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       72.9,
       110.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 244,
-    "yesterdaysClose": 81.7,
-    "daysVolumeNos": 28469,
-    "adjustedOpeningPrice": 81.7,
-    "daysValueMn": 2.34,
-    "openingPrice": 82.3,
-    "marketCapMn": 2418.596,
-    "closingPrice": 81.6,
-    "freeFloatMarketCapMn": 1114.945
+    "change": -2.5,
+    "daysTradeNos": 277,
+    "yesterdaysClose": 81.6,
+    "daysVolumeNos": 57908,
+    "adjustedOpeningPrice": 81.6,
+    "daysValueMn": 4.61,
+    "openingPrice": 81,
+    "marketCapMn": 2415.636,
+    "closingPrice": 79.1,
+    "freeFloatMarketCapMn": 1113.58
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 31.73,
-        "peDiluted": null,
-        "peTrailing": 35.51
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 30.37,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 30,
         "peDiluted": null,
         "peTrailing": 33.58
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.08,
+        "peDiluted": null,
+        "peTrailing": 32.55
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 23.97,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 22.94,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.97,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01847 091 027",
     "telephoneNo": "02-55036456 (Ext. 702)"
   },
-  "scrapedAt": "2026-09-12T19:44:03.692Z",
+  "scrapedAt": "2026-09-13T15:43:07.214Z",
   "shariaCompliant": false
 }

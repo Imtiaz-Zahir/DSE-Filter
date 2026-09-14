@@ -10,34 +10,34 @@
     "TRADING CODE": "CAPMBDBLMF",
     "tradingCode": "CAPMBDBLMF",
     "LTP": 7.9,
-    "HIGH": 7.9,
-    "LOW": 7.4,
+    "HIGH": 8.6,
+    "LOW": 7.9,
     "CLOSEP": 7.9,
-    "YCP": 7.2,
-    "CHANGE": 0.7,
-    "TRADE": 731,
-    "VALUE (mn)": 15.892,
-    "VOLUME": 2045222
+    "YCP": 7.9,
+    "CHANGE": 0,
+    "TRADE": 698,
+    "VALUE (mn)": 24.89,
+    "VOLUME": 3088264
   },
   "marketInformation": {
     "lastTradingPrice": 7.9,
     "daysRange": [
-      7.4,
-      7.9
+      7.9,
+      8.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.1,
       13.7
     ],
-    "change": 0.7,
-    "daysTradeNos": 731,
-    "yesterdaysClose": 7.2,
-    "daysVolumeNos": 2045222,
-    "adjustedOpeningPrice": 7.2,
-    "daysValueMn": 15.89,
-    "openingPrice": 7.4,
-    "marketCapMn": 360.943,
+    "change": 0,
+    "daysTradeNos": 698,
+    "yesterdaysClose": 7.9,
+    "daysVolumeNos": 3088264,
+    "adjustedOpeningPrice": 7.9,
+    "daysValueMn": 24.89,
+    "openingPrice": 8.6,
+    "marketCapMn": 396.035,
     "closingPrice": 7.9,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.85,
-        "peDiluted": null,
-        "peTrailing": 5.85
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.63,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.85,
         "peDiluted": null,
         "peTrailing": 5.85
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.85,
+        "peDiluted": null,
+        "peTrailing": 5.85
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01847054877",
     "telephoneNo": "88-02222291611, 02-222282269 (102)"
   },
-  "scrapedAt": "2026-09-12T19:43:18.455Z",
+  "scrapedAt": "2026-09-13T15:42:15.818Z",
   "shariaCompliant": false
 }

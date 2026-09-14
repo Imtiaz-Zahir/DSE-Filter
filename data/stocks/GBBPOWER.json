@@ -9,37 +9,37 @@
     "#": 140,
     "TRADING CODE": "GBBPOWER",
     "tradingCode": "GBBPOWER",
-    "LTP": 13.5,
-    "HIGH": 13.8,
-    "LOW": 13,
-    "CLOSEP": 13.5,
-    "YCP": 12.9,
-    "CHANGE": 0.6,
-    "TRADE": 597,
-    "VALUE (mn)": 11.552,
-    "VOLUME": 848836
+    "LTP": 13.7,
+    "HIGH": 14.3,
+    "LOW": 13.4,
+    "CLOSEP": 13.7,
+    "YCP": 13.5,
+    "CHANGE": 0.2,
+    "TRADE": 613,
+    "VALUE (mn)": 12.025,
+    "VOLUME": 869368
   },
   "marketInformation": {
-    "lastTradingPrice": 13.5,
+    "lastTradingPrice": 13.7,
     "daysRange": [
-      13,
-      13.8
+      13.4,
+      14.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.3,
       17.6
     ],
-    "change": 0.6,
-    "daysTradeNos": 597,
-    "yesterdaysClose": 12.9,
-    "daysVolumeNos": 848836,
-    "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 11.55,
-    "openingPrice": 13,
-    "marketCapMn": 1313.266,
-    "closingPrice": 13.5,
-    "freeFloatMarketCapMn": 892.911
+    "change": 0.2,
+    "daysTradeNos": 613,
+    "yesterdaysClose": 13.5,
+    "daysVolumeNos": 869368,
+    "adjustedOpeningPrice": 13.5,
+    "daysValueMn": 12.03,
+    "openingPrice": 13.6,
+    "marketCapMn": 1374.348,
+    "closingPrice": 13.7,
+    "freeFloatMarketCapMn": 934.442
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 114.17,
-        "peDiluted": null,
-        "peTrailing": 137
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 108.33,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 112.5,
         "peDiluted": null,
         "peTrailing": 135
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 114.17,
+        "peDiluted": null,
+        "peTrailing": 137
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 124.55,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 118.18,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 122.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 124.55,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01552 302 021",
     "telephoneNo": "02-58613322, 02-58616703"
   },
-  "scrapedAt": "2026-09-12T19:43:35.949Z",
+  "scrapedAt": "2026-09-13T15:42:35.674Z",
   "shariaCompliant": false
 }

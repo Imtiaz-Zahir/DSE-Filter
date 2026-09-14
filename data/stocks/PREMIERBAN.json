@@ -9,36 +9,36 @@
     "#": 282,
     "TRADING CODE": "PREMIERBAN",
     "tradingCode": "PREMIERBAN",
-    "LTP": 5.9,
-    "HIGH": 5.9,
-    "LOW": 5.8,
-    "CLOSEP": 5.8,
+    "LTP": 5.6,
+    "HIGH": 5.8,
+    "LOW": 5.6,
+    "CLOSEP": 5.6,
     "YCP": 5.8,
-    "CHANGE": 0.1,
-    "TRADE": 99,
-    "VALUE (mn)": 2.905,
-    "VOLUME": 499966
+    "CHANGE": -0.2,
+    "TRADE": 111,
+    "VALUE (mn)": 7.204,
+    "VOLUME": 1268548
   },
   "marketInformation": {
-    "lastTradingPrice": 5.9,
+    "lastTradingPrice": 5.6,
     "daysRange": [
-      5.8,
-      5.9
+      5.6,
+      5.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.9,
-      6.7
+      6.6
     ],
-    "change": 0.1,
-    "daysTradeNos": 99,
+    "change": -0.2,
+    "daysTradeNos": 111,
     "yesterdaysClose": 5.8,
-    "daysVolumeNos": 499966,
+    "daysVolumeNos": 1268548,
     "adjustedOpeningPrice": 5.8,
-    "daysValueMn": 2.91,
+    "daysValueMn": 7.2,
     "openingPrice": 5.8,
     "marketCapMn": 7153.901,
-    "closingPrice": 5.8,
+    "closingPrice": 5.6,
     "freeFloatMarketCapMn": 5349.008
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01332810055",
     "telephoneNo": "+88-02-222274844-8, Ext-333"
   },
-  "scrapedAt": "2026-09-12T19:44:29.390Z",
+  "scrapedAt": "2026-09-13T15:43:35.244Z",
   "shariaCompliant": false
 }

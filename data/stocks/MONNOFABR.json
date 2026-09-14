@@ -9,37 +9,37 @@
     "#": 235,
     "TRADING CODE": "MONNOFABR",
     "tradingCode": "MONNOFABR",
-    "LTP": 20.5,
-    "HIGH": 21,
-    "LOW": 20.3,
-    "CLOSEP": 20.5,
-    "YCP": 20.8,
-    "CHANGE": -0.3,
-    "TRADE": 547,
-    "VALUE (mn)": 13.647,
-    "VOLUME": 663193
+    "LTP": 19.4,
+    "HIGH": 20.5,
+    "LOW": 19.2,
+    "CLOSEP": 19.4,
+    "YCP": 20.5,
+    "CHANGE": -1.1,
+    "TRADE": 807,
+    "VALUE (mn)": 18.273,
+    "VOLUME": 922970
   },
   "marketInformation": {
-    "lastTradingPrice": 20.5,
+    "lastTradingPrice": 19.4,
     "daysRange": [
-      20.3,
-      21
+      19.2,
+      20.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.8,
       27.3
     ],
-    "change": -0.3,
-    "daysTradeNos": 547,
-    "yesterdaysClose": 20.8,
-    "daysVolumeNos": 663193,
-    "adjustedOpeningPrice": 20.8,
-    "daysValueMn": 13.65,
-    "openingPrice": 20.9,
-    "marketCapMn": 2392,
-    "closingPrice": 20.5,
-    "freeFloatMarketCapMn": 1652.922
+    "change": -1.1,
+    "daysTradeNos": 807,
+    "yesterdaysClose": 20.5,
+    "daysVolumeNos": 922970,
+    "adjustedOpeningPrice": 20.5,
+    "daysValueMn": 18.27,
+    "openingPrice": 20.5,
+    "marketCapMn": 2357.5,
+    "closingPrice": 19.4,
+    "freeFloatMarketCapMn": 1629.082
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1635,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1560,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1537.5,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1455,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 545,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 520,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 512.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 485,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "02 47123449"
   },
-  "scrapedAt": "2026-09-12T19:44:11.226Z",
+  "scrapedAt": "2026-09-13T15:43:14.649Z",
   "shariaCompliant": false
 }

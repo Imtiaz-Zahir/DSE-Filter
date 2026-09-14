@@ -9,37 +9,37 @@
     "#": 187,
     "TRADING CODE": "ITC",
     "tradingCode": "ITC",
-    "LTP": 45.5,
-    "HIGH": 46.2,
-    "LOW": 45.3,
-    "CLOSEP": 45.5,
-    "YCP": 45.7,
-    "CHANGE": -0.2,
-    "TRADE": 432,
-    "VALUE (mn)": 15.821,
-    "VOLUME": 346214
+    "LTP": 43.7,
+    "HIGH": 45.6,
+    "LOW": 43.6,
+    "CLOSEP": 43.7,
+    "YCP": 45.5,
+    "CHANGE": -1.8,
+    "TRADE": 1333,
+    "VALUE (mn)": 46.713,
+    "VOLUME": 1055507
   },
   "marketInformation": {
-    "lastTradingPrice": 45.5,
+    "lastTradingPrice": 43.7,
     "daysRange": [
-      45.3,
-      46.2
+      43.6,
+      45.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.6,
       55
     ],
-    "change": -0.2,
-    "daysTradeNos": 432,
-    "yesterdaysClose": 45.7,
-    "daysVolumeNos": 346214,
-    "adjustedOpeningPrice": 45.7,
-    "daysValueMn": 15.82,
-    "openingPrice": 46,
-    "marketCapMn": 5876.685,
-    "closingPrice": 45.5,
-    "freeFloatMarketCapMn": 2874.712
+    "change": -1.8,
+    "daysTradeNos": 1333,
+    "yesterdaysClose": 45.5,
+    "daysVolumeNos": 1055507,
+    "adjustedOpeningPrice": 45.5,
+    "daysValueMn": 46.71,
+    "openingPrice": 45.6,
+    "marketCapMn": 5850.966,
+    "closingPrice": 43.7,
+    "freeFloatMarketCapMn": 2862.131
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.11,
-        "peDiluted": null,
-        "peTrailing": 14.22
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.69,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.64,
         "peDiluted": null,
         "peTrailing": 13.7
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.14,
+        "peDiluted": null,
+        "peTrailing": 13.16
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.04,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.62,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 12.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.07,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01730-799989",
     "telephoneNo": "+88 02-9830310-13"
   },
-  "scrapedAt": "2026-09-12T19:43:54.687Z",
+  "scrapedAt": "2026-09-13T15:42:55.641Z",
   "shariaCompliant": true
 }

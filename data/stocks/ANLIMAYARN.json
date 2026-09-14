@@ -9,21 +9,21 @@
     "#": 28,
     "TRADING CODE": "ANLIMAYARN",
     "tradingCode": "ANLIMAYARN",
-    "LTP": 26.4,
-    "HIGH": 28.6,
-    "LOW": 26.2,
-    "CLOSEP": 26.4,
-    "YCP": 27,
+    "LTP": 25.8,
+    "HIGH": 28.8,
+    "LOW": 25.4,
+    "CLOSEP": 25.8,
+    "YCP": 26.4,
     "CHANGE": -0.6,
-    "TRADE": 128,
-    "VALUE (mn)": 0.785,
-    "VOLUME": 28887
+    "TRADE": 126,
+    "VALUE (mn)": 0.152,
+    "VOLUME": 5902
   },
   "marketInformation": {
-    "lastTradingPrice": 26.4,
+    "lastTradingPrice": 25.8,
     "daysRange": [
-      26.2,
-      28.6
+      25.4,
+      28.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       37.9
     ],
     "change": -0.6,
-    "daysTradeNos": 128,
-    "yesterdaysClose": 27,
-    "daysVolumeNos": 28887,
-    "adjustedOpeningPrice": 27,
-    "daysValueMn": 0.79,
-    "openingPrice": 28.6,
-    "marketCapMn": 482.431,
-    "closingPrice": 26.4,
-    "freeFloatMarketCapMn": 268.107
+    "daysTradeNos": 126,
+    "yesterdaysClose": 26.4,
+    "daysVolumeNos": 5902,
+    "adjustedOpeningPrice": 26.4,
+    "daysValueMn": 0.15,
+    "openingPrice": 26.4,
+    "marketCapMn": 471.71,
+    "closingPrice": 25.8,
+    "freeFloatMarketCapMn": 262.149
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01848300800",
     "telephoneNo": "02-49349881-4, 222221373, 48317216"
   },
-  "scrapedAt": "2026-09-12T19:42:56.211Z",
+  "scrapedAt": "2026-09-13T15:41:58.491Z",
   "shariaCompliant": false
 }

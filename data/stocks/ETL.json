@@ -9,37 +9,37 @@
     "#": 123,
     "TRADING CODE": "ETL",
     "tradingCode": "ETL",
-    "LTP": 13.5,
-    "HIGH": 13.8,
-    "LOW": 13.4,
-    "CLOSEP": 13.5,
-    "YCP": 13.6,
-    "CHANGE": -0.1,
-    "TRADE": 597,
-    "VALUE (mn)": 28.824,
-    "VOLUME": 2128528
+    "LTP": 13.1,
+    "HIGH": 13.5,
+    "LOW": 13,
+    "CLOSEP": 13.1,
+    "YCP": 13.5,
+    "CHANGE": -0.4,
+    "TRADE": 590,
+    "VALUE (mn)": 23.825,
+    "VOLUME": 1809552
   },
   "marketInformation": {
-    "lastTradingPrice": 13.5,
+    "lastTradingPrice": 13.1,
     "daysRange": [
-      13.4,
-      13.8
+      13,
+      13.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.3,
       15.3
     ],
-    "change": -0.1,
-    "daysTradeNos": 597,
-    "yesterdaysClose": 13.6,
-    "daysVolumeNos": 2128528,
-    "adjustedOpeningPrice": 13.6,
-    "daysValueMn": 28.82,
-    "openingPrice": 13.6,
-    "marketCapMn": 2498.918,
-    "closingPrice": 13.5,
-    "freeFloatMarketCapMn": 1675.785
+    "change": -0.4,
+    "daysTradeNos": 590,
+    "yesterdaysClose": 13.5,
+    "daysVolumeNos": 1809552,
+    "adjustedOpeningPrice": 13.5,
+    "daysValueMn": 23.83,
+    "openingPrice": 13.5,
+    "marketCapMn": 2480.544,
+    "closingPrice": 13.1,
+    "freeFloatMarketCapMn": 1663.463
   },
   "basicInformation": {
     "authorizedCapitalMn": 3500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 44.02,
-        "peDiluted": null,
-        "peTrailing": 21.09
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 41.41,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 44.02,
         "peDiluted": null,
         "peTrailing": 21.09
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 42.72,
+        "peDiluted": null,
+        "peTrailing": 20.47
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 46.55,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 43.79,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 46.55,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 45.17,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01717 333 243",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:30.572Z",
+  "scrapedAt": "2026-09-13T15:42:30.789Z",
   "shariaCompliant": false
 }

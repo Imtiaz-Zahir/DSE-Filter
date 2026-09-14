@@ -9,37 +9,37 @@
     "#": 250,
     "TRADING CODE": "NORTHERN",
     "tradingCode": "NORTHERN",
-    "LTP": 100.8,
-    "HIGH": 106.5,
-    "LOW": 100.1,
-    "CLOSEP": 100.8,
-    "YCP": 102,
-    "CHANGE": -1.2,
-    "TRADE": 28,
-    "VALUE (mn)": 0.058,
-    "VOLUME": 576
+    "LTP": 97.5,
+    "HIGH": 105,
+    "LOW": 91,
+    "CLOSEP": 98.1,
+    "YCP": 100.8,
+    "CHANGE": -3.3,
+    "TRADE": 94,
+    "VALUE (mn)": 0.456,
+    "VOLUME": 4782
   },
   "marketInformation": {
-    "lastTradingPrice": 100.8,
+    "lastTradingPrice": 97.5,
     "daysRange": [
-      100.1,
-      106.5
+      91,
+      105
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       75.1,
       141.2
     ],
-    "change": -1.2,
-    "daysTradeNos": 28,
-    "yesterdaysClose": 102,
-    "daysVolumeNos": 576,
-    "adjustedOpeningPrice": 102,
-    "daysValueMn": 0.06,
-    "openingPrice": 106.5,
-    "marketCapMn": 218.484,
-    "closingPrice": 100.8,
-    "freeFloatMarketCapMn": 170.711
+    "change": -3.3,
+    "daysTradeNos": 94,
+    "yesterdaysClose": 100.8,
+    "daysVolumeNos": 4782,
+    "adjustedOpeningPrice": 100.8,
+    "daysValueMn": 0.46,
+    "openingPrice": 105,
+    "marketCapMn": 215.914,
+    "closingPrice": 98.1,
+    "freeFloatMarketCapMn": 168.703
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 9.18,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 8.99,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 8.9,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.66,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713755517",
     "telephoneNo": "55013506, Ext-133"
   },
-  "scrapedAt": "2026-09-12T19:44:15.639Z",
+  "scrapedAt": "2026-09-13T15:43:21.781Z",
   "shariaCompliant": false
 }

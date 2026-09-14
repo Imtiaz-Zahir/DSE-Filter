@@ -9,37 +9,37 @@
     "#": 260,
     "TRADING CODE": "OLYMPIC",
     "tradingCode": "OLYMPIC",
-    "LTP": 142.5,
-    "HIGH": 144.6,
-    "LOW": 142.2,
-    "CLOSEP": 142.5,
-    "YCP": 143.5,
-    "CHANGE": -1,
-    "TRADE": 569,
-    "VALUE (mn)": 10.233,
-    "VOLUME": 71642
+    "LTP": 144,
+    "HIGH": 144.9,
+    "LOW": 140.5,
+    "CLOSEP": 142.7,
+    "YCP": 142.5,
+    "CHANGE": 1.5,
+    "TRADE": 426,
+    "VALUE (mn)": 8.006,
+    "VOLUME": 56305
   },
   "marketInformation": {
-    "lastTradingPrice": 142.5,
+    "lastTradingPrice": 144,
     "daysRange": [
-      142.2,
-      144.6
+      140.5,
+      144.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       128,
       170.5
     ],
-    "change": -1,
-    "daysTradeNos": 569,
-    "yesterdaysClose": 143.5,
-    "daysVolumeNos": 71642,
-    "adjustedOpeningPrice": 143.5,
-    "daysValueMn": 10.23,
-    "openingPrice": 143.4,
-    "marketCapMn": 28691.23,
-    "closingPrice": 142.5,
-    "freeFloatMarketCapMn": 10289.001
+    "change": 1.5,
+    "daysTradeNos": 426,
+    "yesterdaysClose": 142.5,
+    "daysVolumeNos": 56305,
+    "adjustedOpeningPrice": 142.5,
+    "daysValueMn": 8.01,
+    "openingPrice": 144.4,
+    "marketCapMn": 28491.291,
+    "closingPrice": 142.7,
+    "freeFloatMarketCapMn": 10217.301
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.85,
-        "peDiluted": null,
-        "peTrailing": 15.44
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 14.55,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 14.42,
         "peDiluted": null,
         "peTrailing": 15
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.44,
+        "peDiluted": null,
+        "peTrailing": 15.02
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.58,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.29,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+880-1876887353",
     "telephoneNo": "+880-9606565228"
   },
-  "scrapedAt": "2026-09-12T19:44:21.100Z",
+  "scrapedAt": "2026-09-13T15:43:27.019Z",
   "shariaCompliant": true
 }

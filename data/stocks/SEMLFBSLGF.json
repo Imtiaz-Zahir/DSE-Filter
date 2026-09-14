@@ -9,20 +9,20 @@
     "#": 330,
     "TRADING CODE": "SEMLFBSLGF",
     "tradingCode": "SEMLFBSLGF",
-    "LTP": 7,
+    "LTP": 6.8,
     "HIGH": 7.1,
-    "LOW": 6.9,
-    "CLOSEP": 7,
-    "YCP": 6.9,
-    "CHANGE": 0.1,
-    "TRADE": 98,
-    "VALUE (mn)": 3.119,
-    "VOLUME": 443112
+    "LOW": 6.8,
+    "CLOSEP": 6.8,
+    "YCP": 7,
+    "CHANGE": -0.2,
+    "TRADE": 108,
+    "VALUE (mn)": 3.301,
+    "VOLUME": 476023
   },
   "marketInformation": {
-    "lastTradingPrice": 7,
+    "lastTradingPrice": 6.8,
     "daysRange": [
-      6.9,
+      6.8,
       7.1
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       3.9,
       8.4
     ],
-    "change": 0.1,
-    "daysTradeNos": 98,
-    "yesterdaysClose": 6.9,
-    "daysVolumeNos": 443112,
-    "adjustedOpeningPrice": 6.9,
-    "daysValueMn": 3.12,
+    "change": -0.2,
+    "daysTradeNos": 108,
+    "yesterdaysClose": 7,
+    "daysVolumeNos": 476023,
+    "adjustedOpeningPrice": 7,
+    "daysValueMn": 3.3,
     "openingPrice": 7,
-    "marketCapMn": 503.317,
-    "closingPrice": 7,
+    "marketCapMn": 510.612,
+    "closingPrice": 6.8,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.78,
-        "peDiluted": null,
-        "peTrailing": 7.78
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.67,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 7.78,
         "peDiluted": null,
         "peTrailing": 7.78
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.56,
+        "peDiluted": null,
+        "peTrailing": 7.56
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01346990125",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-12T19:44:46.704Z",
+  "scrapedAt": "2026-09-13T15:43:56.569Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 60,
     "TRADING CODE": "BEACHHATCH",
     "tradingCode": "BEACHHATCH",
-    "LTP": 26.6,
-    "HIGH": 27.7,
-    "LOW": 25.9,
-    "CLOSEP": 26.6,
-    "YCP": 26.2,
-    "CHANGE": 0.4,
-    "TRADE": 321,
-    "VALUE (mn)": 3.601,
-    "VOLUME": 133811
+    "LTP": 26.2,
+    "HIGH": 27,
+    "LOW": 26,
+    "CLOSEP": 26.2,
+    "YCP": 26.6,
+    "CHANGE": -0.4,
+    "TRADE": 174,
+    "VALUE (mn)": 3.222,
+    "VOLUME": 122794
   },
   "marketInformation": {
-    "lastTradingPrice": 26.6,
+    "lastTradingPrice": 26.2,
     "daysRange": [
-      25.9,
-      27.7
+      26,
+      27
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.9,
       57.8
     ],
-    "change": 0.4,
-    "daysTradeNos": 321,
-    "yesterdaysClose": 26.2,
-    "daysVolumeNos": 133811,
-    "adjustedOpeningPrice": 26.2,
-    "daysValueMn": 3.6,
+    "change": -0.4,
+    "daysTradeNos": 174,
+    "yesterdaysClose": 26.6,
+    "daysVolumeNos": 122794,
+    "adjustedOpeningPrice": 26.6,
+    "daysValueMn": 3.22,
     "openingPrice": 27,
-    "marketCapMn": 1084.707,
-    "closingPrice": 26.6,
-    "freeFloatMarketCapMn": 705.378
+    "marketCapMn": 1101.267,
+    "closingPrice": 26.2,
+    "freeFloatMarketCapMn": 716.147
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.93,
-        "peDiluted": null,
-        "peTrailing": 6.42
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.65,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.36,
         "peDiluted": null,
         "peTrailing": 5.67
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.29,
+        "peDiluted": null,
+        "peTrailing": 5.59
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.83,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.99,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 13.1,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.91,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01714 034 997",
     "telephoneNo": "9833506"
   },
-  "scrapedAt": "2026-09-12T19:43:09.146Z",
+  "scrapedAt": "2026-09-13T15:42:10.189Z",
   "shariaCompliant": false
 }

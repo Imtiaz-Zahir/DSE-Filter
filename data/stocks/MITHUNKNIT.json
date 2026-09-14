@@ -9,37 +9,37 @@
     "#": 230,
     "TRADING CODE": "MITHUNKNIT",
     "tradingCode": "MITHUNKNIT",
-    "LTP": 13.7,
-    "HIGH": 13.9,
-    "LOW": 13.6,
-    "CLOSEP": 13.8,
-    "YCP": 13.7,
-    "CHANGE": 0,
-    "TRADE": 41,
-    "VALUE (mn)": 0.321,
-    "VOLUME": 23297
+    "LTP": 13.6,
+    "HIGH": 13.8,
+    "LOW": 13.2,
+    "CLOSEP": 13.5,
+    "YCP": 13.8,
+    "CHANGE": -0.2,
+    "TRADE": 114,
+    "VALUE (mn)": 0.677,
+    "VOLUME": 50657
   },
   "marketInformation": {
-    "lastTradingPrice": 13.7,
+    "lastTradingPrice": 13.6,
     "daysRange": [
-      13.6,
-      13.9
+      13.2,
+      13.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11,
       18.4
     ],
-    "change": 0,
-    "daysTradeNos": 41,
-    "yesterdaysClose": 13.7,
-    "daysVolumeNos": 23297,
-    "adjustedOpeningPrice": 13.7,
-    "daysValueMn": 0.32,
-    "openingPrice": 13.9,
-    "marketCapMn": 445.129,
-    "closingPrice": 13.8,
-    "freeFloatMarketCapMn": 329.722
+    "change": -0.2,
+    "daysTradeNos": 114,
+    "yesterdaysClose": 13.8,
+    "daysVolumeNos": 50657,
+    "adjustedOpeningPrice": 13.8,
+    "daysValueMn": 0.68,
+    "openingPrice": 13.8,
+    "marketCapMn": 448.378,
+    "closingPrice": 13.5,
+    "freeFloatMarketCapMn": 332.128
   },
   "basicInformation": {
     "authorizedCapitalMn": 800,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01999 055 485, +88 01758 069 252",
     "telephoneNo": "88-02-222262803, 88-02-222260264, 88-02-222260458"
   },
-  "scrapedAt": "2026-09-12T19:44:07.383Z",
+  "scrapedAt": "2026-09-13T15:43:12.332Z",
   "shariaCompliant": false
 }

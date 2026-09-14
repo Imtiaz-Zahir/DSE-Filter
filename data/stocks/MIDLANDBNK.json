@@ -9,36 +9,36 @@
     "#": 227,
     "TRADING CODE": "MIDLANDBNK",
     "tradingCode": "MIDLANDBNK",
-    "LTP": 16.6,
-    "HIGH": 16.9,
-    "LOW": 16.5,
-    "CLOSEP": 16.6,
+    "LTP": 16.2,
+    "HIGH": 17,
+    "LOW": 16.1,
+    "CLOSEP": 16.2,
     "YCP": 16.6,
-    "CHANGE": 0,
-    "TRADE": 214,
-    "VALUE (mn)": 4.871,
-    "VOLUME": 293592
+    "CHANGE": -0.4,
+    "TRADE": 439,
+    "VALUE (mn)": 14.088,
+    "VOLUME": 863298
   },
   "marketInformation": {
-    "lastTradingPrice": 16.6,
+    "lastTradingPrice": 16.2,
     "daysRange": [
-      16.5,
-      16.9
+      16.1,
+      17
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.5,
       22.8
     ],
-    "change": 0,
-    "daysTradeNos": 214,
+    "change": -0.4,
+    "daysTradeNos": 439,
     "yesterdaysClose": 16.6,
-    "daysVolumeNos": 293592,
+    "daysVolumeNos": 863298,
     "adjustedOpeningPrice": 16.6,
-    "daysValueMn": 4.87,
-    "openingPrice": 16.9,
+    "daysValueMn": 14.09,
+    "openingPrice": 17,
     "marketCapMn": 11265.186,
-    "closingPrice": 16.6,
+    "closingPrice": 16.2,
     "freeFloatMarketCapMn": 1764.72
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.48,
-        "peDiluted": null,
-        "peTrailing": 11.54
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.12,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.76,
         "peDiluted": null,
         "peTrailing": 11.14
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.29,
+        "peDiluted": null,
+        "peTrailing": 10.87
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.76,
-        "peDiluted": 14.21
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.52,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 13.28,
         "peDiluted": 13.72
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.96,
+        "peDiluted": 13.39
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "'01676572262",
     "telephoneNo": "'09666410999"
   },
-  "scrapedAt": "2026-09-12T19:44:07.557Z",
+  "scrapedAt": "2026-09-13T15:43:13.198Z",
   "shariaCompliant": false
 }

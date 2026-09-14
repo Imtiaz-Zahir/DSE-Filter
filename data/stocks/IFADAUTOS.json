@@ -9,37 +9,37 @@
     "#": 174,
     "TRADING CODE": "IFADAUTOS",
     "tradingCode": "IFADAUTOS",
-    "LTP": 24.1,
-    "HIGH": 24.7,
-    "LOW": 23.9,
-    "CLOSEP": 24.1,
-    "YCP": 24.5,
-    "CHANGE": -0.4,
-    "TRADE": 244,
-    "VALUE (mn)": 5.748,
-    "VOLUME": 237019
+    "LTP": 22.9,
+    "HIGH": 24,
+    "LOW": 22.8,
+    "CLOSEP": 22.9,
+    "YCP": 24.1,
+    "CHANGE": -1.2,
+    "TRADE": 459,
+    "VALUE (mn)": 7.618,
+    "VOLUME": 326725
   },
   "marketInformation": {
-    "lastTradingPrice": 24.1,
+    "lastTradingPrice": 22.9,
     "daysRange": [
-      23.9,
-      24.7
+      22.8,
+      24
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.4,
       27.5
     ],
-    "change": -0.4,
-    "daysTradeNos": 244,
-    "yesterdaysClose": 24.5,
-    "daysVolumeNos": 237019,
-    "adjustedOpeningPrice": 24.5,
-    "daysValueMn": 5.75,
-    "openingPrice": 24.4,
-    "marketCapMn": 6572.221,
-    "closingPrice": 24.1,
-    "freeFloatMarketCapMn": 2966.36
+    "change": -1.2,
+    "daysTradeNos": 459,
+    "yesterdaysClose": 24.1,
+    "daysVolumeNos": 326725,
+    "adjustedOpeningPrice": 24.1,
+    "daysValueMn": 7.62,
+    "openingPrice": 24,
+    "marketCapMn": 6464.919,
+    "closingPrice": 22.9,
+    "freeFloatMarketCapMn": 2917.93
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 56.02,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 55.55,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 56.48,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 53.67,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01966 670 915",
     "telephoneNo": "+88 02 9632753-7, +88 02 9632761-2, Ext-304"
   },
-  "scrapedAt": "2026-09-12T19:43:48.720Z",
+  "scrapedAt": "2026-09-13T15:42:50.083Z",
   "shariaCompliant": false
 }

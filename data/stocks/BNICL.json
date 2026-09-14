@@ -9,37 +9,37 @@
     "#": 68,
     "TRADING CODE": "BNICL",
     "tradingCode": "BNICL",
-    "LTP": 122.4,
-    "HIGH": 126.9,
-    "LOW": 119,
-    "CLOSEP": 122.4,
-    "YCP": 117.9,
-    "CHANGE": 4.5,
-    "TRADE": 1122,
-    "VALUE (mn)": 44.367,
-    "VOLUME": 359941
+    "LTP": 126.1,
+    "HIGH": 127.5,
+    "LOW": 120.9,
+    "CLOSEP": 126.1,
+    "YCP": 122.4,
+    "CHANGE": 3.7,
+    "TRADE": 1687,
+    "VALUE (mn)": 98.738,
+    "VOLUME": 796393
   },
   "marketInformation": {
-    "lastTradingPrice": 122.4,
+    "lastTradingPrice": 126.1,
     "daysRange": [
-      119,
-      126.9
+      120.9,
+      127.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39,
       129.1
     ],
-    "change": 4.5,
-    "daysTradeNos": 1122,
-    "yesterdaysClose": 117.9,
-    "daysVolumeNos": 359941,
-    "adjustedOpeningPrice": 117.9,
-    "daysValueMn": 44.37,
-    "openingPrice": 121.6,
-    "marketCapMn": 5217.075,
-    "closingPrice": 122.4,
-    "freeFloatMarketCapMn": 2079.895
+    "change": 3.7,
+    "daysTradeNos": 1687,
+    "yesterdaysClose": 122.4,
+    "daysVolumeNos": 796393,
+    "adjustedOpeningPrice": 122.4,
+    "daysValueMn": 98.74,
+    "openingPrice": 123,
+    "marketCapMn": 5416.2,
+    "closingPrice": 126.1,
+    "freeFloatMarketCapMn": 2159.28
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.58,
-        "peDiluted": null,
-        "peTrailing": 20.36
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.83,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.4,
         "peDiluted": null,
         "peTrailing": 21.21
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.02,
+        "peDiluted": null,
+        "peTrailing": 21.85
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.43,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.49,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.22,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01711582560",
     "telephoneNo": "09613112233"
   },
-  "scrapedAt": "2026-09-12T19:43:14.310Z",
+  "scrapedAt": "2026-09-13T15:42:12.282Z",
   "shariaCompliant": false
 }

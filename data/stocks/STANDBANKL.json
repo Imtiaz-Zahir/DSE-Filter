@@ -9,20 +9,20 @@
     "#": 360,
     "TRADING CODE": "STANDBANKL",
     "tradingCode": "STANDBANKL",
-    "LTP": 4.5,
+    "LTP": 4.4,
     "HIGH": 4.5,
-    "LOW": 4.4,
-    "CLOSEP": 4.5,
-    "YCP": 4.4,
-    "CHANGE": 0.1,
-    "TRADE": 48,
-    "VALUE (mn)": 0.508,
-    "VOLUME": 114182
+    "LOW": 4.3,
+    "CLOSEP": 4.4,
+    "YCP": 4.5,
+    "CHANGE": -0.1,
+    "TRADE": 118,
+    "VALUE (mn)": 2.179,
+    "VOLUME": 495111
   },
   "marketInformation": {
-    "lastTradingPrice": 4.5,
+    "lastTradingPrice": 4.4,
     "daysRange": [
-      4.4,
+      4.3,
       4.5
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       4.2,
       7
     ],
-    "change": 0.1,
-    "daysTradeNos": 48,
-    "yesterdaysClose": 4.4,
-    "daysVolumeNos": 114182,
-    "adjustedOpeningPrice": 4.4,
-    "daysValueMn": 0.51,
-    "openingPrice": 4.5,
-    "marketCapMn": 4909.706,
-    "closingPrice": 4.5,
-    "freeFloatMarketCapMn": 3263.412
+    "change": -0.1,
+    "daysTradeNos": 118,
+    "yesterdaysClose": 4.5,
+    "daysVolumeNos": 495111,
+    "adjustedOpeningPrice": 4.5,
+    "daysValueMn": 2.18,
+    "openingPrice": 4.4,
+    "marketCapMn": 5021.29,
+    "closingPrice": 4.4,
+    "freeFloatMarketCapMn": 3337.58
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 75,
-        "peDiluted": null,
-        "peTrailing": 10.98
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 75,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 75,
         "peDiluted": null,
         "peTrailing": 10.98
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 73.33,
+        "peDiluted": null,
+        "peTrailing": 10.73
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.25,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.25,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 6.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.11,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801999055536",
     "telephoneNo": "+8802223358385, +8802223385106, +8802223357913"
   },
-  "scrapedAt": "2026-09-12T19:44:56.260Z",
+  "scrapedAt": "2026-09-13T15:44:07.444Z",
   "shariaCompliant": false
 }

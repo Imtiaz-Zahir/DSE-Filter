@@ -9,37 +9,37 @@
     "#": 234,
     "TRADING CODE": "MONNOCERA",
     "tradingCode": "MONNOCERA",
-    "LTP": 82.5,
-    "HIGH": 83.4,
-    "LOW": 81.1,
-    "CLOSEP": 82.5,
-    "YCP": 80.6,
-    "CHANGE": 1.9,
-    "TRADE": 891,
-    "VALUE (mn)": 18.301,
-    "VOLUME": 221587
+    "LTP": 80.1,
+    "HIGH": 82.5,
+    "LOW": 79.5,
+    "CLOSEP": 80.1,
+    "YCP": 82.5,
+    "CHANGE": -2.4,
+    "TRADE": 648,
+    "VALUE (mn)": 13.265,
+    "VOLUME": 164152
   },
   "marketInformation": {
-    "lastTradingPrice": 82.5,
+    "lastTradingPrice": 80.1,
     "daysRange": [
-      81.1,
-      83.4
+      79.5,
+      82.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       67.3,
       112
     ],
-    "change": 1.9,
-    "daysTradeNos": 891,
-    "yesterdaysClose": 80.6,
-    "daysVolumeNos": 221587,
-    "adjustedOpeningPrice": 80.6,
-    "daysValueMn": 18.3,
-    "openingPrice": 81.5,
-    "marketCapMn": 3040.58,
-    "closingPrice": 82.5,
-    "freeFloatMarketCapMn": 2112.052
+    "change": -2.4,
+    "daysTradeNos": 648,
+    "yesterdaysClose": 82.5,
+    "daysVolumeNos": 164152,
+    "adjustedOpeningPrice": 82.5,
+    "daysValueMn": 13.27,
+    "openingPrice": 82.4,
+    "marketCapMn": 3112.256,
+    "closingPrice": 80.1,
+    "freeFloatMarketCapMn": 2161.84
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 264.38,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 254.69,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 257.81,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 250.31,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 384.55,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 370.45,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 375,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 364.09,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01313 355 510",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:11.709Z",
+  "scrapedAt": "2026-09-13T15:43:14.575Z",
   "shariaCompliant": true
 }

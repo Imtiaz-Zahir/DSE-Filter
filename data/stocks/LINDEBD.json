@@ -9,37 +9,37 @@
     "#": 207,
     "TRADING CODE": "LINDEBD",
     "tradingCode": "LINDEBD",
-    "LTP": 679.2,
-    "HIGH": 682.8,
-    "LOW": 679,
-    "CLOSEP": 679.2,
-    "YCP": 680,
-    "CHANGE": -0.8,
-    "TRADE": 127,
-    "VALUE (mn)": 1.189,
-    "VOLUME": 1748
+    "LTP": 670.1,
+    "HIGH": 681.9,
+    "LOW": 668.2,
+    "CLOSEP": 670.1,
+    "YCP": 679.2,
+    "CHANGE": -9.1,
+    "TRADE": 264,
+    "VALUE (mn)": 1.929,
+    "VOLUME": 2860
   },
   "marketInformation": {
-    "lastTradingPrice": 679.2,
+    "lastTradingPrice": 670.1,
     "daysRange": [
-      679,
-      682.8
+      668.2,
+      681.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       625,
-      945
+      940
     ],
-    "change": -0.8,
-    "daysTradeNos": 127,
-    "yesterdaysClose": 680,
-    "daysVolumeNos": 1748,
-    "adjustedOpeningPrice": 680,
-    "daysValueMn": 1.19,
-    "openingPrice": 682.2,
-    "marketCapMn": 10348.43,
-    "closingPrice": 679.2,
-    "freeFloatMarketCapMn": 3533.435
+    "change": -9.1,
+    "daysTradeNos": 264,
+    "yesterdaysClose": 679.2,
+    "daysVolumeNos": 2860,
+    "adjustedOpeningPrice": 679.2,
+    "daysValueMn": 1.93,
+    "openingPrice": 678.3,
+    "marketCapMn": 10336.256,
+    "closingPrice": 670.1,
+    "freeFloatMarketCapMn": 3529.278
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 27.1,
-        "peDiluted": null,
-        "peTrailing": 30.05
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 26.91,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.57,
         "peDiluted": null,
         "peTrailing": 29.47
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.22,
+        "peDiluted": null,
+        "peTrailing": 29.07
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 30.65,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 30.43,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 30.05,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.65,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801713038837",
     "telephoneNo": "+88 02 8870366"
   },
-  "scrapedAt": "2026-09-12T19:44:01.583Z",
+  "scrapedAt": "2026-09-13T15:43:06.320Z",
   "shariaCompliant": true
 }

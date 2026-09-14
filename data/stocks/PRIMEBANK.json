@@ -9,20 +9,20 @@
     "#": 286,
     "TRADING CODE": "PRIMEBANK",
     "tradingCode": "PRIMEBANK",
-    "LTP": 28.4,
+    "LTP": 28.2,
     "HIGH": 28.6,
-    "LOW": 28.4,
-    "CLOSEP": 28.4,
-    "YCP": 28.6,
+    "LOW": 28,
+    "CLOSEP": 28.2,
+    "YCP": 28.4,
     "CHANGE": -0.2,
-    "TRADE": 316,
-    "VALUE (mn)": 11.997,
-    "VOLUME": 421512
+    "TRADE": 290,
+    "VALUE (mn)": 9.465,
+    "VOLUME": 335569
   },
   "marketInformation": {
-    "lastTradingPrice": 28.4,
+    "lastTradingPrice": 28.2,
     "daysRange": [
-      28.4,
+      28,
       28.6
     ],
     "lastUpdate": "2:40 PM",
@@ -31,15 +31,15 @@
       36.1
     ],
     "change": -0.2,
-    "daysTradeNos": 316,
-    "yesterdaysClose": 28.6,
-    "daysVolumeNos": 421512,
-    "adjustedOpeningPrice": 28.6,
-    "daysValueMn": 12,
-    "openingPrice": 28.5,
-    "marketCapMn": 34852.535,
-    "closingPrice": 28.4,
-    "freeFloatMarketCapMn": 20382.572
+    "daysTradeNos": 290,
+    "yesterdaysClose": 28.4,
+    "daysVolumeNos": 335569,
+    "adjustedOpeningPrice": 28.4,
+    "daysValueMn": 9.47,
+    "openingPrice": 28.6,
+    "marketCapMn": 34608.811,
+    "closingPrice": 28.2,
+    "freeFloatMarketCapMn": 20240.037
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.06,
-        "peDiluted": null,
-        "peTrailing": 3.67
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.04,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 3.99,
         "peDiluted": null,
         "peTrailing": 3.61
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.96,
+        "peDiluted": null,
+        "peTrailing": 3.58
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3.69,
-        "peDiluted": 3.87
-      },
       {
         "date": "2026-09-06",
         "peBasic": 3.67,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 3.62,
         "peDiluted": 3.8
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.6,
+        "peDiluted": 3.78
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+8801730322480",
     "telephoneNo": "+8802 55045322"
   },
-  "scrapedAt": "2026-09-12T19:44:31.739Z",
+  "scrapedAt": "2026-09-13T15:43:35.961Z",
   "shariaCompliant": false
 }

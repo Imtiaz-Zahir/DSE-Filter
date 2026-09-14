@@ -9,37 +9,37 @@
     "#": 344,
     "TRADING CODE": "SINOBANGLA",
     "tradingCode": "SINOBANGLA",
-    "LTP": 50.6,
-    "HIGH": 51.7,
-    "LOW": 50.4,
-    "CLOSEP": 50.6,
-    "YCP": 51.3,
-    "CHANGE": -0.7,
-    "TRADE": 356,
-    "VALUE (mn)": 5.878,
-    "VOLUME": 115482
+    "LTP": 48.5,
+    "HIGH": 51.3,
+    "LOW": 48.1,
+    "CLOSEP": 48.5,
+    "YCP": 50.6,
+    "CHANGE": -2.1,
+    "TRADE": 438,
+    "VALUE (mn)": 8.205,
+    "VOLUME": 165748
   },
   "marketInformation": {
-    "lastTradingPrice": 50.6,
+    "lastTradingPrice": 48.5,
     "daysRange": [
-      50.4,
-      51.7
+      48.1,
+      51.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       37.7,
       62.3
     ],
-    "change": -0.7,
-    "daysTradeNos": 356,
-    "yesterdaysClose": 51.3,
-    "daysVolumeNos": 115482,
-    "adjustedOpeningPrice": 51.3,
-    "daysValueMn": 5.88,
-    "openingPrice": 51.3,
-    "marketCapMn": 1554.126,
-    "closingPrice": 50.6,
-    "freeFloatMarketCapMn": 1078.384
+    "change": -2.1,
+    "daysTradeNos": 438,
+    "yesterdaysClose": 50.6,
+    "daysVolumeNos": 165748,
+    "adjustedOpeningPrice": 50.6,
+    "daysValueMn": 8.21,
+    "openingPrice": 51,
+    "marketCapMn": 1532.919,
+    "closingPrice": 48.5,
+    "freeFloatMarketCapMn": 1063.669
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 37.08,
-        "peDiluted": null,
-        "peTrailing": 36.99
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 36.24,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.47,
         "peDiluted": null,
         "peTrailing": 35.38
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34,
+        "peDiluted": null,
+        "peTrailing": 33.92
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 41.65,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 40.71,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 39.84,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 38.19,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01711103201",
     "telephoneNo": "02-55013465"
   },
-  "scrapedAt": "2026-09-12T19:44:52.356Z",
+  "scrapedAt": "2026-09-13T15:44:01.305Z",
   "shariaCompliant": true
 }

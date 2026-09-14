@@ -9,37 +9,37 @@
     "#": 388,
     "TRADING CODE": "VFSTDL",
     "tradingCode": "VFSTDL",
-    "LTP": 13.7,
-    "HIGH": 14.4,
-    "LOW": 13.6,
-    "CLOSEP": 13.7,
-    "YCP": 14.2,
-    "CHANGE": -0.5,
-    "TRADE": 379,
-    "VALUE (mn)": 9.962,
-    "VOLUME": 720128
+    "LTP": 13.1,
+    "HIGH": 13.9,
+    "LOW": 13,
+    "CLOSEP": 13.1,
+    "YCP": 13.7,
+    "CHANGE": -0.6,
+    "TRADE": 422,
+    "VALUE (mn)": 8.011,
+    "VOLUME": 597773
   },
   "marketInformation": {
-    "lastTradingPrice": 13.7,
+    "lastTradingPrice": 13.1,
     "daysRange": [
-      13.6,
-      14.4
+      13,
+      13.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.5,
       18.4
     ],
-    "change": -0.5,
-    "daysTradeNos": 379,
-    "yesterdaysClose": 14.2,
-    "daysVolumeNos": 720128,
-    "adjustedOpeningPrice": 14.2,
-    "daysValueMn": 9.96,
-    "openingPrice": 14.3,
-    "marketCapMn": 1499.237,
-    "closingPrice": 13.7,
-    "freeFloatMarketCapMn": 1037.979
+    "change": -0.6,
+    "daysTradeNos": 422,
+    "yesterdaysClose": 13.7,
+    "daysVolumeNos": 597773,
+    "adjustedOpeningPrice": 13.7,
+    "daysValueMn": 8.01,
+    "openingPrice": 13.8,
+    "marketCapMn": 1446.447,
+    "closingPrice": 13.1,
+    "freeFloatMarketCapMn": 1001.43
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 367.5,
-        "peDiluted": null,
-        "peTrailing": 735
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 345,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 342.5,
         "peDiluted": null,
         "peTrailing": 685
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 327.5,
+        "peDiluted": null,
+        "peTrailing": 655
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 163.33,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 153.33,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 152.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 145.56,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01993339199",
     "telephoneNo": "+88 02 8419542"
   },
-  "scrapedAt": "2026-09-12T19:45:06.808Z",
+  "scrapedAt": "2026-09-13T15:44:18.715Z",
   "shariaCompliant": true
 }

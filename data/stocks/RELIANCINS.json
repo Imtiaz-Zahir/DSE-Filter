@@ -9,37 +9,37 @@
     "#": 306,
     "TRADING CODE": "RELIANCINS",
     "tradingCode": "RELIANCINS",
-    "LTP": 99.5,
-    "HIGH": 108.4,
-    "LOW": 93.3,
-    "CLOSEP": 97.2,
-    "YCP": 103.6,
-    "CHANGE": -4.1,
-    "TRADE": 1199,
-    "VALUE (mn)": 69.783,
-    "VOLUME": 695544
+    "LTP": 104,
+    "HIGH": 104.7,
+    "LOW": 97,
+    "CLOSEP": 102.6,
+    "YCP": 97.2,
+    "CHANGE": 6.8,
+    "TRADE": 1214,
+    "VALUE (mn)": 108.035,
+    "VOLUME": 1068764
   },
   "marketInformation": {
-    "lastTradingPrice": 99.5,
+    "lastTradingPrice": 104,
     "daysRange": [
-      93.3,
-      108.4
+      97,
+      104.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56.6,
       128.2
     ],
-    "change": -4.1,
-    "daysTradeNos": 1199,
-    "yesterdaysClose": 103.6,
-    "daysVolumeNos": 695544,
-    "adjustedOpeningPrice": 103.6,
-    "daysValueMn": 69.78,
-    "openingPrice": 103.9,
-    "marketCapMn": 10894.689,
-    "closingPrice": 97.2,
-    "freeFloatMarketCapMn": 3492.225
+    "change": 6.8,
+    "daysTradeNos": 1214,
+    "yesterdaysClose": 97.2,
+    "daysVolumeNos": 1068764,
+    "adjustedOpeningPrice": 97.2,
+    "daysValueMn": 108.04,
+    "openingPrice": 100,
+    "marketCapMn": 10221.658,
+    "closingPrice": 102.6,
+    "freeFloatMarketCapMn": 3276.49
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 8.41,
-        "peDiluted": null,
-        "peTrailing": 11.49
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.87,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 7.45,
         "peDiluted": null,
         "peTrailing": 10.18
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.87,
+        "peDiluted": null,
+        "peTrailing": 10.74
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.03,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.19,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 11.54,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.19,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88-01713440953",
     "telephoneNo": "+880 222 660 1940 - 42"
   },
-  "scrapedAt": "2026-09-12T19:44:40.880Z",
+  "scrapedAt": "2026-09-13T15:43:45.447Z",
   "shariaCompliant": false
 }

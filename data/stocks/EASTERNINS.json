@@ -9,37 +9,37 @@
     "#": 109,
     "TRADING CODE": "EASTERNINS",
     "tradingCode": "EASTERNINS",
-    "LTP": 57.3,
-    "HIGH": 59.4,
-    "LOW": 57.2,
-    "CLOSEP": 57.7,
-    "YCP": 57.8,
-    "CHANGE": -0.5,
-    "TRADE": 314,
-    "VALUE (mn)": 5.682,
-    "VOLUME": 97187
+    "LTP": 56.4,
+    "HIGH": 57.7,
+    "LOW": 56.2,
+    "CLOSEP": 56.4,
+    "YCP": 57.7,
+    "CHANGE": -1.3,
+    "TRADE": 252,
+    "VALUE (mn)": 3.518,
+    "VOLUME": 62054
   },
   "marketInformation": {
-    "lastTradingPrice": 57.3,
+    "lastTradingPrice": 56.4,
     "daysRange": [
-      57.2,
-      59.4
+      56.2,
+      57.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.1,
       69.3
     ],
-    "change": -0.5,
-    "daysTradeNos": 314,
-    "yesterdaysClose": 57.8,
-    "daysVolumeNos": 97187,
-    "adjustedOpeningPrice": 57.8,
-    "daysValueMn": 5.68,
-    "openingPrice": 58.8,
-    "marketCapMn": 2491.766,
-    "closingPrice": 57.7,
-    "freeFloatMarketCapMn": 1373.849
+    "change": -1.3,
+    "daysTradeNos": 252,
+    "yesterdaysClose": 57.7,
+    "daysVolumeNos": 62054,
+    "adjustedOpeningPrice": 57.7,
+    "daysValueMn": 3.52,
+    "openingPrice": 57.7,
+    "marketCapMn": 2487.455,
+    "closingPrice": 56.4,
+    "freeFloatMarketCapMn": 1371.472
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 17.13,
-        "peDiluted": null,
-        "peTrailing": 20.67
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.19,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 15.94,
         "peDiluted": null,
         "peTrailing": 19.23
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.58,
+        "peDiluted": null,
+        "peTrailing": 18.8
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 21.53,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 20.35,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 20.03,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.58,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01715952846",
     "telephoneNo": "02223383033-34"
   },
-  "scrapedAt": "2026-09-12T19:43:26.887Z",
+  "scrapedAt": "2026-09-13T15:42:27.946Z",
   "shariaCompliant": false
 }

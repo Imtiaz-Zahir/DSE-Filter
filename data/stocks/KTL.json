@@ -9,37 +9,37 @@
     "#": 202,
     "TRADING CODE": "KTL",
     "tradingCode": "KTL",
-    "LTP": 13,
-    "HIGH": 13.2,
-    "LOW": 12.5,
-    "CLOSEP": 13,
-    "YCP": 12.5,
-    "CHANGE": 0.5,
-    "TRADE": 876,
-    "VALUE (mn)": 31.072,
-    "VOLUME": 2410351
+    "LTP": 12.4,
+    "HIGH": 13.3,
+    "LOW": 12.2,
+    "CLOSEP": 12.4,
+    "YCP": 13,
+    "CHANGE": -0.6,
+    "TRADE": 1143,
+    "VALUE (mn)": 30.78,
+    "VOLUME": 2376339
   },
   "marketInformation": {
-    "lastTradingPrice": 13,
+    "lastTradingPrice": 12.4,
     "daysRange": [
-      12.5,
-      13.2
+      12.2,
+      13.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
-      13.9
+      13.7
     ],
-    "change": 0.5,
-    "daysTradeNos": 876,
-    "yesterdaysClose": 12.5,
-    "daysVolumeNos": 2410351,
-    "adjustedOpeningPrice": 12.5,
-    "daysValueMn": 31.07,
+    "change": -0.6,
+    "daysTradeNos": 1143,
+    "yesterdaysClose": 13,
+    "daysVolumeNos": 2376339,
+    "adjustedOpeningPrice": 13,
+    "daysValueMn": 30.78,
     "openingPrice": 12.6,
-    "marketCapMn": 1453.815,
-    "closingPrice": 13,
-    "freeFloatMarketCapMn": 1013.059
+    "marketCapMn": 1511.968,
+    "closingPrice": 12.4,
+    "freeFloatMarketCapMn": 1053.581
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 153.75,
-        "peDiluted": null,
-        "peTrailing": 153.75
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 145,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 162.5,
         "peDiluted": null,
         "peTrailing": 162.5
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 155,
+        "peDiluted": null,
+        "peTrailing": 155
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": "031-2511654"
   },
-  "scrapedAt": "2026-09-12T19:44:00.615Z",
+  "scrapedAt": "2026-09-13T15:43:04.362Z",
   "shariaCompliant": false
 }

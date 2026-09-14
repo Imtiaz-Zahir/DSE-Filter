@@ -10,34 +10,34 @@
     "TRADING CODE": "GREENDELMF",
     "tradingCode": "GREENDELMF",
     "LTP": 4.7,
-    "HIGH": 4.8,
-    "LOW": 4.5,
+    "HIGH": 4.9,
+    "LOW": 4.6,
     "CLOSEP": 4.7,
-    "YCP": 4.5,
-    "CHANGE": 0.2,
-    "TRADE": 282,
-    "VALUE (mn)": 6.587,
-    "VOLUME": 1413741
+    "YCP": 4.7,
+    "CHANGE": 0,
+    "TRADE": 176,
+    "VALUE (mn)": 4.208,
+    "VOLUME": 885363
   },
   "marketInformation": {
     "lastTradingPrice": 4.7,
     "daysRange": [
-      4.5,
-      4.8
+      4.6,
+      4.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.5,
       5.8
     ],
-    "change": 0.2,
-    "daysTradeNos": 282,
-    "yesterdaysClose": 4.5,
-    "daysVolumeNos": 1413741,
-    "adjustedOpeningPrice": 4.5,
-    "daysValueMn": 6.59,
-    "openingPrice": 4.6,
-    "marketCapMn": 675,
+    "change": 0,
+    "daysTradeNos": 176,
+    "yesterdaysClose": 4.7,
+    "daysVolumeNos": 885363,
+    "adjustedOpeningPrice": 4.7,
+    "daysValueMn": 4.21,
+    "openingPrice": 4.7,
+    "marketCapMn": 705,
     "closingPrice": 4.7,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 32.14,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 32.14,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 33.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 33.57,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:41.488Z",
+  "scrapedAt": "2026-09-13T15:42:40.267Z",
   "shariaCompliant": false
 }

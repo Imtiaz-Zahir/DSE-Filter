@@ -9,43 +9,43 @@
     "#": 209,
     "TRADING CODE": "LRBDL",
     "tradingCode": "LRBDL",
-    "LTP": 13.6,
-    "HIGH": 14,
-    "LOW": 13.2,
-    "CLOSEP": 13.6,
-    "YCP": 13.9,
-    "CHANGE": -0.3,
-    "TRADE": 183,
-    "VALUE (mn)": 1.083,
-    "VOLUME": 80116
+    "LTP": 12.4,
+    "HIGH": 13.8,
+    "LOW": 12.4,
+    "CLOSEP": 12.4,
+    "YCP": 13.6,
+    "CHANGE": -1.2,
+    "TRADE": 373,
+    "VALUE (mn)": 5.06,
+    "VOLUME": 400379
   },
   "marketInformation": {
-    "lastTradingPrice": null,
+    "lastTradingPrice": 12.4,
     "daysRange": [
-      null,
-      null
+      12.4,
+      13.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       16.8
     ],
-    "change": null,
-    "daysTradeNos": null,
-    "yesterdaysClose": null,
-    "daysVolumeNos": null,
-    "adjustedOpeningPrice": null,
-    "daysValueMn": null,
-    "openingPrice": null,
-    "marketCapMn": 0,
-    "closingPrice": null,
-    "freeFloatMarketCapMn": 0
+    "change": -1.2,
+    "daysTradeNos": 373,
+    "yesterdaysClose": 13.6,
+    "daysVolumeNos": 400379,
+    "adjustedOpeningPrice": 13.6,
+    "daysValueMn": 5.06,
+    "openingPrice": 13.8,
+    "marketCapMn": 1975.307,
+    "closingPrice": 12.4,
+    "freeFloatMarketCapMn": 1269.434
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
     "debutTradingDate": "2021-03-09",
     "paidUpCapitalMn": 1452.43,
-    "typeOfInstrument": "Unknown",
+    "typeOfInstrument": "Equity",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 145243144,
@@ -53,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2021,
-    "marketCategory": "-",
+    "marketCategory": "Z",
     "electronicShare": true,
     "cashDividend": null,
     "bonusIssue": null,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01977 266 193",
     "telephoneNo": "02-43151995, 02-43150036"
   },
-  "scrapedAt": "2026-09-12T19:44:01.880Z",
+  "scrapedAt": "2026-09-13T15:43:06.402Z",
   "shariaCompliant": true
 }

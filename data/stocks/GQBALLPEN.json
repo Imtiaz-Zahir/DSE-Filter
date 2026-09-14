@@ -9,37 +9,37 @@
     "#": 152,
     "TRADING CODE": "GQBALLPEN",
     "tradingCode": "GQBALLPEN",
-    "LTP": 585,
-    "HIGH": 599.8,
-    "LOW": 570,
-    "CLOSEP": 592.1,
-    "YCP": 594.5,
-    "CHANGE": -9.5,
-    "TRADE": 503,
-    "VALUE (mn)": 63.285,
-    "VOLUME": 107081
+    "LTP": 576.4,
+    "HIGH": 591.5,
+    "LOW": 569,
+    "CLOSEP": 576.4,
+    "YCP": 592.1,
+    "CHANGE": -15.7,
+    "TRADE": 313,
+    "VALUE (mn)": 9.368,
+    "VOLUME": 16138
   },
   "marketInformation": {
-    "lastTradingPrice": 585,
+    "lastTradingPrice": 576.4,
     "daysRange": [
-      570,
-      599.8
+      569,
+      591.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       385,
       728
     ],
-    "change": -9.5,
-    "daysTradeNos": 503,
-    "yesterdaysClose": 594.5,
-    "daysVolumeNos": 107081,
-    "adjustedOpeningPrice": 594.5,
-    "daysValueMn": 63.29,
-    "openingPrice": 599.8,
-    "marketCapMn": 5307.75,
-    "closingPrice": 592.1,
-    "freeFloatMarketCapMn": 3302.894
+    "change": -15.7,
+    "daysTradeNos": 313,
+    "yesterdaysClose": 592.1,
+    "daysVolumeNos": 16138,
+    "adjustedOpeningPrice": 592.1,
+    "daysValueMn": 9.37,
+    "openingPrice": 582.3,
+    "marketCapMn": 5286.323,
+    "closingPrice": 576.4,
+    "freeFloatMarketCapMn": 3289.56
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "01708-830024",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:41.555Z",
+  "scrapedAt": "2026-09-13T15:42:40.311Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 144,
     "TRADING CODE": "GHAIL",
     "tradingCode": "GHAIL",
-    "LTP": 12.9,
-    "HIGH": 13.4,
-    "LOW": 12.7,
-    "CLOSEP": 12.9,
-    "YCP": 13.2,
-    "CHANGE": -0.3,
-    "TRADE": 226,
-    "VALUE (mn)": 4.179,
-    "VOLUME": 321878
+    "LTP": 12.2,
+    "HIGH": 13,
+    "LOW": 12.2,
+    "CLOSEP": 12.5,
+    "YCP": 12.9,
+    "CHANGE": -0.7,
+    "TRADE": 259,
+    "VALUE (mn)": 5.761,
+    "VOLUME": 457911
   },
   "marketInformation": {
-    "lastTradingPrice": 12.9,
+    "lastTradingPrice": 12.2,
     "daysRange": [
-      12.7,
-      13.4
+      12.2,
+      13
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       16.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 226,
-    "yesterdaysClose": 13.2,
-    "daysVolumeNos": 321878,
-    "adjustedOpeningPrice": 13.2,
-    "daysValueMn": 4.18,
-    "openingPrice": 13.2,
-    "marketCapMn": 2849.057,
-    "closingPrice": 12.9,
-    "freeFloatMarketCapMn": 1522.731
+    "change": -0.7,
+    "daysTradeNos": 259,
+    "yesterdaysClose": 12.9,
+    "daysVolumeNos": 457911,
+    "adjustedOpeningPrice": 12.9,
+    "daysValueMn": 5.76,
+    "openingPrice": 13,
+    "marketCapMn": 2784.305,
+    "closingPrice": 12.5,
+    "freeFloatMarketCapMn": 1488.124
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801313082970",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:37.188Z",
+  "scrapedAt": "2026-09-13T15:42:36.822Z",
   "shariaCompliant": false
 }

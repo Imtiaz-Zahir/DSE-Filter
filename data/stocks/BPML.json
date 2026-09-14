@@ -9,37 +9,37 @@
     "#": 69,
     "TRADING CODE": "BPML",
     "tradingCode": "BPML",
-    "LTP": 25.2,
-    "HIGH": 25.6,
-    "LOW": 24.9,
-    "CLOSEP": 25,
-    "YCP": 25.4,
-    "CHANGE": -0.2,
-    "TRADE": 87,
-    "VALUE (mn)": 0.394,
-    "VOLUME": 15699
+    "LTP": 24.6,
+    "HIGH": 25.5,
+    "LOW": 24.5,
+    "CLOSEP": 24.6,
+    "YCP": 25,
+    "CHANGE": -0.4,
+    "TRADE": 128,
+    "VALUE (mn)": 0.561,
+    "VOLUME": 22689
   },
   "marketInformation": {
-    "lastTradingPrice": 25.2,
+    "lastTradingPrice": 24.6,
     "daysRange": [
-      24.9,
-      25.6
+      24.5,
+      25.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.5,
       38.8
     ],
-    "change": -0.2,
-    "daysTradeNos": 87,
-    "yesterdaysClose": 25.4,
-    "daysVolumeNos": 15699,
-    "adjustedOpeningPrice": 25.4,
-    "daysValueMn": 0.39,
-    "openingPrice": 25.6,
-    "marketCapMn": 4414.303,
-    "closingPrice": 25,
-    "freeFloatMarketCapMn": 1491.657
+    "change": -0.4,
+    "daysTradeNos": 128,
+    "yesterdaysClose": 25,
+    "daysVolumeNos": 22689,
+    "adjustedOpeningPrice": 25,
+    "daysValueMn": 0.56,
+    "openingPrice": 25,
+    "marketCapMn": 4344.786,
+    "closingPrice": 24.6,
+    "freeFloatMarketCapMn": 1468.167
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01958-066529",
     "telephoneNo": "+88-02- 55036483-84 Ext.:4452"
   },
-  "scrapedAt": "2026-09-12T19:43:14.004Z",
+  "scrapedAt": "2026-09-13T15:42:12.524Z",
   "shariaCompliant": false
 }

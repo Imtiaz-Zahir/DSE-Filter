@@ -9,37 +9,37 @@
     "#": 164,
     "TRADING CODE": "IBP",
     "tradingCode": "IBP",
-    "LTP": 15.8,
-    "HIGH": 16.3,
-    "LOW": 15.6,
-    "CLOSEP": 15.8,
-    "YCP": 16,
-    "CHANGE": -0.2,
-    "TRADE": 488,
-    "VALUE (mn)": 13.673,
-    "VOLUME": 856316
+    "LTP": 15.1,
+    "HIGH": 15.8,
+    "LOW": 14.9,
+    "CLOSEP": 15.1,
+    "YCP": 15.8,
+    "CHANGE": -0.7,
+    "TRADE": 757,
+    "VALUE (mn)": 21.282,
+    "VOLUME": 1387998
   },
   "marketInformation": {
-    "lastTradingPrice": 15.8,
+    "lastTradingPrice": 15.1,
     "daysRange": [
-      15.6,
-      16.3
+      14.9,
+      15.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       21.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 488,
-    "yesterdaysClose": 16,
-    "daysVolumeNos": 856316,
-    "adjustedOpeningPrice": 16,
-    "daysValueMn": 13.67,
-    "openingPrice": 16,
-    "marketCapMn": 1859.283,
-    "closingPrice": 15.8,
-    "freeFloatMarketCapMn": 1354.745
+    "change": -0.7,
+    "daysTradeNos": 757,
+    "yesterdaysClose": 15.8,
+    "daysVolumeNos": 1387998,
+    "adjustedOpeningPrice": 15.8,
+    "daysValueMn": 21.28,
+    "openingPrice": 15.8,
+    "marketCapMn": 1836.042,
+    "closingPrice": 15.1,
+    "freeFloatMarketCapMn": 1337.811
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 656.25,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 611.25,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 592.5,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 566.25,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01777 685 176",
     "telephoneNo": "9678777995"
   },
-  "scrapedAt": "2026-09-12T19:43:46.165Z",
+  "scrapedAt": "2026-09-13T15:42:44.399Z",
   "shariaCompliant": true
 }

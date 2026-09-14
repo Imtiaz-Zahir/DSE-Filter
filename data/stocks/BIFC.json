@@ -9,37 +9,37 @@
     "#": 67,
     "TRADING CODE": "BIFC",
     "tradingCode": "BIFC",
-    "LTP": 4.1,
-    "HIGH": 4.1,
+    "LTP": 3.8,
+    "HIGH": 4,
     "LOW": 3.8,
-    "CLOSEP": 3.9,
-    "YCP": 4,
-    "CHANGE": 0.1,
-    "TRADE": 35,
-    "VALUE (mn)": 0.404,
-    "VOLUME": 104763
+    "CLOSEP": 3.8,
+    "YCP": 3.9,
+    "CHANGE": -0.1,
+    "TRADE": 23,
+    "VALUE (mn)": 0.066,
+    "VOLUME": 17241
   },
   "marketInformation": {
-    "lastTradingPrice": 4.1,
+    "lastTradingPrice": 3.8,
     "daysRange": [
       3.8,
-      4.1
+      4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       0.9,
       7.9
     ],
-    "change": 0.1,
-    "daysTradeNos": 35,
-    "yesterdaysClose": 4,
-    "daysVolumeNos": 104763,
-    "adjustedOpeningPrice": 4,
-    "daysValueMn": 0.4,
-    "openingPrice": 4.1,
-    "marketCapMn": 402.72,
-    "closingPrice": 3.9,
-    "freeFloatMarketCapMn": 107.002
+    "change": -0.1,
+    "daysTradeNos": 23,
+    "yesterdaysClose": 3.9,
+    "daysVolumeNos": 17241,
+    "adjustedOpeningPrice": 3.9,
+    "daysValueMn": 0.07,
+    "openingPrice": 4,
+    "marketCapMn": 392.652,
+    "closingPrice": 3.8,
+    "freeFloatMarketCapMn": 104.327
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01843257038",
     "telephoneNo": "02-55045123-5, Ext: 110"
   },
-  "scrapedAt": "2026-09-12T19:43:14.058Z",
+  "scrapedAt": "2026-09-13T15:42:12.330Z",
   "shariaCompliant": false
 }

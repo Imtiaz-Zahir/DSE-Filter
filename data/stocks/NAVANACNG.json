@@ -9,37 +9,37 @@
     "#": 241,
     "TRADING CODE": "NAVANACNG",
     "tradingCode": "NAVANACNG",
-    "LTP": 20.4,
-    "HIGH": 20.9,
-    "LOW": 20.1,
-    "CLOSEP": 20.2,
-    "YCP": 20.5,
-    "CHANGE": -0.1,
-    "TRADE": 68,
-    "VALUE (mn)": 0.545,
-    "VOLUME": 26960
+    "LTP": 19.3,
+    "HIGH": 20.2,
+    "LOW": 19.3,
+    "CLOSEP": 19.6,
+    "YCP": 20.2,
+    "CHANGE": -0.9,
+    "TRADE": 83,
+    "VALUE (mn)": 0.53,
+    "VOLUME": 26851
   },
   "marketInformation": {
-    "lastTradingPrice": 20.4,
+    "lastTradingPrice": 19.3,
     "daysRange": [
-      20.1,
-      20.9
+      19.3,
+      20.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.9,
       28.2
     ],
-    "change": -0.1,
-    "daysTradeNos": 68,
-    "yesterdaysClose": 20.5,
-    "daysVolumeNos": 26960,
-    "adjustedOpeningPrice": 20.5,
-    "daysValueMn": 0.55,
-    "openingPrice": 20.7,
-    "marketCapMn": 1548.832,
-    "closingPrice": 20.2,
-    "freeFloatMarketCapMn": 809.722
+    "change": -0.9,
+    "daysTradeNos": 83,
+    "yesterdaysClose": 20.2,
+    "daysVolumeNos": 26851,
+    "adjustedOpeningPrice": 20.2,
+    "daysValueMn": 0.53,
+    "openingPrice": 20.1,
+    "marketCapMn": 1526.166,
+    "closingPrice": 19.6,
+    "freeFloatMarketCapMn": 797.872
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1582.5,
-        "peDiluted": null,
-        "peTrailing": 1055
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1545,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1515,
         "peDiluted": null,
         "peTrailing": 1010
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1470,
+        "peDiluted": null,
+        "peTrailing": 980
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 211,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 206,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 202,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 196,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01811 448 104",
     "telephoneNo": "02223381812"
   },
-  "scrapedAt": "2026-09-12T19:44:14.572Z",
+  "scrapedAt": "2026-09-13T15:43:19.481Z",
   "shariaCompliant": true
 }

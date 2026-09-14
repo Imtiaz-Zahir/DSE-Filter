@@ -9,37 +9,37 @@
     "#": 52,
     "TRADING CODE": "BDAUTOCA",
     "tradingCode": "BDAUTOCA",
-    "LTP": 181.2,
-    "HIGH": 189.2,
-    "LOW": 179.7,
-    "CLOSEP": 181.2,
-    "YCP": 185.4,
-    "CHANGE": -4.2,
-    "TRADE": 482,
-    "VALUE (mn)": 4.963,
-    "VOLUME": 27001
+    "LTP": 170.1,
+    "HIGH": 184.9,
+    "LOW": 168.1,
+    "CLOSEP": 170.1,
+    "YCP": 181.2,
+    "CHANGE": -11.1,
+    "TRADE": 527,
+    "VALUE (mn)": 7.533,
+    "VOLUME": 43184
   },
   "marketInformation": {
-    "lastTradingPrice": 181.2,
+    "lastTradingPrice": 170.1,
     "daysRange": [
-      179.7,
-      189.2
+      168.1,
+      184.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       95,
       269
     ],
-    "change": -4.2,
-    "daysTradeNos": 482,
-    "yesterdaysClose": 185.4,
-    "daysVolumeNos": 27001,
-    "adjustedOpeningPrice": 185.4,
-    "daysValueMn": 4.96,
-    "openingPrice": 185.4,
-    "marketCapMn": 802.043,
-    "closingPrice": 181.2,
-    "freeFloatMarketCapMn": 560.977
+    "change": -11.1,
+    "daysTradeNos": 527,
+    "yesterdaysClose": 181.2,
+    "daysVolumeNos": 43184,
+    "adjustedOpeningPrice": 181.2,
+    "daysValueMn": 7.53,
+    "openingPrice": 184.9,
+    "marketCapMn": 783.874,
+    "closingPrice": 170.1,
+    "freeFloatMarketCapMn": 548.269
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1649.17,
-        "peDiluted": null,
-        "peTrailing": 1319.33
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1539.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1510,
         "peDiluted": null,
         "peTrailing": 1208
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1417.5,
+        "peDiluted": null,
+        "peTrailing": 1134
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1099.44,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1026.11,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 1006.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 945,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 714 732",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:08.160Z",
+  "scrapedAt": "2026-09-13T15:42:06.790Z",
   "shariaCompliant": false
 }

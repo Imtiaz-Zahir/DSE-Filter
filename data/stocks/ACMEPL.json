@@ -9,37 +9,37 @@
     "#": 11,
     "TRADING CODE": "ACMEPL",
     "tradingCode": "ACMEPL",
-    "LTP": 24,
-    "HIGH": 24.7,
-    "LOW": 23.9,
-    "CLOSEP": 24,
-    "YCP": 24.5,
-    "CHANGE": -0.5,
-    "TRADE": 783,
-    "VALUE (mn)": 23.415,
-    "VOLUME": 969598
+    "LTP": 24.1,
+    "HIGH": 24.4,
+    "LOW": 23.7,
+    "CLOSEP": 24.1,
+    "YCP": 24,
+    "CHANGE": 0.1,
+    "TRADE": 1034,
+    "VALUE (mn)": 48.871,
+    "VOLUME": 2035701
   },
   "marketInformation": {
-    "lastTradingPrice": 24,
+    "lastTradingPrice": 24.1,
     "daysRange": [
-      23.9,
-      24.7
+      23.7,
+      24.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.5,
       27.8
     ],
-    "change": -0.5,
-    "daysTradeNos": 783,
-    "yesterdaysClose": 24.5,
-    "daysVolumeNos": 969598,
-    "adjustedOpeningPrice": 24.5,
-    "daysValueMn": 23.42,
-    "openingPrice": 24.5,
-    "marketCapMn": 3307.5,
-    "closingPrice": 24,
-    "freeFloatMarketCapMn": 2073.227
+    "change": 0.1,
+    "daysTradeNos": 1034,
+    "yesterdaysClose": 24,
+    "daysVolumeNos": 2035701,
+    "adjustedOpeningPrice": 24,
+    "daysValueMn": 48.87,
+    "openingPrice": 24,
+    "marketCapMn": 3240,
+    "closingPrice": 24.1,
+    "freeFloatMarketCapMn": 2030.916
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01985 772 222",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:49.370Z",
+  "scrapedAt": "2026-09-13T15:41:14.861Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 231,
     "TRADING CODE": "MJLBD",
     "tradingCode": "MJLBD",
-    "LTP": 90.3,
+    "LTP": 89.5,
     "HIGH": 91.2,
-    "LOW": 90.1,
-    "CLOSEP": 90.3,
-    "YCP": 90.2,
-    "CHANGE": 0.1,
-    "TRADE": 154,
-    "VALUE (mn)": 1.294,
-    "VOLUME": 14322
+    "LOW": 89.4,
+    "CLOSEP": 89.5,
+    "YCP": 90.3,
+    "CHANGE": -0.8,
+    "TRADE": 249,
+    "VALUE (mn)": 2.144,
+    "VOLUME": 23892
   },
   "marketInformation": {
-    "lastTradingPrice": 90.3,
+    "lastTradingPrice": 89.5,
     "daysRange": [
-      90.1,
+      89.4,
       91.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       86,
-      104.7
+      102.5
     ],
-    "change": 0.1,
-    "daysTradeNos": 154,
-    "yesterdaysClose": 90.2,
-    "daysVolumeNos": 14322,
-    "adjustedOpeningPrice": 90.2,
-    "daysValueMn": 1.29,
-    "openingPrice": 90.2,
-    "marketCapMn": 28571.033,
-    "closingPrice": 90.3,
-    "freeFloatMarketCapMn": 8136.875
+    "change": -0.8,
+    "daysTradeNos": 249,
+    "yesterdaysClose": 90.3,
+    "daysVolumeNos": 23892,
+    "adjustedOpeningPrice": 90.3,
+    "daysValueMn": 2.14,
+    "openingPrice": 91.2,
+    "marketCapMn": 28602.708,
+    "closingPrice": 89.5,
+    "freeFloatMarketCapMn": 8145.896
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.61,
-        "peDiluted": null,
-        "peTrailing": 9.97
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.54,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.46,
         "peDiluted": null,
         "peTrailing": 9.84
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.36,
+        "peDiluted": null,
+        "peTrailing": 9.75
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 8.05,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 8,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 7.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.88,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "01730336964",
     "telephoneNo": "+8802226601427-29"
   },
-  "scrapedAt": "2026-09-12T19:44:11.038Z",
+  "scrapedAt": "2026-09-13T15:43:16.439Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 351,
     "TRADING CODE": "SONARGAON",
     "tradingCode": "SONARGAON",
-    "LTP": 88,
-    "HIGH": 94.4,
-    "LOW": 86.1,
-    "CLOSEP": 88,
-    "YCP": 91.6,
-    "CHANGE": -3.6,
-    "TRADE": 315,
-    "VALUE (mn)": 6.402,
-    "VOLUME": 70873
+    "LTP": 86,
+    "HIGH": 90.1,
+    "LOW": 85,
+    "CLOSEP": 86,
+    "YCP": 88,
+    "CHANGE": -2,
+    "TRADE": 353,
+    "VALUE (mn)": 4.89,
+    "VOLUME": 55690
   },
   "marketInformation": {
-    "lastTradingPrice": 88,
+    "lastTradingPrice": 86,
     "daysRange": [
-      86.1,
-      94.4
+      85,
+      90.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.7,
       124.5
     ],
-    "change": -3.6,
-    "daysTradeNos": 315,
-    "yesterdaysClose": 91.6,
-    "daysVolumeNos": 70873,
-    "adjustedOpeningPrice": 91.6,
-    "daysValueMn": 6.4,
-    "openingPrice": 94.3,
-    "marketCapMn": 2424.382,
-    "closingPrice": 88,
-    "freeFloatMarketCapMn": 1346.754
+    "change": -2,
+    "daysTradeNos": 353,
+    "yesterdaysClose": 88,
+    "daysVolumeNos": 55690,
+    "adjustedOpeningPrice": 88,
+    "daysValueMn": 4.89,
+    "openingPrice": 88.6,
+    "marketCapMn": 2329.101,
+    "closingPrice": 86,
+    "freeFloatMarketCapMn": 1293.825
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "01705583480",
     "telephoneNo": "+880-2-55012658"
   },
-  "scrapedAt": "2026-09-12T19:44:55.509Z",
+  "scrapedAt": "2026-09-13T15:44:04.944Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 237,
     "TRADING CODE": "MPETROLEUM",
     "tradingCode": "MPETROLEUM",
-    "LTP": 206,
-    "HIGH": 208.2,
-    "LOW": 206,
-    "CLOSEP": 206,
+    "LTP": 205.7,
+    "HIGH": 206.8,
+    "LOW": 205.4,
+    "CLOSEP": 205.7,
     "YCP": 206,
-    "CHANGE": 0,
-    "TRADE": 107,
-    "VALUE (mn)": 1.354,
-    "VOLUME": 6567
+    "CHANGE": -0.3,
+    "TRADE": 181,
+    "VALUE (mn)": 5.525,
+    "VOLUME": 26841
   },
   "marketInformation": {
-    "lastTradingPrice": 206,
+    "lastTradingPrice": 205.7,
     "daysRange": [
-      206,
-      208.2
+      205.4,
+      206.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       187.3,
       219
     ],
-    "change": 0,
-    "daysTradeNos": 107,
+    "change": -0.3,
+    "daysTradeNos": 181,
     "yesterdaysClose": 206,
-    "daysVolumeNos": 6567,
+    "daysVolumeNos": 26841,
     "adjustedOpeningPrice": 206,
-    "daysValueMn": 1.35,
-    "openingPrice": 206,
+    "daysValueMn": 5.53,
+    "openingPrice": 206.1,
     "marketCapMn": 22292.518,
-    "closingPrice": 206,
+    "closingPrice": 205.7,
     "freeFloatMarketCapMn": 8638.603
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.74,
-        "peDiluted": null,
-        "peTrailing": 3.2
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.71,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 3.72,
         "peDiluted": null,
         "peTrailing": 3.18
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.72,
+        "peDiluted": null,
+        "peTrailing": 3.17
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3.38,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 3.35,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 3.36,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.35,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01708-812964",
     "telephoneNo": "02 333311891-7 Ext. 154"
   },
-  "scrapedAt": "2026-09-12T19:44:12.509Z",
+  "scrapedAt": "2026-09-13T15:43:17.295Z",
   "shariaCompliant": false
 }

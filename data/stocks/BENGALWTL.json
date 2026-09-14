@@ -9,37 +9,37 @@
     "#": 62,
     "TRADING CODE": "BENGALWTL",
     "tradingCode": "BENGALWTL",
-    "LTP": 21.8,
-    "HIGH": 22.7,
-    "LOW": 21.6,
-    "CLOSEP": 21.8,
-    "YCP": 22.4,
-    "CHANGE": -0.6,
-    "TRADE": 236,
-    "VALUE (mn)": 2.825,
-    "VOLUME": 128331
+    "LTP": 20.9,
+    "HIGH": 21.9,
+    "LOW": 20.7,
+    "CLOSEP": 20.9,
+    "YCP": 21.8,
+    "CHANGE": -0.9,
+    "TRADE": 272,
+    "VALUE (mn)": 3.961,
+    "VOLUME": 186603
   },
   "marketInformation": {
-    "lastTradingPrice": 21.8,
+    "lastTradingPrice": 20.9,
     "daysRange": [
-      21.6,
-      22.7
+      20.7,
+      21.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.4,
       27.7
     ],
-    "change": -0.6,
-    "daysTradeNos": 236,
-    "yesterdaysClose": 22.4,
-    "daysVolumeNos": 128331,
-    "adjustedOpeningPrice": 22.4,
-    "daysValueMn": 2.83,
-    "openingPrice": 22.7,
-    "marketCapMn": 2049.062,
-    "closingPrice": 21.8,
-    "freeFloatMarketCapMn": 767.447
+    "change": -0.9,
+    "daysTradeNos": 272,
+    "yesterdaysClose": 21.8,
+    "daysVolumeNos": 186603,
+    "adjustedOpeningPrice": 21.8,
+    "daysValueMn": 3.96,
+    "openingPrice": 21.9,
+    "marketCapMn": 1994.177,
+    "closingPrice": 20.9,
+    "freeFloatMarketCapMn": 746.89
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 39.72,
-        "peDiluted": null,
-        "peTrailing": 40.88
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 37.67,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 37.16,
         "peDiluted": null,
         "peTrailing": 38.25
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.63,
+        "peDiluted": null,
+        "peTrailing": 36.67
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 42.36,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 40.18,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 39.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01971 044 199",
     "telephoneNo": "+8802 2222 88248-49, Ext-1034"
   },
-  "scrapedAt": "2026-09-12T19:43:11.148Z",
+  "scrapedAt": "2026-09-13T15:42:11.401Z",
   "shariaCompliant": true
 }

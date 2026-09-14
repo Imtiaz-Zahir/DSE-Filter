@@ -9,37 +9,37 @@
     "#": 350,
     "TRADING CODE": "SONARBAINS",
     "tradingCode": "SONARBAINS",
-    "LTP": 37,
-    "HIGH": 37.2,
-    "LOW": 36.6,
-    "CLOSEP": 37,
-    "YCP": 36.7,
-    "CHANGE": 0.3,
-    "TRADE": 313,
-    "VALUE (mn)": 7.176,
-    "VOLUME": 194639
+    "LTP": 35.1,
+    "HIGH": 36.8,
+    "LOW": 34.6,
+    "CLOSEP": 35.1,
+    "YCP": 37,
+    "CHANGE": -1.9,
+    "TRADE": 292,
+    "VALUE (mn)": 4.654,
+    "VOLUME": 129597
   },
   "marketInformation": {
-    "lastTradingPrice": 37,
+    "lastTradingPrice": 35.1,
     "daysRange": [
-      36.6,
-      37.2
+      34.6,
+      36.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.4,
       50.8
     ],
-    "change": 0.3,
-    "daysTradeNos": 313,
-    "yesterdaysClose": 36.7,
-    "daysVolumeNos": 194639,
-    "adjustedOpeningPrice": 36.7,
-    "daysValueMn": 7.18,
-    "openingPrice": 37,
-    "marketCapMn": 1620.147,
-    "closingPrice": 37,
-    "freeFloatMarketCapMn": 1023.28
+    "change": -1.9,
+    "daysTradeNos": 292,
+    "yesterdaysClose": 37,
+    "daysVolumeNos": 129597,
+    "adjustedOpeningPrice": 37,
+    "daysValueMn": 4.65,
+    "openingPrice": 36.4,
+    "marketCapMn": 1633.391,
+    "closingPrice": 35.1,
+    "freeFloatMarketCapMn": 1031.644
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 36.83,
-        "peDiluted": null,
-        "peTrailing": 119.69
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 34.71,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.58,
         "peDiluted": null,
         "peTrailing": 115.63
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 33.75,
+        "peDiluted": null,
+        "peTrailing": 109.69
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 55.51,
-        "peDiluted": 58.03
-      },
       {
         "date": "2026-09-06",
         "peBasic": 52.32,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 53.62,
         "peDiluted": 56.06
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 50.87,
+        "peDiluted": 53.18
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01717 356 168",
     "telephoneNo": "02223354211, 02223354212 (PABX) 02223354230 (Direct)"
   },
-  "scrapedAt": "2026-09-12T19:44:53.297Z",
+  "scrapedAt": "2026-09-13T15:44:03.622Z",
   "shariaCompliant": false
 }

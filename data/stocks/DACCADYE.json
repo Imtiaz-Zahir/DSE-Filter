@@ -9,37 +9,37 @@
     "#": 92,
     "TRADING CODE": "DACCADYE",
     "tradingCode": "DACCADYE",
-    "LTP": 15.7,
-    "HIGH": 16.3,
-    "LOW": 15.6,
+    "LTP": 15.8,
+    "HIGH": 16.2,
+    "LOW": 15.3,
     "CLOSEP": 15.7,
-    "YCP": 16.2,
-    "CHANGE": -0.5,
-    "TRADE": 77,
-    "VALUE (mn)": 0.747,
-    "VOLUME": 47315
+    "YCP": 15.7,
+    "CHANGE": 0.1,
+    "TRADE": 78,
+    "VALUE (mn)": 0.96,
+    "VOLUME": 61783
   },
   "marketInformation": {
-    "lastTradingPrice": 15.7,
+    "lastTradingPrice": 15.8,
     "daysRange": [
-      15.6,
-      16.3
+      15.3,
+      16.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.2,
       22.9
     ],
-    "change": -0.5,
-    "daysTradeNos": 77,
-    "yesterdaysClose": 16.2,
-    "daysVolumeNos": 47315,
-    "adjustedOpeningPrice": 16.2,
-    "daysValueMn": 0.75,
-    "openingPrice": 16,
-    "marketCapMn": 1411.886,
+    "change": 0.1,
+    "daysTradeNos": 78,
+    "yesterdaysClose": 15.7,
+    "daysVolumeNos": 61783,
+    "adjustedOpeningPrice": 15.7,
+    "daysValueMn": 0.96,
+    "openingPrice": 16.2,
+    "marketCapMn": 1368.309,
     "closingPrice": 15.7,
-    "freeFloatMarketCapMn": 986.869
+    "freeFloatMarketCapMn": 956.41
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01715005162",
     "telephoneNo": "+88-02 9558131-32"
   },
-  "scrapedAt": "2026-09-12T19:43:22.685Z",
+  "scrapedAt": "2026-09-13T15:42:23.641Z",
   "shariaCompliant": true
 }

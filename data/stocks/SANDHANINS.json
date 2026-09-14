@@ -9,37 +9,37 @@
     "#": 325,
     "TRADING CODE": "SANDHANINS",
     "tradingCode": "SANDHANINS",
-    "LTP": 24.5,
-    "HIGH": 25,
-    "LOW": 24.4,
-    "CLOSEP": 24.5,
-    "YCP": 24.7,
-    "CHANGE": -0.2,
-    "TRADE": 232,
-    "VALUE (mn)": 4.416,
-    "VOLUME": 179037
+    "LTP": 24,
+    "HIGH": 24.5,
+    "LOW": 23.9,
+    "CLOSEP": 24,
+    "YCP": 24.5,
+    "CHANGE": -0.5,
+    "TRADE": 214,
+    "VALUE (mn)": 4.41,
+    "VOLUME": 183495
   },
   "marketInformation": {
-    "lastTradingPrice": 24.5,
+    "lastTradingPrice": 24,
     "daysRange": [
-      24.4,
-      25
+      23.9,
+      24.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.1,
       30.3
     ],
-    "change": -0.2,
-    "daysTradeNos": 232,
-    "yesterdaysClose": 24.7,
-    "daysVolumeNos": 179037,
-    "adjustedOpeningPrice": 24.7,
-    "daysValueMn": 4.42,
-    "openingPrice": 24.8,
-    "marketCapMn": 2709.556,
-    "closingPrice": 24.5,
-    "freeFloatMarketCapMn": 1851.325
+    "change": -0.5,
+    "daysTradeNos": 214,
+    "yesterdaysClose": 24.5,
+    "daysVolumeNos": 183495,
+    "adjustedOpeningPrice": 24.5,
+    "daysValueMn": 4.41,
+    "openingPrice": 24.3,
+    "marketCapMn": 2687.617,
+    "closingPrice": 24,
+    "freeFloatMarketCapMn": 1836.334
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.42,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.25,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.42,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 22.35,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 21.13,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 21.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.87,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01817030900",
     "telephoneNo": "02-55168181-5, 9611197, 9664931, 9661241"
   },
-  "scrapedAt": "2026-09-12T19:44:45.476Z",
+  "scrapedAt": "2026-09-13T15:43:51.831Z",
   "shariaCompliant": false
 }

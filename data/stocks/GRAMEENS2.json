@@ -9,20 +9,20 @@
     "#": 153,
     "TRADING CODE": "GRAMEENS2",
     "tradingCode": "GRAMEENS2",
-    "LTP": 12.1,
+    "LTP": 11.9,
     "HIGH": 12.2,
-    "LOW": 12,
-    "CLOSEP": 12.1,
-    "YCP": 12,
-    "CHANGE": 0.1,
-    "TRADE": 101,
-    "VALUE (mn)": 2.567,
-    "VOLUME": 212293
+    "LOW": 11.8,
+    "CLOSEP": 11.9,
+    "YCP": 12.1,
+    "CHANGE": -0.2,
+    "TRADE": 219,
+    "VALUE (mn)": 4.022,
+    "VOLUME": 335566
   },
   "marketInformation": {
-    "lastTradingPrice": 12.1,
+    "lastTradingPrice": 11.9,
     "daysRange": [
-      12,
+      11.8,
       12.2
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       10.3,
       14.7
     ],
-    "change": 0.1,
-    "daysTradeNos": 101,
-    "yesterdaysClose": 12,
-    "daysVolumeNos": 212293,
-    "adjustedOpeningPrice": 12,
-    "daysValueMn": 2.57,
+    "change": -0.2,
+    "daysTradeNos": 219,
+    "yesterdaysClose": 12.1,
+    "daysVolumeNos": 335566,
+    "adjustedOpeningPrice": 12.1,
+    "daysValueMn": 4.02,
     "openingPrice": 12.1,
-    "marketCapMn": 2188.775,
-    "closingPrice": 12.1,
+    "marketCapMn": 2207.015,
+    "closingPrice": 11.9,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.63,
-        "peDiluted": null,
-        "peTrailing": 14.63
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 14.51,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 14.76,
         "peDiluted": null,
         "peTrailing": 14.76
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.51,
+        "peDiluted": null,
+        "peTrailing": 14.51
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.81,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.69,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.94,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.69,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801713423495",
     "telephoneNo": "+(880-2) 481 20558-59"
   },
-  "scrapedAt": "2026-09-12T19:43:41.653Z",
+  "scrapedAt": "2026-09-13T15:42:40.341Z",
   "shariaCompliant": false
 }

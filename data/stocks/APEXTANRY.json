@@ -9,37 +9,37 @@
     "#": 34,
     "TRADING CODE": "APEXTANRY",
     "tradingCode": "APEXTANRY",
-    "LTP": 93.4,
-    "HIGH": 98,
-    "LOW": 92.7,
-    "CLOSEP": 93.4,
-    "YCP": 95.4,
-    "CHANGE": -2,
-    "TRADE": 281,
-    "VALUE (mn)": 5.938,
-    "VOLUME": 62915
+    "LTP": 89.9,
+    "HIGH": 95.7,
+    "LOW": 89,
+    "CLOSEP": 89.9,
+    "YCP": 93.4,
+    "CHANGE": -3.5,
+    "TRADE": 187,
+    "VALUE (mn)": 4.112,
+    "VOLUME": 45108
   },
   "marketInformation": {
-    "lastTradingPrice": 93.4,
+    "lastTradingPrice": 89.9,
     "daysRange": [
-      92.7,
-      98
+      89,
+      95.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       51.1,
       129.5
     ],
-    "change": -2,
-    "daysTradeNos": 281,
-    "yesterdaysClose": 95.4,
-    "daysVolumeNos": 62915,
-    "adjustedOpeningPrice": 95.4,
-    "daysValueMn": 5.94,
-    "openingPrice": 98,
-    "marketCapMn": 1453.896,
-    "closingPrice": 93.4,
-    "freeFloatMarketCapMn": 868.772
+    "change": -3.5,
+    "daysTradeNos": 187,
+    "yesterdaysClose": 93.4,
+    "daysVolumeNos": 45108,
+    "adjustedOpeningPrice": 93.4,
+    "daysValueMn": 4.11,
+    "openingPrice": 95.7,
+    "marketCapMn": 1423.416,
+    "closingPrice": 89.9,
+    "freeFloatMarketCapMn": 850.559
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01714 299096",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:59.689Z",
+  "scrapedAt": "2026-09-13T15:42:00.253Z",
   "shariaCompliant": false
 }

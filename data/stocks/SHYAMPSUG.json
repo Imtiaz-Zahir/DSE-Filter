@@ -9,37 +9,37 @@
     "#": 337,
     "TRADING CODE": "SHYAMPSUG",
     "tradingCode": "SHYAMPSUG",
-    "LTP": 300.1,
-    "HIGH": 304.5,
-    "LOW": 286.8,
-    "CLOSEP": 300.1,
-    "YCP": 291.8,
-    "CHANGE": 8.3,
-    "TRADE": 136,
-    "VALUE (mn)": 2.895,
-    "VOLUME": 9677
+    "LTP": 296,
+    "HIGH": 302,
+    "LOW": 296,
+    "CLOSEP": 296.5,
+    "YCP": 300.1,
+    "CHANGE": -4.1,
+    "TRADE": 145,
+    "VALUE (mn)": 13.502,
+    "VOLUME": 45536
   },
   "marketInformation": {
-    "lastTradingPrice": 300.1,
+    "lastTradingPrice": 296,
     "daysRange": [
-      286.8,
-      304.5
+      296,
+      302
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       115,
       359
     ],
-    "change": 8.3,
-    "daysTradeNos": 136,
-    "yesterdaysClose": 291.8,
-    "daysVolumeNos": 9677,
-    "adjustedOpeningPrice": 291.8,
-    "daysValueMn": 2.9,
-    "openingPrice": 286.8,
-    "marketCapMn": 1459,
-    "closingPrice": 300.1,
-    "freeFloatMarketCapMn": 714.91
+    "change": -4.1,
+    "daysTradeNos": 145,
+    "yesterdaysClose": 300.1,
+    "daysVolumeNos": 45536,
+    "adjustedOpeningPrice": 300.1,
+    "daysValueMn": 13.5,
+    "openingPrice": 301.1,
+    "marketCapMn": 1500.5,
+    "closingPrice": 296.5,
+    "freeFloatMarketCapMn": 735.245
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01795 108 465",
     "telephoneNo": "02 9515668"
   },
-  "scrapedAt": "2026-09-12T19:44:50.006Z",
+  "scrapedAt": "2026-09-13T15:43:58.059Z",
   "shariaCompliant": false
 }

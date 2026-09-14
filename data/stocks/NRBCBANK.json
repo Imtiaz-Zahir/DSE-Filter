@@ -9,37 +9,37 @@
     "#": 254,
     "TRADING CODE": "NRBCBANK",
     "tradingCode": "NRBCBANK",
-    "LTP": 9,
-    "HIGH": 9.1,
-    "LOW": 8.4,
-    "CLOSEP": 9,
-    "YCP": 8.9,
-    "CHANGE": 0.1,
-    "TRADE": 56,
-    "VALUE (mn)": 9.512,
-    "VOLUME": 1123878
+    "LTP": 8.9,
+    "HIGH": 9,
+    "LOW": 8.6,
+    "CLOSEP": 8.9,
+    "YCP": 9,
+    "CHANGE": -0.1,
+    "TRADE": 44,
+    "VALUE (mn)": 2.872,
+    "VOLUME": 332895
   },
   "marketInformation": {
-    "lastTradingPrice": 9,
+    "lastTradingPrice": 8.9,
     "daysRange": [
-      8.4,
-      9.1
+      8.6,
+      9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.9,
       11
     ],
-    "change": 0.1,
-    "daysTradeNos": 56,
-    "yesterdaysClose": 8.9,
-    "daysVolumeNos": 1123878,
-    "adjustedOpeningPrice": 8.9,
-    "daysValueMn": 9.51,
-    "openingPrice": 8.9,
-    "marketCapMn": 7374.981,
-    "closingPrice": 9,
-    "freeFloatMarketCapMn": 3018.72
+    "change": -0.1,
+    "daysTradeNos": 44,
+    "yesterdaysClose": 9,
+    "daysVolumeNos": 332895,
+    "adjustedOpeningPrice": 9,
+    "daysValueMn": 2.87,
+    "openingPrice": 9,
+    "marketCapMn": 7457.846,
+    "closingPrice": 8.9,
+    "freeFloatMarketCapMn": 3052.639
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.39,
-        "peDiluted": null,
-        "peTrailing": 13.12
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.14,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 7.39,
         "peDiluted": null,
         "peTrailing": 13.12
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.31,
+        "peDiluted": null,
+        "peTrailing": 12.97
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 56.25,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 54.38,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 56.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 55.63,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01955502070",
     "telephoneNo": "02223353422-30, Ext. 112"
   },
-  "scrapedAt": "2026-09-12T19:44:17.201Z",
+  "scrapedAt": "2026-09-13T15:43:24.070Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 36,
     "TRADING CODE": "ARAMIT",
     "tradingCode": "ARAMIT",
-    "LTP": 184,
-    "HIGH": 191.6,
-    "LOW": 184,
-    "CLOSEP": 184.6,
-    "YCP": 187.2,
-    "CHANGE": -3.2,
-    "TRADE": 101,
-    "VALUE (mn)": 0.659,
-    "VOLUME": 3536
+    "LTP": 170,
+    "HIGH": 187.7,
+    "LOW": 169,
+    "CLOSEP": 170,
+    "YCP": 184.6,
+    "CHANGE": -14.6,
+    "TRADE": 219,
+    "VALUE (mn)": 3.05,
+    "VOLUME": 17669
   },
   "marketInformation": {
-    "lastTradingPrice": 184,
+    "lastTradingPrice": 170,
     "daysRange": [
-      184,
-      191.6
+      169,
+      187.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       156,
-      244
+      243
     ],
-    "change": -3.2,
-    "daysTradeNos": 101,
-    "yesterdaysClose": 187.2,
-    "daysVolumeNos": 3536,
-    "adjustedOpeningPrice": 187.2,
-    "daysValueMn": 0.66,
-    "openingPrice": 191.6,
-    "marketCapMn": 1123.2,
-    "closingPrice": 184.6,
-    "freeFloatMarketCapMn": 370.918
+    "change": -14.6,
+    "daysTradeNos": 219,
+    "yesterdaysClose": 184.6,
+    "daysVolumeNos": 17669,
+    "adjustedOpeningPrice": 184.6,
+    "daysValueMn": 3.05,
+    "openingPrice": 187.7,
+    "marketCapMn": 1107.6,
+    "closingPrice": 170,
+    "freeFloatMarketCapMn": 365.767
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 1706.67
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 1538.33
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 1416.67
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 97.99,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 95.79,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 88.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 81.34,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01819-240005",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:00.309Z",
+  "scrapedAt": "2026-09-13T15:42:01.073Z",
   "shariaCompliant": false
 }

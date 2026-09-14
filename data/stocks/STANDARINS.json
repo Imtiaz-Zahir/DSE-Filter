@@ -9,37 +9,37 @@
     "#": 359,
     "TRADING CODE": "STANDARINS",
     "tradingCode": "STANDARINS",
-    "LTP": 48.9,
-    "HIGH": 49.2,
-    "LOW": 47.9,
-    "CLOSEP": 48.9,
-    "YCP": 48.1,
-    "CHANGE": 0.8,
-    "TRADE": 216,
-    "VALUE (mn)": 11.955,
-    "VOLUME": 245236
+    "LTP": 48.6,
+    "HIGH": 49.4,
+    "LOW": 48.1,
+    "CLOSEP": 48.6,
+    "YCP": 48.9,
+    "CHANGE": -0.3,
+    "TRADE": 214,
+    "VALUE (mn)": 4.7,
+    "VOLUME": 96632
   },
   "marketInformation": {
-    "lastTradingPrice": 48.9,
+    "lastTradingPrice": 48.6,
     "daysRange": [
-      47.9,
-      49.2
+      48.1,
+      49.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       29.3,
       56.8
     ],
-    "change": 0.8,
-    "daysTradeNos": 216,
-    "yesterdaysClose": 48.1,
-    "daysVolumeNos": 245236,
-    "adjustedOpeningPrice": 48.1,
-    "daysValueMn": 11.96,
-    "openingPrice": 48,
-    "marketCapMn": 2082.566,
-    "closingPrice": 48.9,
-    "freeFloatMarketCapMn": 743.965
+    "change": -0.3,
+    "daysTradeNos": 214,
+    "yesterdaysClose": 48.9,
+    "daysVolumeNos": 96632,
+    "adjustedOpeningPrice": 48.9,
+    "daysValueMn": 4.7,
+    "openingPrice": 49.4,
+    "marketCapMn": 2117.203,
+    "closingPrice": 48.6,
+    "freeFloatMarketCapMn": 756.339
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 18.39,
-        "peDiluted": null,
-        "peTrailing": 20.66
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.96,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 17.85,
         "peDiluted": null,
         "peTrailing": 20.04
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.74,
+        "peDiluted": null,
+        "peTrailing": 19.92
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.83,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 20.33,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 20.21,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.08,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 260 838",
     "telephoneNo": "02222280706, 02222281435, 02222288548 (Ext-102)"
   },
-  "scrapedAt": "2026-09-12T19:44:56.504Z",
+  "scrapedAt": "2026-09-13T15:44:08.036Z",
   "shariaCompliant": false
 }

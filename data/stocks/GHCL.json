@@ -9,37 +9,37 @@
     "#": 145,
     "TRADING CODE": "GHCL",
     "tradingCode": "GHCL",
-    "LTP": 20.8,
-    "HIGH": 21.8,
-    "LOW": 20.7,
-    "CLOSEP": 20.8,
-    "YCP": 21,
-    "CHANGE": -0.2,
-    "TRADE": 63,
-    "VALUE (mn)": 1.031,
-    "VOLUME": 49145
+    "LTP": 19.6,
+    "HIGH": 20.9,
+    "LOW": 19,
+    "CLOSEP": 19.3,
+    "YCP": 20.8,
+    "CHANGE": -1.2,
+    "TRADE": 161,
+    "VALUE (mn)": 1.2,
+    "VOLUME": 60840
   },
   "marketInformation": {
-    "lastTradingPrice": 20.8,
+    "lastTradingPrice": 19.6,
     "daysRange": [
-      20.7,
-      21.8
+      19,
+      20.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.2,
       26.1
     ],
-    "change": -0.2,
-    "daysTradeNos": 63,
-    "yesterdaysClose": 21,
-    "daysVolumeNos": 49145,
-    "adjustedOpeningPrice": 21,
-    "daysValueMn": 1.03,
-    "openingPrice": 21,
-    "marketCapMn": 1512,
-    "closingPrice": 20.8,
-    "freeFloatMarketCapMn": 474.705
+    "change": -1.2,
+    "daysTradeNos": 161,
+    "yesterdaysClose": 20.8,
+    "daysVolumeNos": 60840,
+    "adjustedOpeningPrice": 20.8,
+    "daysValueMn": 1.2,
+    "openingPrice": 20.7,
+    "marketCapMn": 1497.6,
+    "closingPrice": 19.3,
+    "freeFloatMarketCapMn": 470.184
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01713-374873",
     "telephoneNo": "02-48311900 Ext: 1616"
   },
-  "scrapedAt": "2026-09-12T19:43:38.110Z",
+  "scrapedAt": "2026-09-13T15:42:38.024Z",
   "shariaCompliant": true
 }

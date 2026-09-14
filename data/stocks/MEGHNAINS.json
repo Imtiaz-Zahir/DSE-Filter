@@ -9,37 +9,37 @@
     "#": 219,
     "TRADING CODE": "MEGHNAINS",
     "tradingCode": "MEGHNAINS",
-    "LTP": 35,
-    "HIGH": 36,
-    "LOW": 34.7,
-    "CLOSEP": 35,
-    "YCP": 35.5,
-    "CHANGE": -0.5,
-    "TRADE": 622,
-    "VALUE (mn)": 13.454,
-    "VOLUME": 380518
+    "LTP": 34,
+    "HIGH": 35.2,
+    "LOW": 33.8,
+    "CLOSEP": 34,
+    "YCP": 35,
+    "CHANGE": -1,
+    "TRADE": 531,
+    "VALUE (mn)": 12.265,
+    "VOLUME": 356590
   },
   "marketInformation": {
-    "lastTradingPrice": 35,
+    "lastTradingPrice": 34,
     "daysRange": [
-      34.7,
-      36
+      33.8,
+      35.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.7,
       45.6
     ],
-    "change": -0.5,
-    "daysTradeNos": 622,
-    "yesterdaysClose": 35.5,
-    "daysVolumeNos": 380518,
-    "adjustedOpeningPrice": 35.5,
-    "daysValueMn": 13.45,
-    "openingPrice": 36,
-    "marketCapMn": 1420,
-    "closingPrice": 35,
-    "freeFloatMarketCapMn": 1131.398
+    "change": -1,
+    "daysTradeNos": 531,
+    "yesterdaysClose": 35,
+    "daysVolumeNos": 356590,
+    "adjustedOpeningPrice": 35,
+    "daysValueMn": 12.27,
+    "openingPrice": 35.1,
+    "marketCapMn": 1400,
+    "closingPrice": 34,
+    "freeFloatMarketCapMn": 1115.463
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.7,
-        "peDiluted": null,
-        "peTrailing": 24.49
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.57,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.89,
         "peDiluted": null,
         "peTrailing": 22.44
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.32,
+        "peDiluted": null,
+        "peTrailing": 21.79
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.3,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 26.81,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.93,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.19,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01817019325",
     "telephoneNo": "88-02-41050894-8"
   },
-  "scrapedAt": "2026-09-12T19:44:04.761Z",
+  "scrapedAt": "2026-09-13T15:43:08.934Z",
   "shariaCompliant": false
 }

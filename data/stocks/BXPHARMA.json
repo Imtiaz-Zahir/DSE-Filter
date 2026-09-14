@@ -9,37 +9,37 @@
     "#": 76,
     "TRADING CODE": "BXPHARMA",
     "tradingCode": "BXPHARMA",
-    "LTP": 150.9,
-    "HIGH": 153.1,
-    "LOW": 150.3,
-    "CLOSEP": 150.9,
-    "YCP": 151.1,
-    "CHANGE": -0.2,
-    "TRADE": 1514,
-    "VALUE (mn)": 133.911,
-    "VOLUME": 881413
+    "LTP": 148.7,
+    "HIGH": 151.6,
+    "LOW": 148,
+    "CLOSEP": 148.7,
+    "YCP": 150.9,
+    "CHANGE": -2.2,
+    "TRADE": 2047,
+    "VALUE (mn)": 109.763,
+    "VOLUME": 733793
   },
   "marketInformation": {
-    "lastTradingPrice": 150.9,
+    "lastTradingPrice": 148.7,
     "daysRange": [
-      150.3,
-      153.1
+      148,
+      151.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       99.5,
       158.5
     ],
-    "change": -0.2,
-    "daysTradeNos": 1514,
-    "yesterdaysClose": 151.1,
-    "daysVolumeNos": 881413,
-    "adjustedOpeningPrice": 151.1,
-    "daysValueMn": 133.91,
-    "openingPrice": 151.1,
-    "marketCapMn": 67407.537,
-    "closingPrice": 150.9,
-    "freeFloatMarketCapMn": 47095.118
+    "change": -2.2,
+    "daysTradeNos": 2047,
+    "yesterdaysClose": 150.9,
+    "daysVolumeNos": 733793,
+    "adjustedOpeningPrice": 150.9,
+    "daysValueMn": 109.76,
+    "openingPrice": 150.9,
+    "marketCapMn": 67318.314,
+    "closingPrice": 148.7,
+    "freeFloatMarketCapMn": 47032.782
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.38,
-        "peDiluted": null,
-        "peTrailing": 7.9
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.27,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 7.27,
         "peDiluted": null,
         "peTrailing": 7.78
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.17,
+        "peDiluted": null,
+        "peTrailing": 7.67
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 11.72,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 11.54,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 11.55,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.38,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611001-7 41060531-35 41060579-83 Ext.10140"
   },
-  "scrapedAt": "2026-09-12T19:43:18.364Z",
+  "scrapedAt": "2026-09-13T15:42:16.973Z",
   "shariaCompliant": false
 }

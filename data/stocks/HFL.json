@@ -9,37 +9,37 @@
     "#": 160,
     "TRADING CODE": "HFL",
     "tradingCode": "HFL",
-    "LTP": 12.8,
-    "HIGH": 13.2,
-    "LOW": 12.8,
+    "LTP": 13,
+    "HIGH": 13.1,
+    "LOW": 12.6,
     "CLOSEP": 12.8,
-    "YCP": 13,
-    "CHANGE": -0.2,
-    "TRADE": 33,
-    "VALUE (mn)": 0.328,
-    "VOLUME": 25492
+    "YCP": 12.8,
+    "CHANGE": 0.2,
+    "TRADE": 198,
+    "VALUE (mn)": 0.07,
+    "VOLUME": 5434
   },
   "marketInformation": {
-    "lastTradingPrice": 12.8,
+    "lastTradingPrice": 13,
     "daysRange": [
-      12.8,
-      13.2
+      12.6,
+      13.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
       17.9
     ],
-    "change": -0.2,
-    "daysTradeNos": 33,
-    "yesterdaysClose": 13,
-    "daysVolumeNos": 25492,
-    "adjustedOpeningPrice": 13,
-    "daysValueMn": 0.33,
-    "openingPrice": 13.2,
-    "marketCapMn": 1183.745,
+    "change": 0.2,
+    "daysTradeNos": 198,
+    "yesterdaysClose": 12.8,
+    "daysVolumeNos": 5434,
+    "adjustedOpeningPrice": 12.8,
+    "daysValueMn": 0.07,
+    "openingPrice": 12.9,
+    "marketCapMn": 1165.534,
     "closingPrice": 12.8,
-    "freeFloatMarketCapMn": 575.525
+    "freeFloatMarketCapMn": 566.671
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 73.16,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 70.53,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 67.37,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 67.37,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01921161018",
     "telephoneNo": "2222294589, Ext. - 401"
   },
-  "scrapedAt": "2026-09-12T19:43:44.472Z",
+  "scrapedAt": "2026-09-13T15:42:41.229Z",
   "shariaCompliant": true
 }

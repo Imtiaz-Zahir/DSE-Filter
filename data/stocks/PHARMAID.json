@@ -9,37 +9,37 @@
     "#": 271,
     "TRADING CODE": "PHARMAID",
     "tradingCode": "PHARMAID",
-    "LTP": 549.3,
-    "HIGH": 558,
-    "LOW": 546.9,
-    "CLOSEP": 549.3,
-    "YCP": 553.1,
-    "CHANGE": -3.8,
-    "TRADE": 246,
-    "VALUE (mn)": 2.616,
-    "VOLUME": 4746
+    "LTP": 533.7,
+    "HIGH": 550,
+    "LOW": 532,
+    "CLOSEP": 533.7,
+    "YCP": 549.3,
+    "CHANGE": -15.6,
+    "TRADE": 367,
+    "VALUE (mn)": 5.318,
+    "VOLUME": 9901
   },
   "marketInformation": {
-    "lastTradingPrice": 549.3,
+    "lastTradingPrice": 533.7,
     "daysRange": [
-      546.9,
-      558
+      532,
+      550
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       452.7,
       680
     ],
-    "change": -3.8,
-    "daysTradeNos": 246,
-    "yesterdaysClose": 553.1,
-    "daysVolumeNos": 4746,
-    "adjustedOpeningPrice": 553.1,
-    "daysValueMn": 2.62,
-    "openingPrice": 551,
-    "marketCapMn": 1725.672,
-    "closingPrice": 549.3,
-    "freeFloatMarketCapMn": 1391.081
+    "change": -15.6,
+    "daysTradeNos": 367,
+    "yesterdaysClose": 549.3,
+    "daysVolumeNos": 9901,
+    "adjustedOpeningPrice": 549.3,
+    "daysValueMn": 5.32,
+    "openingPrice": 550,
+    "marketCapMn": 1713.816,
+    "closingPrice": 533.7,
+    "freeFloatMarketCapMn": 1381.524
   },
   "basicInformation": {
     "authorizedCapitalMn": 50,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.38,
-        "peDiluted": null,
-        "peTrailing": 23.15
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.88,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.39,
         "peDiluted": null,
         "peTrailing": 22.08
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.82,
+        "peDiluted": null,
+        "peTrailing": 21.45
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.16,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.5,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.1,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01717 177 156",
     "telephoneNo": "+88 02 222220741, 222227742-43"
   },
-  "scrapedAt": "2026-09-12T19:44:25.305Z",
+  "scrapedAt": "2026-09-13T15:43:29.463Z",
   "shariaCompliant": false
 }

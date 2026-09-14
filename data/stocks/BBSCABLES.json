@@ -9,37 +9,37 @@
     "#": 51,
     "TRADING CODE": "BBSCABLES",
     "tradingCode": "BBSCABLES",
-    "LTP": 17.2,
-    "HIGH": 17.7,
-    "LOW": 17.1,
-    "CLOSEP": 17.2,
-    "YCP": 17.5,
-    "CHANGE": -0.3,
-    "TRADE": 329,
-    "VALUE (mn)": 5.976,
-    "VOLUME": 343763
+    "LTP": 16.1,
+    "HIGH": 17.5,
+    "LOW": 15.9,
+    "CLOSEP": 16.1,
+    "YCP": 17.2,
+    "CHANGE": -1.1,
+    "TRADE": 568,
+    "VALUE (mn)": 10.342,
+    "VOLUME": 627278
   },
   "marketInformation": {
-    "lastTradingPrice": 17.2,
+    "lastTradingPrice": 16.1,
     "daysRange": [
-      17.1,
-      17.7
+      15.9,
+      17.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.6,
       26.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 329,
-    "yesterdaysClose": 17.5,
-    "daysVolumeNos": 343763,
-    "adjustedOpeningPrice": 17.5,
-    "daysValueMn": 5.98,
-    "openingPrice": 17.5,
-    "marketCapMn": 3704.921,
-    "closingPrice": 17.2,
-    "freeFloatMarketCapMn": 2588.82
+    "change": -1.1,
+    "daysTradeNos": 568,
+    "yesterdaysClose": 17.2,
+    "daysVolumeNos": 627278,
+    "adjustedOpeningPrice": 17.2,
+    "daysValueMn": 10.34,
+    "openingPrice": 17.2,
+    "marketCapMn": 3641.408,
+    "closingPrice": 16.1,
+    "freeFloatMarketCapMn": 2544.441
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01708 813 848",
     "telephoneNo": "02-222288916, 222294771"
   },
-  "scrapedAt": "2026-09-12T19:43:08.087Z",
+  "scrapedAt": "2026-09-13T15:42:06.563Z",
   "shariaCompliant": true
 }

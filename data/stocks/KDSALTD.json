@@ -9,37 +9,37 @@
     "#": 197,
     "TRADING CODE": "KDSALTD",
     "tradingCode": "KDSALTD",
-    "LTP": 44.7,
-    "HIGH": 45.5,
-    "LOW": 44.5,
-    "CLOSEP": 44.6,
-    "YCP": 45,
-    "CHANGE": -0.3,
-    "TRADE": 114,
-    "VALUE (mn)": 2.293,
-    "VOLUME": 51049
+    "LTP": 42.9,
+    "HIGH": 44.8,
+    "LOW": 42.9,
+    "CLOSEP": 43.1,
+    "YCP": 44.6,
+    "CHANGE": -1.7,
+    "TRADE": 272,
+    "VALUE (mn)": 5.56,
+    "VOLUME": 127863
   },
   "marketInformation": {
-    "lastTradingPrice": 44.7,
+    "lastTradingPrice": 42.9,
     "daysRange": [
-      44.5,
-      45.5
+      42.9,
+      44.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.9,
       55.9
     ],
-    "change": -0.3,
-    "daysTradeNos": 114,
-    "yesterdaysClose": 45,
-    "daysVolumeNos": 51049,
-    "adjustedOpeningPrice": 45,
-    "daysValueMn": 2.29,
-    "openingPrice": 45.2,
-    "marketCapMn": 3363.367,
-    "closingPrice": 44.6,
-    "freeFloatMarketCapMn": 1211.942
+    "change": -1.7,
+    "daysTradeNos": 272,
+    "yesterdaysClose": 44.6,
+    "daysVolumeNos": 127863,
+    "adjustedOpeningPrice": 44.6,
+    "daysValueMn": 5.56,
+    "openingPrice": 44.8,
+    "marketCapMn": 3333.47,
+    "closingPrice": 43.1,
+    "freeFloatMarketCapMn": 1201.169
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 23.29,
-        "peDiluted": null,
-        "peTrailing": 21.95
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 22.15,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 22.01,
         "peDiluted": null,
         "peTrailing": 20.74
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.27,
+        "peDiluted": null,
+        "peTrailing": 20.05
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 21.55,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 20.5,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 20.37,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.68,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01777 775 348",
     "telephoneNo": "031-681701-3, 031-685207-9, Ext-152"
   },
-  "scrapedAt": "2026-09-12T19:43:59.468Z",
+  "scrapedAt": "2026-09-13T15:43:01.050Z",
   "shariaCompliant": true
 }

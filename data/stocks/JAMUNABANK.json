@@ -9,37 +9,37 @@
     "#": 188,
     "TRADING CODE": "JAMUNABANK",
     "tradingCode": "JAMUNABANK",
-    "LTP": 23.1,
-    "HIGH": 23.4,
-    "LOW": 22.9,
-    "CLOSEP": 23,
-    "YCP": 23.2,
-    "CHANGE": -0.1,
-    "TRADE": 649,
-    "VALUE (mn)": 54.261,
-    "VOLUME": 2352934
+    "LTP": 22.6,
+    "HIGH": 23.1,
+    "LOW": 22.4,
+    "CLOSEP": 22.6,
+    "YCP": 23,
+    "CHANGE": -0.4,
+    "TRADE": 902,
+    "VALUE (mn)": 100.383,
+    "VOLUME": 4420775
   },
   "marketInformation": {
-    "lastTradingPrice": 23.1,
+    "lastTradingPrice": 22.6,
     "daysRange": [
-      22.9,
-      23.4
+      22.4,
+      23.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       19.9,
       27.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 649,
-    "yesterdaysClose": 23.2,
-    "daysVolumeNos": 2352934,
-    "adjustedOpeningPrice": 23.2,
-    "daysValueMn": 54.26,
-    "openingPrice": 23.4,
-    "marketCapMn": 21792.633,
-    "closingPrice": 23,
-    "freeFloatMarketCapMn": 13733.825
+    "change": -0.4,
+    "daysTradeNos": 902,
+    "yesterdaysClose": 23,
+    "daysVolumeNos": 4420775,
+    "adjustedOpeningPrice": 23,
+    "daysValueMn": 100.38,
+    "openingPrice": 23.1,
+    "marketCapMn": 21604.765,
+    "closingPrice": 22.6,
+    "freeFloatMarketCapMn": 13615.43
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3,
-        "peDiluted": null,
-        "peTrailing": 3.64
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 2.97,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 2.85,
         "peDiluted": null,
         "peTrailing": 3.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 2.8,
+        "peDiluted": null,
+        "peTrailing": 3.4
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.09,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.04,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 3.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.82,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01777 743 611",
     "telephoneNo": "+8809610005678 Ex.1110"
   },
-  "scrapedAt": "2026-09-12T19:43:54.523Z",
+  "scrapedAt": "2026-09-13T15:42:57.077Z",
   "shariaCompliant": false
 }

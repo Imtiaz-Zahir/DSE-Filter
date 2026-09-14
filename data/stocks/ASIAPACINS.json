@@ -9,36 +9,36 @@
     "#": 40,
     "TRADING CODE": "ASIAPACINS",
     "tradingCode": "ASIAPACINS",
-    "LTP": 47.6,
-    "HIGH": 48.6,
-    "LOW": 47.5,
-    "CLOSEP": 47.7,
+    "LTP": 46.2,
+    "HIGH": 48.2,
+    "LOW": 46,
+    "CLOSEP": 46.2,
     "YCP": 47.7,
-    "CHANGE": -0.1,
-    "TRADE": 240,
-    "VALUE (mn)": 8.538,
-    "VOLUME": 178319
+    "CHANGE": -1.5,
+    "TRADE": 320,
+    "VALUE (mn)": 5.841,
+    "VOLUME": 124868
   },
   "marketInformation": {
-    "lastTradingPrice": 47.6,
+    "lastTradingPrice": 46.2,
     "daysRange": [
-      47.5,
-      48.6
+      46,
+      48.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27.7,
       55.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 240,
+    "change": -1.5,
+    "daysTradeNos": 320,
     "yesterdaysClose": 47.7,
-    "daysVolumeNos": 178319,
+    "daysVolumeNos": 124868,
     "adjustedOpeningPrice": 47.7,
-    "daysValueMn": 8.54,
-    "openingPrice": 47.7,
+    "daysValueMn": 5.84,
+    "openingPrice": 48.2,
     "marketCapMn": 2020.095,
-    "closingPrice": 47.7,
+    "closingPrice": 46.2,
     "freeFloatMarketCapMn": 1341.152
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.48,
-        "peDiluted": null,
-        "peTrailing": 17.9
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.14,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.89,
         "peDiluted": null,
         "peTrailing": 16.98
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.55,
+        "peDiluted": null,
+        "peTrailing": 16.44
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.04,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 19.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.41,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801914397616",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:00.477Z",
+  "scrapedAt": "2026-09-13T15:42:01.157Z",
   "shariaCompliant": false
 }

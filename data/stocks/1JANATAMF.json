@@ -9,36 +9,36 @@
     "#": 1,
     "TRADING CODE": "1JANATAMF",
     "tradingCode": "1JANATAMF",
-    "LTP": 3.6,
-    "HIGH": 3.6,
-    "LOW": 3.4,
-    "CLOSEP": 3.6,
-    "YCP": 3.4,
-    "CHANGE": 0.2,
-    "TRADE": 238,
-    "VALUE (mn)": 6.077,
-    "VOLUME": 1731498
+    "LTP": 3.5,
+    "HIGH": 3.7,
+    "LOW": 3.5,
+    "CLOSEP": 3.5,
+    "YCP": 3.6,
+    "CHANGE": -0.1,
+    "TRADE": 280,
+    "VALUE (mn)": 5.857,
+    "VOLUME": 1635372
   },
   "marketInformation": {
-    "lastTradingPrice": 3.6,
+    "lastTradingPrice": 3.5,
     "daysRange": [
-      3.4,
-      3.6
+      3.5,
+      3.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.1,
       4.3
     ],
-    "change": 0.2,
-    "daysTradeNos": 238,
-    "yesterdaysClose": 3.4,
-    "daysVolumeNos": 1731498,
-    "adjustedOpeningPrice": 3.4,
-    "daysValueMn": 6.08,
-    "openingPrice": 3.5,
-    "marketCapMn": 985.739,
-    "closingPrice": 3.6,
+    "change": -0.1,
+    "daysTradeNos": 280,
+    "yesterdaysClose": 3.6,
+    "daysVolumeNos": 1635372,
+    "adjustedOpeningPrice": 3.6,
+    "daysValueMn": 5.86,
+    "openingPrice": 3.6,
+    "marketCapMn": 1043.724,
+    "closingPrice": 3.5,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:45.560Z",
+  "scrapedAt": "2026-09-13T15:40:44.311Z",
   "shariaCompliant": false
 }

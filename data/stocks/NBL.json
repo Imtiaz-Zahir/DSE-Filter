@@ -9,20 +9,20 @@
     "#": 243,
     "TRADING CODE": "NBL",
     "tradingCode": "NBL",
-    "LTP": 3.4,
+    "LTP": 3.3,
     "HIGH": 3.4,
-    "LOW": 3.3,
+    "LOW": 3.2,
     "CLOSEP": 3.3,
     "YCP": 3.3,
-    "CHANGE": 0.1,
-    "TRADE": 204,
-    "VALUE (mn)": 2.421,
-    "VOLUME": 730475
+    "CHANGE": 0,
+    "TRADE": 160,
+    "VALUE (mn)": 2.07,
+    "VOLUME": 631903
   },
   "marketInformation": {
-    "lastTradingPrice": 3.4,
+    "lastTradingPrice": 3.3,
     "daysRange": [
-      3.3,
+      3.2,
       3.4
     ],
     "lastUpdate": "2:40 PM",
@@ -30,13 +30,13 @@
       2.1,
       6.6
     ],
-    "change": 0.1,
-    "daysTradeNos": 204,
+    "change": 0,
+    "daysTradeNos": 160,
     "yesterdaysClose": 3.3,
-    "daysVolumeNos": 730475,
+    "daysVolumeNos": 631903,
     "adjustedOpeningPrice": 3.3,
-    "daysValueMn": 2.42,
-    "openingPrice": 3.3,
+    "daysValueMn": 2.07,
+    "openingPrice": 3.4,
     "marketCapMn": 10625.141,
     "closingPrice": 3.3,
     "freeFloatMarketCapMn": 8776.426
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801701215273",
     "telephoneNo": "+880-2-41032411"
   },
-  "scrapedAt": "2026-09-12T19:44:14.501Z",
+  "scrapedAt": "2026-09-13T15:43:21.120Z",
   "shariaCompliant": false
 }

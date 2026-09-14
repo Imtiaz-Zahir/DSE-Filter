@@ -9,37 +9,37 @@
     "#": 84,
     "TRADING CODE": "CLICL",
     "tradingCode": "CLICL",
-    "LTP": 42.1,
-    "HIGH": 44.5,
-    "LOW": 41.6,
-    "CLOSEP": 42.1,
-    "YCP": 43.8,
-    "CHANGE": -1.7,
-    "TRADE": 233,
-    "VALUE (mn)": 5.633,
-    "VOLUME": 132329
+    "LTP": 41.1,
+    "HIGH": 42.6,
+    "LOW": 40.9,
+    "CLOSEP": 41.1,
+    "YCP": 42.1,
+    "CHANGE": -1,
+    "TRADE": 214,
+    "VALUE (mn)": 2.64,
+    "VOLUME": 63493
   },
   "marketInformation": {
-    "lastTradingPrice": 42.1,
+    "lastTradingPrice": 41.1,
     "daysRange": [
-      41.6,
-      44.5
+      40.9,
+      42.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       38.1,
       69.3
     ],
-    "change": -1.7,
-    "daysTradeNos": 233,
-    "yesterdaysClose": 43.8,
-    "daysVolumeNos": 132329,
-    "adjustedOpeningPrice": 43.8,
-    "daysValueMn": 5.63,
-    "openingPrice": 44.5,
-    "marketCapMn": 1642.5,
-    "closingPrice": 42.1,
-    "freeFloatMarketCapMn": 657
+    "change": -1,
+    "daysTradeNos": 214,
+    "yesterdaysClose": 42.1,
+    "daysVolumeNos": 63493,
+    "adjustedOpeningPrice": 42.1,
+    "daysValueMn": 2.64,
+    "openingPrice": 42.4,
+    "marketCapMn": 1578.75,
+    "closingPrice": 41.1,
+    "freeFloatMarketCapMn": 631.5
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -130,14 +124,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 266.47,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 260.59,
@@ -161,6 +156,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 247.65,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 241.76,
         "peDiluted": null
       }
     ]
@@ -319,6 +319,6 @@
     "cellNo": "01713555883",
     "telephoneNo": "02-55128956-57 (Ext. 203)"
   },
-  "scrapedAt": "2026-09-12T19:43:19.620Z",
+  "scrapedAt": "2026-09-13T15:42:17.787Z",
   "shariaCompliant": true
 }

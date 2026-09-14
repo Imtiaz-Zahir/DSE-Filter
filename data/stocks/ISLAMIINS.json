@@ -9,37 +9,37 @@
     "#": 185,
     "TRADING CODE": "ISLAMIINS",
     "tradingCode": "ISLAMIINS",
-    "LTP": 59.8,
-    "HIGH": 60.5,
-    "LOW": 58.6,
-    "CLOSEP": 59,
-    "YCP": 59.7,
-    "CHANGE": 0.1,
-    "TRADE": 107,
-    "VALUE (mn)": 12.273,
-    "VOLUME": 205291
+    "LTP": 58.4,
+    "HIGH": 60.3,
+    "LOW": 58.2,
+    "CLOSEP": 58.4,
+    "YCP": 59,
+    "CHANGE": -0.6,
+    "TRADE": 259,
+    "VALUE (mn)": 4.838,
+    "VOLUME": 81619
   },
   "marketInformation": {
-    "lastTradingPrice": 59.8,
+    "lastTradingPrice": 58.4,
     "daysRange": [
-      58.6,
-      60.5
+      58.2,
+      60.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       34.5,
       67.5
     ],
-    "change": 0.1,
-    "daysTradeNos": 107,
-    "yesterdaysClose": 59.7,
-    "daysVolumeNos": 205291,
-    "adjustedOpeningPrice": 59.7,
-    "daysValueMn": 12.27,
-    "openingPrice": 60.5,
-    "marketCapMn": 2457.563,
-    "closingPrice": 59,
-    "freeFloatMarketCapMn": 1336.684
+    "change": -0.6,
+    "daysTradeNos": 259,
+    "yesterdaysClose": 59,
+    "daysVolumeNos": 81619,
+    "adjustedOpeningPrice": 59,
+    "daysValueMn": 4.84,
+    "openingPrice": 58.5,
+    "marketCapMn": 2428.748,
+    "closingPrice": 58.4,
+    "freeFloatMarketCapMn": 1321.011
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.73,
-        "peDiluted": null,
-        "peTrailing": 17.24
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 14.42,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 14.32,
         "peDiluted": null,
         "peTrailing": 16.76
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.17,
+        "peDiluted": null,
+        "peTrailing": 16.59
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 17.8,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 17.42,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 17.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.13,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01709 819911",
     "telephoneNo": "09613888889 & 09613444445"
   },
-  "scrapedAt": "2026-09-12T19:43:53.663Z",
+  "scrapedAt": "2026-09-13T15:42:54.606Z",
   "shariaCompliant": true
 }

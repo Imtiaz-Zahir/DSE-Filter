@@ -9,37 +9,37 @@
     "#": 324,
     "TRADING CODE": "SAMORITA",
     "tradingCode": "SAMORITA",
-    "LTP": 88.2,
-    "HIGH": 91.7,
-    "LOW": 87,
-    "CLOSEP": 88.2,
-    "YCP": 89.8,
-    "CHANGE": -1.6,
-    "TRADE": 797,
-    "VALUE (mn)": 14.653,
-    "VOLUME": 163107
+    "LTP": 82.9,
+    "HIGH": 88.5,
+    "LOW": 82,
+    "CLOSEP": 82.9,
+    "YCP": 88.2,
+    "CHANGE": -5.3,
+    "TRADE": 961,
+    "VALUE (mn)": 17.586,
+    "VOLUME": 206430
   },
   "marketInformation": {
-    "lastTradingPrice": 88.2,
+    "lastTradingPrice": 82.9,
     "daysRange": [
-      87,
-      91.7
+      82,
+      88.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       63,
       120
     ],
-    "change": -1.6,
-    "daysTradeNos": 797,
-    "yesterdaysClose": 89.8,
-    "daysVolumeNos": 163107,
-    "adjustedOpeningPrice": 89.8,
-    "daysValueMn": 14.65,
-    "openingPrice": 87.1,
-    "marketCapMn": 1957.721,
-    "closingPrice": 88.2,
-    "freeFloatMarketCapMn": 1083.603
+    "change": -5.3,
+    "daysTradeNos": 961,
+    "yesterdaysClose": 88.2,
+    "daysVolumeNos": 206430,
+    "adjustedOpeningPrice": 88.2,
+    "daysValueMn": 17.59,
+    "openingPrice": 88.2,
+    "marketCapMn": 1922.839,
+    "closingPrice": 82.9,
+    "freeFloatMarketCapMn": 1064.296
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 91.75,
-        "peDiluted": null,
-        "peTrailing": 192.24
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 88.64,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 85.91,
         "peDiluted": null,
         "peTrailing": 180
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 80.75,
+        "peDiluted": null,
+        "peTrailing": 169.18
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 151.94,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 146.77,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 142.26,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 133.71,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 247 105",
     "telephoneNo": "02-48117618-9"
   },
-  "scrapedAt": "2026-09-12T19:44:45.405Z",
+  "scrapedAt": "2026-09-13T15:43:53.668Z",
   "shariaCompliant": true
 }

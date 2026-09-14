@@ -9,37 +9,37 @@
     "#": 30,
     "TRADING CODE": "AOL",
     "tradingCode": "AOL",
-    "LTP": 15.7,
-    "HIGH": 15.9,
-    "LOW": 15.5,
-    "CLOSEP": 15.7,
-    "YCP": 15.8,
-    "CHANGE": -0.1,
-    "TRADE": 87,
-    "VALUE (mn)": 0.818,
-    "VOLUME": 52113
+    "LTP": 15.1,
+    "HIGH": 16,
+    "LOW": 15,
+    "CLOSEP": 15.1,
+    "YCP": 15.7,
+    "CHANGE": -0.6,
+    "TRADE": 181,
+    "VALUE (mn)": 3.349,
+    "VOLUME": 220547
   },
   "marketInformation": {
-    "lastTradingPrice": 15.7,
+    "lastTradingPrice": 15.1,
     "daysRange": [
-      15.5,
-      15.9
+      15,
+      16
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.5,
       19.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 87,
-    "yesterdaysClose": 15.8,
-    "daysVolumeNos": 52113,
-    "adjustedOpeningPrice": 15.8,
-    "daysValueMn": 0.82,
-    "openingPrice": 15.9,
-    "marketCapMn": 1734.556,
-    "closingPrice": 15.7,
-    "freeFloatMarketCapMn": 1196.446
+    "change": -0.6,
+    "daysTradeNos": 181,
+    "yesterdaysClose": 15.7,
+    "daysVolumeNos": 220547,
+    "adjustedOpeningPrice": 15.7,
+    "daysValueMn": 3.35,
+    "openingPrice": 16,
+    "marketCapMn": 1723.577,
+    "closingPrice": 15.1,
+    "freeFloatMarketCapMn": 1188.874
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 10.69,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 10.19,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 9.87,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.5,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 10.18,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 9.7,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 9.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.04,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01811 416 243",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:55.369Z",
+  "scrapedAt": "2026-09-13T15:41:57.770Z",
   "shariaCompliant": true
 }

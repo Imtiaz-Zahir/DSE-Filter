@@ -9,37 +9,37 @@
     "#": 191,
     "TRADING CODE": "JHRML",
     "tradingCode": "JHRML",
-    "LTP": 44.1,
-    "HIGH": 45.6,
-    "LOW": 43.7,
-    "CLOSEP": 44.1,
-    "YCP": 45.2,
-    "CHANGE": -1.1,
-    "TRADE": 337,
-    "VALUE (mn)": 5.4,
-    "VOLUME": 121820
+    "LTP": 40.9,
+    "HIGH": 44.2,
+    "LOW": 40,
+    "CLOSEP": 40.9,
+    "YCP": 44.1,
+    "CHANGE": -3.2,
+    "TRADE": 729,
+    "VALUE (mn)": 12.798,
+    "VOLUME": 304013
   },
   "marketInformation": {
-    "lastTradingPrice": 44.1,
+    "lastTradingPrice": 40.9,
     "daysRange": [
-      43.7,
-      45.6
+      40,
+      44.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39.4,
-      59.1
+      58.4
     ],
-    "change": -1.1,
-    "daysTradeNos": 337,
-    "yesterdaysClose": 45.2,
-    "daysVolumeNos": 121820,
-    "adjustedOpeningPrice": 45.2,
-    "daysValueMn": 5.4,
-    "openingPrice": 45.3,
-    "marketCapMn": 5663.294,
-    "closingPrice": 44.1,
-    "freeFloatMarketCapMn": 2696.389
+    "change": -3.2,
+    "daysTradeNos": 729,
+    "yesterdaysClose": 44.1,
+    "daysVolumeNos": 304013,
+    "adjustedOpeningPrice": 44.1,
+    "daysValueMn": 12.8,
+    "openingPrice": 44.2,
+    "marketCapMn": 5525.471,
+    "closingPrice": 40.9,
+    "freeFloatMarketCapMn": 2630.769
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 53.96,
-        "peDiluted": null,
-        "peTrailing": 49.69
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 52.16,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 49.37,
         "peDiluted": null,
         "peTrailing": 45.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 45.78,
+        "peDiluted": null,
+        "peTrailing": 42.16
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.91,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.05,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.99,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01777 742 569",
     "telephoneNo": "02-55138723-24"
   },
-  "scrapedAt": "2026-09-12T19:43:55.572Z",
+  "scrapedAt": "2026-09-13T15:42:57.736Z",
   "shariaCompliant": true
 }

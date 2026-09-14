@@ -9,37 +9,37 @@
     "#": 258,
     "TRADING CODE": "OAL",
     "tradingCode": "OAL",
-    "LTP": 6.5,
-    "HIGH": 6.7,
-    "LOW": 6.4,
-    "CLOSEP": 6.5,
-    "YCP": 6.6,
-    "CHANGE": -0.1,
-    "TRADE": 66,
-    "VALUE (mn)": 1.097,
-    "VOLUME": 168574
+    "LTP": 6.3,
+    "HIGH": 6.5,
+    "LOW": 6.2,
+    "CLOSEP": 6.3,
+    "YCP": 6.5,
+    "CHANGE": -0.2,
+    "TRADE": 119,
+    "VALUE (mn)": 0.814,
+    "VOLUME": 128341
   },
   "marketInformation": {
-    "lastTradingPrice": 6.5,
+    "lastTradingPrice": 6.3,
     "daysRange": [
-      6.4,
-      6.7
+      6.2,
+      6.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
-      7.5
+      7.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 66,
-    "yesterdaysClose": 6.6,
-    "daysVolumeNos": 168574,
-    "adjustedOpeningPrice": 6.6,
-    "daysValueMn": 1.1,
-    "openingPrice": 6.6,
-    "marketCapMn": 1118.878,
-    "closingPrice": 6.5,
-    "freeFloatMarketCapMn": 830.101
+    "change": -0.2,
+    "daysTradeNos": 119,
+    "yesterdaysClose": 6.5,
+    "daysVolumeNos": 128341,
+    "adjustedOpeningPrice": 6.5,
+    "daysValueMn": 0.81,
+    "openingPrice": 6.5,
+    "marketCapMn": 1101.925,
+    "closingPrice": 6.3,
+    "freeFloatMarketCapMn": 817.524
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01909 103054",
     "telephoneNo": "02-8392459"
   },
-  "scrapedAt": "2026-09-12T19:44:21.036Z",
+  "scrapedAt": "2026-09-13T15:43:25.091Z",
   "shariaCompliant": true
 }

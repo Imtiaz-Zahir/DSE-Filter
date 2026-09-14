@@ -9,37 +9,37 @@
     "#": 173,
     "TRADING CODE": "IDLC",
     "tradingCode": "IDLC",
-    "LTP": 42.2,
-    "HIGH": 43.5,
-    "LOW": 42,
-    "CLOSEP": 42.2,
-    "YCP": 42.9,
-    "CHANGE": -0.7,
-    "TRADE": 232,
-    "VALUE (mn)": 2.243,
-    "VOLUME": 52925
+    "LTP": 41.2,
+    "HIGH": 43,
+    "LOW": 41,
+    "CLOSEP": 41.2,
+    "YCP": 42.2,
+    "CHANGE": -1,
+    "TRADE": 845,
+    "VALUE (mn)": 9.024,
+    "VOLUME": 218241
   },
   "marketInformation": {
-    "lastTradingPrice": 42.2,
+    "lastTradingPrice": 41.2,
     "daysRange": [
-      42,
-      43.5
+      41,
+      43
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       32,
       48.3
     ],
-    "change": -0.7,
-    "daysTradeNos": 232,
-    "yesterdaysClose": 42.9,
-    "daysVolumeNos": 52925,
-    "adjustedOpeningPrice": 42.9,
-    "daysValueMn": 2.24,
-    "openingPrice": 43.5,
-    "marketCapMn": 19661.395,
-    "closingPrice": 42.2,
-    "freeFloatMarketCapMn": 12756.471
+    "change": -1,
+    "daysTradeNos": 845,
+    "yesterdaysClose": 42.2,
+    "daysVolumeNos": 218241,
+    "adjustedOpeningPrice": 42.2,
+    "daysValueMn": 9.02,
+    "openingPrice": 43,
+    "marketCapMn": 19340.58,
+    "closingPrice": 41.2,
+    "freeFloatMarketCapMn": 12548.324
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.34,
-        "peDiluted": null,
-        "peTrailing": 7.22
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 7.06,
         "peDiluted": null,
         "peTrailing": 6.94
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.89,
+        "peDiluted": null,
+        "peTrailing": 6.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 7.87,
-        "peDiluted": 8.27
-      },
       {
         "date": "2026-09-06",
         "peBasic": 7.69,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 7.56,
         "peDiluted": 7.95
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.38,
+        "peDiluted": 7.76
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01730374531",
     "telephoneNo": "8809609994352"
   },
-  "scrapedAt": "2026-09-12T19:43:48.575Z",
+  "scrapedAt": "2026-09-13T15:42:50.165Z",
   "shariaCompliant": false
 }

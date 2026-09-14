@@ -9,37 +9,37 @@
     "#": 110,
     "TRADING CODE": "EASTLAND",
     "tradingCode": "EASTLAND",
-    "LTP": 27.6,
-    "HIGH": 28.5,
-    "LOW": 27.5,
-    "CLOSEP": 27.6,
-    "YCP": 28,
-    "CHANGE": -0.4,
-    "TRADE": 138,
-    "VALUE (mn)": 2.382,
-    "VOLUME": 85315
+    "LTP": 26.7,
+    "HIGH": 27.7,
+    "LOW": 26.3,
+    "CLOSEP": 26.7,
+    "YCP": 27.6,
+    "CHANGE": -0.9,
+    "TRADE": 188,
+    "VALUE (mn)": 3.451,
+    "VOLUME": 127765
   },
   "marketInformation": {
-    "lastTradingPrice": 27.6,
+    "lastTradingPrice": 26.7,
     "daysRange": [
-      27.5,
-      28.5
+      26.3,
+      27.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.7,
       31.8
     ],
-    "change": -0.4,
-    "daysTradeNos": 138,
-    "yesterdaysClose": 28,
-    "daysVolumeNos": 85315,
-    "adjustedOpeningPrice": 28,
-    "daysValueMn": 2.38,
-    "openingPrice": 28.5,
-    "marketCapMn": 2348.656,
-    "closingPrice": 27.6,
-    "freeFloatMarketCapMn": 1383.056
+    "change": -0.9,
+    "daysTradeNos": 188,
+    "yesterdaysClose": 27.6,
+    "daysVolumeNos": 127765,
+    "adjustedOpeningPrice": 27.6,
+    "daysValueMn": 3.45,
+    "openingPrice": 27.3,
+    "marketCapMn": 2315.104,
+    "closingPrice": 26.7,
+    "freeFloatMarketCapMn": 1363.298
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.43,
-        "peDiluted": null,
-        "peTrailing": 22.52
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.86,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.71,
         "peDiluted": null,
         "peTrailing": 21.73
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.07,
+        "peDiluted": null,
+        "peTrailing": 21.02
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.27,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.27,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01896066357",
     "telephoneNo": "02223384600 Ext.-120"
   },
-  "scrapedAt": "2026-09-12T19:43:26.798Z",
+  "scrapedAt": "2026-09-13T15:42:27.784Z",
   "shariaCompliant": false
 }

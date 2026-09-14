@@ -9,37 +9,37 @@
     "#": 121,
     "TRADING CODE": "EPGL",
     "tradingCode": "EPGL",
-    "LTP": 17,
-    "HIGH": 17.4,
-    "LOW": 16.9,
-    "CLOSEP": 17,
-    "YCP": 17.1,
-    "CHANGE": -0.1,
+    "LTP": 16.5,
+    "HIGH": 17.2,
+    "LOW": 16.4,
+    "CLOSEP": 16.5,
+    "YCP": 17,
+    "CHANGE": -0.5,
     "TRADE": 122,
-    "VALUE (mn)": 1.277,
-    "VOLUME": 74522
+    "VALUE (mn)": 0.964,
+    "VOLUME": 57714
   },
   "marketInformation": {
-    "lastTradingPrice": 17,
+    "lastTradingPrice": 16.5,
     "daysRange": [
-      16.9,
-      17.4
+      16.4,
+      17.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.2,
-      22.5
+      21.8
     ],
-    "change": -0.1,
+    "change": -0.5,
     "daysTradeNos": 122,
-    "yesterdaysClose": 17.1,
-    "daysVolumeNos": 74522,
-    "adjustedOpeningPrice": 17.1,
-    "daysValueMn": 1.28,
-    "openingPrice": 17.4,
-    "marketCapMn": 3251.791,
-    "closingPrice": 17,
-    "freeFloatMarketCapMn": 1475.021
+    "yesterdaysClose": 17,
+    "daysVolumeNos": 57714,
+    "adjustedOpeningPrice": 17,
+    "daysValueMn": 0.96,
+    "openingPrice": 17.2,
+    "marketCapMn": 3232.775,
+    "closingPrice": 16.5,
+    "freeFloatMarketCapMn": 1466.395
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01713061579",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:30.495Z",
+  "scrapedAt": "2026-09-13T15:42:30.519Z",
   "shariaCompliant": false
 }

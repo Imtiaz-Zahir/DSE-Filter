@@ -9,37 +9,37 @@
     "#": 261,
     "TRADING CODE": "ONEBANKPLC",
     "tradingCode": "ONEBANKPLC",
-    "LTP": 7.7,
-    "HIGH": 7.8,
-    "LOW": 7.6,
-    "CLOSEP": 7.7,
-    "YCP": 7.6,
-    "CHANGE": 0.1,
-    "TRADE": 55,
-    "VALUE (mn)": 1.776,
-    "VOLUME": 231518
+    "LTP": 7.4,
+    "HIGH": 7.7,
+    "LOW": 7.4,
+    "CLOSEP": 7.5,
+    "YCP": 7.7,
+    "CHANGE": -0.3,
+    "TRADE": 97,
+    "VALUE (mn)": 2.793,
+    "VOLUME": 369720
   },
   "marketInformation": {
-    "lastTradingPrice": 7.7,
+    "lastTradingPrice": 7.4,
     "daysRange": [
-      7.6,
-      7.8
+      7.4,
+      7.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.2,
       9.1
     ],
-    "change": 0.1,
-    "daysTradeNos": 55,
-    "yesterdaysClose": 7.6,
-    "daysVolumeNos": 231518,
-    "adjustedOpeningPrice": 7.6,
-    "daysValueMn": 1.78,
+    "change": -0.3,
+    "daysTradeNos": 97,
+    "yesterdaysClose": 7.7,
+    "daysVolumeNos": 369720,
+    "adjustedOpeningPrice": 7.7,
+    "daysValueMn": 2.79,
     "openingPrice": 7.6,
-    "marketCapMn": 8100.246,
-    "closingPrice": 7.7,
-    "freeFloatMarketCapMn": 5653.554
+    "marketCapMn": 8206.829,
+    "closingPrice": 7.5,
+    "freeFloatMarketCapMn": 5727.943
   },
   "basicInformation": {
     "authorizedCapitalMn": 18500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.94,
-        "peDiluted": null,
-        "peTrailing": 36.67
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.87,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 4.94,
         "peDiluted": null,
         "peTrailing": 36.67
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.81,
+        "peDiluted": null,
+        "peTrailing": 35.71
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 27.5,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.14,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 27.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.79,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 353 507",
     "telephoneNo": "88 02 41010666"
   },
-  "scrapedAt": "2026-09-12T19:44:21.847Z",
+  "scrapedAt": "2026-09-13T15:43:27.789Z",
   "shariaCompliant": false
 }

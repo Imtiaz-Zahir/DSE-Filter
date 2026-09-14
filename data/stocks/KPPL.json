@@ -9,37 +9,37 @@
     "#": 201,
     "TRADING CODE": "KPPL",
     "tradingCode": "KPPL",
-    "LTP": 12.4,
-    "HIGH": 12.8,
-    "LOW": 12.3,
-    "CLOSEP": 12.4,
-    "YCP": 12.6,
-    "CHANGE": -0.2,
-    "TRADE": 101,
-    "VALUE (mn)": 0.596,
-    "VOLUME": 47583
+    "LTP": 12.5,
+    "HIGH": 12.6,
+    "LOW": 12.2,
+    "CLOSEP": 12.3,
+    "YCP": 12.4,
+    "CHANGE": 0.1,
+    "TRADE": 110,
+    "VALUE (mn)": 0.669,
+    "VOLUME": 54415
   },
   "marketInformation": {
-    "lastTradingPrice": 12.4,
+    "lastTradingPrice": 12.5,
     "daysRange": [
-      12.3,
-      12.8
+      12.2,
+      12.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.9,
       21.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 101,
-    "yesterdaysClose": 12.6,
-    "daysVolumeNos": 47583,
-    "adjustedOpeningPrice": 12.6,
-    "daysValueMn": 0.6,
-    "openingPrice": 12.8,
-    "marketCapMn": 920.304,
-    "closingPrice": 12.4,
-    "freeFloatMarketCapMn": 554.4
+    "change": 0.1,
+    "daysTradeNos": 110,
+    "yesterdaysClose": 12.4,
+    "daysVolumeNos": 54415,
+    "adjustedOpeningPrice": 12.4,
+    "daysValueMn": 0.67,
+    "openingPrice": 12.5,
+    "marketCapMn": 905.696,
+    "closingPrice": 12.3,
+    "freeFloatMarketCapMn": 545.6
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:00.751Z",
+  "scrapedAt": "2026-09-13T15:43:04.405Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 139,
     "TRADING CODE": "FUWANGFOOD",
     "tradingCode": "FUWANGFOOD",
-    "LTP": 9.6,
-    "HIGH": 9.8,
-    "LOW": 9.5,
-    "CLOSEP": 9.6,
+    "LTP": 9.3,
+    "HIGH": 9.7,
+    "LOW": 9.3,
+    "CLOSEP": 9.3,
     "YCP": 9.6,
-    "CHANGE": 0,
-    "TRADE": 94,
-    "VALUE (mn)": 0.918,
-    "VOLUME": 95654
+    "CHANGE": -0.3,
+    "TRADE": 184,
+    "VALUE (mn)": 1.761,
+    "VOLUME": 188222
   },
   "marketInformation": {
-    "lastTradingPrice": 9.6,
+    "lastTradingPrice": 9.3,
     "daysRange": [
-      9.5,
-      9.8
+      9.3,
+      9.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9,
       15.8
     ],
-    "change": 0,
-    "daysTradeNos": 94,
+    "change": -0.3,
+    "daysTradeNos": 184,
     "yesterdaysClose": 9.6,
-    "daysVolumeNos": 95654,
+    "daysVolumeNos": 188222,
     "adjustedOpeningPrice": 9.6,
-    "daysValueMn": 0.92,
-    "openingPrice": 9.8,
+    "daysValueMn": 1.76,
+    "openingPrice": 9.7,
     "marketCapMn": 1064.057,
-    "closingPrice": 9.6,
+    "closingPrice": 9.3,
     "freeFloatMarketCapMn": 980.549
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801701 222 901",
     "telephoneNo": "+880222287359-60, Ext-139"
   },
-  "scrapedAt": "2026-09-12T19:43:34.661Z",
+  "scrapedAt": "2026-09-13T15:42:35.795Z",
   "shariaCompliant": true
 }

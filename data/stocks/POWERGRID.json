@@ -9,37 +9,37 @@
     "#": 279,
     "TRADING CODE": "POWERGRID",
     "tradingCode": "POWERGRID",
-    "LTP": 38.1,
-    "HIGH": 38.7,
-    "LOW": 38.1,
-    "CLOSEP": 38.2,
-    "YCP": 38.1,
-    "CHANGE": 0,
-    "TRADE": 50,
-    "VALUE (mn)": 0.647,
-    "VOLUME": 16897
+    "LTP": 37.6,
+    "HIGH": 38.8,
+    "LOW": 37.6,
+    "CLOSEP": 37.6,
+    "YCP": 38.2,
+    "CHANGE": -0.6,
+    "TRADE": 153,
+    "VALUE (mn)": 3.192,
+    "VOLUME": 84385
   },
   "marketInformation": {
-    "lastTradingPrice": 38.1,
+    "lastTradingPrice": 37.6,
     "daysRange": [
-      38.1,
-      38.7
+      37.6,
+      38.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.6,
       42.8
     ],
-    "change": 0,
-    "daysTradeNos": 50,
-    "yesterdaysClose": 38.1,
-    "daysVolumeNos": 16897,
-    "adjustedOpeningPrice": 38.1,
-    "daysValueMn": 0.65,
-    "openingPrice": 38.7,
-    "marketCapMn": 34816.046,
-    "closingPrice": 38.2,
-    "freeFloatMarketCapMn": 6788.411
+    "change": -0.6,
+    "daysTradeNos": 153,
+    "yesterdaysClose": 38.2,
+    "daysVolumeNos": 84385,
+    "adjustedOpeningPrice": 38.2,
+    "daysValueMn": 3.19,
+    "openingPrice": 38.8,
+    "marketCapMn": 34907.427,
+    "closingPrice": 37.6,
+    "freeFloatMarketCapMn": 6806.229
   },
   "basicInformation": {
     "authorizedCapitalMn": 150000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.71,
-        "peDiluted": null,
-        "peTrailing": 9.16
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.57,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.59,
         "peDiluted": null,
         "peTrailing": 8.93
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.52,
+        "peDiluted": null,
+        "peTrailing": 8.79
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01755 639 570",
     "telephoneNo": "02 2266 00934"
   },
-  "scrapedAt": "2026-09-12T19:44:25.903Z",
+  "scrapedAt": "2026-09-13T15:43:31.897Z",
   "shariaCompliant": false
 }

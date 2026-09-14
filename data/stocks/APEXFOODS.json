@@ -9,37 +9,37 @@
     "#": 31,
     "TRADING CODE": "APEXFOODS",
     "tradingCode": "APEXFOODS",
-    "LTP": 260.3,
-    "HIGH": 262.3,
-    "LOW": 257,
-    "CLOSEP": 259,
-    "YCP": 257.7,
-    "CHANGE": 2.6,
-    "TRADE": 191,
-    "VALUE (mn)": 2.936,
-    "VOLUME": 11315
+    "LTP": 250.5,
+    "HIGH": 264.9,
+    "LOW": 249.8,
+    "CLOSEP": 250.5,
+    "YCP": 259,
+    "CHANGE": -8.5,
+    "TRADE": 255,
+    "VALUE (mn)": 3.116,
+    "VOLUME": 12281
   },
   "marketInformation": {
-    "lastTradingPrice": 260.3,
+    "lastTradingPrice": 250.5,
     "daysRange": [
-      257,
-      262.3
+      249.8,
+      264.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       195,
       313.9
     ],
-    "change": 2.6,
-    "daysTradeNos": 191,
-    "yesterdaysClose": 257.7,
-    "daysVolumeNos": 11315,
-    "adjustedOpeningPrice": 257.7,
-    "daysValueMn": 2.94,
-    "openingPrice": 257,
-    "marketCapMn": 1469.508,
-    "closingPrice": 259,
-    "freeFloatMarketCapMn": 682.171
+    "change": -8.5,
+    "daysTradeNos": 255,
+    "yesterdaysClose": 259,
+    "daysVolumeNos": 12281,
+    "adjustedOpeningPrice": 259,
+    "daysValueMn": 3.12,
+    "openingPrice": 262.5,
+    "marketCapMn": 1476.922,
+    "closingPrice": 250.5,
+    "freeFloatMarketCapMn": 685.612
   },
   "basicInformation": {
     "authorizedCapitalMn": 150,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 45.88,
-        "peDiluted": null,
-        "peTrailing": 37.08
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 44.66,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 43.65,
         "peDiluted": null,
         "peTrailing": 35.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 42.22,
+        "peDiluted": null,
+        "peTrailing": 34.13
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 42.46,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 41.34,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 40.41,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 39.08,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01721007914",
     "telephoneNo": "09606669988 Ext-153"
   },
-  "scrapedAt": "2026-09-12T19:42:58.906Z",
+  "scrapedAt": "2026-09-13T15:41:59.321Z",
   "shariaCompliant": true
 }

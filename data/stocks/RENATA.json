@@ -9,37 +9,37 @@
     "#": 307,
     "TRADING CODE": "RENATA",
     "tradingCode": "RENATA",
-    "LTP": 459,
-    "HIGH": 461.9,
-    "LOW": 458.5,
-    "CLOSEP": 459,
-    "YCP": 461.2,
-    "CHANGE": -2.2,
-    "TRADE": 216,
-    "VALUE (mn)": 5.039,
-    "VOLUME": 10964
+    "LTP": 458.7,
+    "HIGH": 460,
+    "LOW": 457.6,
+    "CLOSEP": 458.7,
+    "YCP": 459,
+    "CHANGE": -0.3,
+    "TRADE": 262,
+    "VALUE (mn)": 8.765,
+    "VOLUME": 19132
   },
   "marketInformation": {
-    "lastTradingPrice": 459,
+    "lastTradingPrice": 458.7,
     "daysRange": [
-      458.5,
-      461.9
+      457.6,
+      460
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       372,
-      505.9
+      504.9
     ],
-    "change": -2.2,
-    "daysTradeNos": 216,
-    "yesterdaysClose": 461.2,
-    "daysVolumeNos": 10964,
-    "adjustedOpeningPrice": 461.2,
-    "daysValueMn": 5.04,
-    "openingPrice": 461.5,
-    "marketCapMn": 52898.021,
-    "closingPrice": 459,
-    "freeFloatMarketCapMn": 16559.074
+    "change": -0.3,
+    "daysTradeNos": 262,
+    "yesterdaysClose": 459,
+    "daysVolumeNos": 19132,
+    "adjustedOpeningPrice": 459,
+    "daysValueMn": 8.77,
+    "openingPrice": 459,
+    "marketCapMn": 52645.689,
+    "closingPrice": 458.7,
+    "freeFloatMarketCapMn": 16480.085
   },
   "basicInformation": {
     "authorizedCapitalMn": 2850,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 17.15,
-        "peDiluted": null,
-        "peTrailing": 19.59
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.05,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 16.88,
         "peDiluted": null,
         "peTrailing": 19.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 16.87,
+        "peDiluted": null,
+        "peTrailing": 19.27
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.09,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.95,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.69,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 256 611",
     "telephoneNo": "880-2-41002750-54, ext:201"
   },
-  "scrapedAt": "2026-09-12T19:44:40.773Z",
+  "scrapedAt": "2026-09-13T15:43:45.142Z",
   "shariaCompliant": false
 }

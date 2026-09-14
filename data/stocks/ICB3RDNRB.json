@@ -10,35 +10,35 @@
     "TRADING CODE": "ICB3RDNRB",
     "tradingCode": "ICB3RDNRB",
     "LTP": 5.8,
-    "HIGH": 5.8,
-    "LOW": 5.6,
-    "CLOSEP": 5.7,
-    "YCP": 5.5,
-    "CHANGE": 0.3,
-    "TRADE": 85,
-    "VALUE (mn)": 2.725,
-    "VOLUME": 477636
+    "HIGH": 6,
+    "LOW": 5.8,
+    "CLOSEP": 5.8,
+    "YCP": 5.7,
+    "CHANGE": 0.1,
+    "TRADE": 180,
+    "VALUE (mn)": 4.931,
+    "VOLUME": 840290
   },
   "marketInformation": {
     "lastTradingPrice": 5.8,
     "daysRange": [
-      5.6,
-      5.8
+      5.8,
+      6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.4,
       7.1
     ],
-    "change": 0.3,
-    "daysTradeNos": 85,
-    "yesterdaysClose": 5.5,
-    "daysVolumeNos": 477636,
-    "adjustedOpeningPrice": 5.5,
-    "daysValueMn": 2.73,
-    "openingPrice": 5.6,
-    "marketCapMn": 550,
-    "closingPrice": 5.7,
+    "change": 0.1,
+    "daysTradeNos": 180,
+    "yesterdaysClose": 5.7,
+    "daysVolumeNos": 840290,
+    "adjustedOpeningPrice": 5.7,
+    "daysValueMn": 4.93,
+    "openingPrice": 5.8,
+    "marketCapMn": 570,
+    "closingPrice": 5.8,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4,
-        "peDiluted": null,
-        "peTrailing": 4
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.86,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.07,
         "peDiluted": null,
         "peTrailing": 4.07
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.14,
+        "peDiluted": null,
+        "peTrailing": 4.14
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01970973654",
     "telephoneNo": "+88028300401"
   },
-  "scrapedAt": "2026-09-12T19:43:47.251Z",
+  "scrapedAt": "2026-09-13T15:42:48.884Z",
   "shariaCompliant": false
 }

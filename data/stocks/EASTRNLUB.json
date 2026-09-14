@@ -9,37 +9,37 @@
     "#": 111,
     "TRADING CODE": "EASTRNLUB",
     "tradingCode": "EASTRNLUB",
-    "LTP": 2057.9,
-    "HIGH": 2085,
-    "LOW": 2035,
-    "CLOSEP": 2057.9,
-    "YCP": 2032.9,
-    "CHANGE": 25,
-    "TRADE": 1494,
-    "VALUE (mn)": 28.924,
-    "VOLUME": 14001
+    "LTP": 2009,
+    "HIGH": 2069,
+    "LOW": 2002.2,
+    "CLOSEP": 2009,
+    "YCP": 2057.9,
+    "CHANGE": -48.9,
+    "TRADE": 1384,
+    "VALUE (mn)": 25.914,
+    "VOLUME": 12743
   },
   "marketInformation": {
-    "lastTradingPrice": 2057.9,
+    "lastTradingPrice": 2009,
     "daysRange": [
-      2035,
-      2085
+      2002.2,
+      2069
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1435,
       2790
     ],
-    "change": 25,
-    "daysTradeNos": 1494,
-    "yesterdaysClose": 2032.9,
-    "daysVolumeNos": 14001,
-    "adjustedOpeningPrice": 2032.9,
-    "daysValueMn": 28.92,
-    "openingPrice": 2035,
-    "marketCapMn": 4841.197,
-    "closingPrice": 2057.9,
-    "freeFloatMarketCapMn": 1643.752
+    "change": -48.9,
+    "daysTradeNos": 1384,
+    "yesterdaysClose": 2057.9,
+    "daysVolumeNos": 12743,
+    "adjustedOpeningPrice": 2057.9,
+    "daysValueMn": 25.91,
+    "openingPrice": 2069,
+    "marketCapMn": 4900.732,
+    "closingPrice": 2009,
+    "freeFloatMarketCapMn": 1663.966
   },
   "basicInformation": {
     "authorizedCapitalMn": 50,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 51.37,
-        "peDiluted": null,
-        "peTrailing": 42.74
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 54.05,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 53.89,
         "peDiluted": null,
         "peTrailing": 44.84
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 52.61,
+        "peDiluted": null,
+        "peTrailing": 43.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 45.42,
-        "peDiluted": 68.13
-      },
       {
         "date": "2026-09-06",
         "peBasic": 47.79,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 47.65,
         "peDiluted": 71.48
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 46.52,
+        "peDiluted": 69.78
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01777703400",
     "telephoneNo": "02333354235,02333364236,02333357237,02333357748-9"
   },
-  "scrapedAt": "2026-09-12T19:43:27.714Z",
+  "scrapedAt": "2026-09-13T15:42:28.859Z",
   "shariaCompliant": false
 }

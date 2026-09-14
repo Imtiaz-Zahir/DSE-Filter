@@ -9,37 +9,37 @@
     "#": 7,
     "TRADING CODE": "ACFL",
     "tradingCode": "ACFL",
-    "LTP": 22.5,
-    "HIGH": 23,
-    "LOW": 21.6,
-    "CLOSEP": 22.1,
-    "YCP": 22.3,
-    "CHANGE": 0.2,
-    "TRADE": 75,
-    "VALUE (mn)": 1.198,
-    "VOLUME": 53031
+    "LTP": 22.4,
+    "HIGH": 22.5,
+    "LOW": 21.7,
+    "CLOSEP": 22,
+    "YCP": 22.1,
+    "CHANGE": 0.3,
+    "TRADE": 88,
+    "VALUE (mn)": 1.826,
+    "VOLUME": 83787
   },
   "marketInformation": {
-    "lastTradingPrice": 22.5,
+    "lastTradingPrice": 22.4,
     "daysRange": [
-      21.6,
-      23
+      21.7,
+      22.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.5,
       25.7
     ],
-    "change": 0.2,
-    "daysTradeNos": 75,
-    "yesterdaysClose": 22.3,
-    "daysVolumeNos": 53031,
-    "adjustedOpeningPrice": 22.3,
-    "daysValueMn": 1.2,
-    "openingPrice": 22.7,
-    "marketCapMn": 2248.583,
-    "closingPrice": 22.1,
-    "freeFloatMarketCapMn": 785.703
+    "change": 0.3,
+    "daysTradeNos": 88,
+    "yesterdaysClose": 22.1,
+    "daysVolumeNos": 83787,
+    "adjustedOpeningPrice": 22.1,
+    "daysValueMn": 1.83,
+    "openingPrice": 22.3,
+    "marketCapMn": 2228.417,
+    "closingPrice": 22,
+    "freeFloatMarketCapMn": 778.657
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 249.64,
-        "peDiluted": null,
-        "peTrailing": 101.3
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 235.71,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 236.79,
         "peDiluted": null,
         "peTrailing": 96.09
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 235.71,
+        "peDiluted": null,
+        "peTrailing": 95.65
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 110.95,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 104.76,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 105.24,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 104.76,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01728-272596",
     "telephoneNo": "+8802-48961691-3; 09606-613000"
   },
-  "scrapedAt": "2026-09-12T19:42:47.159Z",
+  "scrapedAt": "2026-09-13T15:40:54.312Z",
   "shariaCompliant": true
 }

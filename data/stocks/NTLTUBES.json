@@ -9,37 +9,37 @@
     "#": 256,
     "TRADING CODE": "NTLTUBES",
     "tradingCode": "NTLTUBES",
-    "LTP": 62.8,
-    "HIGH": 63.6,
-    "LOW": 62.6,
-    "CLOSEP": 62.8,
-    "YCP": 63,
-    "CHANGE": -0.2,
-    "TRADE": 60,
-    "VALUE (mn)": 0.382,
-    "VOLUME": 6073
+    "LTP": 59.8,
+    "HIGH": 63.2,
+    "LOW": 59.3,
+    "CLOSEP": 59.8,
+    "YCP": 62.8,
+    "CHANGE": -3,
+    "TRADE": 294,
+    "VALUE (mn)": 3.918,
+    "VOLUME": 64676
   },
   "marketInformation": {
-    "lastTradingPrice": 62.8,
+    "lastTradingPrice": 59.8,
     "daysRange": [
-      62.6,
-      63.6
+      59.3,
+      63.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56,
-      84.8
+      83.7
     ],
-    "change": -0.2,
-    "daysTradeNos": 60,
-    "yesterdaysClose": 63,
-    "daysVolumeNos": 6073,
-    "adjustedOpeningPrice": 63,
-    "daysValueMn": 0.38,
-    "openingPrice": 63,
-    "marketCapMn": 2193.774,
-    "closingPrice": 62.8,
-    "freeFloatMarketCapMn": 1073.962
+    "change": -3,
+    "daysTradeNos": 294,
+    "yesterdaysClose": 62.8,
+    "daysVolumeNos": 64676,
+    "adjustedOpeningPrice": 62.8,
+    "daysValueMn": 3.92,
+    "openingPrice": 62.8,
+    "marketCapMn": 2186.809,
+    "closingPrice": 59.8,
+    "freeFloatMarketCapMn": 1070.552
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 38.02,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 37.03,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 36.51,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34.77,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01716639781",
     "telephoneNo": "02224412784"
   },
-  "scrapedAt": "2026-09-12T19:44:19.500Z",
+  "scrapedAt": "2026-09-13T15:43:26.654Z",
   "shariaCompliant": false
 }

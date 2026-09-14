@@ -9,37 +9,37 @@
     "#": 368,
     "TRADING CODE": "TILIL",
     "tradingCode": "TILIL",
-    "LTP": 45.6,
-    "HIGH": 47.1,
-    "LOW": 45.2,
-    "CLOSEP": 45.6,
-    "YCP": 46.6,
-    "CHANGE": -1,
-    "TRADE": 197,
-    "VALUE (mn)": 3.466,
-    "VOLUME": 75632
+    "LTP": 43.3,
+    "HIGH": 45.7,
+    "LOW": 43,
+    "CLOSEP": 43.3,
+    "YCP": 45.6,
+    "CHANGE": -2.3,
+    "TRADE": 347,
+    "VALUE (mn)": 5.287,
+    "VOLUME": 119944
   },
   "marketInformation": {
-    "lastTradingPrice": 45.6,
+    "lastTradingPrice": 43.3,
     "daysRange": [
-      45.2,
-      47.1
+      43,
+      45.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       34.3,
-      75.8
+      72.4
     ],
-    "change": -1,
-    "daysTradeNos": 197,
-    "yesterdaysClose": 46.6,
-    "daysVolumeNos": 75632,
-    "adjustedOpeningPrice": 46.6,
-    "daysValueMn": 3.47,
-    "openingPrice": 47.1,
-    "marketCapMn": 1864,
-    "closingPrice": 45.6,
-    "freeFloatMarketCapMn": 745.6
+    "change": -2.3,
+    "daysTradeNos": 347,
+    "yesterdaysClose": 45.6,
+    "daysVolumeNos": 119944,
+    "adjustedOpeningPrice": 45.6,
+    "daysValueMn": 5.29,
+    "openingPrice": 45.7,
+    "marketCapMn": 1824,
+    "closingPrice": 43.3,
+    "freeFloatMarketCapMn": 729.6
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -130,14 +124,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 236,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 227,
@@ -161,6 +156,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 228,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 216.5,
         "peDiluted": null
       }
     ]
@@ -241,6 +241,6 @@
     "cellNo": "01847129332",
     "telephoneNo": "+88 024-8313370"
   },
-  "scrapedAt": "2026-09-12T19:44:59.364Z",
+  "scrapedAt": "2026-09-13T15:44:12.305Z",
   "shariaCompliant": false
 }

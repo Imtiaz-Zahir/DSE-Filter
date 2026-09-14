@@ -11,18 +11,18 @@
     "tradingCode": "GSPFINANCE",
     "LTP": 3.5,
     "HIGH": 3.7,
-    "LOW": 3.5,
-    "CLOSEP": 3.5,
-    "YCP": 3.6,
-    "CHANGE": -0.1,
-    "TRADE": 52,
-    "VALUE (mn)": 0.253,
-    "VOLUME": 71573
+    "LOW": 3.3,
+    "CLOSEP": 3.4,
+    "YCP": 3.5,
+    "CHANGE": 0,
+    "TRADE": 75,
+    "VALUE (mn)": 0.971,
+    "VOLUME": 281365
   },
   "marketInformation": {
     "lastTradingPrice": 3.5,
     "daysRange": [
-      3.5,
+      3.3,
       3.7
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       1.1,
       6.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 52,
-    "yesterdaysClose": 3.6,
-    "daysVolumeNos": 71573,
-    "adjustedOpeningPrice": 3.6,
-    "daysValueMn": 0.25,
-    "openingPrice": 3.7,
-    "marketCapMn": 565.447,
-    "closingPrice": 3.5,
-    "freeFloatMarketCapMn": 387.324
+    "change": 0,
+    "daysTradeNos": 75,
+    "yesterdaysClose": 3.5,
+    "daysVolumeNos": 281365,
+    "adjustedOpeningPrice": 3.5,
+    "daysValueMn": 0.97,
+    "openingPrice": 3.5,
+    "marketCapMn": 549.74,
+    "closingPrice": 3.4,
+    "freeFloatMarketCapMn": 376.565
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801552344245",
     "telephoneNo": "88 02 223360506"
   },
-  "scrapedAt": "2026-09-12T19:43:44.378Z",
+  "scrapedAt": "2026-09-13T15:42:42.615Z",
   "shariaCompliant": false
 }

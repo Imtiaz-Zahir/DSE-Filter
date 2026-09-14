@@ -9,36 +9,36 @@
     "#": 293,
     "TRADING CODE": "PTL",
     "tradingCode": "PTL",
-    "LTP": 78.1,
-    "HIGH": 78.7,
-    "LOW": 76.7,
-    "CLOSEP": 78.1,
+    "LTP": 79,
+    "HIGH": 79.2,
+    "LOW": 77.9,
+    "CLOSEP": 79,
     "YCP": 78.1,
-    "CHANGE": 0,
-    "TRADE": 2015,
-    "VALUE (mn)": 160.114,
-    "VOLUME": 2060575
+    "CHANGE": 0.9,
+    "TRADE": 1966,
+    "VALUE (mn)": 166.678,
+    "VOLUME": 2118180
   },
   "marketInformation": {
-    "lastTradingPrice": 78.1,
+    "lastTradingPrice": 79,
     "daysRange": [
-      76.7,
-      78.7
+      77.9,
+      79.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39,
-      78.7
+      79.2
     ],
-    "change": 0,
-    "daysTradeNos": 2015,
+    "change": 0.9,
+    "daysTradeNos": 1966,
     "yesterdaysClose": 78.1,
-    "daysVolumeNos": 2060575,
+    "daysVolumeNos": 2118180,
     "adjustedOpeningPrice": 78.1,
-    "daysValueMn": 160.11,
-    "openingPrice": 78.3,
+    "daysValueMn": 166.68,
+    "openingPrice": 78.1,
     "marketCapMn": 13989.029,
-    "closingPrice": 78.1,
+    "closingPrice": 79,
     "freeFloatMarketCapMn": 5462.082
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 10.91,
-        "peDiluted": null,
-        "peTrailing": 11.69
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 10.97,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.4,
         "peDiluted": null,
         "peTrailing": 12.2
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.53,
+        "peDiluted": null,
+        "peTrailing": 12.34
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 11.54,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 11.6,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 12.05,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.19,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 236 107",
     "telephoneNo": "+880-2-55049834"
   },
-  "scrapedAt": "2026-09-12T19:44:32.609Z",
+  "scrapedAt": "2026-09-13T15:43:38.617Z",
   "shariaCompliant": false
 }

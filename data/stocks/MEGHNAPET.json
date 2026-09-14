@@ -9,37 +9,37 @@
     "#": 221,
     "TRADING CODE": "MEGHNAPET",
     "tradingCode": "MEGHNAPET",
-    "LTP": 61.9,
-    "HIGH": 66.7,
-    "LOW": 61.5,
-    "CLOSEP": 62.9,
-    "YCP": 64.5,
-    "CHANGE": -2.6,
-    "TRADE": 178,
-    "VALUE (mn)": 2.198,
-    "VOLUME": 34662
+    "LTP": 58.8,
+    "HIGH": 64.9,
+    "LOW": 58,
+    "CLOSEP": 58.8,
+    "YCP": 62.9,
+    "CHANGE": -4.1,
+    "TRADE": 347,
+    "VALUE (mn)": 1.614,
+    "VOLUME": 27244
   },
   "marketInformation": {
-    "lastTradingPrice": 61.9,
+    "lastTradingPrice": 58.8,
     "daysRange": [
-      61.5,
-      66.7
+      58,
+      64.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.3,
       101.9
     ],
-    "change": -2.6,
-    "daysTradeNos": 178,
-    "yesterdaysClose": 64.5,
-    "daysVolumeNos": 34662,
-    "adjustedOpeningPrice": 64.5,
-    "daysValueMn": 2.2,
-    "openingPrice": 63.2,
-    "marketCapMn": 774,
-    "closingPrice": 62.9,
-    "freeFloatMarketCapMn": 436.987
+    "change": -4.1,
+    "daysTradeNos": 347,
+    "yesterdaysClose": 62.9,
+    "daysVolumeNos": 27244,
+    "adjustedOpeningPrice": 62.9,
+    "daysValueMn": 1.61,
+    "openingPrice": 64.9,
+    "marketCapMn": 754.8,
+    "closingPrice": 58.8,
+    "freeFloatMarketCapMn": 426.147
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:06.373Z",
+  "scrapedAt": "2026-09-13T15:43:10.378Z",
   "shariaCompliant": false
 }

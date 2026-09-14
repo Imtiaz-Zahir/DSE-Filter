@@ -9,18 +9,18 @@
     "#": 328,
     "TRADING CODE": "SBACBANK",
     "tradingCode": "SBACBANK",
-    "LTP": 6.7,
+    "LTP": 6.6,
     "HIGH": 6.8,
     "LOW": 6.6,
-    "CLOSEP": 6.7,
+    "CLOSEP": 6.6,
     "YCP": 6.7,
-    "CHANGE": 0,
-    "TRADE": 21,
-    "VALUE (mn)": 0.026,
-    "VOLUME": 3821
+    "CHANGE": -0.1,
+    "TRADE": 46,
+    "VALUE (mn)": 0.318,
+    "VOLUME": 47990
   },
   "marketInformation": {
-    "lastTradingPrice": 6.7,
+    "lastTradingPrice": 6.6,
     "daysRange": [
       6.6,
       6.8
@@ -30,15 +30,15 @@
       5,
       8.1
     ],
-    "change": 0,
-    "daysTradeNos": 21,
+    "change": -0.1,
+    "daysTradeNos": 46,
     "yesterdaysClose": 6.7,
-    "daysVolumeNos": 3821,
+    "daysVolumeNos": 47990,
     "adjustedOpeningPrice": 6.7,
-    "daysValueMn": 0.03,
+    "daysValueMn": 0.32,
     "openingPrice": 6.6,
     "marketCapMn": 5522.084,
-    "closingPrice": 6.7,
+    "closingPrice": 6.6,
     "freeFloatMarketCapMn": 788.274
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.71,
-        "peDiluted": null,
-        "peTrailing": 167.5
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.41,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 19.71,
         "peDiluted": null,
         "peTrailing": 167.5
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.41,
+        "peDiluted": null,
+        "peTrailing": 165
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 670,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 660,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 670,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 660,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+8801911401251",
     "telephoneNo": "+8802 223357201-12, Ext-205."
   },
-  "scrapedAt": "2026-09-12T19:44:46.494Z",
+  "scrapedAt": "2026-09-13T15:43:56.396Z",
   "shariaCompliant": false
 }

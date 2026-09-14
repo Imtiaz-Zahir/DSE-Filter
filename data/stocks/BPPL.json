@@ -9,21 +9,21 @@
     "#": 70,
     "TRADING CODE": "BPPL",
     "tradingCode": "BPPL",
-    "LTP": 19.2,
-    "HIGH": 19.9,
-    "LOW": 18.9,
-    "CLOSEP": 19.2,
-    "YCP": 19.7,
+    "LTP": 18.7,
+    "HIGH": 19.4,
+    "LOW": 18.6,
+    "CLOSEP": 18.7,
+    "YCP": 19.2,
     "CHANGE": -0.5,
-    "TRADE": 478,
-    "VALUE (mn)": 13.536,
-    "VOLUME": 697505
+    "TRADE": 544,
+    "VALUE (mn)": 14.789,
+    "VOLUME": 785996
   },
   "marketInformation": {
-    "lastTradingPrice": 19.2,
+    "lastTradingPrice": 18.7,
     "daysRange": [
-      18.9,
-      19.9
+      18.6,
+      19.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       22.4
     ],
     "change": -0.5,
-    "daysTradeNos": 478,
-    "yesterdaysClose": 19.7,
-    "daysVolumeNos": 697505,
-    "adjustedOpeningPrice": 19.7,
-    "daysValueMn": 13.54,
-    "openingPrice": 19.9,
-    "marketCapMn": 3408.011,
-    "closingPrice": 19.2,
-    "freeFloatMarketCapMn": 2189.463
+    "daysTradeNos": 544,
+    "yesterdaysClose": 19.2,
+    "daysVolumeNos": 785996,
+    "adjustedOpeningPrice": 19.2,
+    "daysValueMn": 14.79,
+    "openingPrice": 19.3,
+    "marketCapMn": 3321.513,
+    "closingPrice": 18.7,
+    "freeFloatMarketCapMn": 2133.893
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.32,
-        "peDiluted": null,
-        "peTrailing": 5.82
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.03,
         "peDiluted": null,
         "peTrailing": 5.5
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.9,
+        "peDiluted": null,
+        "peTrailing": 5.36
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.82,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.38,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.01,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.65,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01531 548 499",
     "telephoneNo": "+88-02-223380339, 47115792 (Ext. 115)"
   },
-  "scrapedAt": "2026-09-12T19:43:14.131Z",
+  "scrapedAt": "2026-09-13T15:42:12.380Z",
   "shariaCompliant": false
 }

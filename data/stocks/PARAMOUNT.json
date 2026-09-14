@@ -9,37 +9,37 @@
     "#": 266,
     "TRADING CODE": "PARAMOUNT",
     "tradingCode": "PARAMOUNT",
-    "LTP": 57.6,
-    "HIGH": 59.5,
-    "LOW": 57.5,
-    "CLOSEP": 57.6,
-    "YCP": 58.4,
-    "CHANGE": -0.8,
-    "TRADE": 470,
-    "VALUE (mn)": 10.13,
-    "VOLUME": 173005
+    "LTP": 55.2,
+    "HIGH": 58,
+    "LOW": 54.9,
+    "CLOSEP": 55.2,
+    "YCP": 57.6,
+    "CHANGE": -2.4,
+    "TRADE": 471,
+    "VALUE (mn)": 13.982,
+    "VOLUME": 248676
   },
   "marketInformation": {
-    "lastTradingPrice": 57.6,
+    "lastTradingPrice": 55.2,
     "daysRange": [
-      57.5,
-      59.5
+      54.9,
+      58
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.2,
       71.8
     ],
-    "change": -0.8,
-    "daysTradeNos": 470,
-    "yesterdaysClose": 58.4,
-    "daysVolumeNos": 173005,
-    "adjustedOpeningPrice": 58.4,
-    "daysValueMn": 10.13,
-    "openingPrice": 58.6,
-    "marketCapMn": 2374.834,
-    "closingPrice": 57.6,
-    "freeFloatMarketCapMn": 1223.408
+    "change": -2.4,
+    "daysTradeNos": 471,
+    "yesterdaysClose": 57.6,
+    "daysVolumeNos": 248676,
+    "adjustedOpeningPrice": 57.6,
+    "daysValueMn": 13.98,
+    "openingPrice": 58,
+    "marketCapMn": 2342.302,
+    "closingPrice": 55.2,
+    "freeFloatMarketCapMn": 1206.649
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.09,
-        "peDiluted": null,
-        "peTrailing": 22.04
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 13.36,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 13.15,
         "peDiluted": null,
         "peTrailing": 20.57
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.6,
+        "peDiluted": null,
+        "peTrailing": 19.71
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.17,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 26.71,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.21,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01712925205",
     "telephoneNo": "02-55049825"
   },
-  "scrapedAt": "2026-09-12T19:44:22.714Z",
+  "scrapedAt": "2026-09-13T15:43:28.771Z",
   "shariaCompliant": false
 }

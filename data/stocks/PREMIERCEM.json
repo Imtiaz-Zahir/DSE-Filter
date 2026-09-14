@@ -9,37 +9,37 @@
     "#": 283,
     "TRADING CODE": "PREMIERCEM",
     "tradingCode": "PREMIERCEM",
-    "LTP": 43.3,
-    "HIGH": 44.4,
-    "LOW": 43.1,
-    "CLOSEP": 43.3,
-    "YCP": 43.9,
-    "CHANGE": -0.6,
-    "TRADE": 328,
-    "VALUE (mn)": 6.965,
-    "VOLUME": 158988
+    "LTP": 41.8,
+    "HIGH": 43.5,
+    "LOW": 41.6,
+    "CLOSEP": 41.8,
+    "YCP": 43.3,
+    "CHANGE": -1.5,
+    "TRADE": 375,
+    "VALUE (mn)": 8.255,
+    "VOLUME": 195472
   },
   "marketInformation": {
-    "lastTradingPrice": 43.3,
+    "lastTradingPrice": 41.8,
     "daysRange": [
-      43.1,
-      44.4
+      41.6,
+      43.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       34.9,
       56
     ],
-    "change": -0.6,
-    "daysTradeNos": 328,
-    "yesterdaysClose": 43.9,
-    "daysVolumeNos": 158988,
-    "adjustedOpeningPrice": 43.9,
-    "daysValueMn": 6.97,
-    "openingPrice": 44,
-    "marketCapMn": 4629.255,
-    "closingPrice": 43.3,
-    "freeFloatMarketCapMn": 2963.156
+    "change": -1.5,
+    "daysTradeNos": 375,
+    "yesterdaysClose": 43.3,
+    "daysVolumeNos": 195472,
+    "adjustedOpeningPrice": 43.3,
+    "daysValueMn": 8.26,
+    "openingPrice": 43.3,
+    "marketCapMn": 4565.985,
+    "closingPrice": 41.8,
+    "freeFloatMarketCapMn": 2922.657
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 17.64,
-        "peDiluted": null,
-        "peTrailing": 17.93
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.66,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 16.32,
         "peDiluted": null,
         "peTrailing": 16.59
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.75,
+        "peDiluted": null,
+        "peTrailing": 16.02
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 36.28,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 34.26,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 33.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 32.4,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01714 003 195",
     "telephoneNo": "880255012191-8"
   },
-  "scrapedAt": "2026-09-12T19:44:30.843Z",
+  "scrapedAt": "2026-09-13T15:43:33.877Z",
   "shariaCompliant": true
 }

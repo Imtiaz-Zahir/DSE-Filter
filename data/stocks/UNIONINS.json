@@ -9,37 +9,37 @@
     "#": 378,
     "TRADING CODE": "UNIONINS",
     "tradingCode": "UNIONINS",
-    "LTP": 48.4,
-    "HIGH": 49.7,
-    "LOW": 48,
-    "CLOSEP": 48.4,
-    "YCP": 48.9,
-    "CHANGE": -0.5,
-    "TRADE": 262,
-    "VALUE (mn)": 5.616,
-    "VOLUME": 115435
+    "LTP": 47,
+    "HIGH": 48.9,
+    "LOW": 46,
+    "CLOSEP": 47,
+    "YCP": 48.4,
+    "CHANGE": -1.4,
+    "TRADE": 415,
+    "VALUE (mn)": 7.716,
+    "VOLUME": 164564
   },
   "marketInformation": {
-    "lastTradingPrice": 48.4,
+    "lastTradingPrice": 47,
     "daysRange": [
-      48,
-      49.7
+      46,
+      48.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27,
       57
     ],
-    "change": -0.5,
-    "daysTradeNos": 262,
-    "yesterdaysClose": 48.9,
-    "daysVolumeNos": 115435,
-    "adjustedOpeningPrice": 48.9,
-    "daysValueMn": 5.62,
-    "openingPrice": 49.2,
-    "marketCapMn": 2366.871,
-    "closingPrice": 48.4,
-    "freeFloatMarketCapMn": 572.521
+    "change": -1.4,
+    "daysTradeNos": 415,
+    "yesterdaysClose": 48.4,
+    "daysVolumeNos": 164564,
+    "adjustedOpeningPrice": 48.4,
+    "daysValueMn": 7.72,
+    "openingPrice": 48.9,
+    "marketCapMn": 2342.669,
+    "closingPrice": 47,
+    "freeFloatMarketCapMn": 566.667
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.49,
-        "peDiluted": null,
-        "peTrailing": 25.33
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.96,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.67,
         "peDiluted": null,
         "peTrailing": 24.32
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.11,
+        "peDiluted": null,
+        "peTrailing": 23.62
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26.53,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.84,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.74,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01819491657",
     "telephoneNo": "02-55112904"
   },
-  "scrapedAt": "2026-09-12T19:45:02.886Z",
+  "scrapedAt": "2026-09-13T15:44:15.553Z",
   "shariaCompliant": false
 }

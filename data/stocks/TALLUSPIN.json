@@ -9,37 +9,37 @@
     "#": 365,
     "TRADING CODE": "TALLUSPIN",
     "tradingCode": "TALLUSPIN",
-    "LTP": 7.5,
-    "HIGH": 7.6,
-    "LOW": 7.3,
-    "CLOSEP": 7.3,
-    "YCP": 7.5,
-    "CHANGE": 0,
-    "TRADE": 60,
-    "VALUE (mn)": 0.292,
-    "VOLUME": 39620
+    "LTP": 6.9,
+    "HIGH": 7.4,
+    "LOW": 6.8,
+    "CLOSEP": 6.9,
+    "YCP": 7.3,
+    "CHANGE": -0.4,
+    "TRADE": 181,
+    "VALUE (mn)": 2.099,
+    "VOLUME": 300845
   },
   "marketInformation": {
-    "lastTradingPrice": 7.5,
+    "lastTradingPrice": 6.9,
     "daysRange": [
-      7.3,
-      7.6
+      6.8,
+      7.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.3,
       9.2
     ],
-    "change": 0,
-    "daysTradeNos": 60,
-    "yesterdaysClose": 7.5,
-    "daysVolumeNos": 39620,
-    "adjustedOpeningPrice": 7.5,
-    "daysValueMn": 0.29,
-    "openingPrice": 7.5,
-    "marketCapMn": 670.015,
-    "closingPrice": 7.3,
-    "freeFloatMarketCapMn": 427.098
+    "change": -0.4,
+    "daysTradeNos": 181,
+    "yesterdaysClose": 7.3,
+    "daysVolumeNos": 300845,
+    "adjustedOpeningPrice": 7.3,
+    "daysValueMn": 2.1,
+    "openingPrice": 7.4,
+    "marketCapMn": 652.148,
+    "closingPrice": 6.9,
+    "freeFloatMarketCapMn": 415.709
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01999 055 485",
     "telephoneNo": "88-02-222262803, 88-02-222260264, 88-02-222260458"
   },
-  "scrapedAt": "2026-09-12T19:44:57.267Z",
+  "scrapedAt": "2026-09-13T15:44:09.770Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 280,
     "TRADING CODE": "PRAGATIINS",
     "tradingCode": "PRAGATIINS",
-    "LTP": 72.4,
-    "HIGH": 74.5,
-    "LOW": 72.3,
-    "CLOSEP": 72.4,
-    "YCP": 73.2,
-    "CHANGE": -0.8,
-    "TRADE": 355,
-    "VALUE (mn)": 8.928,
-    "VOLUME": 122040
+    "LTP": 70.3,
+    "HIGH": 74.4,
+    "LOW": 70.2,
+    "CLOSEP": 70.3,
+    "YCP": 72.4,
+    "CHANGE": -2.1,
+    "TRADE": 318,
+    "VALUE (mn)": 8.993,
+    "VOLUME": 126343
   },
   "marketInformation": {
-    "lastTradingPrice": 72.4,
+    "lastTradingPrice": 70.3,
     "daysRange": [
-      72.3,
-      74.5
+      70.2,
+      74.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       53.2,
       88.9
     ],
-    "change": -0.8,
-    "daysTradeNos": 355,
-    "yesterdaysClose": 73.2,
-    "daysVolumeNos": 122040,
-    "adjustedOpeningPrice": 73.2,
-    "daysValueMn": 8.93,
-    "openingPrice": 72.8,
-    "marketCapMn": 5944.906,
-    "closingPrice": 72.4,
-    "freeFloatMarketCapMn": 3756.836
+    "change": -2.1,
+    "daysTradeNos": 318,
+    "yesterdaysClose": 72.4,
+    "daysVolumeNos": 126343,
+    "adjustedOpeningPrice": 72.4,
+    "daysValueMn": 8.99,
+    "openingPrice": 72.4,
+    "marketCapMn": 5879.934,
+    "closingPrice": 70.3,
+    "freeFloatMarketCapMn": 3715.777
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 12.27,
-        "peDiluted": null,
-        "peTrailing": 12.53
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.95,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.64,
         "peDiluted": null,
         "peTrailing": 11.89
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.3,
+        "peDiluted": null,
+        "peTrailing": 11.54
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.37,
-        "peDiluted": 14.79
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.99,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 13.63,
         "peDiluted": 14.03
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.24,
+        "peDiluted": 13.62
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "01766-535422",
     "telephoneNo": "+88-02-55012680-2(PABX), Ext. -122"
   },
-  "scrapedAt": "2026-09-12T19:44:26.017Z",
+  "scrapedAt": "2026-09-13T15:43:32.607Z",
   "shariaCompliant": false
 }

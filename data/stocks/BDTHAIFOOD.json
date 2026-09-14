@@ -9,37 +9,37 @@
     "#": 58,
     "TRADING CODE": "BDTHAIFOOD",
     "tradingCode": "BDTHAIFOOD",
-    "LTP": 25.1,
-    "HIGH": 25.7,
-    "LOW": 24.9,
-    "CLOSEP": 25.1,
-    "YCP": 25.2,
-    "CHANGE": -0.1,
-    "TRADE": 1481,
-    "VALUE (mn)": 63.228,
-    "VOLUME": 2493110
+    "LTP": 24.4,
+    "HIGH": 25.1,
+    "LOW": 24,
+    "CLOSEP": 24.4,
+    "YCP": 25.1,
+    "CHANGE": -0.7,
+    "TRADE": 911,
+    "VALUE (mn)": 46.793,
+    "VOLUME": 1903199
   },
   "marketInformation": {
-    "lastTradingPrice": 25.1,
+    "lastTradingPrice": 24.4,
     "daysRange": [
-      24.9,
-      25.7
+      24,
+      25.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       31.5
     ],
-    "change": -0.1,
-    "daysTradeNos": 1481,
-    "yesterdaysClose": 25.2,
-    "daysVolumeNos": 2493110,
-    "adjustedOpeningPrice": 25.2,
-    "daysValueMn": 63.23,
-    "openingPrice": 25.2,
-    "marketCapMn": 2053.8,
-    "closingPrice": 25.1,
-    "freeFloatMarketCapMn": 1094.94
+    "change": -0.7,
+    "daysTradeNos": 911,
+    "yesterdaysClose": 25.1,
+    "daysVolumeNos": 1903199,
+    "adjustedOpeningPrice": 25.1,
+    "daysValueMn": 46.79,
+    "openingPrice": 25,
+    "marketCapMn": 2045.65,
+    "closingPrice": 24.4,
+    "freeFloatMarketCapMn": 1090.595
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713155102",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:08.863Z",
+  "scrapedAt": "2026-09-13T15:42:08.728Z",
   "shariaCompliant": true
 }

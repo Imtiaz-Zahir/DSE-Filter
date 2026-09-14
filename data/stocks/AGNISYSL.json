@@ -9,37 +9,37 @@
     "#": 17,
     "TRADING CODE": "AGNISYSL",
     "tradingCode": "AGNISYSL",
-    "LTP": 29.3,
-    "HIGH": 30.4,
-    "LOW": 29.2,
-    "CLOSEP": 29.3,
-    "YCP": 30,
-    "CHANGE": -0.7,
-    "TRADE": 424,
-    "VALUE (mn)": 11.596,
-    "VOLUME": 390398
+    "LTP": 28.3,
+    "HIGH": 29.7,
+    "LOW": 28.2,
+    "CLOSEP": 28.3,
+    "YCP": 29.3,
+    "CHANGE": -1,
+    "TRADE": 431,
+    "VALUE (mn)": 10.565,
+    "VOLUME": 369799
   },
   "marketInformation": {
-    "lastTradingPrice": 29.3,
+    "lastTradingPrice": 28.3,
     "daysRange": [
-      29.2,
-      30.4
+      28.2,
+      29.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.1,
       35.9
     ],
-    "change": -0.7,
-    "daysTradeNos": 424,
-    "yesterdaysClose": 30,
-    "daysVolumeNos": 390398,
-    "adjustedOpeningPrice": 30,
-    "daysValueMn": 11.6,
-    "openingPrice": 29.9,
-    "marketCapMn": 2176.686,
-    "closingPrice": 29.3,
-    "freeFloatMarketCapMn": 1523.035
+    "change": -1,
+    "daysTradeNos": 431,
+    "yesterdaysClose": 29.3,
+    "daysVolumeNos": 369799,
+    "adjustedOpeningPrice": 29.3,
+    "daysValueMn": 10.57,
+    "openingPrice": 29.7,
+    "marketCapMn": 2125.896,
+    "closingPrice": 28.3,
+    "freeFloatMarketCapMn": 1487.497
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 27.8,
-        "peDiluted": null,
-        "peTrailing": 55.27
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.53,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.8,
         "peDiluted": null,
         "peTrailing": 53.27
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.88,
+        "peDiluted": null,
+        "peTrailing": 51.45
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 37.53,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 37.16,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 36.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34.94,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "01841739966, 01615862332",
     "telephoneNo": "09606100109"
   },
-  "scrapedAt": "2026-09-12T19:42:52.330Z",
+  "scrapedAt": "2026-09-13T15:41:54.960Z",
   "shariaCompliant": true
 }

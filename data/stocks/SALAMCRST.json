@@ -9,36 +9,36 @@
     "#": 321,
     "TRADING CODE": "SALAMCRST",
     "tradingCode": "SALAMCRST",
-    "LTP": 11.5,
-    "HIGH": 11.8,
-    "LOW": 11.4,
-    "CLOSEP": 11.5,
+    "LTP": 11.1,
+    "HIGH": 11.5,
+    "LOW": 11,
+    "CLOSEP": 11.1,
     "YCP": 11.5,
-    "CHANGE": 0,
-    "TRADE": 139,
-    "VALUE (mn)": 1.468,
-    "VOLUME": 126525
+    "CHANGE": -0.4,
+    "TRADE": 151,
+    "VALUE (mn)": 1.53,
+    "VOLUME": 137458
   },
   "marketInformation": {
-    "lastTradingPrice": 11.5,
+    "lastTradingPrice": 11.1,
     "daysRange": [
-      11.4,
-      11.8
+      11,
+      11.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.6,
       25.6
     ],
-    "change": 0,
-    "daysTradeNos": 139,
+    "change": -0.4,
+    "daysTradeNos": 151,
     "yesterdaysClose": 11.5,
-    "daysVolumeNos": 126525,
+    "daysVolumeNos": 137458,
     "adjustedOpeningPrice": 11.5,
-    "daysValueMn": 1.47,
-    "openingPrice": 11.7,
+    "daysValueMn": 1.53,
+    "openingPrice": 11.5,
     "marketCapMn": 1131.268,
-    "closingPrice": 11.5,
+    "closingPrice": 11.1,
     "freeFloatMarketCapMn": 490.655
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.95,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.88,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 30.8,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.73,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.1,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.29,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.65,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01710 535089",
     "telephoneNo": "88-031-611195, 611426, 638258, Ext-507, 505"
   },
-  "scrapedAt": "2026-09-12T19:44:45.718Z",
+  "scrapedAt": "2026-09-13T15:43:55.338Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 129,
     "TRADING CODE": "FAREASTLIF",
     "tradingCode": "FAREASTLIF",
-    "LTP": 18.9,
-    "HIGH": 19.3,
-    "LOW": 18.6,
-    "CLOSEP": 18.9,
-    "YCP": 19.1,
-    "CHANGE": -0.2,
-    "TRADE": 17,
-    "VALUE (mn)": 0.032,
-    "VOLUME": 1679
+    "LTP": 17.7,
+    "HIGH": 19,
+    "LOW": 17.7,
+    "CLOSEP": 18,
+    "YCP": 18.9,
+    "CHANGE": -1.2,
+    "TRADE": 74,
+    "VALUE (mn)": 0.707,
+    "VOLUME": 38809
   },
   "marketInformation": {
-    "lastTradingPrice": 18.9,
+    "lastTradingPrice": 17.7,
     "daysRange": [
-      18.6,
-      19.3
+      17.7,
+      19
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.4,
-      30.8
+      29.9
     ],
-    "change": -0.2,
-    "daysTradeNos": 17,
-    "yesterdaysClose": 19.1,
-    "daysVolumeNos": 1679,
-    "adjustedOpeningPrice": 19.1,
-    "daysValueMn": 0.03,
-    "openingPrice": 18.6,
-    "marketCapMn": 1427.587,
-    "closingPrice": 18.9,
-    "freeFloatMarketCapMn": 1161.731
+    "change": -1.2,
+    "daysTradeNos": 74,
+    "yesterdaysClose": 18.9,
+    "daysVolumeNos": 38809,
+    "adjustedOpeningPrice": 18.9,
+    "daysValueMn": 0.71,
+    "openingPrice": 19,
+    "marketCapMn": 1412.638,
+    "closingPrice": 18,
+    "freeFloatMarketCapMn": 1149.566
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01730113653",
     "telephoneNo": "9613000123 Ext. 1014"
   },
-  "scrapedAt": "2026-09-12T19:43:32.934Z",
+  "scrapedAt": "2026-09-13T15:42:33.623Z",
   "shariaCompliant": true
 }

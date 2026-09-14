@@ -9,43 +9,43 @@
     "#": 210,
     "TRADING CODE": "LRGLOBMF1",
     "tradingCode": "LRGLOBMF1",
-    "LTP": 4.4,
-    "HIGH": 4.4,
+    "LTP": 4.3,
+    "HIGH": 4.6,
     "LOW": 4.2,
-    "CLOSEP": 4.4,
-    "YCP": 4.2,
-    "CHANGE": 0.2,
-    "TRADE": 174,
-    "VALUE (mn)": 2.726,
-    "VOLUME": 631975
+    "CLOSEP": 4.3,
+    "YCP": 4.4,
+    "CHANGE": -0.1,
+    "TRADE": 170,
+    "VALUE (mn)": 3.658,
+    "VOLUME": 829802
   },
   "marketInformation": {
-    "lastTradingPrice": null,
+    "lastTradingPrice": 4.3,
     "daysRange": [
-      null,
-      null
+      4.2,
+      4.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.3,
       5.3
     ],
-    "change": null,
-    "daysTradeNos": null,
-    "yesterdaysClose": null,
-    "daysVolumeNos": null,
-    "adjustedOpeningPrice": null,
-    "daysValueMn": null,
-    "openingPrice": null,
-    "marketCapMn": 0,
-    "closingPrice": null,
+    "change": -0.1,
+    "daysTradeNos": 170,
+    "yesterdaysClose": 4.4,
+    "daysVolumeNos": 829802,
+    "adjustedOpeningPrice": 4.4,
+    "daysValueMn": 3.66,
+    "openingPrice": 4.5,
+    "marketCapMn": 1368.753,
+    "closingPrice": 4.3,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": null,
     "debutTradingDate": null,
     "paidUpCapitalMn": 3110.8,
-    "typeOfInstrument": "Unknown",
+    "typeOfInstrument": "Mutual Funds",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 311080332,
@@ -53,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2011,
-    "marketCategory": "-",
+    "marketCategory": "A",
     "electronicShare": true,
     "cashDividend": "3% 2023, 6% 2022, 15.10% 2021, 4% 2019, 5.5% 2018, 7.8% 2017, 5% 2016, 10% 2015",
     "bonusIssue": "4%RIU 2013",
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.83,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.48,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 15.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.83,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:01.610Z",
+  "scrapedAt": "2026-09-13T15:43:06.515Z",
   "shariaCompliant": false
 }

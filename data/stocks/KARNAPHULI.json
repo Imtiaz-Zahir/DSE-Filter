@@ -9,37 +9,37 @@
     "#": 194,
     "TRADING CODE": "KARNAPHULI",
     "tradingCode": "KARNAPHULI",
-    "LTP": 55.4,
-    "HIGH": 57,
-    "LOW": 55.2,
-    "CLOSEP": 55.4,
-    "YCP": 56.1,
-    "CHANGE": -0.7,
-    "TRADE": 809,
-    "VALUE (mn)": 36.03,
-    "VOLUME": 644868
+    "LTP": 53.5,
+    "HIGH": 55.8,
+    "LOW": 53,
+    "CLOSEP": 53.5,
+    "YCP": 55.4,
+    "CHANGE": -1.9,
+    "TRADE": 777,
+    "VALUE (mn)": 29.143,
+    "VOLUME": 538724
   },
   "marketInformation": {
-    "lastTradingPrice": 55.4,
+    "lastTradingPrice": 53.5,
     "daysRange": [
-      55.2,
-      57
+      53,
+      55.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       24.8,
       61
     ],
-    "change": -0.7,
-    "daysTradeNos": 809,
-    "yesterdaysClose": 56.1,
-    "daysVolumeNos": 644868,
-    "adjustedOpeningPrice": 56.1,
-    "daysValueMn": 36.03,
-    "openingPrice": 57,
-    "marketCapMn": 2517.55,
-    "closingPrice": 55.4,
-    "freeFloatMarketCapMn": 1693.291
+    "change": -1.9,
+    "daysTradeNos": 777,
+    "yesterdaysClose": 55.4,
+    "daysVolumeNos": 538724,
+    "adjustedOpeningPrice": 55.4,
+    "daysValueMn": 29.14,
+    "openingPrice": 55.8,
+    "marketCapMn": 2486.137,
+    "closingPrice": 53.5,
+    "freeFloatMarketCapMn": 1672.162
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.66,
-        "peDiluted": null,
-        "peTrailing": 24.19
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.79,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.24,
         "peDiluted": null,
         "peTrailing": 22.52
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.58,
+        "peDiluted": null,
+        "peTrailing": 21.75
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 27.93,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 26.76,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.01,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.12,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01911 263 981",
     "telephoneNo": "+88 02 23384808-9 Ext-109"
   },
-  "scrapedAt": "2026-09-12T19:43:55.473Z",
+  "scrapedAt": "2026-09-13T15:42:57.969Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 138,
     "TRADING CODE": "FUWANGCER",
     "tradingCode": "FUWANGCER",
-    "LTP": 13.5,
-    "HIGH": 13.8,
-    "LOW": 13.4,
-    "CLOSEP": 13.5,
-    "YCP": 13.6,
-    "CHANGE": -0.1,
-    "TRADE": 236,
-    "VALUE (mn)": 4.565,
-    "VOLUME": 337284
+    "LTP": 12.5,
+    "HIGH": 13.5,
+    "LOW": 12.2,
+    "CLOSEP": 12.5,
+    "YCP": 13.5,
+    "CHANGE": -1,
+    "TRADE": 551,
+    "VALUE (mn)": 9.632,
+    "VOLUME": 746106
   },
   "marketInformation": {
-    "lastTradingPrice": 13.5,
+    "lastTradingPrice": 12.5,
     "daysRange": [
-      13.4,
-      13.8
+      12.2,
+      13.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.8,
       17.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 236,
-    "yesterdaysClose": 13.6,
-    "daysVolumeNos": 337284,
-    "adjustedOpeningPrice": 13.6,
-    "daysValueMn": 4.57,
-    "openingPrice": 13.7,
-    "marketCapMn": 1853.26,
-    "closingPrice": 13.5,
-    "freeFloatMarketCapMn": 1297.339
+    "change": -1,
+    "daysTradeNos": 551,
+    "yesterdaysClose": 13.5,
+    "daysVolumeNos": 746106,
+    "adjustedOpeningPrice": 13.5,
+    "daysValueMn": 9.63,
+    "openingPrice": 13.5,
+    "marketCapMn": 1839.633,
+    "closingPrice": 12.5,
+    "freeFloatMarketCapMn": 1287.799
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1095,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1050,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1012.5,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 937.5,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 132.73,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 127.27,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 122.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 113.64,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01989196096",
     "telephoneNo": "02 41080135, 02 41080136"
   },
-  "scrapedAt": "2026-09-12T19:43:34.817Z",
+  "scrapedAt": "2026-09-13T15:42:35.910Z",
   "shariaCompliant": false
 }

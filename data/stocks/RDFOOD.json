@@ -9,37 +9,37 @@
     "#": 302,
     "TRADING CODE": "RDFOOD",
     "tradingCode": "RDFOOD",
-    "LTP": 23.9,
-    "HIGH": 24.3,
-    "LOW": 23.7,
-    "CLOSEP": 23.9,
-    "YCP": 24,
-    "CHANGE": -0.1,
-    "TRADE": 276,
-    "VALUE (mn)": 5.119,
-    "VOLUME": 213844
+    "LTP": 22.5,
+    "HIGH": 24,
+    "LOW": 22.2,
+    "CLOSEP": 22.5,
+    "YCP": 23.9,
+    "CHANGE": -1.4,
+    "TRADE": 475,
+    "VALUE (mn)": 9.377,
+    "VOLUME": 408082
   },
   "marketInformation": {
-    "lastTradingPrice": 23.9,
+    "lastTradingPrice": 22.5,
     "daysRange": [
-      23.7,
-      24.3
+      22.2,
+      24
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15,
       34.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 276,
-    "yesterdaysClose": 24,
-    "daysVolumeNos": 213844,
-    "adjustedOpeningPrice": 24,
-    "daysValueMn": 5.12,
-    "openingPrice": 24,
-    "marketCapMn": 1823.375,
-    "closingPrice": 23.9,
-    "freeFloatMarketCapMn": 1213.946
+    "change": -1.4,
+    "daysTradeNos": 475,
+    "yesterdaysClose": 23.9,
+    "daysVolumeNos": 408082,
+    "adjustedOpeningPrice": 23.9,
+    "daysValueMn": 9.38,
+    "openingPrice": 23.8,
+    "marketCapMn": 1815.778,
+    "closingPrice": 22.5,
+    "freeFloatMarketCapMn": 1208.888
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 35.48,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 34.47,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 34.47,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 32.45,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 40.33,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 39.18,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 39.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 36.89,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01978 090802",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:37.724Z",
+  "scrapedAt": "2026-09-13T15:43:44.467Z",
   "shariaCompliant": true
 }

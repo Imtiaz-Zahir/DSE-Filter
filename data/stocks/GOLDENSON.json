@@ -9,36 +9,36 @@
     "#": 149,
     "TRADING CODE": "GOLDENSON",
     "tradingCode": "GOLDENSON",
-    "LTP": 12.9,
-    "HIGH": 13.2,
-    "LOW": 12.8,
-    "CLOSEP": 12.9,
+    "LTP": 11.9,
+    "HIGH": 13,
+    "LOW": 11.8,
+    "CLOSEP": 11.9,
     "YCP": 12.9,
-    "CHANGE": 0,
-    "TRADE": 213,
-    "VALUE (mn)": 3.836,
-    "VOLUME": 296258
+    "CHANGE": -1,
+    "TRADE": 564,
+    "VALUE (mn)": 13.397,
+    "VOLUME": 1102215
   },
   "marketInformation": {
-    "lastTradingPrice": 12.9,
+    "lastTradingPrice": 11.9,
     "daysRange": [
-      12.8,
-      13.2
+      11.8,
+      13
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.7,
       18.3
     ],
-    "change": 0,
-    "daysTradeNos": 213,
+    "change": -1,
+    "daysTradeNos": 564,
     "yesterdaysClose": 12.9,
-    "daysVolumeNos": 296258,
+    "daysVolumeNos": 1102215,
     "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 3.84,
-    "openingPrice": 13,
+    "daysValueMn": 13.4,
+    "openingPrice": 12.9,
     "marketCapMn": 2215.314,
-    "closingPrice": 12.9,
+    "closingPrice": 11.9,
     "freeFloatMarketCapMn": 1214.926
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01755 645 047",
     "telephoneNo": "+880-2-55052098-99"
   },
-  "scrapedAt": "2026-09-12T19:43:40.450Z",
+  "scrapedAt": "2026-09-13T15:42:38.792Z",
   "shariaCompliant": false
 }

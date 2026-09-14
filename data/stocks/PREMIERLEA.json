@@ -9,36 +9,36 @@
     "#": 284,
     "TRADING CODE": "PREMIERLEA",
     "tradingCode": "PREMIERLEA",
-    "LTP": 2.1,
-    "HIGH": 2.3,
-    "LOW": 2,
-    "CLOSEP": 2.1,
+    "LTP": 2,
+    "HIGH": 2.2,
+    "LOW": 1.9,
+    "CLOSEP": 1.9,
     "YCP": 2.1,
-    "CHANGE": 0,
-    "TRADE": 116,
-    "VALUE (mn)": 1.516,
-    "VOLUME": 720313
+    "CHANGE": -0.1,
+    "TRADE": 99,
+    "VALUE (mn)": 1.627,
+    "VOLUME": 815207
   },
   "marketInformation": {
-    "lastTradingPrice": 2.1,
+    "lastTradingPrice": 2,
     "daysRange": [
-      2,
-      2.3
+      1.9,
+      2.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       0.3,
       4.4
     ],
-    "change": 0,
-    "daysTradeNos": 116,
+    "change": -0.1,
+    "daysTradeNos": 99,
     "yesterdaysClose": 2.1,
-    "daysVolumeNos": 720313,
+    "daysVolumeNos": 815207,
     "adjustedOpeningPrice": 2.1,
-    "daysValueMn": 1.52,
-    "openingPrice": 2.3,
+    "daysValueMn": 1.63,
+    "openingPrice": 2.2,
     "marketCapMn": 279.237,
-    "closingPrice": 2.1,
+    "closingPrice": 1.9,
     "freeFloatMarketCapMn": 221.373
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01818 618 990",
     "telephoneNo": "+880-2-09666777880 Ext-2031"
   },
-  "scrapedAt": "2026-09-12T19:44:29.298Z",
+  "scrapedAt": "2026-09-13T15:43:34.086Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 18,
     "TRADING CODE": "AGRANINS",
     "tradingCode": "AGRANINS",
-    "LTP": 28.5,
-    "HIGH": 29,
-    "LOW": 28.5,
-    "CLOSEP": 28.6,
+    "LTP": 26.8,
+    "HIGH": 28.4,
+    "LOW": 26.6,
+    "CLOSEP": 26.8,
     "YCP": 28.6,
-    "CHANGE": -0.1,
-    "TRADE": 96,
-    "VALUE (mn)": 1.606,
-    "VOLUME": 55990
+    "CHANGE": -1.8,
+    "TRADE": 237,
+    "VALUE (mn)": 2.427,
+    "VOLUME": 88252
   },
   "marketInformation": {
-    "lastTradingPrice": 28.5,
+    "lastTradingPrice": 26.8,
     "daysRange": [
-      28.5,
-      29
+      26.6,
+      28.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.5,
       33.5
     ],
-    "change": -0.1,
-    "daysTradeNos": 96,
+    "change": -1.8,
+    "daysTradeNos": 237,
     "yesterdaysClose": 28.6,
-    "daysVolumeNos": 55990,
+    "daysVolumeNos": 88252,
     "adjustedOpeningPrice": 28.6,
-    "daysValueMn": 1.61,
-    "openingPrice": 28.8,
+    "daysValueMn": 2.43,
+    "openingPrice": 27.9,
     "marketCapMn": 1030.135,
-    "closingPrice": 28.6,
+    "closingPrice": 26.8,
     "freeFloatMarketCapMn": 744.254
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 29.9,
-        "peDiluted": null,
-        "peTrailing": 166.11
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 28.7,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 28.6,
         "peDiluted": null,
         "peTrailing": 158.89
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.8,
+        "peDiluted": null,
+        "peTrailing": 148.89
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 166.11,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 159.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 158.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 148.89,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01723 407 370",
     "telephoneNo": "55111007-11"
   },
-  "scrapedAt": "2026-09-12T19:42:51.438Z",
+  "scrapedAt": "2026-09-13T15:41:53.449Z",
   "shariaCompliant": false
 }

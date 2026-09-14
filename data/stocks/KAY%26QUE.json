@@ -9,37 +9,37 @@
     "#": 195,
     "TRADING CODE": "KAY&QUE",
     "tradingCode": "KAY&QUE",
-    "LTP": 355.1,
-    "HIGH": 364.8,
-    "LOW": 353.1,
-    "CLOSEP": 355.1,
-    "YCP": 360.8,
-    "CHANGE": -5.7,
-    "TRADE": 301,
-    "VALUE (mn)": 4.39,
-    "VOLUME": 12255
+    "LTP": 346.1,
+    "HIGH": 353.7,
+    "LOW": 343.2,
+    "CLOSEP": 346.1,
+    "YCP": 355.1,
+    "CHANGE": -9,
+    "TRADE": 353,
+    "VALUE (mn)": 5.236,
+    "VOLUME": 14997
   },
   "marketInformation": {
-    "lastTradingPrice": 355.1,
+    "lastTradingPrice": 346.1,
     "daysRange": [
-      353.1,
-      364.8
+      343.2,
+      353.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       339,
       540
     ],
-    "change": -5.7,
-    "daysTradeNos": 301,
-    "yesterdaysClose": 360.8,
-    "daysVolumeNos": 12255,
-    "adjustedOpeningPrice": 360.8,
-    "daysValueMn": 4.39,
-    "openingPrice": 364.8,
-    "marketCapMn": 2523.092,
-    "closingPrice": 355.1,
-    "freeFloatMarketCapMn": 1446.938
+    "change": -9,
+    "daysTradeNos": 353,
+    "yesterdaysClose": 355.1,
+    "daysVolumeNos": 14997,
+    "adjustedOpeningPrice": 355.1,
+    "daysValueMn": 5.24,
+    "openingPrice": 350.4,
+    "marketCapMn": 2483.232,
+    "closingPrice": 346.1,
+    "freeFloatMarketCapMn": 1424.079
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 28.9,
-        "peDiluted": null,
-        "peTrailing": 24.29
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.8,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.93,
         "peDiluted": null,
         "peTrailing": 22.63
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.25,
+        "peDiluted": null,
+        "peTrailing": 22.06
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 40.16,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 38.63,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 37.42,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 36.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01313093636",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-12T19:43:58.822Z",
+  "scrapedAt": "2026-09-13T15:42:57.892Z",
   "shariaCompliant": false
 }

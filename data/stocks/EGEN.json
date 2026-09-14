@@ -9,37 +9,37 @@
     "#": 116,
     "TRADING CODE": "EGEN",
     "tradingCode": "EGEN",
-    "LTP": 23.3,
-    "HIGH": 23.9,
-    "LOW": 23.2,
-    "CLOSEP": 23.3,
-    "YCP": 23.5,
-    "CHANGE": -0.2,
-    "TRADE": 276,
-    "VALUE (mn)": 4.747,
-    "VOLUME": 202435
+    "LTP": 22.1,
+    "HIGH": 23.7,
+    "LOW": 21.9,
+    "CLOSEP": 22.1,
+    "YCP": 23.3,
+    "CHANGE": -1.2,
+    "TRADE": 496,
+    "VALUE (mn)": 11.557,
+    "VOLUME": 509616
   },
   "marketInformation": {
-    "lastTradingPrice": 23.3,
+    "lastTradingPrice": 22.1,
     "daysRange": [
-      23.2,
-      23.9
+      21.9,
+      23.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.5,
-      33
+      30.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 276,
-    "yesterdaysClose": 23.5,
-    "daysVolumeNos": 202435,
-    "adjustedOpeningPrice": 23.5,
-    "daysValueMn": 4.75,
-    "openingPrice": 23.8,
-    "marketCapMn": 1762.5,
-    "closingPrice": 23.3,
-    "freeFloatMarketCapMn": 1232.55
+    "change": -1.2,
+    "daysTradeNos": 496,
+    "yesterdaysClose": 23.3,
+    "daysVolumeNos": 509616,
+    "adjustedOpeningPrice": 23.3,
+    "daysValueMn": 11.56,
+    "openingPrice": 23.7,
+    "marketCapMn": 1747.5,
+    "closingPrice": 22.1,
+    "freeFloatMarketCapMn": 1222.061
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.76,
-        "peDiluted": null,
-        "peTrailing": 33.65
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.45,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 30.66,
         "peDiluted": null,
         "peTrailing": 31.49
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.08,
+        "peDiluted": null,
+        "peTrailing": 29.86
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 33.2,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 31.87,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 31.07,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01795 139 038",
     "telephoneNo": "8802-8413076"
   },
-  "scrapedAt": "2026-09-12T19:43:29.321Z",
+  "scrapedAt": "2026-09-13T15:42:29.710Z",
   "shariaCompliant": true
 }

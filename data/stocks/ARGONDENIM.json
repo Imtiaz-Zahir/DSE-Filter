@@ -9,37 +9,37 @@
     "#": 38,
     "TRADING CODE": "ARGONDENIM",
     "tradingCode": "ARGONDENIM",
-    "LTP": 22.1,
-    "HIGH": 22.9,
-    "LOW": 22,
-    "CLOSEP": 22.1,
-    "YCP": 22.6,
-    "CHANGE": -0.5,
-    "TRADE": 642,
-    "VALUE (mn)": 37.215,
-    "VOLUME": 1676544
+    "LTP": 21.1,
+    "HIGH": 22.3,
+    "LOW": 21,
+    "CLOSEP": 21.1,
+    "YCP": 22.1,
+    "CHANGE": -1,
+    "TRADE": 838,
+    "VALUE (mn)": 31.284,
+    "VOLUME": 1463142
   },
   "marketInformation": {
-    "lastTradingPrice": 22.1,
+    "lastTradingPrice": 21.1,
     "daysRange": [
-      22,
-      22.9
+      21,
+      22.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.8,
       25.9
     ],
-    "change": -0.5,
-    "daysTradeNos": 642,
-    "yesterdaysClose": 22.6,
-    "daysVolumeNos": 1676544,
-    "adjustedOpeningPrice": 22.6,
-    "daysValueMn": 37.22,
-    "openingPrice": 22.9,
-    "marketCapMn": 3138.882,
-    "closingPrice": 22.1,
-    "freeFloatMarketCapMn": 1646.92
+    "change": -1,
+    "daysTradeNos": 838,
+    "yesterdaysClose": 22.1,
+    "daysVolumeNos": 1463142,
+    "adjustedOpeningPrice": 22.1,
+    "daysValueMn": 31.28,
+    "openingPrice": 22.3,
+    "marketCapMn": 3069.438,
+    "closingPrice": 21.1,
+    "freeFloatMarketCapMn": 1610.483
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.25,
-        "peDiluted": null,
-        "peTrailing": 19.91
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 18.42,
         "peDiluted": null,
         "peTrailing": 19.05
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.58,
+        "peDiluted": null,
+        "peTrailing": 18.19
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.75,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.98,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 13.15,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.56,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01714 094 393",
     "telephoneNo": "880-2-8900870-4, 8900781-3 Ext. 137"
   },
-  "scrapedAt": "2026-09-12T19:43:01.922Z",
+  "scrapedAt": "2026-09-13T15:42:01.242Z",
   "shariaCompliant": false
 }

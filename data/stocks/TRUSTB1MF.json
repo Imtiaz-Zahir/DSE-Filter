@@ -9,36 +9,36 @@
     "#": 371,
     "TRADING CODE": "TRUSTB1MF",
     "tradingCode": "TRUSTB1MF",
-    "LTP": 3.8,
-    "HIGH": 3.8,
-    "LOW": 3.7,
-    "CLOSEP": 3.8,
-    "YCP": 3.7,
-    "CHANGE": 0.1,
-    "TRADE": 132,
-    "VALUE (mn)": 2.268,
-    "VOLUME": 605224
+    "LTP": 3.6,
+    "HIGH": 3.9,
+    "LOW": 3.6,
+    "CLOSEP": 3.6,
+    "YCP": 3.8,
+    "CHANGE": -0.2,
+    "TRADE": 288,
+    "VALUE (mn)": 6.682,
+    "VOLUME": 1785459
   },
   "marketInformation": {
-    "lastTradingPrice": 3.8,
+    "lastTradingPrice": 3.6,
     "daysRange": [
-      3.7,
-      3.8
+      3.6,
+      3.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.2,
       4.4
     ],
-    "change": 0.1,
-    "daysTradeNos": 132,
-    "yesterdaysClose": 3.7,
-    "daysVolumeNos": 605224,
-    "adjustedOpeningPrice": 3.7,
-    "daysValueMn": 2.27,
-    "openingPrice": 3.7,
-    "marketCapMn": 1123.271,
-    "closingPrice": 3.8,
+    "change": -0.2,
+    "daysTradeNos": 288,
+    "yesterdaysClose": 3.8,
+    "daysVolumeNos": 1785459,
+    "adjustedOpeningPrice": 3.8,
+    "daysValueMn": 6.68,
+    "openingPrice": 3.8,
+    "marketCapMn": 1153.629,
+    "closingPrice": 3.6,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:00.757Z",
+  "scrapedAt": "2026-09-13T15:44:14.267Z",
   "shariaCompliant": false
 }

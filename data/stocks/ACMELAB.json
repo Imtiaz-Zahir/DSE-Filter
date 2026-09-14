@@ -9,36 +9,36 @@
     "#": 10,
     "TRADING CODE": "ACMELAB",
     "tradingCode": "ACMELAB",
-    "LTP": 77.5,
-    "HIGH": 78,
-    "LOW": 77.3,
-    "CLOSEP": 77.5,
+    "LTP": 76.3,
+    "HIGH": 77.8,
+    "LOW": 76.1,
+    "CLOSEP": 76.3,
     "YCP": 77.5,
-    "CHANGE": 0,
-    "TRADE": 316,
-    "VALUE (mn)": 5.731,
-    "VOLUME": 73895
+    "CHANGE": -1.2,
+    "TRADE": 592,
+    "VALUE (mn)": 12.464,
+    "VOLUME": 162956
   },
   "marketInformation": {
-    "lastTradingPrice": 77.5,
+    "lastTradingPrice": 76.3,
     "daysRange": [
-      77.3,
-      78
+      76.1,
+      77.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       68.6,
       88.7
     ],
-    "change": 0,
-    "daysTradeNos": 316,
+    "change": -1.2,
+    "daysTradeNos": 592,
     "yesterdaysClose": 77.5,
-    "daysVolumeNos": 73895,
+    "daysVolumeNos": 162956,
     "adjustedOpeningPrice": 77.5,
-    "daysValueMn": 5.73,
-    "openingPrice": 78,
+    "daysValueMn": 12.46,
+    "openingPrice": 77.8,
     "marketCapMn": 16399.132,
-    "closingPrice": 77.5,
+    "closingPrice": 76.3,
     "freeFloatMarketCapMn": 9775.444
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.31,
-        "peDiluted": null,
-        "peTrailing": 6.28
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.22,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.18,
         "peDiluted": null,
         "peTrailing": 6.15
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.09,
+        "peDiluted": null,
+        "peTrailing": 6.06
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 6.89,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 6.79,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 6.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.65,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713-433900",
     "telephoneNo": "02 8091051-3 Ext. 219"
   },
-  "scrapedAt": "2026-09-12T19:42:47.101Z",
+  "scrapedAt": "2026-09-13T15:40:54.264Z",
   "shariaCompliant": false
 }

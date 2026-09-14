@@ -9,37 +9,37 @@
     "#": 148,
     "TRADING CODE": "GLOBALINS",
     "tradingCode": "GLOBALINS",
-    "LTP": 45.4,
-    "HIGH": 46.4,
-    "LOW": 45.1,
-    "CLOSEP": 45.4,
-    "YCP": 45.5,
-    "CHANGE": -0.1,
-    "TRADE": 758,
-    "VALUE (mn)": 27.323,
-    "VOLUME": 596525
+    "LTP": 43.9,
+    "HIGH": 45.4,
+    "LOW": 43.8,
+    "CLOSEP": 43.9,
+    "YCP": 45.4,
+    "CHANGE": -1.5,
+    "TRADE": 538,
+    "VALUE (mn)": 15.22,
+    "VOLUME": 340896
   },
   "marketInformation": {
-    "lastTradingPrice": 45.4,
+    "lastTradingPrice": 43.9,
     "daysRange": [
-      45.1,
-      46.4
+      43.8,
+      45.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.8,
       50.2
     ],
-    "change": -0.1,
-    "daysTradeNos": 758,
-    "yesterdaysClose": 45.5,
-    "daysVolumeNos": 596525,
-    "adjustedOpeningPrice": 45.5,
-    "daysValueMn": 27.32,
-    "openingPrice": 46,
-    "marketCapMn": 1845.105,
-    "closingPrice": 45.4,
-    "freeFloatMarketCapMn": 1193.065
+    "change": -1.5,
+    "daysTradeNos": 538,
+    "yesterdaysClose": 45.4,
+    "daysVolumeNos": 340896,
+    "adjustedOpeningPrice": 45.4,
+    "daysValueMn": 15.22,
+    "openingPrice": 45.2,
+    "marketCapMn": 1841.05,
+    "closingPrice": 43.9,
+    "freeFloatMarketCapMn": 1190.443
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 15.68,
-        "peDiluted": null,
-        "peTrailing": 22.1
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 15.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 15.34,
         "peDiluted": null,
         "peTrailing": 21.62
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.83,
+        "peDiluted": null,
+        "peTrailing": 20.9
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 35.97,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 34.81,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 35.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34.03,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 677 215",
     "telephoneNo": "223390450, 223390147, Ext: 201"
   },
-  "scrapedAt": "2026-09-12T19:43:39.649Z",
+  "scrapedAt": "2026-09-13T15:42:38.868Z",
   "shariaCompliant": false
 }

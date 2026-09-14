@@ -9,37 +9,37 @@
     "#": 48,
     "TRADING CODE": "BATBC",
     "tradingCode": "BATBC",
-    "LTP": 228,
-    "HIGH": 230.8,
-    "LOW": 226,
-    "CLOSEP": 228,
-    "YCP": 229.8,
-    "CHANGE": -1.8,
-    "TRADE": 1119,
-    "VALUE (mn)": 17.188,
-    "VOLUME": 75342
+    "LTP": 224.5,
+    "HIGH": 228,
+    "LOW": 223.9,
+    "CLOSEP": 224.5,
+    "YCP": 228,
+    "CHANGE": -3.5,
+    "TRADE": 1273,
+    "VALUE (mn)": 24.407,
+    "VOLUME": 108551
   },
   "marketInformation": {
-    "lastTradingPrice": 228,
+    "lastTradingPrice": 224.5,
     "daysRange": [
-      226,
-      230.8
+      223.9,
+      228
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       205.8,
       292.9
     ],
-    "change": -1.8,
-    "daysTradeNos": 1119,
-    "yesterdaysClose": 229.8,
-    "daysVolumeNos": 75342,
-    "adjustedOpeningPrice": 229.8,
-    "daysValueMn": 17.19,
-    "openingPrice": 229.8,
-    "marketCapMn": 124092,
-    "closingPrice": 228,
-    "freeFloatMarketCapMn": 32817.821
+    "change": -3.5,
+    "daysTradeNos": 1273,
+    "yesterdaysClose": 228,
+    "daysVolumeNos": 108551,
+    "adjustedOpeningPrice": 228,
+    "daysValueMn": 24.41,
+    "openingPrice": 228,
+    "marketCapMn": 123120,
+    "closingPrice": 224.5,
+    "freeFloatMarketCapMn": 32560.763
   },
   "basicInformation": {
     "authorizedCapitalMn": 5400,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 15.51,
-        "peDiluted": null,
-        "peTrailing": 22.03
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 15.15,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 14.9,
         "peDiluted": null,
         "peTrailing": 21.17
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.67,
+        "peDiluted": null,
+        "peTrailing": 20.84
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 21.95,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 21.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 21.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.77,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01313 701 925",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:06.349Z",
+  "scrapedAt": "2026-09-13T15:42:05.925Z",
   "shariaCompliant": false
 }

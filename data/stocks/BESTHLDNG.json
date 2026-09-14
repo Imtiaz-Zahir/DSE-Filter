@@ -9,37 +9,37 @@
     "#": 64,
     "TRADING CODE": "BESTHLDNG",
     "tradingCode": "BESTHLDNG",
-    "LTP": 14.8,
-    "HIGH": 15.3,
-    "LOW": 14.8,
-    "CLOSEP": 15,
-    "YCP": 15.1,
-    "CHANGE": -0.3,
-    "TRADE": 234,
-    "VALUE (mn)": 4.99,
-    "VOLUME": 329624
+    "LTP": 14.3,
+    "HIGH": 15.1,
+    "LOW": 13.9,
+    "CLOSEP": 14.2,
+    "YCP": 15,
+    "CHANGE": -0.7,
+    "TRADE": 308,
+    "VALUE (mn)": 3.991,
+    "VOLUME": 277246
   },
   "marketInformation": {
-    "lastTradingPrice": 14.8,
+    "lastTradingPrice": 14.3,
     "daysRange": [
-      14.8,
-      15.3
+      13.9,
+      15.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.9,
-      19.7
+      19.4
     ],
-    "change": -0.3,
-    "daysTradeNos": 234,
-    "yesterdaysClose": 15.1,
-    "daysVolumeNos": 329624,
-    "adjustedOpeningPrice": 15.1,
-    "daysValueMn": 4.99,
-    "openingPrice": 15.3,
-    "marketCapMn": 15994.379,
-    "closingPrice": 15,
-    "freeFloatMarketCapMn": 2018.167
+    "change": -0.7,
+    "daysTradeNos": 308,
+    "yesterdaysClose": 15,
+    "daysVolumeNos": 277246,
+    "adjustedOpeningPrice": 15,
+    "daysValueMn": 3.99,
+    "openingPrice": 15.1,
+    "marketCapMn": 15888.455,
+    "closingPrice": 14.2,
+    "freeFloatMarketCapMn": 2004.801
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 43.8,
-        "peDiluted": null,
-        "peTrailing": 24.75
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 42.6,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 45,
         "peDiluted": null,
         "peTrailing": 25.42
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 42.6,
+        "peDiluted": null,
+        "peTrailing": 24.07
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 10.21,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 9.93,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 10.49,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.93,
         "peDiluted": null
       }
     ]
@@ -296,6 +296,6 @@
     "cellNo": "01777 774338",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:11.259Z",
+  "scrapedAt": "2026-09-13T15:42:11.562Z",
   "shariaCompliant": false
 }

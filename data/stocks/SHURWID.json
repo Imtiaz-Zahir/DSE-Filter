@@ -9,33 +9,33 @@
     "#": 336,
     "TRADING CODE": "SHURWID",
     "tradingCode": "SHURWID",
-    "LTP": 5.9,
-    "HIGH": 6.1,
-    "LOW": 5.9,
+    "LTP": 5.8,
+    "HIGH": 6,
+    "LOW": 5.8,
     "CLOSEP": 5.9,
     "YCP": 5.9,
-    "CHANGE": 0,
-    "TRADE": 8,
-    "VALUE (mn)": 0.014,
-    "VOLUME": 2368
+    "CHANGE": -0.1,
+    "TRADE": 33,
+    "VALUE (mn)": 0.077,
+    "VOLUME": 13019
   },
   "marketInformation": {
-    "lastTradingPrice": 5.9,
+    "lastTradingPrice": 5.8,
     "daysRange": [
-      5.9,
-      6.1
+      5.8,
+      6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.2,
       7.8
     ],
-    "change": 0,
-    "daysTradeNos": 8,
+    "change": -0.1,
+    "daysTradeNos": 33,
     "yesterdaysClose": 5.9,
-    "daysVolumeNos": 2368,
+    "daysVolumeNos": 13019,
     "adjustedOpeningPrice": 5.9,
-    "daysValueMn": 0.01,
+    "daysValueMn": 0.08,
     "openingPrice": 6,
     "marketCapMn": 338.47,
     "closingPrice": 5.9,
@@ -74,8 +74,8 @@
       "publicPct": 67.21
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 12.01,
       "govtPct": 0,
       "institutePct": 9.75,
@@ -83,8 +83,8 @@
       "publicPct": 78.24
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 12.01,
       "govtPct": 0,
       "institutePct": 9.75,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 2.38,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 2.3,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 2.34,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 2.34,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.35,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.2,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 4.28,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 4.28,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:49.894Z",
+  "scrapedAt": "2026-09-13T15:43:58.234Z",
   "shariaCompliant": true
 }

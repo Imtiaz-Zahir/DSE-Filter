@@ -9,37 +9,37 @@
     "#": 118,
     "TRADING CODE": "EIL",
     "tradingCode": "EIL",
-    "LTP": 31,
-    "HIGH": 32.1,
-    "LOW": 30.7,
-    "CLOSEP": 31,
-    "YCP": 31.4,
-    "CHANGE": -0.4,
-    "TRADE": 461,
-    "VALUE (mn)": 12.788,
-    "VOLUME": 407683
+    "LTP": 30.3,
+    "HIGH": 31.1,
+    "LOW": 30.2,
+    "CLOSEP": 30.3,
+    "YCP": 31,
+    "CHANGE": -0.7,
+    "TRADE": 450,
+    "VALUE (mn)": 9.358,
+    "VOLUME": 306528
   },
   "marketInformation": {
-    "lastTradingPrice": 31,
+    "lastTradingPrice": 30.3,
     "daysRange": [
-      30.7,
-      32.1
+      30.2,
+      31.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.6,
       35.8
     ],
-    "change": -0.4,
-    "daysTradeNos": 461,
-    "yesterdaysClose": 31.4,
-    "daysVolumeNos": 407683,
-    "adjustedOpeningPrice": 31.4,
-    "daysValueMn": 12.79,
-    "openingPrice": 31.6,
-    "marketCapMn": 2047.2,
-    "closingPrice": 31,
-    "freeFloatMarketCapMn": 818.86
+    "change": -0.7,
+    "daysTradeNos": 450,
+    "yesterdaysClose": 31,
+    "daysVolumeNos": 306528,
+    "adjustedOpeningPrice": 31,
+    "daysValueMn": 9.36,
+    "openingPrice": 31,
+    "marketCapMn": 2021.121,
+    "closingPrice": 30.3,
+    "freeFloatMarketCapMn": 808.429
   },
   "basicInformation": {
     "authorizedCapitalMn": 750,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 18.68,
-        "peDiluted": null,
-        "peTrailing": 20.06
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.99,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 17.82,
         "peDiluted": null,
         "peTrailing": 19.14
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.41,
+        "peDiluted": null,
+        "peTrailing": 18.7
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 27.54,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 26.53,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.68,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801818 644 552",
     "telephoneNo": "02-55111523-27 (Ext. 107)"
   },
-  "scrapedAt": "2026-09-12T19:43:29.500Z",
+  "scrapedAt": "2026-09-13T15:42:29.678Z",
   "shariaCompliant": false
 }

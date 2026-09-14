@@ -9,37 +9,37 @@
     "#": 303,
     "TRADING CODE": "RECKITTBEN",
     "tradingCode": "RECKITTBEN",
-    "LTP": 3283.2,
-    "HIGH": 3299,
-    "LOW": 3276,
-    "CLOSEP": 3295.4,
-    "YCP": 3277.1,
-    "CHANGE": 6.1,
-    "TRADE": 38,
-    "VALUE (mn)": 0.616,
-    "VOLUME": 187
+    "LTP": 3277.9,
+    "HIGH": 3299.4,
+    "LOW": 3276.5,
+    "CLOSEP": 3277.9,
+    "YCP": 3295.4,
+    "CHANGE": -17.5,
+    "TRADE": 89,
+    "VALUE (mn)": 1.292,
+    "VOLUME": 394
   },
   "marketInformation": {
-    "lastTradingPrice": 3283.2,
+    "lastTradingPrice": 3277.9,
     "daysRange": [
-      3276,
-      3299
+      3276.5,
+      3299.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3245,
       3700
     ],
-    "change": 6.1,
-    "daysTradeNos": 38,
-    "yesterdaysClose": 3277.1,
-    "daysVolumeNos": 187,
-    "adjustedOpeningPrice": 3277.1,
-    "daysValueMn": 0.62,
-    "openingPrice": 3276,
-    "marketCapMn": 15484.298,
-    "closingPrice": 3295.4,
-    "freeFloatMarketCapMn": 2053.899
+    "change": -17.5,
+    "daysTradeNos": 89,
+    "yesterdaysClose": 3295.4,
+    "daysVolumeNos": 394,
+    "adjustedOpeningPrice": 3295.4,
+    "daysValueMn": 1.29,
+    "openingPrice": 3276.5,
+    "marketCapMn": 15570.765,
+    "closingPrice": 3277.9,
+    "freeFloatMarketCapMn": 2065.369
   },
   "basicInformation": {
     "authorizedCapitalMn": 250,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 25.54,
-        "peDiluted": null,
-        "peTrailing": 18.77
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 25.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 25.61,
         "peDiluted": null,
         "peTrailing": 18.82
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.47,
+        "peDiluted": null,
+        "peTrailing": 18.72
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 19.01,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 19.04,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 19.06,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.96,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01777 758 995",
     "telephoneNo": "+88-02-222290770-72"
   },
-  "scrapedAt": "2026-09-12T19:44:40.168Z",
+  "scrapedAt": "2026-09-13T15:43:41.739Z",
   "shariaCompliant": true
 }

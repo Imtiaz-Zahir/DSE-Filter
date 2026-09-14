@@ -9,20 +9,20 @@
     "#": 212,
     "TRADING CODE": "MAKSONSPIN",
     "tradingCode": "MAKSONSPIN",
-    "LTP": 6,
+    "LTP": 5.9,
     "HIGH": 6.2,
-    "LOW": 6,
-    "CLOSEP": 6,
+    "LOW": 5.8,
+    "CLOSEP": 5.9,
     "YCP": 6,
-    "CHANGE": 0,
-    "TRADE": 54,
-    "VALUE (mn)": 0.571,
-    "VOLUME": 95060
+    "CHANGE": -0.1,
+    "TRADE": 108,
+    "VALUE (mn)": 2.511,
+    "VOLUME": 421448
   },
   "marketInformation": {
-    "lastTradingPrice": 6,
+    "lastTradingPrice": 5.9,
     "daysRange": [
-      6,
+      5.8,
       6.2
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       3.8,
       7.6
     ],
-    "change": 0,
-    "daysTradeNos": 54,
+    "change": -0.1,
+    "daysTradeNos": 108,
     "yesterdaysClose": 6,
-    "daysVolumeNos": 95060,
+    "daysVolumeNos": 421448,
     "adjustedOpeningPrice": 6,
-    "daysValueMn": 0.57,
+    "daysValueMn": 2.51,
     "openingPrice": 6,
     "marketCapMn": 1429.395,
-    "closingPrice": 6,
+    "closingPrice": 5.9,
     "freeFloatMarketCapMn": 1000.535
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01841166214",
     "telephoneNo": "8933612 ,8933613"
   },
-  "scrapedAt": "2026-09-12T19:44:03.772Z",
+  "scrapedAt": "2026-09-13T15:43:07.496Z",
   "shariaCompliant": false
 }

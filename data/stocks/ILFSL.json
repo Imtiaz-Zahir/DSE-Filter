@@ -74,22 +74,22 @@
       "publicPct": 35.67
     },
     {
-      "period": "Share Holding Percentage [as on May 31, 2026]",
-      "asOfDate": "2026-05-31",
+      "period": "Share Holding Percentage [as on Jul 31, 2026]",
+      "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 41.55,
       "govtPct": 0,
-      "institutePct": 14.31,
+      "institutePct": 16.58,
       "foreignPct": 0,
-      "publicPct": 44.14
+      "publicPct": 41.87
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 41.55,
       "govtPct": 0,
-      "institutePct": 14.03,
+      "institutePct": 13.07,
       "foreignPct": 0,
-      "publicPct": 44.42
+      "publicPct": 45.38
     }
   ],
   "interimFinancials": [
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01742381222",
     "telephoneNo": "+880-2-222223841 (106)"
   },
-  "scrapedAt": "2026-09-12T19:43:52.418Z",
+  "scrapedAt": "2026-09-13T15:42:52.370Z",
   "shariaCompliant": false
 }

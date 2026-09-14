@@ -9,37 +9,37 @@
     "#": 165,
     "TRADING CODE": "ICB",
     "tradingCode": "ICB",
-    "LTP": 39.5,
-    "HIGH": 41.2,
-    "LOW": 39.5,
-    "CLOSEP": 39.6,
-    "YCP": 40.5,
-    "CHANGE": -1,
-    "TRADE": 101,
-    "VALUE (mn)": 1.282,
-    "VOLUME": 32079
+    "LTP": 39.1,
+    "HIGH": 40.2,
+    "LOW": 39,
+    "CLOSEP": 39.1,
+    "YCP": 39.6,
+    "CHANGE": -0.5,
+    "TRADE": 68,
+    "VALUE (mn)": 0.7,
+    "VOLUME": 17857
   },
   "marketInformation": {
-    "lastTradingPrice": 39.5,
+    "lastTradingPrice": 39.1,
     "daysRange": [
-      39.5,
-      41.2
+      39,
+      40.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       33.7,
-      58.9
+      56.4
     ],
-    "change": -1,
-    "daysTradeNos": 101,
-    "yesterdaysClose": 40.5,
-    "daysVolumeNos": 32079,
-    "adjustedOpeningPrice": 40.5,
-    "daysValueMn": 1.28,
-    "openingPrice": 40.6,
-    "marketCapMn": 35123.988,
-    "closingPrice": 39.6,
-    "freeFloatMarketCapMn": 1333.755
+    "change": -0.5,
+    "daysTradeNos": 68,
+    "yesterdaysClose": 39.6,
+    "daysVolumeNos": 17857,
+    "adjustedOpeningPrice": 39.6,
+    "daysValueMn": 0.7,
+    "openingPrice": 40,
+    "marketCapMn": 34343.455,
+    "closingPrice": 39.1,
+    "freeFloatMarketCapMn": 1304.116
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01674 904 507",
     "telephoneNo": "02223353319"
   },
-  "scrapedAt": "2026-09-12T19:43:46.261Z",
+  "scrapedAt": "2026-09-13T15:42:47.043Z",
   "shariaCompliant": false
 }

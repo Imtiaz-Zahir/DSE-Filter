@@ -9,20 +9,20 @@
     "#": 290,
     "TRADING CODE": "PRIMETEX",
     "tradingCode": "PRIMETEX",
-    "LTP": 14.1,
+    "LTP": 13.7,
     "HIGH": 15.4,
-    "LOW": 14,
-    "CLOSEP": 14.1,
-    "YCP": 14.4,
-    "CHANGE": -0.3,
-    "TRADE": 47,
-    "VALUE (mn)": 0.412,
-    "VOLUME": 29235
+    "LOW": 13.6,
+    "CLOSEP": 13.7,
+    "YCP": 14.1,
+    "CHANGE": -0.4,
+    "TRADE": 72,
+    "VALUE (mn)": 0.449,
+    "VOLUME": 32775
   },
   "marketInformation": {
-    "lastTradingPrice": 14.1,
+    "lastTradingPrice": 13.7,
     "daysRange": [
-      14,
+      13.6,
       15.4
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       9.9,
       23.4
     ],
-    "change": -0.3,
-    "daysTradeNos": 47,
-    "yesterdaysClose": 14.4,
-    "daysVolumeNos": 29235,
-    "adjustedOpeningPrice": 14.4,
-    "daysValueMn": 0.41,
+    "change": -0.4,
+    "daysTradeNos": 72,
+    "yesterdaysClose": 14.1,
+    "daysVolumeNos": 32775,
+    "adjustedOpeningPrice": 14.1,
+    "daysValueMn": 0.45,
     "openingPrice": 15.4,
-    "marketCapMn": 550.08,
-    "closingPrice": 14.1,
-    "freeFloatMarketCapMn": 275.04
+    "marketCapMn": 538.62,
+    "closingPrice": 13.7,
+    "freeFloatMarketCapMn": 269.31
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01912 129 467",
     "telephoneNo": "9564851-2, 9564856 Ext. - 124"
   },
-  "scrapedAt": "2026-09-12T19:44:31.590Z",
+  "scrapedAt": "2026-09-13T15:43:36.083Z",
   "shariaCompliant": true
 }

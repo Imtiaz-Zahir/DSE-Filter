@@ -9,37 +9,37 @@
     "#": 352,
     "TRADING CODE": "SOUTHEASTB",
     "tradingCode": "SOUTHEASTB",
-    "LTP": 12.6,
-    "HIGH": 12.7,
-    "LOW": 12.2,
-    "CLOSEP": 12.6,
-    "YCP": 12.3,
-    "CHANGE": 0.3,
-    "TRADE": 1085,
-    "VALUE (mn)": 106.393,
-    "VOLUME": 8513115
+    "LTP": 12.8,
+    "HIGH": 12.9,
+    "LOW": 12.6,
+    "CLOSEP": 12.8,
+    "YCP": 12.6,
+    "CHANGE": 0.2,
+    "TRADE": 1243,
+    "VALUE (mn)": 123.157,
+    "VOLUME": 9685812
   },
   "marketInformation": {
-    "lastTradingPrice": 12.6,
+    "lastTradingPrice": 12.8,
     "daysRange": [
-      12.2,
-      12.7
+      12.6,
+      12.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.8,
-      12.7
+      12.9
     ],
-    "change": 0.3,
-    "daysTradeNos": 1085,
-    "yesterdaysClose": 12.3,
-    "daysVolumeNos": 8513115,
-    "adjustedOpeningPrice": 12.3,
-    "daysValueMn": 106.39,
-    "openingPrice": 12.2,
-    "marketCapMn": 17601.474,
-    "closingPrice": 12.6,
-    "freeFloatMarketCapMn": 10995.768
+    "change": 0.2,
+    "daysTradeNos": 1243,
+    "yesterdaysClose": 12.6,
+    "daysVolumeNos": 9685812,
+    "adjustedOpeningPrice": 12.6,
+    "daysValueMn": 123.16,
+    "openingPrice": 12.6,
+    "marketCapMn": 18030.778,
+    "closingPrice": 12.8,
+    "freeFloatMarketCapMn": 11263.957
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.54,
-        "peDiluted": null,
-        "peTrailing": 3.68
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.6,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 3.84,
         "peDiluted": null,
         "peTrailing": 4
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.9,
+        "peDiluted": null,
+        "peTrailing": 4.06
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.62,
-        "peDiluted": 4.96
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.7,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 5.02,
         "peDiluted": 5.38
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.1,
+        "peDiluted": 5.47
       }
     ]
   },
@@ -371,6 +371,6 @@
     "cellNo": "01886097296",
     "telephoneNo": "02-223355264"
   },
-  "scrapedAt": "2026-09-12T19:44:55.233Z",
+  "scrapedAt": "2026-09-13T15:44:04.905Z",
   "shariaCompliant": false
 }

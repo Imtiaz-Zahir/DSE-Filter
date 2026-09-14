@@ -9,37 +9,37 @@
     "#": 390,
     "TRADING CODE": "WATACHEM",
     "tradingCode": "WATACHEM",
-    "LTP": 134.6,
-    "HIGH": 137,
-    "LOW": 131,
-    "CLOSEP": 131.5,
-    "YCP": 133,
-    "CHANGE": 1.6,
-    "TRADE": 132,
-    "VALUE (mn)": 1.28,
-    "VOLUME": 9696
+    "LTP": 128,
+    "HIGH": 132,
+    "LOW": 128,
+    "CLOSEP": 129,
+    "YCP": 131.5,
+    "CHANGE": -3.5,
+    "TRADE": 191,
+    "VALUE (mn)": 2.318,
+    "VOLUME": 17838
   },
   "marketInformation": {
-    "lastTradingPrice": 134.6,
+    "lastTradingPrice": 128,
     "daysRange": [
-      131,
-      137
+      128,
+      132
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       105.1,
       158
     ],
-    "change": 1.6,
-    "daysTradeNos": 132,
-    "yesterdaysClose": 133,
-    "daysVolumeNos": 9696,
-    "adjustedOpeningPrice": 133,
-    "daysValueMn": 1.28,
-    "openingPrice": 134,
-    "marketCapMn": 1971.408,
-    "closingPrice": 131.5,
-    "freeFloatMarketCapMn": 1253.615
+    "change": -3.5,
+    "daysTradeNos": 191,
+    "yesterdaysClose": 131.5,
+    "daysVolumeNos": 17838,
+    "adjustedOpeningPrice": 131.5,
+    "daysValueMn": 2.32,
+    "openingPrice": 131.6,
+    "marketCapMn": 1949.174,
+    "closingPrice": 129,
+    "freeFloatMarketCapMn": 1239.477
   },
   "basicInformation": {
     "authorizedCapitalMn": 150,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 117.76,
-        "peDiluted": null,
-        "peTrailing": 145.32
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 114.48,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 113.36,
         "peDiluted": null,
         "peTrailing": 139.89
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 111.21,
+        "peDiluted": null,
+        "peTrailing": 137.23
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 184.59,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 179.46,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 177.7,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 174.32,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01727 681 811",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:06.865Z",
+  "scrapedAt": "2026-09-13T15:44:18.794Z",
   "shariaCompliant": false
 }

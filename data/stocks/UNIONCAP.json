@@ -9,18 +9,18 @@
     "#": 377,
     "TRADING CODE": "UNIONCAP",
     "tradingCode": "UNIONCAP",
-    "LTP": 4.4,
+    "LTP": 4.2,
     "HIGH": 4.4,
     "LOW": 4.2,
-    "CLOSEP": 4.3,
+    "CLOSEP": 4.2,
     "YCP": 4.3,
-    "CHANGE": 0.1,
-    "TRADE": 31,
-    "VALUE (mn)": 0.24,
-    "VOLUME": 55740
+    "CHANGE": -0.1,
+    "TRADE": 46,
+    "VALUE (mn)": 0.495,
+    "VOLUME": 116813
   },
   "marketInformation": {
-    "lastTradingPrice": 4.4,
+    "lastTradingPrice": 4.2,
     "daysRange": [
       4.2,
       4.4
@@ -30,15 +30,15 @@
       2.5,
       7.2
     ],
-    "change": 0.1,
-    "daysTradeNos": 31,
+    "change": -0.1,
+    "daysTradeNos": 46,
     "yesterdaysClose": 4.3,
-    "daysVolumeNos": 55740,
+    "daysVolumeNos": 116813,
     "adjustedOpeningPrice": 4.3,
-    "daysValueMn": 0.24,
-    "openingPrice": 4.4,
+    "daysValueMn": 0.5,
+    "openingPrice": 4.3,
     "marketCapMn": 742.068,
-    "closingPrice": 4.3,
+    "closingPrice": 4.2,
     "freeFloatMarketCapMn": 473.437
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01988899821",
     "telephoneNo": "+880(2)226601505-10"
   },
-  "scrapedAt": "2026-09-12T19:45:02.822Z",
+  "scrapedAt": "2026-09-13T15:44:16.918Z",
   "shariaCompliant": false
 }

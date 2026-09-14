@@ -9,37 +9,37 @@
     "#": 264,
     "TRADING CODE": "PADMALIFE",
     "tradingCode": "PADMALIFE",
-    "LTP": 16.1,
-    "HIGH": 16.4,
-    "LOW": 16,
-    "CLOSEP": 16.2,
-    "YCP": 16.1,
-    "CHANGE": 0,
-    "TRADE": 22,
-    "VALUE (mn)": 0.161,
-    "VOLUME": 9948
+    "LTP": 15.8,
+    "HIGH": 16.2,
+    "LOW": 15.3,
+    "CLOSEP": 15.4,
+    "YCP": 16.2,
+    "CHANGE": -0.4,
+    "TRADE": 71,
+    "VALUE (mn)": 0.599,
+    "VOLUME": 38144
   },
   "marketInformation": {
-    "lastTradingPrice": 16.1,
+    "lastTradingPrice": 15.8,
     "daysRange": [
-      16,
-      16.4
+      15.3,
+      16.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.8,
       22.3
     ],
-    "change": 0,
-    "daysTradeNos": 22,
-    "yesterdaysClose": 16.1,
-    "daysVolumeNos": 9948,
-    "adjustedOpeningPrice": 16.1,
-    "daysValueMn": 0.16,
+    "change": -0.4,
+    "daysTradeNos": 71,
+    "yesterdaysClose": 16.2,
+    "daysVolumeNos": 38144,
+    "adjustedOpeningPrice": 16.2,
+    "daysValueMn": 0.6,
     "openingPrice": 16,
-    "marketCapMn": 625.968,
-    "closingPrice": 16.2,
-    "freeFloatMarketCapMn": 428.44
+    "marketCapMn": 629.856,
+    "closingPrice": 15.4,
+    "freeFloatMarketCapMn": 431.101
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": "01873148582",
     "telephoneNo": "02-41032588"
   },
-  "scrapedAt": "2026-09-12T19:44:22.047Z",
+  "scrapedAt": "2026-09-13T15:43:27.869Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 311,
     "TRADING CODE": "ROBI",
     "tradingCode": "ROBI",
-    "LTP": 30,
-    "HIGH": 30.5,
+    "LTP": 29.9,
+    "HIGH": 30.3,
     "LOW": 29.8,
-    "CLOSEP": 30,
-    "YCP": 29.9,
-    "CHANGE": 0.1,
-    "TRADE": 853,
-    "VALUE (mn)": 35.246,
-    "VOLUME": 1173961
+    "CLOSEP": 29.9,
+    "YCP": 30,
+    "CHANGE": -0.1,
+    "TRADE": 774,
+    "VALUE (mn)": 33.211,
+    "VOLUME": 1111208
   },
   "marketInformation": {
-    "lastTradingPrice": 30,
+    "lastTradingPrice": 29.9,
     "daysRange": [
       29.8,
-      30.5
+      30.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.7,
       33.9
     ],
-    "change": 0.1,
-    "daysTradeNos": 853,
-    "yesterdaysClose": 29.9,
-    "daysVolumeNos": 1173961,
-    "adjustedOpeningPrice": 29.9,
-    "daysValueMn": 35.25,
-    "openingPrice": 29.9,
-    "marketCapMn": 156614.194,
-    "closingPrice": 30,
-    "freeFloatMarketCapMn": 15661.409
+    "change": -0.1,
+    "daysTradeNos": 774,
+    "yesterdaysClose": 30,
+    "daysVolumeNos": 1111208,
+    "adjustedOpeningPrice": 30,
+    "daysValueMn": 33.21,
+    "openingPrice": 30,
+    "marketCapMn": 157137.987,
+    "closingPrice": 29.9,
+    "freeFloatMarketCapMn": 15713.788
   },
   "basicInformation": {
     "authorizedCapitalMn": 60000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 15.89,
-        "peDiluted": null,
-        "peTrailing": 15.02
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 15.68,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 15.79,
         "peDiluted": null,
         "peTrailing": 14.93
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.74,
+        "peDiluted": null,
+        "peTrailing": 14.88
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 16.87,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 16.65,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 16.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 16.7,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801886110110",
     "telephoneNo": "+8801886110110"
   },
-  "scrapedAt": "2026-09-12T19:44:41.744Z",
+  "scrapedAt": "2026-09-13T15:43:47.620Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 383,
     "TRADING CODE": "USMANIAGL",
     "tradingCode": "USMANIAGL",
-    "LTP": 54,
-    "HIGH": 56.6,
-    "LOW": 53.6,
-    "CLOSEP": 54,
-    "YCP": 54.4,
-    "CHANGE": -0.4,
-    "TRADE": 97,
-    "VALUE (mn)": 0.392,
-    "VOLUME": 7187
+    "LTP": 51.7,
+    "HIGH": 55.3,
+    "LOW": 51.1,
+    "CLOSEP": 51.7,
+    "YCP": 54,
+    "CHANGE": -2.3,
+    "TRADE": 103,
+    "VALUE (mn)": 0.458,
+    "VOLUME": 8807
   },
   "marketInformation": {
-    "lastTradingPrice": 54,
+    "lastTradingPrice": 51.7,
     "daysRange": [
-      53.6,
-      56.6
+      51.1,
+      55.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27.7,
       84.7
     ],
-    "change": -0.4,
-    "daysTradeNos": 97,
-    "yesterdaysClose": 54.4,
-    "daysVolumeNos": 7187,
-    "adjustedOpeningPrice": 54.4,
-    "daysValueMn": 0.39,
-    "openingPrice": 56.6,
-    "marketCapMn": 947.153,
-    "closingPrice": 54,
-    "freeFloatMarketCapMn": 445.152
+    "change": -2.3,
+    "daysTradeNos": 103,
+    "yesterdaysClose": 54,
+    "daysVolumeNos": 8807,
+    "adjustedOpeningPrice": 54,
+    "daysValueMn": 0.46,
+    "openingPrice": 53.3,
+    "marketCapMn": 940.189,
+    "closingPrice": 51.7,
+    "freeFloatMarketCapMn": 441.879
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01818 737 479",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:03.840Z",
+  "scrapedAt": "2026-09-13T15:44:17.888Z",
   "shariaCompliant": false
 }

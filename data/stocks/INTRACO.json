@@ -9,37 +9,37 @@
     "#": 181,
     "TRADING CODE": "INTRACO",
     "tradingCode": "INTRACO",
-    "LTP": 22.8,
-    "HIGH": 23.4,
-    "LOW": 22.7,
-    "CLOSEP": 22.8,
-    "YCP": 22.7,
-    "CHANGE": 0.1,
-    "TRADE": 412,
-    "VALUE (mn)": 12.474,
-    "VOLUME": 542138
+    "LTP": 22.4,
+    "HIGH": 22.9,
+    "LOW": 22.1,
+    "CLOSEP": 22.4,
+    "YCP": 22.8,
+    "CHANGE": -0.4,
+    "TRADE": 177,
+    "VALUE (mn)": 3.951,
+    "VOLUME": 175480
   },
   "marketInformation": {
-    "lastTradingPrice": 22.8,
+    "lastTradingPrice": 22.4,
     "daysRange": [
-      22.7,
-      23.4
+      22.1,
+      22.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.3,
       28.7
     ],
-    "change": 0.1,
-    "daysTradeNos": 412,
-    "yesterdaysClose": 22.7,
-    "daysVolumeNos": 542138,
-    "adjustedOpeningPrice": 22.7,
-    "daysValueMn": 12.47,
-    "openingPrice": 22.7,
-    "marketCapMn": 2237.567,
-    "closingPrice": 22.8,
-    "freeFloatMarketCapMn": 1559.587
+    "change": -0.4,
+    "daysTradeNos": 177,
+    "yesterdaysClose": 22.8,
+    "daysVolumeNos": 175480,
+    "adjustedOpeningPrice": 22.8,
+    "daysValueMn": 3.95,
+    "openingPrice": 22.8,
+    "marketCapMn": 2247.424,
+    "closingPrice": 22.4,
+    "freeFloatMarketCapMn": 1566.457
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 115.5,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 113,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 114,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 112,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26.86,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 26.28,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.51,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.05,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01975 006 060",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:53.173Z",
+  "scrapedAt": "2026-09-13T15:42:53.159Z",
   "shariaCompliant": true
 }

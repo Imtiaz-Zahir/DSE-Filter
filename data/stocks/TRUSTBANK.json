@@ -9,36 +9,36 @@
     "#": 372,
     "TRADING CODE": "TRUSTBANK",
     "tradingCode": "TRUSTBANK",
-    "LTP": 14.6,
-    "HIGH": 14.7,
-    "LOW": 14.5,
-    "CLOSEP": 14.6,
+    "LTP": 14.2,
+    "HIGH": 14.6,
+    "LOW": 14.2,
+    "CLOSEP": 14.2,
     "YCP": 14.6,
-    "CHANGE": 0,
-    "TRADE": 426,
-    "VALUE (mn)": 66.701,
-    "VOLUME": 4569450
+    "CHANGE": -0.4,
+    "TRADE": 952,
+    "VALUE (mn)": 17.31,
+    "VOLUME": 1206788
   },
   "marketInformation": {
-    "lastTradingPrice": 14.6,
+    "lastTradingPrice": 14.2,
     "daysRange": [
-      14.5,
-      14.7
+      14.2,
+      14.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      14.4,
+      14.2,
       19.5
     ],
-    "change": 0,
-    "daysTradeNos": 426,
+    "change": -0.4,
+    "daysTradeNos": 952,
     "yesterdaysClose": 14.6,
-    "daysVolumeNos": 4569450,
+    "daysVolumeNos": 1206788,
     "adjustedOpeningPrice": 14.6,
-    "daysValueMn": 66.7,
+    "daysValueMn": 17.31,
     "openingPrice": 14.6,
     "marketCapMn": 15239.238,
-    "closingPrice": 14.6,
+    "closingPrice": 14.2,
     "freeFloatMarketCapMn": 6095.827
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.13,
-        "peDiluted": null,
-        "peTrailing": 4.71
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.08,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.08,
         "peDiluted": null,
         "peTrailing": 4.68
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.92,
+        "peDiluted": null,
+        "peTrailing": 4.55
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.35,
-        "peDiluted": 4.57
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.32,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 4.32,
         "peDiluted": 4.53
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.2,
+        "peDiluted": 4.41
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01755 636 234 (Share Dept.)",
     "telephoneNo": "44870030-2 (Ext-2010)"
   },
-  "scrapedAt": "2026-09-12T19:45:00.616Z",
+  "scrapedAt": "2026-09-13T15:44:13.215Z",
   "shariaCompliant": false
 }

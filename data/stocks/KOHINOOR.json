@@ -9,37 +9,37 @@
     "#": 199,
     "TRADING CODE": "KOHINOOR",
     "tradingCode": "KOHINOOR",
-    "LTP": 525.5,
-    "HIGH": 531.8,
-    "LOW": 525.1,
-    "CLOSEP": 528,
-    "YCP": 528.1,
-    "CHANGE": -2.6,
-    "TRADE": 35,
-    "VALUE (mn)": 0.309,
-    "VOLUME": 586
+    "LTP": 521.8,
+    "HIGH": 539,
+    "LOW": 520,
+    "CLOSEP": 521.8,
+    "YCP": 528,
+    "CHANGE": -6.2,
+    "TRADE": 181,
+    "VALUE (mn)": 3.799,
+    "VOLUME": 7252
   },
   "marketInformation": {
-    "lastTradingPrice": 525.5,
+    "lastTradingPrice": 521.8,
     "daysRange": [
-      525.1,
-      531.8
+      520,
+      539
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       471,
       598
     ],
-    "change": -2.6,
-    "daysTradeNos": 35,
-    "yesterdaysClose": 528.1,
-    "daysVolumeNos": 586,
-    "adjustedOpeningPrice": 528.1,
-    "daysValueMn": 0.31,
-    "openingPrice": 528.2,
-    "marketCapMn": 21534.805,
-    "closingPrice": 528,
-    "freeFloatMarketCapMn": 10645.445
+    "change": -6.2,
+    "daysTradeNos": 181,
+    "yesterdaysClose": 528,
+    "daysVolumeNos": 7252,
+    "adjustedOpeningPrice": 528,
+    "daysValueMn": 3.8,
+    "openingPrice": 525.1,
+    "marketCapMn": 21530.728,
+    "closingPrice": 521.8,
+    "freeFloatMarketCapMn": 10643.429
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.64,
-        "peDiluted": null,
-        "peTrailing": 29.85
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 32.52,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 32.25,
         "peDiluted": null,
         "peTrailing": 29.5
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 31.87,
+        "peDiluted": null,
+        "peTrailing": 29.15
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 31.34,
-        "peDiluted": 34.48
-      },
       {
         "date": "2026-09-06",
         "peBasic": 31.23,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 30.97,
         "peDiluted": 34.06
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 30.6,
+        "peDiluted": 33.66
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+8801716592006",
     "telephoneNo": "8891267-69, Ext-251"
   },
-  "scrapedAt": "2026-09-12T19:43:59.622Z",
+  "scrapedAt": "2026-09-13T15:43:03.157Z",
   "shariaCompliant": true
 }

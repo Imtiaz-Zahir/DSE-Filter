@@ -9,37 +9,37 @@
     "#": 206,
     "TRADING CODE": "LIBRAINFU",
     "tradingCode": "LIBRAINFU",
-    "LTP": 577.8,
-    "HIGH": 580,
-    "LOW": 568.2,
-    "CLOSEP": 577.8,
-    "YCP": 576.3,
-    "CHANGE": 1.5,
-    "TRADE": 163,
-    "VALUE (mn)": 1.435,
-    "VOLUME": 2497
+    "LTP": 572,
+    "HIGH": 578.5,
+    "LOW": 565,
+    "CLOSEP": 572,
+    "YCP": 577.8,
+    "CHANGE": -5.8,
+    "TRADE": 111,
+    "VALUE (mn)": 0.515,
+    "VOLUME": 904
   },
   "marketInformation": {
-    "lastTradingPrice": 577.8,
+    "lastTradingPrice": 572,
     "daysRange": [
-      568.2,
-      580
+      565,
+      578.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       547.1,
       805
     ],
-    "change": 1.5,
-    "daysTradeNos": 163,
-    "yesterdaysClose": 576.3,
-    "daysVolumeNos": 2497,
-    "adjustedOpeningPrice": 576.3,
-    "daysValueMn": 1.44,
-    "openingPrice": 578.6,
-    "marketCapMn": 1298.335,
-    "closingPrice": 577.8,
-    "freeFloatMarketCapMn": 851.449
+    "change": -5.8,
+    "daysTradeNos": 111,
+    "yesterdaysClose": 577.8,
+    "daysVolumeNos": 904,
+    "adjustedOpeningPrice": 577.8,
+    "daysValueMn": 0.52,
+    "openingPrice": 572,
+    "marketCapMn": 1301.714,
+    "closingPrice": 572,
+    "freeFloatMarketCapMn": 853.665
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 111.43,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 109.24,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 108.34,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 107.25,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3962,
-        "peDiluted": 5943
-      },
       {
         "date": "2026-09-06",
         "peBasic": 3884,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 3852,
         "peDiluted": 5778
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3813.33,
+        "peDiluted": 5720
       }
     ]
   },
@@ -367,10 +367,10 @@
     "fax": "+88-02-58055489",
     "email": "cs@libragroupbd.com",
     "webAddress": "http://www.libragroupbd.com",
-    "companySecretaryName": "Mr. Aminur Box",
-    "cellNo": "01903899010",
+    "companySecretaryName": null,
+    "cellNo": null,
     "telephoneNo": "48040254-5, Ext. 132"
   },
-  "scrapedAt": "2026-09-12T19:44:02.983Z",
+  "scrapedAt": "2026-09-13T15:43:06.465Z",
   "shariaCompliant": true
 }

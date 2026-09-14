@@ -9,37 +9,37 @@
     "#": 72,
     "TRADING CODE": "BSC",
     "tradingCode": "BSC",
-    "LTP": 110.5,
-    "HIGH": 113,
-    "LOW": 110.2,
-    "CLOSEP": 110.5,
-    "YCP": 111,
-    "CHANGE": -0.5,
-    "TRADE": 678,
-    "VALUE (mn)": 19.974,
-    "VOLUME": 179492
+    "LTP": 108.1,
+    "HIGH": 110.8,
+    "LOW": 107.8,
+    "CLOSEP": 108.1,
+    "YCP": 110.5,
+    "CHANGE": -2.4,
+    "TRADE": 741,
+    "VALUE (mn)": 20.091,
+    "VOLUME": 184718
   },
   "marketInformation": {
-    "lastTradingPrice": 110.5,
+    "lastTradingPrice": 108.1,
     "daysRange": [
-      110.2,
-      113
+      107.8,
+      110.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       96.6,
       131.4
     ],
-    "change": -0.5,
-    "daysTradeNos": 678,
-    "yesterdaysClose": 111,
-    "daysVolumeNos": 179492,
-    "adjustedOpeningPrice": 111,
-    "daysValueMn": 19.97,
-    "openingPrice": 111,
-    "marketCapMn": 16931.389,
-    "closingPrice": 110.5,
-    "freeFloatMarketCapMn": 7222.05
+    "change": -2.4,
+    "daysTradeNos": 741,
+    "yesterdaysClose": 110.5,
+    "daysVolumeNos": 184718,
+    "adjustedOpeningPrice": 110.5,
+    "daysValueMn": 20.09,
+    "openingPrice": 110.8,
+    "marketCapMn": 16855.122,
+    "closingPrice": 108.1,
+    "freeFloatMarketCapMn": 7189.518
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.54,
-        "peDiluted": null,
-        "peTrailing": 6.08
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.29,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.32,
         "peDiluted": null,
         "peTrailing": 5.87
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.18,
+        "peDiluted": null,
+        "peTrailing": 5.74
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 5.69,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 5.47,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 5.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.38,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01894 509 973",
     "telephoneNo": "031-724479"
   },
-  "scrapedAt": "2026-09-12T19:43:16.697Z",
+  "scrapedAt": "2026-09-13T15:42:13.228Z",
   "shariaCompliant": false
 }

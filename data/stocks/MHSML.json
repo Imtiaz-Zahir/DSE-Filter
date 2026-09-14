@@ -9,37 +9,37 @@
     "#": 225,
     "TRADING CODE": "MHSML",
     "tradingCode": "MHSML",
-    "LTP": 19.8,
-    "HIGH": 20.3,
-    "LOW": 19.6,
-    "CLOSEP": 19.8,
-    "YCP": 20,
-    "CHANGE": -0.2,
-    "TRADE": 326,
-    "VALUE (mn)": 9.697,
-    "VOLUME": 487570
+    "LTP": 18.7,
+    "HIGH": 19.8,
+    "LOW": 18.4,
+    "CLOSEP": 18.7,
+    "YCP": 19.8,
+    "CHANGE": -1.1,
+    "TRADE": 423,
+    "VALUE (mn)": 8.974,
+    "VOLUME": 468732
   },
   "marketInformation": {
-    "lastTradingPrice": 19.8,
+    "lastTradingPrice": 18.7,
     "daysRange": [
-      19.6,
-      20.3
+      18.4,
+      19.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       25.8
     ],
-    "change": -0.2,
-    "daysTradeNos": 326,
-    "yesterdaysClose": 20,
-    "daysVolumeNos": 487570,
-    "adjustedOpeningPrice": 20,
-    "daysValueMn": 9.7,
-    "openingPrice": 20.2,
-    "marketCapMn": 2019.867,
-    "closingPrice": 19.8,
-    "freeFloatMarketCapMn": 1219.866
+    "change": -1.1,
+    "daysTradeNos": 423,
+    "yesterdaysClose": 19.8,
+    "daysVolumeNos": 468732,
+    "adjustedOpeningPrice": 19.8,
+    "daysValueMn": 8.97,
+    "openingPrice": 19.6,
+    "marketCapMn": 1999.669,
+    "closingPrice": 18.7,
+    "freeFloatMarketCapMn": 1207.667
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.26,
-        "peDiluted": null,
-        "peTrailing": 25.06
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.52,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 18.33,
         "peDiluted": null,
         "peTrailing": 23.86
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.31,
+        "peDiluted": null,
+        "peTrailing": 22.53
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.89,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.78,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 27.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.97,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01708-483355",
     "telephoneNo": "880963-9203040 Extension No. 109"
   },
-  "scrapedAt": "2026-09-12T19:44:06.614Z",
+  "scrapedAt": "2026-09-13T15:43:10.243Z",
   "shariaCompliant": true
 }

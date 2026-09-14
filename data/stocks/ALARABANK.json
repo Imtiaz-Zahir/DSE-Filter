@@ -9,37 +9,37 @@
     "#": 22,
     "TRADING CODE": "ALARABANK",
     "tradingCode": "ALARABANK",
-    "LTP": 15.4,
-    "HIGH": 16,
-    "LOW": 15.2,
-    "CLOSEP": 15.4,
-    "YCP": 15.8,
-    "CHANGE": -0.4,
-    "TRADE": 99,
-    "VALUE (mn)": 0.871,
-    "VOLUME": 56157
+    "LTP": 14.5,
+    "HIGH": 15.8,
+    "LOW": 14.5,
+    "CLOSEP": 14.9,
+    "YCP": 15.4,
+    "CHANGE": -0.9,
+    "TRADE": 120,
+    "VALUE (mn)": 0.985,
+    "VOLUME": 65884
   },
   "marketInformation": {
-    "lastTradingPrice": 15.4,
+    "lastTradingPrice": 14.5,
     "daysRange": [
-      15.2,
-      16
+      14.5,
+      15.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       19.5
     ],
-    "change": -0.4,
-    "daysTradeNos": 99,
-    "yesterdaysClose": 15.8,
-    "daysVolumeNos": 56157,
-    "adjustedOpeningPrice": 15.8,
-    "daysValueMn": 0.87,
-    "openingPrice": 16,
-    "marketCapMn": 18196.729,
-    "closingPrice": 15.4,
-    "freeFloatMarketCapMn": 10844.187
+    "change": -0.9,
+    "daysTradeNos": 120,
+    "yesterdaysClose": 15.4,
+    "daysVolumeNos": 65884,
+    "adjustedOpeningPrice": 15.4,
+    "daysValueMn": 0.99,
+    "openingPrice": 15.7,
+    "marketCapMn": 17736.052,
+    "closingPrice": 14.9,
+    "freeFloatMarketCapMn": 10569.65
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 9.88,
-        "peDiluted": null,
-        "peTrailing": 22.08
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 9.48,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 8.95,
         "peDiluted": null,
         "peTrailing": 20
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.66,
+        "peDiluted": null,
+        "peTrailing": 19.35
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.76,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.7,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.58,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01712890010",
     "telephoneNo": "02-44850027, 02-44850005 Ext. 111"
   },
-  "scrapedAt": "2026-09-12T19:42:54.751Z",
+  "scrapedAt": "2026-09-13T15:41:55.947Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 57,
     "TRADING CODE": "BDTHAI",
     "tradingCode": "BDTHAI",
-    "LTP": 15.8,
-    "HIGH": 16.4,
-    "LOW": 15.7,
-    "CLOSEP": 15.8,
-    "YCP": 16.1,
-    "CHANGE": -0.3,
-    "TRADE": 499,
-    "VALUE (mn)": 10.192,
-    "VOLUME": 637462
+    "LTP": 14.8,
+    "HIGH": 16,
+    "LOW": 14.7,
+    "CLOSEP": 14.8,
+    "YCP": 15.8,
+    "CHANGE": -1,
+    "TRADE": 799,
+    "VALUE (mn)": 15.833,
+    "VOLUME": 1047951
   },
   "marketInformation": {
-    "lastTradingPrice": 15.8,
+    "lastTradingPrice": 14.8,
     "daysRange": [
-      15.7,
-      16.4
+      14.7,
+      16
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.4,
       22.7
     ],
-    "change": -0.3,
-    "daysTradeNos": 499,
-    "yesterdaysClose": 16.1,
-    "daysVolumeNos": 637462,
-    "adjustedOpeningPrice": 16.1,
-    "daysValueMn": 10.19,
-    "openingPrice": 16.2,
-    "marketCapMn": 2057.182,
-    "closingPrice": 15.8,
-    "freeFloatMarketCapMn": 1456.951
+    "change": -1,
+    "daysTradeNos": 799,
+    "yesterdaysClose": 15.8,
+    "daysVolumeNos": 1047951,
+    "adjustedOpeningPrice": 15.8,
+    "daysValueMn": 15.83,
+    "openingPrice": 15.9,
+    "marketCapMn": 2018.849,
+    "closingPrice": 14.8,
+    "freeFloatMarketCapMn": 1429.803
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01733200797",
     "telephoneNo": "88-02-226603174-78"
   },
-  "scrapedAt": "2026-09-12T19:43:08.788Z",
+  "scrapedAt": "2026-09-13T15:42:09.726Z",
   "shariaCompliant": true
 }

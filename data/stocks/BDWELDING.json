@@ -9,37 +9,37 @@
     "#": 59,
     "TRADING CODE": "BDWELDING",
     "tradingCode": "BDWELDING",
-    "LTP": 12.1,
-    "HIGH": 12.7,
-    "LOW": 12,
-    "CLOSEP": 12,
-    "YCP": 12.3,
-    "CHANGE": -0.2,
-    "TRADE": 63,
-    "VALUE (mn)": 0.525,
-    "VOLUME": 43447
+    "LTP": 11.4,
+    "HIGH": 12,
+    "LOW": 11.2,
+    "CLOSEP": 11.4,
+    "YCP": 12,
+    "CHANGE": -0.6,
+    "TRADE": 76,
+    "VALUE (mn)": 0.177,
+    "VOLUME": 15215
   },
   "marketInformation": {
-    "lastTradingPrice": 12.1,
+    "lastTradingPrice": 11.4,
     "daysRange": [
-      12,
-      12.7
+      11.2,
+      12
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.8,
       20.8
     ],
-    "change": -0.2,
-    "daysTradeNos": 63,
-    "yesterdaysClose": 12.3,
-    "daysVolumeNos": 43447,
-    "adjustedOpeningPrice": 12.3,
-    "daysValueMn": 0.53,
-    "openingPrice": 12.3,
-    "marketCapMn": 533.196,
-    "closingPrice": 12,
-    "freeFloatMarketCapMn": 367.852
+    "change": -0.6,
+    "daysTradeNos": 76,
+    "yesterdaysClose": 12,
+    "daysVolumeNos": 15215,
+    "adjustedOpeningPrice": 12,
+    "daysValueMn": 0.18,
+    "openingPrice": 11.9,
+    "marketCapMn": 520.192,
+    "closingPrice": 11.4,
+    "freeFloatMarketCapMn": 358.88
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -345,6 +345,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:10.363Z",
+  "scrapedAt": "2026-09-13T15:42:08.825Z",
   "shariaCompliant": false
 }

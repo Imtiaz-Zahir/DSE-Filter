@@ -9,37 +9,37 @@
     "#": 295,
     "TRADING CODE": "PURABIGEN",
     "tradingCode": "PURABIGEN",
-    "LTP": 28.4,
-    "HIGH": 29.2,
-    "LOW": 28.3,
-    "CLOSEP": 28.5,
-    "YCP": 28.6,
-    "CHANGE": -0.2,
-    "TRADE": 203,
-    "VALUE (mn)": 4.229,
-    "VOLUME": 147269
+    "LTP": 26.7,
+    "HIGH": 28.9,
+    "LOW": 26.4,
+    "CLOSEP": 26.7,
+    "YCP": 28.5,
+    "CHANGE": -1.8,
+    "TRADE": 289,
+    "VALUE (mn)": 5.765,
+    "VOLUME": 209945
   },
   "marketInformation": {
-    "lastTradingPrice": 28.4,
+    "lastTradingPrice": 26.7,
     "daysRange": [
-      28.3,
-      29.2
+      26.4,
+      28.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.5,
       36.1
     ],
-    "change": -0.2,
-    "daysTradeNos": 203,
-    "yesterdaysClose": 28.6,
-    "daysVolumeNos": 147269,
-    "adjustedOpeningPrice": 28.6,
-    "daysValueMn": 4.23,
-    "openingPrice": 29.2,
-    "marketCapMn": 1710.638,
-    "closingPrice": 28.5,
-    "freeFloatMarketCapMn": 1170.359
+    "change": -1.8,
+    "daysTradeNos": 289,
+    "yesterdaysClose": 28.5,
+    "daysVolumeNos": 209945,
+    "adjustedOpeningPrice": 28.5,
+    "daysValueMn": 5.77,
+    "openingPrice": 28.9,
+    "marketCapMn": 1704.656,
+    "closingPrice": 26.7,
+    "freeFloatMarketCapMn": 1166.267
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 18.15,
-        "peDiluted": null,
-        "peTrailing": 24.02
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.32,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 16.96,
         "peDiluted": null,
         "peTrailing": 22.44
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.89,
+        "peDiluted": null,
+        "peTrailing": 21.02
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.21,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.05,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.55,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.07,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01841-777999",
     "telephoneNo": "55168145"
   },
-  "scrapedAt": "2026-09-12T19:44:32.690Z",
+  "scrapedAt": "2026-09-13T15:43:38.671Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 335,
     "TRADING CODE": "SHEPHERD",
     "tradingCode": "SHEPHERD",
-    "LTP": 13.5,
-    "HIGH": 14,
-    "LOW": 13.3,
-    "CLOSEP": 13.5,
-    "YCP": 13.8,
-    "CHANGE": -0.3,
-    "TRADE": 274,
-    "VALUE (mn)": 5.002,
-    "VOLUME": 367372
+    "LTP": 12.7,
+    "HIGH": 13.6,
+    "LOW": 12.6,
+    "CLOSEP": 12.7,
+    "YCP": 13.5,
+    "CHANGE": -0.8,
+    "TRADE": 425,
+    "VALUE (mn)": 7.255,
+    "VOLUME": 553757
   },
   "marketInformation": {
-    "lastTradingPrice": 13.5,
+    "lastTradingPrice": 12.7,
     "daysRange": [
-      13.3,
-      14
+      12.6,
+      13.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.8,
       18.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 274,
-    "yesterdaysClose": 13.8,
-    "daysVolumeNos": 367372,
-    "adjustedOpeningPrice": 13.8,
-    "daysValueMn": 5,
-    "openingPrice": 14,
-    "marketCapMn": 2125.841,
-    "closingPrice": 13.5,
-    "freeFloatMarketCapMn": 1169.447
+    "change": -0.8,
+    "daysTradeNos": 425,
+    "yesterdaysClose": 13.5,
+    "daysVolumeNos": 553757,
+    "adjustedOpeningPrice": 13.5,
+    "daysValueMn": 7.26,
+    "openingPrice": 13.6,
+    "marketCapMn": 2079.627,
+    "closingPrice": 12.7,
+    "freeFloatMarketCapMn": 1144.025
   },
   "basicInformation": {
     "authorizedCapitalMn": 1900,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 377.5,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 347.5,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 337.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 317.5,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01966 660 445",
     "telephoneNo": "48963340-42 Ext.111"
   },
-  "scrapedAt": "2026-09-12T19:44:47.902Z",
+  "scrapedAt": "2026-09-13T15:43:57.312Z",
   "shariaCompliant": false
 }

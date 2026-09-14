@@ -9,20 +9,20 @@
     "#": 384,
     "TRADING CODE": "UTTARABANK",
     "tradingCode": "UTTARABANK",
-    "LTP": 20.8,
+    "LTP": 20.7,
     "HIGH": 20.9,
-    "LOW": 20.7,
-    "CLOSEP": 20.8,
+    "LOW": 20.6,
+    "CLOSEP": 20.7,
     "YCP": 20.8,
-    "CHANGE": 0,
-    "TRADE": 280,
-    "VALUE (mn)": 10.374,
-    "VOLUME": 499360
+    "CHANGE": -0.1,
+    "TRADE": 495,
+    "VALUE (mn)": 27.323,
+    "VOLUME": 1320953
   },
   "marketInformation": {
-    "lastTradingPrice": 20.8,
+    "lastTradingPrice": 20.7,
     "daysRange": [
-      20.7,
+      20.6,
       20.9
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       20.3,
       26.5
     ],
-    "change": 0,
-    "daysTradeNos": 280,
+    "change": -0.1,
+    "daysTradeNos": 495,
     "yesterdaysClose": 20.8,
-    "daysVolumeNos": 499360,
+    "daysVolumeNos": 1320953,
     "adjustedOpeningPrice": 20.8,
-    "daysValueMn": 10.37,
-    "openingPrice": 20.8,
+    "daysValueMn": 27.32,
+    "openingPrice": 20.9,
     "marketCapMn": 25226.991,
-    "closingPrice": 20.8,
+    "closingPrice": 20.7,
     "freeFloatMarketCapMn": 17491.229
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.66,
-        "peDiluted": null,
-        "peTrailing": 3.2
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.66,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 4.66,
         "peDiluted": null,
         "peTrailing": 3.2
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.64,
+        "peDiluted": null,
+        "peTrailing": 3.19
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.42,
         "peDiluted": 4.28
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 3.42,
         "peDiluted": 4.28
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.4,
+        "peDiluted": 4.26
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01991 144 088",
     "telephoneNo": "+8802223382206"
   },
-  "scrapedAt": "2026-09-12T19:45:06.061Z",
+  "scrapedAt": "2026-09-13T15:44:17.843Z",
   "shariaCompliant": false
 }

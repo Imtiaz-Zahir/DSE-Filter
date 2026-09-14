@@ -11,18 +11,18 @@
     "tradingCode": "ICBSONALI1",
     "LTP": 6.9,
     "HIGH": 7.1,
-    "LOW": 6.6,
+    "LOW": 6.7,
     "CLOSEP": 6.9,
-    "YCP": 6.6,
-    "CHANGE": 0.3,
-    "TRADE": 544,
-    "VALUE (mn)": 21.543,
-    "VOLUME": 3141470
+    "YCP": 6.9,
+    "CHANGE": 0,
+    "TRADE": 455,
+    "VALUE (mn)": 19.232,
+    "VOLUME": 2770603
   },
   "marketInformation": {
     "lastTradingPrice": 6.9,
     "daysRange": [
-      6.6,
+      6.7,
       7.1
     ],
     "lastUpdate": "2:40 PM",
@@ -30,14 +30,14 @@
       3.8,
       7.9
     ],
-    "change": 0.3,
-    "daysTradeNos": 544,
-    "yesterdaysClose": 6.6,
-    "daysVolumeNos": 3141470,
-    "adjustedOpeningPrice": 6.6,
-    "daysValueMn": 21.54,
-    "openingPrice": 6.8,
-    "marketCapMn": 660,
+    "change": 0,
+    "daysTradeNos": 455,
+    "yesterdaysClose": 6.9,
+    "daysVolumeNos": 2770603,
+    "adjustedOpeningPrice": 6.9,
+    "daysValueMn": 19.23,
+    "openingPrice": 7.1,
+    "marketCapMn": 690,
     "closingPrice": 6.9,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.63,
-        "peDiluted": null,
-        "peTrailing": 5.63
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.27,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.16,
         "peDiluted": null,
         "peTrailing": 6.16
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.16,
+        "peDiluted": null,
+        "peTrailing": 6.16
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-12T19:43:48.653Z",
+  "scrapedAt": "2026-09-13T15:42:49.942Z",
   "shariaCompliant": false
 }

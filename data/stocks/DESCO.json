@@ -9,37 +9,37 @@
     "#": 98,
     "TRADING CODE": "DESCO",
     "tradingCode": "DESCO",
-    "LTP": 21.8,
-    "HIGH": 22.7,
-    "LOW": 21.8,
-    "CLOSEP": 21.9,
-    "YCP": 22.1,
-    "CHANGE": -0.3,
-    "TRADE": 147,
-    "VALUE (mn)": 1.064,
-    "VOLUME": 48336
+    "LTP": 21.4,
+    "HIGH": 22.1,
+    "LOW": 21.4,
+    "CLOSEP": 21.5,
+    "YCP": 21.9,
+    "CHANGE": -0.5,
+    "TRADE": 101,
+    "VALUE (mn)": 0.981,
+    "VOLUME": 45488
   },
   "marketInformation": {
-    "lastTradingPrice": 21.8,
+    "lastTradingPrice": 21.4,
     "daysRange": [
-      21.8,
-      22.7
+      21.4,
+      22.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.1,
       27.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 147,
-    "yesterdaysClose": 22.1,
-    "daysVolumeNos": 48336,
-    "adjustedOpeningPrice": 22.1,
-    "daysValueMn": 1.06,
-    "openingPrice": 22.7,
-    "marketCapMn": 8786.293,
-    "closingPrice": 21.9,
-    "freeFloatMarketCapMn": 2841.641
+    "change": -0.5,
+    "daysTradeNos": 101,
+    "yesterdaysClose": 21.9,
+    "daysVolumeNos": 45488,
+    "adjustedOpeningPrice": 21.9,
+    "daysValueMn": 0.98,
+    "openingPrice": 22.1,
+    "marketCapMn": 8706.779,
+    "closingPrice": 21.5,
+    "freeFloatMarketCapMn": 2815.925
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.97,
-        "peDiluted": null,
-        "peTrailing": 80.34
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.71,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.25,
         "peDiluted": null,
         "peTrailing": 75.52
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.04,
+        "peDiluted": null,
+        "peTrailing": 74.14
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01335 171074",
     "telephoneNo": "88 02 8900330, 09610111111 Ext.-1100"
   },
-  "scrapedAt": "2026-09-12T19:43:25.016Z",
+  "scrapedAt": "2026-09-13T15:42:24.659Z",
   "shariaCompliant": false
 }

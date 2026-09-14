@@ -9,37 +9,37 @@
     "#": 354,
     "TRADING CODE": "SPCL",
     "tradingCode": "SPCL",
-    "LTP": 49.9,
-    "HIGH": 51.2,
-    "LOW": 49.4,
-    "CLOSEP": 49.9,
-    "YCP": 50.6,
-    "CHANGE": -0.7,
-    "TRADE": 480,
-    "VALUE (mn)": 13.448,
-    "VOLUME": 267539
+    "LTP": 47.9,
+    "HIGH": 50,
+    "LOW": 47.6,
+    "CLOSEP": 47.9,
+    "YCP": 49.9,
+    "CHANGE": -2,
+    "TRADE": 716,
+    "VALUE (mn)": 21.831,
+    "VOLUME": 448583
   },
   "marketInformation": {
-    "lastTradingPrice": 49.9,
+    "lastTradingPrice": 47.9,
     "daysRange": [
-      49.4,
-      51.2
+      47.6,
+      50
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.5,
       60.6
     ],
-    "change": -0.7,
-    "daysTradeNos": 480,
-    "yesterdaysClose": 50.6,
-    "daysVolumeNos": 267539,
-    "adjustedOpeningPrice": 50.6,
-    "daysValueMn": 13.45,
-    "openingPrice": 51,
-    "marketCapMn": 9443.56,
-    "closingPrice": 49.9,
-    "freeFloatMarketCapMn": 4402.57
+    "change": -2,
+    "daysTradeNos": 716,
+    "yesterdaysClose": 49.9,
+    "daysVolumeNos": 448583,
+    "adjustedOpeningPrice": 49.9,
+    "daysValueMn": 21.83,
+    "openingPrice": 50,
+    "marketCapMn": 9312.918,
+    "closingPrice": 47.9,
+    "freeFloatMarketCapMn": 4341.665
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 9.06,
-        "peDiluted": null,
-        "peTrailing": 10.41
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 8.72,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 8.56,
         "peDiluted": null,
         "peTrailing": 9.84
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.22,
+        "peDiluted": null,
+        "peTrailing": 9.45
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.87,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 20.08,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 19.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.93,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01720 596 095",
     "telephoneNo": "09678221177 Ext-112"
   },
-  "scrapedAt": "2026-09-12T19:44:55.027Z",
+  "scrapedAt": "2026-09-13T15:44:04.849Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 104,
     "TRADING CODE": "DOREENPWR",
     "tradingCode": "DOREENPWR",
-    "LTP": 30.4,
-    "HIGH": 31.8,
-    "LOW": 30.2,
-    "CLOSEP": 30.4,
-    "YCP": 31.5,
-    "CHANGE": -1.1,
-    "TRADE": 525,
-    "VALUE (mn)": 12.125,
-    "VOLUME": 392538
+    "LTP": 29.2,
+    "HIGH": 30.5,
+    "LOW": 28.9,
+    "CLOSEP": 29.2,
+    "YCP": 30.4,
+    "CHANGE": -1.2,
+    "TRADE": 670,
+    "VALUE (mn)": 13.578,
+    "VOLUME": 457721
   },
   "marketInformation": {
-    "lastTradingPrice": 30.4,
+    "lastTradingPrice": 29.2,
     "daysRange": [
-      30.2,
-      31.8
+      28.9,
+      30.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       24.5,
       36.5
     ],
-    "change": -1.1,
-    "daysTradeNos": 525,
-    "yesterdaysClose": 31.5,
-    "daysVolumeNos": 392538,
-    "adjustedOpeningPrice": 31.5,
-    "daysValueMn": 12.13,
-    "openingPrice": 31.8,
-    "marketCapMn": 5705.245,
-    "closingPrice": 30.4,
-    "freeFloatMarketCapMn": 1614.249
+    "change": -1.2,
+    "daysTradeNos": 670,
+    "yesterdaysClose": 30.4,
+    "daysVolumeNos": 457721,
+    "adjustedOpeningPrice": 30.4,
+    "daysValueMn": 13.58,
+    "openingPrice": 30.4,
+    "marketCapMn": 5506.015,
+    "closingPrice": 29.2,
+    "freeFloatMarketCapMn": 1557.878
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.79,
-        "peDiluted": null,
-        "peTrailing": 7.47
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.57,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.48,
         "peDiluted": null,
         "peTrailing": 7.07
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.26,
+        "peDiluted": null,
+        "peTrailing": 6.79
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 10.06,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 9.69,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 9.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.15,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 709 671",
     "telephoneNo": "+88-02-222260744"
   },
-  "scrapedAt": "2026-09-12T19:43:26.103Z",
+  "scrapedAt": "2026-09-13T15:42:25.554Z",
   "shariaCompliant": true
 }

@@ -9,20 +9,20 @@
     "#": 310,
     "TRADING CODE": "RINGSHINE",
     "tradingCode": "RINGSHINE",
-    "LTP": 3.8,
+    "LTP": 3.7,
     "HIGH": 3.9,
-    "LOW": 3.8,
-    "CLOSEP": 3.8,
+    "LOW": 3.7,
+    "CLOSEP": 3.7,
     "YCP": 3.8,
-    "CHANGE": 0,
-    "TRADE": 137,
-    "VALUE (mn)": 1.032,
-    "VOLUME": 271146
+    "CHANGE": -0.1,
+    "TRADE": 245,
+    "VALUE (mn)": 1.938,
+    "VOLUME": 517119
   },
   "marketInformation": {
-    "lastTradingPrice": 3.8,
+    "lastTradingPrice": 3.7,
     "daysRange": [
-      3.8,
+      3.7,
       3.9
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       1.9,
       5.3
     ],
-    "change": 0,
-    "daysTradeNos": 137,
+    "change": -0.1,
+    "daysTradeNos": 245,
     "yesterdaysClose": 3.8,
-    "daysVolumeNos": 271146,
+    "daysVolumeNos": 517119,
     "adjustedOpeningPrice": 3.8,
-    "daysValueMn": 1.03,
+    "daysValueMn": 1.94,
     "openingPrice": 3.8,
     "marketCapMn": 1901.19,
-    "closingPrice": 3.8,
+    "closingPrice": 3.7,
     "freeFloatMarketCapMn": 1019.092
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01713 048612",
     "telephoneNo": "029885580, 028855808"
   },
-  "scrapedAt": "2026-09-12T19:44:41.024Z",
+  "scrapedAt": "2026-09-13T15:43:45.358Z",
   "shariaCompliant": false
 }

@@ -9,20 +9,20 @@
     "#": 183,
     "TRADING CODE": "ISLAMIBANK",
     "tradingCode": "ISLAMIBANK",
-    "LTP": 27.7,
+    "LTP": 27.2,
     "HIGH": 27.8,
-    "LOW": 27.3,
-    "CLOSEP": 27.7,
-    "YCP": 27.5,
-    "CHANGE": 0.2,
-    "TRADE": 131,
-    "VALUE (mn)": 1.029,
-    "VOLUME": 37273
+    "LOW": 27.2,
+    "CLOSEP": 27.2,
+    "YCP": 27.7,
+    "CHANGE": -0.5,
+    "TRADE": 223,
+    "VALUE (mn)": 2.028,
+    "VOLUME": 74372
   },
   "marketInformation": {
-    "lastTradingPrice": 27.7,
+    "lastTradingPrice": 27.2,
     "daysRange": [
-      27.3,
+      27.2,
       27.8
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       23.9,
       56.2
     ],
-    "change": 0.2,
-    "daysTradeNos": 131,
-    "yesterdaysClose": 27.5,
-    "daysVolumeNos": 37273,
-    "adjustedOpeningPrice": 27.5,
-    "daysValueMn": 1.03,
-    "openingPrice": 27.3,
-    "marketCapMn": 44274.743,
-    "closingPrice": 27.7,
-    "freeFloatMarketCapMn": 5061.351
+    "change": -0.5,
+    "daysTradeNos": 223,
+    "yesterdaysClose": 27.7,
+    "daysVolumeNos": 74372,
+    "adjustedOpeningPrice": 27.7,
+    "daysValueMn": 2.03,
+    "openingPrice": 27.8,
+    "marketCapMn": 44596.742,
+    "closingPrice": 27.2,
+    "freeFloatMarketCapMn": 5098.161
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 39.85,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 40.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 40.74,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 40,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 739987",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:53.330Z",
+  "scrapedAt": "2026-09-13T15:42:53.197Z",
   "shariaCompliant": true
 }

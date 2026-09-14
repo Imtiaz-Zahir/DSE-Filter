@@ -9,37 +9,37 @@
     "#": 347,
     "TRADING CODE": "SONALIANSH",
     "tradingCode": "SONALIANSH",
-    "LTP": 208.5,
-    "HIGH": 212.8,
-    "LOW": 206.9,
-    "CLOSEP": 208.5,
-    "YCP": 209,
-    "CHANGE": -0.5,
-    "TRADE": 617,
-    "VALUE (mn)": 11.02,
-    "VOLUME": 52523
+    "LTP": 199.9,
+    "HIGH": 208.9,
+    "LOW": 198,
+    "CLOSEP": 199.9,
+    "YCP": 208.5,
+    "CHANGE": -8.6,
+    "TRADE": 748,
+    "VALUE (mn)": 13.416,
+    "VOLUME": 66216
   },
   "marketInformation": {
-    "lastTradingPrice": 208.5,
+    "lastTradingPrice": 199.9,
     "daysRange": [
-      206.9,
-      212.8
+      198,
+      208.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       150,
       244.4
     ],
-    "change": -0.5,
-    "daysTradeNos": 617,
-    "yesterdaysClose": 209,
-    "daysVolumeNos": 52523,
-    "adjustedOpeningPrice": 209,
-    "daysValueMn": 11.02,
-    "openingPrice": 212.8,
-    "marketCapMn": 2267.232,
-    "closingPrice": 208.5,
-    "freeFloatMarketCapMn": 1563.872
+    "change": -8.6,
+    "daysTradeNos": 748,
+    "yesterdaysClose": 208.5,
+    "daysVolumeNos": 66216,
+    "adjustedOpeningPrice": 208.5,
+    "daysValueMn": 13.42,
+    "openingPrice": 208.9,
+    "marketCapMn": 2261.808,
+    "closingPrice": 199.9,
+    "freeFloatMarketCapMn": 1560.13
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 28.77,
-        "peDiluted": null,
-        "peTrailing": 23.49
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.66,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 27.82,
         "peDiluted": null,
         "peTrailing": 22.71
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.68,
+        "peDiluted": null,
+        "peTrailing": 21.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.53,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.58,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.74,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01713 399 061",
     "telephoneNo": "+8802 41054081"
   },
-  "scrapedAt": "2026-09-12T19:44:54.402Z",
+  "scrapedAt": "2026-09-13T15:44:02.506Z",
   "shariaCompliant": false
 }

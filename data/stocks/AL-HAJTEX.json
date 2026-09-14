@@ -9,37 +9,37 @@
     "#": 21,
     "TRADING CODE": "AL-HAJTEX",
     "tradingCode": "AL-HAJTEX",
-    "LTP": 70,
-    "HIGH": 73.4,
-    "LOW": 69.6,
-    "CLOSEP": 70,
-    "YCP": 72.9,
-    "CHANGE": -2.9,
-    "TRADE": 1215,
-    "VALUE (mn)": 18.836,
-    "VOLUME": 266014
+    "LTP": 66,
+    "HIGH": 71,
+    "LOW": 64.1,
+    "CLOSEP": 66,
+    "YCP": 70,
+    "CHANGE": -4,
+    "TRADE": 1288,
+    "VALUE (mn)": 16.369,
+    "VOLUME": 245118
   },
   "marketInformation": {
-    "lastTradingPrice": 70,
+    "lastTradingPrice": 66,
     "daysRange": [
-      69.6,
-      73.4
+      64.1,
+      71
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      69.6,
+      64.1,
       187.5
     ],
-    "change": -2.9,
-    "daysTradeNos": 1215,
-    "yesterdaysClose": 72.9,
-    "daysVolumeNos": 266014,
-    "adjustedOpeningPrice": 72.9,
-    "daysValueMn": 18.84,
-    "openingPrice": 73,
-    "marketCapMn": 1625.564,
-    "closingPrice": 70,
-    "freeFloatMarketCapMn": 1127.141
+    "change": -4,
+    "daysTradeNos": 1288,
+    "yesterdaysClose": 70,
+    "daysVolumeNos": 245118,
+    "adjustedOpeningPrice": 70,
+    "daysValueMn": 16.37,
+    "openingPrice": 70,
+    "marketCapMn": 1560.898,
+    "closingPrice": 66,
+    "freeFloatMarketCapMn": 1082.303
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 8.36,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 7.75,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 6.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.55,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01718691464",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:53.882Z",
+  "scrapedAt": "2026-09-13T15:41:56.348Z",
   "shariaCompliant": false
 }

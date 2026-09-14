@@ -9,37 +9,37 @@
     "#": 236,
     "TRADING CODE": "MONOSPOOL",
     "tradingCode": "MONOSPOOL",
-    "LTP": 106.4,
-    "HIGH": 108.3,
-    "LOW": 106,
-    "CLOSEP": 106.4,
-    "YCP": 106,
-    "CHANGE": 0.4,
-    "TRADE": 493,
-    "VALUE (mn)": 10.064,
-    "VOLUME": 94131
+    "LTP": 101.9,
+    "HIGH": 106.8,
+    "LOW": 101.2,
+    "CLOSEP": 101.9,
+    "YCP": 106.4,
+    "CHANGE": -4.5,
+    "TRADE": 728,
+    "VALUE (mn)": 16.666,
+    "VOLUME": 160564
   },
   "marketInformation": {
-    "lastTradingPrice": 106.4,
+    "lastTradingPrice": 101.9,
     "daysRange": [
-      106,
-      108.3
+      101.2,
+      106.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       84.5,
       305.6
     ],
-    "change": 0.4,
-    "daysTradeNos": 493,
-    "yesterdaysClose": 106,
-    "daysVolumeNos": 94131,
-    "adjustedOpeningPrice": 106,
-    "daysValueMn": 10.06,
-    "openingPrice": 107.4,
-    "marketCapMn": 4157.412,
-    "closingPrice": 106.4,
-    "freeFloatMarketCapMn": 1588.639
+    "change": -4.5,
+    "daysTradeNos": 728,
+    "yesterdaysClose": 106.4,
+    "daysVolumeNos": 160564,
+    "adjustedOpeningPrice": 106.4,
+    "daysValueMn": 16.67,
+    "openingPrice": 106.7,
+    "marketCapMn": 4173.1,
+    "closingPrice": 101.9,
+    "freeFloatMarketCapMn": 1594.634
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 26.48,
-        "peDiluted": null,
-        "peTrailing": 32.09
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 26.04,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 25.83,
         "peDiluted": null,
         "peTrailing": 31.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.73,
+        "peDiluted": null,
+        "peTrailing": 29.97
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 29.02,
-        "peDiluted": 33.36
-      },
       {
         "date": "2026-09-06",
         "peBasic": 28.54,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 28.3,
         "peDiluted": 32.54
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.1,
+        "peDiluted": 31.16
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01847 091 028",
     "telephoneNo": "+880-2-55036456 (Ext. 703)"
   },
-  "scrapedAt": "2026-09-12T19:44:12.926Z",
+  "scrapedAt": "2026-09-13T15:43:17.184Z",
   "shariaCompliant": false
 }

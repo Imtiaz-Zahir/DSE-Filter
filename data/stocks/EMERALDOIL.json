@@ -9,37 +9,37 @@
     "#": 119,
     "TRADING CODE": "EMERALDOIL",
     "tradingCode": "EMERALDOIL",
-    "LTP": 28.3,
-    "HIGH": 29,
-    "LOW": 28.2,
-    "CLOSEP": 28.3,
-    "YCP": 28.6,
-    "CHANGE": -0.3,
-    "TRADE": 205,
-    "VALUE (mn)": 2.735,
-    "VOLUME": 96063
+    "LTP": 26.6,
+    "HIGH": 28.6,
+    "LOW": 25.7,
+    "CLOSEP": 26.6,
+    "YCP": 28.3,
+    "CHANGE": -1.7,
+    "TRADE": 433,
+    "VALUE (mn)": 8.392,
+    "VOLUME": 309571
   },
   "marketInformation": {
-    "lastTradingPrice": 28.3,
+    "lastTradingPrice": 26.6,
     "daysRange": [
-      28.2,
-      29
+      25.7,
+      28.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.2,
       31.8
     ],
-    "change": -0.3,
-    "daysTradeNos": 205,
-    "yesterdaysClose": 28.6,
-    "daysVolumeNos": 96063,
-    "adjustedOpeningPrice": 28.6,
-    "daysValueMn": 2.74,
-    "openingPrice": 29,
-    "marketCapMn": 2610.379,
-    "closingPrice": 28.3,
-    "freeFloatMarketCapMn": 1187.812
+    "change": -1.7,
+    "daysTradeNos": 433,
+    "yesterdaysClose": 28.3,
+    "daysVolumeNos": 309571,
+    "adjustedOpeningPrice": 28.3,
+    "daysValueMn": 8.39,
+    "openingPrice": 28.1,
+    "marketCapMn": 2582.998,
+    "closingPrice": 26.6,
+    "freeFloatMarketCapMn": 1175.352
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 8.74,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 8.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 8.47,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.96,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 40,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 39.32,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 38.77,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 36.44,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01726128969",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:29.586Z",
+  "scrapedAt": "2026-09-13T15:42:29.546Z",
   "shariaCompliant": false
 }

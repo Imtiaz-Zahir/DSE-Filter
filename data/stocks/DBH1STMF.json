@@ -9,36 +9,36 @@
     "#": 95,
     "TRADING CODE": "DBH1STMF",
     "tradingCode": "DBH1STMF",
-    "LTP": 5.6,
-    "HIGH": 5.7,
-    "LOW": 5.5,
-    "CLOSEP": 5.6,
-    "YCP": 5.4,
-    "CHANGE": 0.2,
-    "TRADE": 399,
-    "VALUE (mn)": 11.809,
-    "VOLUME": 2110153
+    "LTP": 5.5,
+    "HIGH": 5.9,
+    "LOW": 5.4,
+    "CLOSEP": 5.5,
+    "YCP": 5.6,
+    "CHANGE": -0.1,
+    "TRADE": 478,
+    "VALUE (mn)": 23.463,
+    "VOLUME": 4104797
   },
   "marketInformation": {
-    "lastTradingPrice": 5.6,
+    "lastTradingPrice": 5.5,
     "daysRange": [
-      5.5,
-      5.7
+      5.4,
+      5.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.1,
       7.7
     ],
-    "change": 0.2,
-    "daysTradeNos": 399,
-    "yesterdaysClose": 5.4,
-    "daysVolumeNos": 2110153,
-    "adjustedOpeningPrice": 5.4,
-    "daysValueMn": 11.81,
-    "openingPrice": 5.5,
-    "marketCapMn": 648,
-    "closingPrice": 5.6,
+    "change": -0.1,
+    "daysTradeNos": 478,
+    "yesterdaysClose": 5.6,
+    "daysVolumeNos": 4104797,
+    "adjustedOpeningPrice": 5.6,
+    "daysValueMn": 23.46,
+    "openingPrice": 5.7,
+    "marketCapMn": 672,
+    "closingPrice": 5.5,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 17.93,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 18.28,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 19.31,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.97,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-12T19:43:22.797Z",
+  "scrapedAt": "2026-09-13T15:42:22.185Z",
   "shariaCompliant": false
 }

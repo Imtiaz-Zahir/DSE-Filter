@@ -9,37 +9,37 @@
     "#": 141,
     "TRADING CODE": "GEMINISEA",
     "tradingCode": "GEMINISEA",
-    "LTP": 108.8,
-    "HIGH": 112.4,
-    "LOW": 107.3,
-    "CLOSEP": 108.8,
-    "YCP": 107.6,
-    "CHANGE": 1.2,
-    "TRADE": 53,
-    "VALUE (mn)": 0.413,
-    "VOLUME": 3799
+    "LTP": 105.1,
+    "HIGH": 111.5,
+    "LOW": 105,
+    "CLOSEP": 105.1,
+    "YCP": 108.8,
+    "CHANGE": -3.7,
+    "TRADE": 116,
+    "VALUE (mn)": 0.503,
+    "VOLUME": 4708
   },
   "marketInformation": {
-    "lastTradingPrice": 108.8,
+    "lastTradingPrice": 105.1,
     "daysRange": [
-      107.3,
-      112.4
+      105,
+      111.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       103.1,
       186.2
     ],
-    "change": 1.2,
-    "daysTradeNos": 53,
-    "yesterdaysClose": 107.6,
-    "daysVolumeNos": 3799,
-    "adjustedOpeningPrice": 107.6,
-    "daysValueMn": 0.41,
-    "openingPrice": 112.4,
-    "marketCapMn": 1235.831,
-    "closingPrice": 108.8,
-    "freeFloatMarketCapMn": 864.966
+    "change": -3.7,
+    "daysTradeNos": 116,
+    "yesterdaysClose": 108.8,
+    "daysVolumeNos": 4708,
+    "adjustedOpeningPrice": 108.8,
+    "daysValueMn": 0.5,
+    "openingPrice": 109.7,
+    "marketCapMn": 1249.613,
+    "closingPrice": 105.1,
+    "freeFloatMarketCapMn": 874.612
   },
   "basicInformation": {
     "authorizedCapitalMn": 400,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.41,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.35,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.51,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01708803244",
     "telephoneNo": "+88-02-41020596-9, Extension: 117"
   },
-  "scrapedAt": "2026-09-12T19:43:37.099Z",
+  "scrapedAt": "2026-09-13T15:42:36.631Z",
   "shariaCompliant": false
 }

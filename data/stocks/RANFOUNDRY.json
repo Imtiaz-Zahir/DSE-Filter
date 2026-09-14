@@ -9,37 +9,37 @@
     "#": 301,
     "TRADING CODE": "RANFOUNDRY",
     "tradingCode": "RANFOUNDRY",
-    "LTP": 148.1,
-    "HIGH": 150.8,
-    "LOW": 147.8,
-    "CLOSEP": 148.1,
-    "YCP": 150.2,
-    "CHANGE": -2.1,
-    "TRADE": 71,
-    "VALUE (mn)": 0.781,
-    "VOLUME": 5264
+    "LTP": 148.4,
+    "HIGH": 149.8,
+    "LOW": 146.5,
+    "CLOSEP": 147.3,
+    "YCP": 148.1,
+    "CHANGE": 0.3,
+    "TRADE": 32,
+    "VALUE (mn)": 0.35,
+    "VOLUME": 2375
   },
   "marketInformation": {
-    "lastTradingPrice": 148.1,
+    "lastTradingPrice": 148.4,
     "daysRange": [
-      147.8,
-      150.8
+      146.5,
+      149.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       135,
       184.7
     ],
-    "change": -2.1,
-    "daysTradeNos": 71,
-    "yesterdaysClose": 150.2,
-    "daysVolumeNos": 5264,
-    "adjustedOpeningPrice": 150.2,
-    "daysValueMn": 0.78,
-    "openingPrice": 150.8,
-    "marketCapMn": 1502,
-    "closingPrice": 148.1,
-    "freeFloatMarketCapMn": 752.69
+    "change": 0.3,
+    "daysTradeNos": 32,
+    "yesterdaysClose": 148.1,
+    "daysVolumeNos": 2375,
+    "adjustedOpeningPrice": 148.1,
+    "daysValueMn": 0.35,
+    "openingPrice": 149.8,
+    "marketCapMn": 1481,
+    "closingPrice": 147.3,
+    "freeFloatMarketCapMn": 742.166
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 36.52,
-        "peDiluted": null,
-        "peTrailing": 39.92
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 35.83,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.37,
         "peDiluted": null,
         "peTrailing": 38.67
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.18,
+        "peDiluted": null,
+        "peTrailing": 38.46
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 39.61,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 38.86,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 38.37,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 38.16,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01769 696 200",
     "telephoneNo": "02222281792; Ext.: 430"
   },
-  "scrapedAt": "2026-09-12T19:44:38.500Z",
+  "scrapedAt": "2026-09-13T15:43:43.443Z",
   "shariaCompliant": true
 }

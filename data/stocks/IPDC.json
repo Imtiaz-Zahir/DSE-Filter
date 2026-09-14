@@ -9,37 +9,37 @@
     "#": 182,
     "TRADING CODE": "IPDC",
     "tradingCode": "IPDC",
-    "LTP": 31.7,
-    "HIGH": 32.6,
-    "LOW": 31.6,
-    "CLOSEP": 31.7,
-    "YCP": 31.8,
-    "CHANGE": -0.1,
-    "TRADE": 884,
-    "VALUE (mn)": 46.171,
-    "VOLUME": 1446771
+    "LTP": 30.7,
+    "HIGH": 32,
+    "LOW": 30.3,
+    "CLOSEP": 30.7,
+    "YCP": 31.7,
+    "CHANGE": -1,
+    "TRADE": 934,
+    "VALUE (mn)": 50.085,
+    "VOLUME": 1625588
   },
   "marketInformation": {
-    "lastTradingPrice": 31.7,
+    "lastTradingPrice": 30.7,
     "daysRange": [
-      31.6,
-      32.6
+      30.3,
+      32
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.5,
       36.5
     ],
-    "change": -0.1,
-    "daysTradeNos": 884,
-    "yesterdaysClose": 31.8,
-    "daysVolumeNos": 1446771,
-    "adjustedOpeningPrice": 31.8,
-    "daysValueMn": 46.17,
-    "openingPrice": 32,
-    "marketCapMn": 13660.798,
-    "closingPrice": 31.7,
-    "freeFloatMarketCapMn": 5207.213
+    "change": -1,
+    "daysTradeNos": 934,
+    "yesterdaysClose": 31.7,
+    "daysVolumeNos": 1625588,
+    "adjustedOpeningPrice": 31.7,
+    "daysValueMn": 50.09,
+    "openingPrice": 31.7,
+    "marketCapMn": 13617.84,
+    "closingPrice": 30.7,
+    "freeFloatMarketCapMn": 5190.838
   },
   "basicInformation": {
     "authorizedCapitalMn": 8000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 33.33,
-        "peDiluted": null,
-        "peTrailing": 26.23
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 32.5,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 33.02,
         "peDiluted": null,
         "peTrailing": 25.98
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 31.98,
+        "peDiluted": null,
+        "peTrailing": 25.16
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.83,
-        "peDiluted": 30.19
-      },
       {
         "date": "2026-09-06",
         "peBasic": 28.11,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 28.56,
         "peDiluted": 29.91
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.66,
+        "peDiluted": 28.96
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01313778144",
     "telephoneNo": "09612 885533 Ext-112"
   },
-  "scrapedAt": "2026-09-12T19:43:53.266Z",
+  "scrapedAt": "2026-09-13T15:42:53.406Z",
   "shariaCompliant": false
 }

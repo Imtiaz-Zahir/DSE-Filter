@@ -9,37 +9,37 @@
     "#": 299,
     "TRADING CODE": "RAHIMTEXT",
     "tradingCode": "RAHIMTEXT",
-    "LTP": 182.7,
-    "HIGH": 187.9,
-    "LOW": 181,
-    "CLOSEP": 182.7,
-    "YCP": 183.1,
-    "CHANGE": -0.4,
-    "TRADE": 145,
-    "VALUE (mn)": 1.27,
-    "VOLUME": 6864
+    "LTP": 173.2,
+    "HIGH": 182.8,
+    "LOW": 173.1,
+    "CLOSEP": 173.7,
+    "YCP": 182.7,
+    "CHANGE": -9.5,
+    "TRADE": 226,
+    "VALUE (mn)": 1.878,
+    "VOLUME": 10545
   },
   "marketInformation": {
-    "lastTradingPrice": 182.7,
+    "lastTradingPrice": 173.2,
     "daysRange": [
-      181,
-      187.9
+      173.1,
+      182.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       135.2,
       271.9
     ],
-    "change": -0.4,
-    "daysTradeNos": 145,
-    "yesterdaysClose": 183.1,
-    "daysVolumeNos": 6864,
-    "adjustedOpeningPrice": 183.1,
-    "daysValueMn": 1.27,
-    "openingPrice": 183.2,
-    "marketCapMn": 1732.068,
-    "closingPrice": 182.7,
-    "freeFloatMarketCapMn": 503.274
+    "change": -9.5,
+    "daysTradeNos": 226,
+    "yesterdaysClose": 182.7,
+    "daysVolumeNos": 10545,
+    "adjustedOpeningPrice": 182.7,
+    "daysValueMn": 1.88,
+    "openingPrice": 182.7,
+    "marketCapMn": 1728.284,
+    "closingPrice": 173.7,
+    "freeFloatMarketCapMn": 502.175
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 72.23,
-        "peDiluted": null,
-        "peTrailing": 77.8
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 68.88,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 66.52,
         "peDiluted": null,
         "peTrailing": 71.65
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 63.24,
+        "peDiluted": null,
+        "peTrailing": 68.12
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 153.8,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 146.67,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 141.63,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 134.65,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01709 998 863",
     "telephoneNo": "+8809612111177-92 Ext.-185, +880-2-8878062, +880-2-8878065"
   },
-  "scrapedAt": "2026-09-12T19:44:36.391Z",
+  "scrapedAt": "2026-09-13T15:43:39.871Z",
   "shariaCompliant": false
 }

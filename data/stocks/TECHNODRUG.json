@@ -9,37 +9,37 @@
     "#": 367,
     "TRADING CODE": "TECHNODRUG",
     "tradingCode": "TECHNODRUG",
-    "LTP": 41.7,
-    "HIGH": 43,
-    "LOW": 41.4,
-    "CLOSEP": 41.7,
-    "YCP": 42.4,
-    "CHANGE": -0.7,
-    "TRADE": 1040,
-    "VALUE (mn)": 30.08,
-    "VOLUME": 715198
+    "LTP": 39.4,
+    "HIGH": 41.8,
+    "LOW": 39.1,
+    "CLOSEP": 39.4,
+    "YCP": 41.7,
+    "CHANGE": -2.3,
+    "TRADE": 1502,
+    "VALUE (mn)": 61.416,
+    "VOLUME": 1512159
   },
   "marketInformation": {
-    "lastTradingPrice": 41.7,
+    "lastTradingPrice": 39.4,
     "daysRange": [
-      41.4,
-      43
+      39.1,
+      41.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.2,
       52
     ],
-    "change": -0.7,
-    "daysTradeNos": 1040,
-    "yesterdaysClose": 42.4,
-    "daysVolumeNos": 715198,
-    "adjustedOpeningPrice": 42.4,
-    "daysValueMn": 30.08,
-    "openingPrice": 42.7,
-    "marketCapMn": 5596.723,
-    "closingPrice": 41.7,
-    "freeFloatMarketCapMn": 2087.012
+    "change": -2.3,
+    "daysTradeNos": 1502,
+    "yesterdaysClose": 41.7,
+    "daysVolumeNos": 1512159,
+    "adjustedOpeningPrice": 41.7,
+    "daysValueMn": 61.42,
+    "openingPrice": 41.3,
+    "marketCapMn": 5504.324,
+    "closingPrice": 39.4,
+    "freeFloatMarketCapMn": 2052.557
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 28.28,
-        "peDiluted": null,
-        "peTrailing": 29.08
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.2,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.5,
         "peDiluted": null,
         "peTrailing": 27.25
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.04,
+        "peDiluted": null,
+        "peTrailing": 25.75
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.28,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.32,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.69,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.39,
         "peDiluted": null
       }
     ]
@@ -322,6 +322,6 @@
     "cellNo": "01313011301",
     "telephoneNo": "+880258316038"
   },
-  "scrapedAt": "2026-09-12T19:44:59.565Z",
+  "scrapedAt": "2026-09-13T15:44:12.409Z",
   "shariaCompliant": false
 }

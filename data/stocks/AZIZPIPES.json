@@ -9,37 +9,37 @@
     "#": 43,
     "TRADING CODE": "AZIZPIPES",
     "tradingCode": "AZIZPIPES",
-    "LTP": 75,
-    "HIGH": 77.9,
-    "LOW": 73,
-    "CLOSEP": 75,
-    "YCP": 75.8,
-    "CHANGE": -0.8,
-    "TRADE": 154,
-    "VALUE (mn)": 0.239,
-    "VOLUME": 3200
+    "LTP": 72.7,
+    "HIGH": 78.5,
+    "LOW": 72.5,
+    "CLOSEP": 72.7,
+    "YCP": 75,
+    "CHANGE": -2.3,
+    "TRADE": 165,
+    "VALUE (mn)": 0.699,
+    "VOLUME": 9624
   },
   "marketInformation": {
-    "lastTradingPrice": 75,
+    "lastTradingPrice": 72.7,
     "daysRange": [
-      73,
-      77.9
+      72.5,
+      78.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.8,
       84.5
     ],
-    "change": -0.8,
-    "daysTradeNos": 154,
-    "yesterdaysClose": 75.8,
-    "daysVolumeNos": 3200,
-    "adjustedOpeningPrice": 75.8,
-    "daysValueMn": 0.24,
-    "openingPrice": 77.9,
-    "marketCapMn": 405.312,
-    "closingPrice": 75,
-    "freeFloatMarketCapMn": 305.321
+    "change": -2.3,
+    "daysTradeNos": 165,
+    "yesterdaysClose": 75,
+    "daysVolumeNos": 9624,
+    "adjustedOpeningPrice": 75,
+    "daysValueMn": 0.7,
+    "openingPrice": 75.5,
+    "marketCapMn": 401.034,
+    "closingPrice": 72.7,
+    "freeFloatMarketCapMn": 302.099
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01678029190",
     "telephoneNo": "+880-2-223382691"
   },
-  "scrapedAt": "2026-09-12T19:43:04.113Z",
+  "scrapedAt": "2026-09-13T15:42:02.507Z",
   "shariaCompliant": false
 }

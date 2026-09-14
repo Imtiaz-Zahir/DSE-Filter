@@ -9,20 +9,20 @@
     "#": 348,
     "TRADING CODE": "SONALILIFE",
     "tradingCode": "SONALILIFE",
-    "LTP": 84.2,
+    "LTP": 81.4,
     "HIGH": 85.4,
-    "LOW": 84,
-    "CLOSEP": 84.2,
-    "YCP": 84.9,
-    "CHANGE": -0.7,
-    "TRADE": 264,
-    "VALUE (mn)": 6.21,
-    "VOLUME": 73509
+    "LOW": 78.6,
+    "CLOSEP": 80.5,
+    "YCP": 84.2,
+    "CHANGE": -2.8,
+    "TRADE": 583,
+    "VALUE (mn)": 17.619,
+    "VOLUME": 217056
   },
   "marketInformation": {
-    "lastTradingPrice": 84.2,
+    "lastTradingPrice": 81.4,
     "daysRange": [
-      84,
+      78.6,
       85.4
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       55,
       93.4
     ],
-    "change": -0.7,
-    "daysTradeNos": 264,
-    "yesterdaysClose": 84.9,
-    "daysVolumeNos": 73509,
-    "adjustedOpeningPrice": 84.9,
-    "daysValueMn": 6.21,
-    "openingPrice": 84.9,
-    "marketCapMn": 4032.75,
-    "closingPrice": 84.2,
-    "freeFloatMarketCapMn": 1510.423
+    "change": -2.8,
+    "daysTradeNos": 583,
+    "yesterdaysClose": 84.2,
+    "daysVolumeNos": 217056,
+    "adjustedOpeningPrice": 84.2,
+    "daysValueMn": 17.62,
+    "openingPrice": 85.4,
+    "marketCapMn": 3999.5,
+    "closingPrice": 80.5,
+    "freeFloatMarketCapMn": 1497.97
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -130,14 +124,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 52.28,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 52.72,
@@ -161,6 +156,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 51.98,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 49.69,
         "peDiluted": null
       }
     ]
@@ -318,6 +318,6 @@
     "cellNo": "01537591862",
     "telephoneNo": "09678200004 Ext-904"
   },
-  "scrapedAt": "2026-09-12T19:44:53.161Z",
+  "scrapedAt": "2026-09-13T15:44:02.537Z",
   "shariaCompliant": false
 }

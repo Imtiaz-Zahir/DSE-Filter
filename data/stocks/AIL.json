@@ -9,37 +9,37 @@
     "#": 20,
     "TRADING CODE": "AIL",
     "tradingCode": "AIL",
-    "LTP": 31.6,
-    "HIGH": 32.4,
-    "LOW": 31.4,
-    "CLOSEP": 31.6,
-    "YCP": 32,
-    "CHANGE": -0.4,
-    "TRADE": 119,
-    "VALUE (mn)": 1.474,
-    "VOLUME": 46611
+    "LTP": 30.6,
+    "HIGH": 32,
+    "LOW": 30.1,
+    "CLOSEP": 30.6,
+    "YCP": 31.6,
+    "CHANGE": -1,
+    "TRADE": 213,
+    "VALUE (mn)": 1.542,
+    "VOLUME": 50392
   },
   "marketInformation": {
-    "lastTradingPrice": 31.6,
+    "lastTradingPrice": 30.6,
     "daysRange": [
-      31.4,
-      32.4
+      30.1,
+      32
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.2,
       58.5
     ],
-    "change": -0.4,
-    "daysTradeNos": 119,
-    "yesterdaysClose": 32,
-    "daysVolumeNos": 46611,
-    "adjustedOpeningPrice": 32,
-    "daysValueMn": 1.47,
-    "openingPrice": 32.4,
-    "marketCapMn": 1557.659,
-    "closingPrice": 31.6,
-    "freeFloatMarketCapMn": 1086.622
+    "change": -1,
+    "daysTradeNos": 213,
+    "yesterdaysClose": 31.6,
+    "daysVolumeNos": 50392,
+    "adjustedOpeningPrice": 31.6,
+    "daysValueMn": 1.54,
+    "openingPrice": 32,
+    "marketCapMn": 1538.188,
+    "closingPrice": 30.6,
+    "freeFloatMarketCapMn": 1073.04
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.45,
-        "peDiluted": null,
-        "peTrailing": 12.55
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 10.88,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.49,
         "peDiluted": null,
         "peTrailing": 11.49
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.15,
+        "peDiluted": null,
+        "peTrailing": 11.13
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.62,
-        "peDiluted": 16.12
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.9,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 13.39,
         "peDiluted": 14.77
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.97,
+        "peDiluted": 14.3
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01787694812",
     "telephoneNo": "58815226, 58815227"
   },
-  "scrapedAt": "2026-09-12T19:42:51.543Z",
+  "scrapedAt": "2026-09-13T15:41:52.131Z",
   "shariaCompliant": false
 }

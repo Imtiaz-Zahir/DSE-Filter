@@ -9,37 +9,37 @@
     "#": 80,
     "TRADING CODE": "CENTRALINS",
     "tradingCode": "CENTRALINS",
-    "LTP": 43,
-    "HIGH": 43.8,
-    "LOW": 42.7,
-    "CLOSEP": 43,
-    "YCP": 43.1,
-    "CHANGE": -0.1,
-    "TRADE": 430,
-    "VALUE (mn)": 12.753,
-    "VOLUME": 294627
+    "LTP": 41.8,
+    "HIGH": 43.4,
+    "LOW": 41.6,
+    "CLOSEP": 41.8,
+    "YCP": 43,
+    "CHANGE": -1.2,
+    "TRADE": 642,
+    "VALUE (mn)": 17.952,
+    "VOLUME": 425600
   },
   "marketInformation": {
-    "lastTradingPrice": 43,
+    "lastTradingPrice": 41.8,
     "daysRange": [
-      42.7,
-      43.8
+      41.6,
+      43.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       30.7,
       51.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 430,
-    "yesterdaysClose": 43.1,
-    "daysVolumeNos": 294627,
-    "adjustedOpeningPrice": 43.1,
-    "daysValueMn": 12.75,
-    "openingPrice": 43.7,
-    "marketCapMn": 2290.542,
-    "closingPrice": 43,
-    "freeFloatMarketCapMn": 1388.687
+    "change": -1.2,
+    "daysTradeNos": 642,
+    "yesterdaysClose": 43,
+    "daysVolumeNos": 425600,
+    "adjustedOpeningPrice": 43,
+    "daysValueMn": 17.95,
+    "openingPrice": 43.4,
+    "marketCapMn": 2285.227,
+    "closingPrice": 41.8,
+    "freeFloatMarketCapMn": 1385.465
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.6,
-        "peDiluted": null,
-        "peTrailing": 22.47
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 20.87,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.87,
         "peDiluted": null,
         "peTrailing": 21.72
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.29,
+        "peDiluted": null,
+        "peTrailing": 21.11
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 23.8,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 22.99,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.99,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.35,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01610-123223, Share Dept.: 01919049807",
     "telephoneNo": "09613878787, 09613777778, 02223380251-4"
   },
-  "scrapedAt": "2026-09-12T19:43:18.094Z",
+  "scrapedAt": "2026-09-13T15:42:15.904Z",
   "shariaCompliant": false
 }

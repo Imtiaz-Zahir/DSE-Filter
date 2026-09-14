@@ -9,37 +9,37 @@
     "#": 333,
     "TRADING CODE": "SHARPIND",
     "tradingCode": "SHARPIND",
-    "LTP": 19,
-    "HIGH": 20.2,
-    "LOW": 18.8,
-    "CLOSEP": 19,
-    "YCP": 19.6,
-    "CHANGE": -0.6,
-    "TRADE": 5398,
-    "VALUE (mn)": 191.327,
-    "VOLUME": 9794553
+    "LTP": 17.4,
+    "HIGH": 19.4,
+    "LOW": 17.2,
+    "CLOSEP": 17.4,
+    "YCP": 19,
+    "CHANGE": -1.6,
+    "TRADE": 5762,
+    "VALUE (mn)": 191.124,
+    "VOLUME": 10519592
   },
   "marketInformation": {
-    "lastTradingPrice": 19,
+    "lastTradingPrice": 17.4,
     "daysRange": [
-      18.8,
-      20.2
+      17.2,
+      19.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.1,
       45.5
     ],
-    "change": -0.6,
-    "daysTradeNos": 5398,
-    "yesterdaysClose": 19.6,
-    "daysVolumeNos": 9794553,
-    "adjustedOpeningPrice": 19.6,
-    "daysValueMn": 191.33,
-    "openingPrice": 19.8,
-    "marketCapMn": 5947.661,
-    "closingPrice": 19,
-    "freeFloatMarketCapMn": 2588.216
+    "change": -1.6,
+    "daysTradeNos": 5762,
+    "yesterdaysClose": 19,
+    "daysVolumeNos": 10519592,
+    "adjustedOpeningPrice": 19,
+    "daysValueMn": 191.12,
+    "openingPrice": 19.4,
+    "marketCapMn": 5765.59,
+    "closingPrice": 17.4,
+    "freeFloatMarketCapMn": 2508.985
   },
   "basicInformation": {
     "authorizedCapitalMn": 7500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 196.36,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 177.27,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 172.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 158.18,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01819184789",
     "telephoneNo": "88-02-48810053 (Ext-233)"
   },
-  "scrapedAt": "2026-09-12T19:44:48.368Z",
+  "scrapedAt": "2026-09-13T15:43:57.215Z",
   "shariaCompliant": false
 }

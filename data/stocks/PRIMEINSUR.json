@@ -9,37 +9,37 @@
     "#": 288,
     "TRADING CODE": "PRIMEINSUR",
     "tradingCode": "PRIMEINSUR",
-    "LTP": 50.9,
-    "HIGH": 52.5,
-    "LOW": 50.5,
-    "CLOSEP": 50.9,
-    "YCP": 51.1,
-    "CHANGE": -0.2,
-    "TRADE": 368,
-    "VALUE (mn)": 10.017,
-    "VOLUME": 194186
+    "LTP": 49.4,
+    "HIGH": 51.3,
+    "LOW": 49,
+    "CLOSEP": 49.4,
+    "YCP": 50.9,
+    "CHANGE": -1.5,
+    "TRADE": 448,
+    "VALUE (mn)": 10.132,
+    "VOLUME": 201897
   },
   "marketInformation": {
-    "lastTradingPrice": 50.9,
+    "lastTradingPrice": 49.4,
     "daysRange": [
-      50.5,
-      52.5
+      49,
+      51.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.5,
       66.9
     ],
-    "change": -0.2,
-    "daysTradeNos": 368,
-    "yesterdaysClose": 51.1,
-    "daysVolumeNos": 194186,
-    "adjustedOpeningPrice": 51.1,
-    "daysValueMn": 10.02,
-    "openingPrice": 51.4,
-    "marketCapMn": 2088.84,
-    "closingPrice": 50.9,
-    "freeFloatMarketCapMn": 1425.692
+    "change": -1.5,
+    "daysTradeNos": 448,
+    "yesterdaysClose": 50.9,
+    "daysVolumeNos": 201897,
+    "adjustedOpeningPrice": 50.9,
+    "daysValueMn": 10.13,
+    "openingPrice": 50.8,
+    "marketCapMn": 2080.665,
+    "closingPrice": 49.4,
+    "freeFloatMarketCapMn": 1420.112
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.15,
-        "peDiluted": null,
-        "peTrailing": 24.89
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.46,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 19.58,
         "peDiluted": null,
         "peTrailing": 23.03
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19,
+        "peDiluted": null,
+        "peTrailing": 22.35
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 27.78,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.56,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.95,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01716 016 561",
     "telephoneNo": "09644448888 & Ex-110"
   },
-  "scrapedAt": "2026-09-12T19:44:31.817Z",
+  "scrapedAt": "2026-09-13T15:43:36.057Z",
   "shariaCompliant": false
 }

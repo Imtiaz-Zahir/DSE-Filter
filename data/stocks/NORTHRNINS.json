@@ -9,37 +9,37 @@
     "#": 251,
     "TRADING CODE": "NORTHRNINS",
     "tradingCode": "NORTHRNINS",
-    "LTP": 37.4,
-    "HIGH": 38.5,
-    "LOW": 37.1,
-    "CLOSEP": 37.4,
-    "YCP": 37.8,
-    "CHANGE": -0.4,
-    "TRADE": 267,
-    "VALUE (mn)": 3.655,
-    "VOLUME": 96863
+    "LTP": 35.6,
+    "HIGH": 38,
+    "LOW": 35.5,
+    "CLOSEP": 35.6,
+    "YCP": 37.4,
+    "CHANGE": -1.8,
+    "TRADE": 425,
+    "VALUE (mn)": 5.196,
+    "VOLUME": 142443
   },
   "marketInformation": {
-    "lastTradingPrice": 37.4,
+    "lastTradingPrice": 35.6,
     "daysRange": [
-      37.1,
-      38.5
+      35.5,
+      38
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       24.2,
       45.3
     ],
-    "change": -0.4,
-    "daysTradeNos": 267,
-    "yesterdaysClose": 37.8,
-    "daysVolumeNos": 96863,
-    "adjustedOpeningPrice": 37.8,
-    "daysValueMn": 3.66,
+    "change": -1.8,
+    "daysTradeNos": 425,
+    "yesterdaysClose": 37.4,
+    "daysVolumeNos": 142443,
+    "adjustedOpeningPrice": 37.4,
+    "daysValueMn": 5.2,
     "openingPrice": 38,
-    "marketCapMn": 1693.16,
-    "closingPrice": 37.4,
-    "freeFloatMarketCapMn": 1085.019
+    "marketCapMn": 1675.243,
+    "closingPrice": 35.6,
+    "freeFloatMarketCapMn": 1073.537
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 22.3,
-        "peDiluted": null,
-        "peTrailing": 24.97
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 21.4,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 21.01,
         "peDiluted": null,
         "peTrailing": 23.52
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20,
+        "peDiluted": null,
+        "peTrailing": 22.39
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 23.63,
-        "peDiluted": 24.81
-      },
       {
         "date": "2026-09-06",
         "peBasic": 22.68,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 22.26,
         "peDiluted": 23.38
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.19,
+        "peDiluted": 22.25
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01712704417",
     "telephoneNo": "0247113043"
   },
-  "scrapedAt": "2026-09-12T19:44:18.854Z",
+  "scrapedAt": "2026-09-13T15:43:24.212Z",
   "shariaCompliant": false
 }

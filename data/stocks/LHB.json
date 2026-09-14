@@ -9,37 +9,37 @@
     "#": 205,
     "TRADING CODE": "LHB",
     "tradingCode": "LHB",
-    "LTP": 51.1,
-    "HIGH": 52,
-    "LOW": 51,
-    "CLOSEP": 51.1,
-    "YCP": 51.6,
-    "CHANGE": -0.5,
-    "TRADE": 1286,
-    "VALUE (mn)": 32.939,
-    "VOLUME": 642445
+    "LTP": 50.4,
+    "HIGH": 51.4,
+    "LOW": 50,
+    "CLOSEP": 50.4,
+    "YCP": 51.1,
+    "CHANGE": -0.7,
+    "TRADE": 1747,
+    "VALUE (mn)": 33.074,
+    "VOLUME": 655509
   },
   "marketInformation": {
-    "lastTradingPrice": 51.1,
+    "lastTradingPrice": 50.4,
     "daysRange": [
-      51,
-      52
+      50,
+      51.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       45,
       62.4
     ],
-    "change": -0.5,
-    "daysTradeNos": 1286,
-    "yesterdaysClose": 51.6,
-    "daysVolumeNos": 642445,
-    "adjustedOpeningPrice": 51.6,
-    "daysValueMn": 32.94,
-    "openingPrice": 52,
-    "marketCapMn": 59926.873,
-    "closingPrice": 51.1,
-    "freeFloatMarketCapMn": 22375.948
+    "change": -0.7,
+    "daysTradeNos": 1747,
+    "yesterdaysClose": 51.1,
+    "daysVolumeNos": 655509,
+    "adjustedOpeningPrice": 51.1,
+    "daysValueMn": 33.07,
+    "openingPrice": 51.4,
+    "marketCapMn": 59346.186,
+    "closingPrice": 50.4,
+    "freeFloatMarketCapMn": 22159.127
   },
   "basicInformation": {
     "authorizedCapitalMn": 14000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 14.39,
-        "peDiluted": null,
-        "peTrailing": 12.69
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 14.22,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 13.66,
         "peDiluted": null,
         "peTrailing": 12.05
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.48,
+        "peDiluted": null,
+        "peTrailing": 11.89
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 12.23,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.09,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 11.61,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.45,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801313779359",
     "telephoneNo": "+880 2226601351-52, Ext. 103"
   },
-  "scrapedAt": "2026-09-12T19:44:00.553Z",
+  "scrapedAt": "2026-09-13T15:43:05.655Z",
   "shariaCompliant": true
 }

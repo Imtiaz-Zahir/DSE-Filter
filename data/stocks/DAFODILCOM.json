@@ -9,37 +9,37 @@
     "#": 93,
     "TRADING CODE": "DAFODILCOM",
     "tradingCode": "DAFODILCOM",
-    "LTP": 168.8,
-    "HIGH": 169.1,
-    "LOW": 167,
-    "CLOSEP": 168.8,
-    "YCP": 167.7,
-    "CHANGE": 1.1,
-    "TRADE": 1090,
-    "VALUE (mn)": 35.818,
-    "VOLUME": 212603
+    "LTP": 164.7,
+    "HIGH": 170.4,
+    "LOW": 161.1,
+    "CLOSEP": 164.7,
+    "YCP": 168.8,
+    "CHANGE": -4.1,
+    "TRADE": 850,
+    "VALUE (mn)": 34.394,
+    "VOLUME": 205339
   },
   "marketInformation": {
-    "lastTradingPrice": 168.8,
+    "lastTradingPrice": 164.7,
     "daysRange": [
-      167,
-      169.1
+      161.1,
+      170.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       29.2,
       172.5
     ],
-    "change": 1.1,
-    "daysTradeNos": 1090,
-    "yesterdaysClose": 167.7,
-    "daysVolumeNos": 212603,
-    "adjustedOpeningPrice": 167.7,
-    "daysValueMn": 35.82,
-    "openingPrice": 168.6,
-    "marketCapMn": 8370.286,
-    "closingPrice": 168.8,
-    "freeFloatMarketCapMn": 4904.193
+    "change": -4.1,
+    "daysTradeNos": 850,
+    "yesterdaysClose": 168.8,
+    "daysVolumeNos": 205339,
+    "adjustedOpeningPrice": 168.8,
+    "daysValueMn": 34.39,
+    "openingPrice": 168.9,
+    "marketCapMn": 8425.19,
+    "closingPrice": 164.7,
+    "freeFloatMarketCapMn": 4936.361
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 504,
-        "peDiluted": null,
-        "peTrailing": 3360
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 494.7,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 506.4,
         "peDiluted": null,
         "peTrailing": 3376
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 494.1,
+        "peDiluted": null,
+        "peTrailing": 3294
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1050,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1030.63,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 1055,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1029.38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713493188",
     "telephoneNo": "223371889"
   },
-  "scrapedAt": "2026-09-12T19:43:22.876Z",
+  "scrapedAt": "2026-09-13T15:42:22.285Z",
   "shariaCompliant": true
 }

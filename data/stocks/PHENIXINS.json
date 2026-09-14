@@ -9,37 +9,37 @@
     "#": 272,
     "TRADING CODE": "PHENIXINS",
     "tradingCode": "PHENIXINS",
-    "LTP": 48.1,
-    "HIGH": 49.3,
-    "LOW": 47.6,
-    "CLOSEP": 48.1,
-    "YCP": 48.5,
-    "CHANGE": -0.4,
-    "TRADE": 563,
-    "VALUE (mn)": 14.777,
-    "VOLUME": 305338
+    "LTP": 45.3,
+    "HIGH": 48.8,
+    "LOW": 45,
+    "CLOSEP": 45.3,
+    "YCP": 48.1,
+    "CHANGE": -2.8,
+    "TRADE": 472,
+    "VALUE (mn)": 8.959,
+    "VOLUME": 194282
   },
   "marketInformation": {
-    "lastTradingPrice": 48.1,
+    "lastTradingPrice": 45.3,
     "daysRange": [
-      47.6,
-      49.3
+      45,
+      48.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.7,
       57.2
     ],
-    "change": -0.4,
-    "daysTradeNos": 563,
-    "yesterdaysClose": 48.5,
-    "daysVolumeNos": 305338,
-    "adjustedOpeningPrice": 48.5,
-    "daysValueMn": 14.78,
-    "openingPrice": 48.9,
-    "marketCapMn": 1956.566,
-    "closingPrice": 48.1,
-    "freeFloatMarketCapMn": 1195.681
+    "change": -2.8,
+    "daysTradeNos": 472,
+    "yesterdaysClose": 48.1,
+    "daysVolumeNos": 194282,
+    "adjustedOpeningPrice": 48.1,
+    "daysValueMn": 8.96,
+    "openingPrice": 47.5,
+    "marketCapMn": 1940.43,
+    "closingPrice": 45.3,
+    "freeFloatMarketCapMn": 1185.819
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 17.62,
-        "peDiluted": null,
-        "peTrailing": 18.32
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.72,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 16.59,
         "peDiluted": null,
         "peTrailing": 17.24
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.62,
+        "peDiluted": null,
+        "peTrailing": 16.24
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.3,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.01,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.43,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01716654144",
     "telephoneNo": "+88-02-223374840-43 (PABX), ext.-126"
   },
-  "scrapedAt": "2026-09-12T19:44:23.789Z",
+  "scrapedAt": "2026-09-13T15:43:31.064Z",
   "shariaCompliant": false
 }

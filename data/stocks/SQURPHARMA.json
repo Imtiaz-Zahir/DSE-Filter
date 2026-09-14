@@ -9,37 +9,37 @@
     "#": 356,
     "TRADING CODE": "SQURPHARMA",
     "tradingCode": "SQURPHARMA",
-    "LTP": 214.4,
-    "HIGH": 215.2,
-    "LOW": 213.9,
-    "CLOSEP": 214.4,
-    "YCP": 214.7,
-    "CHANGE": -0.3,
-    "TRADE": 1674,
-    "VALUE (mn)": 31.726,
-    "VOLUME": 147910
+    "LTP": 213.2,
+    "HIGH": 214.7,
+    "LOW": 212.8,
+    "CLOSEP": 213.2,
+    "YCP": 214.4,
+    "CHANGE": -1.2,
+    "TRADE": 2207,
+    "VALUE (mn)": 49.377,
+    "VOLUME": 231142
   },
   "marketInformation": {
-    "lastTradingPrice": 214.4,
+    "lastTradingPrice": 213.2,
     "daysRange": [
-      213.9,
-      215.2
+      212.8,
+      214.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       198,
       236
     ],
-    "change": -0.3,
-    "daysTradeNos": 1674,
-    "yesterdaysClose": 214.7,
-    "daysVolumeNos": 147910,
-    "adjustedOpeningPrice": 214.7,
-    "daysValueMn": 31.73,
-    "openingPrice": 215,
-    "marketCapMn": 190321.032,
-    "closingPrice": 214.4,
-    "freeFloatMarketCapMn": 106288.361
+    "change": -1.2,
+    "daysTradeNos": 2207,
+    "yesterdaysClose": 214.4,
+    "daysVolumeNos": 231142,
+    "adjustedOpeningPrice": 214.4,
+    "daysValueMn": 49.38,
+    "openingPrice": 214.5,
+    "marketCapMn": 190055.097,
+    "closingPrice": 213.2,
+    "freeFloatMarketCapMn": 106139.845
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.01,
-        "peDiluted": null,
-        "peTrailing": 7.46
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.96,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.9,
         "peDiluted": null,
         "peTrailing": 7.35
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.87,
+        "peDiluted": null,
+        "peTrailing": 7.31
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 8.05,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 7.99,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 7.93,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.88,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 328 886",
     "telephoneNo": "8833047-56, 02222295007,02222285870, 02222285910 Ext.229"
   },
-  "scrapedAt": "2026-09-12T19:44:56.105Z",
+  "scrapedAt": "2026-09-13T15:44:06.889Z",
   "shariaCompliant": true
 }

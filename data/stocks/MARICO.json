@@ -9,20 +9,20 @@
     "#": 214,
     "TRADING CODE": "MARICO",
     "tradingCode": "MARICO",
-    "LTP": 2671.7,
+    "LTP": 2648.8,
     "HIGH": 2690,
-    "LOW": 2668,
-    "CLOSEP": 2671.7,
-    "YCP": 2677,
-    "CHANGE": -5.3,
-    "TRADE": 534,
-    "VALUE (mn)": 7.686,
-    "VOLUME": 2875
+    "LOW": 2644,
+    "CLOSEP": 2648.8,
+    "YCP": 2671.7,
+    "CHANGE": -22.9,
+    "TRADE": 1002,
+    "VALUE (mn)": 20.771,
+    "VOLUME": 7824
   },
   "marketInformation": {
-    "lastTradingPrice": 2671.7,
+    "lastTradingPrice": 2648.8,
     "daysRange": [
-      2668,
+      2644,
       2690
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       2610,
       2946.5
     ],
-    "change": -5.3,
-    "daysTradeNos": 534,
-    "yesterdaysClose": 2677,
-    "daysVolumeNos": 2875,
-    "adjustedOpeningPrice": 2677,
-    "daysValueMn": 7.69,
+    "change": -22.9,
+    "daysTradeNos": 1002,
+    "yesterdaysClose": 2671.7,
+    "daysVolumeNos": 7824,
+    "adjustedOpeningPrice": 2671.7,
+    "daysValueMn": 20.77,
     "openingPrice": 2690,
-    "marketCapMn": 84325.5,
-    "closingPrice": 2671.7,
-    "freeFloatMarketCapMn": 8432.55
+    "marketCapMn": 84158.55,
+    "closingPrice": 2648.8,
+    "freeFloatMarketCapMn": 8415.855
   },
   "basicInformation": {
     "authorizedCapitalMn": 400,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 12.46,
-        "peDiluted": null,
-        "peTrailing": 13.59
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.44,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.34,
         "peDiluted": null,
         "peTrailing": 13.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.24,
+        "peDiluted": null,
+        "peTrailing": 13.35
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.09,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.06,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 12.96,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.85,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01324438592",
     "telephoneNo": "+8802222297139"
   },
-  "scrapedAt": "2026-09-12T19:44:03.940Z",
+  "scrapedAt": "2026-09-13T15:43:07.166Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 74,
     "TRADING CODE": "BSRMLTD",
     "tradingCode": "BSRMLTD",
-    "LTP": 96.6,
-    "HIGH": 98,
-    "LOW": 96.3,
-    "CLOSEP": 97.1,
-    "YCP": 96.5,
-    "CHANGE": 0.1,
-    "TRADE": 193,
-    "VALUE (mn)": 5.445,
-    "VOLUME": 56079
+    "LTP": 96.2,
+    "HIGH": 98.1,
+    "LOW": 95.7,
+    "CLOSEP": 96.1,
+    "YCP": 97.1,
+    "CHANGE": -0.9,
+    "TRADE": 289,
+    "VALUE (mn)": 7.035,
+    "VOLUME": 73164
   },
   "marketInformation": {
-    "lastTradingPrice": 96.6,
+    "lastTradingPrice": 96.2,
     "daysRange": [
-      96.3,
-      98
+      95.7,
+      98.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       71.5,
       115
     ],
-    "change": 0.1,
-    "daysTradeNos": 193,
-    "yesterdaysClose": 96.5,
-    "daysVolumeNos": 56079,
-    "adjustedOpeningPrice": 96.5,
-    "daysValueMn": 5.45,
-    "openingPrice": 98,
-    "marketCapMn": 28813.416,
-    "closingPrice": 97.1,
-    "freeFloatMarketCapMn": 16727.212
+    "change": -0.9,
+    "daysTradeNos": 289,
+    "yesterdaysClose": 97.1,
+    "daysVolumeNos": 73164,
+    "adjustedOpeningPrice": 97.1,
+    "daysValueMn": 7.04,
+    "openingPrice": 98.1,
+    "marketCapMn": 28992.567,
+    "closingPrice": 96.1,
+    "freeFloatMarketCapMn": 16831.216
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.78,
-        "peDiluted": null,
-        "peTrailing": 4.54
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.68,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.69,
         "peDiluted": null,
         "peTrailing": 4.45
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.64,
+        "peDiluted": null,
+        "peTrailing": 4.41
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.81,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.72,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 4.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.67,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 790 266",
     "telephoneNo": "+880 31 2854901-10, Ext.- 156"
   },
-  "scrapedAt": "2026-09-12T19:43:17.493Z",
+  "scrapedAt": "2026-09-13T15:42:15.087Z",
   "shariaCompliant": false
 }

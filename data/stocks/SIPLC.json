@@ -9,37 +9,37 @@
     "#": 345,
     "TRADING CODE": "SIPLC",
     "tradingCode": "SIPLC",
-    "LTP": 138.7,
-    "HIGH": 140.5,
-    "LOW": 127.9,
-    "CLOSEP": 138.7,
-    "YCP": 127.8,
-    "CHANGE": 10.9,
-    "TRADE": 1419,
-    "VALUE (mn)": 68.912,
-    "VOLUME": 498257
+    "LTP": 140.5,
+    "HIGH": 143.5,
+    "LOW": 134,
+    "CLOSEP": 140.5,
+    "YCP": 138.7,
+    "CHANGE": 1.8,
+    "TRADE": 1248,
+    "VALUE (mn)": 86.701,
+    "VOLUME": 620389
   },
   "marketInformation": {
-    "lastTradingPrice": 138.7,
+    "lastTradingPrice": 140.5,
     "daysRange": [
-      127.9,
-      140.5
+      134,
+      143.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       42.1,
       160.7
     ],
-    "change": 10.9,
-    "daysTradeNos": 1419,
-    "yesterdaysClose": 127.8,
-    "daysVolumeNos": 498257,
-    "adjustedOpeningPrice": 127.8,
-    "daysValueMn": 68.91,
-    "openingPrice": 129.5,
-    "marketCapMn": 5112,
-    "closingPrice": 138.7,
-    "freeFloatMarketCapMn": 2044.8
+    "change": 1.8,
+    "daysTradeNos": 1248,
+    "yesterdaysClose": 138.7,
+    "daysVolumeNos": 620389,
+    "adjustedOpeningPrice": 138.7,
+    "daysValueMn": 86.7,
+    "openingPrice": 138.7,
+    "marketCapMn": 5548,
+    "closingPrice": 140.5,
+    "freeFloatMarketCapMn": 2219.2
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.92,
-        "peDiluted": null,
-        "peTrailing": 29.19
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.81,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.46,
         "peDiluted": null,
         "peTrailing": 27.25
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.72,
+        "peDiluted": null,
+        "peTrailing": 27.6
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.74,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.98,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 26.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01712 161 604",
     "telephoneNo": "+88-02-55058455-57 Ext-103"
   },
-  "scrapedAt": "2026-09-12T19:44:50.706Z",
+  "scrapedAt": "2026-09-13T15:43:59.010Z",
   "shariaCompliant": false
 }

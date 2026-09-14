@@ -9,37 +9,37 @@
     "#": 96,
     "TRADING CODE": "DELTALIFE",
     "tradingCode": "DELTALIFE",
-    "LTP": 71.6,
-    "HIGH": 73.3,
-    "LOW": 71.2,
-    "CLOSEP": 71.6,
-    "YCP": 72.8,
-    "CHANGE": -1.2,
-    "TRADE": 308,
-    "VALUE (mn)": 5.196,
-    "VOLUME": 72068
+    "LTP": 68.8,
+    "HIGH": 71.8,
+    "LOW": 68,
+    "CLOSEP": 68.8,
+    "YCP": 71.6,
+    "CHANGE": -2.8,
+    "TRADE": 480,
+    "VALUE (mn)": 6.39,
+    "VOLUME": 91772
   },
   "marketInformation": {
-    "lastTradingPrice": 71.6,
+    "lastTradingPrice": 68.8,
     "daysRange": [
-      71.2,
-      73.3
+      68,
+      71.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       60.8,
       89.9
     ],
-    "change": -1.2,
-    "daysTradeNos": 308,
-    "yesterdaysClose": 72.8,
-    "daysVolumeNos": 72068,
-    "adjustedOpeningPrice": 72.8,
-    "daysValueMn": 5.2,
-    "openingPrice": 73.3,
-    "marketCapMn": 9009,
-    "closingPrice": 71.6,
-    "freeFloatMarketCapMn": 4609.187
+    "change": -2.8,
+    "daysTradeNos": 480,
+    "yesterdaysClose": 71.6,
+    "daysVolumeNos": 91772,
+    "adjustedOpeningPrice": 71.6,
+    "daysValueMn": 6.39,
+    "openingPrice": 71.8,
+    "marketCapMn": 8860.5,
+    "closingPrice": 68.8,
+    "freeFloatMarketCapMn": 4533.212
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": "+8 801713360300",
     "telephoneNo": "09613666000 Ext. 166"
   },
-  "scrapedAt": "2026-09-12T19:43:24.501Z",
+  "scrapedAt": "2026-09-13T15:42:24.566Z",
   "shariaCompliant": false
 }

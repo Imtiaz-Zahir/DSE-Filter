@@ -9,36 +9,36 @@
     "#": 267,
     "TRADING CODE": "PDL",
     "tradingCode": "PDL",
-    "LTP": 5.5,
+    "LTP": 5.3,
     "HIGH": 5.6,
-    "LOW": 5.5,
-    "CLOSEP": 5.5,
+    "LOW": 5.3,
+    "CLOSEP": 5.3,
     "YCP": 5.5,
-    "CHANGE": 0,
-    "TRADE": 29,
-    "VALUE (mn)": 0.443,
-    "VOLUME": 80617
+    "CHANGE": -0.2,
+    "TRADE": 79,
+    "VALUE (mn)": 1.135,
+    "VOLUME": 211428
   },
   "marketInformation": {
-    "lastTradingPrice": 5.5,
+    "lastTradingPrice": 5.3,
     "daysRange": [
-      5.5,
+      5.3,
       5.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.8,
-      6.9
+      6.8
     ],
-    "change": 0,
-    "daysTradeNos": 29,
+    "change": -0.2,
+    "daysTradeNos": 79,
     "yesterdaysClose": 5.5,
-    "daysVolumeNos": 80617,
+    "daysVolumeNos": 211428,
     "adjustedOpeningPrice": 5.5,
-    "daysValueMn": 0.44,
+    "daysValueMn": 1.14,
     "openingPrice": 5.6,
     "marketCapMn": 1009.526,
-    "closingPrice": 5.5,
+    "closingPrice": 5.3,
     "freeFloatMarketCapMn": 705.451
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 210,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 206.25,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 206.25,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 198.75,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 46.67,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 45.83,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 45.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 44.17,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:22.769Z",
+  "scrapedAt": "2026-09-13T15:43:28.643Z",
   "shariaCompliant": true
 }

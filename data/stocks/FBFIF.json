@@ -10,34 +10,34 @@
     "TRADING CODE": "FBFIF",
     "tradingCode": "FBFIF",
     "LTP": 3.5,
-    "HIGH": 3.6,
+    "HIGH": 3.7,
     "LOW": 3.4,
     "CLOSEP": 3.5,
-    "YCP": 3.4,
-    "CHANGE": 0.1,
-    "TRADE": 123,
-    "VALUE (mn)": 2.203,
-    "VOLUME": 627359
+    "YCP": 3.5,
+    "CHANGE": 0,
+    "TRADE": 228,
+    "VALUE (mn)": 5.64,
+    "VOLUME": 1585997
   },
   "marketInformation": {
     "lastTradingPrice": 3.5,
     "daysRange": [
       3.4,
-      3.6
+      3.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.2,
       4.3
     ],
-    "change": 0.1,
-    "daysTradeNos": 123,
-    "yesterdaysClose": 3.4,
-    "daysVolumeNos": 627359,
-    "adjustedOpeningPrice": 3.4,
-    "daysValueMn": 2.2,
-    "openingPrice": 3.4,
-    "marketCapMn": 2638.9,
+    "change": 0,
+    "daysTradeNos": 228,
+    "yesterdaysClose": 3.5,
+    "daysVolumeNos": 1585997,
+    "adjustedOpeningPrice": 3.5,
+    "daysValueMn": 5.64,
+    "openingPrice": 3.5,
+    "marketCapMn": 2716.515,
     "closingPrice": 3.5,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:33.823Z",
+  "scrapedAt": "2026-09-13T15:42:34.281Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 246,
     "TRADING CODE": "NEWLINE",
     "tradingCode": "NEWLINE",
-    "LTP": 5.7,
-    "HIGH": 5.7,
-    "LOW": 5.5,
-    "CLOSEP": 5.6,
+    "LTP": 5.2,
+    "HIGH": 5.6,
+    "LOW": 5.1,
+    "CLOSEP": 5.2,
     "YCP": 5.6,
-    "CHANGE": 0.1,
-    "TRADE": 56,
-    "VALUE (mn)": 0.613,
-    "VOLUME": 109614
+    "CHANGE": -0.4,
+    "TRADE": 94,
+    "VALUE (mn)": 1.045,
+    "VOLUME": 196691
   },
   "marketInformation": {
-    "lastTradingPrice": 5.7,
+    "lastTradingPrice": 5.2,
     "daysRange": [
-      5.5,
-      5.7
+      5.1,
+      5.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.7,
       7.6
     ],
-    "change": 0.1,
-    "daysTradeNos": 56,
+    "change": -0.4,
+    "daysTradeNos": 94,
     "yesterdaysClose": 5.6,
-    "daysVolumeNos": 109614,
+    "daysVolumeNos": 196691,
     "adjustedOpeningPrice": 5.6,
-    "daysValueMn": 0.61,
+    "daysValueMn": 1.05,
     "openingPrice": 5.6,
     "marketCapMn": 439.783,
-    "closingPrice": 5.6,
+    "closingPrice": 5.2,
     "freeFloatMarketCapMn": 253.329
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 2.72,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 2.63,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 2.63,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 2.44,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 3.56,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 3.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 3.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.19,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01844652019",
     "telephoneNo": "8802- 9297403, 8802-9297415, 8802-9297417"
   },
-  "scrapedAt": "2026-09-12T19:44:15.749Z",
+  "scrapedAt": "2026-09-13T15:43:21.969Z",
   "shariaCompliant": false
 }

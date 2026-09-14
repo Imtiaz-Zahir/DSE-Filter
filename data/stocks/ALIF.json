@@ -9,36 +9,36 @@
     "#": 23,
     "TRADING CODE": "ALIF",
     "tradingCode": "ALIF",
-    "LTP": 5.4,
-    "HIGH": 5.5,
-    "LOW": 5.4,
-    "CLOSEP": 5.4,
+    "LTP": 5.2,
+    "HIGH": 5.4,
+    "LOW": 5.2,
+    "CLOSEP": 5.2,
     "YCP": 5.4,
-    "CHANGE": 0,
-    "TRADE": 62,
-    "VALUE (mn)": 1.321,
-    "VOLUME": 244116
+    "CHANGE": -0.2,
+    "TRADE": 119,
+    "VALUE (mn)": 1.493,
+    "VOLUME": 283811
   },
   "marketInformation": {
-    "lastTradingPrice": 5.4,
+    "lastTradingPrice": 5.2,
     "daysRange": [
-      5.4,
-      5.5
+      5.2,
+      5.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.2,
       6.5
     ],
-    "change": 0,
-    "daysTradeNos": 62,
+    "change": -0.2,
+    "daysTradeNos": 119,
     "yesterdaysClose": 5.4,
-    "daysVolumeNos": 244116,
+    "daysVolumeNos": 283811,
     "adjustedOpeningPrice": 5.4,
-    "daysValueMn": 1.32,
+    "daysValueMn": 1.49,
     "openingPrice": 5.4,
     "marketCapMn": 1403.606,
-    "closingPrice": 5.4,
+    "closingPrice": 5.2,
     "freeFloatMarketCapMn": 976.156
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 25.78,
-        "peDiluted": null,
-        "peTrailing": 19.64
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 25.31,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 25.31,
         "peDiluted": null,
         "peTrailing": 19.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.38,
+        "peDiluted": null,
+        "peTrailing": 18.57
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 16.67,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.36,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 16.36,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.76,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01552416749",
     "telephoneNo": "02-58815226-7"
   },
-  "scrapedAt": "2026-09-12T19:42:52.904Z",
+  "scrapedAt": "2026-09-13T15:41:55.911Z",
   "shariaCompliant": true
 }

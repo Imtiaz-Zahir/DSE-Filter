@@ -9,37 +9,37 @@
     "#": 252,
     "TRADING CODE": "NPOLYMER",
     "tradingCode": "NPOLYMER",
-    "LTP": 31.2,
-    "HIGH": 31.5,
-    "LOW": 30.5,
-    "CLOSEP": 31.2,
-    "YCP": 31.4,
-    "CHANGE": -0.2,
-    "TRADE": 150,
-    "VALUE (mn)": 2.931,
-    "VOLUME": 94281
+    "LTP": 30.4,
+    "HIGH": 31,
+    "LOW": 30.1,
+    "CLOSEP": 30.4,
+    "YCP": 31.2,
+    "CHANGE": -0.8,
+    "TRADE": 204,
+    "VALUE (mn)": 2.545,
+    "VOLUME": 83532
   },
   "marketInformation": {
-    "lastTradingPrice": 31.2,
+    "lastTradingPrice": 30.4,
     "daysRange": [
-      30.5,
-      31.5
+      30.1,
+      31
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.5,
       38.9
     ],
-    "change": -0.2,
-    "daysTradeNos": 150,
-    "yesterdaysClose": 31.4,
-    "daysVolumeNos": 94281,
-    "adjustedOpeningPrice": 31.4,
-    "daysValueMn": 2.93,
-    "openingPrice": 31.5,
-    "marketCapMn": 2291.687,
-    "closingPrice": 31.2,
-    "freeFloatMarketCapMn": 1553.348
+    "change": -0.8,
+    "daysTradeNos": 204,
+    "yesterdaysClose": 31.2,
+    "daysVolumeNos": 83532,
+    "adjustedOpeningPrice": 31.2,
+    "daysValueMn": 2.55,
+    "openingPrice": 31,
+    "marketCapMn": 2277.09,
+    "closingPrice": 30.4,
+    "freeFloatMarketCapMn": 1543.454
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 97.2,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 94.2,
         "peDiluted": null,
@@ -183,17 +177,18 @@
       {
         "date": "2026-09-10",
         "peBasic": 93.6,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 91.2,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 462.86,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 448.57,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 445.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 434.29,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01970 303 879",
     "telephoneNo": "58812926 Ext-144"
   },
-  "scrapedAt": "2026-09-12T19:44:17.277Z",
+  "scrapedAt": "2026-09-13T15:43:24.425Z",
   "shariaCompliant": false
 }

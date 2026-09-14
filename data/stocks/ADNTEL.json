@@ -9,37 +9,37 @@
     "#": 13,
     "TRADING CODE": "ADNTEL",
     "tradingCode": "ADNTEL",
-    "LTP": 58.3,
-    "HIGH": 59,
-    "LOW": 57.8,
-    "CLOSEP": 58.3,
-    "YCP": 58.4,
-    "CHANGE": -0.1,
-    "TRADE": 323,
-    "VALUE (mn)": 4.42,
-    "VOLUME": 75838
+    "LTP": 56.1,
+    "HIGH": 59.1,
+    "LOW": 55.2,
+    "CLOSEP": 56.1,
+    "YCP": 58.3,
+    "CHANGE": -2.2,
+    "TRADE": 467,
+    "VALUE (mn)": 5.656,
+    "VOLUME": 100231
   },
   "marketInformation": {
-    "lastTradingPrice": 58.3,
+    "lastTradingPrice": 56.1,
     "daysRange": [
-      57.8,
-      59
+      55.2,
+      59.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       50.4,
       82.2
     ],
-    "change": -0.1,
-    "daysTradeNos": 323,
-    "yesterdaysClose": 58.4,
-    "daysVolumeNos": 75838,
-    "adjustedOpeningPrice": 58.4,
-    "daysValueMn": 4.42,
-    "openingPrice": 58.5,
-    "marketCapMn": 3775.657,
-    "closingPrice": 58.3,
-    "freeFloatMarketCapMn": 2236.876
+    "change": -2.2,
+    "daysTradeNos": 467,
+    "yesterdaysClose": 58.3,
+    "daysVolumeNos": 100231,
+    "adjustedOpeningPrice": 58.3,
+    "daysValueMn": 5.66,
+    "openingPrice": 58.8,
+    "marketCapMn": 3769.192,
+    "closingPrice": 56.1,
+    "freeFloatMarketCapMn": 2233.045
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 24.92,
-        "peDiluted": null,
-        "peTrailing": 26.52
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 23.91,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 23.51,
         "peDiluted": null,
         "peTrailing": 25.02
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22.62,
+        "peDiluted": null,
+        "peTrailing": 24.08
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.24,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.25,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 22,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01777 770 322",
     "telephoneNo": "09610770322"
   },
-  "scrapedAt": "2026-09-12T19:42:49.252Z",
+  "scrapedAt": "2026-09-13T15:41:21.785Z",
   "shariaCompliant": true
 }

@@ -9,20 +9,20 @@
     "#": 112,
     "TRADING CODE": "EBL",
     "tradingCode": "EBL",
-    "LTP": 23.2,
+    "LTP": 22.5,
     "HIGH": 23.8,
-    "LOW": 23.1,
-    "CLOSEP": 23.2,
-    "YCP": 23.5,
-    "CHANGE": -0.3,
-    "TRADE": 1382,
-    "VALUE (mn)": 20.402,
-    "VOLUME": 871301
+    "LOW": 22.4,
+    "CLOSEP": 22.5,
+    "YCP": 23.2,
+    "CHANGE": -0.7,
+    "TRADE": 2510,
+    "VALUE (mn)": 118.33,
+    "VOLUME": 5193309
   },
   "marketInformation": {
-    "lastTradingPrice": 23.2,
+    "lastTradingPrice": 22.5,
     "daysRange": [
-      23.1,
+      22.4,
       23.8
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       21.8,
       28.9
     ],
-    "change": -0.3,
-    "daysTradeNos": 1382,
-    "yesterdaysClose": 23.5,
-    "daysVolumeNos": 871301,
-    "adjustedOpeningPrice": 23.5,
-    "daysValueMn": 20.4,
+    "change": -0.7,
+    "daysTradeNos": 2510,
+    "yesterdaysClose": 23.2,
+    "daysVolumeNos": 5193309,
+    "adjustedOpeningPrice": 23.2,
+    "daysValueMn": 118.33,
     "openingPrice": 23.8,
-    "marketCapMn": 38626.663,
-    "closingPrice": 23.2,
-    "freeFloatMarketCapMn": 26836.69
+    "marketCapMn": 38133.557,
+    "closingPrice": 22.5,
+    "freeFloatMarketCapMn": 26494.094
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.48,
-        "peDiluted": null,
-        "peTrailing": 4.19
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.46,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.34,
         "peDiluted": null,
         "peTrailing": 4.07
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.21,
+        "peDiluted": null,
+        "peTrailing": 3.95
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.57,
-        "peDiluted": 4.71
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.55,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 4.44,
         "peDiluted": 4.58
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.3,
+        "peDiluted": 4.44
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01817 543 805",
     "telephoneNo": "+88 09666777325 Ext.8212"
   },
-  "scrapedAt": "2026-09-12T19:43:28.687Z",
+  "scrapedAt": "2026-09-13T15:42:28.632Z",
   "shariaCompliant": false
 }

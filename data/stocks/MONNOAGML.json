@@ -9,37 +9,37 @@
     "#": 233,
     "TRADING CODE": "MONNOAGML",
     "tradingCode": "MONNOAGML",
-    "LTP": 310.8,
-    "HIGH": 314.7,
-    "LOW": 310.2,
-    "CLOSEP": 310.8,
-    "YCP": 309.7,
-    "CHANGE": 1.1,
-    "TRADE": 73,
-    "VALUE (mn)": 1.258,
-    "VOLUME": 4036
+    "LTP": 302.1,
+    "HIGH": 320,
+    "LOW": 301.9,
+    "CLOSEP": 302.1,
+    "YCP": 310.8,
+    "CHANGE": -8.7,
+    "TRADE": 250,
+    "VALUE (mn)": 3.142,
+    "VOLUME": 10349
   },
   "marketInformation": {
-    "lastTradingPrice": 310.8,
+    "lastTradingPrice": 302.1,
     "daysRange": [
-      310.2,
-      314.7
+      301.9,
+      320
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       266.2,
       421
     ],
-    "change": 1.1,
-    "daysTradeNos": 73,
-    "yesterdaysClose": 309.7,
-    "daysVolumeNos": 4036,
-    "adjustedOpeningPrice": 309.7,
-    "daysValueMn": 1.26,
-    "openingPrice": 314.7,
-    "marketCapMn": 1362.759,
-    "closingPrice": 310.8,
-    "freeFloatMarketCapMn": 953.93
+    "change": -8.7,
+    "daysTradeNos": 250,
+    "yesterdaysClose": 310.8,
+    "daysVolumeNos": 10349,
+    "adjustedOpeningPrice": 310.8,
+    "daysValueMn": 3.14,
+    "openingPrice": 320,
+    "marketCapMn": 1367.6,
+    "closingPrice": 302.1,
+    "freeFloatMarketCapMn": 957.318
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 1442.65,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 1414.85,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 1371.18,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1332.79,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 327,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 320.7,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 310.8,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 302.1,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "47123449"
   },
-  "scrapedAt": "2026-09-12T19:44:10.983Z",
+  "scrapedAt": "2026-09-13T15:43:14.620Z",
   "shariaCompliant": false
 }

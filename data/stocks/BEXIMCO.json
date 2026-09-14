@@ -9,37 +9,37 @@
     "#": 65,
     "TRADING CODE": "BEXIMCO",
     "tradingCode": "BEXIMCO",
-    "LTP": 21.5,
-    "HIGH": 22.1,
-    "LOW": 21.4,
-    "CLOSEP": 21.5,
-    "YCP": 21.6,
-    "CHANGE": -0.1,
-    "TRADE": 1791,
-    "VALUE (mn)": 41.318,
-    "VOLUME": 1902784
+    "LTP": 21.2,
+    "HIGH": 21.8,
+    "LOW": 21.1,
+    "CLOSEP": 21.2,
+    "YCP": 21.5,
+    "CHANGE": -0.3,
+    "TRADE": 2032,
+    "VALUE (mn)": 60.395,
+    "VOLUME": 2825603
   },
   "marketInformation": {
-    "lastTradingPrice": 21.5,
+    "lastTradingPrice": 21.2,
     "daysRange": [
-      21.4,
-      22.1
+      21.1,
+      21.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.7,
       110.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 1791,
-    "yesterdaysClose": 21.6,
-    "daysVolumeNos": 1902784,
-    "adjustedOpeningPrice": 21.6,
-    "daysValueMn": 41.32,
-    "openingPrice": 21.6,
-    "marketCapMn": 20373.903,
-    "closingPrice": 21.5,
-    "freeFloatMarketCapMn": 13628.878
+    "change": -0.3,
+    "daysTradeNos": 2032,
+    "yesterdaysClose": 21.5,
+    "daysVolumeNos": 2825603,
+    "adjustedOpeningPrice": 21.5,
+    "daysValueMn": 60.4,
+    "openingPrice": 21.5,
+    "marketCapMn": 20279.58,
+    "closingPrice": 21.2,
+    "freeFloatMarketCapMn": 13565.781
   },
   "basicInformation": {
     "authorizedCapitalMn": 30000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "41060531-35, 41060579-83 EXT.10140"
   },
-  "scrapedAt": "2026-09-12T19:43:11.071Z",
+  "scrapedAt": "2026-09-13T15:42:10.857Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 259,
     "TRADING CODE": "OIMEX",
     "tradingCode": "OIMEX",
-    "LTP": 14.4,
-    "HIGH": 14.9,
-    "LOW": 14.2,
-    "CLOSEP": 14.2,
-    "YCP": 14.5,
-    "CHANGE": -0.1,
-    "TRADE": 76,
-    "VALUE (mn)": 0.379,
-    "VOLUME": 26602
+    "LTP": 13.7,
+    "HIGH": 15,
+    "LOW": 13.5,
+    "CLOSEP": 13.5,
+    "YCP": 14.2,
+    "CHANGE": -0.5,
+    "TRADE": 156,
+    "VALUE (mn)": 1.486,
+    "VOLUME": 108847
   },
   "marketInformation": {
-    "lastTradingPrice": 14.4,
+    "lastTradingPrice": 13.7,
     "daysRange": [
-      14.2,
-      14.9
+      13.5,
+      15
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.8,
       27.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 76,
-    "yesterdaysClose": 14.5,
-    "daysVolumeNos": 26602,
-    "adjustedOpeningPrice": 14.5,
-    "daysValueMn": 0.38,
-    "openingPrice": 14.9,
-    "marketCapMn": 1059.729,
-    "closingPrice": 14.2,
-    "freeFloatMarketCapMn": 680.798
+    "change": -0.5,
+    "daysTradeNos": 156,
+    "yesterdaysClose": 14.2,
+    "daysVolumeNos": 108847,
+    "adjustedOpeningPrice": 14.2,
+    "daysValueMn": 1.49,
+    "openingPrice": 15,
+    "marketCapMn": 1037.804,
+    "closingPrice": 13.5,
+    "freeFloatMarketCapMn": 666.713
   },
   "basicInformation": {
     "authorizedCapitalMn": 1700,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 76,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 72.5,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 71,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 67.5,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 19.49,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 18.59,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 18.21,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.31,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01755549029",
     "telephoneNo": "+ 88 02 9665272"
   },
-  "scrapedAt": "2026-09-12T19:44:20.520Z",
+  "scrapedAt": "2026-09-13T15:43:25.734Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 5,
     "TRADING CODE": "ABB1STMF",
     "tradingCode": "ABB1STMF",
-    "LTP": 3.7,
-    "HIGH": 3.7,
+    "LTP": 3.6,
+    "HIGH": 3.8,
     "LOW": 3.6,
-    "CLOSEP": 3.7,
-    "YCP": 3.6,
-    "CHANGE": 0.1,
-    "TRADE": 230,
-    "VALUE (mn)": 6.333,
-    "VOLUME": 1729013
+    "CLOSEP": 3.6,
+    "YCP": 3.7,
+    "CHANGE": -0.1,
+    "TRADE": 289,
+    "VALUE (mn)": 7.075,
+    "VOLUME": 1916734
   },
   "marketInformation": {
-    "lastTradingPrice": 3.7,
+    "lastTradingPrice": 3.6,
     "daysRange": [
       3.6,
-      3.7
+      3.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.2,
       4.4
     ],
-    "change": 0.1,
-    "daysTradeNos": 230,
-    "yesterdaysClose": 3.6,
-    "daysVolumeNos": 1729013,
-    "adjustedOpeningPrice": 3.6,
-    "daysValueMn": 6.33,
-    "openingPrice": 3.6,
-    "marketCapMn": 860.725,
-    "closingPrice": 3.7,
+    "change": -0.1,
+    "daysTradeNos": 289,
+    "yesterdaysClose": 3.7,
+    "daysVolumeNos": 1916734,
+    "adjustedOpeningPrice": 3.7,
+    "daysValueMn": 7.08,
+    "openingPrice": 3.7,
+    "marketCapMn": 884.634,
+    "closingPrice": 3.6,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:45.778Z",
+  "scrapedAt": "2026-09-13T15:40:49.792Z",
   "shariaCompliant": false
 }

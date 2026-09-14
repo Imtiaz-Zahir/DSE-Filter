@@ -9,36 +9,36 @@
     "#": 37,
     "TRADING CODE": "ARAMITCEM",
     "tradingCode": "ARAMITCEM",
-    "LTP": 11.3,
-    "HIGH": 11.8,
-    "LOW": 11.1,
-    "CLOSEP": 11.3,
+    "LTP": 11.4,
+    "HIGH": 11.7,
+    "LOW": 10.2,
+    "CLOSEP": 10.9,
     "YCP": 11.3,
-    "CHANGE": 0,
-    "TRADE": 28,
-    "VALUE (mn)": 0.238,
-    "VOLUME": 21041
+    "CHANGE": 0.1,
+    "TRADE": 27,
+    "VALUE (mn)": 0.226,
+    "VOLUME": 20794
   },
   "marketInformation": {
-    "lastTradingPrice": 11.3,
+    "lastTradingPrice": 11.4,
     "daysRange": [
-      11.1,
-      11.8
+      10.2,
+      11.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.6,
       15
     ],
-    "change": 0,
-    "daysTradeNos": 28,
+    "change": 0.1,
+    "daysTradeNos": 27,
     "yesterdaysClose": 11.3,
-    "daysVolumeNos": 21041,
+    "daysVolumeNos": 20794,
     "adjustedOpeningPrice": 11.3,
-    "daysValueMn": 0.24,
-    "openingPrice": 11.3,
+    "daysValueMn": 0.23,
+    "openingPrice": 11.1,
     "marketCapMn": 382.844,
-    "closingPrice": 11.3,
+    "closingPrice": 10.9,
     "freeFloatMarketCapMn": 182.104
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819 240 005",
     "telephoneNo": "(88 031) 671950, 670473, 670368, 672516, Ext-119"
   },
-  "scrapedAt": "2026-09-12T19:43:00.389Z",
+  "scrapedAt": "2026-09-13T15:42:01.320Z",
   "shariaCompliant": false
 }

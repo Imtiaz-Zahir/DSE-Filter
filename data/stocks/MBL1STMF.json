@@ -9,20 +9,20 @@
     "#": 216,
     "TRADING CODE": "MBL1STMF",
     "tradingCode": "MBL1STMF",
-    "LTP": 9.7,
+    "LTP": 9,
     "HIGH": 9.9,
-    "LOW": 9.3,
-    "CLOSEP": 9.7,
-    "YCP": 9.4,
-    "CHANGE": 0.3,
-    "TRADE": 911,
-    "VALUE (mn)": 66.55,
-    "VOLUME": 6930339
+    "LOW": 8.8,
+    "CLOSEP": 9,
+    "YCP": 9.7,
+    "CHANGE": -0.7,
+    "TRADE": 1072,
+    "VALUE (mn)": 49.264,
+    "VOLUME": 5239716
   },
   "marketInformation": {
-    "lastTradingPrice": 9.7,
+    "lastTradingPrice": 9,
     "daysRange": [
-      9.3,
+      8.8,
       9.9
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       3,
       9.9
     ],
-    "change": 0.3,
-    "daysTradeNos": 911,
-    "yesterdaysClose": 9.4,
-    "daysVolumeNos": 6930339,
-    "adjustedOpeningPrice": 9.4,
-    "daysValueMn": 66.55,
-    "openingPrice": 9.4,
-    "marketCapMn": 940,
-    "closingPrice": 9.7,
+    "change": -0.7,
+    "daysTradeNos": 1072,
+    "yesterdaysClose": 9.7,
+    "daysVolumeNos": 5239716,
+    "adjustedOpeningPrice": 9.7,
+    "daysValueMn": 49.26,
+    "openingPrice": 9.8,
+    "marketCapMn": 970,
+    "closingPrice": 9,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 61.68,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 65.19,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 67.99,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 63.08,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.95,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 22.14,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.1,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.43,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:04.832Z",
+  "scrapedAt": "2026-09-13T15:43:08.755Z",
   "shariaCompliant": false
 }

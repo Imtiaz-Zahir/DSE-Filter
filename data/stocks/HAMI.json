@@ -9,37 +9,37 @@
     "#": 158,
     "TRADING CODE": "HAMI",
     "tradingCode": "HAMI",
-    "LTP": 146.7,
-    "HIGH": 149.8,
-    "LOW": 142.1,
-    "CLOSEP": 145.6,
-    "YCP": 145,
-    "CHANGE": 1.7,
-    "TRADE": 123,
-    "VALUE (mn)": 1.514,
-    "VOLUME": 10439
+    "LTP": 146.6,
+    "HIGH": 148.9,
+    "LOW": 143.2,
+    "CLOSEP": 146.6,
+    "YCP": 145.6,
+    "CHANGE": 1,
+    "TRADE": 144,
+    "VALUE (mn)": 1.474,
+    "VOLUME": 10098
   },
   "marketInformation": {
-    "lastTradingPrice": 146.7,
+    "lastTradingPrice": 146.6,
     "daysRange": [
-      142.1,
-      149.8
+      143.2,
+      148.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       93,
       197
     ],
-    "change": 1.7,
-    "daysTradeNos": 123,
-    "yesterdaysClose": 145,
-    "daysVolumeNos": 10439,
-    "adjustedOpeningPrice": 145,
-    "daysValueMn": 1.51,
-    "openingPrice": 142.1,
-    "marketCapMn": 1116.5,
-    "closingPrice": 145.6,
-    "freeFloatMarketCapMn": 753.407
+    "change": 1,
+    "daysTradeNos": 144,
+    "yesterdaysClose": 145.6,
+    "daysVolumeNos": 10098,
+    "adjustedOpeningPrice": 145.6,
+    "daysValueMn": 1.47,
+    "openingPrice": 148.9,
+    "marketCapMn": 1121.12,
+    "closingPrice": 146.6,
+    "freeFloatMarketCapMn": 756.524
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 535.36,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 522.14,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 520,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 523.57,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+880 1706188865",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:45.485Z",
+  "scrapedAt": "2026-09-13T15:42:41.087Z",
   "shariaCompliant": true
 }

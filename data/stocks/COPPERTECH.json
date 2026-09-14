@@ -9,37 +9,37 @@
     "#": 88,
     "TRADING CODE": "COPPERTECH",
     "tradingCode": "COPPERTECH",
-    "LTP": 22.6,
-    "HIGH": 23.4,
-    "LOW": 22.5,
-    "CLOSEP": 22.6,
-    "YCP": 23.1,
-    "CHANGE": -0.5,
-    "TRADE": 185,
-    "VALUE (mn)": 4.09,
-    "VOLUME": 179752
+    "LTP": 21.1,
+    "HIGH": 22.7,
+    "LOW": 21,
+    "CLOSEP": 21.1,
+    "YCP": 22.6,
+    "CHANGE": -1.5,
+    "TRADE": 371,
+    "VALUE (mn)": 8.438,
+    "VOLUME": 387361
   },
   "marketInformation": {
-    "lastTradingPrice": 22.6,
+    "lastTradingPrice": 21.1,
     "daysRange": [
-      22.5,
-      23.4
+      21,
+      22.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.2,
       30.6
     ],
-    "change": -0.5,
-    "daysTradeNos": 185,
-    "yesterdaysClose": 23.1,
-    "daysVolumeNos": 179752,
-    "adjustedOpeningPrice": 23.1,
-    "daysValueMn": 4.09,
-    "openingPrice": 23.2,
-    "marketCapMn": 1513.512,
-    "closingPrice": 22.6,
-    "freeFloatMarketCapMn": 1058.449
+    "change": -1.5,
+    "daysTradeNos": 371,
+    "yesterdaysClose": 22.6,
+    "daysVolumeNos": 387361,
+    "adjustedOpeningPrice": 22.6,
+    "daysValueMn": 8.44,
+    "openingPrice": 22.7,
+    "marketCapMn": 1480.752,
+    "closingPrice": 21.1,
+    "freeFloatMarketCapMn": 1035.539
   },
   "basicInformation": {
     "authorizedCapitalMn": 700,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 41.17,
-        "peDiluted": null,
-        "peTrailing": 34.31
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 39.33,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 37.67,
         "peDiluted": null,
         "peTrailing": 31.39
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.17,
+        "peDiluted": null,
+        "peTrailing": 29.31
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 34.79,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 33.24,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 31.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.72,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01917 701 642",
     "telephoneNo": "+880-2-8715809"
   },
-  "scrapedAt": "2026-09-12T19:43:21.397Z",
+  "scrapedAt": "2026-09-13T15:42:21.296Z",
   "shariaCompliant": true
 }

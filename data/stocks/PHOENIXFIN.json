@@ -15,9 +15,9 @@
     "CLOSEP": 3.6,
     "YCP": 3.6,
     "CHANGE": 0.1,
-    "TRADE": 29,
-    "VALUE (mn)": 0.069,
-    "VOLUME": 19058
+    "TRADE": 31,
+    "VALUE (mn)": 0.138,
+    "VOLUME": 38724
   },
   "marketInformation": {
     "lastTradingPrice": 3.7,
@@ -31,11 +31,11 @@
       5.5
     ],
     "change": 0.1,
-    "daysTradeNos": 29,
+    "daysTradeNos": 31,
     "yesterdaysClose": 3.6,
-    "daysVolumeNos": 19058,
+    "daysVolumeNos": 38724,
     "adjustedOpeningPrice": 3.6,
-    "daysValueMn": 0.07,
+    "daysValueMn": 0.14,
     "openingPrice": 3.6,
     "marketCapMn": 597.147,
     "closingPrice": 3.6,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "88-0172-667-3818",
     "telephoneNo": "02223389007-10, Extn. 111"
   },
-  "scrapedAt": "2026-09-12T19:44:23.850Z",
+  "scrapedAt": "2026-09-13T15:43:29.623Z",
   "shariaCompliant": false
 }

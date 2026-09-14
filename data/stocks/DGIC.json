@@ -9,37 +9,37 @@
     "#": 100,
     "TRADING CODE": "DGIC",
     "tradingCode": "DGIC",
-    "LTP": 30.4,
-    "HIGH": 30.6,
-    "LOW": 30,
-    "CLOSEP": 30.4,
-    "YCP": 30.2,
-    "CHANGE": 0.2,
-    "TRADE": 256,
-    "VALUE (mn)": 5.608,
-    "VOLUME": 185101
+    "LTP": 29.6,
+    "HIGH": 30.4,
+    "LOW": 29.5,
+    "CLOSEP": 29.6,
+    "YCP": 30.4,
+    "CHANGE": -0.8,
+    "TRADE": 252,
+    "VALUE (mn)": 4.974,
+    "VOLUME": 167407
   },
   "marketInformation": {
-    "lastTradingPrice": 30.4,
+    "lastTradingPrice": 29.6,
     "daysRange": [
-      30,
-      30.6
+      29.5,
+      30.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.9,
       37.3
     ],
-    "change": 0.2,
-    "daysTradeNos": 256,
-    "yesterdaysClose": 30.2,
-    "daysVolumeNos": 185101,
-    "adjustedOpeningPrice": 30.2,
-    "daysValueMn": 5.61,
-    "openingPrice": 30.4,
-    "marketCapMn": 1208,
-    "closingPrice": 30.4,
-    "freeFloatMarketCapMn": 540.587
+    "change": -0.8,
+    "daysTradeNos": 252,
+    "yesterdaysClose": 30.4,
+    "daysVolumeNos": 167407,
+    "adjustedOpeningPrice": 30.4,
+    "daysValueMn": 4.97,
+    "openingPrice": 30.1,
+    "marketCapMn": 1216,
+    "closingPrice": 29.6,
+    "freeFloatMarketCapMn": 544.167
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.24,
-        "peDiluted": null,
-        "peTrailing": 56.43
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.12,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 31.02,
         "peDiluted": null,
         "peTrailing": 54.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 30.2,
+        "peDiluted": null,
+        "peTrailing": 52.86
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 197.5,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 190.63,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 190,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 185,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801975615161",
     "telephoneNo": "02-223390997-9, 02223391001"
   },
-  "scrapedAt": "2026-09-12T19:43:23.810Z",
+  "scrapedAt": "2026-09-13T15:42:24.455Z",
   "shariaCompliant": false
 }

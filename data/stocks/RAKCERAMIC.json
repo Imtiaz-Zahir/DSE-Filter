@@ -9,37 +9,37 @@
     "#": 300,
     "TRADING CODE": "RAKCERAMIC",
     "tradingCode": "RAKCERAMIC",
-    "LTP": 27.5,
-    "HIGH": 28,
-    "LOW": 27.4,
-    "CLOSEP": 27.5,
-    "YCP": 27.9,
-    "CHANGE": -0.4,
-    "TRADE": 384,
-    "VALUE (mn)": 7.603,
-    "VOLUME": 274696
+    "LTP": 26.3,
+    "HIGH": 27.6,
+    "LOW": 26.1,
+    "CLOSEP": 26.3,
+    "YCP": 27.5,
+    "CHANGE": -1.2,
+    "TRADE": 453,
+    "VALUE (mn)": 7.007,
+    "VOLUME": 262331
   },
   "marketInformation": {
-    "lastTradingPrice": 27.5,
+    "lastTradingPrice": 26.3,
     "daysRange": [
-      27.4,
-      28
+      26.1,
+      27.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       19.2,
       32.8
     ],
-    "change": -0.4,
-    "daysTradeNos": 384,
-    "yesterdaysClose": 27.9,
-    "daysVolumeNos": 274696,
-    "adjustedOpeningPrice": 27.9,
-    "daysValueMn": 7.6,
-    "openingPrice": 28,
-    "marketCapMn": 11940.327,
-    "closingPrice": 27.5,
-    "freeFloatMarketCapMn": 3333.667
+    "change": -1.2,
+    "daysTradeNos": 453,
+    "yesterdaysClose": 27.5,
+    "daysVolumeNos": 262331,
+    "adjustedOpeningPrice": 27.5,
+    "daysValueMn": 7.01,
+    "openingPrice": 27.6,
+    "marketCapMn": 11769.139,
+    "closingPrice": 26.3,
+    "freeFloatMarketCapMn": 3285.873
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 300,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 293,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 275,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 263,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 240 021",
     "telephoneNo": "+88 02-58957393, +88 02-58952303"
   },
-  "scrapedAt": "2026-09-12T19:44:36.309Z",
+  "scrapedAt": "2026-09-13T15:43:41.003Z",
   "shariaCompliant": true
 }

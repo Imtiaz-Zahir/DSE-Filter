@@ -9,18 +9,18 @@
     "#": 175,
     "TRADING CODE": "IFIC",
     "tradingCode": "IFIC",
-    "LTP": 4.7,
+    "LTP": 4.6,
     "HIGH": 4.7,
     "LOW": 4.5,
     "CLOSEP": 4.6,
     "YCP": 4.6,
-    "CHANGE": 0.1,
-    "TRADE": 174,
-    "VALUE (mn)": 1.821,
-    "VOLUME": 395583
+    "CHANGE": 0,
+    "TRADE": 114,
+    "VALUE (mn)": 1.511,
+    "VOLUME": 331808
   },
   "marketInformation": {
-    "lastTradingPrice": 4.7,
+    "lastTradingPrice": 4.6,
     "daysRange": [
       4.5,
       4.7
@@ -30,13 +30,13 @@
       3.6,
       7
     ],
-    "change": 0.1,
-    "daysTradeNos": 174,
+    "change": 0,
+    "daysTradeNos": 114,
     "yesterdaysClose": 4.6,
-    "daysVolumeNos": 395583,
+    "daysVolumeNos": 331808,
     "adjustedOpeningPrice": 4.6,
-    "daysValueMn": 1.82,
-    "openingPrice": 4.6,
+    "daysValueMn": 1.51,
+    "openingPrice": 4.7,
     "marketCapMn": 8841.599,
     "closingPrice": 4.6,
     "freeFloatMarketCapMn": 5946.103
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 082 129",
     "telephoneNo": "0966671625, Ext. 122"
   },
-  "scrapedAt": "2026-09-12T19:43:51.503Z",
+  "scrapedAt": "2026-09-13T15:42:49.973Z",
   "shariaCompliant": false
 }

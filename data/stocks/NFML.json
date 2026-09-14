@@ -9,37 +9,37 @@
     "#": 247,
     "TRADING CODE": "NFML",
     "tradingCode": "NFML",
-    "LTP": 15.6,
-    "HIGH": 16.5,
-    "LOW": 15.4,
-    "CLOSEP": 15.6,
-    "YCP": 16.1,
-    "CHANGE": -0.5,
-    "TRADE": 416,
-    "VALUE (mn)": 7.88,
-    "VOLUME": 500608
+    "LTP": 14.7,
+    "HIGH": 16,
+    "LOW": 14.7,
+    "CLOSEP": 14.9,
+    "YCP": 15.6,
+    "CHANGE": -0.9,
+    "TRADE": 450,
+    "VALUE (mn)": 8.411,
+    "VOLUME": 553120
   },
   "marketInformation": {
-    "lastTradingPrice": 15.6,
+    "lastTradingPrice": 14.7,
     "daysRange": [
-      15.4,
-      16.5
+      14.7,
+      16
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9,
       24.2
     ],
-    "change": -0.5,
-    "daysTradeNos": 416,
-    "yesterdaysClose": 16.1,
-    "daysVolumeNos": 500608,
-    "adjustedOpeningPrice": 16.1,
-    "daysValueMn": 7.88,
-    "openingPrice": 15.5,
-    "marketCapMn": 1503.117,
-    "closingPrice": 15.6,
-    "freeFloatMarketCapMn": 1046.168
+    "change": -0.9,
+    "daysTradeNos": 450,
+    "yesterdaysClose": 15.6,
+    "daysVolumeNos": 553120,
+    "adjustedOpeningPrice": 15.6,
+    "daysValueMn": 8.41,
+    "openingPrice": 16,
+    "marketCapMn": 1456.437,
+    "closingPrice": 14.9,
+    "freeFloatMarketCapMn": 1013.679
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 855
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 780
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 745
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 570,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 536.67,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 520,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 496.67,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01730066269",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:16.502Z",
+  "scrapedAt": "2026-09-13T15:43:23.409Z",
   "shariaCompliant": true
 }

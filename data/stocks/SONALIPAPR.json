@@ -9,37 +9,37 @@
     "#": 349,
     "TRADING CODE": "SONALIPAPR",
     "tradingCode": "SONALIPAPR",
-    "LTP": 219.7,
-    "HIGH": 223,
-    "LOW": 218.8,
-    "CLOSEP": 219.7,
-    "YCP": 220.9,
-    "CHANGE": -1.2,
-    "TRADE": 332,
-    "VALUE (mn)": 6.019,
-    "VOLUME": 27257
+    "LTP": 212.2,
+    "HIGH": 222.9,
+    "LOW": 211.1,
+    "CLOSEP": 212.2,
+    "YCP": 219.7,
+    "CHANGE": -7.5,
+    "TRADE": 677,
+    "VALUE (mn)": 11.87,
+    "VOLUME": 55145
   },
   "marketInformation": {
-    "lastTradingPrice": 219.7,
+    "lastTradingPrice": 212.2,
     "daysRange": [
-      218.8,
-      223
+      211.1,
+      222.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       182.2,
       314.9
     ],
-    "change": -1.2,
-    "daysTradeNos": 332,
-    "yesterdaysClose": 220.9,
-    "daysVolumeNos": 27257,
-    "adjustedOpeningPrice": 220.9,
-    "daysValueMn": 6.02,
-    "openingPrice": 223,
-    "marketCapMn": 7277.592,
-    "closingPrice": 219.7,
-    "freeFloatMarketCapMn": 1908.191
+    "change": -7.5,
+    "daysTradeNos": 677,
+    "yesterdaysClose": 219.7,
+    "daysVolumeNos": 55145,
+    "adjustedOpeningPrice": 219.7,
+    "daysValueMn": 11.87,
+    "openingPrice": 220,
+    "marketCapMn": 7238.058,
+    "closingPrice": 212.2,
+    "freeFloatMarketCapMn": 1897.825
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 26.38,
-        "peDiluted": null,
-        "peTrailing": 32.05
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 25.39,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 25.08,
         "peDiluted": null,
         "peTrailing": 30.47
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.22,
+        "peDiluted": null,
+        "peTrailing": 29.43
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 32.23,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 31.02,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 30.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.6,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01678 012 173",
     "telephoneNo": "+880258610056-59"
   },
-  "scrapedAt": "2026-09-12T19:44:53.113Z",
+  "scrapedAt": "2026-09-13T15:44:02.771Z",
   "shariaCompliant": true
 }

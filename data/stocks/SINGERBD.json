@@ -9,37 +9,37 @@
     "#": 343,
     "TRADING CODE": "SINGERBD",
     "tradingCode": "SINGERBD",
-    "LTP": 72.3,
-    "HIGH": 73,
-    "LOW": 72.1,
-    "CLOSEP": 72.3,
-    "YCP": 72.7,
+    "LTP": 71.9,
+    "HIGH": 73.5,
+    "LOW": 71.5,
+    "CLOSEP": 71.9,
+    "YCP": 72.3,
     "CHANGE": -0.4,
-    "TRADE": 156,
-    "VALUE (mn)": 0.944,
-    "VOLUME": 13055
+    "TRADE": 136,
+    "VALUE (mn)": 0.63,
+    "VOLUME": 8760
   },
   "marketInformation": {
-    "lastTradingPrice": 72.3,
+    "lastTradingPrice": 71.9,
     "daysRange": [
-      72.1,
-      73
+      71.5,
+      73.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      72,
-      110.4
+      71.5,
+      109.5
     ],
     "change": -0.4,
-    "daysTradeNos": 156,
-    "yesterdaysClose": 72.7,
-    "daysVolumeNos": 13055,
-    "adjustedOpeningPrice": 72.7,
-    "daysValueMn": 0.94,
-    "openingPrice": 72.7,
-    "marketCapMn": 7248.396,
-    "closingPrice": 72.3,
-    "freeFloatMarketCapMn": 3117.631
+    "daysTradeNos": 136,
+    "yesterdaysClose": 72.3,
+    "daysVolumeNos": 8760,
+    "adjustedOpeningPrice": 72.3,
+    "daysValueMn": 0.63,
+    "openingPrice": 72.3,
+    "marketCapMn": 7208.515,
+    "closingPrice": 71.9,
+    "freeFloatMarketCapMn": 3100.477
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+8801817042256",
     "telephoneNo": "880 2223 384438"
   },
-  "scrapedAt": "2026-09-12T19:44:52.413Z",
+  "scrapedAt": "2026-09-13T15:44:00.065Z",
   "shariaCompliant": true
 }

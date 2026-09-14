@@ -9,37 +9,37 @@
     "#": 298,
     "TRADING CODE": "RAHIMAFOOD",
     "tradingCode": "RAHIMAFOOD",
-    "LTP": 70.1,
-    "HIGH": 71.7,
-    "LOW": 69.5,
-    "CLOSEP": 69.6,
-    "YCP": 70.1,
-    "CHANGE": 0,
-    "TRADE": 204,
-    "VALUE (mn)": 1.486,
-    "VOLUME": 21180
+    "LTP": 66.7,
+    "HIGH": 74.5,
+    "LOW": 66,
+    "CLOSEP": 66.7,
+    "YCP": 69.6,
+    "CHANGE": -2.9,
+    "TRADE": 265,
+    "VALUE (mn)": 2.653,
+    "VOLUME": 39344
   },
   "marketInformation": {
-    "lastTradingPrice": 70.1,
+    "lastTradingPrice": 66.7,
     "daysRange": [
-      69.5,
-      71.7
+      66,
+      74.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      68.3,
+      66,
       169
     ],
-    "change": 0,
-    "daysTradeNos": 204,
-    "yesterdaysClose": 70.1,
-    "daysVolumeNos": 21180,
-    "adjustedOpeningPrice": 70.1,
-    "daysValueMn": 1.49,
-    "openingPrice": 70.8,
-    "marketCapMn": 1402.014,
-    "closingPrice": 69.6,
-    "freeFloatMarketCapMn": 898.052
+    "change": -2.9,
+    "daysTradeNos": 265,
+    "yesterdaysClose": 69.6,
+    "daysVolumeNos": 39344,
+    "adjustedOpeningPrice": 69.6,
+    "daysValueMn": 2.65,
+    "openingPrice": 70.1,
+    "marketCapMn": 1392.014,
+    "closingPrice": 66.7,
+    "freeFloatMarketCapMn": 891.647
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 620.83
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 580
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 555.83
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 133.04,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 126.43,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 124.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 119.11,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01716 336 319",
     "telephoneNo": "8809611611123"
   },
-  "scrapedAt": "2026-09-12T19:44:36.517Z",
+  "scrapedAt": "2026-09-13T15:43:39.977Z",
   "shariaCompliant": false
 }

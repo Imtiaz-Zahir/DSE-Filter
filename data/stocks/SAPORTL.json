@@ -9,37 +9,37 @@
     "#": 326,
     "TRADING CODE": "SAPORTL",
     "tradingCode": "SAPORTL",
-    "LTP": 60.1,
-    "HIGH": 61.9,
+    "LTP": 60,
+    "HIGH": 61.3,
     "LOW": 59.9,
-    "CLOSEP": 60.1,
-    "YCP": 60.5,
-    "CHANGE": -0.4,
-    "TRADE": 861,
-    "VALUE (mn)": 74.535,
-    "VOLUME": 1234824
+    "CLOSEP": 60,
+    "YCP": 60.1,
+    "CHANGE": -0.1,
+    "TRADE": 797,
+    "VALUE (mn)": 68.361,
+    "VOLUME": 1136189
   },
   "marketInformation": {
-    "lastTradingPrice": 60.1,
+    "lastTradingPrice": 60,
     "daysRange": [
       59.9,
-      61.9
+      61.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      30.9,
+      33.7,
       64.3
     ],
-    "change": -0.4,
-    "daysTradeNos": 861,
-    "yesterdaysClose": 60.5,
-    "daysVolumeNos": 1234824,
-    "adjustedOpeningPrice": 60.5,
-    "daysValueMn": 74.54,
-    "openingPrice": 60.5,
-    "marketCapMn": 14330.461,
-    "closingPrice": 60.1,
-    "freeFloatMarketCapMn": 5348.166
+    "change": -0.1,
+    "daysTradeNos": 797,
+    "yesterdaysClose": 60.1,
+    "daysVolumeNos": 1136189,
+    "adjustedOpeningPrice": 60.1,
+    "daysValueMn": 68.36,
+    "openingPrice": 60.2,
+    "marketCapMn": 14235.714,
+    "closingPrice": 60,
+    "freeFloatMarketCapMn": 5312.806
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 27.31,
-        "peDiluted": null,
-        "peTrailing": 27.7
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 26.94,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 27.82,
         "peDiluted": null,
         "peTrailing": 28.22
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.78,
+        "peDiluted": null,
+        "peTrailing": 28.17
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.7,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 20.42,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 21.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.05,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01970025057",
     "telephoneNo": "+88 02 55048284-6, Ext-404"
   },
-  "scrapedAt": "2026-09-12T19:44:47.167Z",
+  "scrapedAt": "2026-09-13T15:43:56.450Z",
   "shariaCompliant": true
 }

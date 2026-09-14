@@ -9,36 +9,36 @@
     "#": 94,
     "TRADING CODE": "DBH",
     "tradingCode": "DBH",
-    "LTP": 40.3,
-    "HIGH": 41,
-    "LOW": 40.1,
-    "CLOSEP": 40.3,
+    "LTP": 39.9,
+    "HIGH": 40.9,
+    "LOW": 39.6,
+    "CLOSEP": 39.9,
     "YCP": 40.3,
-    "CHANGE": 0,
-    "TRADE": 68,
-    "VALUE (mn)": 0.892,
-    "VOLUME": 22076
+    "CHANGE": -0.4,
+    "TRADE": 237,
+    "VALUE (mn)": 3.556,
+    "VOLUME": 89138
   },
   "marketInformation": {
-    "lastTradingPrice": 40.3,
+    "lastTradingPrice": 39.9,
     "daysRange": [
-      40.1,
-      41
+      39.6,
+      40.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       31.5,
       45.2
     ],
-    "change": 0,
-    "daysTradeNos": 68,
+    "change": -0.4,
+    "daysTradeNos": 237,
     "yesterdaysClose": 40.3,
-    "daysVolumeNos": 22076,
+    "daysVolumeNos": 89138,
     "adjustedOpeningPrice": 40.3,
-    "daysValueMn": 0.89,
-    "openingPrice": 41,
+    "daysValueMn": 3.56,
+    "openingPrice": 40.9,
     "marketCapMn": 8175.579,
-    "closingPrice": 40.3,
+    "closingPrice": 39.9,
     "freeFloatMarketCapMn": 3482.338
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 7.57,
-        "peDiluted": null,
-        "peTrailing": 7.74
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.45,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 7.35,
         "peDiluted": null,
         "peTrailing": 7.52
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.28,
+        "peDiluted": null,
+        "peTrailing": 7.44
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 8.85,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 8.7,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 8.59,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.51,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01614 072 145",
     "telephoneNo": "09610334197"
   },
-  "scrapedAt": "2026-09-12T19:43:22.740Z",
+  "scrapedAt": "2026-09-13T15:42:22.230Z",
   "shariaCompliant": false
 }

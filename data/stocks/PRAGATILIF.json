@@ -9,37 +9,37 @@
     "#": 281,
     "TRADING CODE": "PRAGATILIF",
     "tradingCode": "PRAGATILIF",
-    "LTP": 144.4,
-    "HIGH": 151.5,
-    "LOW": 142.5,
-    "CLOSEP": 144.4,
-    "YCP": 148.3,
-    "CHANGE": -3.9,
-    "TRADE": 562,
-    "VALUE (mn)": 8.592,
-    "VOLUME": 58782
+    "LTP": 140.6,
+    "HIGH": 145,
+    "LOW": 140,
+    "CLOSEP": 140.6,
+    "YCP": 144.4,
+    "CHANGE": -3.8,
+    "TRADE": 600,
+    "VALUE (mn)": 8.683,
+    "VOLUME": 61103
   },
   "marketInformation": {
-    "lastTradingPrice": 144.4,
+    "lastTradingPrice": 140.6,
     "daysRange": [
-      142.5,
-      151.5
+      140,
+      145
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       127.3,
       283.9
     ],
-    "change": -3.9,
-    "daysTradeNos": 562,
-    "yesterdaysClose": 148.3,
-    "daysVolumeNos": 58782,
-    "adjustedOpeningPrice": 148.3,
-    "daysValueMn": 8.59,
-    "openingPrice": 149.9,
-    "marketCapMn": 5309.113,
-    "closingPrice": 144.4,
-    "freeFloatMarketCapMn": 2943.257
+    "change": -3.8,
+    "daysTradeNos": 600,
+    "yesterdaysClose": 144.4,
+    "daysVolumeNos": 61103,
+    "adjustedOpeningPrice": 144.4,
+    "daysValueMn": 8.68,
+    "openingPrice": 142.8,
+    "marketCapMn": 5169.493,
+    "closingPrice": 140.6,
+    "freeFloatMarketCapMn": 2865.855
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": "+88 01814 650 723",
     "telephoneNo": "02 55014393"
   },
-  "scrapedAt": "2026-09-12T19:44:30.230Z",
+  "scrapedAt": "2026-09-13T15:43:34.444Z",
   "shariaCompliant": false
 }

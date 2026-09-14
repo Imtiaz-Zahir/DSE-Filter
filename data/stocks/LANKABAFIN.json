@@ -9,36 +9,36 @@
     "#": 203,
     "TRADING CODE": "LANKABAFIN",
     "tradingCode": "LANKABAFIN",
-    "LTP": 14.9,
-    "HIGH": 15.2,
-    "LOW": 14.8,
-    "CLOSEP": 14.9,
+    "LTP": 14.5,
+    "HIGH": 14.9,
+    "LOW": 14.4,
+    "CLOSEP": 14.5,
     "YCP": 14.9,
-    "CHANGE": 0,
-    "TRADE": 417,
-    "VALUE (mn)": 9.446,
-    "VOLUME": 632383
+    "CHANGE": -0.4,
+    "TRADE": 578,
+    "VALUE (mn)": 13.661,
+    "VOLUME": 935822
   },
   "marketInformation": {
-    "lastTradingPrice": 14.9,
+    "lastTradingPrice": 14.5,
     "daysRange": [
-      14.8,
-      15.2
+      14.4,
+      14.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.6,
       19.5
     ],
-    "change": 0,
-    "daysTradeNos": 417,
+    "change": -0.4,
+    "daysTradeNos": 578,
     "yesterdaysClose": 14.9,
-    "daysVolumeNos": 632383,
+    "daysVolumeNos": 935822,
     "adjustedOpeningPrice": 14.9,
-    "daysValueMn": 9.45,
-    "openingPrice": 15,
+    "daysValueMn": 13.66,
+    "openingPrice": 14.9,
     "marketCapMn": 8028.695,
-    "closingPrice": 14.9,
+    "closingPrice": 14.5,
     "freeFloatMarketCapMn": 5317.609
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.94,
-        "peDiluted": null,
-        "peTrailing": 41.58
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 21.11,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.69,
         "peDiluted": null,
         "peTrailing": 39.21
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.14,
+        "peDiluted": null,
+        "peTrailing": 38.16
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 30.98,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 29.8,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 29.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 28.43,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713069817",
     "telephoneNo": "+88 02 2222283701-402"
   },
-  "scrapedAt": "2026-09-12T19:44:00.690Z",
+  "scrapedAt": "2026-09-13T15:43:04.330Z",
   "shariaCompliant": false
 }

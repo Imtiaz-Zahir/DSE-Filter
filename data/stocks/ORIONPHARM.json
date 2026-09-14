@@ -9,37 +9,37 @@
     "#": 263,
     "TRADING CODE": "ORIONPHARM",
     "tradingCode": "ORIONPHARM",
-    "LTP": 25,
-    "HIGH": 25.5,
-    "LOW": 24.9,
-    "CLOSEP": 25,
-    "YCP": 25.1,
-    "CHANGE": -0.1,
-    "TRADE": 165,
-    "VALUE (mn)": 2.221,
-    "VOLUME": 88659
+    "LTP": 24.2,
+    "HIGH": 25,
+    "LOW": 24.1,
+    "CLOSEP": 24.2,
+    "YCP": 25,
+    "CHANGE": -0.8,
+    "TRADE": 251,
+    "VALUE (mn)": 2.366,
+    "VOLUME": 97185
   },
   "marketInformation": {
-    "lastTradingPrice": 25,
+    "lastTradingPrice": 24.2,
     "daysRange": [
-      24.9,
-      25.5
+      24.1,
+      25
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       22.9,
       39.2
     ],
-    "change": -0.1,
-    "daysTradeNos": 165,
-    "yesterdaysClose": 25.1,
-    "daysVolumeNos": 88659,
-    "adjustedOpeningPrice": 25.1,
-    "daysValueMn": 2.22,
-    "openingPrice": 25.5,
-    "marketCapMn": 5873.4,
-    "closingPrice": 25,
-    "freeFloatMarketCapMn": 3994.876
+    "change": -0.8,
+    "daysTradeNos": 251,
+    "yesterdaysClose": 25,
+    "daysVolumeNos": 97185,
+    "adjustedOpeningPrice": 25,
+    "daysValueMn": 2.37,
+    "openingPrice": 25,
+    "marketCapMn": 5850,
+    "closingPrice": 24.2,
+    "freeFloatMarketCapMn": 3978.96
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 402 522",
     "telephoneNo": "+88028870133 Ext-114"
   },
-  "scrapedAt": "2026-09-12T19:44:21.972Z",
+  "scrapedAt": "2026-09-13T15:43:27.820Z",
   "shariaCompliant": false
 }

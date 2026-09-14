@@ -9,37 +9,37 @@
     "#": 47,
     "TRADING CODE": "BATASHOE",
     "tradingCode": "BATASHOE",
-    "LTP": 888,
-    "HIGH": 898.8,
-    "LOW": 885,
-    "CLOSEP": 888,
-    "YCP": 884.9,
-    "CHANGE": 3.1,
-    "TRADE": 26,
-    "VALUE (mn)": 0.265,
-    "VOLUME": 299
+    "LTP": 883.7,
+    "HIGH": 900,
+    "LOW": 881,
+    "CLOSEP": 883.7,
+    "YCP": 888,
+    "CHANGE": -4.3,
+    "TRADE": 43,
+    "VALUE (mn)": 0.318,
+    "VOLUME": 360
   },
   "marketInformation": {
-    "lastTradingPrice": 888,
+    "lastTradingPrice": 883.7,
     "daysRange": [
-      885,
-      898.8
+      881,
+      900
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       770.1,
       927
     ],
-    "change": 3.1,
-    "daysTradeNos": 26,
-    "yesterdaysClose": 884.9,
-    "daysVolumeNos": 299,
-    "adjustedOpeningPrice": 884.9,
-    "daysValueMn": 0.27,
-    "openingPrice": 885,
-    "marketCapMn": 12105.432,
-    "closingPrice": 888,
-    "freeFloatMarketCapMn": 3631.63
+    "change": -4.3,
+    "daysTradeNos": 43,
+    "yesterdaysClose": 888,
+    "daysVolumeNos": 360,
+    "adjustedOpeningPrice": 888,
+    "daysValueMn": 0.32,
+    "openingPrice": 886,
+    "marketCapMn": 12147.84,
+    "closingPrice": 883.7,
+    "freeFloatMarketCapMn": 3644.352
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 12.07,
-        "peDiluted": null,
-        "peTrailing": 49.85
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.01,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.04,
         "peDiluted": null,
         "peTrailing": 49.75
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.98,
+        "peDiluted": null,
+        "peTrailing": 49.51
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1046.94,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1042.24,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 1044.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1039.65,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01713 333 191",
     "telephoneNo": "224410501-5 (Ext 399)"
   },
-  "scrapedAt": "2026-09-12T19:43:06.453Z",
+  "scrapedAt": "2026-09-13T15:42:04.421Z",
   "shariaCompliant": true
 }

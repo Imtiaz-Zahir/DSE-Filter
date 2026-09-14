@@ -9,36 +9,36 @@
     "#": 346,
     "TRADING CODE": "SKTRIMS",
     "tradingCode": "SKTRIMS",
-    "LTP": 12.9,
-    "HIGH": 13.1,
-    "LOW": 12.7,
-    "CLOSEP": 12.9,
+    "LTP": 12.6,
+    "HIGH": 13,
+    "LOW": 12.4,
+    "CLOSEP": 12.6,
     "YCP": 12.9,
-    "CHANGE": 0,
-    "TRADE": 100,
-    "VALUE (mn)": 0.513,
-    "VOLUME": 39917
+    "CHANGE": -0.3,
+    "TRADE": 48,
+    "VALUE (mn)": 0.18,
+    "VOLUME": 14296
   },
   "marketInformation": {
-    "lastTradingPrice": 12.9,
+    "lastTradingPrice": 12.6,
     "daysRange": [
-      12.7,
-      13.1
+      12.4,
+      13
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6,
       16.1
     ],
-    "change": 0,
-    "daysTradeNos": 100,
+    "change": -0.3,
+    "daysTradeNos": 48,
     "yesterdaysClose": 12.9,
-    "daysVolumeNos": 39917,
+    "daysVolumeNos": 14296,
     "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 0.51,
-    "openingPrice": 13.1,
+    "daysValueMn": 0.18,
+    "openingPrice": 13,
     "marketCapMn": 1092.63,
-    "closingPrice": 12.9,
+    "closingPrice": 12.6,
     "freeFloatMarketCapMn": 751.422
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 25.93,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.19,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.33,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01708 860 503",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:53.235Z",
+  "scrapedAt": "2026-09-13T15:44:02.168Z",
   "shariaCompliant": true
 }

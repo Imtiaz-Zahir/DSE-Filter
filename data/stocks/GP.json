@@ -9,37 +9,37 @@
     "#": 150,
     "TRADING CODE": "GP",
     "tradingCode": "GP",
-    "LTP": 239.1,
-    "HIGH": 243,
-    "LOW": 238.2,
-    "CLOSEP": 239.1,
-    "YCP": 241.8,
-    "CHANGE": -2.7,
-    "TRADE": 2802,
-    "VALUE (mn)": 40.394,
-    "VOLUME": 168654
+    "LTP": 238.2,
+    "HIGH": 240.2,
+    "LOW": 237.7,
+    "CLOSEP": 238.2,
+    "YCP": 239.1,
+    "CHANGE": -0.9,
+    "TRADE": 1716,
+    "VALUE (mn)": 24.196,
+    "VOLUME": 101524
   },
   "marketInformation": {
-    "lastTradingPrice": 239.1,
+    "lastTradingPrice": 238.2,
     "daysRange": [
-      238.2,
-      243
+      237.7,
+      240.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       237.4,
-      304.6
+      303.9
     ],
-    "change": -2.7,
-    "daysTradeNos": 2802,
-    "yesterdaysClose": 241.8,
-    "daysVolumeNos": 168654,
-    "adjustedOpeningPrice": 241.8,
-    "daysValueMn": 40.39,
-    "openingPrice": 243,
-    "marketCapMn": 326502.545,
-    "closingPrice": 239.1,
-    "freeFloatMarketCapMn": 32673.336
+    "change": -0.9,
+    "daysTradeNos": 1716,
+    "yesterdaysClose": 239.1,
+    "daysVolumeNos": 101524,
+    "adjustedOpeningPrice": 239.1,
+    "daysValueMn": 24.2,
+    "openingPrice": 240,
+    "marketCapMn": 322856.735,
+    "closingPrice": 238.2,
+    "freeFloatMarketCapMn": 32308.497
   },
   "basicInformation": {
     "authorizedCapitalMn": 40000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.6,
-        "peDiluted": null,
-        "peTrailing": 11.51
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.36,
         "peDiluted": null,
         "peTrailing": 11.27
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.32,
+        "peDiluted": null,
+        "peTrailing": 11.23
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 11.15,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 11.14,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 10.92,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.88,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 118 191",
     "telephoneNo": "0202222282990"
   },
-  "scrapedAt": "2026-09-12T19:43:38.738Z",
+  "scrapedAt": "2026-09-13T15:42:39.504Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 296,
     "TRADING CODE": "QUASEMIND",
     "tradingCode": "QUASEMIND",
-    "LTP": 39.2,
-    "HIGH": 40.6,
-    "LOW": 38.9,
-    "CLOSEP": 39.2,
-    "YCP": 40.4,
-    "CHANGE": -1.2,
-    "TRADE": 607,
-    "VALUE (mn)": 9.347,
-    "VOLUME": 236781
+    "LTP": 38.6,
+    "HIGH": 39.9,
+    "LOW": 38.1,
+    "CLOSEP": 38.6,
+    "YCP": 39.2,
+    "CHANGE": -0.6,
+    "TRADE": 264,
+    "VALUE (mn)": 4.863,
+    "VOLUME": 124829
   },
   "marketInformation": {
-    "lastTradingPrice": 39.2,
+    "lastTradingPrice": 38.6,
     "daysRange": [
-      38.9,
-      40.6
+      38.1,
+      39.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.3,
       50.4
     ],
-    "change": -1.2,
-    "daysTradeNos": 607,
-    "yesterdaysClose": 40.4,
-    "daysVolumeNos": 236781,
-    "adjustedOpeningPrice": 40.4,
-    "daysValueMn": 9.35,
-    "openingPrice": 40.6,
-    "marketCapMn": 3231.967,
-    "closingPrice": 39.2,
-    "freeFloatMarketCapMn": 1939.107
+    "change": -0.6,
+    "daysTradeNos": 264,
+    "yesterdaysClose": 39.2,
+    "daysVolumeNos": 124829,
+    "adjustedOpeningPrice": 39.2,
+    "daysValueMn": 4.86,
+    "openingPrice": 39.2,
+    "marketCapMn": 3135.968,
+    "closingPrice": 38.6,
+    "freeFloatMarketCapMn": 1881.51
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 38.13,
-        "peDiluted": null,
-        "peTrailing": 32.46
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 37.05,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.42,
         "peDiluted": null,
         "peTrailing": 30.15
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 34.88,
+        "peDiluted": null,
+        "peTrailing": 29.69
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 40.58,
-        "peDiluted": 44.42
-      },
       {
         "date": "2026-09-06",
         "peBasic": 39.42,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 37.69,
         "peDiluted": 41.26
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 37.12,
+        "peDiluted": 40.63
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01313 009 844",
     "telephoneNo": "09612007700 EXTN:608"
   },
-  "scrapedAt": "2026-09-12T19:44:36.460Z",
+  "scrapedAt": "2026-09-13T15:43:40.003Z",
   "shariaCompliant": true
 }

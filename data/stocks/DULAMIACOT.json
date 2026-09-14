@@ -9,37 +9,37 @@
     "#": 107,
     "TRADING CODE": "DULAMIACOT",
     "tradingCode": "DULAMIACOT",
-    "LTP": 180,
-    "HIGH": 184.9,
-    "LOW": 176,
-    "CLOSEP": 180,
-    "YCP": 179.4,
-    "CHANGE": 0.6,
-    "TRADE": 71,
-    "VALUE (mn)": 0.356,
-    "VOLUME": 1965
+    "LTP": 173.9,
+    "HIGH": 181.9,
+    "LOW": 164,
+    "CLOSEP": 173.9,
+    "YCP": 180,
+    "CHANGE": -6.1,
+    "TRADE": 155,
+    "VALUE (mn)": 1.54,
+    "VOLUME": 8841
   },
   "marketInformation": {
-    "lastTradingPrice": 180,
+    "lastTradingPrice": 173.9,
     "daysRange": [
-      176,
-      184.9
+      164,
+      181.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       110,
       231
     ],
-    "change": 0.6,
-    "daysTradeNos": 71,
-    "yesterdaysClose": 179.4,
-    "daysVolumeNos": 1965,
-    "adjustedOpeningPrice": 179.4,
-    "daysValueMn": 0.36,
-    "openingPrice": 184.9,
-    "marketCapMn": 1355.654,
-    "closingPrice": 180,
-    "freeFloatMarketCapMn": 908.082
+    "change": -6.1,
+    "daysTradeNos": 155,
+    "yesterdaysClose": 180,
+    "daysVolumeNos": 8841,
+    "adjustedOpeningPrice": 180,
+    "daysValueMn": 1.54,
+    "openingPrice": 181.9,
+    "marketCapMn": 1360.188,
+    "closingPrice": 173.9,
+    "freeFloatMarketCapMn": 911.119
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 691.5,
-        "peDiluted": null,
-        "peTrailing": 878.1
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 672,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 675,
         "peDiluted": null,
         "peTrailing": 857.14
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 652.13,
+        "peDiluted": null,
+        "peTrailing": 828.1
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 737.6,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 716.8,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 720,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 695.6,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "01713554206",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-12T19:43:26.749Z",
+  "scrapedAt": "2026-09-13T15:42:27.864Z",
   "shariaCompliant": false
 }

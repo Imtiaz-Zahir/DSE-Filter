@@ -9,37 +9,37 @@
     "#": 363,
     "TRADING CODE": "SUNLIFEINS",
     "tradingCode": "SUNLIFEINS",
-    "LTP": 48.9,
-    "HIGH": 50.8,
-    "LOW": 48.5,
-    "CLOSEP": 48.9,
-    "YCP": 50,
-    "CHANGE": -1.1,
-    "TRADE": 524,
-    "VALUE (mn)": 9.293,
-    "VOLUME": 187501
+    "LTP": 46.9,
+    "HIGH": 49,
+    "LOW": 46.5,
+    "CLOSEP": 46.9,
+    "YCP": 48.9,
+    "CHANGE": -2,
+    "TRADE": 396,
+    "VALUE (mn)": 9.528,
+    "VOLUME": 200809
   },
   "marketInformation": {
-    "lastTradingPrice": 48.9,
+    "lastTradingPrice": 46.9,
     "daysRange": [
-      48.5,
-      50.8
+      46.5,
+      49
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.2,
       86.8
     ],
-    "change": -1.1,
-    "daysTradeNos": 524,
-    "yesterdaysClose": 50,
-    "daysVolumeNos": 187501,
-    "adjustedOpeningPrice": 50,
-    "daysValueMn": 9.29,
-    "openingPrice": 50.8,
-    "marketCapMn": 1788.035,
-    "closingPrice": 48.9,
-    "freeFloatMarketCapMn": 1051.765
+    "change": -2,
+    "daysTradeNos": 396,
+    "yesterdaysClose": 48.9,
+    "daysVolumeNos": 200809,
+    "adjustedOpeningPrice": 48.9,
+    "daysValueMn": 9.53,
+    "openingPrice": 48.9,
+    "marketCapMn": 1748.698,
+    "closingPrice": 46.9,
+    "freeFloatMarketCapMn": 1028.626
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -316,6 +316,6 @@
     "cellNo": "+88 01713190292",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:57.146Z",
+  "scrapedAt": "2026-09-13T15:44:09.848Z",
   "shariaCompliant": false
 }

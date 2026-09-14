@@ -9,37 +9,37 @@
     "#": 117,
     "TRADING CODE": "EHL",
     "tradingCode": "EHL",
-    "LTP": 83.5,
-    "HIGH": 87.1,
-    "LOW": 83,
-    "CLOSEP": 83.5,
-    "YCP": 86.6,
-    "CHANGE": -3.1,
-    "TRADE": 777,
-    "VALUE (mn)": 20.523,
-    "VOLUME": 242077
+    "LTP": 80.2,
+    "HIGH": 83.5,
+    "LOW": 79.5,
+    "CLOSEP": 80.2,
+    "YCP": 83.5,
+    "CHANGE": -3.3,
+    "TRADE": 856,
+    "VALUE (mn)": 24.159,
+    "VOLUME": 299532
   },
   "marketInformation": {
-    "lastTradingPrice": 83.5,
+    "lastTradingPrice": 80.2,
     "daysRange": [
-      83,
-      87.1
+      79.5,
+      83.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       67.3,
       104.8
     ],
-    "change": -3.1,
-    "daysTradeNos": 777,
-    "yesterdaysClose": 86.6,
-    "daysVolumeNos": 242077,
-    "adjustedOpeningPrice": 86.6,
-    "daysValueMn": 20.52,
-    "openingPrice": 87.1,
-    "marketCapMn": 8083.69,
-    "closingPrice": 83.5,
-    "freeFloatMarketCapMn": 4006.511
+    "change": -3.3,
+    "daysTradeNos": 856,
+    "yesterdaysClose": 83.5,
+    "daysVolumeNos": 299532,
+    "adjustedOpeningPrice": 83.5,
+    "daysValueMn": 24.16,
+    "openingPrice": 83.5,
+    "marketCapMn": 7794.32,
+    "closingPrice": 80.2,
+    "freeFloatMarketCapMn": 3863.09
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 10.05,
-        "peDiluted": null,
-        "peTrailing": 9.98
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 9.95,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 9.42,
         "peDiluted": null,
         "peTrailing": 9.35
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.05,
+        "peDiluted": null,
+        "peTrailing": 8.98
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 10.77,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 10.67,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 10.1,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 9.7,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 003 131",
     "telephoneNo": "+88- 02-55033669 Ext-212"
   },
-  "scrapedAt": "2026-09-12T19:43:29.660Z",
+  "scrapedAt": "2026-09-13T15:42:29.637Z",
   "shariaCompliant": false
 }

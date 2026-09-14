@@ -9,37 +9,37 @@
     "#": 223,
     "TRADING CODE": "MERCINS",
     "tradingCode": "MERCINS",
-    "LTP": 48.3,
-    "HIGH": 48.9,
-    "LOW": 44.7,
-    "CLOSEP": 48.3,
-    "YCP": 45,
-    "CHANGE": 3.3,
-    "TRADE": 2146,
-    "VALUE (mn)": 109.412,
-    "VOLUME": 2334595
+    "LTP": 48,
+    "HIGH": 50.5,
+    "LOW": 47.6,
+    "CLOSEP": 48,
+    "YCP": 48.3,
+    "CHANGE": -0.3,
+    "TRADE": 2501,
+    "VALUE (mn)": 88.968,
+    "VOLUME": 1812595
   },
   "marketInformation": {
-    "lastTradingPrice": 48.3,
+    "lastTradingPrice": 48,
     "daysRange": [
-      44.7,
-      48.9
+      47.6,
+      50.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       22.4,
-      48.9
+      50.5
     ],
-    "change": 3.3,
-    "daysTradeNos": 2146,
-    "yesterdaysClose": 45,
-    "daysVolumeNos": 2334595,
-    "adjustedOpeningPrice": 45,
-    "daysValueMn": 109.41,
-    "openingPrice": 44.7,
-    "marketCapMn": 1939.291,
-    "closingPrice": 48.3,
-    "freeFloatMarketCapMn": 1290.968
+    "change": -0.3,
+    "daysTradeNos": 2501,
+    "yesterdaysClose": 48.3,
+    "daysVolumeNos": 1812595,
+    "adjustedOpeningPrice": 48.3,
+    "daysValueMn": 88.97,
+    "openingPrice": 48.8,
+    "marketCapMn": 2081.506,
+    "closingPrice": 48,
+    "freeFloatMarketCapMn": 1385.639
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 49.09,
-        "peDiluted": null,
-        "peTrailing": 27.69
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 46.7,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 54.89,
         "peDiluted": null,
         "peTrailing": 30.96
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 54.55,
+        "peDiluted": null,
+        "peTrailing": 30.77
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26.18,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.91,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 29.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.09,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01727 325 514",
     "telephoneNo": "47118799"
   },
-  "scrapedAt": "2026-09-12T19:44:06.675Z",
+  "scrapedAt": "2026-09-13T15:43:10.330Z",
   "shariaCompliant": false
 }

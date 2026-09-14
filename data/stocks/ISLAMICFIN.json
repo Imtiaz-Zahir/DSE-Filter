@@ -9,36 +9,36 @@
     "#": 184,
     "TRADING CODE": "ISLAMICFIN",
     "tradingCode": "ISLAMICFIN",
-    "LTP": 10.9,
-    "HIGH": 11.3,
-    "LOW": 10.9,
-    "CLOSEP": 10.9,
+    "LTP": 10.7,
+    "HIGH": 11,
+    "LOW": 10.6,
+    "CLOSEP": 10.7,
     "YCP": 10.9,
-    "CHANGE": 0,
-    "TRADE": 34,
-    "VALUE (mn)": 0.19,
-    "VOLUME": 17309
+    "CHANGE": -0.2,
+    "TRADE": 52,
+    "VALUE (mn)": 0.466,
+    "VOLUME": 43150
   },
   "marketInformation": {
-    "lastTradingPrice": 10.9,
+    "lastTradingPrice": 10.7,
     "daysRange": [
-      10.9,
-      11.3
+      10.6,
+      11
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.3,
       12.6
     ],
-    "change": 0,
-    "daysTradeNos": 34,
+    "change": -0.2,
+    "daysTradeNos": 52,
     "yesterdaysClose": 10.9,
-    "daysVolumeNos": 17309,
+    "daysVolumeNos": 43150,
     "adjustedOpeningPrice": 10.9,
-    "daysValueMn": 0.19,
-    "openingPrice": 11.3,
+    "daysValueMn": 0.47,
+    "openingPrice": 11,
     "marketCapMn": 1529.561,
-    "closingPrice": 10.9,
+    "closingPrice": 10.7,
     "freeFloatMarketCapMn": 1058.219
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 8.07
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 7.79
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.64
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01713-012683",
     "telephoneNo": "02-226603270-76"
   },
-  "scrapedAt": "2026-09-12T19:43:53.109Z",
+  "scrapedAt": "2026-09-13T15:42:54.815Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 46,
     "TRADING CODE": "BARKAPOWER",
     "tradingCode": "BARKAPOWER",
-    "LTP": 10.1,
-    "HIGH": 10.2,
+    "LTP": 9.9,
+    "HIGH": 10.4,
     "LOW": 9.9,
-    "CLOSEP": 10.1,
-    "YCP": 10,
-    "CHANGE": 0.1,
-    "TRADE": 198,
-    "VALUE (mn)": 3.215,
-    "VOLUME": 318438
+    "CLOSEP": 9.9,
+    "YCP": 10.1,
+    "CHANGE": -0.2,
+    "TRADE": 253,
+    "VALUE (mn)": 4.291,
+    "VOLUME": 430017
   },
   "marketInformation": {
-    "lastTradingPrice": 10.1,
+    "lastTradingPrice": 9.9,
     "daysRange": [
       9.9,
-      10.2
+      10.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.2,
       12.2
     ],
-    "change": 0.1,
-    "daysTradeNos": 198,
-    "yesterdaysClose": 10,
-    "daysVolumeNos": 318438,
-    "adjustedOpeningPrice": 10,
-    "daysValueMn": 3.22,
-    "openingPrice": 10.1,
-    "marketCapMn": 2354.657,
-    "closingPrice": 10.1,
-    "freeFloatMarketCapMn": 1619.526
+    "change": -0.2,
+    "daysTradeNos": 253,
+    "yesterdaysClose": 10.1,
+    "daysVolumeNos": 430017,
+    "adjustedOpeningPrice": 10.1,
+    "daysValueMn": 4.29,
+    "openingPrice": 10.3,
+    "marketCapMn": 2378.203,
+    "closingPrice": 9.9,
+    "freeFloatMarketCapMn": 1635.721
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 8.97,
-        "peDiluted": null,
-        "peTrailing": 11.06
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 8.53,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 8.71,
         "peDiluted": null,
         "peTrailing": 10.74
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 8.53,
+        "peDiluted": null,
+        "peTrailing": 10.53
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.89,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.5,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 28.06,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 27.5,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01730 700 857",
     "telephoneNo": "+88-02-223352305, 223357074 (Ext. 121)"
   },
-  "scrapedAt": "2026-09-12T19:43:07.193Z",
+  "scrapedAt": "2026-09-13T15:42:04.531Z",
   "shariaCompliant": true
 }

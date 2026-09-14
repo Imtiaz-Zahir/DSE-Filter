@@ -9,36 +9,36 @@
     "#": 362,
     "TRADING CODE": "SUMITPOWER",
     "tradingCode": "SUMITPOWER",
-    "LTP": 15.4,
-    "HIGH": 15.7,
-    "LOW": 15.2,
-    "CLOSEP": 15.4,
+    "LTP": 15.1,
+    "HIGH": 15.6,
+    "LOW": 15.1,
+    "CLOSEP": 15.1,
     "YCP": 15.4,
-    "CHANGE": 0,
-    "TRADE": 246,
-    "VALUE (mn)": 4.794,
-    "VOLUME": 311969
+    "CHANGE": -0.3,
+    "TRADE": 305,
+    "VALUE (mn)": 3.768,
+    "VOLUME": 247311
   },
   "marketInformation": {
-    "lastTradingPrice": 15.4,
+    "lastTradingPrice": 15.1,
     "daysRange": [
-      15.2,
-      15.7
+      15.1,
+      15.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       17.9
     ],
-    "change": 0,
-    "daysTradeNos": 246,
+    "change": -0.3,
+    "daysTradeNos": 305,
     "yesterdaysClose": 15.4,
-    "daysVolumeNos": 311969,
+    "daysVolumeNos": 247311,
     "adjustedOpeningPrice": 15.4,
-    "daysValueMn": 4.79,
-    "openingPrice": 15.7,
+    "daysValueMn": 3.77,
+    "openingPrice": 15.5,
     "marketCapMn": 16445.309,
-    "closingPrice": 15.4,
+    "closingPrice": 15.1,
     "freeFloatMarketCapMn": 5448.247
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 8.01,
-        "peDiluted": null,
-        "peTrailing": 40.26
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 7.81,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 7.86,
         "peDiluted": null,
         "peTrailing": 39.49
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.7,
+        "peDiluted": null,
+        "peTrailing": 38.72
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 41.32,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 40.26,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 39.74,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01730808181",
     "telephoneNo": "+8802-55012255-59"
   },
-  "scrapedAt": "2026-09-12T19:44:57.747Z",
+  "scrapedAt": "2026-09-13T15:44:11.579Z",
   "shariaCompliant": true
 }

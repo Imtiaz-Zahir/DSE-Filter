@@ -9,37 +9,37 @@
     "#": 26,
     "TRADING CODE": "AMBEEPHA",
     "tradingCode": "AMBEEPHA",
-    "LTP": 756,
-    "HIGH": 790,
-    "LOW": 750,
-    "CLOSEP": 756,
-    "YCP": 752.5,
-    "CHANGE": 3.5,
-    "TRADE": 209,
-    "VALUE (mn)": 1.674,
-    "VOLUME": 2222
+    "LTP": 744,
+    "HIGH": 760,
+    "LOW": 720.1,
+    "CLOSEP": 732.1,
+    "YCP": 756,
+    "CHANGE": -12,
+    "TRADE": 177,
+    "VALUE (mn)": 1.533,
+    "VOLUME": 2099
   },
   "marketInformation": {
-    "lastTradingPrice": 756,
+    "lastTradingPrice": 744,
     "daysRange": [
-      750,
-      790
+      720.1,
+      760
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       681,
       847
     ],
-    "change": 3.5,
-    "daysTradeNos": 209,
-    "yesterdaysClose": 752.5,
-    "daysVolumeNos": 2222,
-    "adjustedOpeningPrice": 752.5,
-    "daysValueMn": 1.67,
-    "openingPrice": 780,
-    "marketCapMn": 1806,
-    "closingPrice": 756,
-    "freeFloatMarketCapMn": 410.821
+    "change": -12,
+    "daysTradeNos": 177,
+    "yesterdaysClose": 756,
+    "daysVolumeNos": 2099,
+    "adjustedOpeningPrice": 756,
+    "daysValueMn": 1.53,
+    "openingPrice": 760,
+    "marketCapMn": 1814.4,
+    "closingPrice": 732.1,
+    "freeFloatMarketCapMn": 412.731
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 247.57,
-        "peDiluted": null,
-        "peTrailing": 324.35
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 251.95,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 250.88,
         "peDiluted": null,
         "peTrailing": 328.7
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 242.95,
+        "peDiluted": null,
+        "peTrailing": 318.3
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 337.56,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 343.53,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 342.08,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 331.27,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "01712045804",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:56.160Z",
+  "scrapedAt": "2026-09-13T15:41:57.147Z",
   "shariaCompliant": true
 }

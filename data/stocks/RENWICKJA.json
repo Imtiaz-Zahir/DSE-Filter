@@ -9,37 +9,37 @@
     "#": 308,
     "TRADING CODE": "RENWICKJA",
     "tradingCode": "RENWICKJA",
-    "LTP": 746,
-    "HIGH": 760,
-    "LOW": 745,
-    "CLOSEP": 746,
-    "YCP": 750.3,
-    "CHANGE": -4.3,
-    "TRADE": 211,
-    "VALUE (mn)": 1.65,
-    "VOLUME": 2207
+    "LTP": 741,
+    "HIGH": 755,
+    "LOW": 741,
+    "CLOSEP": 743.5,
+    "YCP": 746,
+    "CHANGE": -5,
+    "TRADE": 9,
+    "VALUE (mn)": 0.141,
+    "VOLUME": 189
   },
   "marketInformation": {
-    "lastTradingPrice": 746,
+    "lastTradingPrice": 741,
     "daysRange": [
-      745,
-      760
+      741,
+      755
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       422.5,
       1075
     ],
-    "change": -4.3,
-    "daysTradeNos": 211,
-    "yesterdaysClose": 750.3,
-    "daysVolumeNos": 2207,
-    "adjustedOpeningPrice": 750.3,
-    "daysValueMn": 1.65,
-    "openingPrice": 747.4,
-    "marketCapMn": 1500.6,
-    "closingPrice": 746,
-    "freeFloatMarketCapMn": 323.85
+    "change": -5,
+    "daysTradeNos": 9,
+    "yesterdaysClose": 746,
+    "daysVolumeNos": 189,
+    "adjustedOpeningPrice": 746,
+    "daysValueMn": 0.14,
+    "openingPrice": 754,
+    "marketCapMn": 1492,
+    "closingPrice": 743.5,
+    "freeFloatMarketCapMn": 321.994
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 97.95
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 95.03
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 94.71
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01747 224 411",
     "telephoneNo": "9515667"
   },
-  "scrapedAt": "2026-09-12T19:44:41.113Z",
+  "scrapedAt": "2026-09-13T15:43:45.390Z",
   "shariaCompliant": false
 }

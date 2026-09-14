@@ -9,37 +9,37 @@
     "#": 193,
     "TRADING CODE": "JUTESPINN",
     "tradingCode": "JUTESPINN",
-    "LTP": 209,
-    "HIGH": 212.1,
-    "LOW": 206,
-    "CLOSEP": 209,
-    "YCP": 208.3,
-    "CHANGE": 0.7,
-    "TRADE": 22,
-    "VALUE (mn)": 0.148,
-    "VOLUME": 706
+    "LTP": 207.5,
+    "HIGH": 209,
+    "LOW": 204.4,
+    "CLOSEP": 205.1,
+    "YCP": 209,
+    "CHANGE": -1.5,
+    "TRADE": 34,
+    "VALUE (mn)": 0.336,
+    "VOLUME": 1634
   },
   "marketInformation": {
-    "lastTradingPrice": 209,
+    "lastTradingPrice": 207.5,
     "daysRange": [
-      206,
-      212.1
+      204.4,
+      209
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       171,
       260
     ],
-    "change": 0.7,
-    "daysTradeNos": 22,
-    "yesterdaysClose": 208.3,
-    "daysVolumeNos": 706,
-    "adjustedOpeningPrice": 208.3,
-    "daysValueMn": 0.15,
-    "openingPrice": 212.1,
-    "marketCapMn": 354.11,
-    "closingPrice": 209,
-    "freeFloatMarketCapMn": 213.101
+    "change": -1.5,
+    "daysTradeNos": 34,
+    "yesterdaysClose": 209,
+    "daysVolumeNos": 1634,
+    "adjustedOpeningPrice": 209,
+    "daysValueMn": 0.34,
+    "openingPrice": 209,
+    "marketCapMn": 355.3,
+    "closingPrice": 205.1,
+    "freeFloatMarketCapMn": 213.817
   },
   "basicInformation": {
     "authorizedCapitalMn": 35,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01713 431 772",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:55.635Z",
+  "scrapedAt": "2026-09-13T15:43:00.360Z",
   "shariaCompliant": false
 }

@@ -9,21 +9,21 @@
     "#": 27,
     "TRADING CODE": "AMCL(PRAN)",
     "tradingCode": "AMCL(PRAN)",
-    "LTP": 214.6,
-    "HIGH": 218.8,
-    "LOW": 212,
-    "CLOSEP": 212.8,
-    "YCP": 216.4,
+    "LTP": 211,
+    "HIGH": 215.9,
+    "LOW": 210.1,
+    "CLOSEP": 211,
+    "YCP": 212.8,
     "CHANGE": -1.8,
-    "TRADE": 122,
-    "VALUE (mn)": 0.997,
-    "VOLUME": 4638
+    "TRADE": 51,
+    "VALUE (mn)": 0.205,
+    "VOLUME": 970
   },
   "marketInformation": {
-    "lastTradingPrice": 214.6,
+    "lastTradingPrice": 211,
     "daysRange": [
-      212,
-      218.8
+      210.1,
+      215.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       249.8
     ],
     "change": -1.8,
-    "daysTradeNos": 122,
-    "yesterdaysClose": 216.4,
-    "daysVolumeNos": 4638,
-    "adjustedOpeningPrice": 216.4,
-    "daysValueMn": 1,
-    "openingPrice": 216.8,
-    "marketCapMn": 1731.2,
-    "closingPrice": 212.8,
-    "freeFloatMarketCapMn": 1036.095
+    "daysTradeNos": 51,
+    "yesterdaysClose": 212.8,
+    "daysVolumeNos": 970,
+    "adjustedOpeningPrice": 212.8,
+    "daysValueMn": 0.21,
+    "openingPrice": 214.5,
+    "marketCapMn": 1702.4,
+    "closingPrice": 211,
+    "freeFloatMarketCapMn": 1018.859
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 35.14,
-        "peDiluted": null,
-        "peTrailing": 46.08
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 34.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 33.67,
         "peDiluted": null,
         "peTrailing": 44.15
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 33.39,
+        "peDiluted": null,
+        "peTrailing": 43.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 44.33,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 43.63,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 42.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 42.12,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01769696203",
     "telephoneNo": "02222281792; Ext.: 230"
   },
-  "scrapedAt": "2026-09-12T19:42:55.532Z",
+  "scrapedAt": "2026-09-13T15:41:58.187Z",
   "shariaCompliant": false
 }

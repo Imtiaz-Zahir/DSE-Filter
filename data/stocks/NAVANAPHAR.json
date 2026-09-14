@@ -9,37 +9,37 @@
     "#": 242,
     "TRADING CODE": "NAVANAPHAR",
     "tradingCode": "NAVANAPHAR",
-    "LTP": 63.7,
-    "HIGH": 67.2,
-    "LOW": 62.8,
-    "CLOSEP": 63.7,
-    "YCP": 66.5,
-    "CHANGE": -2.8,
-    "TRADE": 791,
-    "VALUE (mn)": 27.675,
-    "VOLUME": 428570
+    "LTP": 61.8,
+    "HIGH": 63.8,
+    "LOW": 61.5,
+    "CLOSEP": 61.8,
+    "YCP": 63.7,
+    "CHANGE": -1.9,
+    "TRADE": 745,
+    "VALUE (mn)": 15.518,
+    "VOLUME": 250656
   },
   "marketInformation": {
-    "lastTradingPrice": 63.7,
+    "lastTradingPrice": 61.8,
     "daysRange": [
-      62.8,
-      67.2
+      61.5,
+      63.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       45.5,
       78
     ],
-    "change": -2.8,
-    "daysTradeNos": 791,
-    "yesterdaysClose": 66.5,
-    "daysVolumeNos": 428570,
-    "adjustedOpeningPrice": 66.5,
-    "daysValueMn": 27.68,
-    "openingPrice": 66.3,
-    "marketCapMn": 7143.178,
-    "closingPrice": 63.7,
-    "freeFloatMarketCapMn": 2359.505
+    "change": -1.9,
+    "daysTradeNos": 745,
+    "yesterdaysClose": 63.7,
+    "daysVolumeNos": 250656,
+    "adjustedOpeningPrice": 63.7,
+    "daysValueMn": 15.52,
+    "openingPrice": 63.8,
+    "marketCapMn": 6842.413,
+    "closingPrice": 61.8,
+    "freeFloatMarketCapMn": 2260.157
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.05,
-        "peDiluted": null,
-        "peTrailing": 11.99
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 10.8,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 10.41,
         "peDiluted": null,
         "peTrailing": 11.29
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 10.1,
+        "peDiluted": null,
+        "peTrailing": 10.96
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 14.89,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 14.56,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.03,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.61,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01321 131222",
     "telephoneNo": "02-55033580-3"
   },
-  "scrapedAt": "2026-09-12T19:44:14.645Z",
+  "scrapedAt": "2026-09-13T15:43:19.394Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 320,
     "TRADING CODE": "SAIHAMTEX",
     "tradingCode": "SAIHAMTEX",
-    "LTP": 32.3,
-    "HIGH": 33.1,
-    "LOW": 31.6,
-    "CLOSEP": 32.3,
-    "YCP": 31.5,
-    "CHANGE": 0.8,
-    "TRADE": 2370,
-    "VALUE (mn)": 137.108,
-    "VOLUME": 4245999
+    "LTP": 34,
+    "HIGH": 34.4,
+    "LOW": 31.5,
+    "CLOSEP": 34,
+    "YCP": 32.3,
+    "CHANGE": 1.7,
+    "TRADE": 2283,
+    "VALUE (mn)": 157.844,
+    "VOLUME": 4831608
   },
   "marketInformation": {
-    "lastTradingPrice": 32.3,
+    "lastTradingPrice": 34,
     "daysRange": [
-      31.6,
-      33.1
+      31.5,
+      34.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.7,
       38.3
     ],
-    "change": 0.8,
-    "daysTradeNos": 2370,
-    "yesterdaysClose": 31.5,
-    "daysVolumeNos": 4245999,
-    "adjustedOpeningPrice": 31.5,
-    "daysValueMn": 137.11,
-    "openingPrice": 31.7,
-    "marketCapMn": 2852.719,
-    "closingPrice": 32.3,
-    "freeFloatMarketCapMn": 1877.172
+    "change": 1.7,
+    "daysTradeNos": 2283,
+    "yesterdaysClose": 32.3,
+    "daysVolumeNos": 4831608,
+    "adjustedOpeningPrice": 32.3,
+    "daysValueMn": 157.84,
+    "openingPrice": 32,
+    "marketCapMn": 2925.169,
+    "closingPrice": 34,
+    "freeFloatMarketCapMn": 1924.846
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 50.59,
-        "peDiluted": null,
-        "peTrailing": 54.6
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 45.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 47.5,
         "peDiluted": null,
         "peTrailing": 51.27
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 50,
+        "peDiluted": null,
+        "peTrailing": 53.97
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 58.31,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 52.54,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 54.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 57.63,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01916 754 255",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-12T19:44:44.084Z",
+  "scrapedAt": "2026-09-13T15:43:49.977Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 142,
     "TRADING CODE": "GENEXIL",
     "tradingCode": "GENEXIL",
-    "LTP": 35.7,
-    "HIGH": 36.7,
-    "LOW": 35.6,
-    "CLOSEP": 35.7,
-    "YCP": 35.9,
-    "CHANGE": -0.2,
-    "TRADE": 613,
-    "VALUE (mn)": 19.263,
-    "VOLUME": 534676
+    "LTP": 34.5,
+    "HIGH": 36.1,
+    "LOW": 34.1,
+    "CLOSEP": 34.5,
+    "YCP": 35.7,
+    "CHANGE": -1.2,
+    "TRADE": 724,
+    "VALUE (mn)": 19.106,
+    "VOLUME": 544622
   },
   "marketInformation": {
-    "lastTradingPrice": 35.7,
+    "lastTradingPrice": 34.5,
     "daysRange": [
-      35.6,
-      36.7
+      34.1,
+      36.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21,
       44.2
     ],
-    "change": -0.2,
-    "daysTradeNos": 613,
-    "yesterdaysClose": 35.9,
-    "daysVolumeNos": 534676,
-    "adjustedOpeningPrice": 35.9,
-    "daysValueMn": 19.26,
-    "openingPrice": 36.1,
-    "marketCapMn": 4324.156,
-    "closingPrice": 35.7,
-    "freeFloatMarketCapMn": 3197.049
+    "change": -1.2,
+    "daysTradeNos": 724,
+    "yesterdaysClose": 35.7,
+    "daysVolumeNos": 544622,
+    "adjustedOpeningPrice": 35.7,
+    "daysValueMn": 19.11,
+    "openingPrice": 35.5,
+    "marketCapMn": 4300.066,
+    "closingPrice": 34.5,
+    "freeFloatMarketCapMn": 3179.238
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 12.88,
-        "peDiluted": null,
-        "peTrailing": 16.62
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.38,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.63,
         "peDiluted": null,
         "peTrailing": 16.3
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.21,
+        "peDiluted": null,
+        "peTrailing": 15.75
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 16.77,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 16.13,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 16.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.9,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+8801847100128",
     "telephoneNo": "+8809612111000"
   },
-  "scrapedAt": "2026-09-12T19:43:37.620Z",
+  "scrapedAt": "2026-09-13T15:42:36.604Z",
   "shariaCompliant": false
 }

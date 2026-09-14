@@ -9,36 +9,36 @@
     "#": 14,
     "TRADING CODE": "ADVENT",
     "tradingCode": "ADVENT",
-    "LTP": 13.8,
-    "HIGH": 14.2,
-    "LOW": 13.7,
-    "CLOSEP": 13.8,
+    "LTP": 13.3,
+    "HIGH": 14.5,
+    "LOW": 13.3,
+    "CLOSEP": 13.3,
     "YCP": 13.8,
-    "CHANGE": 0,
-    "TRADE": 80,
-    "VALUE (mn)": 0.941,
-    "VOLUME": 67928
+    "CHANGE": -0.5,
+    "TRADE": 115,
+    "VALUE (mn)": 1.791,
+    "VOLUME": 133313
   },
   "marketInformation": {
-    "lastTradingPrice": 13.8,
+    "lastTradingPrice": 13.3,
     "daysRange": [
-      13.7,
-      14.2
+      13.3,
+      14.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       17.1
     ],
-    "change": 0,
-    "daysTradeNos": 80,
+    "change": -0.5,
+    "daysTradeNos": 115,
     "yesterdaysClose": 13.8,
-    "daysVolumeNos": 67928,
+    "daysVolumeNos": 133313,
     "adjustedOpeningPrice": 13.8,
-    "daysValueMn": 0.94,
-    "openingPrice": 13.9,
+    "daysValueMn": 1.79,
+    "openingPrice": 14,
     "marketCapMn": 1285.232,
-    "closingPrice": 13.8,
+    "closingPrice": 13.3,
     "freeFloatMarketCapMn": 885.88
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.27,
-        "peDiluted": null,
-        "peTrailing": 27.31
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.36,
         "peDiluted": null,
@@ -185,15 +179,16 @@
         "peBasic": 31.36,
         "peDiluted": null,
         "peTrailing": 26.54
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 30.23,
+        "peDiluted": null,
+        "peTrailing": 25.58
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.72,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.17,
         "peDiluted": null
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 19.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713254482",
     "telephoneNo": "02-48311655, 02-48322638"
   },
-  "scrapedAt": "2026-09-12T19:42:50.157Z",
+  "scrapedAt": "2026-09-13T15:41:22.251Z",
   "shariaCompliant": true
 }

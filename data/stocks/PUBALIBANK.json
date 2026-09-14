@@ -9,36 +9,36 @@
     "#": 294,
     "TRADING CODE": "PUBALIBANK",
     "tradingCode": "PUBALIBANK",
-    "LTP": 37.7,
-    "HIGH": 38.7,
-    "LOW": 37.6,
-    "CLOSEP": 37.7,
+    "LTP": 37.5,
+    "HIGH": 38,
+    "LOW": 37.3,
+    "CLOSEP": 37.5,
     "YCP": 37.7,
-    "CHANGE": 0,
-    "TRADE": 369,
-    "VALUE (mn)": 20.044,
-    "VOLUME": 529548
+    "CHANGE": -0.2,
+    "TRADE": 339,
+    "VALUE (mn)": 13.813,
+    "VOLUME": 367304
   },
   "marketInformation": {
-    "lastTradingPrice": 37.7,
+    "lastTradingPrice": 37.5,
     "daysRange": [
-      37.6,
-      38.7
+      37.3,
+      38
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.5,
       44
     ],
-    "change": 0,
-    "daysTradeNos": 369,
+    "change": -0.2,
+    "daysTradeNos": 339,
     "yesterdaysClose": 37.7,
-    "daysVolumeNos": 529548,
+    "daysVolumeNos": 367304,
     "adjustedOpeningPrice": 37.7,
-    "daysValueMn": 20.04,
-    "openingPrice": 37.7,
+    "daysValueMn": 13.81,
+    "openingPrice": 37.9,
     "marketCapMn": 58876.913,
-    "closingPrice": 37.7,
+    "closingPrice": 37.5,
     "freeFloatMarketCapMn": 37151.779
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.34,
-        "peDiluted": null,
-        "peTrailing": 4.57
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.37,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.29,
         "peDiluted": null,
         "peTrailing": 4.53
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.27,
+        "peDiluted": null,
+        "peTrailing": 4.5
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.55,
-        "peDiluted": 5.46
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.58,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 4.5,
         "peDiluted": 5.4
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.47,
+        "peDiluted": 5.37
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 367 599",
     "telephoneNo": "Tel:02-223384012, PABX:+8802223381614 Ext-311,343 IP phone: +8809666821611"
   },
-  "scrapedAt": "2026-09-12T19:44:35.652Z",
+  "scrapedAt": "2026-09-13T15:43:38.807Z",
   "shariaCompliant": false
 }

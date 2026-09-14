@@ -9,37 +9,37 @@
     "#": 268,
     "TRADING CODE": "PENINSULA",
     "tradingCode": "PENINSULA",
-    "LTP": 21.1,
-    "HIGH": 21.7,
-    "LOW": 20.9,
-    "CLOSEP": 21.1,
-    "YCP": 21.4,
-    "CHANGE": -0.3,
-    "TRADE": 179,
-    "VALUE (mn)": 2.854,
-    "VOLUME": 134792
+    "LTP": 20.1,
+    "HIGH": 21.1,
+    "LOW": 19.9,
+    "CLOSEP": 20.1,
+    "YCP": 21.1,
+    "CHANGE": -1,
+    "TRADE": 313,
+    "VALUE (mn)": 4.171,
+    "VOLUME": 204430
   },
   "marketInformation": {
-    "lastTradingPrice": 21.1,
+    "lastTradingPrice": 20.1,
     "daysRange": [
-      20.9,
-      21.7
+      19.9,
+      21.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       26
     ],
-    "change": -0.3,
-    "daysTradeNos": 179,
-    "yesterdaysClose": 21.4,
-    "daysVolumeNos": 134792,
-    "adjustedOpeningPrice": 21.4,
-    "daysValueMn": 2.85,
-    "openingPrice": 21.4,
-    "marketCapMn": 2539.47,
-    "closingPrice": 21.1,
-    "freeFloatMarketCapMn": 1095.629
+    "change": -1,
+    "daysTradeNos": 313,
+    "yesterdaysClose": 21.1,
+    "daysVolumeNos": 204430,
+    "adjustedOpeningPrice": 21.1,
+    "daysValueMn": 4.17,
+    "openingPrice": 20.8,
+    "marketCapMn": 2503.869,
+    "closingPrice": 20.1,
+    "freeFloatMarketCapMn": 1080.27
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 59.46
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 57.03
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 54.32
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 366.67,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 350,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 351.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 335,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01913632565",
     "telephoneNo": "+88-02333350860-9 (Ext.-4105)"
   },
-  "scrapedAt": "2026-09-12T19:44:22.907Z",
+  "scrapedAt": "2026-09-13T15:43:28.562Z",
   "shariaCompliant": false
 }

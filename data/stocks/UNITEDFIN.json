@@ -9,37 +9,37 @@
     "#": 380,
     "TRADING CODE": "UNITEDFIN",
     "tradingCode": "UNITEDFIN",
-    "LTP": 16.9,
-    "HIGH": 17.3,
-    "LOW": 16.7,
-    "CLOSEP": 16.8,
-    "YCP": 17,
-    "CHANGE": -0.1,
-    "TRADE": 285,
-    "VALUE (mn)": 8.356,
-    "VOLUME": 492017
+    "LTP": 16.3,
+    "HIGH": 16.9,
+    "LOW": 16.1,
+    "CLOSEP": 16.3,
+    "YCP": 16.8,
+    "CHANGE": -0.5,
+    "TRADE": 436,
+    "VALUE (mn)": 9.284,
+    "VOLUME": 564403
   },
   "marketInformation": {
-    "lastTradingPrice": 16.9,
+    "lastTradingPrice": 16.3,
     "daysRange": [
-      16.7,
-      17.3
+      16.1,
+      16.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.4,
       19.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 285,
-    "yesterdaysClose": 17,
-    "daysVolumeNos": 492017,
-    "adjustedOpeningPrice": 17,
-    "daysValueMn": 8.36,
-    "openingPrice": 17.2,
-    "marketCapMn": 3180.948,
-    "closingPrice": 16.8,
-    "freeFloatMarketCapMn": 1904.475
+    "change": -0.5,
+    "daysTradeNos": 436,
+    "yesterdaysClose": 16.8,
+    "daysVolumeNos": 564403,
+    "adjustedOpeningPrice": 16.8,
+    "daysValueMn": 9.28,
+    "openingPrice": 16.8,
+    "marketCapMn": 3143.526,
+    "closingPrice": 16.3,
+    "freeFloatMarketCapMn": 1882.069
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.78,
-        "peDiluted": null,
-        "peTrailing": 15.26
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.3,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 31.11,
         "peDiluted": null,
         "peTrailing": 14.48
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 30.19,
+        "peDiluted": null,
+        "peTrailing": 14.05
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 16.7,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 15.94,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 15.85,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01714070380",
     "telephoneNo": "+88-2-41062001-04"
   },
-  "scrapedAt": "2026-09-12T19:45:02.964Z",
+  "scrapedAt": "2026-09-13T15:44:17.039Z",
   "shariaCompliant": false
 }

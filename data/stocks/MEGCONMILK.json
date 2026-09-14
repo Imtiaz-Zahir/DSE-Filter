@@ -9,37 +9,37 @@
     "#": 217,
     "TRADING CODE": "MEGCONMILK",
     "tradingCode": "MEGCONMILK",
-    "LTP": 33.9,
-    "HIGH": 35,
-    "LOW": 33.5,
-    "CLOSEP": 33.6,
-    "YCP": 34.5,
-    "CHANGE": -0.6,
-    "TRADE": 165,
-    "VALUE (mn)": 2.373,
-    "VOLUME": 70298
+    "LTP": 31.9,
+    "HIGH": 33.9,
+    "LOW": 30.9,
+    "CLOSEP": 31.9,
+    "YCP": 33.6,
+    "CHANGE": -1.7,
+    "TRADE": 247,
+    "VALUE (mn)": 1.588,
+    "VOLUME": 48900
   },
   "marketInformation": {
-    "lastTradingPrice": 33.9,
+    "lastTradingPrice": 31.9,
     "daysRange": [
-      33.5,
-      35
+      30.9,
+      33.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       51
     ],
-    "change": -0.6,
-    "daysTradeNos": 165,
-    "yesterdaysClose": 34.5,
-    "daysVolumeNos": 70298,
-    "adjustedOpeningPrice": 34.5,
-    "daysValueMn": 2.37,
-    "openingPrice": 34.3,
-    "marketCapMn": 552,
-    "closingPrice": 33.6,
-    "freeFloatMarketCapMn": 345.499
+    "change": -1.7,
+    "daysTradeNos": 247,
+    "yesterdaysClose": 33.6,
+    "daysVolumeNos": 48900,
+    "adjustedOpeningPrice": 33.6,
+    "daysValueMn": 1.59,
+    "openingPrice": 33.9,
+    "marketCapMn": 537.6,
+    "closingPrice": 31.9,
+    "freeFloatMarketCapMn": 336.486
   },
   "basicInformation": {
     "authorizedCapitalMn": 800,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:04.710Z",
+  "scrapedAt": "2026-09-13T15:43:08.966Z",
   "shariaCompliant": false
 }

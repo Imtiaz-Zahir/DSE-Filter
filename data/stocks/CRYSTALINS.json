@@ -9,37 +9,37 @@
     "#": 90,
     "TRADING CODE": "CRYSTALINS",
     "tradingCode": "CRYSTALINS",
-    "LTP": 61.5,
-    "HIGH": 63.1,
-    "LOW": 60.5,
-    "CLOSEP": 61.5,
-    "YCP": 61.6,
-    "CHANGE": -0.1,
-    "TRADE": 337,
-    "VALUE (mn)": 6.502,
-    "VOLUME": 105119
+    "LTP": 58.6,
+    "HIGH": 61.8,
+    "LOW": 58.3,
+    "CLOSEP": 58.6,
+    "YCP": 61.5,
+    "CHANGE": -2.9,
+    "TRADE": 275,
+    "VALUE (mn)": 2.701,
+    "VOLUME": 45090
   },
   "marketInformation": {
-    "lastTradingPrice": 61.5,
+    "lastTradingPrice": 58.6,
     "daysRange": [
-      60.5,
-      63.1
+      58.3,
+      61.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.9,
       92.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 337,
-    "yesterdaysClose": 61.6,
-    "daysVolumeNos": 105119,
-    "adjustedOpeningPrice": 61.6,
-    "daysValueMn": 6.5,
-    "openingPrice": 62.4,
-    "marketCapMn": 2710.4,
-    "closingPrice": 61.5,
-    "freeFloatMarketCapMn": 1138.368
+    "change": -2.9,
+    "daysTradeNos": 275,
+    "yesterdaysClose": 61.5,
+    "daysVolumeNos": 45090,
+    "adjustedOpeningPrice": 61.5,
+    "daysValueMn": 2.7,
+    "openingPrice": 61.8,
+    "marketCapMn": 2706,
+    "closingPrice": 58.6,
+    "freeFloatMarketCapMn": 1136.52
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 16.78,
-        "peDiluted": null,
-        "peTrailing": 18.6
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 15.7,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 15.85,
         "peDiluted": null,
         "peTrailing": 17.57
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.1,
+        "peDiluted": null,
+        "peTrailing": 16.74
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 19.49,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 18.23,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 18.41,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.54,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01717-644446",
     "telephoneNo": "02-55112750 Ext- 120"
   },
-  "scrapedAt": "2026-09-12T19:43:21.334Z",
+  "scrapedAt": "2026-09-13T15:42:21.223Z",
   "shariaCompliant": false
 }

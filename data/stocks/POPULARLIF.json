@@ -9,37 +9,37 @@
     "#": 278,
     "TRADING CODE": "POPULARLIF",
     "tradingCode": "POPULARLIF",
-    "LTP": 57.1,
-    "HIGH": 59.9,
-    "LOW": 56.7,
-    "CLOSEP": 57.1,
-    "YCP": 58.1,
-    "CHANGE": -1,
-    "TRADE": 295,
-    "VALUE (mn)": 3.794,
-    "VOLUME": 65948
+    "LTP": 54.9,
+    "HIGH": 56.9,
+    "LOW": 54.2,
+    "CLOSEP": 54.9,
+    "YCP": 57.1,
+    "CHANGE": -2.2,
+    "TRADE": 173,
+    "VALUE (mn)": 2.713,
+    "VOLUME": 48528
   },
   "marketInformation": {
-    "lastTradingPrice": 57.1,
+    "lastTradingPrice": 54.9,
     "daysRange": [
-      56.7,
-      59.9
+      54.2,
+      56.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.5,
       67.1
     ],
-    "change": -1,
-    "daysTradeNos": 295,
-    "yesterdaysClose": 58.1,
-    "daysVolumeNos": 65948,
-    "adjustedOpeningPrice": 58.1,
-    "daysValueMn": 3.79,
-    "openingPrice": 59.9,
-    "marketCapMn": 3510.888,
-    "closingPrice": 57.1,
-    "freeFloatMarketCapMn": 2477.673
+    "change": -2.2,
+    "daysTradeNos": 173,
+    "yesterdaysClose": 57.1,
+    "daysVolumeNos": 48528,
+    "adjustedOpeningPrice": 57.1,
+    "daysValueMn": 2.71,
+    "openingPrice": 56.9,
+    "marketCapMn": 3450.459,
+    "closingPrice": 54.9,
+    "freeFloatMarketCapMn": 2435.028
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -130,14 +124,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.23,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.52,
@@ -161,6 +156,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.7,
         "peDiluted": null
       }
     ]
@@ -316,6 +316,6 @@
     "cellNo": "+88 01713 372 372",
     "telephoneNo": "88-02-9577534-38 Ext. : 132"
   },
-  "scrapedAt": "2026-09-12T19:44:26.818Z",
+  "scrapedAt": "2026-09-13T15:43:33.104Z",
   "shariaCompliant": false
 }

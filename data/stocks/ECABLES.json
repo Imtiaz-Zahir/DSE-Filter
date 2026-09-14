@@ -9,37 +9,37 @@
     "#": 115,
     "TRADING CODE": "ECABLES",
     "tradingCode": "ECABLES",
-    "LTP": 128.9,
-    "HIGH": 132.5,
-    "LOW": 128.1,
-    "CLOSEP": 128.9,
-    "YCP": 129.7,
-    "CHANGE": -0.8,
-    "TRADE": 33,
-    "VALUE (mn)": 0.352,
-    "VOLUME": 2721
+    "LTP": 124.4,
+    "HIGH": 132,
+    "LOW": 123.9,
+    "CLOSEP": 124.4,
+    "YCP": 128.9,
+    "CHANGE": -4.5,
+    "TRADE": 88,
+    "VALUE (mn)": 1.031,
+    "VOLUME": 8210
   },
   "marketInformation": {
-    "lastTradingPrice": 128.9,
+    "lastTradingPrice": 124.4,
     "daysRange": [
-      128.1,
-      132.5
+      123.9,
+      132
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       99,
       157.7
     ],
-    "change": -0.8,
-    "daysTradeNos": 33,
-    "yesterdaysClose": 129.7,
-    "daysVolumeNos": 2721,
-    "adjustedOpeningPrice": 129.7,
-    "daysValueMn": 0.35,
-    "openingPrice": 131.9,
-    "marketCapMn": 3424.08,
-    "closingPrice": 128.9,
-    "freeFloatMarketCapMn": 825.582
+    "change": -4.5,
+    "daysTradeNos": 88,
+    "yesterdaysClose": 128.9,
+    "daysVolumeNos": 8210,
+    "adjustedOpeningPrice": 128.9,
+    "daysValueMn": 1.03,
+    "openingPrice": 132,
+    "marketCapMn": 3402.96,
+    "closingPrice": 124.4,
+    "freeFloatMarketCapMn": 820.49
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01857 981158",
     "telephoneNo": "023-33301297"
   },
-  "scrapedAt": "2026-09-12T19:43:27.989Z",
+  "scrapedAt": "2026-09-13T15:42:28.788Z",
   "shariaCompliant": true
 }

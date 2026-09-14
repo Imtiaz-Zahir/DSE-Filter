@@ -9,37 +9,37 @@
     "#": 361,
     "TRADING CODE": "STYLECRAFT",
     "tradingCode": "STYLECRAFT",
-    "LTP": 53.2,
-    "HIGH": 53.9,
-    "LOW": 51.7,
-    "CLOSEP": 53.2,
-    "YCP": 53.1,
-    "CHANGE": 0.1,
-    "TRADE": 24,
-    "VALUE (mn)": 0.019,
-    "VOLUME": 359
+    "LTP": 52,
+    "HIGH": 53.2,
+    "LOW": 49.7,
+    "CLOSEP": 50.4,
+    "YCP": 53.2,
+    "CHANGE": -1.2,
+    "TRADE": 36,
+    "VALUE (mn)": 0.185,
+    "VOLUME": 3705
   },
   "marketInformation": {
-    "lastTradingPrice": 53.2,
+    "lastTradingPrice": 52,
     "daysRange": [
-      51.7,
-      53.9
+      49.7,
+      53.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.3,
       82.4
     ],
-    "change": 0.1,
-    "daysTradeNos": 24,
-    "yesterdaysClose": 53.1,
-    "daysVolumeNos": 359,
-    "adjustedOpeningPrice": 53.1,
-    "daysValueMn": 0.02,
-    "openingPrice": 53.9,
-    "marketCapMn": 737.28,
-    "closingPrice": 53.2,
-    "freeFloatMarketCapMn": 501.144
+    "change": -1.2,
+    "daysTradeNos": 36,
+    "yesterdaysClose": 53.2,
+    "daysVolumeNos": 3705,
+    "adjustedOpeningPrice": 53.2,
+    "daysValueMn": 0.19,
+    "openingPrice": 52,
+    "marketCapMn": 738.669,
+    "closingPrice": 50.4,
+    "freeFloatMarketCapMn": 502.088
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "01711527578",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:58.723Z",
+  "scrapedAt": "2026-09-13T15:44:09.183Z",
   "shariaCompliant": false
 }

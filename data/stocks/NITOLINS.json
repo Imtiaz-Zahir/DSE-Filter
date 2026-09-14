@@ -9,20 +9,20 @@
     "#": 249,
     "TRADING CODE": "NITOLINS",
     "tradingCode": "NITOLINS",
-    "LTP": 56.8,
+    "LTP": 56.2,
     "HIGH": 57,
-    "LOW": 54.6,
-    "CLOSEP": 56.8,
-    "YCP": 55,
-    "CHANGE": 1.8,
-    "TRADE": 2175,
-    "VALUE (mn)": 111.96,
-    "VOLUME": 1997638
+    "LOW": 55.2,
+    "CLOSEP": 56.2,
+    "YCP": 56.8,
+    "CHANGE": -0.6,
+    "TRADE": 1310,
+    "VALUE (mn)": 55.792,
+    "VOLUME": 997273
   },
   "marketInformation": {
-    "lastTradingPrice": 56.8,
+    "lastTradingPrice": 56.2,
     "daysRange": [
-      54.6,
+      55.2,
       57
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       22.8,
       57
     ],
-    "change": 1.8,
-    "daysTradeNos": 2175,
-    "yesterdaysClose": 55,
-    "daysVolumeNos": 1997638,
-    "adjustedOpeningPrice": 55,
-    "daysValueMn": 111.96,
-    "openingPrice": 54.6,
-    "marketCapMn": 2321.991,
-    "closingPrice": 56.8,
-    "freeFloatMarketCapMn": 1177.334
+    "change": -0.6,
+    "daysTradeNos": 1310,
+    "yesterdaysClose": 56.8,
+    "daysVolumeNos": 997273,
+    "adjustedOpeningPrice": 56.8,
+    "daysValueMn": 55.79,
+    "openingPrice": 56.2,
+    "marketCapMn": 2397.984,
+    "closingPrice": 56.2,
+    "freeFloatMarketCapMn": 1215.865
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 33.29,
-        "peDiluted": null,
-        "peTrailing": 26.17
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 33.29,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 35.95,
         "peDiluted": null,
         "peTrailing": 28.26
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.57,
+        "peDiluted": null,
+        "peTrailing": 27.96
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 27.25,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.25,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 29.43,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 29.12,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 142 754",
     "telephoneNo": "02-55045202-05, (Ext-107)"
   },
-  "scrapedAt": "2026-09-12T19:44:15.505Z",
+  "scrapedAt": "2026-09-13T15:43:23.323Z",
   "shariaCompliant": false
 }

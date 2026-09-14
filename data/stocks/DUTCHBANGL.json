@@ -9,36 +9,36 @@
     "#": 108,
     "TRADING CODE": "DUTCHBANGL",
     "tradingCode": "DUTCHBANGL",
-    "LTP": 43.4,
-    "HIGH": 44,
-    "LOW": 43.2,
-    "CLOSEP": 43.4,
+    "LTP": 42.9,
+    "HIGH": 43.4,
+    "LOW": 42.8,
+    "CLOSEP": 42.9,
     "YCP": 43.4,
-    "CHANGE": 0,
-    "TRADE": 207,
-    "VALUE (mn)": 3.768,
-    "VOLUME": 86735
+    "CHANGE": -0.5,
+    "TRADE": 338,
+    "VALUE (mn)": 6.734,
+    "VOLUME": 156013
   },
   "marketInformation": {
-    "lastTradingPrice": 43.4,
+    "lastTradingPrice": 42.9,
     "daysRange": [
-      43.2,
-      44
+      42.8,
+      43.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.1,
       51.7
     ],
-    "change": 0,
-    "daysTradeNos": 207,
+    "change": -0.5,
+    "daysTradeNos": 338,
     "yesterdaysClose": 43.4,
-    "daysVolumeNos": 86735,
+    "daysVolumeNos": 156013,
     "adjustedOpeningPrice": 43.4,
-    "daysValueMn": 3.77,
-    "openingPrice": 43.4,
+    "daysValueMn": 6.73,
+    "openingPrice": 43.2,
     "marketCapMn": 44052.571,
-    "closingPrice": 43.4,
+    "closingPrice": 42.9,
     "freeFloatMarketCapMn": 7240.841
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.13,
-        "peDiluted": null,
-        "peTrailing": 3.37
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.08,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.99,
         "peDiluted": null,
         "peTrailing": 3.28
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.93,
+        "peDiluted": null,
+        "peTrailing": 3.24
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.47,
-        "peDiluted": 4.69
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.43,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 4.35,
         "peDiluted": 4.57
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.3,
+        "peDiluted": 4.52
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01847 278 119",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:26.989Z",
+  "scrapedAt": "2026-09-13T15:42:27.916Z",
   "shariaCompliant": false
 }

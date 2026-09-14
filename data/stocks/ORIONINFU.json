@@ -9,37 +9,37 @@
     "#": 262,
     "TRADING CODE": "ORIONINFU",
     "tradingCode": "ORIONINFU",
-    "LTP": 188.6,
-    "HIGH": 198,
-    "LOW": 185.1,
-    "CLOSEP": 188.6,
-    "YCP": 195.4,
-    "CHANGE": -6.8,
-    "TRADE": 1291,
-    "VALUE (mn)": 17.497,
-    "VOLUME": 91585
+    "LTP": 169.9,
+    "HIGH": 192.3,
+    "LOW": 169.8,
+    "CLOSEP": 169.9,
+    "YCP": 188.6,
+    "CHANGE": -18.7,
+    "TRADE": 3740,
+    "VALUE (mn)": 61.583,
+    "VOLUME": 351150
   },
   "marketInformation": {
-    "lastTradingPrice": 188.6,
+    "lastTradingPrice": 169.9,
     "daysRange": [
-      185.1,
-      198
+      169.8,
+      192.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      185.1,
+      169.8,
       544.4
     ],
-    "change": -6.8,
-    "daysTradeNos": 1291,
-    "yesterdaysClose": 195.4,
-    "daysVolumeNos": 91585,
-    "adjustedOpeningPrice": 195.4,
-    "daysValueMn": 17.5,
-    "openingPrice": 198,
-    "marketCapMn": 3978.297,
-    "closingPrice": 188.6,
-    "freeFloatMarketCapMn": 2362.652
+    "change": -18.7,
+    "daysTradeNos": 3740,
+    "yesterdaysClose": 188.6,
+    "daysVolumeNos": 351150,
+    "adjustedOpeningPrice": 188.6,
+    "daysValueMn": 61.58,
+    "openingPrice": 192.3,
+    "marketCapMn": 3839.851,
+    "closingPrice": 169.9,
+    "freeFloatMarketCapMn": 2280.43
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 116.83,
-        "peDiluted": null,
-        "peTrailing": 127.13
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 107.69,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 99.61,
         "peDiluted": null,
         "peTrailing": 108.39
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 89.74,
+        "peDiluted": null,
+        "peTrailing": 97.64
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 128.6,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 118.55,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 109.65,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 98.78,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801730007342",
     "telephoneNo": "+88-02-8870133"
   },
-  "scrapedAt": "2026-09-12T19:44:22.109Z",
+  "scrapedAt": "2026-09-13T15:43:27.747Z",
   "shariaCompliant": false
 }

@@ -11,18 +11,18 @@
     "tradingCode": "IFILISLMF1",
     "LTP": 5.5,
     "HIGH": 5.6,
-    "LOW": 5.4,
+    "LOW": 5.5,
     "CLOSEP": 5.5,
-    "YCP": 5.3,
-    "CHANGE": 0.2,
-    "TRADE": 93,
-    "VALUE (mn)": 2.646,
-    "VOLUME": 484189
+    "YCP": 5.5,
+    "CHANGE": 0,
+    "TRADE": 98,
+    "VALUE (mn)": 1.465,
+    "VOLUME": 266021
   },
   "marketInformation": {
     "lastTradingPrice": 5.5,
     "daysRange": [
-      5.4,
+      5.5,
       5.6
     ],
     "lastUpdate": "2:40 PM",
@@ -30,14 +30,14 @@
       3,
       6.4
     ],
-    "change": 0.2,
-    "daysTradeNos": 93,
-    "yesterdaysClose": 5.3,
-    "daysVolumeNos": 484189,
-    "adjustedOpeningPrice": 5.3,
-    "daysValueMn": 2.65,
-    "openingPrice": 5.4,
-    "marketCapMn": 530,
+    "change": 0,
+    "daysTradeNos": 98,
+    "yesterdaysClose": 5.5,
+    "daysVolumeNos": 266021,
+    "adjustedOpeningPrice": 5.5,
+    "daysValueMn": 1.47,
+    "openingPrice": 5.5,
+    "marketCapMn": 550,
     "closingPrice": 5.5,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.42,
-        "peDiluted": null,
-        "peTrailing": 5.42
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.42,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.73,
         "peDiluted": null,
         "peTrailing": 5.73
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.73,
+        "peDiluted": null,
+        "peTrailing": 5.73
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-12T19:43:52.332Z",
+  "scrapedAt": "2026-09-13T15:42:51.017Z",
   "shariaCompliant": false
 }

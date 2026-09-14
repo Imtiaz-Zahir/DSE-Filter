@@ -9,37 +9,37 @@
     "#": 240,
     "TRADING CODE": "NATLIFEINS",
     "tradingCode": "NATLIFEINS",
-    "LTP": 93.3,
-    "HIGH": 96.4,
-    "LOW": 93.3,
-    "CLOSEP": 93.6,
-    "YCP": 94.3,
-    "CHANGE": -1,
-    "TRADE": 115,
-    "VALUE (mn)": 1.404,
-    "VOLUME": 15004
+    "LTP": 92.7,
+    "HIGH": 93.6,
+    "LOW": 92.1,
+    "CLOSEP": 92.7,
+    "YCP": 93.6,
+    "CHANGE": -0.9,
+    "TRADE": 123,
+    "VALUE (mn)": 1.864,
+    "VOLUME": 20049
   },
   "marketInformation": {
-    "lastTradingPrice": 93.3,
+    "lastTradingPrice": 92.7,
     "daysRange": [
-      93.3,
-      96.4
+      92.1,
+      93.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       83.6,
-      121.4
+      119.8
     ],
-    "change": -1,
-    "daysTradeNos": 115,
-    "yesterdaysClose": 94.3,
-    "daysVolumeNos": 15004,
-    "adjustedOpeningPrice": 94.3,
-    "daysValueMn": 1.4,
-    "openingPrice": 96.4,
-    "marketCapMn": 10233.623,
-    "closingPrice": 93.6,
-    "freeFloatMarketCapMn": 3979.555
+    "change": -0.9,
+    "daysTradeNos": 123,
+    "yesterdaysClose": 93.6,
+    "daysVolumeNos": 20049,
+    "adjustedOpeningPrice": 93.6,
+    "daysValueMn": 1.86,
+    "openingPrice": 93.6,
+    "marketCapMn": 10157.657,
+    "closingPrice": 92.7,
+    "freeFloatMarketCapMn": 3950.014
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 25.22,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 24.37,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 23.94,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.71,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26.65,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.76,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.05,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01819985444",
     "telephoneNo": "+88-02-41010122"
   },
-  "scrapedAt": "2026-09-12T19:44:13.834Z",
+  "scrapedAt": "2026-09-13T15:43:17.367Z",
   "shariaCompliant": false
 }

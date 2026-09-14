@@ -9,37 +9,37 @@
     "#": 316,
     "TRADING CODE": "RUPALILIFE",
     "tradingCode": "RUPALILIFE",
-    "LTP": 79,
-    "HIGH": 81,
-    "LOW": 78.8,
-    "CLOSEP": 79,
-    "YCP": 79.2,
-    "CHANGE": -0.2,
-    "TRADE": 258,
-    "VALUE (mn)": 4.442,
-    "VOLUME": 56073
+    "LTP": 75.3,
+    "HIGH": 78.9,
+    "LOW": 72.9,
+    "CLOSEP": 75.3,
+    "YCP": 79,
+    "CHANGE": -3.7,
+    "TRADE": 505,
+    "VALUE (mn)": 12.099,
+    "VOLUME": 158108
   },
   "marketInformation": {
-    "lastTradingPrice": 79,
+    "lastTradingPrice": 75.3,
     "daysRange": [
-      78.8,
-      81
+      72.9,
+      78.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       65.9,
       132
     ],
-    "change": -0.2,
-    "daysTradeNos": 258,
-    "yesterdaysClose": 79.2,
-    "daysVolumeNos": 56073,
-    "adjustedOpeningPrice": 79.2,
-    "daysValueMn": 4.44,
-    "openingPrice": 81,
-    "marketCapMn": 2377.127,
-    "closingPrice": 79,
-    "freeFloatMarketCapMn": 1404.111
+    "change": -3.7,
+    "daysTradeNos": 505,
+    "yesterdaysClose": 79,
+    "daysVolumeNos": 158108,
+    "adjustedOpeningPrice": 79,
+    "daysValueMn": 12.1,
+    "openingPrice": 78.9,
+    "marketCapMn": 2371.125,
+    "closingPrice": 75.3,
+    "freeFloatMarketCapMn": 1400.565
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,12 +96,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -127,6 +121,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,11 +134,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -160,6 +155,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,6 @@
     "cellNo": "+88 01847 133 722",
     "telephoneNo": "+88-02-8392369, +88-02-8392361-4, Ext.-125"
   },
-  "scrapedAt": "2026-09-12T19:44:44.760Z",
+  "scrapedAt": "2026-09-13T15:43:50.828Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 55,
     "TRADING CODE": "BDLAMPS",
     "tradingCode": "BDLAMPS",
-    "LTP": 224.3,
-    "HIGH": 227.9,
-    "LOW": 222,
-    "CLOSEP": 224.3,
-    "YCP": 221,
-    "CHANGE": 3.3,
-    "TRADE": 421,
-    "VALUE (mn)": 8.412,
-    "VOLUME": 37372
+    "LTP": 218.7,
+    "HIGH": 225.4,
+    "LOW": 218,
+    "CLOSEP": 218.7,
+    "YCP": 224.3,
+    "CHANGE": -5.6,
+    "TRADE": 465,
+    "VALUE (mn)": 11.575,
+    "VOLUME": 52515
   },
   "marketInformation": {
-    "lastTradingPrice": 224.3,
+    "lastTradingPrice": 218.7,
     "daysRange": [
-      222,
-      227.9
+      218,
+      225.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       110.1,
       237
     ],
-    "change": 3.3,
-    "daysTradeNos": 421,
-    "yesterdaysClose": 221,
-    "daysVolumeNos": 37372,
-    "adjustedOpeningPrice": 221,
-    "daysValueMn": 8.41,
-    "openingPrice": 222,
-    "marketCapMn": 2326.661,
-    "closingPrice": 224.3,
-    "freeFloatMarketCapMn": 887.486
+    "change": -5.6,
+    "daysTradeNos": 465,
+    "yesterdaysClose": 224.3,
+    "daysVolumeNos": 52515,
+    "adjustedOpeningPrice": 224.3,
+    "daysValueMn": 11.58,
+    "openingPrice": 222.3,
+    "marketCapMn": 2361.403,
+    "closingPrice": 218.7,
+    "freeFloatMarketCapMn": 900.738
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01723452100",
     "telephoneNo": "+880 2 55052072"
   },
-  "scrapedAt": "2026-09-12T19:43:07.989Z",
+  "scrapedAt": "2026-09-13T15:42:08.050Z",
   "shariaCompliant": false
 }

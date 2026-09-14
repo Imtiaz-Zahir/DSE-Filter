@@ -9,20 +9,20 @@
     "#": 97,
     "TRADING CODE": "DELTASPINN",
     "tradingCode": "DELTASPINN",
-    "LTP": 7.1,
+    "LTP": 6.9,
     "HIGH": 7.3,
-    "LOW": 7,
-    "CLOSEP": 7.1,
+    "LOW": 6.8,
+    "CLOSEP": 6.9,
     "YCP": 7.1,
-    "CHANGE": 0,
-    "TRADE": 50,
-    "VALUE (mn)": 0.477,
-    "VOLUME": 67237
+    "CHANGE": -0.2,
+    "TRADE": 124,
+    "VALUE (mn)": 3.149,
+    "VOLUME": 455871
   },
   "marketInformation": {
-    "lastTradingPrice": 7.1,
+    "lastTradingPrice": 6.9,
     "daysRange": [
-      7,
+      6.8,
       7.3
     ],
     "lastUpdate": "2:40 PM",
@@ -30,15 +30,15 @@
       3.5,
       8.2
     ],
-    "change": 0,
-    "daysTradeNos": 50,
+    "change": -0.2,
+    "daysTradeNos": 124,
     "yesterdaysClose": 7.1,
-    "daysVolumeNos": 67237,
+    "daysVolumeNos": 455871,
     "adjustedOpeningPrice": 7.1,
-    "daysValueMn": 0.48,
-    "openingPrice": 7.1,
+    "daysValueMn": 3.15,
+    "openingPrice": 7,
     "marketCapMn": 1182.022,
-    "closingPrice": 7.1,
+    "closingPrice": 6.9,
     "freeFloatMarketCapMn": 938.543
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 185,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 180,
         "peDiluted": null,
@@ -183,17 +177,18 @@
       {
         "date": "2026-09-10",
         "peBasic": 177.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 172.5,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 25.52,
-        "peDiluted": 28.46
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 24.83,
         "peDiluted": 27.69
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 24.48,
         "peDiluted": 27.31
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.79,
+        "peDiluted": 26.54
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01711-541132",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:23.695Z",
+  "scrapedAt": "2026-09-13T15:42:24.805Z",
   "shariaCompliant": false
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T19:45:08.748Z",
+  "lastUpdated": "2026-09-13T15:44:21.197Z",
   "totalStocks": 395,
   "version": "1.0.0",
   "sectors": [
@@ -30,8 +30,7 @@
   ],
   "instruments": [
     "Equity",
-    "Mutual Funds",
-    "Unknown"
+    "Mutual Funds"
   ],
   "operationalStatuses": [
     "Active",

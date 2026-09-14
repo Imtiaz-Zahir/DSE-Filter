@@ -9,37 +9,37 @@
     "#": 3,
     "TRADING CODE": "AAMRANET",
     "tradingCode": "AAMRANET",
-    "LTP": 18.2,
-    "HIGH": 18.4,
-    "LOW": 18,
-    "CLOSEP": 18.2,
-    "YCP": 17.9,
-    "CHANGE": 0.3,
-    "TRADE": 291,
-    "VALUE (mn)": 3.488,
-    "VOLUME": 191639
+    "LTP": 17.3,
+    "HIGH": 18.3,
+    "LOW": 17.1,
+    "CLOSEP": 17.3,
+    "YCP": 18.2,
+    "CHANGE": -0.9,
+    "TRADE": 251,
+    "VALUE (mn)": 3.068,
+    "VOLUME": 172377
   },
   "marketInformation": {
-    "lastTradingPrice": 18.2,
+    "lastTradingPrice": 17.3,
     "daysRange": [
-      18,
-      18.4
+      17.1,
+      18.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.5,
       23.7
     ],
-    "change": 0.3,
-    "daysTradeNos": 291,
-    "yesterdaysClose": 17.9,
-    "daysVolumeNos": 191639,
-    "adjustedOpeningPrice": 17.9,
-    "daysValueMn": 3.49,
+    "change": -0.9,
+    "daysTradeNos": 251,
+    "yesterdaysClose": 18.2,
+    "daysVolumeNos": 172377,
+    "adjustedOpeningPrice": 18.2,
+    "daysValueMn": 3.07,
     "openingPrice": 18.3,
-    "marketCapMn": 1664.34,
-    "closingPrice": 18.2,
-    "freeFloatMarketCapMn": 1114.44
+    "marketCapMn": 1692.234,
+    "closingPrice": 17.3,
+    "freeFloatMarketCapMn": 1133.118
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 8.05,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 7.2,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 7.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 7.03,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713477405",
     "telephoneNo": "8802-8832446 Ext-140"
   },
-  "scrapedAt": "2026-09-12T19:42:45.899Z",
+  "scrapedAt": "2026-09-13T15:40:49.735Z",
   "shariaCompliant": true
 }

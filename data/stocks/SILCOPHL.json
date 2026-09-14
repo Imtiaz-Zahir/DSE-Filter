@@ -9,37 +9,37 @@
     "#": 340,
     "TRADING CODE": "SILCOPHL",
     "tradingCode": "SILCOPHL",
-    "LTP": 16.8,
-    "HIGH": 17.3,
-    "LOW": 16.7,
-    "CLOSEP": 16.8,
-    "YCP": 17,
-    "CHANGE": -0.2,
-    "TRADE": 180,
-    "VALUE (mn)": 2.51,
-    "VOLUME": 147864
+    "LTP": 16.2,
+    "HIGH": 17,
+    "LOW": 16.1,
+    "CLOSEP": 16.2,
+    "YCP": 16.8,
+    "CHANGE": -0.6,
+    "TRADE": 307,
+    "VALUE (mn)": 5.584,
+    "VOLUME": 340026
   },
   "marketInformation": {
-    "lastTradingPrice": 16.8,
+    "lastTradingPrice": 16.2,
     "daysRange": [
-      16.7,
-      17.3
+      16.1,
+      17
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.1,
       23.3
     ],
-    "change": -0.2,
-    "daysTradeNos": 180,
-    "yesterdaysClose": 17,
-    "daysVolumeNos": 147864,
-    "adjustedOpeningPrice": 17,
-    "daysValueMn": 2.51,
-    "openingPrice": 17.1,
-    "marketCapMn": 1764.719,
-    "closingPrice": 16.8,
-    "freeFloatMarketCapMn": 1142.258
+    "change": -0.6,
+    "daysTradeNos": 307,
+    "yesterdaysClose": 16.8,
+    "daysVolumeNos": 340026,
+    "adjustedOpeningPrice": 16.8,
+    "daysValueMn": 5.58,
+    "openingPrice": 16.7,
+    "marketCapMn": 1743.958,
+    "closingPrice": 16.2,
+    "freeFloatMarketCapMn": 1128.819
   },
   "basicInformation": {
     "authorizedCapitalMn": 1050,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 41.72,
-        "peDiluted": null,
-        "peTrailing": 53.94
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 38.44,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 39.38,
         "peDiluted": null,
         "peTrailing": 50.91
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 37.97,
+        "peDiluted": null,
+        "peTrailing": 49.09
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 43.41,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 40,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 40.98,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 39.51,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "8801716394060",
     "telephoneNo": "+880-02 996638241"
   },
-  "scrapedAt": "2026-09-12T19:44:49.765Z",
+  "scrapedAt": "2026-09-13T15:43:58.202Z",
   "shariaCompliant": true
 }

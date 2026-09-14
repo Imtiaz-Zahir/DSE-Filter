@@ -9,37 +9,37 @@
     "#": 159,
     "TRADING CODE": "HEIDELBCEM",
     "tradingCode": "HEIDELBCEM",
-    "LTP": 206.9,
-    "HIGH": 212,
-    "LOW": 206.6,
-    "CLOSEP": 206.9,
-    "YCP": 209.1,
-    "CHANGE": -2.2,
-    "TRADE": 116,
-    "VALUE (mn)": 0.957,
-    "VOLUME": 4609
+    "LTP": 203,
+    "HIGH": 208,
+    "LOW": 201.5,
+    "CLOSEP": 203,
+    "YCP": 206.9,
+    "CHANGE": -3.9,
+    "TRADE": 277,
+    "VALUE (mn)": 2.254,
+    "VOLUME": 11073
   },
   "marketInformation": {
-    "lastTradingPrice": 206.9,
+    "lastTradingPrice": 203,
     "daysRange": [
-      206.6,
-      212
+      201.5,
+      208
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       197,
       272.7
     ],
-    "change": -2.2,
-    "daysTradeNos": 116,
-    "yesterdaysClose": 209.1,
-    "daysVolumeNos": 4609,
-    "adjustedOpeningPrice": 209.1,
-    "daysValueMn": 0.96,
-    "openingPrice": 211.9,
-    "marketCapMn": 11814.899,
-    "closingPrice": 206.9,
-    "freeFloatMarketCapMn": 4647.492
+    "change": -3.9,
+    "daysTradeNos": 277,
+    "yesterdaysClose": 206.9,
+    "daysVolumeNos": 11073,
+    "adjustedOpeningPrice": 206.9,
+    "daysValueMn": 2.25,
+    "openingPrice": 206.5,
+    "marketCapMn": 11690.591,
+    "closingPrice": 203,
+    "freeFloatMarketCapMn": 4598.595
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 60,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 59.07,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 58.28,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 57.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "'01325099924",
     "telephoneNo": "880-02-58811691, Ext.:305"
   },
-  "scrapedAt": "2026-09-12T19:43:44.325Z",
+  "scrapedAt": "2026-09-13T15:42:41.048Z",
   "shariaCompliant": true
 }

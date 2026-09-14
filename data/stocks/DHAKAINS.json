@@ -9,37 +9,37 @@
     "#": 102,
     "TRADING CODE": "DHAKAINS",
     "tradingCode": "DHAKAINS",
-    "LTP": 44.3,
-    "HIGH": 45.8,
-    "LOW": 43.4,
-    "CLOSEP": 44.3,
-    "YCP": 44.9,
-    "CHANGE": -0.6,
-    "TRADE": 165,
-    "VALUE (mn)": 2.355,
-    "VOLUME": 52349
+    "LTP": 41.8,
+    "HIGH": 43.7,
+    "LOW": 41.3,
+    "CLOSEP": 41.8,
+    "YCP": 44.3,
+    "CHANGE": -2.5,
+    "TRADE": 203,
+    "VALUE (mn)": 2.88,
+    "VOLUME": 67943
   },
   "marketInformation": {
-    "lastTradingPrice": 44.3,
+    "lastTradingPrice": 41.8,
     "daysRange": [
-      43.4,
-      45.8
+      41.3,
+      43.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       30.9,
       53
     ],
-    "change": -0.6,
-    "daysTradeNos": 165,
-    "yesterdaysClose": 44.9,
-    "daysVolumeNos": 52349,
-    "adjustedOpeningPrice": 44.9,
-    "daysValueMn": 2.36,
-    "openingPrice": 45.1,
-    "marketCapMn": 1801.613,
-    "closingPrice": 44.3,
-    "freeFloatMarketCapMn": 814.155
+    "change": -2.5,
+    "daysTradeNos": 203,
+    "yesterdaysClose": 44.3,
+    "daysVolumeNos": 67943,
+    "adjustedOpeningPrice": 44.3,
+    "daysValueMn": 2.88,
+    "openingPrice": 43.3,
+    "marketCapMn": 1777.538,
+    "closingPrice": 41.8,
+    "freeFloatMarketCapMn": 803.275
   },
   "basicInformation": {
     "authorizedCapitalMn": 1200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.42,
-        "peDiluted": null,
-        "peTrailing": 27.57
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.5,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 18.46,
         "peDiluted": null,
         "peTrailing": 26.21
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.42,
+        "peDiluted": null,
+        "peTrailing": 24.73
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 27.09,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.81,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 25.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.3,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 1819 165 454",
     "telephoneNo": "02226665876, 02226665897, 02226665898, 02226666007"
   },
-  "scrapedAt": "2026-09-12T19:43:25.755Z",
+  "scrapedAt": "2026-09-13T15:42:27.123Z",
   "shariaCompliant": false
 }

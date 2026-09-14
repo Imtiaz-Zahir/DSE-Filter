@@ -9,37 +9,37 @@
     "#": 162,
     "TRADING CODE": "HWAWELLTEX",
     "tradingCode": "HWAWELLTEX",
-    "LTP": 48.3,
-    "HIGH": 50,
-    "LOW": 48.1,
-    "CLOSEP": 48.3,
-    "YCP": 49.3,
-    "CHANGE": -1,
-    "TRADE": 1058,
-    "VALUE (mn)": 29.25,
-    "VOLUME": 599645
+    "LTP": 46.6,
+    "HIGH": 48.7,
+    "LOW": 46.3,
+    "CLOSEP": 46.6,
+    "YCP": 48.3,
+    "CHANGE": -1.7,
+    "TRADE": 830,
+    "VALUE (mn)": 21.506,
+    "VOLUME": 455727
   },
   "marketInformation": {
-    "lastTradingPrice": 48.3,
+    "lastTradingPrice": 46.6,
     "daysRange": [
-      48.1,
-      50
+      46.3,
+      48.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.6,
       53.7
     ],
-    "change": -1,
-    "daysTradeNos": 1058,
-    "yesterdaysClose": 49.3,
-    "daysVolumeNos": 599645,
-    "adjustedOpeningPrice": 49.3,
-    "daysValueMn": 29.25,
-    "openingPrice": 49.8,
-    "marketCapMn": 2760.8,
-    "closingPrice": 48.3,
-    "freeFloatMarketCapMn": 1357.5
+    "change": -1.7,
+    "daysTradeNos": 830,
+    "yesterdaysClose": 48.3,
+    "daysVolumeNos": 455727,
+    "adjustedOpeningPrice": 48.3,
+    "daysValueMn": 21.51,
+    "openingPrice": 48.5,
+    "marketCapMn": 2704.8,
+    "closingPrice": 46.6,
+    "freeFloatMarketCapMn": 1329.965
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 12.92,
-        "peDiluted": null,
-        "peTrailing": 14.13
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 13.22,
         "peDiluted": null,
         "peTrailing": 14.46
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.76,
+        "peDiluted": null,
+        "peTrailing": 13.95
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 12.97,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.64,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 13.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.8,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01841 041 441",
     "telephoneNo": "880-2-8412937"
   },
-  "scrapedAt": "2026-09-12T19:43:46.436Z",
+  "scrapedAt": "2026-09-13T15:42:44.517Z",
   "shariaCompliant": true
 }

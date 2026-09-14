@@ -9,21 +9,21 @@
     "#": 314,
     "TRADING CODE": "RUPALIBANK",
     "tradingCode": "RUPALIBANK",
-    "LTP": 17.2,
-    "HIGH": 17.4,
-    "LOW": 16.9,
-    "CLOSEP": 17,
-    "YCP": 17.3,
+    "LTP": 16.9,
+    "HIGH": 17.2,
+    "LOW": 16.8,
+    "CLOSEP": 16.9,
+    "YCP": 17,
     "CHANGE": -0.1,
-    "TRADE": 42,
-    "VALUE (mn)": 0.306,
-    "VOLUME": 17895
+    "TRADE": 50,
+    "VALUE (mn)": 0.745,
+    "VOLUME": 44038
   },
   "marketInformation": {
-    "lastTradingPrice": 17.2,
+    "lastTradingPrice": 16.9,
     "daysRange": [
-      16.9,
-      17.4
+      16.8,
+      17.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       25.9
     ],
     "change": -0.1,
-    "daysTradeNos": 42,
-    "yesterdaysClose": 17.3,
-    "daysVolumeNos": 17895,
-    "adjustedOpeningPrice": 17.3,
-    "daysValueMn": 0.31,
-    "openingPrice": 17.4,
-    "marketCapMn": 16283.838,
-    "closingPrice": 17,
-    "freeFloatMarketCapMn": 828.319
+    "daysTradeNos": 50,
+    "yesterdaysClose": 17,
+    "daysVolumeNos": 44038,
+    "adjustedOpeningPrice": 17,
+    "daysValueMn": 0.75,
+    "openingPrice": 17,
+    "marketCapMn": 16001.459,
+    "closingPrice": 16.9,
+    "freeFloatMarketCapMn": 813.955
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 122.86,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 122.86,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 121.43,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 120.71,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01810 027 615, +88 01754 296 619",
     "telephoneNo": "02 223 355 612"
   },
-  "scrapedAt": "2026-09-12T19:44:41.888Z",
+  "scrapedAt": "2026-09-13T15:43:47.659Z",
   "shariaCompliant": false
 }

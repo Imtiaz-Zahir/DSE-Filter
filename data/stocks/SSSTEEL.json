@@ -9,37 +9,37 @@
     "#": 357,
     "TRADING CODE": "SSSTEEL",
     "tradingCode": "SSSTEEL",
-    "LTP": 6.2,
-    "HIGH": 6.4,
-    "LOW": 6.2,
-    "CLOSEP": 6.2,
-    "YCP": 6.3,
-    "CHANGE": -0.1,
-    "TRADE": 98,
-    "VALUE (mn)": 0.801,
-    "VOLUME": 127671
+    "LTP": 6,
+    "HIGH": 6.2,
+    "LOW": 5.9,
+    "CLOSEP": 6,
+    "YCP": 6.2,
+    "CHANGE": -0.2,
+    "TRADE": 277,
+    "VALUE (mn)": 2.065,
+    "VOLUME": 343108
   },
   "marketInformation": {
-    "lastTradingPrice": 6.2,
+    "lastTradingPrice": 6,
     "daysRange": [
-      6.2,
-      6.4
+      5.9,
+      6.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.1,
       7.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 98,
-    "yesterdaysClose": 6.3,
-    "daysVolumeNos": 127671,
-    "adjustedOpeningPrice": 6.3,
-    "daysValueMn": 0.8,
-    "openingPrice": 6.3,
-    "marketCapMn": 2070.389,
-    "closingPrice": 6.2,
-    "freeFloatMarketCapMn": 1303.844
+    "change": -0.2,
+    "daysTradeNos": 277,
+    "yesterdaysClose": 6.2,
+    "daysVolumeNos": 343108,
+    "adjustedOpeningPrice": 6.2,
+    "daysValueMn": 2.07,
+    "openingPrice": 6.2,
+    "marketCapMn": 2037.526,
+    "closingPrice": 6,
+    "freeFloatMarketCapMn": 1283.148
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 335
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 310
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 300
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 39.41,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 38.24,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 36.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.29,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+8801329654727",
     "telephoneNo": "+88 0222 602509"
   },
-  "scrapedAt": "2026-09-12T19:44:56.353Z",
+  "scrapedAt": "2026-09-13T15:44:06.926Z",
   "shariaCompliant": true
 }

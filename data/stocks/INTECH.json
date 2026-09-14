@@ -9,37 +9,37 @@
     "#": 180,
     "TRADING CODE": "INTECH",
     "tradingCode": "INTECH",
-    "LTP": 23.1,
-    "HIGH": 23.7,
-    "LOW": 23,
-    "CLOSEP": 23.1,
-    "YCP": 23.2,
-    "CHANGE": -0.1,
-    "TRADE": 54,
-    "VALUE (mn)": 0.529,
-    "VOLUME": 22830
+    "LTP": 22.4,
+    "HIGH": 23.4,
+    "LOW": 22.1,
+    "CLOSEP": 22.2,
+    "YCP": 23.1,
+    "CHANGE": -0.7,
+    "TRADE": 102,
+    "VALUE (mn)": 0.938,
+    "VOLUME": 41786
   },
   "marketInformation": {
-    "lastTradingPrice": 23.1,
+    "lastTradingPrice": 22.4,
     "daysRange": [
-      23,
-      23.7
+      22.1,
+      23.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18,
-      46
+      44.1
     ],
-    "change": -0.1,
-    "daysTradeNos": 54,
-    "yesterdaysClose": 23.2,
-    "daysVolumeNos": 22830,
-    "adjustedOpeningPrice": 23.2,
-    "daysValueMn": 0.53,
-    "openingPrice": 23.7,
-    "marketCapMn": 726.652,
-    "closingPrice": 23.1,
-    "freeFloatMarketCapMn": 508.611
+    "change": -0.7,
+    "daysTradeNos": 102,
+    "yesterdaysClose": 23.1,
+    "daysVolumeNos": 41786,
+    "adjustedOpeningPrice": 23.1,
+    "daysValueMn": 0.94,
+    "openingPrice": 23.4,
+    "marketCapMn": 723.52,
+    "closingPrice": 22.2,
+    "freeFloatMarketCapMn": 506.419
   },
   "basicInformation": {
     "authorizedCapitalMn": 1200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "+88 01322 894 545",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:52.272Z",
+  "scrapedAt": "2026-09-13T15:42:50.973Z",
   "shariaCompliant": true
 }

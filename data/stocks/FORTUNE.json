@@ -9,37 +9,37 @@
     "#": 137,
     "TRADING CODE": "FORTUNE",
     "tradingCode": "FORTUNE",
-    "LTP": 16.3,
-    "HIGH": 16.9,
-    "LOW": 16.2,
-    "CLOSEP": 16.2,
-    "YCP": 16.7,
-    "CHANGE": -0.4,
-    "TRADE": 190,
-    "VALUE (mn)": 2.942,
-    "VOLUME": 179156
+    "LTP": 15.2,
+    "HIGH": 16.5,
+    "LOW": 15,
+    "CLOSEP": 15.1,
+    "YCP": 16.2,
+    "CHANGE": -1,
+    "TRADE": 317,
+    "VALUE (mn)": 4.817,
+    "VOLUME": 310235
   },
   "marketInformation": {
-    "lastTradingPrice": 16.3,
+    "lastTradingPrice": 15.2,
     "daysRange": [
-      16.2,
-      16.9
+      15,
+      16.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       21.9
     ],
-    "change": -0.4,
-    "daysTradeNos": 190,
-    "yesterdaysClose": 16.7,
-    "daysVolumeNos": 179156,
-    "adjustedOpeningPrice": 16.7,
-    "daysValueMn": 2.94,
-    "openingPrice": 16.9,
-    "marketCapMn": 2850.06,
-    "closingPrice": 16.2,
-    "freeFloatMarketCapMn": 1968.451
+    "change": -1,
+    "daysTradeNos": 317,
+    "yesterdaysClose": 16.2,
+    "daysVolumeNos": 310235,
+    "adjustedOpeningPrice": 16.2,
+    "daysValueMn": 4.82,
+    "openingPrice": 16.2,
+    "marketCapMn": 2764.729,
+    "closingPrice": 15.1,
+    "freeFloatMarketCapMn": 1909.516
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 155.45,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 149.09,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 147.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 137.27,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01345862661",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:34.586Z",
+  "scrapedAt": "2026-09-13T15:42:35.946Z",
   "shariaCompliant": true
 }

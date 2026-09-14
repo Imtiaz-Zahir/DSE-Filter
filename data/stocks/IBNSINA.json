@@ -9,37 +9,37 @@
     "#": 163,
     "TRADING CODE": "IBNSINA",
     "tradingCode": "IBNSINA",
-    "LTP": 313.4,
-    "HIGH": 315.5,
-    "LOW": 313.2,
-    "CLOSEP": 313.4,
-    "YCP": 312.9,
-    "CHANGE": 0.5,
-    "TRADE": 56,
-    "VALUE (mn)": 0.684,
-    "VOLUME": 2181
+    "LTP": 310.7,
+    "HIGH": 314.9,
+    "LOW": 308.2,
+    "CLOSEP": 310.7,
+    "YCP": 313.4,
+    "CHANGE": -2.7,
+    "TRADE": 125,
+    "VALUE (mn)": 2.449,
+    "VOLUME": 7871
   },
   "marketInformation": {
-    "lastTradingPrice": 313.4,
+    "lastTradingPrice": 310.7,
     "daysRange": [
-      313.2,
-      315.5
+      308.2,
+      314.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       273.8,
       371
     ],
-    "change": 0.5,
-    "daysTradeNos": 56,
-    "yesterdaysClose": 312.9,
-    "daysVolumeNos": 2181,
-    "adjustedOpeningPrice": 312.9,
-    "daysValueMn": 0.68,
-    "openingPrice": 314.9,
-    "marketCapMn": 9776.131,
-    "closingPrice": 313.4,
-    "freeFloatMarketCapMn": 5408.537
+    "change": -2.7,
+    "daysTradeNos": 125,
+    "yesterdaysClose": 313.4,
+    "daysVolumeNos": 7871,
+    "adjustedOpeningPrice": 313.4,
+    "daysValueMn": 2.45,
+    "openingPrice": 313.4,
+    "marketCapMn": 9791.753,
+    "closingPrice": 310.7,
+    "freeFloatMarketCapMn": 5417.18
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 11.84,
-        "peDiluted": null,
-        "peTrailing": 12.5
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 11.82,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 11.79,
         "peDiluted": null,
         "peTrailing": 12.44
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.69,
+        "peDiluted": null,
+        "peTrailing": 12.33
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 15.53,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 15.51,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 15.46,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.33,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713 094075",
     "telephoneNo": "+8802-41022150-58, 41022174"
   },
-  "scrapedAt": "2026-09-12T19:43:46.323Z",
+  "scrapedAt": "2026-09-13T15:42:44.353Z",
   "shariaCompliant": true
 }

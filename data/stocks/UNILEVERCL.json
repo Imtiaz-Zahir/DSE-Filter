@@ -9,37 +9,37 @@
     "#": 375,
     "TRADING CODE": "UNILEVERCL",
     "tradingCode": "UNILEVERCL",
-    "LTP": 1994.6,
-    "HIGH": 2000,
-    "LOW": 1980.5,
-    "CLOSEP": 1994.6,
-    "YCP": 1998,
-    "CHANGE": -3.4,
-    "TRADE": 29,
-    "VALUE (mn)": 0.133,
-    "VOLUME": 67
+    "LTP": 1990,
+    "HIGH": 2017.6,
+    "LOW": 1990,
+    "CLOSEP": 1993.8,
+    "YCP": 1994.6,
+    "CHANGE": -4.6,
+    "TRADE": 49,
+    "VALUE (mn)": 0.408,
+    "VOLUME": 204
   },
   "marketInformation": {
-    "lastTradingPrice": 1994.6,
+    "lastTradingPrice": 1990,
     "daysRange": [
-      1980.5,
-      2000
+      1990,
+      2017.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1961,
-      2497
+      2490
     ],
-    "change": -3.4,
-    "daysTradeNos": 29,
-    "yesterdaysClose": 1998,
-    "daysVolumeNos": 67,
-    "adjustedOpeningPrice": 1998,
-    "daysValueMn": 0.13,
-    "openingPrice": 1997,
-    "marketCapMn": 38510.087,
-    "closingPrice": 1994.6,
-    "freeFloatMarketCapMn": 2765.018
+    "change": -4.6,
+    "daysTradeNos": 49,
+    "yesterdaysClose": 1994.6,
+    "daysVolumeNos": 204,
+    "adjustedOpeningPrice": 1994.6,
+    "daysValueMn": 0.41,
+    "openingPrice": 2017.6,
+    "marketCapMn": 38444.555,
+    "closingPrice": 1993.8,
+    "freeFloatMarketCapMn": 2760.313
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 96.91,
-        "peDiluted": null,
-        "peTrailing": 63.04
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 96.66,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 96.54,
         "peDiluted": null,
         "peTrailing": 62.8
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 96.51,
+        "peDiluted": null,
+        "peTrailing": 62.78
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 48.58,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 48.46,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 48.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 48.38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01717444311, +8801324438744",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:02.075Z",
+  "scrapedAt": "2026-09-13T15:44:13.176Z",
   "shariaCompliant": false
 }

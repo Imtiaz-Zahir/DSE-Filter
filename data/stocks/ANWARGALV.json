@@ -9,37 +9,37 @@
     "#": 29,
     "TRADING CODE": "ANWARGALV",
     "tradingCode": "ANWARGALV",
-    "LTP": 110.7,
-    "HIGH": 113.4,
-    "LOW": 106.3,
-    "CLOSEP": 110.7,
-    "YCP": 106.5,
-    "CHANGE": 4.2,
-    "TRADE": 2777,
-    "VALUE (mn)": 79.949,
-    "VOLUME": 721130
+    "LTP": 111.8,
+    "HIGH": 112.8,
+    "LOW": 108.8,
+    "CLOSEP": 111.8,
+    "YCP": 110.7,
+    "CHANGE": 1.1,
+    "TRADE": 1560,
+    "VALUE (mn)": 36.173,
+    "VOLUME": 326582
   },
   "marketInformation": {
-    "lastTradingPrice": 110.7,
+    "lastTradingPrice": 111.8,
     "daysRange": [
-      106.3,
-      113.4
+      108.8,
+      112.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56.2,
       127.6
     ],
-    "change": 4.2,
-    "daysTradeNos": 2777,
-    "yesterdaysClose": 106.5,
-    "daysVolumeNos": 721130,
-    "adjustedOpeningPrice": 106.5,
-    "daysValueMn": 79.95,
-    "openingPrice": 107.4,
-    "marketCapMn": 3214.924,
-    "closingPrice": 110.7,
-    "freeFloatMarketCapMn": 2079.296
+    "change": 1.1,
+    "daysTradeNos": 1560,
+    "yesterdaysClose": 110.7,
+    "daysVolumeNos": 326582,
+    "adjustedOpeningPrice": 110.7,
+    "daysValueMn": 36.17,
+    "openingPrice": 111,
+    "marketCapMn": 3341.71,
+    "closingPrice": 111.8,
+    "freeFloatMarketCapMn": 2161.296
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 20.25,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 19.74,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.76,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.96,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": null,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01711 704 554",
     "telephoneNo": "88 02 9551335"
   },
-  "scrapedAt": "2026-09-12T19:42:58.300Z",
+  "scrapedAt": "2026-09-13T15:41:57.177Z",
   "shariaCompliant": true
 }

@@ -9,21 +9,21 @@
     "#": 127,
     "TRADING CODE": "FARCHEM",
     "tradingCode": "FARCHEM",
-    "LTP": 14.8,
-    "HIGH": 15.7,
-    "LOW": 14.7,
-    "CLOSEP": 14.8,
-    "YCP": 15.2,
+    "LTP": 14.4,
+    "HIGH": 15,
+    "LOW": 14.3,
+    "CLOSEP": 14.4,
+    "YCP": 14.8,
     "CHANGE": -0.4,
-    "TRADE": 891,
-    "VALUE (mn)": 28.288,
-    "VOLUME": 1876846
+    "TRADE": 987,
+    "VALUE (mn)": 27.631,
+    "VOLUME": 1895296
   },
   "marketInformation": {
-    "lastTradingPrice": 14.8,
+    "lastTradingPrice": 14.4,
     "daysRange": [
-      14.7,
-      15.7
+      14.3,
+      15
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       28
     ],
     "change": -0.4,
-    "daysTradeNos": 891,
-    "yesterdaysClose": 15.2,
-    "daysVolumeNos": 1876846,
-    "adjustedOpeningPrice": 15.2,
-    "daysValueMn": 28.29,
-    "openingPrice": 15.2,
-    "marketCapMn": 2327.079,
-    "closingPrice": 14.8,
-    "freeFloatMarketCapMn": 1567.688
+    "daysTradeNos": 987,
+    "yesterdaysClose": 14.8,
+    "daysVolumeNos": 1895296,
+    "adjustedOpeningPrice": 14.8,
+    "daysValueMn": 27.63,
+    "openingPrice": 14.9,
+    "marketCapMn": 2265.841,
+    "closingPrice": 14.4,
+    "freeFloatMarketCapMn": 1526.433
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 176.67,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 163.33,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 164.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 160,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "+88 01862 264 064",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:31.201Z",
+  "scrapedAt": "2026-09-13T15:42:31.412Z",
   "shariaCompliant": false
 }

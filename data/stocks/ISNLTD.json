@@ -9,37 +9,37 @@
     "#": 186,
     "TRADING CODE": "ISNLTD",
     "tradingCode": "ISNLTD",
-    "LTP": 44.1,
-    "HIGH": 46.3,
-    "LOW": 43.7,
-    "CLOSEP": 44.1,
-    "YCP": 45.6,
-    "CHANGE": -1.5,
-    "TRADE": 663,
-    "VALUE (mn)": 7.379,
-    "VOLUME": 165311
+    "LTP": 42.7,
+    "HIGH": 45.9,
+    "LOW": 42.2,
+    "CLOSEP": 42.7,
+    "YCP": 44.1,
+    "CHANGE": -1.4,
+    "TRADE": 341,
+    "VALUE (mn)": 3.36,
+    "VOLUME": 77791
   },
   "marketInformation": {
-    "lastTradingPrice": 44.1,
+    "lastTradingPrice": 42.7,
     "daysRange": [
-      43.7,
-      46.3
+      42.2,
+      45.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      43.7,
-      131.1
+      42.2,
+      119
     ],
-    "change": -1.5,
-    "daysTradeNos": 663,
-    "yesterdaysClose": 45.6,
-    "daysVolumeNos": 165311,
-    "adjustedOpeningPrice": 45.6,
-    "daysValueMn": 7.38,
-    "openingPrice": 45.6,
-    "marketCapMn": 497.952,
-    "closingPrice": 44.1,
-    "freeFloatMarketCapMn": 391.001
+    "change": -1.4,
+    "daysTradeNos": 341,
+    "yesterdaysClose": 44.1,
+    "daysVolumeNos": 77791,
+    "adjustedOpeningPrice": 44.1,
+    "daysValueMn": 3.36,
+    "openingPrice": 44.9,
+    "marketCapMn": 481.572,
+    "closingPrice": 42.7,
+    "freeFloatMarketCapMn": 378.139
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01939-904381",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:54.438Z",
+  "scrapedAt": "2026-09-13T15:42:55.499Z",
   "shariaCompliant": false
 }

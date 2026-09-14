@@ -9,21 +9,21 @@
     "#": 312,
     "TRADING CODE": "RSRMSTEEL",
     "tradingCode": "RSRMSTEEL",
-    "LTP": 7,
-    "HIGH": 7.2,
-    "LOW": 7,
-    "CLOSEP": 7,
-    "YCP": 7.1,
+    "LTP": 6.9,
+    "HIGH": 7,
+    "LOW": 6.8,
+    "CLOSEP": 6.9,
+    "YCP": 7,
     "CHANGE": -0.1,
-    "TRADE": 32,
-    "VALUE (mn)": 0.088,
-    "VOLUME": 12510
+    "TRADE": 36,
+    "VALUE (mn)": 0.459,
+    "VOLUME": 66215
   },
   "marketInformation": {
-    "lastTradingPrice": 7,
+    "lastTradingPrice": 6.9,
     "daysRange": [
-      7,
-      7.2
+      6.8,
+      7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       9.3
     ],
     "change": -0.1,
-    "daysTradeNos": 32,
-    "yesterdaysClose": 7.1,
-    "daysVolumeNos": 12510,
-    "adjustedOpeningPrice": 7.1,
-    "daysValueMn": 0.09,
-    "openingPrice": 7.2,
-    "marketCapMn": 718.443,
-    "closingPrice": 7,
-    "freeFloatMarketCapMn": 503.445
+    "daysTradeNos": 36,
+    "yesterdaysClose": 7,
+    "daysVolumeNos": 66215,
+    "adjustedOpeningPrice": 7,
+    "daysValueMn": 0.46,
+    "openingPrice": 7,
+    "marketCapMn": 708.324,
+    "closingPrice": 6.9,
+    "freeFloatMarketCapMn": 496.354
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01755553018",
     "telephoneNo": "+88 02 7191740"
   },
-  "scrapedAt": "2026-09-12T19:44:43.333Z",
+  "scrapedAt": "2026-09-13T15:43:47.791Z",
   "shariaCompliant": true
 }

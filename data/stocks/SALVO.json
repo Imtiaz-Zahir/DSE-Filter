@@ -9,37 +9,37 @@
     "#": 322,
     "TRADING CODE": "SALVO",
     "tradingCode": "SALVO",
-    "LTP": 31.1,
-    "HIGH": 31.9,
-    "LOW": 30.7,
-    "CLOSEP": 31.1,
-    "YCP": 31.5,
-    "CHANGE": -0.4,
-    "TRADE": 347,
-    "VALUE (mn)": 8.198,
-    "VOLUME": 261122
+    "LTP": 28.9,
+    "HIGH": 31.2,
+    "LOW": 28.5,
+    "CLOSEP": 28.9,
+    "YCP": 31.1,
+    "CHANGE": -2.2,
+    "TRADE": 793,
+    "VALUE (mn)": 18.705,
+    "VOLUME": 630805
   },
   "marketInformation": {
-    "lastTradingPrice": 31.1,
+    "lastTradingPrice": 28.9,
     "daysRange": [
-      30.7,
-      31.9
+      28.5,
+      31.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.6,
       40.8
     ],
-    "change": -0.4,
-    "daysTradeNos": 347,
-    "yesterdaysClose": 31.5,
-    "daysVolumeNos": 261122,
-    "adjustedOpeningPrice": 31.5,
-    "daysValueMn": 8.2,
-    "openingPrice": 31.6,
-    "marketCapMn": 2048.218,
-    "closingPrice": 31.1,
-    "freeFloatMarketCapMn": 1430.669
+    "change": -2.2,
+    "daysTradeNos": 793,
+    "yesterdaysClose": 31.1,
+    "daysVolumeNos": 630805,
+    "adjustedOpeningPrice": 31.1,
+    "daysValueMn": 18.71,
+    "openingPrice": 31.2,
+    "marketCapMn": 2022.209,
+    "closingPrice": 28.9,
+    "freeFloatMarketCapMn": 1412.502
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 57.78,
-        "peDiluted": null,
-        "peTrailing": 53.81
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 55.4,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 53.01,
         "peDiluted": null,
         "peTrailing": 49.37
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 49.26,
+        "peDiluted": null,
+        "peTrailing": 45.87
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 58.45,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 56.03,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 53.62,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 49.83,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01711823084",
     "telephoneNo": "88-02-41053068, 41053069"
   },
-  "scrapedAt": "2026-09-12T19:44:45.624Z",
+  "scrapedAt": "2026-09-13T15:43:51.954Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 61,
     "TRADING CODE": "BEACONPHAR",
     "tradingCode": "BEACONPHAR",
-    "LTP": 102.3,
-    "HIGH": 103.9,
-    "LOW": 102,
-    "CLOSEP": 102.3,
-    "YCP": 102.8,
-    "CHANGE": -0.5,
-    "TRADE": 422,
-    "VALUE (mn)": 5.911,
-    "VOLUME": 57552
+    "LTP": 100,
+    "HIGH": 103.4,
+    "LOW": 99.6,
+    "CLOSEP": 100,
+    "YCP": 102.3,
+    "CHANGE": -2.3,
+    "TRADE": 704,
+    "VALUE (mn)": 10.326,
+    "VOLUME": 102719
   },
   "marketInformation": {
-    "lastTradingPrice": 102.3,
+    "lastTradingPrice": 100,
     "daysRange": [
-      102,
-      103.9
+      99.6,
+      103.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       96,
       134.1
     ],
-    "change": -0.5,
-    "daysTradeNos": 422,
-    "yesterdaysClose": 102.8,
-    "daysVolumeNos": 57552,
-    "adjustedOpeningPrice": 102.8,
-    "daysValueMn": 5.91,
-    "openingPrice": 102.8,
-    "marketCapMn": 23746.8,
-    "closingPrice": 102.3,
-    "freeFloatMarketCapMn": 14280.502
+    "change": -2.3,
+    "daysTradeNos": 704,
+    "yesterdaysClose": 102.3,
+    "daysVolumeNos": 102719,
+    "adjustedOpeningPrice": 102.3,
+    "daysValueMn": 10.33,
+    "openingPrice": 103.4,
+    "marketCapMn": 23631.3,
+    "closingPrice": 100,
+    "freeFloatMarketCapMn": 14211.044
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.44,
-        "peDiluted": null,
-        "peTrailing": 16.92
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 13.06,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.89,
         "peDiluted": null,
         "peTrailing": 16.24
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.61,
+        "peDiluted": null,
+        "peTrailing": 15.87
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 26,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 25.27,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 24.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 24.39,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01335 251144",
     "telephoneNo": "+880-2-57165371-76"
   },
-  "scrapedAt": "2026-09-12T19:43:11.326Z",
+  "scrapedAt": "2026-09-13T15:42:11.331Z",
   "shariaCompliant": true
 }

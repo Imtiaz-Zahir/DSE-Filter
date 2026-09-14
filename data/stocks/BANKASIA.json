@@ -9,21 +9,21 @@
     "#": 45,
     "TRADING CODE": "BANKASIA",
     "tradingCode": "BANKASIA",
-    "LTP": 16.7,
-    "HIGH": 16.9,
-    "LOW": 16.7,
-    "CLOSEP": 16.7,
-    "YCP": 16.8,
+    "LTP": 16.6,
+    "HIGH": 16.7,
+    "LOW": 16.5,
+    "CLOSEP": 16.6,
+    "YCP": 16.7,
     "CHANGE": -0.1,
-    "TRADE": 225,
-    "VALUE (mn)": 4.09,
-    "VOLUME": 244624
+    "TRADE": 265,
+    "VALUE (mn)": 4.134,
+    "VOLUME": 249447
   },
   "marketInformation": {
-    "lastTradingPrice": 16.7,
+    "lastTradingPrice": 16.6,
     "daysRange": [
-      16.7,
-      16.9
+      16.5,
+      16.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       23.9
     ],
     "change": -0.1,
-    "daysTradeNos": 225,
-    "yesterdaysClose": 16.8,
-    "daysVolumeNos": 244624,
-    "adjustedOpeningPrice": 16.8,
-    "daysValueMn": 4.09,
-    "openingPrice": 16.9,
-    "marketCapMn": 23377.365,
-    "closingPrice": 16.7,
-    "freeFloatMarketCapMn": 11618.617
+    "daysTradeNos": 265,
+    "yesterdaysClose": 16.7,
+    "daysVolumeNos": 249447,
+    "adjustedOpeningPrice": 16.7,
+    "daysValueMn": 4.13,
+    "openingPrice": 16.7,
+    "marketCapMn": 23238.214,
+    "closingPrice": 16.6,
+    "freeFloatMarketCapMn": 11549.459
   },
   "basicInformation": {
     "authorizedCapitalMn": 30000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 4.77,
-        "peDiluted": null,
-        "peTrailing": 6.35
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.77,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 4.72,
         "peDiluted": null,
         "peTrailing": 6.28
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 4.69,
+        "peDiluted": null,
+        "peTrailing": 6.24
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 5.31,
-        "peDiluted": 5.77
-      },
       {
         "date": "2026-09-06",
         "peBasic": 5.31,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 5.25,
         "peDiluted": 5.7
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.22,
+        "peDiluted": 5.67
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01742 844950",
     "telephoneNo": "09617-001207 Ext : 1214"
   },
-  "scrapedAt": "2026-09-12T19:43:05.689Z",
+  "scrapedAt": "2026-09-13T15:42:02.217Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 198,
     "TRADING CODE": "KEYACOSMET",
     "tradingCode": "KEYACOSMET",
-    "LTP": 5.1,
-    "HIGH": 5.2,
-    "LOW": 5,
-    "CLOSEP": 5,
+    "LTP": 4.9,
+    "HIGH": 5.1,
+    "LOW": 4.9,
+    "CLOSEP": 4.9,
     "YCP": 5,
-    "CHANGE": 0.1,
-    "TRADE": 152,
-    "VALUE (mn)": 5.683,
-    "VOLUME": 1118034
+    "CHANGE": -0.1,
+    "TRADE": 160,
+    "VALUE (mn)": 3.816,
+    "VOLUME": 763551
   },
   "marketInformation": {
-    "lastTradingPrice": 5.1,
+    "lastTradingPrice": 4.9,
     "daysRange": [
-      5,
-      5.2
+      4.9,
+      5.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.3,
       6.1
     ],
-    "change": 0.1,
-    "daysTradeNos": 152,
+    "change": -0.1,
+    "daysTradeNos": 160,
     "yesterdaysClose": 5,
-    "daysVolumeNos": 1118034,
+    "daysVolumeNos": 763551,
     "adjustedOpeningPrice": 5,
-    "daysValueMn": 5.68,
+    "daysValueMn": 3.82,
     "openingPrice": 5,
     "marketCapMn": 5511.587,
-    "closingPrice": 5,
+    "closingPrice": 4.9,
     "freeFloatMarketCapMn": 2973.764
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 21.67,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 21.25,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 20.83,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 20.42,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.76,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 24.29,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 23.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 23.33,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01712675421",
     "telephoneNo": "02-9297147"
   },
-  "scrapedAt": "2026-09-12T19:43:59.765Z",
+  "scrapedAt": "2026-09-13T15:43:01.207Z",
   "shariaCompliant": false
 }

@@ -9,36 +9,36 @@
     "#": 238,
     "TRADING CODE": "MTB",
     "tradingCode": "MTB",
-    "LTP": 12.9,
-    "HIGH": 13.1,
-    "LOW": 12.9,
-    "CLOSEP": 12.9,
+    "LTP": 12.5,
+    "HIGH": 13,
+    "LOW": 12.4,
+    "CLOSEP": 12.5,
     "YCP": 12.9,
-    "CHANGE": 0,
-    "TRADE": 77,
-    "VALUE (mn)": 0.942,
-    "VOLUME": 72767
+    "CHANGE": -0.4,
+    "TRADE": 209,
+    "VALUE (mn)": 6.763,
+    "VOLUME": 531407
   },
   "marketInformation": {
-    "lastTradingPrice": 12.9,
+    "lastTradingPrice": 12.5,
     "daysRange": [
-      12.9,
-      13.1
+      12.4,
+      13
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.9,
       14.7
     ],
-    "change": 0,
-    "daysTradeNos": 77,
+    "change": -0.4,
+    "daysTradeNos": 209,
     "yesterdaysClose": 12.9,
-    "daysVolumeNos": 72767,
+    "daysVolumeNos": 531407,
     "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 0.94,
+    "daysValueMn": 6.76,
     "openingPrice": 13,
     "marketCapMn": 15624.525,
-    "closingPrice": 12.9,
+    "closingPrice": 12.5,
     "freeFloatMarketCapMn": 10439.642
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 6.72,
-        "peDiluted": null,
-        "peTrailing": 4.51
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 6.77,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 6.52,
         "peDiluted": null,
         "peTrailing": 4.37
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6.31,
+        "peDiluted": null,
+        "peTrailing": 4.24
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 4.24,
-        "peDiluted": 4.75
-      },
       {
         "date": "2026-09-06",
         "peBasic": 4.27,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 4.11,
         "peDiluted": 4.61
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 3.98,
+        "peDiluted": 4.46
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "01711596025",
     "telephoneNo": "880 2-9846966"
   },
-  "scrapedAt": "2026-09-12T19:44:12.577Z",
+  "scrapedAt": "2026-09-13T15:43:17.224Z",
   "shariaCompliant": false
 }

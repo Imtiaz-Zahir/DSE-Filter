@@ -9,37 +9,37 @@
     "#": 309,
     "TRADING CODE": "REPUBLIC",
     "tradingCode": "REPUBLIC",
-    "LTP": 39.3,
-    "HIGH": 40.5,
-    "LOW": 39,
-    "CLOSEP": 39.3,
-    "YCP": 39.5,
-    "CHANGE": -0.2,
-    "TRADE": 513,
-    "VALUE (mn)": 15.667,
-    "VOLUME": 395176
+    "LTP": 37.5,
+    "HIGH": 39.8,
+    "LOW": 36.7,
+    "CLOSEP": 37.5,
+    "YCP": 39.3,
+    "CHANGE": -1.8,
+    "TRADE": 395,
+    "VALUE (mn)": 7.447,
+    "VOLUME": 195794
   },
   "marketInformation": {
-    "lastTradingPrice": 39.3,
+    "lastTradingPrice": 37.5,
     "daysRange": [
-      39,
-      40.5
+      36.7,
+      39.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23,
       46
     ],
-    "change": -0.2,
-    "daysTradeNos": 513,
-    "yesterdaysClose": 39.5,
-    "daysVolumeNos": 395176,
-    "adjustedOpeningPrice": 39.5,
-    "daysValueMn": 15.67,
-    "openingPrice": 40,
-    "marketCapMn": 2160.814,
-    "closingPrice": 39.3,
-    "freeFloatMarketCapMn": 1140.722
+    "change": -1.8,
+    "daysTradeNos": 395,
+    "yesterdaysClose": 39.3,
+    "daysVolumeNos": 195794,
+    "adjustedOpeningPrice": 39.3,
+    "daysValueMn": 7.45,
+    "openingPrice": 39.8,
+    "marketCapMn": 2149.873,
+    "closingPrice": 37.5,
+    "freeFloatMarketCapMn": 1134.946
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.13,
-        "peDiluted": null,
-        "peTrailing": 21.95
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.17,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 18.03,
         "peDiluted": null,
         "peTrailing": 20.68
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.2,
+        "peDiluted": null,
+        "peTrailing": 19.74
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 22.18,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 21.06,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 20.9,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 19.95,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01339491169",
     "telephoneNo": "58313334-8 Ext-104"
   },
-  "scrapedAt": "2026-09-12T19:44:40.939Z",
+  "scrapedAt": "2026-09-13T15:43:46.754Z",
   "shariaCompliant": false
 }

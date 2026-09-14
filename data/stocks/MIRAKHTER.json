@@ -9,37 +9,37 @@
     "#": 229,
     "TRADING CODE": "MIRAKHTER",
     "tradingCode": "MIRAKHTER",
-    "LTP": 32.4,
-    "HIGH": 33.6,
-    "LOW": 32.1,
-    "CLOSEP": 32.4,
-    "YCP": 33.2,
-    "CHANGE": -0.8,
-    "TRADE": 302,
-    "VALUE (mn)": 4.412,
-    "VOLUME": 134839
+    "LTP": 31.2,
+    "HIGH": 32.5,
+    "LOW": 30.9,
+    "CLOSEP": 31.2,
+    "YCP": 32.4,
+    "CHANGE": -1.2,
+    "TRADE": 327,
+    "VALUE (mn)": 5.388,
+    "VOLUME": 170468
   },
   "marketInformation": {
-    "lastTradingPrice": 32.4,
+    "lastTradingPrice": 31.2,
     "daysRange": [
-      32.1,
-      33.6
+      30.9,
+      32.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.9,
       48.7
     ],
-    "change": -0.8,
-    "daysTradeNos": 302,
-    "yesterdaysClose": 33.2,
-    "daysVolumeNos": 134839,
-    "adjustedOpeningPrice": 33.2,
-    "daysValueMn": 4.41,
-    "openingPrice": 33.4,
-    "marketCapMn": 4009.615,
-    "closingPrice": 32.4,
-    "freeFloatMarketCapMn": 1143.343
+    "change": -1.2,
+    "daysTradeNos": 327,
+    "yesterdaysClose": 32.4,
+    "daysVolumeNos": 170468,
+    "adjustedOpeningPrice": 32.4,
+    "daysValueMn": 5.39,
+    "openingPrice": 32.4,
+    "marketCapMn": 3912.998,
+    "closingPrice": 31.2,
+    "freeFloatMarketCapMn": 1115.793
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 40.34,
-        "peDiluted": null,
-        "peTrailing": 25.72
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 38.41,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 36.82,
         "peDiluted": null,
         "peTrailing": 23.48
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 35.45,
+        "peDiluted": null,
+        "peTrailing": 22.61
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 20.64,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 19.65,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 18.84,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 18.14,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01313-078620",
     "telephoneNo": "+88 02 55138529"
   },
-  "scrapedAt": "2026-09-12T19:44:07.296Z",
+  "scrapedAt": "2026-09-13T15:43:12.393Z",
   "shariaCompliant": false
 }

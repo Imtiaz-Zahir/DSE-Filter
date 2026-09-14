@@ -10,36 +10,36 @@
     "TRADING CODE": "SHASHADNIM",
     "tradingCode": "SHASHADNIM",
     "LTP": 27.3,
-    "HIGH": 28.5,
-    "LOW": 27,
+    "HIGH": 28,
+    "LOW": 26.5,
     "CLOSEP": 27.3,
-    "YCP": 28,
-    "CHANGE": -0.7,
-    "TRADE": 476,
-    "VALUE (mn)": 13.261,
-    "VOLUME": 478841
+    "YCP": 27.3,
+    "CHANGE": 0,
+    "TRADE": 287,
+    "VALUE (mn)": 10.483,
+    "VOLUME": 384121
   },
   "marketInformation": {
     "lastTradingPrice": 27.3,
     "daysRange": [
-      27,
-      28.5
+      26.5,
+      28
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.8,
       30.6
     ],
-    "change": -0.7,
-    "daysTradeNos": 476,
-    "yesterdaysClose": 28,
-    "daysVolumeNos": 478841,
-    "adjustedOpeningPrice": 28,
-    "daysValueMn": 13.26,
+    "change": 0,
+    "daysTradeNos": 287,
+    "yesterdaysClose": 27.3,
+    "daysVolumeNos": 384121,
+    "adjustedOpeningPrice": 27.3,
+    "daysValueMn": 10.48,
     "openingPrice": 28,
-    "marketCapMn": 3949.005,
+    "marketCapMn": 3850.28,
     "closingPrice": 27.3,
-    "freeFloatMarketCapMn": 2181.953
+    "freeFloatMarketCapMn": 2127.404
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 53.85,
-        "peDiluted": null,
-        "peTrailing": 42.42
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 53.65,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 52.5,
         "peDiluted": null,
         "peTrailing": 41.36
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 52.5,
+        "peDiluted": null,
+        "peTrailing": 41.36
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 17.83,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 17.77,
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 17.39,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 17.39,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 022 143",
     "telephoneNo": "+88-02-9836102,9836104"
   },
-  "scrapedAt": "2026-09-12T19:44:48.117Z",
+  "scrapedAt": "2026-09-13T15:43:57.368Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 4,
     "TRADING CODE": "AAMRATECH",
     "tradingCode": "AAMRATECH",
-    "LTP": 17,
-    "HIGH": 17.6,
-    "LOW": 17,
-    "CLOSEP": 17,
-    "YCP": 17.3,
-    "CHANGE": -0.3,
-    "TRADE": 95,
-    "VALUE (mn)": 0.857,
-    "VOLUME": 50103
+    "LTP": 16.5,
+    "HIGH": 17.7,
+    "LOW": 15.4,
+    "CLOSEP": 15.5,
+    "YCP": 17,
+    "CHANGE": -0.5,
+    "TRADE": 124,
+    "VALUE (mn)": 1.463,
+    "VOLUME": 89877
   },
   "marketInformation": {
-    "lastTradingPrice": 17,
+    "lastTradingPrice": 16.5,
     "daysRange": [
-      17,
-      17.6
+      15.4,
+      17.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.5,
       24.1
     ],
-    "change": -0.3,
-    "daysTradeNos": 95,
-    "yesterdaysClose": 17.3,
-    "daysVolumeNos": 50103,
-    "adjustedOpeningPrice": 17.3,
-    "daysValueMn": 0.86,
-    "openingPrice": 17.6,
-    "marketCapMn": 1119.439,
-    "closingPrice": 17,
-    "freeFloatMarketCapMn": 718.719
+    "change": -0.5,
+    "daysTradeNos": 124,
+    "yesterdaysClose": 17,
+    "daysVolumeNos": 89877,
+    "adjustedOpeningPrice": 17,
+    "daysValueMn": 1.46,
+    "openingPrice": 17.7,
+    "marketCapMn": 1100.027,
+    "closingPrice": 15.5,
+    "freeFloatMarketCapMn": 706.255
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "01729066414",
     "telephoneNo": "88028831188, 8832354"
   },
-  "scrapedAt": "2026-09-12T19:42:46.509Z",
+  "scrapedAt": "2026-09-13T15:40:49.865Z",
   "shariaCompliant": true
 }

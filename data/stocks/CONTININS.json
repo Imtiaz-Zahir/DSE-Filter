@@ -9,37 +9,37 @@
     "#": 87,
     "TRADING CODE": "CONTININS",
     "tradingCode": "CONTININS",
-    "LTP": 33.6,
-    "HIGH": 34.7,
-    "LOW": 33.5,
-    "CLOSEP": 33.6,
-    "YCP": 34.1,
-    "CHANGE": -0.5,
-    "TRADE": 412,
-    "VALUE (mn)": 10.946,
-    "VOLUME": 323030
+    "LTP": 31.8,
+    "HIGH": 33.5,
+    "LOW": 31.4,
+    "CLOSEP": 31.8,
+    "YCP": 33.6,
+    "CHANGE": -1.8,
+    "TRADE": 515,
+    "VALUE (mn)": 10.495,
+    "VOLUME": 324276
   },
   "marketInformation": {
-    "lastTradingPrice": 33.6,
+    "lastTradingPrice": 31.8,
     "daysRange": [
-      33.5,
-      34.7
+      31.4,
+      33.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       19.4,
       39
     ],
-    "change": -0.5,
-    "daysTradeNos": 412,
-    "yesterdaysClose": 34.1,
-    "daysVolumeNos": 323030,
-    "adjustedOpeningPrice": 34.1,
-    "daysValueMn": 10.95,
-    "openingPrice": 34,
-    "marketCapMn": 1489.678,
-    "closingPrice": 33.6,
-    "freeFloatMarketCapMn": 1019.849
+    "change": -1.8,
+    "daysTradeNos": 515,
+    "yesterdaysClose": 33.6,
+    "daysVolumeNos": 324276,
+    "adjustedOpeningPrice": 33.6,
+    "daysValueMn": 10.5,
+    "openingPrice": 33.5,
+    "marketCapMn": 1467.835,
+    "closingPrice": 31.8,
+    "freeFloatMarketCapMn": 1004.895
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 19.52,
-        "peDiluted": null,
-        "peTrailing": 21.1
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 18.55,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 18.06,
         "peDiluted": null,
         "peTrailing": 19.53
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 17.1,
+        "peDiluted": null,
+        "peTrailing": 18.49
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 24.2,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 22.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 21.2,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01713 370 149",
     "telephoneNo": "02-58817491-6"
   },
-  "scrapedAt": "2026-09-12T19:43:21.250Z",
+  "scrapedAt": "2026-09-13T15:42:21.368Z",
   "shariaCompliant": false
 }

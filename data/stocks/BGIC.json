@@ -9,37 +9,37 @@
     "#": 66,
     "TRADING CODE": "BGIC",
     "tradingCode": "BGIC",
-    "LTP": 41.5,
-    "HIGH": 43.9,
-    "LOW": 38.8,
-    "CLOSEP": 41.5,
-    "YCP": 41.8,
-    "CHANGE": -0.3,
-    "TRADE": 185,
-    "VALUE (mn)": 2.764,
-    "VOLUME": 66004
+    "LTP": 39.5,
+    "HIGH": 41.5,
+    "LOW": 39,
+    "CLOSEP": 39.5,
+    "YCP": 41.5,
+    "CHANGE": -2,
+    "TRADE": 236,
+    "VALUE (mn)": 4.113,
+    "VOLUME": 102608
   },
   "marketInformation": {
-    "lastTradingPrice": 41.5,
+    "lastTradingPrice": 39.5,
     "daysRange": [
-      38.8,
-      43.9
+      39,
+      41.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       28.5,
       46.4
     ],
-    "change": -0.3,
-    "daysTradeNos": 185,
-    "yesterdaysClose": 41.8,
-    "daysVolumeNos": 66004,
-    "adjustedOpeningPrice": 41.8,
-    "daysValueMn": 2.76,
-    "openingPrice": 38.8,
-    "marketCapMn": 2258.339,
-    "closingPrice": 41.5,
-    "freeFloatMarketCapMn": 1504.05
+    "change": -2,
+    "daysTradeNos": 236,
+    "yesterdaysClose": 41.5,
+    "daysVolumeNos": 102608,
+    "adjustedOpeningPrice": 41.5,
+    "daysValueMn": 4.11,
+    "openingPrice": 41.1,
+    "marketCapMn": 2242.131,
+    "closingPrice": 39.5,
+    "freeFloatMarketCapMn": 1493.255
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 17.58,
-        "peDiluted": null,
-        "peTrailing": 28.68
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 16.73,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 16.73,
         "peDiluted": null,
         "peTrailing": 27.3
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15.93,
+        "peDiluted": null,
+        "peTrailing": 25.99
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 28.87,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 27.48,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 27.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.16,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01715-246961",
     "telephoneNo": "02223383057"
   },
-  "scrapedAt": "2026-09-12T19:43:15.389Z",
+  "scrapedAt": "2026-09-13T15:42:12.595Z",
   "shariaCompliant": false
 }

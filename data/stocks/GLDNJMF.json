@@ -9,36 +9,36 @@
     "#": 147,
     "TRADING CODE": "GLDNJMF",
     "tradingCode": "GLDNJMF",
-    "LTP": 8.8,
-    "HIGH": 8.8,
-    "LOW": 8.2,
-    "CLOSEP": 8.7,
-    "YCP": 8.2,
-    "CHANGE": 0.6,
-    "TRADE": 480,
-    "VALUE (mn)": 15.183,
-    "VOLUME": 1786911
+    "LTP": 9.1,
+    "HIGH": 9.3,
+    "LOW": 8.8,
+    "CLOSEP": 9.1,
+    "YCP": 8.7,
+    "CHANGE": 0.4,
+    "TRADE": 661,
+    "VALUE (mn)": 20.471,
+    "VOLUME": 2255454
   },
   "marketInformation": {
-    "lastTradingPrice": 8.8,
+    "lastTradingPrice": 9.1,
     "daysRange": [
-      8.2,
-      8.8
+      8.8,
+      9.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.5,
       10.3
     ],
-    "change": 0.6,
-    "daysTradeNos": 480,
-    "yesterdaysClose": 8.2,
-    "daysVolumeNos": 1786911,
-    "adjustedOpeningPrice": 8.2,
-    "daysValueMn": 15.18,
-    "openingPrice": 8.4,
-    "marketCapMn": 820,
-    "closingPrice": 8.7,
+    "change": 0.4,
+    "daysTradeNos": 661,
+    "yesterdaysClose": 8.7,
+    "daysVolumeNos": 2255454,
+    "adjustedOpeningPrice": 8.7,
+    "daysValueMn": 20.47,
+    "openingPrice": 8.8,
+    "marketCapMn": 870,
+    "closingPrice": 9.1,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5,
-        "peDiluted": null,
-        "peTrailing": 6.56
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 4.94,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.3,
         "peDiluted": null,
         "peTrailing": 6.96
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.55,
+        "peDiluted": null,
+        "peTrailing": 7.28
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 23.43,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 23.14,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 24.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26,
         "peDiluted": null
       }
     ]
@@ -347,6 +347,6 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-12T19:43:38.815Z",
+  "scrapedAt": "2026-09-13T15:42:38.723Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 382,
     "TRADING CODE": "UPGDCL",
     "tradingCode": "UPGDCL",
-    "LTP": 112.5,
-    "HIGH": 114,
-    "LOW": 111.5,
-    "CLOSEP": 111.7,
-    "YCP": 112.6,
-    "CHANGE": -0.1,
-    "TRADE": 303,
-    "VALUE (mn)": 2.732,
-    "VOLUME": 24404
+    "LTP": 110.7,
+    "HIGH": 112.2,
+    "LOW": 110.1,
+    "CLOSEP": 110.7,
+    "YCP": 111.7,
+    "CHANGE": -1,
+    "TRADE": 612,
+    "VALUE (mn)": 7.851,
+    "VOLUME": 70817
   },
   "marketInformation": {
-    "lastTradingPrice": 112.5,
+    "lastTradingPrice": 110.7,
     "daysRange": [
-      111.5,
-      114
+      110.1,
+      112.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       109.8,
       148.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 303,
-    "yesterdaysClose": 112.6,
-    "daysVolumeNos": 24404,
-    "adjustedOpeningPrice": 112.6,
-    "daysValueMn": 2.73,
-    "openingPrice": 114,
-    "marketCapMn": 65273.687,
-    "closingPrice": 111.7,
-    "freeFloatMarketCapMn": 6528.364
+    "change": -1,
+    "daysTradeNos": 612,
+    "yesterdaysClose": 111.7,
+    "daysVolumeNos": 70817,
+    "adjustedOpeningPrice": 111.7,
+    "daysValueMn": 7.85,
+    "openingPrice": 112.2,
+    "marketCapMn": 64751.962,
+    "closingPrice": 110.7,
+    "freeFloatMarketCapMn": 6476.184
   },
   "basicInformation": {
     "authorizedCapitalMn": 19100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.77,
-        "peDiluted": null,
-        "peTrailing": 7.05
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.74,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.7,
         "peDiluted": null,
         "peTrailing": 6.97
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.65,
+        "peDiluted": null,
+        "peTrailing": 6.91
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 5.47,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 5.44,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 5.41,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.36,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01951155051",
     "telephoneNo": "+88 09666 700900, Ext-3065"
   },
-  "scrapedAt": "2026-09-12T19:45:03.787Z",
+  "scrapedAt": "2026-09-13T15:44:18.063Z",
   "shariaCompliant": false
 }

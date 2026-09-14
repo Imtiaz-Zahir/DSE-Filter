@@ -9,37 +9,37 @@
     "#": 25,
     "TRADING CODE": "AMANFEED",
     "tradingCode": "AMANFEED",
-    "LTP": 31.3,
-    "HIGH": 32.6,
-    "LOW": 31.2,
-    "CLOSEP": 31.3,
-    "YCP": 32.1,
-    "CHANGE": -0.8,
-    "TRADE": 647,
-    "VALUE (mn)": 12.598,
-    "VOLUME": 397880
+    "LTP": 30.7,
+    "HIGH": 31.4,
+    "LOW": 30.5,
+    "CLOSEP": 30.7,
+    "YCP": 31.3,
+    "CHANGE": -0.6,
+    "TRADE": 507,
+    "VALUE (mn)": 9.011,
+    "VOLUME": 291882
   },
   "marketInformation": {
-    "lastTradingPrice": 31.3,
+    "lastTradingPrice": 30.7,
     "daysRange": [
-      31.2,
-      32.6
+      30.5,
+      31.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.2,
       41.4
     ],
-    "change": -0.8,
-    "daysTradeNos": 647,
-    "yesterdaysClose": 32.1,
-    "daysVolumeNos": 397880,
-    "adjustedOpeningPrice": 32.1,
-    "daysValueMn": 12.6,
-    "openingPrice": 32.1,
-    "marketCapMn": 4204.15,
-    "closingPrice": 31.3,
-    "freeFloatMarketCapMn": 1544.504
+    "change": -0.6,
+    "daysTradeNos": 507,
+    "yesterdaysClose": 31.3,
+    "daysVolumeNos": 291882,
+    "adjustedOpeningPrice": 31.3,
+    "daysValueMn": 9.01,
+    "openingPrice": 31.3,
+    "marketCapMn": 4099.374,
+    "closingPrice": 30.7,
+    "freeFloatMarketCapMn": 1506.012
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 45.65,
-        "peDiluted": null,
-        "peTrailing": 235.33
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 42.41,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 40.47,
         "peDiluted": null,
         "peTrailing": 208.67
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 39.7,
+        "peDiluted": null,
+        "peTrailing": 204.67
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 160.45,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 149.09,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 142.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 139.55,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01755 675 028",
     "telephoneNo": "+8802-48961691-3; 09606-613000"
   },
-  "scrapedAt": "2026-09-12T19:42:52.996Z",
+  "scrapedAt": "2026-09-13T15:41:56.388Z",
   "shariaCompliant": false
 }

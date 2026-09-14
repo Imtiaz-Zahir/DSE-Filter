@@ -9,37 +9,37 @@
     "#": 339,
     "TRADING CODE": "SICL",
     "tradingCode": "SICL",
-    "LTP": 36.3,
-    "HIGH": 37.8,
-    "LOW": 35.8,
-    "CLOSEP": 36.3,
-    "YCP": 37.4,
-    "CHANGE": -1.1,
-    "TRADE": 1279,
-    "VALUE (mn)": 55.13,
-    "VOLUME": 1499256
+    "LTP": 34.1,
+    "HIGH": 36.5,
+    "LOW": 33.8,
+    "CLOSEP": 34.1,
+    "YCP": 36.3,
+    "CHANGE": -2.2,
+    "TRADE": 991,
+    "VALUE (mn)": 23.468,
+    "VOLUME": 672356
   },
   "marketInformation": {
-    "lastTradingPrice": 36.3,
+    "lastTradingPrice": 34.1,
     "daysRange": [
-      35.8,
-      37.8
+      33.8,
+      36.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.1,
       43.3
     ],
-    "change": -1.1,
-    "daysTradeNos": 1279,
-    "yesterdaysClose": 37.4,
-    "daysVolumeNos": 1499256,
-    "adjustedOpeningPrice": 37.4,
-    "daysValueMn": 55.13,
-    "openingPrice": 37,
-    "marketCapMn": 1496,
-    "closingPrice": 36.3,
-    "freeFloatMarketCapMn": 598.4
+    "change": -2.2,
+    "daysTradeNos": 991,
+    "yesterdaysClose": 36.3,
+    "daysVolumeNos": 672356,
+    "adjustedOpeningPrice": 36.3,
+    "daysValueMn": 23.47,
+    "openingPrice": 36.3,
+    "marketCapMn": 1452,
+    "closingPrice": 34.1,
+    "freeFloatMarketCapMn": 580.8
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 18.95,
-        "peDiluted": null,
-        "peTrailing": 19.32
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 17.76,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 17.29,
         "peDiluted": null,
         "peTrailing": 17.62
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 16.24,
+        "peDiluted": null,
+        "peTrailing": 16.55
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 31.09,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 29.14,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 28.36,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 26.64,
         "peDiluted": null
       }
     ]
@@ -322,6 +322,6 @@
     "cellNo": "01747472696",
     "telephoneNo": "0088 02-223371513-17"
   },
-  "scrapedAt": "2026-09-12T19:44:49.684Z",
+  "scrapedAt": "2026-09-13T15:43:58.094Z",
   "shariaCompliant": false
 }

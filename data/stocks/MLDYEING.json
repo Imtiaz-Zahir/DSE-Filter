@@ -9,37 +9,37 @@
     "#": 232,
     "TRADING CODE": "MLDYEING",
     "tradingCode": "MLDYEING",
-    "LTP": 11.8,
-    "HIGH": 12.3,
-    "LOW": 11.6,
-    "CLOSEP": 11.8,
-    "YCP": 12,
-    "CHANGE": -0.2,
-    "TRADE": 1165,
-    "VALUE (mn)": 39.103,
-    "VOLUME": 3281386
+    "LTP": 11,
+    "HIGH": 11.9,
+    "LOW": 10.9,
+    "CLOSEP": 11,
+    "YCP": 11.8,
+    "CHANGE": -0.8,
+    "TRADE": 1788,
+    "VALUE (mn)": 49.343,
+    "VOLUME": 4364926
   },
   "marketInformation": {
-    "lastTradingPrice": 11.8,
+    "lastTradingPrice": 11,
     "daysRange": [
-      11.6,
-      12.3
+      10.9,
+      11.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.7,
       19.3
     ],
-    "change": -0.2,
-    "daysTradeNos": 1165,
-    "yesterdaysClose": 12,
-    "daysVolumeNos": 3281386,
-    "adjustedOpeningPrice": 12,
-    "daysValueMn": 39.1,
-    "openingPrice": 12.1,
-    "marketCapMn": 2789.209,
-    "closingPrice": 11.8,
-    "freeFloatMarketCapMn": 1710.82
+    "change": -0.8,
+    "daysTradeNos": 1788,
+    "yesterdaysClose": 11.8,
+    "daysVolumeNos": 4364926,
+    "adjustedOpeningPrice": 11.8,
+    "daysValueMn": 49.34,
+    "openingPrice": 11.9,
+    "marketCapMn": 2742.722,
+    "closingPrice": 11,
+    "freeFloatMarketCapMn": 1682.306
   },
   "basicInformation": {
     "authorizedCapitalMn": 3100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 640,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 590,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 590,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 550,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,6 @@
     "cellNo": "01714589883",
     "telephoneNo": "+88-02-48810050, Ext.-230"
   },
-  "scrapedAt": "2026-09-12T19:44:11.135Z",
+  "scrapedAt": "2026-09-13T15:43:14.545Z",
   "shariaCompliant": true
 }

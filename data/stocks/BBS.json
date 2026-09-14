@@ -9,37 +9,37 @@
     "#": 50,
     "TRADING CODE": "BBS",
     "tradingCode": "BBS",
-    "LTP": 12.3,
-    "HIGH": 12.6,
-    "LOW": 12.2,
-    "CLOSEP": 12.3,
-    "YCP": 12.4,
-    "CHANGE": -0.1,
-    "TRADE": 196,
-    "VALUE (mn)": 2.733,
-    "VOLUME": 220016
+    "LTP": 11.6,
+    "HIGH": 12.3,
+    "LOW": 11.5,
+    "CLOSEP": 11.6,
+    "YCP": 12.3,
+    "CHANGE": -0.7,
+    "TRADE": 369,
+    "VALUE (mn)": 4.837,
+    "VOLUME": 406356
   },
   "marketInformation": {
-    "lastTradingPrice": 12.3,
+    "lastTradingPrice": 11.6,
     "daysRange": [
-      12.2,
-      12.6
+      11.5,
+      12.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.5,
       16.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 196,
-    "yesterdaysClose": 12.4,
-    "daysVolumeNos": 220016,
-    "adjustedOpeningPrice": 12.4,
-    "daysValueMn": 2.73,
-    "openingPrice": 12.6,
-    "marketCapMn": 2020.329,
-    "closingPrice": 12.3,
-    "freeFloatMarketCapMn": 1414.049
+    "change": -0.7,
+    "daysTradeNos": 369,
+    "yesterdaysClose": 12.3,
+    "daysVolumeNos": 406356,
+    "adjustedOpeningPrice": 12.3,
+    "daysValueMn": 4.84,
+    "openingPrice": 12.2,
+    "marketCapMn": 2004.036,
+    "closingPrice": 11.6,
+    "freeFloatMarketCapMn": 1402.646
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,6 @@
     "cellNo": "01713-114555",
     "telephoneNo": "+88-02-222288916"
   },
-  "scrapedAt": "2026-09-12T19:43:06.618Z",
+  "scrapedAt": "2026-09-13T15:42:04.580Z",
   "shariaCompliant": true
 }

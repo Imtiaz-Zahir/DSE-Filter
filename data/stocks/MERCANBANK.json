@@ -9,36 +9,36 @@
     "#": 222,
     "TRADING CODE": "MERCANBANK",
     "tradingCode": "MERCANBANK",
-    "LTP": 6.8,
-    "HIGH": 6.9,
-    "LOW": 6.7,
-    "CLOSEP": 6.8,
+    "LTP": 6.6,
+    "HIGH": 6.8,
+    "LOW": 6.5,
+    "CLOSEP": 6.6,
     "YCP": 6.8,
-    "CHANGE": 0,
-    "TRADE": 74,
-    "VALUE (mn)": 0.81,
-    "VOLUME": 119440
+    "CHANGE": -0.2,
+    "TRADE": 134,
+    "VALUE (mn)": 4.856,
+    "VOLUME": 734242
   },
   "marketInformation": {
-    "lastTradingPrice": 6.8,
+    "lastTradingPrice": 6.6,
     "daysRange": [
-      6.7,
-      6.9
+      6.5,
+      6.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.1,
       9.6
     ],
-    "change": 0,
-    "daysTradeNos": 74,
+    "change": -0.2,
+    "daysTradeNos": 134,
     "yesterdaysClose": 6.8,
-    "daysVolumeNos": 119440,
+    "daysVolumeNos": 734242,
     "adjustedOpeningPrice": 6.8,
-    "daysValueMn": 0.81,
-    "openingPrice": 6.9,
+    "daysValueMn": 4.86,
+    "openingPrice": 6.7,
     "marketCapMn": 7524.713,
-    "closingPrice": 6.8,
+    "closingPrice": 6.6,
     "freeFloatMarketCapMn": 4995.141
   },
   "basicInformation": {
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 16.14,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 15.68,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 15.45,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 15,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 6.45,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 6.27,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 6.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 6,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+8801713114661",
     "telephoneNo": "Direct: 02-223382702, 02-223382295 (Ext:209)"
   },
-  "scrapedAt": "2026-09-12T19:44:06.534Z",
+  "scrapedAt": "2026-09-13T15:43:11.703Z",
   "shariaCompliant": false
 }

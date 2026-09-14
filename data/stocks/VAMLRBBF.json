@@ -9,35 +9,35 @@
     "#": 387,
     "TRADING CODE": "VAMLRBBF",
     "tradingCode": "VAMLRBBF",
-    "LTP": 8.2,
-    "HIGH": 8.2,
-    "LOW": 8.1,
+    "LTP": 8,
+    "HIGH": 8.3,
+    "LOW": 8,
     "CLOSEP": 8.1,
-    "YCP": 8.2,
-    "CHANGE": 0,
-    "TRADE": 26,
-    "VALUE (mn)": 1.341,
-    "VOLUME": 165513
+    "YCP": 8.1,
+    "CHANGE": -0.1,
+    "TRADE": 28,
+    "VALUE (mn)": 0.78,
+    "VOLUME": 96600
   },
   "marketInformation": {
-    "lastTradingPrice": 8.2,
+    "lastTradingPrice": 8,
     "daysRange": [
-      8.1,
-      8.2
+      8,
+      8.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.7,
       8.6
     ],
-    "change": 0,
-    "daysTradeNos": 26,
-    "yesterdaysClose": 8.2,
-    "daysVolumeNos": 165513,
-    "adjustedOpeningPrice": 8.2,
-    "daysValueMn": 1.34,
-    "openingPrice": 8.1,
-    "marketCapMn": 1301.709,
+    "change": -0.1,
+    "daysTradeNos": 28,
+    "yesterdaysClose": 8.1,
+    "daysVolumeNos": 96600,
+    "adjustedOpeningPrice": 8.1,
+    "daysValueMn": 0.78,
+    "openingPrice": 8.2,
+    "marketCapMn": 1285.835,
     "closingPrice": 8.1,
     "freeFloatMarketCapMn": 0
   },
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 3.4,
-        "peDiluted": null,
-        "peTrailing": 5.83
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 3.45,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": 3.4,
+        "peDiluted": null,
+        "peTrailing": 5.83
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": 3.4,
         "peDiluted": null,
         "peTrailing": 5.83
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01841 082 262",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:06.728Z",
+  "scrapedAt": "2026-09-13T15:44:18.764Z",
   "shariaCompliant": false
 }

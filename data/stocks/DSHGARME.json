@@ -9,37 +9,37 @@
     "#": 105,
     "TRADING CODE": "DSHGARME",
     "tradingCode": "DSHGARME",
-    "LTP": 150.8,
-    "HIGH": 162.7,
-    "LOW": 149.9,
-    "CLOSEP": 150.8,
-    "YCP": 158.6,
-    "CHANGE": -7.8,
-    "TRADE": 836,
-    "VALUE (mn)": 10.513,
-    "VOLUME": 68221
+    "LTP": 145.6,
+    "HIGH": 155.9,
+    "LOW": 144.3,
+    "CLOSEP": 145.6,
+    "YCP": 150.8,
+    "CHANGE": -5.2,
+    "TRADE": 811,
+    "VALUE (mn)": 9.771,
+    "VOLUME": 65878
   },
   "marketInformation": {
-    "lastTradingPrice": 150.8,
+    "lastTradingPrice": 145.6,
     "daysRange": [
-      149.9,
-      162.7
+      144.3,
+      155.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       85.7,
       197
     ],
-    "change": -7.8,
-    "daysTradeNos": 836,
-    "yesterdaysClose": 158.6,
-    "daysVolumeNos": 68221,
-    "adjustedOpeningPrice": 158.6,
-    "daysValueMn": 10.51,
-    "openingPrice": 158.6,
-    "marketCapMn": 1314.531,
-    "closingPrice": 150.8,
-    "freeFloatMarketCapMn": 591.635
+    "change": -5.2,
+    "daysTradeNos": 811,
+    "yesterdaysClose": 150.8,
+    "daysVolumeNos": 65878,
+    "adjustedOpeningPrice": 150.8,
+    "daysValueMn": 9.77,
+    "openingPrice": 155.9,
+    "marketCapMn": 1249.882,
+    "closingPrice": 145.6,
+    "freeFloatMarketCapMn": 562.539
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 467.95,
-        "peDiluted": null,
-        "peTrailing": 329.62
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 447.59,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 403.93,
         "peDiluted": null,
         "peTrailing": 284.53
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 390,
+        "peDiluted": null,
+        "peTrailing": 274.72
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 239.32,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 228.9,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 206.58,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 199.45,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,6 @@
     "cellNo": "+88 01709 632 710",
     "telephoneNo": "222276019, 222276234"
   },
-  "scrapedAt": "2026-09-12T19:43:25.817Z",
+  "scrapedAt": "2026-09-13T15:42:25.609Z",
   "shariaCompliant": false
 }

@@ -9,37 +9,37 @@
     "#": 155,
     "TRADING CODE": "GREENDELT",
     "tradingCode": "GREENDELT",
-    "LTP": 64.2,
-    "HIGH": 66.5,
-    "LOW": 63.8,
-    "CLOSEP": 64.2,
-    "YCP": 65,
-    "CHANGE": -0.8,
-    "TRADE": 186,
-    "VALUE (mn)": 5.582,
-    "VOLUME": 86374
+    "LTP": 62.4,
+    "HIGH": 64.1,
+    "LOW": 61.1,
+    "CLOSEP": 62.4,
+    "YCP": 64.2,
+    "CHANGE": -1.8,
+    "TRADE": 153,
+    "VALUE (mn)": 2.693,
+    "VOLUME": 43028
   },
   "marketInformation": {
-    "lastTradingPrice": 64.2,
+    "lastTradingPrice": 62.4,
     "daysRange": [
-      63.8,
-      66.5
+      61.1,
+      64.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       43,
       76.1
     ],
-    "change": -0.8,
-    "daysTradeNos": 186,
-    "yesterdaysClose": 65,
-    "daysVolumeNos": 86374,
-    "adjustedOpeningPrice": 65,
-    "daysValueMn": 5.58,
-    "openingPrice": 64.6,
-    "marketCapMn": 6512.233,
-    "closingPrice": 64.2,
-    "freeFloatMarketCapMn": 4520.906
+    "change": -1.8,
+    "daysTradeNos": 153,
+    "yesterdaysClose": 64.2,
+    "daysVolumeNos": 43028,
+    "adjustedOpeningPrice": 64.2,
+    "daysValueMn": 2.69,
+    "openingPrice": 64,
+    "marketCapMn": 6432.082,
+    "closingPrice": 62.4,
+    "freeFloatMarketCapMn": 4465.264
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.28,
-        "peDiluted": null,
-        "peTrailing": 13.21
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 12.82,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 12.39,
         "peDiluted": null,
         "peTrailing": 12.32
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.05,
+        "peDiluted": null,
+        "peTrailing": 11.98
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 12.65,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 12.21,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 11.8,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 11.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 029 747",
     "telephoneNo": "8802 222263902, 222261170, 222281171 Ext-246"
   },
-  "scrapedAt": "2026-09-12T19:43:43.635Z",
+  "scrapedAt": "2026-09-13T15:42:40.149Z",
   "shariaCompliant": false
 }

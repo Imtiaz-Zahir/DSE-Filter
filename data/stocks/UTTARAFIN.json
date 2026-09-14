@@ -9,20 +9,20 @@
     "#": 385,
     "TRADING CODE": "UTTARAFIN",
     "tradingCode": "UTTARAFIN",
-    "LTP": 12.3,
+    "LTP": 12,
     "HIGH": 12.5,
-    "LOW": 11.5,
-    "CLOSEP": 12.3,
-    "YCP": 12.5,
-    "CHANGE": -0.2,
-    "TRADE": 9,
-    "VALUE (mn)": 0.012,
-    "VOLUME": 1015
+    "LOW": 11.9,
+    "CLOSEP": 12,
+    "YCP": 12.3,
+    "CHANGE": -0.3,
+    "TRADE": 28,
+    "VALUE (mn)": 0.09,
+    "VOLUME": 7527
   },
   "marketInformation": {
-    "lastTradingPrice": 12.3,
+    "lastTradingPrice": 12,
     "daysRange": [
-      11.5,
+      11.9,
       12.5
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       8.9,
       15.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 9,
-    "yesterdaysClose": 12.5,
-    "daysVolumeNos": 1015,
-    "adjustedOpeningPrice": 12.5,
-    "daysValueMn": 0.01,
-    "openingPrice": 11.5,
-    "marketCapMn": 1643.519,
-    "closingPrice": 12.3,
-    "freeFloatMarketCapMn": 675.054
+    "change": -0.3,
+    "daysTradeNos": 28,
+    "yesterdaysClose": 12.3,
+    "daysVolumeNos": 7527,
+    "adjustedOpeningPrice": 12.3,
+    "daysValueMn": 0.09,
+    "openingPrice": 12.5,
+    "marketCapMn": 1617.222,
+    "closingPrice": 12,
+    "freeFloatMarketCapMn": 664.253
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 5.76,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 5.63,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 5.49,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 5.36,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1.37,
-        "peDiluted": 1.43
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1.33,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 1.3,
         "peDiluted": 1.37
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 1.27,
+        "peDiluted": 1.33
       }
     ]
   },
@@ -374,6 +374,6 @@
     "cellNo": "+88 01676969599",
     "telephoneNo": "+880-2-41025081-83"
   },
-  "scrapedAt": "2026-09-12T19:45:05.184Z",
+  "scrapedAt": "2026-09-13T15:44:17.916Z",
   "shariaCompliant": false
 }

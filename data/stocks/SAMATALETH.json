@@ -9,37 +9,37 @@
     "#": 323,
     "TRADING CODE": "SAMATALETH",
     "tradingCode": "SAMATALETH",
-    "LTP": 79.2,
-    "HIGH": 84.9,
-    "LOW": 79,
-    "CLOSEP": 79.5,
-    "YCP": 82.6,
-    "CHANGE": -3.4,
-    "TRADE": 435,
-    "VALUE (mn)": 4.288,
-    "VOLUME": 52780
+    "LTP": 74.4,
+    "HIGH": 79.8,
+    "LOW": 73.8,
+    "CLOSEP": 74.4,
+    "YCP": 79.5,
+    "CHANGE": -5.1,
+    "TRADE": 676,
+    "VALUE (mn)": 6.283,
+    "VOLUME": 83115
   },
   "marketInformation": {
-    "lastTradingPrice": 79.2,
+    "lastTradingPrice": 74.4,
     "daysRange": [
-      79,
-      84.9
+      73.8,
+      79.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       73.1,
       124.8
     ],
-    "change": -3.4,
-    "daysTradeNos": 435,
-    "yesterdaysClose": 82.6,
-    "daysVolumeNos": 52780,
-    "adjustedOpeningPrice": 82.6,
-    "daysValueMn": 4.29,
-    "openingPrice": 84.2,
-    "marketCapMn": 852.432,
-    "closingPrice": 79.5,
-    "freeFloatMarketCapMn": 563.723
+    "change": -5.1,
+    "daysTradeNos": 676,
+    "yesterdaysClose": 79.5,
+    "daysVolumeNos": 83115,
+    "adjustedOpeningPrice": 79.5,
+    "daysValueMn": 6.28,
+    "openingPrice": 79.8,
+    "marketCapMn": 820.44,
+    "closingPrice": 74.4,
+    "freeFloatMarketCapMn": 542.567
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "01711391183",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:44:45.561Z",
+  "scrapedAt": "2026-09-13T15:43:53.289Z",
   "shariaCompliant": true
 }

@@ -9,37 +9,37 @@
     "#": 157,
     "TRADING CODE": "HAKKANIPUL",
     "tradingCode": "HAKKANIPUL",
-    "LTP": 69.6,
-    "HIGH": 71,
-    "LOW": 69.3,
-    "CLOSEP": 69.6,
-    "YCP": 69.9,
-    "CHANGE": -0.3,
-    "TRADE": 299,
-    "VALUE (mn)": 4.029,
-    "VOLUME": 57534
+    "LTP": 66.7,
+    "HIGH": 69.6,
+    "LOW": 66.4,
+    "CLOSEP": 66.7,
+    "YCP": 69.6,
+    "CHANGE": -2.9,
+    "TRADE": 506,
+    "VALUE (mn)": 6.464,
+    "VOLUME": 95778
   },
   "marketInformation": {
-    "lastTradingPrice": 69.6,
+    "lastTradingPrice": 66.7,
     "daysRange": [
-      69.3,
-      71
+      66.4,
+      69.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       51.2,
       90.9
     ],
-    "change": -0.3,
-    "daysTradeNos": 299,
-    "yesterdaysClose": 69.9,
-    "daysVolumeNos": 57534,
-    "adjustedOpeningPrice": 69.9,
-    "daysValueMn": 4.03,
-    "openingPrice": 70.6,
-    "marketCapMn": 1328.1,
-    "closingPrice": 69.6,
-    "freeFloatMarketCapMn": 700.249
+    "change": -2.9,
+    "daysTradeNos": 506,
+    "yesterdaysClose": 69.6,
+    "daysVolumeNos": 95778,
+    "adjustedOpeningPrice": 69.6,
+    "daysValueMn": 6.46,
+    "openingPrice": 69.4,
+    "marketCapMn": 1322.4,
+    "closingPrice": 66.7,
+    "freeFloatMarketCapMn": 697.244
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 180.73,
-        "peDiluted": null,
-        "peTrailing": 747
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 170.08,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 168.39,
         "peDiluted": null,
         "peTrailing": 696
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 161.37,
+        "peDiluted": null,
+        "peTrailing": 667
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 1067.14,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 1004.29,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 994.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 952.86,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01714-087510",
     "telephoneNo": "02-333381464, EXT-126,"
   },
-  "scrapedAt": "2026-09-12T19:43:44.803Z",
+  "scrapedAt": "2026-09-13T15:42:43.699Z",
   "shariaCompliant": true
 }

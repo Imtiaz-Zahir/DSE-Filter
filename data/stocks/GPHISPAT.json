@@ -9,37 +9,37 @@
     "#": 151,
     "TRADING CODE": "GPHISPAT",
     "tradingCode": "GPHISPAT",
-    "LTP": 16.2,
-    "HIGH": 16.5,
-    "LOW": 16.1,
-    "CLOSEP": 16.2,
-    "YCP": 16.3,
-    "CHANGE": -0.1,
-    "TRADE": 331,
-    "VALUE (mn)": 7.664,
-    "VOLUME": 473757
+    "LTP": 15.7,
+    "HIGH": 16.7,
+    "LOW": 15.7,
+    "CLOSEP": 15.7,
+    "YCP": 16.2,
+    "CHANGE": -0.5,
+    "TRADE": 828,
+    "VALUE (mn)": 17.84,
+    "VOLUME": 1111277
   },
   "marketInformation": {
-    "lastTradingPrice": 16.2,
+    "lastTradingPrice": 15.7,
     "daysRange": [
-      16.1,
-      16.5
+      15.7,
+      16.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.6,
       21.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 331,
-    "yesterdaysClose": 16.3,
-    "daysVolumeNos": 473757,
-    "adjustedOpeningPrice": 16.3,
-    "daysValueMn": 7.66,
-    "openingPrice": 16.3,
-    "marketCapMn": 7887.3,
-    "closingPrice": 16.2,
-    "freeFloatMarketCapMn": 4965.495
+    "change": -0.5,
+    "daysTradeNos": 828,
+    "yesterdaysClose": 16.2,
+    "daysVolumeNos": 1111277,
+    "adjustedOpeningPrice": 16.2,
+    "daysValueMn": 17.84,
+    "openingPrice": 16.2,
+    "marketCapMn": 7838.912,
+    "closingPrice": 15.7,
+    "freeFloatMarketCapMn": 4935.032
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -140,60 +140,55 @@
     },
     {
       "period": "Annual",
-      "endDate": null,
-      "epsBasic": null,
+      "endDate": "2026-06",
+      "epsBasic": 0.07,
       "epsDiluted": null,
-      "epsContinuingBasic": null,
+      "epsContinuingBasic": 0.07,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": null
+      "marketPriceEnd": 18
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
-        "peBasic": null,
+        "peBasic": 237.14,
         "peDiluted": null,
-        "peTrailing": null
+        "peTrailing": 237.14
       },
       {
         "date": "2026-09-07",
-        "peBasic": null,
+        "peBasic": 241.43,
         "peDiluted": null,
-        "peTrailing": null
+        "peTrailing": 241.43
       },
       {
         "date": "2026-09-08",
-        "peBasic": null,
+        "peBasic": 235.71,
         "peDiluted": null,
-        "peTrailing": null
+        "peTrailing": 235.71
       },
       {
         "date": "2026-09-09",
-        "peBasic": null,
+        "peBasic": 232.86,
         "peDiluted": null,
-        "peTrailing": null
+        "peTrailing": 232.86
       },
       {
         "date": "2026-09-10",
-        "peBasic": null,
+        "peBasic": 231.43,
         "peDiluted": null,
-        "peTrailing": null
+        "peTrailing": 231.43
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 224.29,
+        "peDiluted": null,
+        "peTrailing": 224.29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,6 @@
     "cellNo": "+88 01718 224827",
     "telephoneNo": "+88 031 631460 (Ext: 127), +88 031 2866481"
   },
-  "scrapedAt": "2026-09-12T19:43:41.101Z",
+  "scrapedAt": "2026-09-13T15:42:40.386Z",
   "shariaCompliant": false
 }

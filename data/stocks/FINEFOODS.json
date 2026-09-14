@@ -9,37 +9,37 @@
     "#": 134,
     "TRADING CODE": "FINEFOODS",
     "tradingCode": "FINEFOODS",
-    "LTP": 443.4,
-    "HIGH": 450,
-    "LOW": 440,
-    "CLOSEP": 443.4,
-    "YCP": 445.9,
-    "CHANGE": -2.5,
-    "TRADE": 523,
-    "VALUE (mn)": 20.08,
-    "VOLUME": 45356
+    "LTP": 432.2,
+    "HIGH": 446.3,
+    "LOW": 425,
+    "CLOSEP": 432.2,
+    "YCP": 443.4,
+    "CHANGE": -11.2,
+    "TRADE": 518,
+    "VALUE (mn)": 10.781,
+    "VOLUME": 24964
   },
   "marketInformation": {
-    "lastTradingPrice": 443.4,
+    "lastTradingPrice": 432.2,
     "daysRange": [
-      440,
-      450
+      425,
+      446.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       270,
       595.9
     ],
-    "change": -2.5,
-    "daysTradeNos": 523,
-    "yesterdaysClose": 445.9,
-    "daysVolumeNos": 45356,
-    "adjustedOpeningPrice": 445.9,
-    "daysValueMn": 20.08,
-    "openingPrice": 446.4,
-    "marketCapMn": 6230.97,
-    "closingPrice": 443.4,
-    "freeFloatMarketCapMn": 5362.885
+    "change": -11.2,
+    "daysTradeNos": 518,
+    "yesterdaysClose": 443.4,
+    "daysVolumeNos": 24964,
+    "adjustedOpeningPrice": 443.4,
+    "daysValueMn": 10.78,
+    "openingPrice": 440,
+    "marketCapMn": 6196.035,
+    "closingPrice": 432.2,
+    "freeFloatMarketCapMn": 5332.817
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 44.67,
-        "peDiluted": null,
-        "peTrailing": 59.11
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 42.71,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 42.74,
         "peDiluted": null,
         "peTrailing": 56.56
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 41.66,
+        "peDiluted": null,
+        "peTrailing": 55.13
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 110.86,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 105.98,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 106.08,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 103.4,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01926 766469",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:43:33.552Z",
+  "scrapedAt": "2026-09-13T15:42:34.395Z",
   "shariaCompliant": true
 }

@@ -9,20 +9,20 @@
     "#": 391,
     "TRADING CODE": "WMSHIPYARD",
     "tradingCode": "WMSHIPYARD",
-    "LTP": 8.9,
+    "LTP": 8.5,
     "HIGH": 9,
-    "LOW": 8.8,
-    "CLOSEP": 8.9,
-    "YCP": 8.8,
-    "CHANGE": 0.1,
-    "TRADE": 90,
-    "VALUE (mn)": 1.33,
-    "VOLUME": 149038
+    "LOW": 8.5,
+    "CLOSEP": 8.5,
+    "YCP": 8.9,
+    "CHANGE": -0.4,
+    "TRADE": 212,
+    "VALUE (mn)": 1.717,
+    "VOLUME": 199884
   },
   "marketInformation": {
-    "lastTradingPrice": 8.9,
+    "lastTradingPrice": 8.5,
     "daysRange": [
-      8.8,
+      8.5,
       9
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       6.6,
       11.3
     ],
-    "change": 0.1,
-    "daysTradeNos": 90,
-    "yesterdaysClose": 8.8,
-    "daysVolumeNos": 149038,
-    "adjustedOpeningPrice": 8.8,
-    "daysValueMn": 1.33,
+    "change": -0.4,
+    "daysTradeNos": 212,
+    "yesterdaysClose": 8.9,
+    "daysVolumeNos": 199884,
+    "adjustedOpeningPrice": 8.9,
+    "daysValueMn": 1.72,
     "openingPrice": 9,
-    "marketCapMn": 2069.793,
-    "closingPrice": 8.9,
-    "freeFloatMarketCapMn": 1448.642
+    "marketCapMn": 2093.314,
+    "closingPrice": 8.5,
+    "freeFloatMarketCapMn": 1465.104
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:45:07.645Z",
+  "scrapedAt": "2026-09-13T15:44:21.142Z",
   "shariaCompliant": false
 }

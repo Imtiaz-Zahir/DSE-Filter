@@ -9,37 +9,37 @@
     "#": 248,
     "TRADING CODE": "NHFIL",
     "tradingCode": "NHFIL",
-    "LTP": 26.8,
-    "HIGH": 27.5,
-    "LOW": 26.7,
-    "CLOSEP": 26.8,
-    "YCP": 27.3,
-    "CHANGE": -0.5,
-    "TRADE": 159,
-    "VALUE (mn)": 3.108,
-    "VOLUME": 115580
+    "LTP": 26,
+    "HIGH": 26.8,
+    "LOW": 25.6,
+    "CLOSEP": 26,
+    "YCP": 26.8,
+    "CHANGE": -0.8,
+    "TRADE": 451,
+    "VALUE (mn)": 8.64,
+    "VOLUME": 328909
   },
   "marketInformation": {
-    "lastTradingPrice": 26.8,
+    "lastTradingPrice": 26,
     "daysRange": [
-      26.7,
-      27.5
+      25.6,
+      26.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21,
       33.8
     ],
-    "change": -0.5,
-    "daysTradeNos": 159,
-    "yesterdaysClose": 27.3,
-    "daysVolumeNos": 115580,
-    "adjustedOpeningPrice": 27.3,
-    "daysValueMn": 3.11,
-    "openingPrice": 27.4,
-    "marketCapMn": 3514.447,
-    "closingPrice": 26.8,
-    "freeFloatMarketCapMn": 1600.201
+    "change": -0.8,
+    "daysTradeNos": 451,
+    "yesterdaysClose": 26.8,
+    "daysVolumeNos": 328909,
+    "adjustedOpeningPrice": 26.8,
+    "daysValueMn": 8.64,
+    "openingPrice": 26.8,
+    "marketCapMn": 3450.08,
+    "closingPrice": 26,
+    "freeFloatMarketCapMn": 1570.893
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 32.21,
-        "peDiluted": null,
-        "peTrailing": 38.47
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 31.51,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 31.16,
         "peDiluted": null,
         "peTrailing": 37.22
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 30.23,
+        "peDiluted": null,
+        "peTrailing": 36.11
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 923.33,
-        "peDiluted": 1385
-      },
       {
         "date": "2026-09-06",
         "peBasic": 903.33,
@@ -217,6 +212,11 @@
         "date": "2026-09-10",
         "peBasic": 893.33,
         "peDiluted": 1340
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 866.67,
+        "peDiluted": 1300
       }
     ]
   },
@@ -373,6 +373,6 @@
     "cellNo": "+88 01787 661 913",
     "telephoneNo": "+88 09609200555 Ext: 104"
   },
-  "scrapedAt": "2026-09-12T19:44:15.585Z",
+  "scrapedAt": "2026-09-13T15:43:21.866Z",
   "shariaCompliant": false
 }

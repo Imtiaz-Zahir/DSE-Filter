@@ -13,11 +13,11 @@
     "HIGH": 3,
     "LOW": 2.9,
     "CLOSEP": 3,
-    "YCP": 2.9,
-    "CHANGE": 0.1,
-    "TRADE": 70,
-    "VALUE (mn)": 0.458,
-    "VOLUME": 156376
+    "YCP": 3,
+    "CHANGE": 0,
+    "TRADE": 69,
+    "VALUE (mn)": 0.628,
+    "VOLUME": 212936
   },
   "marketInformation": {
     "lastTradingPrice": 3,
@@ -30,16 +30,16 @@
       1.3,
       4.8
     ],
-    "change": 0.1,
-    "daysTradeNos": 70,
-    "yesterdaysClose": 2.9,
-    "daysVolumeNos": 156376,
-    "adjustedOpeningPrice": 2.9,
-    "daysValueMn": 0.46,
+    "change": 0,
+    "daysTradeNos": 69,
+    "yesterdaysClose": 3,
+    "daysVolumeNos": 212936,
+    "adjustedOpeningPrice": 3,
+    "daysValueMn": 0.63,
     "openingPrice": 3,
-    "marketCapMn": 1163.795,
+    "marketCapMn": 1203.926,
     "closingPrice": 3,
-    "freeFloatMarketCapMn": 868.834
+    "freeFloatMarketCapMn": 898.794
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-12T19:42:59.047Z",
+  "scrapedAt": "2026-09-13T15:41:59.418Z",
   "shariaCompliant": false
 }

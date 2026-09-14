@@ -9,37 +9,37 @@
     "#": 215,
     "TRADING CODE": "MATINSPINN",
     "tradingCode": "MATINSPINN",
-    "LTP": 66.2,
-    "HIGH": 67.7,
-    "LOW": 64.9,
-    "CLOSEP": 66.2,
-    "YCP": 67,
-    "CHANGE": -0.8,
-    "TRADE": 847,
-    "VALUE (mn)": 49.884,
-    "VOLUME": 754755
+    "LTP": 64,
+    "HIGH": 66.7,
+    "LOW": 64,
+    "CLOSEP": 64.2,
+    "YCP": 66.2,
+    "CHANGE": -2.2,
+    "TRADE": 605,
+    "VALUE (mn)": 18.706,
+    "VOLUME": 288616
   },
   "marketInformation": {
-    "lastTradingPrice": 66.2,
+    "lastTradingPrice": 64,
     "daysRange": [
-      64.9,
-      67.7
+      64,
+      66.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       43.8,
       68.7
     ],
-    "change": -0.8,
-    "daysTradeNos": 847,
-    "yesterdaysClose": 67,
-    "daysVolumeNos": 754755,
-    "adjustedOpeningPrice": 67,
-    "daysValueMn": 49.88,
-    "openingPrice": 67.4,
-    "marketCapMn": 6531.83,
-    "closingPrice": 66.2,
-    "freeFloatMarketCapMn": 2017.625
+    "change": -2.2,
+    "daysTradeNos": 605,
+    "yesterdaysClose": 66.2,
+    "daysVolumeNos": 288616,
+    "adjustedOpeningPrice": 66.2,
+    "daysValueMn": 18.71,
+    "openingPrice": 65.7,
+    "marketCapMn": 6453.838,
+    "closingPrice": 64.2,
+    "freeFloatMarketCapMn": 1993.534
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 13.97,
-        "peDiluted": null,
-        "peTrailing": 14.21
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 13.79,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 14.82,
         "peDiluted": null,
         "peTrailing": 15.08
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 14.37,
+        "peDiluted": null,
+        "peTrailing": 14.62
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.28,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.11,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 14.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 13.66,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "01713365457",
     "telephoneNo": "+880-2-58817735 Ext-226"
   },
-  "scrapedAt": "2026-09-12T19:44:04.009Z",
+  "scrapedAt": "2026-09-13T15:43:08.108Z",
   "shariaCompliant": false
 }

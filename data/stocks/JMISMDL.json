@@ -9,37 +9,37 @@
     "#": 192,
     "TRADING CODE": "JMISMDL",
     "tradingCode": "JMISMDL",
-    "LTP": 129.7,
-    "HIGH": 138.4,
-    "LOW": 129.4,
-    "CLOSEP": 129.7,
-    "YCP": 130.7,
-    "CHANGE": -1,
-    "TRADE": 74,
-    "VALUE (mn)": 0.803,
-    "VOLUME": 6140
+    "LTP": 127,
+    "HIGH": 132,
+    "LOW": 126.4,
+    "CLOSEP": 127,
+    "YCP": 129.7,
+    "CHANGE": -2.7,
+    "TRADE": 79,
+    "VALUE (mn)": 1.248,
+    "VOLUME": 9795
   },
   "marketInformation": {
-    "lastTradingPrice": 129.7,
+    "lastTradingPrice": 127,
     "daysRange": [
-      129.4,
-      138.4
+      126.4,
+      132
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       105.9,
       163.4
     ],
-    "change": -1,
-    "daysTradeNos": 74,
-    "yesterdaysClose": 130.7,
-    "daysVolumeNos": 6140,
-    "adjustedOpeningPrice": 130.7,
-    "daysValueMn": 0.8,
-    "openingPrice": 130,
-    "marketCapMn": 3928.319,
-    "closingPrice": 129.7,
-    "freeFloatMarketCapMn": 799.618
+    "change": -2.7,
+    "daysTradeNos": 79,
+    "yesterdaysClose": 129.7,
+    "daysVolumeNos": 9795,
+    "adjustedOpeningPrice": 129.7,
+    "daysValueMn": 1.25,
+    "openingPrice": 129.7,
+    "marketCapMn": 3898.263,
+    "closingPrice": 127,
+    "freeFloatMarketCapMn": 793.5
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 91.54,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 89.26,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 87.05,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 85.23,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01777 742 344",
     "telephoneNo": "55138723, 55138724 Ext no. 307"
   },
-  "scrapedAt": "2026-09-12T19:43:55.391Z",
+  "scrapedAt": "2026-09-13T15:42:57.839Z",
   "shariaCompliant": true
 }

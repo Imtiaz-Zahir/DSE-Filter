@@ -9,37 +9,37 @@
     "#": 255,
     "TRADING CODE": "NTC",
     "tradingCode": "NTC",
-    "LTP": 151.7,
-    "HIGH": 158.5,
-    "LOW": 148.7,
-    "CLOSEP": 151.7,
-    "YCP": 155.3,
-    "CHANGE": -3.6,
-    "TRADE": 91,
-    "VALUE (mn)": 0.398,
-    "VOLUME": 2621
+    "LTP": 150,
+    "HIGH": 152.2,
+    "LOW": 148.2,
+    "CLOSEP": 149.5,
+    "YCP": 151.7,
+    "CHANGE": -1.7,
+    "TRADE": 24,
+    "VALUE (mn)": 0.104,
+    "VOLUME": 696
   },
   "marketInformation": {
-    "lastTradingPrice": 151.7,
+    "lastTradingPrice": 150,
     "daysRange": [
-      148.7,
-      158.5
+      148.2,
+      152.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       141,
       199
     ],
-    "change": -3.6,
-    "daysTradeNos": 91,
-    "yesterdaysClose": 155.3,
-    "daysVolumeNos": 2621,
-    "adjustedOpeningPrice": 155.3,
-    "daysValueMn": 0.4,
-    "openingPrice": 154,
-    "marketCapMn": 4620.175,
-    "closingPrice": 151.7,
-    "freeFloatMarketCapMn": 1010.211
+    "change": -1.7,
+    "daysTradeNos": 24,
+    "yesterdaysClose": 151.7,
+    "daysVolumeNos": 696,
+    "adjustedOpeningPrice": 151.7,
+    "daysValueMn": 0.1,
+    "openingPrice": 152,
+    "marketCapMn": 4513.075,
+    "closingPrice": 149.5,
+    "freeFloatMarketCapMn": 986.794
   },
   "basicInformation": {
     "authorizedCapitalMn": 400,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null,
@@ -182,6 +176,12 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,11 +189,6 @@
     ],
     "audited": [
       {
-        "date": "2026-09-03",
-        "peBasic": null,
-        "peDiluted": null
-      },
-      {
         "date": "2026-09-06",
         "peBasic": null,
         "peDiluted": null
@@ -215,6 +210,11 @@
       },
       {
         "date": "2026-09-10",
+        "peBasic": null,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,6 @@
     "cellNo": "+88 01313422906",
     "telephoneNo": "9515929"
   },
-  "scrapedAt": "2026-09-12T19:44:17.322Z",
+  "scrapedAt": "2026-09-13T15:43:24.259Z",
   "shariaCompliant": false
 }

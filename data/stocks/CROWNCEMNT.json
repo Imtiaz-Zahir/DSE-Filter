@@ -9,37 +9,37 @@
     "#": 89,
     "TRADING CODE": "CROWNCEMNT",
     "tradingCode": "CROWNCEMNT",
-    "LTP": 59.6,
-    "HIGH": 62,
-    "LOW": 59.4,
-    "CLOSEP": 59.7,
-    "YCP": 59.4,
-    "CHANGE": 0.2,
-    "TRADE": 61,
-    "VALUE (mn)": 0.589,
-    "VOLUME": 9855
+    "LTP": 57.6,
+    "HIGH": 60.2,
+    "LOW": 57.6,
+    "CLOSEP": 57.8,
+    "YCP": 59.7,
+    "CHANGE": -2.1,
+    "TRADE": 57,
+    "VALUE (mn)": 0.345,
+    "VOLUME": 5895
   },
   "marketInformation": {
-    "lastTradingPrice": 59.6,
+    "lastTradingPrice": 57.6,
     "daysRange": [
-      59.4,
-      62
+      57.6,
+      60.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44,
       74.7
     ],
-    "change": 0.2,
-    "daysTradeNos": 61,
-    "yesterdaysClose": 59.4,
-    "daysVolumeNos": 9855,
-    "adjustedOpeningPrice": 59.4,
-    "daysValueMn": 0.59,
-    "openingPrice": 59.4,
-    "marketCapMn": 8820.9,
-    "closingPrice": 59.7,
-    "freeFloatMarketCapMn": 3914.584
+    "change": -2.1,
+    "daysTradeNos": 57,
+    "yesterdaysClose": 59.7,
+    "daysVolumeNos": 5895,
+    "adjustedOpeningPrice": 59.7,
+    "daysValueMn": 0.35,
+    "openingPrice": 60.2,
+    "marketCapMn": 8865.45,
+    "closingPrice": 57.8,
+    "freeFloatMarketCapMn": 3934.355
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,12 +151,6 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-03",
-        "peBasic": 27.62,
-        "peDiluted": null,
-        "peTrailing": 23.53
-      },
-      {
         "date": "2026-09-06",
         "peBasic": 27.22,
         "peDiluted": null,
@@ -185,14 +179,15 @@
         "peBasic": 26.34,
         "peDiluted": null,
         "peTrailing": 22.44
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 25.5,
+        "peDiluted": null,
+        "peTrailing": 21.73
       }
     ],
     "audited": [
-      {
-        "date": "2026-09-03",
-        "peBasic": 13.85,
-        "peDiluted": null
-      },
       {
         "date": "2026-09-06",
         "peBasic": 13.65,
@@ -216,6 +211,11 @@
       {
         "date": "2026-09-10",
         "peBasic": 13.21,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-13",
+        "peBasic": 12.79,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,6 @@
     "cellNo": "+88 01730 709 003",
     "telephoneNo": "02-222263631, 02-222261633, 02-222262634, 02-222284636, 02-222290641 Ext.- 120"
   },
-  "scrapedAt": "2026-09-12T19:43:21.872Z",
+  "scrapedAt": "2026-09-13T15:42:21.145Z",
   "shariaCompliant": false
 }

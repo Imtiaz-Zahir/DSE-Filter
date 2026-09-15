@@ -1,19 +1,13 @@
 "use client";
 
-import React, { useState, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import {
-  ArrowUpDown,
-  ArrowUp,
-  ArrowDown,
-  ShieldCheck,
-  Columns,
-  Check,
-} from "lucide-react";
+import { ArrowDown, ArrowUp, ArrowUpDown, Columns } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
+  DropdownMenuCheckboxItem,
   DropdownMenuContent,
   DropdownMenuGroup,
   DropdownMenuItem,
@@ -23,31 +17,53 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { AnyStock, SortConfig, SortField } from "@/lib/types";
 import {
-  getTradingCode,
-  getCompanyName,
-  getSector,
+  get52WeekRange,
+  getAuditedPe,
+  getAuthorizedCap,
   getCategory,
-  getShariaCompliant,
-  getLtp,
   getChange,
   getChangePct,
-  getPe,
-  getDivYieldPct,
-  getPbRatio,
-  getNav,
-  getEps,
-  getMarketCap,
-  getTurnover,
+  getCompanyName,
+  getDayHigh,
+  getDayLow,
   getDebt,
+  getDivYieldPct,
+  getEps,
+  getForeignPct,
+  getFreeFloatCap,
+  getGovtPct,
+  getInstitutePct,
+  getInstrumentType,
+  getListingYear,
+  getLtp,
+  getMarketCap,
+  getNav,
+  getNetProfitMn,
+  getOperationalStatus,
+  getPaidUpCap,
+  getPbRatio,
+  getPe,
+  getPublicPct,
+  getScripCode,
+  getSector,
+  getShariaCompliant,
   getSponsorPct,
+  getTrades,
+  getTradingCode,
+  getTurnover,
+  getUnauditedPe,
+  getVolume,
+  getYcp,
 } from "@/lib/stocks";
 import {
   formatBDT,
-  formatPct,
-  formatNumber,
+  formatInteger,
   formatLargeNumber,
+  formatNumber,
+  formatPct,
   getCategoryBadgeVariant,
   getChangeColorClass,
+  cn,
 } from "@/lib/utils";
 
 interface StockTableProps {
@@ -61,35 +77,548 @@ interface StockTableProps {
 type ColumnKey =
   | "sector"
   | "category"
+  | "scripCode"
+  | "listingYear"
+  | "instrumentType"
+  | "operationalStatus"
   | "ltp"
   | "changePct"
+  | "change"
+  | "ycp"
+  | "high"
+  | "low"
+  | "range52WeekLow"
+  | "range52WeekHigh"
   | "pe"
+  | "auditedPe"
+  | "unauditedPe"
   | "divYield"
   | "pb"
   | "nav"
   | "eps"
+  | "netProfit"
   | "marketCap"
+  | "freeFloatCap"
+  | "paidUpCap"
+  | "authorizedCap"
   | "turnover"
+  | "volume"
+  | "trades"
   | "debt"
-  | "sponsorPct";
+  | "sponsorPct"
+  | "institutePct"
+  | "foreignPct"
+  | "publicPct"
+  | "govtPct";
+
+type ColumnGroup =
+  | "Company"
+  | "Price"
+  | "Valuation"
+  | "Financials"
+  | "Trading"
+  | "Ownership";
+
+interface ColumnDefinition {
+  key: ColumnKey;
+  label: string;
+  header: string;
+  group: ColumnGroup;
+  sortField: SortField;
+  defaultVisible: boolean;
+  align: "left" | "center" | "right";
+  widthClass: string;
+  cellClassName?: string | ((stock: AnyStock) => string);
+  render: (stock: AnyStock) => React.ReactNode;
+}
+
+function formatRatio(value: number | null): string {
+  return value !== null ? `${formatNumber(value)}x` : "-";
+}
+
+function formatHolding(value: number | null): string {
+  return value !== null ? `${formatNumber(value)}%` : "-";
+}
+
+const columnDefinitions: readonly ColumnDefinition[] = [
+  {
+    key: "sector",
+    label: "Sector",
+    header: "Sector",
+    group: "Company",
+    sortField: "sector",
+    defaultVisible: true,
+    align: "left",
+    widthClass: "min-w-[120px]",
+    cellClassName: "text-muted-foreground truncate max-w-[130px]",
+    render: getSector,
+  },
+  {
+    key: "category",
+    label: "Category",
+    header: "Cat",
+    group: "Company",
+    sortField: "category",
+    defaultVisible: true,
+    align: "center",
+    widthClass: "w-16 min-w-16",
+    render: (stock) => {
+      const category = getCategory(stock);
+      return (
+        <Badge
+          variant={getCategoryBadgeVariant(category)}
+          className="text-[10px] px-1.5 py-0 h-4.5 font-bold"
+        >
+          {category}
+        </Badge>
+      );
+    },
+  },
+  {
+    key: "scripCode",
+    label: "Scrip Code",
+    header: "Scrip Code",
+    group: "Company",
+    sortField: "scripCode",
+    defaultVisible: false,
+    align: "left",
+    widthClass: "min-w-[95px]",
+    cellClassName: "font-mono text-muted-foreground",
+    render: (stock) => getScripCode(stock) || "-",
+  },
+  {
+    key: "listingYear",
+    label: "Listing Year",
+    header: "Listed",
+    group: "Company",
+    sortField: "listingYear",
+    defaultVisible: false,
+    align: "center",
+    widthClass: "min-w-[80px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => getListingYear(stock) ?? "-",
+  },
+  {
+    key: "instrumentType",
+    label: "Instrument Type",
+    header: "Instrument",
+    group: "Company",
+    sortField: "instrumentType",
+    defaultVisible: false,
+    align: "left",
+    widthClass: "min-w-[115px]",
+    cellClassName: "text-muted-foreground",
+    render: getInstrumentType,
+  },
+  {
+    key: "operationalStatus",
+    label: "Operational Status",
+    header: "Status",
+    group: "Company",
+    sortField: "operationalStatus",
+    defaultVisible: false,
+    align: "left",
+    widthClass: "min-w-[130px]",
+    cellClassName: "text-muted-foreground",
+    render: getOperationalStatus,
+  },
+  {
+    key: "ltp",
+    label: "LTP (৳)",
+    header: "LTP (৳)",
+    group: "Price",
+    sortField: "ltp",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "font-semibold sm:text-sm text-foreground",
+    render: (stock) => formatBDT(getLtp(stock)),
+  },
+  {
+    key: "changePct",
+    label: "Change %",
+    header: "Change %",
+    group: "Price",
+    sortField: "changePct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: (stock) =>
+      cn("font-semibold", getChangeColorClass(getChange(stock))),
+    render: (stock) => formatPct(getChangePct(stock)),
+  },
+  {
+    key: "change",
+    label: "Change (৳)",
+    header: "Change (৳)",
+    group: "Price",
+    sortField: "change",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[95px]",
+    cellClassName: (stock) =>
+      cn("font-semibold", getChangeColorClass(getChange(stock))),
+    render: (stock) => formatBDT(getChange(stock)),
+  },
+  {
+    key: "ycp",
+    label: "Previous Close",
+    header: "Prev Close",
+    group: "Price",
+    sortField: "ycp",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[100px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(getYcp(stock)),
+  },
+  {
+    key: "high",
+    label: "Day High",
+    header: "Day High",
+    group: "Price",
+    sortField: "high",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(getDayHigh(stock)),
+  },
+  {
+    key: "low",
+    label: "Day Low",
+    header: "Day Low",
+    group: "Price",
+    sortField: "low",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(getDayLow(stock)),
+  },
+  {
+    key: "range52WeekLow",
+    label: "52W Low",
+    header: "52W Low",
+    group: "Price",
+    sortField: "range52WeekLow",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(get52WeekRange(stock)?.[0]),
+  },
+  {
+    key: "range52WeekHigh",
+    label: "52W High",
+    header: "52W High",
+    group: "Price",
+    sortField: "range52WeekHigh",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(get52WeekRange(stock)?.[1]),
+  },
+  {
+    key: "pe",
+    label: "P/E",
+    header: "P/E",
+    group: "Valuation",
+    sortField: "pe",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-20",
+    cellClassName: "font-medium",
+    render: (stock) => formatRatio(getPe(stock)),
+  },
+  {
+    key: "auditedPe",
+    label: "Audited P/E",
+    header: "Audited P/E",
+    group: "Valuation",
+    sortField: "auditedPe",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[105px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatRatio(getAuditedPe(stock)),
+  },
+  {
+    key: "unauditedPe",
+    label: "Unaudited P/E",
+    header: "Unaudited P/E",
+    group: "Valuation",
+    sortField: "unauditedPe",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[115px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatRatio(getUnauditedPe(stock)),
+  },
+  {
+    key: "divYield",
+    label: "Dividend Yield %",
+    header: "Yield %",
+    group: "Valuation",
+    sortField: "divYield",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-20",
+    cellClassName: "font-medium",
+    render: (stock) => {
+      const value = getDivYieldPct(stock);
+      return value !== null ? `${formatNumber(value)}%` : "-";
+    },
+  },
+  {
+    key: "pb",
+    label: "P/B",
+    header: "P/B",
+    group: "Valuation",
+    sortField: "pb",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-16",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatRatio(getPbRatio(stock)),
+  },
+  {
+    key: "nav",
+    label: "NAV (৳)",
+    header: "NAV (৳)",
+    group: "Financials",
+    sortField: "nav",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-[85px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(getNav(stock)),
+  },
+  {
+    key: "eps",
+    label: "EPS (৳)",
+    header: "EPS (৳)",
+    group: "Financials",
+    sortField: "eps",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-[85px]",
+    cellClassName: (stock) =>
+      cn(
+        "font-medium",
+        getEps(stock) !== null && getEps(stock)! < 0
+          ? "text-rose-600 dark:text-rose-400"
+          : "text-foreground",
+      ),
+    render: (stock) => formatBDT(getEps(stock)),
+  },
+  {
+    key: "netProfit",
+    label: "Net Profit",
+    header: "Net Profit",
+    group: "Financials",
+    sortField: "netProfit",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[110px]",
+    cellClassName: (stock) =>
+      getChangeColorClass(getNetProfitMn(stock)),
+    render: (stock) => formatLargeNumber(getNetProfitMn(stock)),
+  },
+  {
+    key: "marketCap",
+    label: "Market Cap",
+    header: "Mkt Cap",
+    group: "Financials",
+    sortField: "marketCap",
+    defaultVisible: true,
+    align: "right",
+    widthClass: "min-w-[110px]",
+    cellClassName: "font-medium text-foreground",
+    render: (stock) => formatLargeNumber(getMarketCap(stock)),
+  },
+  {
+    key: "freeFloatCap",
+    label: "Free-Float Market Cap",
+    header: "Free Float Cap",
+    group: "Financials",
+    sortField: "freeFloatCap",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[125px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatLargeNumber(getFreeFloatCap(stock)),
+  },
+  {
+    key: "paidUpCap",
+    label: "Paid-Up Capital",
+    header: "Paid-Up Cap",
+    group: "Financials",
+    sortField: "paidUpCap",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[115px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatLargeNumber(getPaidUpCap(stock)),
+  },
+  {
+    key: "authorizedCap",
+    label: "Authorized Capital",
+    header: "Authorized Cap",
+    group: "Financials",
+    sortField: "authorizedCap",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[130px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatLargeNumber(getAuthorizedCap(stock)),
+  },
+  {
+    key: "turnover",
+    label: "Turnover",
+    header: "Turnover",
+    group: "Trading",
+    sortField: "turnover",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[100px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatLargeNumber(getTurnover(stock)),
+  },
+  {
+    key: "volume",
+    label: "Volume",
+    header: "Volume",
+    group: "Trading",
+    sortField: "volume",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[100px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatInteger(getVolume(stock)),
+  },
+  {
+    key: "trades",
+    label: "Trades",
+    header: "Trades",
+    group: "Trading",
+    sortField: "trades",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[80px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatInteger(getTrades(stock)),
+  },
+  {
+    key: "debt",
+    label: "Debt (Mn)",
+    header: "Debt (Mn)",
+    group: "Financials",
+    sortField: "debt",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => {
+      const debt = getDebt(stock);
+      return debt > 0 ? `৳${formatNumber(debt)}M` : "Nil";
+    },
+  },
+  {
+    key: "sponsorPct",
+    label: "Sponsor %",
+    header: "Sponsor %",
+    group: "Ownership",
+    sortField: "sponsorPct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatHolding(getSponsorPct(stock)),
+  },
+  {
+    key: "institutePct",
+    label: "Institution %",
+    header: "Institution %",
+    group: "Ownership",
+    sortField: "institutePct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[105px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatHolding(getInstitutePct(stock)),
+  },
+  {
+    key: "foreignPct",
+    label: "Foreign %",
+    header: "Foreign %",
+    group: "Ownership",
+    sortField: "foreignPct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatHolding(getForeignPct(stock)),
+  },
+  {
+    key: "publicPct",
+    label: "Public %",
+    header: "Public %",
+    group: "Ownership",
+    sortField: "publicPct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[85px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatHolding(getPublicPct(stock)),
+  },
+  {
+    key: "govtPct",
+    label: "Government %",
+    header: "Government %",
+    group: "Ownership",
+    sortField: "govtPct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[110px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatHolding(getGovtPct(stock)),
+  },
+];
 
 const COLUMNS_STORAGE_KEY = "dsefilter_table_columns";
 
-const defaultVisibleColumns: Record<ColumnKey, boolean> = {
-  sector: true,
-  category: true,
-  ltp: true,
-  changePct: false,
-  pe: true,
-  divYield: true,
-  pb: true,
-  nav: true,
-  eps: true,
-  marketCap: true,
-  turnover: false,
-  debt: false,
-  sponsorPct: false,
-};
+const columnGroups: readonly ColumnGroup[] = [
+  "Company",
+  "Price",
+  "Valuation",
+  "Financials",
+  "Trading",
+  "Ownership",
+];
+
+const defaultVisibleColumns = Object.fromEntries(
+  columnDefinitions.map((column) => [column.key, column.defaultVisible]),
+) as Record<ColumnKey, boolean>;
+
+const allVisibleColumns = Object.fromEntries(
+  columnDefinitions.map((column) => [column.key, true]),
+) as Record<ColumnKey, boolean>;
+
+const alignmentClasses = {
+  left: { header: "text-left", content: "justify-start", cell: "text-left" },
+  center: {
+    header: "text-center",
+    content: "justify-center",
+    cell: "text-center",
+  },
+  right: {
+    header: "text-right",
+    content: "justify-end",
+    cell: "text-right",
+  },
+} as const;
 
 export function StockTable({
   stocks,
@@ -98,29 +627,58 @@ export function StockTable({
   selectedCodes,
   onToggleSelect,
 }: StockTableProps) {
-  const [visibleColumns, setVisibleColumns] = useState<Record<ColumnKey, boolean>>(() => {
-    if (typeof window !== "undefined") {
-      try {
-        const saved = localStorage.getItem(COLUMNS_STORAGE_KEY);
-        if (saved) {
-          return { ...defaultVisibleColumns, ...JSON.parse(saved) };
-        }
-      } catch {}
-    }
-    return defaultVisibleColumns;
-  });
+  const [visibleColumns, setVisibleColumns] =
+    useState<Record<ColumnKey, boolean>>(defaultVisibleColumns);
 
   const [isScrolled, setIsScrolled] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const toggleColumn = (key: ColumnKey) => {
-    setVisibleColumns((prev) => {
-      const updated = { ...prev, [key]: !prev[key] };
-      try {
-        localStorage.setItem(COLUMNS_STORAGE_KEY, JSON.stringify(updated));
-      } catch {}
-      return updated;
-    });
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(COLUMNS_STORAGE_KEY);
+      if (!saved) return;
+
+      const parsed: unknown = JSON.parse(saved);
+      if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) return;
+
+      const restored = { ...defaultVisibleColumns };
+      const savedColumns = parsed as Record<string, unknown>;
+      columnDefinitions.forEach((column) => {
+        const savedValue = savedColumns[column.key];
+        if (typeof savedValue === "boolean") {
+          restored[column.key] = savedValue;
+        }
+      });
+      setVisibleColumns(restored);
+
+      setSortConfig((currentSort) => {
+        const sortedColumn = columnDefinitions.find(
+          (column) => column.sortField === currentSort.field,
+        );
+        return sortedColumn && !restored[sortedColumn.key]
+          ? { field: "tradingCode", direction: "asc" }
+          : currentSort;
+      });
+    } catch {}
+  }, [setSortConfig]);
+
+  const applyVisibleColumns = (next: Record<ColumnKey, boolean>) => {
+    setVisibleColumns(next);
+    try {
+      localStorage.setItem(COLUMNS_STORAGE_KEY, JSON.stringify(next));
+    } catch {}
+
+    const sortedColumn = columnDefinitions.find(
+      (column) => column.sortField === sortConfig.field,
+    );
+    if (sortedColumn && !next[sortedColumn.key]) {
+      setSortConfig({ field: "tradingCode", direction: "asc" });
+    }
+  };
+
+  const setColumnVisibility = (key: ColumnKey, isVisible: boolean) => {
+    if (visibleColumns[key] === isVisible) return;
+    applyVisibleColumns({ ...visibleColumns, [key]: isVisible });
   };
 
   const handleScroll = () => {
@@ -143,7 +701,7 @@ export function StockTable({
       }
       return {
         field,
-        direction: "desc", // Default to descending for numbers
+        direction: "desc",
       };
     });
   };
@@ -159,21 +717,25 @@ export function StockTable({
     );
   };
 
-  const columnsList: { key: ColumnKey; label: string }[] = [
-    { key: "sector", label: "Sector" },
-    { key: "category", label: "Category" },
-    { key: "ltp", label: "LTP (৳)" },
-    { key: "changePct", label: "Change %" },
-    { key: "pe", label: "P/E" },
-    { key: "divYield", label: "Div Yield %" },
-    { key: "pb", label: "P/B" },
-    { key: "nav", label: "NAV (৳)" },
-    { key: "eps", label: "EPS (৳)" },
-    { key: "marketCap", label: "Market Cap" },
-    { key: "turnover", label: "Turnover" },
-    { key: "debt", label: "Debt (Mn)" },
-    { key: "sponsorPct", label: "Sponsor %" },
-  ];
+  const getAriaSort = (field: SortField): "ascending" | "descending" | "none" => {
+    if (sortConfig.field !== field) return "none";
+    return sortConfig.direction === "asc" ? "ascending" : "descending";
+  };
+
+  const handleHeaderKeyDown = (e: React.KeyboardEvent, field: SortField) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      handleSort(field);
+    }
+  };
+
+  const visibleColumnDefinitions = columnDefinitions.filter(
+    (column) => visibleColumns[column.key],
+  );
+  const allColumnsShown = visibleColumnDefinitions.length === columnDefinitions.length;
+  const usingDefaultColumns = columnDefinitions.every(
+    (column) => visibleColumns[column.key] === column.defaultVisible,
+  );
 
   return (
     <div className="space-y-2">
@@ -204,23 +766,49 @@ export function StockTable({
                 </Button>
               }
             />
-            <DropdownMenuContent align="end" className="w-48 text-xs">
+            <DropdownMenuContent align="end" className="w-64 text-xs">
               <DropdownMenuGroup>
                 <DropdownMenuLabel className="text-[11px] text-muted-foreground uppercase">
-                  Toggle Columns
+                  Visible Columns
                 </DropdownMenuLabel>
                 <DropdownMenuSeparator />
-                {columnsList.map((col) => (
-                  <DropdownMenuItem
-                    key={col.key}
-                    onClick={() => toggleColumn(col.key)}
-                    className="flex items-center justify-between cursor-pointer py-1.5"
-                  >
-                    <span>{col.label}</span>
-                    {visibleColumns[col.key] && <Check className="size-3.5 text-primary" />}
-                  </DropdownMenuItem>
-                ))}
+                <DropdownMenuItem
+                  disabled={allColumnsShown}
+                  onClick={() => applyVisibleColumns({ ...allVisibleColumns })}
+                  className="cursor-pointer py-1.5"
+                >
+                  Show all columns
+                </DropdownMenuItem>
+                <DropdownMenuItem
+                  disabled={usingDefaultColumns}
+                  onClick={() => applyVisibleColumns({ ...defaultVisibleColumns })}
+                  className="cursor-pointer py-1.5"
+                >
+                  Reset to defaults
+                </DropdownMenuItem>
               </DropdownMenuGroup>
+              {columnGroups.map((group) => (
+                <DropdownMenuGroup key={group}>
+                  <DropdownMenuSeparator />
+                  <DropdownMenuLabel className="text-[10px] uppercase tracking-wide">
+                    {group}
+                  </DropdownMenuLabel>
+                  {columnDefinitions
+                    .filter((column) => column.group === group)
+                    .map((column) => (
+                      <DropdownMenuCheckboxItem
+                        key={column.key}
+                        checked={visibleColumns[column.key]}
+                        onCheckedChange={(checked) =>
+                          setColumnVisibility(column.key, checked === true)
+                        }
+                        className="cursor-pointer py-1.5 text-xs"
+                      >
+                        {column.label}
+                      </DropdownMenuCheckboxItem>
+                    ))}
+                </DropdownMenuGroup>
+              ))}
             </DropdownMenuContent>
           </DropdownMenu>
         </div>
@@ -237,14 +825,22 @@ export function StockTable({
             <thead className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md shadow-xs">
               <tr className="hover:bg-transparent">
                 {/* Compare Checkbox Header */}
-                <th className="sticky top-0 left-0 z-30 w-10 min-w-10 max-w-10 bg-muted/95 dark:bg-card/95 backdrop-blur-md px-2.5 text-center border-b border-border/80 h-10 align-middle">
+                <th
+                  scope="col"
+                  className="sticky top-0 left-0 z-30 w-10 min-w-10 max-w-10 bg-muted/95 dark:bg-card/95 backdrop-blur-md px-2.5 text-center border-b border-border/80 h-10 align-middle"
+                >
                   <span className="sr-only">Compare</span>
                 </th>
 
                 {/* Sticky Trading Code Column Header */}
                 <th
+                  scope="col"
+                  role="columnheader"
+                  tabIndex={0}
+                  aria-sort={getAriaSort("tradingCode")}
                   onClick={() => handleSort("tradingCode")}
-                  className="sticky top-0 left-10 z-30 bg-muted/95 dark:bg-card/95 backdrop-blur-md min-w-[130px] sm:min-w-[160px] cursor-pointer hover:text-foreground font-semibold text-left px-2 border-b border-border/80 h-10 align-middle shadow-[2px_0_4px_-2px_rgba(0,0,0,0.15)] dark:shadow-[2px_0_4px_-2px_rgba(0,0,0,0.4)]"
+                  onKeyDown={(e) => handleHeaderKeyDown(e, "tradingCode")}
+                  className="sticky top-0 left-10 z-30 bg-muted/95 dark:bg-card/95 backdrop-blur-md min-w-[130px] sm:min-w-[160px] cursor-pointer hover:text-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring font-semibold text-left px-2 border-b border-border/80 h-10 align-middle shadow-[2px_0_4px_-2px_rgba(0,0,0,0.15)] dark:shadow-[2px_0_4px_-2px_rgba(0,0,0,0.4)]"
                 >
                   <div className="flex items-center">
                     <span>Trading Code</span>
@@ -252,174 +848,31 @@ export function StockTable({
                   </div>
                 </th>
 
-                {/* Sector */}
-                {visibleColumns.sector && (
-                  <th
-                    onClick={() => handleSort("sector")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground hidden md:table-cell min-w-[120px] text-left px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center">
-                      <span>Sector</span>
-                      {renderSortIcon("sector")}
-                    </div>
-                  </th>
-                )}
+                {visibleColumnDefinitions.map((column) => {
+                  const alignment = alignmentClasses[column.align];
+                  return (
+                    <th
+                      key={column.key}
+                      scope="col"
+                      role="columnheader"
+                      tabIndex={0}
+                      aria-sort={getAriaSort(column.sortField)}
+                      onClick={() => handleSort(column.sortField)}
+                      onKeyDown={(e) => handleHeaderKeyDown(e, column.sortField)}
+                      className={cn(
+                        "sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring px-2 border-b border-border/80 h-10 align-middle font-medium",
+                        alignment.header,
+                        column.widthClass,
+                      )}
+                    >
+                      <div className={cn("flex items-center", alignment.content)}>
+                        <span>{column.header}</span>
+                        {renderSortIcon(column.sortField)}
+                      </div>
+                    </th>
+                  );
+                })}
 
-                {/* Category */}
-                {visibleColumns.category && (
-                  <th
-                    onClick={() => handleSort("category")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-center w-16 px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-center">
-                      <span>Cat</span>
-                      {renderSortIcon("category")}
-                    </div>
-                  </th>
-                )}
-
-                {/* LTP */}
-                {visibleColumns.ltp && (
-                  <th
-                    onClick={() => handleSort("ltp")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>LTP (৳)</span>
-                      {renderSortIcon("ltp")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Change % */}
-                {visibleColumns.changePct && (
-                  <th
-                    onClick={() => handleSort("changePct")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Change %</span>
-                      {renderSortIcon("changePct")}
-                    </div>
-                  </th>
-                )}
-
-                {/* P/E */}
-                {visibleColumns.pe && (
-                  <th
-                    onClick={() => handleSort("pe")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-20 px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>P/E</span>
-                      {renderSortIcon("pe")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Div Yield */}
-                {visibleColumns.divYield && (
-                  <th
-                    onClick={() => handleSort("divYield")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-20 px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Yield %</span>
-                      {renderSortIcon("divYield")}
-                    </div>
-                  </th>
-                )}
-
-                {/* P/B */}
-                {visibleColumns.pb && (
-                  <th
-                    onClick={() => handleSort("pb")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-16 px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>P/B</span>
-                      {renderSortIcon("pb")}
-                    </div>
-                  </th>
-                )}
-
-                {/* NAV */}
-                {visibleColumns.nav && (
-                  <th
-                    onClick={() => handleSort("nav")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>NAV (৳)</span>
-                      {renderSortIcon("nav")}
-                    </div>
-                  </th>
-                )}
-
-                {/* EPS */}
-                {visibleColumns.eps && (
-                  <th
-                    onClick={() => handleSort("eps")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>EPS (৳)</span>
-                      {renderSortIcon("eps")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Market Cap */}
-                {visibleColumns.marketCap && (
-                  <th
-                    onClick={() => handleSort("marketCap")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[110px] px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Mkt Cap</span>
-                      {renderSortIcon("marketCap")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Turnover */}
-                {visibleColumns.turnover && (
-                  <th
-                    onClick={() => handleSort("turnover")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[100px] hidden md:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Turnover</span>
-                      {renderSortIcon("turnover")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Long Term Debt */}
-                {visibleColumns.debt && (
-                  <th
-                    onClick={() => handleSort("debt")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Debt (Mn)</span>
-                      {renderSortIcon("debt")}
-                    </div>
-                  </th>
-                )}
-
-                {/* Sponsor % */}
-                {visibleColumns.sponsorPct && (
-                  <th
-                    onClick={() => handleSort("sponsorPct")}
-                    className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md cursor-pointer hover:text-foreground text-right min-w-[90px] px-2 border-b border-border/80 h-10 align-middle font-medium"
-                  >
-                    <div className="flex items-center justify-end">
-                      <span>Sponsor %</span>
-                      {renderSortIcon("sponsorPct")}
-                    </div>
-                  </th>
-                )}
               </tr>
             </thead>
 
@@ -427,7 +880,7 @@ export function StockTable({
               {stocks.length === 0 ? (
                 <tr>
                   <td
-                    colSpan={14}
+                    colSpan={2 + visibleColumnDefinitions.length}
                     className="h-32 text-center text-sm text-muted-foreground"
                   >
                     No stocks match the current filter criteria.
@@ -437,21 +890,7 @@ export function StockTable({
                 stocks.map((stock) => {
                   const code = getTradingCode(stock);
                   const isChecked = selectedCodes.includes(code);
-                  const ltp = getLtp(stock);
-                  const chg = getChange(stock);
-                  const chgPct = getChangePct(stock);
-                  const pe = getPe(stock);
-                  const yieldPct = getDivYieldPct(stock);
-                  const pb = getPbRatio(stock);
-                  const nav = getNav(stock);
-                  const eps = getEps(stock);
-                  const mktCap = getMarketCap(stock);
-                  const turnover = getTurnover(stock);
-                  const debt = getDebt(stock);
-                  const sponsorPct = getSponsorPct(stock);
-                  const cat = getCategory(stock);
                   const isSharia = getShariaCompliant(stock);
-                  const sector = getSector(stock);
 
                   return (
                     <tr
@@ -505,116 +944,32 @@ export function StockTable({
                             )}
                           </div>
                           <span className="text-[10px] text-muted-foreground truncate max-w-[120px] sm:max-w-[150px]">
-                            {stock.companyName}
+                            {getCompanyName(stock)}
                           </span>
                         </Link>
                       </td>
 
-                      {/* Sector */}
-                      {visibleColumns.sector && (
-                        <td className="hidden md:table-cell text-xs text-muted-foreground truncate max-w-[130px] px-2 py-2 border-b border-border/40">
-                          {sector}
-                        </td>
-                      )}
-
-                      {/* Category */}
-                      {visibleColumns.category && (
-                        <td className="text-center px-2 py-2 border-b border-border/40">
-                          <Badge
-                            variant={getCategoryBadgeVariant(cat)}
-                            className="text-[10px] px-1.5 py-0 h-4.5 font-bold"
+                      {visibleColumnDefinitions.map((column) => {
+                        const alignment = alignmentClasses[column.align];
+                        const cellClassName =
+                          typeof column.cellClassName === "function"
+                            ? column.cellClassName(stock)
+                            : column.cellClassName;
+                        return (
+                          <td
+                            key={column.key}
+                            className={cn(
+                              "px-2 py-2 border-b border-border/40 text-xs",
+                              alignment.cell,
+                              column.widthClass,
+                              cellClassName,
+                            )}
                           >
-                            {cat}
-                          </Badge>
-                        </td>
-                      )}
+                            {column.render(stock)}
+                          </td>
+                        );
+                      })}
 
-                      {/* LTP */}
-                      {visibleColumns.ltp && (
-                        <td className="text-right font-semibold text-xs sm:text-sm text-foreground px-2 py-2 border-b border-border/40">
-                          {formatBDT(ltp)}
-                        </td>
-                      )}
-
-                      {/* Change % */}
-                      {visibleColumns.changePct && (
-                        <td
-                          className={`text-right font-semibold text-xs px-2 py-2 border-b border-border/40 ${getChangeColorClass(
-                            chg
-                          )}`}
-                        >
-                          {formatPct(chgPct)}
-                        </td>
-                      )}
-
-                      {/* P/E */}
-                      {visibleColumns.pe && (
-                        <td className="text-right text-xs font-medium px-2 py-2 border-b border-border/40">
-                          {pe !== null ? `${formatNumber(pe)}x` : "-"}
-                        </td>
-                      )}
-
-                      {/* Yield % */}
-                      {visibleColumns.divYield && (
-                        <td className="text-right text-xs font-medium px-2 py-2 border-b border-border/40">
-                          {yieldPct !== null ? `${formatNumber(yieldPct)}%` : "-"}
-                        </td>
-                      )}
-
-                      {/* P/B */}
-                      {visibleColumns.pb && (
-                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
-                          {pb !== null ? `${formatNumber(pb)}x` : "-"}
-                        </td>
-                      )}
-
-                      {/* NAV */}
-                      {visibleColumns.nav && (
-                        <td className="text-right text-xs text-muted-foreground hidden sm:table-cell px-2 py-2 border-b border-border/40">
-                          {formatBDT(nav)}
-                        </td>
-                      )}
-
-                      {/* EPS */}
-                      {visibleColumns.eps && (
-                        <td
-                          className={`text-right text-xs font-medium hidden sm:table-cell px-2 py-2 border-b border-border/40 ${
-                            eps !== null && eps < 0
-                              ? "text-rose-600 dark:text-rose-400"
-                              : "text-foreground"
-                          }`}
-                        >
-                          {formatBDT(eps)}
-                        </td>
-                      )}
-
-                      {/* Market Cap */}
-                      {visibleColumns.marketCap && (
-                        <td className="text-right text-xs font-medium text-foreground px-2 py-2 border-b border-border/40">
-                          {formatLargeNumber(mktCap)}
-                        </td>
-                      )}
-
-                      {/* Turnover */}
-                      {visibleColumns.turnover && (
-                        <td className="text-right text-xs text-muted-foreground hidden md:table-cell px-2 py-2 border-b border-border/40">
-                          {formatLargeNumber(turnover)}
-                        </td>
-                      )}
-
-                      {/* Debt */}
-                      {visibleColumns.debt && (
-                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
-                          {debt > 0 ? `৳${formatNumber(debt)}M` : "Nil"}
-                        </td>
-                      )}
-
-                      {/* Sponsor % */}
-                      {visibleColumns.sponsorPct && (
-                        <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
-                          {sponsorPct !== null ? `${formatNumber(sponsorPct)}%` : "-"}
-                        </td>
-                      )}
                     </tr>
                   );
                 })

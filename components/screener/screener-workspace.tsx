@@ -8,6 +8,10 @@ import {
   filterAndSortStocks,
   initialFilterState,
 } from "@/lib/stocks";
+import {
+  filtersFromSearchParams,
+  filtersToSearchParams,
+} from "@/lib/filter-params";
 import { SummaryStatsBar } from "@/components/screener/summary-stats-bar";
 import { FilterToolbar } from "@/components/screener/filter-toolbar";
 import { ActiveFilters } from "@/components/screener/active-filters";
@@ -26,23 +30,9 @@ export function ScreenerWorkspace({
 }: ScreenerWorkspaceProps) {
   const searchParams = useSearchParams();
 
-  // Initial filter state from URL search params
-  const [filters, setFilters] = useState<FilterState>(() => {
-    const preset = searchParams?.get("preset") || "all";
-    const sector = searchParams?.get("sector");
-    const cat = searchParams?.get("category");
-    const q = searchParams?.get("q") || "";
-    const sharia = searchParams?.get("sharia") === "true";
-
-    return {
-      ...initialFilterState,
-      preset,
-      searchQuery: q,
-      sectors: sector ? [sector] : [],
-      categories: cat ? [cat] : [],
-      shariaOnly: sharia,
-    };
-  });
+  const [filters, setFilters] = useState<FilterState>(() =>
+    filtersFromSearchParams(searchParams),
+  );
 
   const [sortConfig, setSortConfig] = useState<SortConfig>({
     field: "marketCap",
@@ -53,47 +43,33 @@ export function ScreenerWorkspace({
   const [selectedCodes, setSelectedCodes] = useState<string[]>([]);
   const [drawerOpen, setDrawerOpen] = useState(false);
 
-  // Sync URL params when preset / sector changes
+  // Apply filters when navigating to a different screener URL.
   useEffect(() => {
-    if (!searchParams) return;
-    const urlPreset = searchParams.get("preset");
-    const urlSector = searchParams.get("sector");
-    const urlCat = searchParams.get("category");
-    const urlQ = searchParams.get("q");
-
-    if (urlPreset || urlSector || urlCat || urlQ) {
-      setFilters((prev) => ({
-        ...prev,
-        preset: urlPreset || prev.preset,
-        sectors: urlSector ? [urlSector] : prev.sectors,
-        categories: urlCat ? [urlCat] : prev.categories,
-        searchQuery: urlQ !== null ? urlQ : prev.searchQuery,
-      }));
-    }
+    const nextFilters = filtersFromSearchParams(searchParams);
+    setFilters((currentFilters) =>
+      filtersToSearchParams(currentFilters).toString() ===
+      filtersToSearchParams(nextFilters).toString()
+        ? currentFilters
+        : nextFilters,
+    );
   }, [searchParams]);
 
-  // Sync state to URL search params
+  // Keep every filter in the URL so browser Back restores the complete screener.
   useEffect(() => {
-    const params = new URLSearchParams();
-    if (filters.preset && filters.preset !== "all") params.set("preset", filters.preset);
-    if (filters.searchQuery.trim()) params.set("q", filters.searchQuery.trim());
-    if (filters.sectors.length === 1) params.set("sector", filters.sectors[0]);
-    if (filters.categories.length === 1) params.set("category", filters.categories[0]);
-    if (filters.shariaOnly) params.set("sharia", "true");
-
-    const queryString = params.toString();
+    const queryString = filtersToSearchParams(filters).toString();
     const newUrl = queryString ? `/?${queryString}` : "/";
-    if (typeof window !== "undefined" && window.location.pathname === "/") {
-      window.history.replaceState(null, "", newUrl);
+    if (
+      typeof window !== "undefined" &&
+      window.location.pathname === "/" &&
+      `${window.location.pathname}${window.location.search}` !== newUrl
+    ) {
+      window.history.replaceState(window.history.state, "", newUrl);
     }
-  }, [filters.preset, filters.searchQuery, filters.sectors, filters.categories, filters.shariaOnly]);
+  }, [filters]);
 
   // Reset filters callback
   const handleResetFilters = useCallback(() => {
     setFilters(initialFilterState);
-    if (typeof window !== "undefined" && window.location.pathname === "/") {
-      window.history.replaceState(null, "", "/");
-    }
   }, []);
 
   // Market summary stats

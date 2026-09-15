@@ -14,6 +14,10 @@ export function getTradingCode(stock: AnyStock): string {
   return stock.tradingCode || "";
 }
 
+export function getScripCode(stock: AnyStock): string {
+  return stock.scripCode || "";
+}
+
 export function getCompanyName(stock: AnyStock): string {
   return stock.companyName || stock.tradingCode || "";
 }
@@ -86,15 +90,17 @@ export function getDayLow(stock: AnyStock): number | null {
 }
 
 export function get52WeekRange(stock: AnyStock): [number, number] | null {
-  if ("range52Week" in stock && stock.range52Week) {
-    return stock.range52Week as [number, number];
-  }
-  const range = (stock as Stock).marketInformation?.movingRange52Weeks;
+  const range =
+    "range52Week" in stock
+      ? stock.range52Week
+      : (stock as Stock).marketInformation?.movingRange52Weeks;
   if (
     Array.isArray(range) &&
     range.length === 2 &&
     typeof range[0] === "number" &&
-    typeof range[1] === "number"
+    !isNaN(range[0]) &&
+    typeof range[1] === "number" &&
+    !isNaN(range[1])
   ) {
     return [range[0], range[1]];
   }
@@ -469,7 +475,7 @@ export function filterAndSortStocks<T extends AnyStock>(
       const q = filters.searchQuery.trim().toLowerCase();
       const code = getTradingCode(stock).toLowerCase();
       const name = getCompanyName(stock).toLowerCase();
-      const scrip = (stock.scripCode || "").toLowerCase();
+      const scrip = getScripCode(stock).toLowerCase();
       const sec = getSector(stock).toLowerCase();
       if (!code.includes(q) && !name.includes(q) && !scrip.includes(q) && !sec.includes(q)) {
         return false;
@@ -576,6 +582,10 @@ export function filterAndSortStocks<T extends AnyStock>(
         valA = getTradingCode(a);
         valB = getTradingCode(b);
         break;
+      case "scripCode":
+        valA = getScripCode(a);
+        valB = getScripCode(b);
+        break;
       case "companyName":
         valA = getCompanyName(a);
         valB = getCompanyName(b);
@@ -588,17 +598,57 @@ export function filterAndSortStocks<T extends AnyStock>(
         valA = getCategory(a);
         valB = getCategory(b);
         break;
+      case "instrumentType":
+        valA = getInstrumentType(a);
+        valB = getInstrumentType(b);
+        break;
+      case "operationalStatus":
+        valA = getOperationalStatus(a);
+        valB = getOperationalStatus(b);
+        break;
       case "ltp":
         valA = getLtp(a);
         valB = getLtp(b);
+        break;
+      case "change":
+        valA = getChange(a);
+        valB = getChange(b);
+        break;
+      case "ycp":
+        valA = getYcp(a);
+        valB = getYcp(b);
         break;
       case "changePct":
         valA = getChangePct(a);
         valB = getChangePct(b);
         break;
+      case "high":
+        valA = getDayHigh(a);
+        valB = getDayHigh(b);
+        break;
+      case "low":
+        valA = getDayLow(a);
+        valB = getDayLow(b);
+        break;
+      case "range52WeekLow":
+        valA = get52WeekRange(a)?.[0] ?? null;
+        valB = get52WeekRange(b)?.[0] ?? null;
+        break;
+      case "range52WeekHigh":
+        valA = get52WeekRange(a)?.[1] ?? null;
+        valB = get52WeekRange(b)?.[1] ?? null;
+        break;
       case "pe":
         valA = getPe(a);
         valB = getPe(b);
+        break;
+      case "auditedPe":
+        valA = getAuditedPe(a);
+        valB = getAuditedPe(b);
+        break;
+      case "unauditedPe":
+        valA = getUnauditedPe(a);
+        valB = getUnauditedPe(b);
         break;
       case "divYield":
         valA = getDivYieldPct(a);
@@ -616,13 +666,25 @@ export function filterAndSortStocks<T extends AnyStock>(
         valA = getEps(a);
         valB = getEps(b);
         break;
+      case "netProfit":
+        valA = getNetProfitMn(a);
+        valB = getNetProfitMn(b);
+        break;
       case "marketCap":
         valA = getMarketCap(a);
         valB = getMarketCap(b);
         break;
+      case "freeFloatCap":
+        valA = getFreeFloatCap(a);
+        valB = getFreeFloatCap(b);
+        break;
       case "paidUpCap":
         valA = getPaidUpCap(a);
         valB = getPaidUpCap(b);
+        break;
+      case "authorizedCap":
+        valA = getAuthorizedCap(a);
+        valB = getAuthorizedCap(b);
         break;
       case "turnover":
         valA = getTurnover(a);
@@ -651,6 +713,14 @@ export function filterAndSortStocks<T extends AnyStock>(
       case "foreignPct":
         valA = getForeignPct(a);
         valB = getForeignPct(b);
+        break;
+      case "publicPct":
+        valA = getPublicPct(a);
+        valB = getPublicPct(b);
+        break;
+      case "govtPct":
+        valA = getGovtPct(a);
+        valB = getGovtPct(b);
         break;
       case "listingYear":
         valA = getListingYear(a);

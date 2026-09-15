@@ -51,7 +51,7 @@ export function ScreenerStockList({ stocks = [] }: ScreenerStockListProps) {
                     <span>Trading Code</span>
                   </th>
 
-                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md hidden md:table-cell min-w-[120px] text-left px-2 border-b border-border/80 h-10 align-middle font-medium">
+                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md min-w-[120px] text-left px-2 border-b border-border/80 h-10 align-middle font-medium">
                     <span>Sector</span>
                   </th>
 
@@ -75,11 +75,11 @@ export function ScreenerStockList({ stocks = [] }: ScreenerStockListProps) {
                     <span>P/B</span>
                   </th>
 
-                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium">
+                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md text-right min-w-[85px] px-2 border-b border-border/80 h-10 align-middle font-medium">
                     <span>NAV (৳)</span>
                   </th>
 
-                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md text-right min-w-[85px] hidden sm:table-cell px-2 border-b border-border/80 h-10 align-middle font-medium">
+                  <th className="sticky top-0 z-20 bg-muted/95 dark:bg-card/95 backdrop-blur-md text-right min-w-[85px] px-2 border-b border-border/80 h-10 align-middle font-medium">
                     <span>EPS (৳)</span>
                   </th>
 
@@ -144,7 +144,7 @@ export function ScreenerStockList({ stocks = [] }: ScreenerStockListProps) {
                       </td>
 
                       {/* Sector */}
-                      <td className="hidden md:table-cell text-xs text-muted-foreground truncate max-w-[130px] px-2 py-2 border-b border-border/40">
+                      <td className="text-xs text-muted-foreground truncate max-w-[130px] px-2 py-2 border-b border-border/40">
                         {sector}
                       </td>
 
@@ -179,12 +179,12 @@ export function ScreenerStockList({ stocks = [] }: ScreenerStockListProps) {
                       </td>
 
                       {/* NAV */}
-                      <td className="hidden sm:table-cell text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
+                      <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
                         {formatBDT(nav)}
                       </td>
 
                       {/* EPS */}
-                      <td className="hidden sm:table-cell text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
+                      <td className="text-right text-xs text-muted-foreground px-2 py-2 border-b border-border/40">
                         {formatBDT(eps)}
                       </td>
 

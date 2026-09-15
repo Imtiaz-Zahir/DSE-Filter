@@ -66,8 +66,8 @@ export function formatLargeNumber(valueMn: number | null | undefined): string {
   if (absMn >= 1000) {
     // 1000 Mn = 100 Crore or 1 Billion
     const cr = absMn / 10 // 1 Crore = 10 Million
-    if (cr >= 100) {
-      return `${prefix}${(cr / 100).toFixed(2)}k Cr`
+    if (cr >= 1000) {
+      return `${prefix}${(cr / 1000).toFixed(2)}k Cr`
     }
     return `${prefix}${cr.toFixed(2)} Cr`
   }
@@ -103,4 +103,3 @@ export function getCategoryBadgeVariant(category: string | null | undefined): "d
       return "outline"
   }
 }
-

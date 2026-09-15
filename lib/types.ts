@@ -207,18 +207,32 @@ export interface FilterState {
 
 export type SortField =
   | "tradingCode"
+  | "scripCode"
   | "companyName"
   | "sector"
   | "category"
+  | "instrumentType"
+  | "operationalStatus"
   | "ltp"
+  | "change"
+  | "ycp"
   | "changePct"
+  | "high"
+  | "low"
+  | "range52WeekLow"
+  | "range52WeekHigh"
   | "pe"
+  | "auditedPe"
+  | "unauditedPe"
   | "divYield"
   | "pb"
   | "nav"
   | "eps"
+  | "netProfit"
   | "marketCap"
+  | "freeFloatCap"
   | "paidUpCap"
+  | "authorizedCap"
   | "turnover"
   | "volume"
   | "trades"
@@ -226,6 +240,8 @@ export type SortField =
   | "sponsorPct"
   | "institutePct"
   | "foreignPct"
+  | "publicPct"
+  | "govtPct"
   | "listingYear";
 
 export type SortDirection = "asc" | "desc";
@@ -311,4 +327,3 @@ export interface DseMeta {
   instruments?: string[];
   operationalStatuses?: string[];
 }
-

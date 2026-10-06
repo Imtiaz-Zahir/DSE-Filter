@@ -25,15 +25,17 @@ export const metadata: Metadata = {
     template: "%s | DSE Filter",
   },
   description:
-    "Dhaka Stock Exchange (DSE) stock screener, fundamental analysis and valuation platform. Filter 395+ listed Bangladesh stocks by P/E ratio, Dividend Yield, NAV, EPS, DSES Sharia index compliance, audited financials, and shareholding.",
+    "Dhaka Stock Exchange (DSE) & Chittagong Stock Exchange (CSE) stock screener, fundamental analysis and valuation platform. Filter 415+ listed Bangladesh stocks by P/E ratio, Dividend Yield, NAV, EPS, CSI Sharia index compliance, audited financials, and shareholding.",
   keywords: [
     "DSE",
+    "CSE",
     "Dhaka Stock Exchange",
+    "Chittagong Stock Exchange",
     "DSEBD",
     "DSE Stock Screener",
     "DSE Share Price Today",
     "Bangladesh Stock Market",
-    "DSES Sharia Stocks",
+    "CSI Sharia Stocks",
     "DSE P/E Ratio",
     "High Dividend Stocks Bangladesh",
     "Fundamental Analysis DSE",
@@ -55,16 +57,16 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://dse-filter.1mt2.workers.dev",
-    title: "DSE Filter — Dhaka Stock Exchange Screener & Stock Analytics",
+    title: "DSE Filter — DSE & CSE Stock Screener & Stock Analytics",
     description:
-      "Advanced Dhaka Stock Exchange screener with DSES Sharia filters, fundamental valuation metrics, multi-year audited financials, and shareholding breakdowns.",
+      "Advanced Bangladesh stock market screener with DSE & CSE quotes, CSI Sharia filters, fundamental valuation metrics, multi-year audited financials, and shareholding breakdowns.",
     siteName: "DSE Filter",
   },
   twitter: {
     card: "summary_large_image",
-    title: "DSE Filter — Dhaka Stock Exchange Screener & Stock Analytics",
+    title: "DSE Filter — DSE & CSE Stock Screener & Stock Analytics",
     description:
-      "Advanced Dhaka Stock Exchange screener with DSES Sharia filters, fundamental valuation metrics, and shareholding breakdowns.",
+      "Advanced Bangladesh stock market screener with DSE & CSE quotes, CSI Sharia filters, fundamental valuation metrics, and shareholding breakdowns.",
     creator: "@dsefilter",
   },
   robots: {

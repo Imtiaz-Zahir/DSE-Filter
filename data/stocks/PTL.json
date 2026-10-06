@@ -2,44 +2,44 @@
   "tradingCode": "PTL",
   "scripCode": "17458",
   "companyName": "Paramount Textile PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PTL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PTL",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 293,
     "TRADING CODE": "PTL",
     "tradingCode": "PTL",
-    "LTP": 79,
-    "HIGH": 79.2,
-    "LOW": 77.9,
-    "CLOSEP": 79,
-    "YCP": 78.1,
-    "CHANGE": 0.9,
-    "TRADE": 1966,
-    "VALUE (mn)": 166.678,
-    "VOLUME": 2118180
+    "LTP": 82.3,
+    "HIGH": 83.3,
+    "LOW": 78,
+    "CLOSEP": 82.3,
+    "YCP": 79.8,
+    "CHANGE": 2.5,
+    "TRADE": 3347,
+    "VALUE (mn)": 311.32,
+    "VOLUME": 3849088
   },
   "marketInformation": {
-    "lastTradingPrice": 79,
+    "lastTradingPrice": 82.3,
     "daysRange": [
-      77.9,
-      79.2
+      78,
+      83.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39,
-      79.2
+      86.7
     ],
-    "change": 0.9,
-    "daysTradeNos": 1966,
-    "yesterdaysClose": 78.1,
-    "daysVolumeNos": 2118180,
-    "adjustedOpeningPrice": 78.1,
-    "daysValueMn": 166.68,
-    "openingPrice": 78.1,
-    "marketCapMn": 13989.029,
-    "closingPrice": 79,
-    "freeFloatMarketCapMn": 5462.082
+    "change": 2.5,
+    "daysTradeNos": 3347,
+    "yesterdaysClose": 79.8,
+    "daysVolumeNos": 3849088,
+    "adjustedOpeningPrice": 79.8,
+    "daysValueMn": 311.32,
+    "openingPrice": 79.8,
+    "marketCapMn": 14293.528,
+    "closingPrice": 82.3,
+    "freeFloatMarketCapMn": 5580.975
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 22.21
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 60.95,
-      "govtPct": 0,
-      "institutePct": 14.21,
-      "foreignPct": 4.43,
-      "publicPct": 20.41
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 60.95,
@@ -90,6 +81,15 @@
       "institutePct": 14.95,
       "foreignPct": 4.43,
       "publicPct": 19.67
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 60.95,
+      "govtPct": 0,
+      "institutePct": 15.16,
+      "foreignPct": 4.41,
+      "publicPct": 19.48
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.97,
+        "date": "2026-09-28",
+        "peBasic": 11.59,
         "peDiluted": null,
-        "peTrailing": 11.75
+        "peTrailing": 12.41
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.09,
+        "date": "2026-09-29",
+        "peBasic": 11.79,
         "peDiluted": null,
-        "peTrailing": 11.88
+        "peTrailing": 12.63
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.22,
+        "date": "2026-09-30",
+        "peBasic": 12.5,
         "peDiluted": null,
-        "peTrailing": 12.02
+        "peTrailing": 13.39
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.4,
+        "date": "2026-10-01",
+        "peBasic": 11.95,
         "peDiluted": null,
-        "peTrailing": 12.2
+        "peTrailing": 12.8
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.4,
+        "date": "2026-10-04",
+        "peBasic": 11.64,
         "peDiluted": null,
-        "peTrailing": 12.2
+        "peTrailing": 12.47
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.53,
+        "date": "2026-10-05",
+        "peBasic": 12.01,
         "peDiluted": null,
-        "peTrailing": 12.34
+        "peTrailing": 12.86
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.6,
+        "date": "2026-09-28",
+        "peBasic": 12.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.73,
+        "date": "2026-09-29",
+        "peBasic": 12.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.87,
+        "date": "2026-09-30",
+        "peBasic": 13.23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.05,
+        "date": "2026-10-01",
+        "peBasic": 12.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.05,
+        "date": "2026-10-04",
+        "peBasic": 12.31,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.19,
+        "date": "2026-10-05",
+        "peBasic": 12.7,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01713 236 107",
     "telephoneNo": "+880-2-55049834"
   },
-  "scrapedAt": "2026-09-13T15:43:38.617Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:13.685Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (126.59%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 126.59,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 14293.528,
+      "totalInterestBearingDebt": 18093.77
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PTL",
+  "cseQuote": {
+    "ltp": 81.9,
+    "open": 79.7,
+    "high": 82.7,
+    "low": 76.2,
+    "ycp": 79.7,
+    "change": 2.2,
+    "changePct": 2.76,
+    "trades": 123,
+    "valueMn": 19.08,
+    "volume": 235319,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CASPI",
+    "CSCX"
+  ]
 }

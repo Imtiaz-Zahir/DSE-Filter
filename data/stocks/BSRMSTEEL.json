@@ -2,44 +2,44 @@
   "tradingCode": "BSRMSTEEL",
   "scripCode": "13227",
   "companyName": "BSRM Steels Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BSRMSTEEL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BSRMSTEEL",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 75,
     "TRADING CODE": "BSRMSTEEL",
     "tradingCode": "BSRMSTEEL",
-    "LTP": 83.1,
-    "HIGH": 86.3,
-    "LOW": 82.6,
-    "CLOSEP": 83.1,
-    "YCP": 85.8,
-    "CHANGE": -2.7,
-    "TRADE": 840,
-    "VALUE (mn)": 19.627,
-    "VOLUME": 234350
+    "LTP": 83,
+    "HIGH": 83.7,
+    "LOW": 82.4,
+    "CLOSEP": 83,
+    "YCP": 82.6,
+    "CHANGE": 0.4,
+    "TRADE": 410,
+    "VALUE (mn)": 6.099,
+    "VOLUME": 73584
   },
   "marketInformation": {
-    "lastTradingPrice": 83.1,
+    "lastTradingPrice": 83,
     "daysRange": [
-      82.6,
-      86.3
+      82.4,
+      83.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       55,
       102
     ],
-    "change": -2.7,
-    "daysTradeNos": 840,
-    "yesterdaysClose": 85.8,
-    "daysVolumeNos": 234350,
-    "adjustedOpeningPrice": 85.8,
-    "daysValueMn": 19.63,
-    "openingPrice": 86.3,
-    "marketCapMn": 32256.725,
-    "closingPrice": 83.1,
-    "freeFloatMarketCapMn": 9013.003
+    "change": 0.4,
+    "daysTradeNos": 410,
+    "yesterdaysClose": 82.6,
+    "daysVolumeNos": 73584,
+    "adjustedOpeningPrice": 82.6,
+    "daysValueMn": 6.1,
+    "openingPrice": 82.6,
+    "marketCapMn": 31053.677,
+    "closingPrice": 83,
+    "freeFloatMarketCapMn": 8676.854
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.82,
+        "date": "2026-09-28",
+        "peBasic": 5.5,
         "peDiluted": null,
-        "peTrailing": 5.53
+        "peTrailing": 5.22
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.8,
+        "date": "2026-09-29",
+        "peBasic": 5.45,
         "peDiluted": null,
-        "peTrailing": 5.5
+        "peTrailing": 5.17
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.69,
-        "peDiluted": null,
-        "peTrailing": 5.4
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 5.6,
-        "peDiluted": null,
-        "peTrailing": 5.32
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 5.6,
-        "peDiluted": null,
-        "peTrailing": 5.32
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 5.42,
+        "date": "2026-09-30",
+        "peBasic": 5.43,
         "peDiluted": null,
         "peTrailing": 5.15
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 5.41,
+        "peDiluted": null,
+        "peTrailing": 5.14
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 5.39,
+        "peDiluted": null,
+        "peTrailing": 5.12
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 5.42,
+        "peDiluted": null,
+        "peTrailing": 5.14
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.48,
+        "date": "2026-09-28",
+        "peBasic": 6.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.45,
+        "date": "2026-09-29",
+        "peBasic": 6.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.33,
+        "date": "2026-09-30",
+        "peBasic": 6.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.23,
+        "date": "2026-10-01",
+        "peBasic": 6.02,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.23,
+        "date": "2026-10-04",
+        "peBasic": 6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 6.03,
         "peDiluted": null
       }
@@ -371,6 +371,57 @@
     "cellNo": "+88 01711 790 266",
     "telephoneNo": "+880 31 2854901-10, Ext.- 156"
   },
-  "scrapedAt": "2026-09-13T15:42:13.398Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:20.712Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (71.63%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 71.63,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 31053.677,
+      "totalInterestBearingDebt": 22244.75
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BSRMSTEEL",
+  "cseQuote": {
+    "ltp": 85,
+    "open": 85,
+    "high": 85,
+    "low": 85,
+    "ycp": 85,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CASPI",
+    "CSCX"
+  ]
 }

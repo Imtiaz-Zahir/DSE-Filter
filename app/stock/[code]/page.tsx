@@ -16,7 +16,10 @@ import { formatBDT, formatPct, safeDecodeURIComponent } from "@/lib/utils";
 import { StockJsonLd } from "@/components/stock-detail/stock-jsonld";
 import { StockHeader } from "@/components/stock-detail/stock-header";
 import { PriceRangeGauge } from "@/components/stock-detail/price-range-gauge";
+import { DualExchangeCard } from "@/components/stock-detail/dual-exchange-card";
+import { ShariahComplianceCard } from "@/components/stock-detail/shariah-compliance-card";
 import { ValuationGrid } from "@/components/stock-detail/valuation-grid";
+import { CreditRatingCard } from "@/components/stock-detail/credit-rating-card";
 import { ShareholdingCard } from "@/components/stock-detail/shareholding-card";
 import { AuditedHistoryTable } from "@/components/stock-detail/audited-history-table";
 import { QuarterlyTable } from "@/components/stock-detail/quarterly-table";
@@ -55,14 +58,14 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
   const chgPct = getChangePct(stock);
   const pe = getPe(stock);
   const divYield = getDivYieldPct(stock);
-  const sharia = stock.shariaCompliant ? "DSES Sharia Compliant" : "";
+  const sharia = stock.shariaCompliant ? "Sharia Compliant" : "";
 
-  const title = `${code} Share Price, Financials, P/E & Dividend Yield — ${name} (DSE)`;
+  const title = `${code} Share Price, Financials, P/E & Dividend Yield — ${name} (DSE & CSE)`;
   const description = `${name} (${code}) latest LTP: ${formatBDT(ltp)} (${formatPct(chgPct)}). P/E: ${
     pe ? `${pe}x` : "-"
   }, Div Yield: ${
     divYield ? `${divYield}%` : "-"
-  }. Sector: ${sector}. Category: ${category}. ${sharia}. View 5-year audited financials, NAVPS, EPS, and shareholding records on DSE Filter.`;
+  }. Sector: ${sector}. Category: ${category}. ${sharia}. View live DSE & CSE quotes, 5-year audited financials, NAVPS, EPS, and shareholding records on DSE Filter.`;
 
   return {
     title,
@@ -73,14 +76,16 @@ export async function generateMetadata({ params }: StockPageProps): Promise<Meta
       `${code} share price`,
       `${code} share price today`,
       `${code} DSE`,
+      `${code} CSE`,
       `${code} stock analysis`,
       `${code} dividend yield`,
       `${code} PE ratio`,
       `${code} quarterly EPS`,
       `${code} NAV per share`,
       `${code} shareholding`,
-      `${sector} stocks DSE`,
+      `${sector} stocks Bangladesh`,
       "Dhaka Stock Exchange",
+      "Chittagong Stock Exchange",
       "Bangladesh Stock Market",
     ],
     openGraph: {
@@ -124,8 +129,17 @@ export default async function StockDetailPage({ params }: StockPageProps) {
         {/* Real-Time Price & 52-Week Range Gauge */}
         <PriceRangeGauge stock={stock} />
 
+        {/* Dual-Exchange Trading Quotes (DSE vs CSE) */}
+        <DualExchangeCard stock={stock} />
+
         {/* Valuation & Capital Structure Metrics */}
         <ValuationGrid stock={stock} />
+
+        {/* S&P DSES Shariah Compliance Audit & Dividend Purification */}
+        <ShariahComplianceCard stock={stock} />
+
+        {/* Credit Rating & Solvency Status (if available) */}
+        <CreditRatingCard stock={stock} />
 
         {/* Shareholding Breakdown */}
         <ShareholdingCard stock={stock} />

@@ -2,44 +2,44 @@
   "tradingCode": "UNITEDFIN",
   "scripCode": "11113",
   "companyName": "United Finance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNITEDFIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UNITEDFIN",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 380,
     "TRADING CODE": "UNITEDFIN",
     "tradingCode": "UNITEDFIN",
-    "LTP": 16.3,
-    "HIGH": 16.9,
+    "LTP": 16.2,
+    "HIGH": 16.6,
     "LOW": 16.1,
-    "CLOSEP": 16.3,
-    "YCP": 16.8,
-    "CHANGE": -0.5,
-    "TRADE": 436,
-    "VALUE (mn)": 9.284,
-    "VOLUME": 564403
+    "CLOSEP": 16.2,
+    "YCP": 16.4,
+    "CHANGE": -0.2,
+    "TRADE": 182,
+    "VALUE (mn)": 5.08,
+    "VOLUME": 311605
   },
   "marketInformation": {
-    "lastTradingPrice": 16.3,
+    "lastTradingPrice": 16.2,
     "daysRange": [
       16.1,
-      16.9
+      16.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.4,
       19.9
     ],
-    "change": -0.5,
-    "daysTradeNos": 436,
-    "yesterdaysClose": 16.8,
-    "daysVolumeNos": 564403,
-    "adjustedOpeningPrice": 16.8,
-    "daysValueMn": 9.28,
-    "openingPrice": 16.8,
-    "marketCapMn": 3143.526,
-    "closingPrice": 16.3,
-    "freeFloatMarketCapMn": 1882.069
+    "change": -0.2,
+    "daysTradeNos": 182,
+    "yesterdaysClose": 16.4,
+    "daysVolumeNos": 311605,
+    "adjustedOpeningPrice": 16.4,
+    "daysValueMn": 5.08,
+    "openingPrice": 16.6,
+    "marketCapMn": 3068.68,
+    "closingPrice": 16.2,
+    "freeFloatMarketCapMn": 1837.258
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 46.43
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 40.13,
-      "govtPct": 0,
-      "institutePct": 14.98,
-      "foreignPct": 0,
-      "publicPct": 44.89
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 40.13,
@@ -90,6 +81,15 @@
       "institutePct": 15.83,
       "foreignPct": 0,
       "publicPct": 44.04
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 40.13,
+      "govtPct": 0,
+      "institutePct": 14.49,
+      "foreignPct": 0,
+      "publicPct": 45.38
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 31.3,
-        "peDiluted": null,
-        "peTrailing": 14.57
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 31.85,
-        "peDiluted": null,
-        "peTrailing": 14.83
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 31.48,
-        "peDiluted": null,
-        "peTrailing": 14.66
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 31.48,
-        "peDiluted": null,
-        "peTrailing": 14.66
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 31.11,
         "peDiluted": null,
         "peTrailing": 14.48
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 30.19,
+        "date": "2026-09-29",
+        "peBasic": 31.11,
         "peDiluted": null,
-        "peTrailing": 14.05
+        "peTrailing": 14.48
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 31.48,
+        "peDiluted": null,
+        "peTrailing": 14.66
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 30.93,
+        "peDiluted": null,
+        "peTrailing": 14.4
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 30.37,
+        "peDiluted": null,
+        "peTrailing": 14.14
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 30,
+        "peDiluted": null,
+        "peTrailing": 13.97
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.94,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 16.23,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 16.04,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 16.04,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 15.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.38,
+        "date": "2026-09-29",
+        "peBasic": 15.85,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 16.04,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 15.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 15.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 15.28,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "01714070380",
     "telephoneNo": "+88-2-41062001-04"
   },
-  "scrapedAt": "2026-09-13T15:44:17.039Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:33.747Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (265.2%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 265.2,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3068.68,
+      "totalInterestBearingDebt": 8138.16
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UNITEDFIN",
+  "indices": [
+    "DSEX"
+  ]
 }

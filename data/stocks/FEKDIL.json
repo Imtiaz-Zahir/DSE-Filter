@@ -2,44 +2,44 @@
   "tradingCode": "FEKDIL",
   "scripCode": "17462",
   "companyName": "Far East Knitting & Dyeing Industries PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FEKDIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FEKDIL",
   "lastAGMHeldOn": "2025-12-14",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 133,
     "TRADING CODE": "FEKDIL",
     "tradingCode": "FEKDIL",
-    "LTP": 21,
-    "HIGH": 22,
-    "LOW": 20.7,
-    "CLOSEP": 21,
-    "YCP": 21.7,
-    "CHANGE": -0.7,
-    "TRADE": 901,
-    "VALUE (mn)": 38.005,
-    "VOLUME": 1781309
+    "LTP": 20.2,
+    "HIGH": 21.7,
+    "LOW": 19.7,
+    "CLOSEP": 20.2,
+    "YCP": 21.4,
+    "CHANGE": -1.2,
+    "TRADE": 1124,
+    "VALUE (mn)": 47.118,
+    "VOLUME": 2271302
   },
   "marketInformation": {
-    "lastTradingPrice": 21,
+    "lastTradingPrice": 20.2,
     "daysRange": [
-      20.7,
-      22
+      19.7,
+      21.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.1,
       27.9
     ],
-    "change": -0.7,
-    "daysTradeNos": 901,
-    "yesterdaysClose": 21.7,
-    "daysVolumeNos": 1781309,
-    "adjustedOpeningPrice": 21.7,
-    "daysValueMn": 38.01,
-    "openingPrice": 21.8,
-    "marketCapMn": 4746.749,
-    "closingPrice": 21,
-    "freeFloatMarketCapMn": 1557.015
+    "change": -1.2,
+    "daysTradeNos": 1124,
+    "yesterdaysClose": 21.4,
+    "daysVolumeNos": 2271302,
+    "adjustedOpeningPrice": 21.4,
+    "daysValueMn": 47.12,
+    "openingPrice": 21.4,
+    "marketCapMn": 4681.125,
+    "closingPrice": 20.2,
+    "freeFloatMarketCapMn": 1535.49
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 28.77
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 67.2,
-      "govtPct": 0,
-      "institutePct": 8.07,
-      "foreignPct": 0,
-      "publicPct": 24.73
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 67.2,
@@ -90,6 +81,15 @@
       "institutePct": 5.74,
       "foreignPct": 0,
       "publicPct": 27.06
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 67.2,
+      "govtPct": 0,
+      "institutePct": 6.21,
+      "foreignPct": 0,
+      "publicPct": 26.59
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.46,
+        "date": "2026-09-28",
+        "peBasic": 13.16,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.33,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 12.51,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 13.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.69,
+        "date": "2026-09-30",
+        "peBasic": 12.98,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.28,
+        "date": "2026-10-01",
+        "peBasic": 12.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 12.51,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 11.81,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01711593385",
     "telephoneNo": "9848508, 58810170,58814013 (ext. 103)"
   },
-  "scrapedAt": "2026-09-13T15:42:34.315Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:37.798Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.45% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.45,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 4681.125,
+      "totalInterestBearingDebt": 114.88
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FEKDIL",
+  "cseQuote": {
+    "ltp": 20.9,
+    "open": 21.6,
+    "high": 22.1,
+    "low": 20.9,
+    "ycp": 21.6,
+    "change": -0.7,
+    "changePct": -3.24,
+    "trades": 15,
+    "valueMn": 0.55,
+    "volume": 25013,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

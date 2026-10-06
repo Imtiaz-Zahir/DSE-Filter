@@ -2,44 +2,44 @@
   "tradingCode": "UNITEDINS",
   "scripCode": "25703",
   "companyName": "United Insurance Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNITEDINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UNITEDINS",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 381,
     "TRADING CODE": "UNITEDINS",
     "tradingCode": "UNITEDINS",
-    "LTP": 59.6,
-    "HIGH": 62.6,
-    "LOW": 59.4,
-    "CLOSEP": 59.6,
-    "YCP": 61.3,
-    "CHANGE": -1.7,
-    "TRADE": 425,
-    "VALUE (mn)": 8.942,
-    "VOLUME": 148026
+    "LTP": 58.3,
+    "HIGH": 60.8,
+    "LOW": 58.2,
+    "CLOSEP": 58.3,
+    "YCP": 59.5,
+    "CHANGE": -1.2,
+    "TRADE": 233,
+    "VALUE (mn)": 3.44,
+    "VOLUME": 58661
   },
   "marketInformation": {
-    "lastTradingPrice": 59.6,
+    "lastTradingPrice": 58.3,
     "daysRange": [
-      59.4,
-      62.6
+      58.2,
+      60.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.2,
       72.7
     ],
-    "change": -1.7,
-    "daysTradeNos": 425,
-    "yesterdaysClose": 61.3,
-    "daysVolumeNos": 148026,
-    "adjustedOpeningPrice": 61.3,
-    "daysValueMn": 8.94,
-    "openingPrice": 62.6,
-    "marketCapMn": 2727.85,
-    "closingPrice": 59.6,
-    "freeFloatMarketCapMn": 820.956
+    "change": -1.2,
+    "daysTradeNos": 233,
+    "yesterdaysClose": 59.5,
+    "daysVolumeNos": 58661,
+    "adjustedOpeningPrice": 59.5,
+    "daysValueMn": 3.44,
+    "openingPrice": 59.6,
+    "marketCapMn": 2647.75,
+    "closingPrice": 58.3,
+    "freeFloatMarketCapMn": 796.849
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 20.12
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 59.9,
-      "govtPct": 0,
-      "institutePct": 23.09,
-      "foreignPct": 0,
-      "publicPct": 17.01
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 59.9,
@@ -90,6 +81,15 @@
       "institutePct": 16.98,
       "foreignPct": 0,
       "publicPct": 23.12
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 59.9,
+      "govtPct": 0,
+      "institutePct": 17.44,
+      "foreignPct": 0,
+      "publicPct": 22.66
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.55,
+        "date": "2026-09-28",
+        "peBasic": 16.06,
         "peDiluted": null,
-        "peTrailing": 16.33
+        "peTrailing": 16.86
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 15.3,
+        "date": "2026-09-29",
+        "peBasic": 15.85,
         "peDiluted": null,
-        "peTrailing": 16.07
+        "peTrailing": 16.65
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 15.73,
+        "peDiluted": null,
+        "peTrailing": 16.52
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 15.38,
+        "peDiluted": null,
+        "peTrailing": 16.15
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 14.95,
         "peDiluted": null,
         "peTrailing": 15.7
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 15.03,
+        "date": "2026-10-05",
+        "peBasic": 14.65,
         "peDiluted": null,
-        "peTrailing": 15.78
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 15.4,
-        "peDiluted": null,
-        "peTrailing": 16.17
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 14.97,
-        "peDiluted": null,
-        "peTrailing": 15.73
+        "peTrailing": 15.38
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.89,
+        "date": "2026-09-28",
+        "peBasic": 18.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.6,
+        "date": "2026-09-29",
+        "peBasic": 18.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 18.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 17.69,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 17.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 17.28,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 17.72,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 17.23,
+        "date": "2026-10-05",
+        "peBasic": 16.85,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "01772998707",
     "telephoneNo": "+88-2-41062001-04"
   },
-  "scrapedAt": "2026-09-13T15:44:17.807Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:34.430Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2647.75,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UNITEDINS",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "AMCL(PRAN)",
   "scripCode": "14277",
   "companyName": "Agricultural Marketing Company Ltd. (Pran)",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AMCL(PRAN)",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AMCL(PRAN)",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 27,
     "TRADING CODE": "AMCL(PRAN)",
     "tradingCode": "AMCL(PRAN)",
-    "LTP": 211,
-    "HIGH": 215.9,
-    "LOW": 210.1,
-    "CLOSEP": 211,
-    "YCP": 212.8,
-    "CHANGE": -1.8,
-    "TRADE": 51,
-    "VALUE (mn)": 0.205,
-    "VOLUME": 970
+    "LTP": 215,
+    "HIGH": 215,
+    "LOW": 212.3,
+    "CLOSEP": 213.5,
+    "YCP": 212.1,
+    "CHANGE": 2.9,
+    "TRADE": 108,
+    "VALUE (mn)": 2.041,
+    "VOLUME": 9567
   },
   "marketInformation": {
-    "lastTradingPrice": 211,
+    "lastTradingPrice": 215,
     "daysRange": [
-      210.1,
-      215.9
+      212.3,
+      215
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       194.9,
       249.8
     ],
-    "change": -1.8,
-    "daysTradeNos": 51,
-    "yesterdaysClose": 212.8,
-    "daysVolumeNos": 970,
-    "adjustedOpeningPrice": 212.8,
-    "daysValueMn": 0.21,
-    "openingPrice": 214.5,
-    "marketCapMn": 1702.4,
-    "closingPrice": 211,
-    "freeFloatMarketCapMn": 1018.859
+    "change": 2.9,
+    "daysTradeNos": 108,
+    "yesterdaysClose": 212.1,
+    "daysVolumeNos": 9567,
+    "adjustedOpeningPrice": 212.1,
+    "daysValueMn": 2.04,
+    "openingPrice": 212.3,
+    "marketCapMn": 1696.8,
+    "closingPrice": 213.5,
+    "freeFloatMarketCapMn": 1015.507
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 34.59,
+        "date": "2026-09-28",
+        "peBasic": 34.11,
         "peDiluted": null,
-        "peTrailing": 45.35
+        "peTrailing": 44.73
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 34.08,
+        "date": "2026-09-29",
+        "peBasic": 34.37,
         "peDiluted": null,
-        "peTrailing": 44.69
+        "peTrailing": 45.06
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 34.22,
+        "date": "2026-09-30",
+        "peBasic": 34.15,
         "peDiluted": null,
-        "peTrailing": 44.88
+        "peTrailing": 44.77
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 34.24,
+        "date": "2026-10-01",
+        "peBasic": 34.13,
         "peDiluted": null,
-        "peTrailing": 44.9
+        "peTrailing": 44.75
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 33.67,
+        "date": "2026-10-04",
+        "peBasic": 33.56,
         "peDiluted": null,
-        "peTrailing": 44.15
+        "peTrailing": 44
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 33.39,
+        "date": "2026-10-05",
+        "peBasic": 33.78,
         "peDiluted": null,
-        "peTrailing": 43.78
+        "peTrailing": 44.29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 43.63,
+        "date": "2026-09-28",
+        "peBasic": 43.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 42.99,
+        "date": "2026-09-29",
+        "peBasic": 43.35,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 43.17,
+        "date": "2026-09-30",
+        "peBasic": 43.07,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 43.19,
+        "date": "2026-10-01",
+        "peBasic": 43.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 42.48,
+        "date": "2026-10-04",
+        "peBasic": 42.34,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 42.12,
+        "date": "2026-10-05",
+        "peBasic": 42.61,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01769696203",
     "telephoneNo": "02222281792; Ext.: 230"
   },
-  "scrapedAt": "2026-09-13T15:41:58.187Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:08.364Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.98% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.98,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1696.8,
+      "totalInterestBearingDebt": 67.57
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AMCL(PRAN)",
+  "cseQuote": {
+    "ltp": 220,
+    "open": 220,
+    "high": 220,
+    "low": 220,
+    "ycp": 220,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

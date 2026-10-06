@@ -13,6 +13,9 @@ import type {
   HistoricalDividendPE,
   OperationalLoanStatus,
   AddressContact,
+  CreditRatingItem,
+  ExecutiveContact,
+  CseMarketQuote,
   ScreenerStock,
   DseMeta,
 } from "../lib/types";
@@ -33,6 +36,9 @@ export type {
   HistoricalDividendPE,
   OperationalLoanStatus,
   AddressContact,
+  CreditRatingItem,
+  ExecutiveContact,
+  CseMarketQuote,
   ScreenerStock,
   DseMeta,
 };
@@ -46,9 +52,55 @@ export interface SearchIndexStock {
   sector: string;
   category: string;
   shariaCompliant: boolean;
+  exchanges?: ("DSE" | "CSE")[];
   ltp: number | null;
   change: number | null;
   changePct: number | null;
+}
+
+/**
+ * Result structure returned by CSE Index Scraper.
+ */
+export interface CseIndexDataResult {
+  csiSymbols: Set<string>;
+  cse30Symbols: Set<string>;
+  cse50Symbols: Set<string>;
+  caspiSymbols: Set<string>;
+  cscxSymbols: Set<string>;
+  sectorIndices: Record<string, {
+    indexValue: number | null;
+    prevIndex: number | null;
+    change: number | null;
+    changePct: number | null;
+  }>;
+}
+
+/**
+ * Parsed CSE company details before normalization.
+ */
+export interface CseRawCompanyDetails {
+  tradingCode: string;
+  companyName?: string;
+  sector?: string;
+  category?: string;
+  authorizedCapitalMn?: number | null;
+  paidUpCapitalMn?: number | null;
+  faceValue?: number | null;
+  marketLot?: number | null;
+  listingYear?: number | null;
+  reserveSurplusMn?: number | null;
+  creditRatings?: CreditRatingItem[];
+  executiveContacts?: ExecutiveContact[];
+  address?: string;
+  factoryAddress?: string;
+  phone?: string;
+  email?: string;
+  website?: string;
+  navPerShare?: number | null;
+  eps?: number | null;
+  netProfitMn?: number | null;
+  dividendPct?: number | null;
+  dividendYieldPct?: number | null;
 }
 
 /**

@@ -2,44 +2,44 @@
   "tradingCode": "ECABLES",
   "scripCode": "13206",
   "companyName": "Eastern Cables Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ECABLES",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ECABLES",
   "lastAGMHeldOn": "2026-01-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 115,
     "TRADING CODE": "ECABLES",
     "tradingCode": "ECABLES",
-    "LTP": 124.4,
-    "HIGH": 132,
-    "LOW": 123.9,
-    "CLOSEP": 124.4,
-    "YCP": 128.9,
-    "CHANGE": -4.5,
-    "TRADE": 88,
-    "VALUE (mn)": 1.031,
-    "VOLUME": 8210
+    "LTP": 117.5,
+    "HIGH": 121.8,
+    "LOW": 115.5,
+    "CLOSEP": 116,
+    "YCP": 119.1,
+    "CHANGE": -1.6,
+    "TRADE": 82,
+    "VALUE (mn)": 0.63,
+    "VOLUME": 5349
   },
   "marketInformation": {
-    "lastTradingPrice": 124.4,
+    "lastTradingPrice": 117.5,
     "daysRange": [
-      123.9,
-      132
+      115.5,
+      121.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       99,
       157.7
     ],
-    "change": -4.5,
-    "daysTradeNos": 88,
-    "yesterdaysClose": 128.9,
-    "daysVolumeNos": 8210,
-    "adjustedOpeningPrice": 128.9,
-    "daysValueMn": 1.03,
-    "openingPrice": 132,
-    "marketCapMn": 3402.96,
-    "closingPrice": 124.4,
-    "freeFloatMarketCapMn": 820.49
+    "change": -1.6,
+    "daysTradeNos": 82,
+    "yesterdaysClose": 119.1,
+    "daysVolumeNos": 5349,
+    "adjustedOpeningPrice": 119.1,
+    "daysValueMn": 0.63,
+    "openingPrice": 121.8,
+    "marketCapMn": 3144.24,
+    "closingPrice": 116,
+    "freeFloatMarketCapMn": 758.11
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,57 @@
     "cellNo": "+88 01857 981158",
     "telephoneNo": "023-33301297"
   },
-  "scrapedAt": "2026-09-13T15:42:28.788Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:33.863Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.46% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.46,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3144.24,
+      "totalInterestBearingDebt": 77.44
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ECABLES",
+  "cseQuote": {
+    "ltp": 129,
+    "open": 129,
+    "high": 129,
+    "low": 129,
+    "ycp": 129,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

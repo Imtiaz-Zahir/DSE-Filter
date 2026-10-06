@@ -2,28 +2,28 @@
   "tradingCode": "KPCL",
   "scripCode": "15312",
   "companyName": "Khulna Power Company Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KPCL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KPCL",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 200,
     "TRADING CODE": "KPCL",
     "tradingCode": "KPCL",
-    "LTP": 10.4,
-    "HIGH": 10.7,
-    "LOW": 10.3,
-    "CLOSEP": 10.4,
-    "YCP": 10.6,
+    "LTP": 10.3,
+    "HIGH": 10.6,
+    "LOW": 10.1,
+    "CLOSEP": 10.2,
+    "YCP": 10.5,
     "CHANGE": -0.2,
-    "TRADE": 200,
-    "VALUE (mn)": 3.291,
-    "VOLUME": 315639
+    "TRADE": 165,
+    "VALUE (mn)": 4.689,
+    "VOLUME": 454540
   },
   "marketInformation": {
-    "lastTradingPrice": 10.4,
+    "lastTradingPrice": 10.3,
     "daysRange": [
-      10.3,
-      10.7
+      10.1,
+      10.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       12.5
     ],
     "change": -0.2,
-    "daysTradeNos": 200,
-    "yesterdaysClose": 10.6,
-    "daysVolumeNos": 315639,
-    "adjustedOpeningPrice": 10.6,
-    "daysValueMn": 3.29,
-    "openingPrice": 10.7,
-    "marketCapMn": 4212.58,
-    "closingPrice": 10.4,
-    "freeFloatMarketCapMn": 1264.178
+    "daysTradeNos": 165,
+    "yesterdaysClose": 10.5,
+    "daysVolumeNos": 454540,
+    "adjustedOpeningPrice": 10.5,
+    "daysValueMn": 4.69,
+    "openingPrice": 10.6,
+    "marketCapMn": 4172.838,
+    "closingPrice": 10.2,
+    "freeFloatMarketCapMn": 1252.252
   },
   "basicInformation": {
     "authorizedCapitalMn": 7000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.1,
-        "peDiluted": null,
-        "peTrailing": 12.13
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 11.1,
-        "peDiluted": null,
-        "peTrailing": 12.13
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 10.79,
         "peDiluted": null,
         "peTrailing": 11.8
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.99,
+        "date": "2026-09-29",
+        "peBasic": 10.79,
         "peDiluted": null,
-        "peTrailing": 12.02
+        "peTrailing": 11.8
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 10.89,
         "peDiluted": null,
         "peTrailing": 11.91
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 10.68,
         "peDiluted": null,
         "peTrailing": 11.69
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 10.79,
+        "peDiluted": null,
+        "peTrailing": 11.8
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 10.48,
+        "peDiluted": null,
+        "peTrailing": 11.46
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.24,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 37.24,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 36.21,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 36.9,
+        "date": "2026-09-29",
+        "peBasic": 36.21,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 36.55,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 35.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 36.21,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 35.17,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01841403333",
     "telephoneNo": "+880 9666 700 900, Ext. 4006"
   },
-  "scrapedAt": "2026-09-13T15:43:01.271Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:52.876Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4172.838,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KPCL",
+  "cseQuote": {
+    "ltp": 10.3,
+    "open": 10.3,
+    "high": 10.3,
+    "low": 10.3,
+    "ycp": 10.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 6,
+    "valueMn": 0.04,
+    "volume": 4184,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

@@ -267,9 +267,9 @@ export default async function MarketHubPage() {
             </h1>
 
             <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
-              Explore <strong>395+ listed Bangladesh companies</strong> organized into strategic market categories,
-              Islamic DSES Shariah compliance, daily session momentum (gainers/losers), business operational health,
-              fundamental value screeners, and all 19 industry sectors.
+              Explore <strong>415+ listed Bangladesh companies</strong> across DSE & CSE organized into strategic market categories,
+              Islamic CSI Shariah compliance, daily session momentum (gainers/losers), business operational health,
+              fundamental value screeners, and all industry sectors.
             </p>
           </div>
         </div>

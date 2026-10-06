@@ -2,44 +2,44 @@
   "tradingCode": "RENATA",
   "scripCode": "18457",
   "companyName": "Renata PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RENATA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RENATA",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 307,
     "TRADING CODE": "RENATA",
     "tradingCode": "RENATA",
-    "LTP": 458.7,
-    "HIGH": 460,
-    "LOW": 457.6,
-    "CLOSEP": 458.7,
-    "YCP": 459,
-    "CHANGE": -0.3,
-    "TRADE": 262,
-    "VALUE (mn)": 8.765,
-    "VOLUME": 19132
+    "LTP": 443.1,
+    "HIGH": 446.4,
+    "LOW": 442,
+    "CLOSEP": 443.1,
+    "YCP": 444.6,
+    "CHANGE": -1.5,
+    "TRADE": 352,
+    "VALUE (mn)": 3.021,
+    "VOLUME": 6820
   },
   "marketInformation": {
-    "lastTradingPrice": 458.7,
+    "lastTradingPrice": 443.1,
     "daysRange": [
-      457.6,
-      460
+      442,
+      446.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       372,
-      504.9
+      488
     ],
-    "change": -0.3,
-    "daysTradeNos": 262,
-    "yesterdaysClose": 459,
-    "daysVolumeNos": 19132,
-    "adjustedOpeningPrice": 459,
-    "daysValueMn": 8.77,
-    "openingPrice": 459,
-    "marketCapMn": 52645.689,
-    "closingPrice": 458.7,
-    "freeFloatMarketCapMn": 16480.085
+    "change": -1.5,
+    "daysTradeNos": 352,
+    "yesterdaysClose": 444.6,
+    "daysVolumeNos": 6820,
+    "adjustedOpeningPrice": 444.6,
+    "daysValueMn": 3.02,
+    "openingPrice": 445,
+    "marketCapMn": 50994.059,
+    "closingPrice": 443.1,
+    "freeFloatMarketCapMn": 15963.062
   },
   "basicInformation": {
     "authorizedCapitalMn": 2850,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.05,
+        "date": "2026-09-28",
+        "peBasic": 16.51,
         "peDiluted": null,
-        "peTrailing": 19.48
+        "peTrailing": 18.86
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 16.92,
+        "date": "2026-09-29",
+        "peBasic": 16.46,
         "peDiluted": null,
-        "peTrailing": 19.33
+        "peTrailing": 18.8
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 16.96,
+        "date": "2026-09-30",
+        "peBasic": 16.68,
         "peDiluted": null,
-        "peTrailing": 19.37
+        "peTrailing": 19.05
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 16.96,
+        "date": "2026-10-01",
+        "peBasic": 16.5,
         "peDiluted": null,
-        "peTrailing": 19.38
+        "peTrailing": 18.85
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 16.88,
+        "date": "2026-10-04",
+        "peBasic": 16.35,
         "peDiluted": null,
-        "peTrailing": 19.29
+        "peTrailing": 18.68
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 16.87,
+        "date": "2026-10-05",
+        "peBasic": 16.3,
         "peDiluted": null,
-        "peTrailing": 19.27
+        "peTrailing": 18.62
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.95,
+        "date": "2026-09-28",
+        "peBasic": 23.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.77,
+        "date": "2026-09-29",
+        "peBasic": 23.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.81,
+        "date": "2026-09-30",
+        "peBasic": 23.42,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 23.82,
+        "date": "2026-10-01",
+        "peBasic": 23.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.71,
+        "date": "2026-10-04",
+        "peBasic": 22.96,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 23.69,
+        "date": "2026-10-05",
+        "peBasic": 22.89,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "+88 01819 256 611",
     "telephoneNo": "880-2-41002750-54, ext:201"
   },
-  "scrapedAt": "2026-09-13T15:43:45.142Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:16.815Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 18.44% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 18.44,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 50994.059,
+      "totalInterestBearingDebt": 9402.17
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RENATA",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

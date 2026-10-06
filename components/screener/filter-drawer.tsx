@@ -53,6 +53,16 @@ export function FilterDrawer({
   const allCategories = React.useMemo(() => getAllCategories(), []);
   const allInstruments = React.useMemo(() => getAllInstruments(), []);
   const allStatuses = React.useMemo(() => getAllOperationalStatuses(), []);
+  const availableIndices = React.useMemo(
+    () => [
+      { id: "CSI", label: "Shariah (CSI)" },
+      { id: "CSE30", label: "CSE 30 Blue Chip" },
+      { id: "CSE50", label: "CSE 50 Large Cap" },
+      { id: "CASPI", label: "CASPI All Share" },
+      { id: "DSEX", label: "DSEX All Share" },
+    ],
+    []
+  );
 
   const handleRangeChange = (
     key: keyof FilterState,
@@ -67,6 +77,16 @@ export function FilterDrawer({
         [field]: num !== null && !isNaN(num) ? num : null,
       },
     }));
+  };
+
+  const toggleIndex = (idxId: string) => {
+    setFilters((prev) => {
+      const exists = prev.indices.includes(idxId);
+      return {
+        ...prev,
+        indices: exists ? prev.indices.filter((i) => i !== idxId) : [...prev.indices, idxId],
+      };
+    });
   };
 
   const toggleSector = (sector: string) => {
@@ -151,6 +171,41 @@ export function FilterDrawer({
 
         {/* Scrollable Filter Body */}
         <div className="flex-1 overflow-y-auto p-4 space-y-6">
+          {/* Exchange Selection */}
+          <div className="space-y-2">
+            <span className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+              Exchange Listing
+            </span>
+            <div className="grid grid-cols-2 gap-1.5">
+              {[
+                { id: "all", label: "All Exchanges" },
+                { id: "dual", label: "Dual (DSE + CSE)" },
+                { id: "dse", label: "DSE Listed" },
+                { id: "cse", label: "CSE Listed" },
+              ].map((ex) => {
+                const isSelected = (filters.exchange || "all") === ex.id;
+                return (
+                  <button
+                    key={ex.id}
+                    onClick={() =>
+                      setFilters((prev) => ({
+                        ...prev,
+                        exchange: ex.id as "all" | "dual" | "dse" | "cse",
+                      }))
+                    }
+                    className={`px-3 py-1.5 rounded-lg text-xs font-medium text-left transition-all border ${
+                      isSelected
+                        ? "bg-primary text-primary-foreground border-primary shadow-2xs font-semibold"
+                        : "bg-card text-foreground border-border/80 hover:bg-muted/50"
+                    }`}
+                  >
+                    {ex.label}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
           {/* Quick Boolean Exclusions */}
           <div className="space-y-3 rounded-xl bg-card border border-border/60 p-3.5 shadow-2xs">
             <span className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
@@ -160,13 +215,40 @@ export function FilterDrawer({
               <div className="flex items-center justify-between">
                 <label htmlFor="sharia-only" className="text-xs font-medium text-foreground cursor-pointer flex items-center gap-1.5">
                   <ShieldCheck className="size-3.5 text-emerald-600 dark:text-emerald-400" />
-                  <span>DSES Sharia Compliant Only</span>
+                  <span>Sharia Compliant Only</span>
                 </label>
                 <Switch
                   id="sharia-only"
                   checked={filters.shariaOnly}
                   onCheckedChange={(checked) =>
                     setFilters((prev) => ({ ...prev, shariaOnly: checked }))
+                  }
+                />
+              </div>
+
+              <div className="flex items-center justify-between">
+                <label htmlFor="islamic-finance" className="text-xs font-medium text-foreground cursor-pointer flex items-center gap-1.5">
+                  <Building className="size-3.5 text-emerald-600 dark:text-emerald-400" />
+                  <span>Islamic Financial Institutions Only</span>
+                </label>
+                <Switch
+                  id="islamic-finance"
+                  checked={filters.islamicFinanceOnly}
+                  onCheckedChange={(checked) =>
+                    setFilters((prev) => ({ ...prev, islamicFinanceOnly: checked }))
+                  }
+                />
+              </div>
+
+              <div className="flex items-center justify-between">
+                <label htmlFor="exclude-non-sharia" className="text-xs font-medium text-foreground cursor-pointer">
+                  Exclude Non-Halal Sectors
+                </label>
+                <Switch
+                  id="exclude-non-sharia"
+                  checked={filters.excludeNonShariaSectors}
+                  onCheckedChange={(checked) =>
+                    setFilters((prev) => ({ ...prev, excludeNonShariaSectors: checked }))
                   }
                 />
               </div>
@@ -225,6 +307,31 @@ export function FilterDrawer({
             </div>
           </div>
 
+          {/* Benchmark Indices Filter */}
+          <div className="space-y-2">
+            <span className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+              Benchmark Indices
+            </span>
+            <div className="flex flex-wrap gap-1.5">
+              {availableIndices.map((idx) => {
+                const selected = filters.indices.includes(idx.id);
+                return (
+                  <button
+                    key={idx.id}
+                    onClick={() => toggleIndex(idx.id)}
+                    className={`px-2.5 py-1 rounded-md text-xs font-medium transition-all border ${
+                      selected
+                        ? "bg-primary text-primary-foreground border-primary font-semibold"
+                        : "bg-muted/40 text-muted-foreground border-border/80 hover:text-foreground hover:bg-muted"
+                    }`}
+                  >
+                    {idx.label}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
           {/* Market Category Filter */}
           <div className="space-y-2">
             <span className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
@@ -252,10 +359,11 @@ export function FilterDrawer({
 
           {/* Multi-Tab Range Filters */}
           <Tabs defaultValue="valuation" className="w-full">
-            <TabsList className="w-full grid grid-cols-4 h-9">
+            <TabsList className="w-full grid grid-cols-5 h-9">
               <TabsTrigger value="valuation" className="text-[11px] px-1">Valuation</TabsTrigger>
               <TabsTrigger value="financials" className="text-[11px] px-1">Financials</TabsTrigger>
-              <TabsTrigger value="holding" className="text-[11px] px-1">Shareholding</TabsTrigger>
+              <TabsTrigger value="shariah" className="text-[11px] px-1">Shariah</TabsTrigger>
+              <TabsTrigger value="holding" className="text-[11px] px-1">Holding</TabsTrigger>
               <TabsTrigger value="activity" className="text-[11px] px-1">Activity</TabsTrigger>
             </TabsList>
 
@@ -372,6 +480,52 @@ export function FilterDrawer({
                 onMaxChange={(v) => handleRangeChange("listingYearRange", "max", v)}
                 placeholderMin="e.g. 1990"
                 placeholderMax="e.g. 2026"
+              />
+            </TabsContent>
+
+            {/* TAB 3: SHARIAH (S&P DSES) */}
+            <TabsContent value="shariah" className="space-y-3 pt-2">
+              <div className="rounded-lg bg-emerald-500/5 border border-emerald-500/20 p-2.5 text-[11px] text-muted-foreground">
+                <span className="font-semibold text-emerald-600 dark:text-emerald-400 block mb-0.5">
+                  S&P DSEX Shariah Thresholds
+                </span>
+                Debt/MCap &le; 33%, Cash &le; 33%, Receivables &le; 49%, Non-permissible revenue &le; 5%.
+              </div>
+              <RangeInputPair
+                label="Debt / Market Cap Ratio % (Max 33%)"
+                minVal={filters.shariahDebtRatioRange.min}
+                maxVal={filters.shariahDebtRatioRange.max}
+                onMinChange={(v) => handleRangeChange("shariahDebtRatioRange", "min", v)}
+                onMaxChange={(v) => handleRangeChange("shariahDebtRatioRange", "max", v)}
+                placeholderMin="e.g. 0%"
+                placeholderMax="e.g. 33%"
+              />
+              <RangeInputPair
+                label="Cash & Liquid Assets / MCap % (Max 33%)"
+                minVal={filters.shariahCashRatioRange.min}
+                maxVal={filters.shariahCashRatioRange.max}
+                onMinChange={(v) => handleRangeChange("shariahCashRatioRange", "min", v)}
+                onMaxChange={(v) => handleRangeChange("shariahCashRatioRange", "max", v)}
+                placeholderMin="e.g. 0%"
+                placeholderMax="e.g. 33%"
+              />
+              <RangeInputPair
+                label="Accounts Receivable / MCap % (Max 49%)"
+                minVal={filters.shariahReceivablesRange.min}
+                maxVal={filters.shariahReceivablesRange.max}
+                onMinChange={(v) => handleRangeChange("shariahReceivablesRange", "min", v)}
+                onMaxChange={(v) => handleRangeChange("shariahReceivablesRange", "max", v)}
+                placeholderMin="e.g. 0%"
+                placeholderMax="e.g. 49%"
+              />
+              <RangeInputPair
+                label="Dividend Purification %"
+                minVal={filters.shariahPurificationRange.min}
+                maxVal={filters.shariahPurificationRange.max}
+                onMinChange={(v) => handleRangeChange("shariahPurificationRange", "min", v)}
+                onMaxChange={(v) => handleRangeChange("shariahPurificationRange", "max", v)}
+                placeholderMin="e.g. 0%"
+                placeholderMax="e.g. 2%"
               />
             </TabsContent>
 

@@ -2,50 +2,50 @@
   "tradingCode": "NFML",
   "scripCode": "99640",
   "companyName": "National Feed Mill Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NFML",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NFML",
   "lastAGMHeldOn": "2026-03-01",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 247,
     "TRADING CODE": "NFML",
     "tradingCode": "NFML",
-    "LTP": 14.7,
-    "HIGH": 16,
-    "LOW": 14.7,
-    "CLOSEP": 14.9,
-    "YCP": 15.6,
-    "CHANGE": -0.9,
-    "TRADE": 450,
-    "VALUE (mn)": 8.411,
-    "VOLUME": 553120
+    "LTP": 14.1,
+    "HIGH": 14.9,
+    "LOW": 14,
+    "CLOSEP": 14.1,
+    "YCP": 14.7,
+    "CHANGE": -0.6,
+    "TRADE": 394,
+    "VALUE (mn)": 5.927,
+    "VOLUME": 413972
   },
   "marketInformation": {
-    "lastTradingPrice": 14.7,
+    "lastTradingPrice": null,
     "daysRange": [
-      14.7,
-      16
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      9,
+      11,
       24.2
     ],
-    "change": -0.9,
-    "daysTradeNos": 450,
-    "yesterdaysClose": 15.6,
-    "daysVolumeNos": 553120,
-    "adjustedOpeningPrice": 15.6,
-    "daysValueMn": 8.41,
-    "openingPrice": 16,
-    "marketCapMn": 1456.437,
-    "closingPrice": 14.9,
-    "freeFloatMarketCapMn": 1013.679
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": null,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": null,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 0,
+    "closingPrice": null,
+    "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
     "debutTradingDate": "2015-01-19",
     "paidUpCapitalMn": 933.61,
-    "typeOfInstrument": "Equity",
+    "typeOfInstrument": "Unknown",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 93361324,
@@ -53,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2015,
-    "marketCategory": "B",
+    "marketCategory": "-",
     "electronicShare": true,
     "cashDividend": "0.10% 2025, 1% 2022, 2% 2020",
     "bonusIssue": "1% 2021, 8% 2020, 1% 2019, 5% 2018, 10% 2017, 15% 2016, 10% 2014",
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 805
+        "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 820
+        "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 800
+        "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 805
+        "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 780
+        "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 745
+        "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 536.67,
+        "date": "2026-09-28",
+        "peBasic": 510,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 546.67,
+        "date": "2026-09-29",
+        "peBasic": 510,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 533.33,
+        "date": "2026-09-30",
+        "peBasic": 510,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 536.67,
+        "date": "2026-10-01",
+        "peBasic": 503.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 520,
+        "date": "2026-10-04",
+        "peBasic": 490,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 496.67,
+        "date": "2026-10-05",
+        "peBasic": 470,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01730066269",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:23.409Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:03.714Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 0,
+      "totalInterestBearingDebt": 385.27
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": [
+      "Market capitalization data unavailable to compute exact leverage ratio."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NFML",
+  "cseQuote": {
+    "ltp": 13.9,
+    "open": 15.3,
+    "high": 13.9,
+    "low": 13.9,
+    "ycp": 15.3,
+    "change": -1.4,
+    "changePct": -9.15,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.850Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

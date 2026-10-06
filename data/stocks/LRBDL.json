@@ -2,44 +2,44 @@
   "tradingCode": "LRBDL",
   "scripCode": "15323",
   "companyName": "Lub-rref (Bangladesh) Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LRBDL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=LRBDL",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 209,
     "TRADING CODE": "LRBDL",
     "tradingCode": "LRBDL",
-    "LTP": 12.4,
-    "HIGH": 13.8,
-    "LOW": 12.4,
-    "CLOSEP": 12.4,
-    "YCP": 13.6,
-    "CHANGE": -1.2,
-    "TRADE": 373,
-    "VALUE (mn)": 5.06,
-    "VOLUME": 400379
+    "LTP": 12.9,
+    "HIGH": 13.3,
+    "LOW": 12.8,
+    "CLOSEP": 12.9,
+    "YCP": 13.1,
+    "CHANGE": -0.2,
+    "TRADE": 137,
+    "VALUE (mn)": 1.757,
+    "VOLUME": 135638
   },
   "marketInformation": {
-    "lastTradingPrice": 12.4,
+    "lastTradingPrice": 12.9,
     "daysRange": [
-      12.4,
-      13.8
+      12.8,
+      13.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       16.8
     ],
-    "change": -1.2,
-    "daysTradeNos": 373,
-    "yesterdaysClose": 13.6,
-    "daysVolumeNos": 400379,
-    "adjustedOpeningPrice": 13.6,
-    "daysValueMn": 5.06,
-    "openingPrice": 13.8,
-    "marketCapMn": 1975.307,
-    "closingPrice": 12.4,
-    "freeFloatMarketCapMn": 1269.434
+    "change": -0.2,
+    "daysTradeNos": 137,
+    "yesterdaysClose": 13.1,
+    "daysVolumeNos": 135638,
+    "adjustedOpeningPrice": 13.1,
+    "daysValueMn": 1.76,
+    "openingPrice": 13.1,
+    "marketCapMn": 1902.685,
+    "closingPrice": 12.9,
+    "freeFloatMarketCapMn": 1222.764
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01977 266 193",
     "telephoneNo": "02-43151995, 02-43150036"
   },
-  "scrapedAt": "2026-09-13T15:43:06.402Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:54.443Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (142.9%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 142.9,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1902.685,
+      "totalInterestBearingDebt": 2719.01
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/LRBDL",
+  "cseQuote": {
+    "ltp": 13.4,
+    "open": 14.8,
+    "high": 13.4,
+    "low": 13.4,
+    "ycp": 14.8,
+    "change": -1.4,
+    "changePct": -9.46,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

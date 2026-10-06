@@ -2,7 +2,7 @@
   "tradingCode": "FIRSTSBANK",
   "scripCode": "11147",
   "companyName": "First Security Islami Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FIRSTSBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FIRSTSBANK",
   "lastAGMHeldOn": "2024-06-24",
   "forYearEnded": "2023-12-31",
   "overview": {
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 0,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 0.67,
         "peDiluted": 0.7
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 0.67,
         "peDiluted": 0.7
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": 0.67,
         "peDiluted": 0.7
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 0.67,
         "peDiluted": 0.7
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": 0.67,
         "peDiluted": 0.7
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 0.67,
         "peDiluted": 0.7
       }
@@ -374,6 +374,56 @@
     "cellNo": "01938886188",
     "telephoneNo": "02-55045706"
   },
-  "scrapedAt": "2026-09-13T15:42:35.822Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:38.500Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2295.465,
+      "totalInterestBearingDebt": 135036.48
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FIRSTSBANK",
+  "cseQuote": {
+    "ltp": 1.9,
+    "open": 1.9,
+    "high": 1.9,
+    "low": 1.9,
+    "ycp": 1.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

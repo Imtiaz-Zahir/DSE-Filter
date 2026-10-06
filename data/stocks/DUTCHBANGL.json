@@ -2,44 +2,44 @@
   "tradingCode": "DUTCHBANGL",
   "scripCode": "11121",
   "companyName": "Dutch-Bangla Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DUTCHBANGL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DUTCHBANGL",
   "lastAGMHeldOn": "2026-06-16",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 108,
     "TRADING CODE": "DUTCHBANGL",
     "tradingCode": "DUTCHBANGL",
-    "LTP": 42.9,
-    "HIGH": 43.4,
-    "LOW": 42.8,
-    "CLOSEP": 42.9,
-    "YCP": 43.4,
-    "CHANGE": -0.5,
-    "TRADE": 338,
-    "VALUE (mn)": 6.734,
-    "VOLUME": 156013
+    "LTP": 45.6,
+    "HIGH": 45.9,
+    "LOW": 45.4,
+    "CLOSEP": 45.5,
+    "YCP": 45.5,
+    "CHANGE": 0.1,
+    "TRADE": 123,
+    "VALUE (mn)": 6.922,
+    "VOLUME": 152050
   },
   "marketInformation": {
-    "lastTradingPrice": 42.9,
+    "lastTradingPrice": 45.6,
     "daysRange": [
-      42.8,
-      43.4
+      45.4,
+      45.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.1,
       51.7
     ],
-    "change": -0.5,
-    "daysTradeNos": 338,
-    "yesterdaysClose": 43.4,
-    "daysVolumeNos": 156013,
-    "adjustedOpeningPrice": 43.4,
-    "daysValueMn": 6.73,
-    "openingPrice": 43.2,
-    "marketCapMn": 44052.571,
-    "closingPrice": 42.9,
-    "freeFloatMarketCapMn": 7240.841
+    "change": 0.1,
+    "daysTradeNos": 123,
+    "yesterdaysClose": 45.5,
+    "daysVolumeNos": 152050,
+    "adjustedOpeningPrice": 45.5,
+    "daysValueMn": 6.92,
+    "openingPrice": 45.9,
+    "marketCapMn": 46184.147,
+    "closingPrice": 45.5,
+    "freeFloatMarketCapMn": 7591.204
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -74,15 +74,6 @@
       "publicPct": 9.51
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 83.56,
-      "govtPct": 0,
-      "institutePct": 8,
-      "foreignPct": 0.04,
-      "publicPct": 8.4
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 83.56,
@@ -90,6 +81,15 @@
       "institutePct": 7.43,
       "foreignPct": 0.04,
       "publicPct": 8.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 83.56,
+      "govtPct": 0,
+      "institutePct": 7.38,
+      "foreignPct": 0.04,
+      "publicPct": 9.02
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.08,
+        "date": "2026-09-28",
+        "peBasic": 5.24,
         "peDiluted": null,
-        "peTrailing": 3.34
+        "peTrailing": 3.44
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.07,
+        "date": "2026-09-29",
+        "peBasic": 5.22,
         "peDiluted": null,
-        "peTrailing": 3.33
+        "peTrailing": 3.43
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.01,
+        "date": "2026-09-30",
+        "peBasic": 5.21,
         "peDiluted": null,
-        "peTrailing": 3.29
+        "peTrailing": 3.42
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.99,
+        "date": "2026-10-01",
+        "peBasic": 5.26,
         "peDiluted": null,
-        "peTrailing": 3.28
+        "peTrailing": 3.46
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.99,
+        "date": "2026-10-04",
+        "peBasic": 5.23,
         "peDiluted": null,
-        "peTrailing": 3.28
+        "peTrailing": 3.44
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.93,
+        "date": "2026-10-05",
+        "peBasic": 5.23,
         "peDiluted": null,
-        "peTrailing": 3.24
+        "peTrailing": 3.44
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.43,
-        "peDiluted": 4.65
+        "date": "2026-09-28",
+        "peBasic": 4.57,
+        "peDiluted": 4.8
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.42,
-        "peDiluted": 4.64
+        "date": "2026-09-29",
+        "peBasic": 4.55,
+        "peDiluted": 4.78
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.37,
-        "peDiluted": 4.59
+        "date": "2026-09-30",
+        "peBasic": 4.54,
+        "peDiluted": 4.77
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.35,
-        "peDiluted": 4.57
+        "date": "2026-10-01",
+        "peBasic": 4.59,
+        "peDiluted": 4.82
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.35,
-        "peDiluted": 4.57
+        "date": "2026-10-04",
+        "peBasic": 4.56,
+        "peDiluted": 4.79
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.3,
-        "peDiluted": 4.52
+        "date": "2026-10-05",
+        "peBasic": 4.56,
+        "peDiluted": 4.79
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01847 278 119",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:27.916Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:31.464Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (71.39%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 71.39,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 46184.147,
+      "totalInterestBearingDebt": 32971.44
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DUTCHBANGL",
+  "cseQuote": {
+    "ltp": 45.3,
+    "open": 45.9,
+    "high": 45.3,
+    "low": 45.3,
+    "ycp": 45.9,
+    "change": -0.6,
+    "changePct": -1.31,
+    "trades": 1,
+    "valueMn": 0.02,
+    "volume": 500,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

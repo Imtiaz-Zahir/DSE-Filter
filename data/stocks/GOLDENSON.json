@@ -2,44 +2,44 @@
   "tradingCode": "GOLDENSON",
   "scripCode": "13226",
   "companyName": "Golden Son Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GOLDENSON",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GOLDENSON",
   "lastAGMHeldOn": "2025-12-31",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 149,
     "TRADING CODE": "GOLDENSON",
     "tradingCode": "GOLDENSON",
-    "LTP": 11.9,
-    "HIGH": 13,
-    "LOW": 11.8,
-    "CLOSEP": 11.9,
-    "YCP": 12.9,
-    "CHANGE": -1,
-    "TRADE": 564,
-    "VALUE (mn)": 13.397,
-    "VOLUME": 1102215
+    "LTP": 11.1,
+    "HIGH": 11.8,
+    "LOW": 11,
+    "CLOSEP": 11.1,
+    "YCP": 11.7,
+    "CHANGE": -0.6,
+    "TRADE": 503,
+    "VALUE (mn)": 6.349,
+    "VOLUME": 562680
   },
   "marketInformation": {
-    "lastTradingPrice": 11.9,
+    "lastTradingPrice": 11.1,
     "daysRange": [
-      11.8,
-      13
+      11,
+      11.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.7,
       18.3
     ],
-    "change": -1,
-    "daysTradeNos": 564,
-    "yesterdaysClose": 12.9,
-    "daysVolumeNos": 1102215,
-    "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 13.4,
-    "openingPrice": 12.9,
-    "marketCapMn": 2215.314,
-    "closingPrice": 11.9,
-    "freeFloatMarketCapMn": 1214.926
+    "change": -0.6,
+    "daysTradeNos": 503,
+    "yesterdaysClose": 11.7,
+    "daysVolumeNos": 562680,
+    "adjustedOpeningPrice": 11.7,
+    "daysValueMn": 6.35,
+    "openingPrice": 11.8,
+    "marketCapMn": 2009.238,
+    "closingPrice": 11.1,
+    "freeFloatMarketCapMn": 1101.91
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 45.95
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30.29,
-      "govtPct": 0,
-      "institutePct": 24.52,
-      "foreignPct": 0,
-      "publicPct": 45.19
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.29,
@@ -90,6 +81,15 @@
       "institutePct": 21.44,
       "foreignPct": 0,
       "publicPct": 48.27
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.29,
+      "govtPct": 0,
+      "institutePct": 21.04,
+      "foreignPct": 0,
+      "publicPct": 48.67
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01755 645 047",
     "telephoneNo": "+880-2-55052098-99"
   },
-  "scrapedAt": "2026-09-13T15:42:38.792Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:40.914Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (129.76%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 129.76,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2009.238,
+      "totalInterestBearingDebt": 2607.27
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GOLDENSON",
+  "cseQuote": {
+    "ltp": 11.1,
+    "open": 11.8,
+    "high": 11.2,
+    "low": 11,
+    "ycp": 11.8,
+    "change": -0.7,
+    "changePct": -5.93,
+    "trades": 5,
+    "valueMn": 0.03,
+    "volume": 2600,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

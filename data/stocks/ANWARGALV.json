@@ -2,44 +2,44 @@
   "tradingCode": "ANWARGALV",
   "scripCode": "13221",
   "companyName": "Anwar Galvanizing Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ANWARGALV",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ANWARGALV",
   "lastAGMHeldOn": "2026-02-08",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 29,
     "TRADING CODE": "ANWARGALV",
     "tradingCode": "ANWARGALV",
-    "LTP": 111.8,
-    "HIGH": 112.8,
-    "LOW": 108.8,
-    "CLOSEP": 111.8,
-    "YCP": 110.7,
-    "CHANGE": 1.1,
-    "TRADE": 1560,
-    "VALUE (mn)": 36.173,
-    "VOLUME": 326582
+    "LTP": 112.2,
+    "HIGH": 115.9,
+    "LOW": 111.7,
+    "CLOSEP": 112.2,
+    "YCP": 114.6,
+    "CHANGE": -2.4,
+    "TRADE": 1478,
+    "VALUE (mn)": 36.195,
+    "VOLUME": 319149
   },
   "marketInformation": {
-    "lastTradingPrice": 111.8,
+    "lastTradingPrice": 112.2,
     "daysRange": [
-      108.8,
-      112.8
+      111.7,
+      115.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56.2,
       127.6
     ],
-    "change": 1.1,
-    "daysTradeNos": 1560,
-    "yesterdaysClose": 110.7,
-    "daysVolumeNos": 326582,
-    "adjustedOpeningPrice": 110.7,
-    "daysValueMn": 36.17,
-    "openingPrice": 111,
-    "marketCapMn": 3341.71,
-    "closingPrice": 111.8,
-    "freeFloatMarketCapMn": 2161.296
+    "change": -2.4,
+    "daysTradeNos": 1478,
+    "yesterdaysClose": 114.6,
+    "daysVolumeNos": 319149,
+    "adjustedOpeningPrice": 114.6,
+    "daysValueMn": 36.2,
+    "openingPrice": 114.7,
+    "marketCapMn": 3459.439,
+    "closingPrice": 112.2,
+    "freeFloatMarketCapMn": 2237.439
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,22 +74,22 @@
       "publicPct": 41.7
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 35.32,
-      "govtPct": 0,
-      "institutePct": 16.07,
-      "foreignPct": 0,
-      "publicPct": 48.61
-    },
-    {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 35.32,
       "govtPct": 0,
       "institutePct": 14.88,
       "foreignPct": 0,
       "publicPct": 49.8
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 35.32,
+      "govtPct": 0,
+      "institutePct": 18.84,
+      "foreignPct": 0,
+      "publicPct": 45.84
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.74,
+        "date": "2026-09-28",
+        "peBasic": 22.01,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.84,
+        "date": "2026-09-29",
+        "peBasic": 21.53,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.76,
+        "date": "2026-09-30",
+        "peBasic": 21.96,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.97,
+        "date": "2026-10-01",
+        "peBasic": 21.56,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 20.76,
+        "date": "2026-10-04",
+        "peBasic": 21.49,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 20.96,
+        "date": "2026-10-05",
+        "peBasic": 21.04,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01711 704 554",
     "telephoneNo": "88 02 9551335"
   },
-  "scrapedAt": "2026-09-13T15:41:57.177Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:08.218Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.72% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.72,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3459.439,
+      "totalInterestBearingDebt": 25.03
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ANWARGALV",
+  "cseQuote": {
+    "ltp": 115.1,
+    "open": 115.1,
+    "high": 115.1,
+    "low": 115.1,
+    "ycp": 115.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

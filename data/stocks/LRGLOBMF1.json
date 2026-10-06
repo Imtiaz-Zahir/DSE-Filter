@@ -2,7 +2,7 @@
   "tradingCode": "LRGLOBMF1",
   "scripCode": "12188",
   "companyName": "LR Global Bangladesh Mutual Fund One",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LRGLOBMF1",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=LRGLOBMF1",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2023-09-30",
   "overview": {
@@ -10,35 +10,35 @@
     "TRADING CODE": "LRGLOBMF1",
     "tradingCode": "LRGLOBMF1",
     "LTP": 4.3,
-    "HIGH": 4.6,
+    "HIGH": 4.4,
     "LOW": 4.2,
-    "CLOSEP": 4.3,
-    "YCP": 4.4,
-    "CHANGE": -0.1,
-    "TRADE": 170,
-    "VALUE (mn)": 3.658,
-    "VOLUME": 829802
+    "CLOSEP": 4.2,
+    "YCP": 4.3,
+    "CHANGE": 0,
+    "TRADE": 59,
+    "VALUE (mn)": 1.05,
+    "VOLUME": 247527
   },
   "marketInformation": {
     "lastTradingPrice": 4.3,
     "daysRange": [
       4.2,
-      4.6
+      4.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.3,
       5.3
     ],
-    "change": -0.1,
-    "daysTradeNos": 170,
-    "yesterdaysClose": 4.4,
-    "daysVolumeNos": 829802,
-    "adjustedOpeningPrice": 4.4,
-    "daysValueMn": 3.66,
-    "openingPrice": 4.5,
-    "marketCapMn": 1368.753,
-    "closingPrice": 4.3,
+    "change": 0,
+    "daysTradeNos": 59,
+    "yesterdaysClose": 4.3,
+    "daysVolumeNos": 247527,
+    "adjustedOpeningPrice": 4.3,
+    "daysValueMn": 1.05,
+    "openingPrice": 4.4,
+    "marketCapMn": 1337.645,
+    "closingPrice": 4.2,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.48,
+        "date": "2026-09-28",
+        "peBasic": 15.52,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.48,
+        "date": "2026-09-29",
+        "peBasic": 15.52,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 14.14,
+        "date": "2026-09-30",
+        "peBasic": 15.52,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 14.48,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-10-01",
         "peBasic": 15.17,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 14.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 14.48,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:06.515Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:54.849Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1337.645,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/LRGLOBMF1",
+  "cseQuote": {
+    "ltp": 4.3,
+    "open": 4.4,
+    "high": 4.3,
+    "low": 4.3,
+    "ycp": 4.4,
+    "change": -0.1,
+    "changePct": -2.27,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 1274,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

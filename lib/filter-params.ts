@@ -7,6 +7,7 @@ interface SearchParamsReader {
 }
 
 type ArrayFilterKey =
+  | "indices"
   | "sectors"
   | "categories"
   | "instruments"
@@ -17,7 +18,9 @@ type BooleanFilterKey =
   | "zeroDebtOnly"
   | "excludeLossMaking"
   | "excludeNegativePE"
-  | "excludeZeroDividend";
+  | "excludeZeroDividend"
+  | "islamicFinanceOnly"
+  | "excludeNonShariaSectors";
 
 type RangeFilterKey =
   | "ltpRange"
@@ -39,9 +42,14 @@ type RangeFilterKey =
   | "govtPctRange"
   | "volumeRange"
   | "turnoverRange"
-  | "tradesRange";
+  | "tradesRange"
+  | "shariahDebtRatioRange"
+  | "shariahCashRatioRange"
+  | "shariahReceivablesRange"
+  | "shariahPurificationRange";
 
 const ARRAY_PARAMS: ReadonlyArray<readonly [ArrayFilterKey, string]> = [
+  ["indices", "index"],
   ["sectors", "sector"],
   ["categories", "category"],
   ["instruments", "instrument"],
@@ -54,6 +62,8 @@ const BOOLEAN_PARAMS: ReadonlyArray<readonly [BooleanFilterKey, string]> = [
   ["excludeLossMaking", "excludeLossMaking"],
   ["excludeNegativePE", "excludeNegativePE"],
   ["excludeZeroDividend", "excludeZeroDividend"],
+  ["islamicFinanceOnly", "islamicFinance"],
+  ["excludeNonShariaSectors", "excludeNonShariaSectors"],
 ];
 
 const RANGE_PARAMS: ReadonlyArray<readonly [RangeFilterKey, string]> = [
@@ -77,6 +87,10 @@ const RANGE_PARAMS: ReadonlyArray<readonly [RangeFilterKey, string]> = [
   ["volumeRange", "volume"],
   ["turnoverRange", "turnover"],
   ["tradesRange", "trades"],
+  ["shariahDebtRatioRange", "shariahDebt"],
+  ["shariahCashRatioRange", "shariahCash"],
+  ["shariahReceivablesRange", "shariahReceivables"],
+  ["shariahPurificationRange", "shariahPurification"],
 ];
 
 function readNumber(value: string | null): number | undefined {
@@ -89,10 +103,17 @@ function readNumber(value: string | null): number | undefined {
 export function filtersFromSearchParams(
   searchParams: SearchParamsReader | null,
 ): FilterState {
+  const rawExchange = searchParams?.get("exchange");
+  const exchange =
+    rawExchange === "dual" || rawExchange === "dse" || rawExchange === "cse"
+      ? rawExchange
+      : "all";
+
   const filters: FilterState = {
     ...initialFilterState,
     searchQuery: searchParams?.get("q") ?? "",
     preset: searchParams?.get("preset") || "all",
+    exchange,
   };
 
   for (const [filterKey, paramKey] of ARRAY_PARAMS) {
@@ -117,6 +138,9 @@ export function filtersToSearchParams(filters: FilterState): URLSearchParams {
 
   if (filters.preset && filters.preset !== "all") {
     searchParams.set("preset", filters.preset);
+  }
+  if (filters.exchange && filters.exchange !== "all") {
+    searchParams.set("exchange", filters.exchange);
   }
   if (filters.searchQuery.trim()) {
     searchParams.set("q", filters.searchQuery.trim());

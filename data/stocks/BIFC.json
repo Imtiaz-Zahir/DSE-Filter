@@ -2,44 +2,44 @@
   "tradingCode": "BIFC",
   "scripCode": "11136",
   "companyName": "Bangladesh Industrial Fin. Co. Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BIFC",
-  "lastAGMHeldOn": "2026-04-07",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BIFC",
+  "lastAGMHeldOn": "2026-09-21",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 67,
     "TRADING CODE": "BIFC",
     "tradingCode": "BIFC",
-    "LTP": 3.8,
-    "HIGH": 4,
-    "LOW": 3.8,
-    "CLOSEP": 3.8,
-    "YCP": 3.9,
-    "CHANGE": -0.1,
-    "TRADE": 23,
-    "VALUE (mn)": 0.066,
-    "VOLUME": 17241
+    "LTP": 3.1,
+    "HIGH": 3.2,
+    "LOW": 3,
+    "CLOSEP": 3,
+    "YCP": 3.1,
+    "CHANGE": 0,
+    "TRADE": 40,
+    "VALUE (mn)": 0.109,
+    "VOLUME": 35627
   },
   "marketInformation": {
-    "lastTradingPrice": 3.8,
+    "lastTradingPrice": 3.1,
     "daysRange": [
-      3.8,
-      4
+      3,
+      3.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       0.9,
       7.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 23,
-    "yesterdaysClose": 3.9,
-    "daysVolumeNos": 17241,
-    "adjustedOpeningPrice": 3.9,
-    "daysValueMn": 0.07,
-    "openingPrice": 4,
-    "marketCapMn": 392.652,
-    "closingPrice": 3.8,
-    "freeFloatMarketCapMn": 104.327
+    "change": 0,
+    "daysTradeNos": 40,
+    "yesterdaysClose": 3.1,
+    "daysVolumeNos": 35627,
+    "adjustedOpeningPrice": 3.1,
+    "daysValueMn": 0.11,
+    "openingPrice": 3.2,
+    "marketCapMn": 312.108,
+    "closingPrice": 3,
+    "freeFloatMarketCapMn": 82.927
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -61,17 +61,17 @@
     "yearEnd": null,
     "reserveSurplusWithoutOciMn": null,
     "otherComprehensiveIncomeMn": null,
-    "remarks": "TK. 385,825,667 Revaluation Surplus has been added to Reserve & Surplus."
+    "remarks": "TK. 377,025,667 Revaluation Surplus has been added to Reserve & Surplus."
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
       "sponsorDirectorPct": 38.35,
       "govtPct": 0,
-      "institutePct": 43.28,
+      "institutePct": 42.97,
       "foreignPct": 0,
-      "publicPct": 18.37
+      "publicPct": 18.68
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,53 +189,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": -8.1,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": -102.37,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": -815.26,
-      "tciOriginal": -815.26,
-      "tciRestated": -815.26
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": -670.9,
       "tciOriginal": -670.9,
       "tciRestated": -670.9
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -7.38,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -133.58,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -743.46,
+      "tciOriginal": -743.46,
+      "tciRestated": -743.46
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": null,
-      "dividend": null,
-      "cashDividendPct": null,
-      "bonusDividendPct": null,
-      "dividendYieldPct": null
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,12 +341,23 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [],
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
-    "longTermLoanMn": 3843.75,
+    "longTermLoanMn": 3844.6,
     "latestDividendStatus": null
   },
   "addressContact": {
@@ -371,6 +371,55 @@
     "cellNo": "+88 01843257038",
     "telephoneNo": "02-55045123-5, Ext: 110"
   },
-  "scrapedAt": "2026-09-13T15:42:12.330Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:20.055Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (1231.82%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1231.82,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 312.108,
+      "totalInterestBearingDebt": 3844.6
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BIFC",
+  "cseQuote": {
+    "ltp": 3.4,
+    "open": 3.4,
+    "high": 3.4,
+    "low": 3.4,
+    "ycp": 3.4,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

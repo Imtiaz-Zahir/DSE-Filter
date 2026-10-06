@@ -2,44 +2,44 @@
   "tradingCode": "BSC",
   "scripCode": "99604",
   "companyName": "Bangladesh Shipping Corporation",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BSC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BSC",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 72,
     "TRADING CODE": "BSC",
     "tradingCode": "BSC",
-    "LTP": 108.1,
-    "HIGH": 110.8,
+    "LTP": 108,
+    "HIGH": 108.7,
     "LOW": 107.8,
-    "CLOSEP": 108.1,
-    "YCP": 110.5,
-    "CHANGE": -2.4,
-    "TRADE": 741,
-    "VALUE (mn)": 20.091,
-    "VOLUME": 184718
+    "CLOSEP": 108,
+    "YCP": 108.3,
+    "CHANGE": -0.3,
+    "TRADE": 331,
+    "VALUE (mn)": 7.159,
+    "VOLUME": 66180
   },
   "marketInformation": {
-    "lastTradingPrice": 108.1,
+    "lastTradingPrice": 108,
     "daysRange": [
       107.8,
-      110.8
+      108.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       96.6,
       131.4
     ],
-    "change": -2.4,
-    "daysTradeNos": 741,
-    "yesterdaysClose": 110.5,
-    "daysVolumeNos": 184718,
-    "adjustedOpeningPrice": 110.5,
-    "daysValueMn": 20.09,
-    "openingPrice": 110.8,
-    "marketCapMn": 16855.122,
-    "closingPrice": 108.1,
-    "freeFloatMarketCapMn": 7189.518
+    "change": -0.3,
+    "daysTradeNos": 331,
+    "yesterdaysClose": 108.3,
+    "daysVolumeNos": 66180,
+    "adjustedOpeningPrice": 108.3,
+    "daysValueMn": 7.16,
+    "openingPrice": 108.3,
+    "marketCapMn": 16519.545,
+    "closingPrice": 108,
+    "freeFloatMarketCapMn": 7046.378
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.29,
+        "date": "2026-09-28",
+        "peBasic": 6.32,
         "peDiluted": null,
-        "peTrailing": 5.84
+        "peTrailing": 5.86
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.45,
+        "date": "2026-09-29",
+        "peBasic": 6.34,
         "peDiluted": null,
-        "peTrailing": 5.99
+        "peTrailing": 5.88
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.36,
-        "peDiluted": null,
-        "peTrailing": 5.9
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 6.35,
         "peDiluted": null,
         "peTrailing": 5.89
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.32,
+        "date": "2026-10-01",
+        "peBasic": 6.28,
         "peDiluted": null,
-        "peTrailing": 5.87
+        "peTrailing": 5.83
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
+        "peBasic": 6.2,
+        "peDiluted": null,
+        "peTrailing": 5.75
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 6.18,
         "peDiluted": null,
         "peTrailing": 5.74
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.47,
+        "date": "2026-09-28",
+        "peBasic": 5.49,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.61,
+        "date": "2026-09-29",
+        "peBasic": 5.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.53,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 5.52,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.5,
+        "date": "2026-10-01",
+        "peBasic": 5.46,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.38,
+        "date": "2026-10-04",
+        "peBasic": 5.39,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 5.37,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,58 @@
     "cellNo": "+88 01894 509 973",
     "telephoneNo": "031-724479"
   },
-  "scrapedAt": "2026-09-13T15:42:13.228Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:20.775Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (81.33%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 81.33,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 16519.545,
+      "totalInterestBearingDebt": 13435.83
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BSC",
+  "cseQuote": {
+    "ltp": 109,
+    "open": 109,
+    "high": 109,
+    "low": 109,
+    "ycp": 109,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

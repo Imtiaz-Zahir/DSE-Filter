@@ -2,7 +2,7 @@
   "tradingCode": "NTLTUBES",
   "scripCode": "13218",
   "companyName": "National Tubes Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NTLTUBES",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NTLTUBES",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "NTLTUBES",
     "tradingCode": "NTLTUBES",
     "LTP": 59.8,
-    "HIGH": 63.2,
-    "LOW": 59.3,
+    "HIGH": 61.1,
+    "LOW": 59.8,
     "CLOSEP": 59.8,
-    "YCP": 62.8,
-    "CHANGE": -3,
-    "TRADE": 294,
-    "VALUE (mn)": 3.918,
-    "VOLUME": 64676
+    "YCP": 60.3,
+    "CHANGE": -0.5,
+    "TRADE": 176,
+    "VALUE (mn)": 2.063,
+    "VOLUME": 34299
   },
   "marketInformation": {
     "lastTradingPrice": 59.8,
     "daysRange": [
-      59.3,
-      63.2
+      59.8,
+      61.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56,
-      83.7
+      80
     ],
-    "change": -3,
-    "daysTradeNos": 294,
-    "yesterdaysClose": 62.8,
-    "daysVolumeNos": 64676,
-    "adjustedOpeningPrice": 62.8,
-    "daysValueMn": 3.92,
-    "openingPrice": 62.8,
-    "marketCapMn": 2186.809,
+    "change": -0.5,
+    "daysTradeNos": 176,
+    "yesterdaysClose": 60.3,
+    "daysVolumeNos": 34299,
+    "adjustedOpeningPrice": 60.3,
+    "daysValueMn": 2.06,
+    "openingPrice": 60.3,
+    "marketCapMn": 2099.755,
     "closingPrice": 59.8,
-    "freeFloatMarketCapMn": 1070.552
+    "freeFloatMarketCapMn": 1027.935
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 39.57
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 0.05,
-      "govtPct": 51,
-      "institutePct": 6.18,
-      "foreignPct": 0,
-      "publicPct": 42.77
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 0.05,
@@ -90,6 +81,15 @@
       "institutePct": 6.01,
       "foreignPct": 0,
       "publicPct": 42.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 0.05,
+      "govtPct": 51,
+      "institutePct": 6.24,
+      "foreignPct": 0,
+      "publicPct": 42.71
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.03,
+        "date": "2026-09-28",
+        "peBasic": 34.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 36.98,
+        "date": "2026-09-29",
+        "peBasic": 35.12,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 36.86,
+        "date": "2026-09-30",
+        "peBasic": 35.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 36.63,
+        "date": "2026-10-01",
+        "peBasic": 35.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 36.51,
+        "date": "2026-10-04",
+        "peBasic": 35.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 34.77,
         "peDiluted": null
       }
@@ -374,6 +374,40 @@
     "cellNo": "01716639781",
     "telephoneNo": "02224412784"
   },
-  "scrapedAt": "2026-09-13T15:43:26.654Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:05.515Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.83% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.83,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2099.755,
+      "totalInterestBearingDebt": 59.47
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NTLTUBES",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

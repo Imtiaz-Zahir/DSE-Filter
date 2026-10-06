@@ -2,44 +2,44 @@
   "tradingCode": "ALARABANK",
   "scripCode": "11115",
   "companyName": "Al-Arafah Islami Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ALARABANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ALARABANK",
   "lastAGMHeldOn": "2025-11-12",
   "forYearEnded": "2024-12-31",
   "overview": {
     "#": 22,
     "TRADING CODE": "ALARABANK",
     "tradingCode": "ALARABANK",
-    "LTP": 14.5,
-    "HIGH": 15.8,
-    "LOW": 14.5,
-    "CLOSEP": 14.9,
-    "YCP": 15.4,
-    "CHANGE": -0.9,
-    "TRADE": 120,
-    "VALUE (mn)": 0.985,
-    "VOLUME": 65884
+    "LTP": 15,
+    "HIGH": 15.2,
+    "LOW": 14.9,
+    "CLOSEP": 15,
+    "YCP": 15,
+    "CHANGE": 0,
+    "TRADE": 73,
+    "VALUE (mn)": 0.291,
+    "VOLUME": 19230
   },
   "marketInformation": {
-    "lastTradingPrice": 14.5,
+    "lastTradingPrice": 15,
     "daysRange": [
-      14.5,
-      15.8
+      14.9,
+      15.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       19.5
     ],
-    "change": -0.9,
-    "daysTradeNos": 120,
-    "yesterdaysClose": 15.4,
-    "daysVolumeNos": 65884,
-    "adjustedOpeningPrice": 15.4,
-    "daysValueMn": 0.99,
-    "openingPrice": 15.7,
-    "marketCapMn": 17736.052,
-    "closingPrice": 14.9,
-    "freeFloatMarketCapMn": 10569.65
+    "change": 0,
+    "daysTradeNos": 73,
+    "yesterdaysClose": 15,
+    "daysVolumeNos": 19230,
+    "adjustedOpeningPrice": 15,
+    "daysValueMn": 0.29,
+    "openingPrice": 15.2,
+    "marketCapMn": 17275.376,
+    "closingPrice": 15,
+    "freeFloatMarketCapMn": 10295.114
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -74,15 +74,6 @@
       "publicPct": 59.07
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 15.11,
-      "govtPct": 0,
-      "institutePct": 37.88,
-      "foreignPct": 0.03,
-      "publicPct": 46.98
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 40.41,
@@ -90,6 +81,15 @@
       "institutePct": 35.52,
       "foreignPct": 0.03,
       "publicPct": 24.04
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 40.41,
+      "govtPct": 0,
+      "institutePct": 37.17,
+      "foreignPct": 0.03,
+      "publicPct": 22.39
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 9.48,
-        "peDiluted": null,
-        "peTrailing": 21.17
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 9.42,
-        "peDiluted": null,
-        "peTrailing": 21.04
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 9.3,
-        "peDiluted": null,
-        "peTrailing": 20.78
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 9.19,
-        "peDiluted": null,
-        "peTrailing": 20.52
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 8.95,
         "peDiluted": null,
         "peTrailing": 20
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.66,
+        "date": "2026-09-29",
+        "peBasic": 8.9,
         "peDiluted": null,
-        "peTrailing": 19.35
+        "peTrailing": 19.87
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 8.78,
+        "peDiluted": null,
+        "peTrailing": 19.61
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 8.9,
+        "peDiluted": null,
+        "peTrailing": 19.87
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 8.72,
+        "peDiluted": null,
+        "peTrailing": 19.48
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 8.72,
+        "peDiluted": null,
+        "peTrailing": 19.48
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.7,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 24.55,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 24.24,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 23.94,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 23.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 22.58,
+        "date": "2026-09-29",
+        "peBasic": 23.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 22.88,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 23.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 22.73,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 22.73,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01712890010",
     "telephoneNo": "02-44850027, 02-44850005 Ext. 111"
   },
-  "scrapedAt": "2026-09-13T15:41:55.947Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:06.931Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 17275.376,
+      "totalInterestBearingDebt": 67869.79
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ALARABANK",
+  "cseQuote": {
+    "ltp": 14.2,
+    "open": 14.2,
+    "high": 14.2,
+    "low": 14.2,
+    "ycp": 14.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "WMSHIPYARD",
   "scripCode": "13236",
   "companyName": "Western Marine Shipyard Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=WMSHIPYARD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=WMSHIPYARD",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 391,
     "TRADING CODE": "WMSHIPYARD",
     "tradingCode": "WMSHIPYARD",
-    "LTP": 8.5,
-    "HIGH": 9,
-    "LOW": 8.5,
-    "CLOSEP": 8.5,
-    "YCP": 8.9,
-    "CHANGE": -0.4,
-    "TRADE": 212,
-    "VALUE (mn)": 1.717,
-    "VOLUME": 199884
+    "LTP": 8.1,
+    "HIGH": 8.6,
+    "LOW": 7.9,
+    "CLOSEP": 8.1,
+    "YCP": 8.4,
+    "CHANGE": -0.3,
+    "TRADE": 243,
+    "VALUE (mn)": 2.741,
+    "VOLUME": 336567
   },
   "marketInformation": {
-    "lastTradingPrice": 8.5,
+    "lastTradingPrice": 8.1,
     "daysRange": [
-      8.5,
-      9
+      7.9,
+      8.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.6,
       11.3
     ],
-    "change": -0.4,
-    "daysTradeNos": 212,
-    "yesterdaysClose": 8.9,
-    "daysVolumeNos": 199884,
-    "adjustedOpeningPrice": 8.9,
-    "daysValueMn": 1.72,
-    "openingPrice": 9,
-    "marketCapMn": 2093.314,
-    "closingPrice": 8.5,
-    "freeFloatMarketCapMn": 1465.104
+    "change": -0.3,
+    "daysTradeNos": 243,
+    "yesterdaysClose": 8.4,
+    "daysVolumeNos": 336567,
+    "adjustedOpeningPrice": 8.4,
+    "daysValueMn": 2.74,
+    "openingPrice": 8.4,
+    "marketCapMn": 1975.712,
+    "closingPrice": 8.1,
+    "freeFloatMarketCapMn": 1382.795
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:21.142Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:37.764Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (1138.1%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1138.1,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1975.712,
+      "totalInterestBearingDebt": 22485.56
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/WMSHIPYARD",
+  "cseQuote": {
+    "ltp": 8.1,
+    "open": 8.5,
+    "high": 8.2,
+    "low": 8.1,
+    "ycp": 8.5,
+    "change": -0.4,
+    "changePct": -4.71,
+    "trades": 4,
+    "valueMn": 0.03,
+    "volume": 3400,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

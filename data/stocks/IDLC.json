@@ -2,27 +2,27 @@
   "tradingCode": "IDLC",
   "scripCode": "11111",
   "companyName": "IDLC Finance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=IDLC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=IDLC",
   "lastAGMHeldOn": "2026-05-14",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 173,
     "TRADING CODE": "IDLC",
     "tradingCode": "IDLC",
-    "LTP": 41.2,
+    "LTP": 41.6,
     "HIGH": 43,
-    "LOW": 41,
-    "CLOSEP": 41.2,
-    "YCP": 42.2,
-    "CHANGE": -1,
-    "TRADE": 845,
-    "VALUE (mn)": 9.024,
-    "VOLUME": 218241
+    "LOW": 41.6,
+    "CLOSEP": 41.8,
+    "YCP": 42.3,
+    "CHANGE": -0.7,
+    "TRADE": 153,
+    "VALUE (mn)": 1.406,
+    "VOLUME": 33413
   },
   "marketInformation": {
-    "lastTradingPrice": 41.2,
+    "lastTradingPrice": 41.6,
     "daysRange": [
-      41,
+      41.6,
       43
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       32,
       48.3
     ],
-    "change": -1,
-    "daysTradeNos": 845,
-    "yesterdaysClose": 42.2,
-    "daysVolumeNos": 218241,
-    "adjustedOpeningPrice": 42.2,
-    "daysValueMn": 9.02,
+    "change": -0.7,
+    "daysTradeNos": 153,
+    "yesterdaysClose": 42.3,
+    "daysVolumeNos": 33413,
+    "adjustedOpeningPrice": 42.3,
+    "daysValueMn": 1.41,
     "openingPrice": 43,
-    "marketCapMn": 19340.58,
-    "closingPrice": 41.2,
-    "freeFloatMarketCapMn": 12548.324
+    "marketCapMn": 19386.411,
+    "closingPrice": 41.8,
+    "freeFloatMarketCapMn": 12578.059
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -74,15 +74,6 @@
       "publicPct": 14.16
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 35.12,
-      "govtPct": 0,
-      "institutePct": 52.15,
-      "foreignPct": 0.55,
-      "publicPct": 12.18
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 35.12,
@@ -90,6 +81,15 @@
       "institutePct": 52.67,
       "foreignPct": 0.53,
       "publicPct": 11.68
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 35.12,
+      "govtPct": 0,
+      "institutePct": 52.7,
+      "foreignPct": 0.53,
+      "publicPct": 11.65
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 7.12,
+        "peDiluted": null,
+        "peTrailing": 7.01
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 7.07,
+        "peDiluted": null,
+        "peTrailing": 6.96
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 7.17,
         "peDiluted": null,
         "peTrailing": 7.06
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.21,
+        "date": "2026-10-01",
+        "peBasic": 7.16,
         "peDiluted": null,
-        "peTrailing": 7.09
+        "peTrailing": 7.04
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.21,
+        "date": "2026-10-04",
+        "peBasic": 7.07,
         "peDiluted": null,
-        "peTrailing": 7.09
+        "peTrailing": 6.96
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.17,
+        "date": "2026-10-05",
+        "peBasic": 6.99,
         "peDiluted": null,
-        "peTrailing": 7.06
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 7.06,
-        "peDiluted": null,
-        "peTrailing": 6.94
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 6.89,
-        "peDiluted": null,
-        "peTrailing": 6.78
+        "peTrailing": 6.88
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 7.63,
+        "peDiluted": 8.02
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 7.58,
+        "peDiluted": 7.97
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 7.69,
         "peDiluted": 8.08
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.72,
-        "peDiluted": 8.12
+        "date": "2026-10-01",
+        "peBasic": 7.67,
+        "peDiluted": 8.06
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.72,
-        "peDiluted": 8.12
+        "date": "2026-10-04",
+        "peBasic": 7.58,
+        "peDiluted": 7.97
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.69,
-        "peDiluted": 8.08
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 7.56,
-        "peDiluted": 7.95
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 7.38,
-        "peDiluted": 7.76
+        "date": "2026-10-05",
+        "peBasic": 7.49,
+        "peDiluted": 7.87
       }
     ]
   },
@@ -374,6 +374,58 @@
     "cellNo": "01730374531",
     "telephoneNo": "8809609994352"
   },
-  "scrapedAt": "2026-09-13T15:42:50.165Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:46.338Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (164.83%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 164.83,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 19386.411,
+      "totalInterestBearingDebt": 31955.47
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/IDLC",
+  "cseQuote": {
+    "ltp": 42.9,
+    "open": 42.9,
+    "high": 42.9,
+    "low": 42.9,
+    "ycp": 42.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

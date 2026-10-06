@@ -17,6 +17,8 @@ import {
   getSector,
   getCategory,
   getShariaCompliant,
+  getExchanges,
+  getCseLtp,
   getLtp,
   getChangePct,
   getPe,
@@ -42,10 +44,12 @@ export function ExportMenu({ stocks }: ExportMenuProps) {
     const headers = [
       "Trading Code",
       "Company Name",
+      "Exchanges",
       "Sector",
       "Category",
-      "DSES Sharia",
+      "Sharia Compliant",
       "LTP (BDT)",
+      "CSE Price (BDT)",
       "Change %",
       "P/E",
       "Div Yield %",
@@ -62,10 +66,12 @@ export function ExportMenu({ stocks }: ExportMenuProps) {
     const rows = stocks.map((s) => [
       `"${getTradingCode(s)}"`,
       `"${getCompanyName(s).replace(/"/g, '""')}"`,
+      `"${getExchanges(s).join("+")}"`,
       `"${getSector(s)}"`,
       `"${getCategory(s)}"`,
       getShariaCompliant(s) ? "Yes" : "No",
       getLtp(s) ?? "",
+      getCseLtp(s) ?? "",
       getChangePct(s) !== null ? getChangePct(s)?.toFixed(2) : "",
       getPe(s) ?? "",
       getDivYieldPct(s) ?? "",
@@ -84,7 +90,7 @@ export function ExportMenu({ stocks }: ExportMenuProps) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.setAttribute("href", url);
-    link.setAttribute("download", `DSE_Stocks_Filtered_${new Date().toISOString().split("T")[0]}.csv`);
+    link.setAttribute("download", `Bangladesh_Stocks_Filtered_${new Date().toISOString().split("T")[0]}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -96,10 +102,12 @@ export function ExportMenu({ stocks }: ExportMenuProps) {
     const exportData = stocks.map((s) => ({
       tradingCode: getTradingCode(s),
       companyName: getCompanyName(s),
+      exchanges: getExchanges(s),
       sector: getSector(s),
       category: getCategory(s),
       shariaCompliant: getShariaCompliant(s),
       ltp: getLtp(s),
+      cseLtp: getCseLtp(s),
       changePct: getChangePct(s),
       pe: getPe(s),
       dividendYieldPct: getDivYieldPct(s),
@@ -118,7 +126,7 @@ export function ExportMenu({ stocks }: ExportMenuProps) {
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.setAttribute("href", url);
-    link.setAttribute("download", `DSE_Stocks_Filtered_${new Date().toISOString().split("T")[0]}.json`);
+    link.setAttribute("download", `Bangladesh_Stocks_Filtered_${new Date().toISOString().split("T")[0]}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

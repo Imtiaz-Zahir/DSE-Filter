@@ -2,44 +2,44 @@
   "tradingCode": "RENWICKJA",
   "scripCode": "13215",
   "companyName": "Renwick Jajneswar & Co (Bd) Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RENWICKJA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RENWICKJA",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 308,
     "TRADING CODE": "RENWICKJA",
     "tradingCode": "RENWICKJA",
-    "LTP": 741,
-    "HIGH": 755,
-    "LOW": 741,
-    "CLOSEP": 743.5,
-    "YCP": 746,
-    "CHANGE": -5,
-    "TRADE": 9,
-    "VALUE (mn)": 0.141,
-    "VOLUME": 189
+    "LTP": 701.3,
+    "HIGH": 703.1,
+    "LOW": 699.9,
+    "CLOSEP": 701.3,
+    "YCP": 711.4,
+    "CHANGE": -10.1,
+    "TRADE": 63,
+    "VALUE (mn)": 0.313,
+    "VOLUME": 446
   },
   "marketInformation": {
-    "lastTradingPrice": 741,
+    "lastTradingPrice": 701.3,
     "daysRange": [
-      741,
-      755
+      699.9,
+      703.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       422.5,
       1075
     ],
-    "change": -5,
-    "daysTradeNos": 9,
-    "yesterdaysClose": 746,
-    "daysVolumeNos": 189,
-    "adjustedOpeningPrice": 746,
-    "daysValueMn": 0.14,
-    "openingPrice": 754,
-    "marketCapMn": 1492,
-    "closingPrice": 743.5,
-    "freeFloatMarketCapMn": 321.994
+    "change": -10.1,
+    "daysTradeNos": 63,
+    "yesterdaysClose": 711.4,
+    "daysVolumeNos": 446,
+    "adjustedOpeningPrice": 711.4,
+    "daysValueMn": 0.31,
+    "openingPrice": 701.3,
+    "marketCapMn": 1422.8,
+    "closingPrice": 701.3,
+    "freeFloatMarketCapMn": 307.059
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 96.15
+        "peTrailing": 92.56
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 94.28
+        "peTrailing": 91.26
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 95.85
+        "peTrailing": 92.65
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 95.58
+        "peTrailing": 93.32
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 95.03
+        "peTrailing": 90.62
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 94.71
+        "peTrailing": 89.34
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,40 @@
     "cellNo": "+88 01747 224 411",
     "telephoneNo": "9515667"
   },
-  "scrapedAt": "2026-09-13T15:43:45.390Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:16.938Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1422.8,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RENWICKJA",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

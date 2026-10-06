@@ -2,7 +2,7 @@
   "tradingCode": "ASIAINS",
   "scripCode": "25740",
   "companyName": "Asia Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ASIAINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ASIAINS",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "ASIAINS",
     "tradingCode": "ASIAINS",
     "LTP": 39.4,
-    "HIGH": 42,
-    "LOW": 38.4,
+    "HIGH": 41.8,
+    "LOW": 39,
     "CLOSEP": 39.4,
-    "YCP": 41.6,
-    "CHANGE": -2.2,
-    "TRADE": 377,
-    "VALUE (mn)": 8.432,
-    "VOLUME": 209066
+    "YCP": 40.7,
+    "CHANGE": -1.3,
+    "TRADE": 302,
+    "VALUE (mn)": 5.171,
+    "VOLUME": 129625
   },
   "marketInformation": {
     "lastTradingPrice": 39.4,
     "daysRange": [
-      38.4,
-      42
+      39,
+      41.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       24.4,
       48.4
     ],
-    "change": -2.2,
-    "daysTradeNos": 377,
-    "yesterdaysClose": 41.6,
-    "daysVolumeNos": 209066,
-    "adjustedOpeningPrice": 41.6,
-    "daysValueMn": 8.43,
-    "openingPrice": 42,
-    "marketCapMn": 1958.106,
+    "change": -1.3,
+    "daysTradeNos": 302,
+    "yesterdaysClose": 40.7,
+    "daysVolumeNos": 129625,
+    "adjustedOpeningPrice": 40.7,
+    "daysValueMn": 5.17,
+    "openingPrice": 41.8,
+    "marketCapMn": 1915.743,
     "closingPrice": 39.4,
-    "freeFloatMarketCapMn": 1216.39
+    "freeFloatMarketCapMn": 1190.074
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 54.25
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 37.88,
-      "govtPct": 0,
-      "institutePct": 10.77,
-      "foreignPct": 0,
-      "publicPct": 51.35
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 37.88,
@@ -90,6 +81,15 @@
       "institutePct": 11.11,
       "foreignPct": 0,
       "publicPct": 51.01
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 37.88,
+      "govtPct": 0,
+      "institutePct": 11.76,
+      "foreignPct": 0,
+      "publicPct": 50.36
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.76,
+        "date": "2026-09-28",
+        "peBasic": 25.42,
         "peDiluted": null,
-        "peTrailing": 17.19
+        "peTrailing": 17.64
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 25.12,
+        "peDiluted": null,
+        "peTrailing": 17.44
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 24.88,
         "peDiluted": null,
         "peTrailing": 17.27
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 24.58,
+        "date": "2026-10-01",
+        "peBasic": 24.64,
         "peDiluted": null,
-        "peTrailing": 17.07
+        "peTrailing": 17.11
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.88,
+        "date": "2026-10-04",
+        "peBasic": 24.23,
         "peDiluted": null,
-        "peTrailing": 17.27
+        "peTrailing": 16.82
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 24.76,
-        "peDiluted": null,
-        "peTrailing": 17.19
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 23.45,
         "peDiluted": null,
         "peTrailing": 16.28
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.9,
+        "date": "2026-09-28",
+        "peBasic": 20.43,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 20.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 20,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.76,
+        "date": "2026-10-01",
+        "peBasic": 19.81,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 20,
+        "date": "2026-10-04",
+        "peBasic": 19.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.9,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 18.85,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01711 890 048",
     "telephoneNo": "+88-02-41031425-26,+88-02-41031775-76,+88-02-41032881-82."
   },
-  "scrapedAt": "2026-09-13T15:42:01.477Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:10.786Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1915.743,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ASIAINS",
+  "cseQuote": {
+    "ltp": 40,
+    "open": 42.6,
+    "high": 40,
+    "low": 40,
+    "ycp": 42.6,
+    "change": -2.6,
+    "changePct": -6.1,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 100,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

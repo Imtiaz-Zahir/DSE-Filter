@@ -2,28 +2,28 @@
   "tradingCode": "PLFSL",
   "scripCode": "11130",
   "companyName": "Peoples Leasing and Fin. Services Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PLFSL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PLFSL",
   "lastAGMHeldOn": "2026-08-17",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 276,
     "TRADING CODE": "PLFSL",
     "tradingCode": "PLFSL",
-    "LTP": 1.9,
-    "HIGH": 2,
-    "LOW": 1.8,
-    "CLOSEP": 1.9,
-    "YCP": 1.9,
+    "LTP": 1.7,
+    "HIGH": 1.8,
+    "LOW": 1.6,
+    "CLOSEP": 1.7,
+    "YCP": 1.7,
     "CHANGE": 0,
-    "TRADE": 148,
-    "VALUE (mn)": 1.868,
-    "VOLUME": 985117
+    "TRADE": 96,
+    "VALUE (mn)": 0.801,
+    "VOLUME": 472915
   },
   "marketInformation": {
-    "lastTradingPrice": 1.9,
+    "lastTradingPrice": 1.7,
     "daysRange": [
-      1.8,
-      2
+      1.6,
+      1.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       4.2
     ],
     "change": 0,
-    "daysTradeNos": 148,
-    "yesterdaysClose": 1.9,
-    "daysVolumeNos": 985117,
-    "adjustedOpeningPrice": 1.9,
-    "daysValueMn": 1.87,
-    "openingPrice": 1.9,
-    "marketCapMn": 542.337,
-    "closingPrice": 1.9,
-    "freeFloatMarketCapMn": 416.473
+    "daysTradeNos": 96,
+    "yesterdaysClose": 1.7,
+    "daysVolumeNos": 472915,
+    "adjustedOpeningPrice": 1.7,
+    "daysValueMn": 0.8,
+    "openingPrice": 1.7,
+    "marketCapMn": 485.249,
+    "closingPrice": 1.7,
+    "freeFloatMarketCapMn": 372.633
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01754 905 065",
     "telephoneNo": "+88 02 23351732"
   },
-  "scrapedAt": "2026-09-13T15:43:31.948Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:10.309Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (1008.18%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1008.18,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 485.249,
+      "totalInterestBearingDebt": 4892.18
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PLFSL",
+  "cseQuote": {
+    "ltp": 1.8,
+    "open": 1.8,
+    "high": 1.8,
+    "low": 1.8,
+    "ycp": 1.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

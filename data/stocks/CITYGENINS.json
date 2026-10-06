@@ -2,44 +2,44 @@
   "tradingCode": "CITYGENINS",
   "scripCode": "25734",
   "companyName": "City Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CITYGENINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CITYGENINS",
   "lastAGMHeldOn": "2026-03-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 83,
     "TRADING CODE": "CITYGENINS",
     "tradingCode": "CITYGENINS",
-    "LTP": 127.7,
-    "HIGH": 127.8,
-    "LOW": 127.1,
-    "CLOSEP": 127.7,
-    "YCP": 127.9,
-    "CHANGE": -0.2,
-    "TRADE": 152,
-    "VALUE (mn)": 13.097,
-    "VOLUME": 102769
+    "LTP": 132.8,
+    "HIGH": 135,
+    "LOW": 130.6,
+    "CLOSEP": 132.7,
+    "YCP": 131.7,
+    "CHANGE": 1.1,
+    "TRADE": 199,
+    "VALUE (mn)": 6.465,
+    "VOLUME": 48537
   },
   "marketInformation": {
-    "lastTradingPrice": 127.7,
+    "lastTradingPrice": 132.8,
     "daysRange": [
-      127.1,
-      127.8
+      130.6,
+      135
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      62.7,
-      128.4
+      68.3,
+      135
     ],
-    "change": -0.2,
-    "daysTradeNos": 152,
-    "yesterdaysClose": 127.9,
-    "daysVolumeNos": 102769,
-    "adjustedOpeningPrice": 127.9,
-    "daysValueMn": 13.1,
-    "openingPrice": 127.1,
-    "marketCapMn": 8718.447,
-    "closingPrice": 127.7,
-    "freeFloatMarketCapMn": 5083.256
+    "change": 1.1,
+    "daysTradeNos": 199,
+    "yesterdaysClose": 131.7,
+    "daysVolumeNos": 48537,
+    "adjustedOpeningPrice": 131.7,
+    "daysValueMn": 6.47,
+    "openingPrice": 130.6,
+    "marketCapMn": 8977.478,
+    "closingPrice": 132.7,
+    "freeFloatMarketCapMn": 5234.283
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,17 +74,17 @@
       "publicPct": 29.08
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 36.06,
-      "govtPct": 0,
-      "institutePct": 38.31,
-      "foreignPct": 0.01,
-      "publicPct": 25.62
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 36.06,
+      "govtPct": 0,
+      "institutePct": 38.59,
+      "foreignPct": 0.01,
+      "publicPct": 25.34
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 36.06,
       "govtPct": 0,
       "institutePct": 38.59,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.63,
+        "date": "2026-09-28",
+        "peBasic": 24.48,
         "peDiluted": null,
-        "peTrailing": 28.55
+        "peTrailing": 29.57
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.74,
+        "date": "2026-09-29",
+        "peBasic": 24.17,
         "peDiluted": null,
-        "peTrailing": 28.68
+        "peTrailing": 29.19
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.63,
+        "date": "2026-09-30",
+        "peBasic": 24.2,
         "peDiluted": null,
-        "peTrailing": 28.55
+        "peTrailing": 29.24
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 23.56,
+        "date": "2026-10-01",
+        "peBasic": 24.37,
         "peDiluted": null,
-        "peTrailing": 28.46
+        "peTrailing": 29.44
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.69,
+        "date": "2026-10-04",
+        "peBasic": 24.39,
         "peDiluted": null,
-        "peTrailing": 28.61
+        "peTrailing": 29.46
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 23.65,
+        "date": "2026-10-05",
+        "peBasic": 24.57,
         "peDiluted": null,
-        "peTrailing": 28.57
+        "peTrailing": 29.69
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.53,
+        "date": "2026-09-28",
+        "peBasic": 38.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 37.71,
+        "date": "2026-09-29",
+        "peBasic": 38.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 37.53,
+        "date": "2026-09-30",
+        "peBasic": 38.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 37.41,
+        "date": "2026-10-01",
+        "peBasic": 38.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 37.62,
+        "date": "2026-10-04",
+        "peBasic": 38.74,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 37.56,
+        "date": "2026-10-05",
+        "peBasic": 39.03,
         "peDiluted": null
       }
     ]
@@ -370,10 +370,61 @@
     "fax": "880 222-3357509",
     "email": "asad@cityinsurance.com.bd, cs@cityinsurance.com.bd",
     "webAddress": "http://www.cityinsurance.com.bd",
-    "companySecretaryName": "Mr. Mohammed Ashaduzzaman Sarkar (Acting)",
+    "companySecretaryName": "Mr. Mohammed Ashaduzzaman Sarkar",
     "cellNo": "+88 01711 660 670",
-    "telephoneNo": "880-02-223387296 Ext-254"
+    "telephoneNo": "880-02-223387296 Ext-196"
   },
-  "scrapedAt": "2026-09-13T15:42:20.483Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:24.924Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 8977.478,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CITYGENINS",
+  "cseQuote": {
+    "ltp": 131.7,
+    "open": 131.5,
+    "high": 131.7,
+    "low": 131.7,
+    "ycp": 131.5,
+    "change": 0.2,
+    "changePct": 0.15,
+    "trades": 3,
+    "valueMn": 21.9,
+    "volume": 166000,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

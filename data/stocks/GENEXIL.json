@@ -2,44 +2,44 @@
   "tradingCode": "GENEXIL",
   "scripCode": "22650",
   "companyName": "Genex Infosys PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GENEXIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GENEXIL",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 142,
     "TRADING CODE": "GENEXIL",
     "tradingCode": "GENEXIL",
-    "LTP": 34.5,
-    "HIGH": 36.1,
-    "LOW": 34.1,
-    "CLOSEP": 34.5,
-    "YCP": 35.7,
-    "CHANGE": -1.2,
-    "TRADE": 724,
-    "VALUE (mn)": 19.106,
-    "VOLUME": 544622
+    "LTP": 30.7,
+    "HIGH": 32.7,
+    "LOW": 30.6,
+    "CLOSEP": 30.7,
+    "YCP": 32.2,
+    "CHANGE": -1.5,
+    "TRADE": 796,
+    "VALUE (mn)": 18.291,
+    "VOLUME": 584328
   },
   "marketInformation": {
-    "lastTradingPrice": 34.5,
+    "lastTradingPrice": 30.7,
     "daysRange": [
-      34.1,
-      36.1
+      30.6,
+      32.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21,
       44.2
     ],
-    "change": -1.2,
-    "daysTradeNos": 724,
-    "yesterdaysClose": 35.7,
-    "daysVolumeNos": 544622,
-    "adjustedOpeningPrice": 35.7,
-    "daysValueMn": 19.11,
-    "openingPrice": 35.5,
-    "marketCapMn": 4300.066,
-    "closingPrice": 34.5,
-    "freeFloatMarketCapMn": 3179.238
+    "change": -1.5,
+    "daysTradeNos": 796,
+    "yesterdaysClose": 32.2,
+    "daysVolumeNos": 584328,
+    "adjustedOpeningPrice": 32.2,
+    "daysValueMn": 18.29,
+    "openingPrice": 32.2,
+    "marketCapMn": 3878.491,
+    "closingPrice": 30.7,
+    "freeFloatMarketCapMn": 2867.548
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 51.51
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 26.07,
-      "govtPct": 0,
-      "institutePct": 20.49,
-      "foreignPct": 0.06,
-      "publicPct": 53.38
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 26.07,
@@ -90,6 +81,15 @@
       "institutePct": 22.22,
       "foreignPct": 0.03,
       "publicPct": 51.68
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 26.07,
+      "govtPct": 0,
+      "institutePct": 21.21,
+      "foreignPct": 0.04,
+      "publicPct": 52.68
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.38,
+        "date": "2026-09-28",
+        "peBasic": 12.06,
         "peDiluted": null,
-        "peTrailing": 15.98
+        "peTrailing": 15.57
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.56,
+        "date": "2026-09-29",
+        "peBasic": 12.03,
         "peDiluted": null,
-        "peTrailing": 16.21
+        "peTrailing": 15.53
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.74,
+        "date": "2026-09-30",
+        "peBasic": 12.03,
         "peDiluted": null,
-        "peTrailing": 16.44
+        "peTrailing": 15.53
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.7,
+        "date": "2026-10-01",
+        "peBasic": 11.82,
         "peDiluted": null,
-        "peTrailing": 16.39
+        "peTrailing": 15.25
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.63,
+        "date": "2026-10-04",
+        "peBasic": 11.39,
         "peDiluted": null,
-        "peTrailing": 16.3
+        "peTrailing": 14.7
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.21,
+        "date": "2026-10-05",
+        "peBasic": 10.86,
         "peDiluted": null,
-        "peTrailing": 15.75
+        "peTrailing": 14.02
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 16.13,
+        "date": "2026-09-28",
+        "peBasic": 15.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 16.36,
+        "date": "2026-09-29",
+        "peBasic": 15.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 16.59,
+        "date": "2026-09-30",
+        "peBasic": 15.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 16.54,
+        "date": "2026-10-01",
+        "peBasic": 15.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 16.45,
+        "date": "2026-10-04",
+        "peBasic": 14.84,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.9,
+        "date": "2026-10-05",
+        "peBasic": 14.15,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+8801847100128",
     "telephoneNo": "+8809612111000"
   },
-  "scrapedAt": "2026-09-13T15:42:36.604Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:40.125Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 18.73% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 18.73,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3878.491,
+      "totalInterestBearingDebt": 726.63
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GENEXIL",
+  "cseQuote": {
+    "ltp": 32.5,
+    "open": 33.5,
+    "high": 35.6,
+    "low": 32.5,
+    "ycp": 33.5,
+    "change": -1,
+    "changePct": -2.99,
+    "trades": 2,
+    "valueMn": 0.16,
+    "volume": 4700,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

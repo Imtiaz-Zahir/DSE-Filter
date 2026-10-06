@@ -2,44 +2,44 @@
   "tradingCode": "PRIMEFIN",
   "scripCode": "11131",
   "companyName": "Prime Finance & Investment Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRIMEFIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRIMEFIN",
   "lastAGMHeldOn": "2026-03-03",
   "forYearEnded": "2023-12-31",
   "overview": {
     "#": 287,
     "TRADING CODE": "PRIMEFIN",
     "tradingCode": "PRIMEFIN",
-    "LTP": 2.8,
-    "HIGH": 2.9,
-    "LOW": 2.7,
-    "CLOSEP": 2.7,
-    "YCP": 2.9,
-    "CHANGE": -0.1,
-    "TRADE": 93,
-    "VALUE (mn)": 0.764,
-    "VOLUME": 274631
+    "LTP": 2.7,
+    "HIGH": 2.7,
+    "LOW": 2.6,
+    "CLOSEP": 2.6,
+    "YCP": 2.6,
+    "CHANGE": 0.1,
+    "TRADE": 49,
+    "VALUE (mn)": 0.238,
+    "VOLUME": 91257
   },
   "marketInformation": {
-    "lastTradingPrice": 2.8,
+    "lastTradingPrice": 2.7,
     "daysRange": [
-      2.7,
-      2.9
+      2.6,
+      2.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       0.73,
       6.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 93,
-    "yesterdaysClose": 2.9,
-    "daysVolumeNos": 274631,
-    "adjustedOpeningPrice": 2.9,
-    "daysValueMn": 0.76,
-    "openingPrice": 2.9,
-    "marketCapMn": 791.458,
-    "closingPrice": 2.7,
-    "freeFloatMarketCapMn": 323.241
+    "change": 0.1,
+    "daysTradeNos": 49,
+    "yesterdaysClose": 2.6,
+    "daysVolumeNos": 91257,
+    "adjustedOpeningPrice": 2.6,
+    "daysValueMn": 0.24,
+    "openingPrice": 2.7,
+    "marketCapMn": 709.583,
+    "closingPrice": 2.6,
+    "freeFloatMarketCapMn": 289.802
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -366,14 +366,63 @@
   "addressContact": {
     "headOffice": "Head Office",
     "factory": "N/A",
-    "phone": "01777735331",
+    "phone": "01777 735331",
     "fax": null,
     "email": "corporateaffairs@primefinancebd.com",
     "webAddress": "http://www.primefinancebd.com",
-    "companySecretaryName": "Md. Selim Parvez, PGDHRM, L.L.B, FCS",
-    "cellNo": "+88 01755 543 413",
+    "companySecretaryName": "Mr. Saikat MoIIa (C.C)",
+    "cellNo": "+88 01777 735331",
     "telephoneNo": "+88 02 47123462"
   },
-  "scrapedAt": "2026-09-13T15:43:37.631Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:12.347Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (171.35%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 171.35,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 709.583,
+      "totalInterestBearingDebt": 1215.85
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRIMEFIN",
+  "cseQuote": {
+    "ltp": 2.8,
+    "open": 2.8,
+    "high": 2.8,
+    "low": 2.8,
+    "ycp": 2.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

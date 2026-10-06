@@ -2,44 +2,44 @@
   "tradingCode": "BXPHARMA",
   "scripCode": "18453",
   "companyName": "Beximco Pharmaceuticals PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BXPHARMA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BXPHARMA",
   "lastAGMHeldOn": "2024-12-29",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 76,
     "TRADING CODE": "BXPHARMA",
     "tradingCode": "BXPHARMA",
-    "LTP": 148.7,
-    "HIGH": 151.6,
-    "LOW": 148,
-    "CLOSEP": 148.7,
-    "YCP": 150.9,
-    "CHANGE": -2.2,
-    "TRADE": 2047,
-    "VALUE (mn)": 109.763,
-    "VOLUME": 733793
+    "LTP": 142.8,
+    "HIGH": 145.8,
+    "LOW": 141.8,
+    "CLOSEP": 142.8,
+    "YCP": 144.5,
+    "CHANGE": -1.7,
+    "TRADE": 1479,
+    "VALUE (mn)": 40.357,
+    "VOLUME": 280589
   },
   "marketInformation": {
-    "lastTradingPrice": 148.7,
+    "lastTradingPrice": 142.8,
     "daysRange": [
-      148,
-      151.6
+      141.8,
+      145.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       99.5,
       158.5
     ],
-    "change": -2.2,
-    "daysTradeNos": 2047,
-    "yesterdaysClose": 150.9,
-    "daysVolumeNos": 733793,
-    "adjustedOpeningPrice": 150.9,
-    "daysValueMn": 109.76,
-    "openingPrice": 150.9,
-    "marketCapMn": 67318.314,
-    "closingPrice": 148.7,
-    "freeFloatMarketCapMn": 47032.782
+    "change": -1.7,
+    "daysTradeNos": 1479,
+    "yesterdaysClose": 144.5,
+    "daysVolumeNos": 280589,
+    "adjustedOpeningPrice": 144.5,
+    "daysValueMn": 40.36,
+    "openingPrice": 144.8,
+    "marketCapMn": 64463.197,
+    "closingPrice": 142.8,
+    "freeFloatMarketCapMn": 45038.019
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -74,15 +74,6 @@
       "publicPct": 16.7
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30.13,
-      "govtPct": 0,
-      "institutePct": 26.18,
-      "foreignPct": 26.79,
-      "publicPct": 16.9
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 30.13,
@@ -90,6 +81,15 @@
       "institutePct": 25.65,
       "foreignPct": 26.9,
       "publicPct": 17.32
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.13,
+      "govtPct": 0,
+      "institutePct": 25.67,
+      "foreignPct": 27,
+      "publicPct": 17.2
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.27,
+        "date": "2026-09-28",
+        "peBasic": 7.14,
         "peDiluted": null,
-        "peTrailing": 7.78
+        "peTrailing": 7.64
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.23,
+        "date": "2026-09-29",
+        "peBasic": 7.1,
         "peDiluted": null,
-        "peTrailing": 7.74
+        "peTrailing": 7.59
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.26,
+        "date": "2026-09-30",
+        "peBasic": 7.11,
         "peDiluted": null,
-        "peTrailing": 7.77
+        "peTrailing": 7.61
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.28,
+        "date": "2026-10-01",
+        "peBasic": 7.1,
         "peDiluted": null,
-        "peTrailing": 7.79
+        "peTrailing": 7.59
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 7.27,
+        "date": "2026-10-04",
+        "peBasic": 6.96,
         "peDiluted": null,
-        "peTrailing": 7.78
+        "peTrailing": 7.45
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.17,
+        "date": "2026-10-05",
+        "peBasic": 6.88,
         "peDiluted": null,
-        "peTrailing": 7.67
+        "peTrailing": 7.36
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.54,
+        "date": "2026-09-28",
+        "peBasic": 11.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.48,
+        "date": "2026-09-29",
+        "peBasic": 11.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.52,
+        "date": "2026-09-30",
+        "peBasic": 11.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.56,
+        "date": "2026-10-01",
+        "peBasic": 11.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.55,
+        "date": "2026-10-04",
+        "peBasic": 11.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.38,
+        "date": "2026-10-05",
+        "peBasic": 10.93,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,59 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611001-7 41060531-35 41060579-83 Ext.10140"
   },
-  "scrapedAt": "2026-09-13T15:42:16.973Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:22.580Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.73% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.73,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 64463.197,
+      "totalInterestBearingDebt": 1757.97
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BXPHARMA",
+  "cseQuote": {
+    "ltp": 142.5,
+    "open": 145.7,
+    "high": 149.4,
+    "low": 142,
+    "ycp": 145.7,
+    "change": -3.2,
+    "changePct": -2.2,
+    "trades": 3,
+    "valueMn": 0.15,
+    "volume": 1030,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -14,7 +14,6 @@ import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import searchIndex from "@/data/search_index.json";
-import { getLtp, getChange, getChangePct, getCategory, getSector, getShariaCompliant } from "@/lib/stocks";
 import { formatBDT, formatPct, getCategoryBadgeVariant, getChangeColorClass } from "@/lib/utils";
 
 export function QuickSearch() {
@@ -45,7 +44,7 @@ export function QuickSearch() {
       .filter((s) => {
         const code = (s.tradingCode || "").toLowerCase();
         const name = (s.companyName || "").toLowerCase();
-        const sector = getSector(s).toLowerCase();
+        const sector = (s.sector || "").toLowerCase();
         return code.includes(q) || name.includes(q) || sector.includes(q);
       })
       .slice(0, 15);
@@ -90,7 +89,7 @@ export function QuickSearch() {
             className="relative h-8 w-8 sm:w-36 md:w-44 lg:w-56 justify-center sm:justify-start rounded-lg bg-muted/40 p-0 sm:px-2.5 text-xs text-muted-foreground sm:pr-8 md:pr-10 shrink-0"
           >
             <Search className="size-3.5 sm:mr-2 shrink-0" />
-            <span className="hidden sm:inline-flex truncate">Search DSE...</span>
+            <span className="hidden sm:inline-flex truncate">Search stocks...</span>
             <kbd className="pointer-events-none absolute right-1.5 top-1.5 hidden h-5 select-none items-center gap-0.5 rounded border bg-background px-1 font-mono text-[10px] font-medium text-muted-foreground opacity-100 sm:flex">
               <span className="text-[10px]">⌘</span>K
             </kbd>
@@ -108,7 +107,7 @@ export function QuickSearch() {
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={handleInputKeyDown}
-              placeholder="Search ticker (GP, SQURPHARMA), company, or sector..."
+              placeholder="Search ticker (GP, WALTONHIL), company, or sector..."
               className="h-10 border-0 bg-transparent text-sm shadow-none focus-visible:ring-0 placeholder:text-muted-foreground"
               autoFocus
             />
@@ -122,18 +121,18 @@ export function QuickSearch() {
 
           {filtered.length === 0 ? (
             <div className="py-8 text-center text-sm text-muted-foreground">
-              No DSE companies found matching &ldquo;{query}&rdquo;
+              No companies found matching &ldquo;{query}&rdquo;
             </div>
           ) : (
             <div className="space-y-1">
               {filtered.map((stock, idx) => {
                 const code = stock.tradingCode;
-                const ltp = getLtp(stock);
-                const chg = getChange(stock);
-                const chgPct = getChangePct(stock);
-                const cat = getCategory(stock);
-                const isSharia = getShariaCompliant(stock);
-                const sector = getSector(stock);
+                const ltp = stock.ltp ?? null;
+                const chg = stock.change ?? null;
+                const chgPct = stock.changePct ?? null;
+                const cat = (stock.category || "Unknown").toUpperCase();
+                const isSharia = Boolean(stock.shariaCompliant);
+                const sector = stock.sector || "Miscellaneous";
                 const isSelected = idx === selectedIndex;
 
                 return (
@@ -159,7 +158,7 @@ export function QuickSearch() {
                           </Badge>
                           {isSharia && (
                             <Badge variant="outline" className="text-[10px] h-4 px-1 text-emerald-600 border-emerald-500/30 bg-emerald-500/10 dark:text-emerald-400">
-                              DSES
+                              Sharia
                             </Badge>
                           )}
                         </div>

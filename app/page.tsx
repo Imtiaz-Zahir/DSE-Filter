@@ -7,14 +7,17 @@ import { HomeJsonLd } from "@/components/home/home-jsonld";
 import { HomeSeoContent } from "@/components/home/home-seo-content";
 
 export const metadata: Metadata = {
-  title: "DSE Stock Screener & Fundamental Analytics — Dhaka Stock Exchange",
+  title: "DSE & CSE Stock Screener & Fundamental Analytics — Bangladesh Stock Market",
   description:
-    "Free Dhaka Stock Exchange (DSE) stock screener & fundamental analysis tool. Filter 395+ listed Bangladesh stocks by P/E ratio, Dividend Yield, NAVPS, EPS, Market Cap, DSES Sharia index compliance, and multi-year audited financials.",
+    "Free Dhaka Stock Exchange (DSE) & Chittagong Stock Exchange (CSE) stock screener & fundamental analysis tool. Filter 415+ listed Bangladesh stocks by P/E ratio, Dividend Yield, NAVPS, EPS, Market Cap, CSI Sharia index compliance, and multi-year audited financials.",
   keywords: [
     "DSE stock screener",
+    "CSE stock screener",
     "Dhaka Stock Exchange",
+    "Chittagong Stock Exchange",
     "DSE live share price",
-    "DSES Sharia stocks",
+    "CSE live share price",
+    "CSI Sharia stocks",
     "DSE PE ratio",
     "Bangladesh stock market screener",
     "High dividend yield DSE stocks",
@@ -29,18 +32,18 @@ export const metadata: Metadata = {
     canonical: "https://dse-filter.1mt2.workers.dev",
   },
   openGraph: {
-    title: "DSE Stock Screener & Fundamental Analytics — Dhaka Stock Exchange",
+    title: "DSE & CSE Stock Screener & Fundamental Analytics — Bangladesh Stock Market",
     description:
-      "Real-time Dhaka Stock Exchange stock screener. Filter 395+ Bangladesh listed stocks by valuation multiples, DSES Sharia compliance, audited financials, and shareholding.",
+      "Real-time Dhaka Stock Exchange & Chittagong Stock Exchange stock screener. Filter 415+ Bangladesh listed stocks by valuation multiples, CSI Sharia compliance, audited financials, and shareholding.",
     url: "https://dse-filter.1mt2.workers.dev",
     siteName: "DSE Filter",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "DSE Stock Screener & Fundamental Analytics — Dhaka Stock Exchange",
+    title: "DSE & CSE Stock Screener & Fundamental Analytics — Bangladesh Stock Market",
     description:
-      "Real-time Dhaka Stock Exchange screener. Filter Bangladesh stocks by P/E, Dividend Yield, DSES Sharia status, and audited balance sheets.",
+      "Real-time Bangladesh stock screener. Filter DSE & CSE stocks by P/E, Dividend Yield, CSI Sharia status, and audited balance sheets.",
   },
 };
 

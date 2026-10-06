@@ -2,44 +2,44 @@
   "tradingCode": "PRIMEINSUR",
   "scripCode": "25719",
   "companyName": "Prime Islami Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRIMEINSUR",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRIMEINSUR",
   "lastAGMHeldOn": "2026-06-15",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 288,
     "TRADING CODE": "PRIMEINSUR",
     "tradingCode": "PRIMEINSUR",
-    "LTP": 49.4,
-    "HIGH": 51.3,
-    "LOW": 49,
-    "CLOSEP": 49.4,
-    "YCP": 50.9,
-    "CHANGE": -1.5,
-    "TRADE": 448,
-    "VALUE (mn)": 10.132,
-    "VOLUME": 201897
+    "LTP": 47,
+    "HIGH": 48.8,
+    "LOW": 46.8,
+    "CLOSEP": 47,
+    "YCP": 48.4,
+    "CHANGE": -1.4,
+    "TRADE": 397,
+    "VALUE (mn)": 9.256,
+    "VOLUME": 194299
   },
   "marketInformation": {
-    "lastTradingPrice": 49.4,
+    "lastTradingPrice": 47,
     "daysRange": [
-      49,
-      51.3
+      46.8,
+      48.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.5,
       66.9
     ],
-    "change": -1.5,
-    "daysTradeNos": 448,
-    "yesterdaysClose": 50.9,
-    "daysVolumeNos": 201897,
-    "adjustedOpeningPrice": 50.9,
-    "daysValueMn": 10.13,
-    "openingPrice": 50.8,
-    "marketCapMn": 2080.665,
-    "closingPrice": 49.4,
-    "freeFloatMarketCapMn": 1420.112
+    "change": -1.4,
+    "daysTradeNos": 397,
+    "yesterdaysClose": 48.4,
+    "daysVolumeNos": 194299,
+    "adjustedOpeningPrice": 48.4,
+    "daysValueMn": 9.26,
+    "openingPrice": 48.6,
+    "marketCapMn": 1978.471,
+    "closingPrice": 47,
+    "freeFloatMarketCapMn": 1350.362
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.46,
+        "date": "2026-09-28",
+        "peBasic": 20.35,
         "peDiluted": null,
-        "peTrailing": 22.9
+        "peTrailing": 23.94
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 20.38,
+        "date": "2026-09-29",
+        "peBasic": 20.08,
         "peDiluted": null,
-        "peTrailing": 23.98
+        "peTrailing": 23.62
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.58,
+        "date": "2026-09-30",
+        "peBasic": 19.92,
         "peDiluted": null,
-        "peTrailing": 23.03
+        "peTrailing": 23.44
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.65,
+        "date": "2026-10-01",
+        "peBasic": 19.31,
         "peDiluted": null,
-        "peTrailing": 23.12
+        "peTrailing": 22.71
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.58,
+        "date": "2026-10-04",
+        "peBasic": 18.62,
         "peDiluted": null,
-        "peTrailing": 23.03
+        "peTrailing": 21.9
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 19,
+        "date": "2026-10-05",
+        "peBasic": 18.08,
         "peDiluted": null,
-        "peTrailing": 22.35
+        "peTrailing": 21.27
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.56,
+        "date": "2026-09-28",
+        "peBasic": 26.72,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.77,
+        "date": "2026-09-29",
+        "peBasic": 26.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.71,
+        "date": "2026-09-30",
+        "peBasic": 26.16,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 25.81,
+        "date": "2026-10-01",
+        "peBasic": 25.35,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.71,
+        "date": "2026-10-04",
+        "peBasic": 24.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.95,
+        "date": "2026-10-05",
+        "peBasic": 23.74,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01716 016 561",
     "telephoneNo": "09644448888 & Ex-110"
   },
-  "scrapedAt": "2026-09-13T15:43:36.057Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:12.532Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1978.471,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRIMEINSUR",
+  "cseQuote": {
+    "ltp": 51,
+    "open": 51,
+    "high": 51,
+    "low": 51,
+    "ycp": 51,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

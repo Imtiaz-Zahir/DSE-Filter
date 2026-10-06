@@ -2,28 +2,28 @@
   "tradingCode": "DELTASPINN",
   "scripCode": "17427",
   "companyName": "Delta Spinners Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DELTASPINN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DELTASPINN",
   "lastAGMHeldOn": "30/12/2017",
   "forYearEnded": "2017-06-30",
   "overview": {
     "#": 97,
     "TRADING CODE": "DELTASPINN",
     "tradingCode": "DELTASPINN",
-    "LTP": 6.9,
-    "HIGH": 7.3,
-    "LOW": 6.8,
-    "CLOSEP": 6.9,
-    "YCP": 7.1,
+    "LTP": 7.3,
+    "HIGH": 7.7,
+    "LOW": 7.2,
+    "CLOSEP": 7.3,
+    "YCP": 7.5,
     "CHANGE": -0.2,
-    "TRADE": 124,
-    "VALUE (mn)": 3.149,
-    "VOLUME": 455871
+    "TRADE": 183,
+    "VALUE (mn)": 6.502,
+    "VOLUME": 876822
   },
   "marketInformation": {
-    "lastTradingPrice": 6.9,
+    "lastTradingPrice": 7.3,
     "daysRange": [
-      6.8,
-      7.3
+      7.2,
+      7.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       8.2
     ],
     "change": -0.2,
-    "daysTradeNos": 124,
-    "yesterdaysClose": 7.1,
-    "daysVolumeNos": 455871,
-    "adjustedOpeningPrice": 7.1,
-    "daysValueMn": 3.15,
-    "openingPrice": 7,
-    "marketCapMn": 1182.022,
-    "closingPrice": 6.9,
-    "freeFloatMarketCapMn": 938.543
+    "daysTradeNos": 183,
+    "yesterdaysClose": 7.5,
+    "daysVolumeNos": 876822,
+    "adjustedOpeningPrice": 7.5,
+    "daysValueMn": 6.5,
+    "openingPrice": 7.5,
+    "marketCapMn": 1248.615,
+    "closingPrice": 7.3,
+    "freeFloatMarketCapMn": 991.419
   },
   "basicInformation": {
     "authorizedCapitalMn": 1750,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 177.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 180,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 180,
+        "date": "2026-09-30",
+        "peBasic": 192.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 177.5,
+        "date": "2026-10-01",
+        "peBasic": 190,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 177.5,
+        "date": "2026-10-04",
+        "peBasic": 187.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 177.5,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 172.5,
+        "date": "2026-10-05",
+        "peBasic": 182.5,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 24.48,
+        "peDiluted": 27.31
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 24.83,
         "peDiluted": 27.69
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 24.83,
-        "peDiluted": 27.69
+        "date": "2026-09-30",
+        "peBasic": 26.55,
+        "peDiluted": 29.62
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 24.48,
-        "peDiluted": 27.31
+        "date": "2026-10-01",
+        "peBasic": 26.21,
+        "peDiluted": 29.23
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.48,
-        "peDiluted": 27.31
+        "date": "2026-10-04",
+        "peBasic": 25.86,
+        "peDiluted": 28.85
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 24.48,
-        "peDiluted": 27.31
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 23.79,
-        "peDiluted": 26.54
+        "date": "2026-10-05",
+        "peBasic": 25.17,
+        "peDiluted": 28.08
       }
     ]
   },
@@ -374,6 +374,55 @@
     "cellNo": "01711-541132",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:24.805Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:29.516Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (33.34%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 33.34,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1248.615,
+      "totalInterestBearingDebt": 416.31
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DELTASPINN",
+  "cseQuote": {
+    "ltp": 7.5,
+    "open": 7.3,
+    "high": 7.5,
+    "low": 7.4,
+    "ycp": 7.3,
+    "change": 0.2,
+    "changePct": 2.74,
+    "trades": 3,
+    "valueMn": 0,
+    "volume": 550,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

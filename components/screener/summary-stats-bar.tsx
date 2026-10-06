@@ -47,11 +47,11 @@ export function SummaryStatsBar({ stats, filteredCount }: SummaryStatsBarProps) 
             </div>
           </div>
 
-          {/* Item 2: DSES Sharia Compliant */}
+          {/* Item 2: Sharia Compliant */}
           <div className="min-w-[135px] shrink-0 rounded-lg bg-background/80 p-2.5 border border-border/50 shadow-2xs">
             <div className="flex items-center justify-between text-emerald-600 dark:text-emerald-400">
               <span className="text-[11px] font-medium uppercase tracking-wider text-muted-foreground">
-                DSES Sharia
+                Sharia
               </span>
               <ShieldCheck className="size-3.5" />
             </div>

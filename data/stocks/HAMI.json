@@ -2,44 +2,44 @@
   "tradingCode": "HAMI",
   "scripCode": "18474",
   "companyName": "Hami Industries PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HAMI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=HAMI",
   "lastAGMHeldOn": "2023-12-06",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 158,
     "TRADING CODE": "HAMI",
     "tradingCode": "HAMI",
-    "LTP": 146.6,
-    "HIGH": 148.9,
-    "LOW": 143.2,
-    "CLOSEP": 146.6,
-    "YCP": 145.6,
-    "CHANGE": 1,
-    "TRADE": 144,
-    "VALUE (mn)": 1.474,
-    "VOLUME": 10098
+    "LTP": 148.4,
+    "HIGH": 152.6,
+    "LOW": 146,
+    "CLOSEP": 148.4,
+    "YCP": 152.7,
+    "CHANGE": -4.3,
+    "TRADE": 213,
+    "VALUE (mn)": 2.736,
+    "VOLUME": 18290
   },
   "marketInformation": {
-    "lastTradingPrice": 146.6,
+    "lastTradingPrice": 148.4,
     "daysRange": [
-      143.2,
-      148.9
+      146,
+      152.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       93,
       197
     ],
-    "change": 1,
-    "daysTradeNos": 144,
-    "yesterdaysClose": 145.6,
-    "daysVolumeNos": 10098,
-    "adjustedOpeningPrice": 145.6,
-    "daysValueMn": 1.47,
-    "openingPrice": 148.9,
-    "marketCapMn": 1121.12,
-    "closingPrice": 146.6,
-    "freeFloatMarketCapMn": 756.524
+    "change": -4.3,
+    "daysTradeNos": 213,
+    "yesterdaysClose": 152.7,
+    "daysVolumeNos": 18290,
+    "adjustedOpeningPrice": 152.7,
+    "daysValueMn": 2.74,
+    "openingPrice": 150.5,
+    "marketCapMn": 1175.79,
+    "closingPrice": 148.4,
+    "freeFloatMarketCapMn": 793.415
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 522.14,
+        "date": "2026-09-28",
+        "peBasic": 516.79,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 496.07,
+        "date": "2026-09-29",
+        "peBasic": 529.29,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 497.5,
+        "date": "2026-09-30",
+        "peBasic": 550.36,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 517.86,
+        "date": "2026-10-01",
+        "peBasic": 553.21,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 520,
+        "date": "2026-10-04",
+        "peBasic": 545.36,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 523.57,
+        "date": "2026-10-05",
+        "peBasic": 530,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": "+880 1706188865",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:41.087Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:43.743Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.7% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.7,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1175.79,
+      "totalInterestBearingDebt": 43.5
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/HAMI",
+  "cseQuote": {
+    "ltp": 145,
+    "open": 145,
+    "high": 145,
+    "low": 145,
+    "ycp": 145,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.842Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

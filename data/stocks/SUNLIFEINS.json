@@ -2,44 +2,44 @@
   "tradingCode": "SUNLIFEINS",
   "scripCode": "25746",
   "companyName": "Sunlife Insurance Company Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SUNLIFEINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SUNLIFEINS",
   "lastAGMHeldOn": "2026-09-03",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 363,
     "TRADING CODE": "SUNLIFEINS",
     "tradingCode": "SUNLIFEINS",
-    "LTP": 46.9,
-    "HIGH": 49,
-    "LOW": 46.5,
-    "CLOSEP": 46.9,
-    "YCP": 48.9,
-    "CHANGE": -2,
-    "TRADE": 396,
-    "VALUE (mn)": 9.528,
-    "VOLUME": 200809
+    "LTP": 59.7,
+    "HIGH": 60.5,
+    "LOW": 55.1,
+    "CLOSEP": 59.7,
+    "YCP": 56.7,
+    "CHANGE": 3,
+    "TRADE": 1564,
+    "VALUE (mn)": 57.119,
+    "VOLUME": 975173
   },
   "marketInformation": {
-    "lastTradingPrice": 46.9,
+    "lastTradingPrice": 59.7,
     "daysRange": [
-      46.5,
-      49
+      55.1,
+      60.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.2,
       86.8
     ],
-    "change": -2,
-    "daysTradeNos": 396,
-    "yesterdaysClose": 48.9,
-    "daysVolumeNos": 200809,
-    "adjustedOpeningPrice": 48.9,
-    "daysValueMn": 9.53,
-    "openingPrice": 48.9,
-    "marketCapMn": 1748.698,
-    "closingPrice": 46.9,
-    "freeFloatMarketCapMn": 1028.626
+    "change": 3,
+    "daysTradeNos": 1564,
+    "yesterdaysClose": 56.7,
+    "daysVolumeNos": 975173,
+    "adjustedOpeningPrice": 56.7,
+    "daysValueMn": 57.12,
+    "openingPrice": 56.8,
+    "marketCapMn": 2027.631,
+    "closingPrice": 59.7,
+    "freeFloatMarketCapMn": 1192.702
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 54.62
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 35.66,
-      "govtPct": 0,
-      "institutePct": 11.83,
-      "foreignPct": 0,
-      "publicPct": 52.51
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 35.66,
@@ -90,43 +81,52 @@
       "institutePct": 16.74,
       "foreignPct": 0,
       "publicPct": 47.6
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 35.66,
+      "govtPct": 0,
+      "institutePct": 13.29,
+      "foreignPct": 0,
+      "publicPct": 51.05
     }
   ],
   "interimFinancials": [],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,32 +134,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -316,6 +316,57 @@
     "cellNo": "+88 01713190292",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:09.848Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.034Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2027.631,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SUNLIFEINS",
+  "cseQuote": {
+    "ltp": 60,
+    "open": 57,
+    "high": 60,
+    "low": 59.9,
+    "ycp": 57,
+    "change": 3,
+    "changePct": 5.26,
+    "trades": 4,
+    "valueMn": 0.01,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "SPCERAMICS",
   "scripCode": "24633",
   "companyName": "Shinepukur Ceramics PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SPCERAMICS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SPCERAMICS",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 353,
     "TRADING CODE": "SPCERAMICS",
     "tradingCode": "SPCERAMICS",
-    "LTP": 20.3,
-    "HIGH": 21,
-    "LOW": 20.3,
-    "CLOSEP": 20.3,
-    "YCP": 21,
-    "CHANGE": -0.7,
-    "TRADE": 444,
-    "VALUE (mn)": 8.715,
-    "VOLUME": 422503
+    "LTP": 21,
+    "HIGH": 22.5,
+    "LOW": 20.8,
+    "CLOSEP": 21,
+    "YCP": 22,
+    "CHANGE": -1,
+    "TRADE": 959,
+    "VALUE (mn)": 29.326,
+    "VOLUME": 1389312
   },
   "marketInformation": {
-    "lastTradingPrice": 20.3,
+    "lastTradingPrice": 21,
     "daysRange": [
-      20.3,
-      21
+      20.8,
+      22.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       26.4
     ],
-    "change": -0.7,
-    "daysTradeNos": 444,
-    "yesterdaysClose": 21,
-    "daysVolumeNos": 422503,
-    "adjustedOpeningPrice": 21,
-    "daysValueMn": 8.72,
-    "openingPrice": 21,
-    "marketCapMn": 3086.287,
-    "closingPrice": 20.3,
-    "freeFloatMarketCapMn": 1543.144
+    "change": -1,
+    "daysTradeNos": 959,
+    "yesterdaysClose": 22,
+    "daysVolumeNos": 1389312,
+    "adjustedOpeningPrice": 22,
+    "daysValueMn": 29.33,
+    "openingPrice": 22.3,
+    "marketCapMn": 3233.253,
+    "closingPrice": 21,
+    "freeFloatMarketCapMn": 1616.627
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 41.65
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 50,
-      "govtPct": 0,
-      "institutePct": 5.83,
-      "foreignPct": 0,
-      "publicPct": 44.17
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 50,
@@ -90,6 +81,15 @@
       "institutePct": 5.89,
       "foreignPct": 0,
       "publicPct": 44.11
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 50,
+      "govtPct": 0,
+      "institutePct": 5.88,
+      "foreignPct": 0,
+      "publicPct": 44.12
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 125,
+        "date": "2026-09-28",
+        "peBasic": 147.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 130,
+        "date": "2026-09-29",
+        "peBasic": 146.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 127.5,
+        "date": "2026-09-30",
+        "peBasic": 146.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
+        "peBasic": 143.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 137.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 131.25,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 131.25,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 126.88,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "58611891-5, 58612040-7 Ext.-10140"
   },
-  "scrapedAt": "2026-09-13T15:44:06.215Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:25.695Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.3% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.3,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3233.253,
+      "totalInterestBearingDebt": 9.56
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SPCERAMICS",
+  "cseQuote": {
+    "ltp": 21.1,
+    "open": 22.3,
+    "high": 21.6,
+    "low": 21,
+    "ycp": 22.3,
+    "change": -1.2,
+    "changePct": -5.38,
+    "trades": 14,
+    "valueMn": 0.18,
+    "volume": 8650,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

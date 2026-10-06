@@ -2,43 +2,43 @@
   "tradingCode": "CAPITECGBF",
   "scripCode": "12205",
   "companyName": "Capitec Grameen Bank Growth Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CAPITECGBF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CAPITECGBF",
   "lastAGMHeldOn": "For the year ended:",
-  "forYearEnded": "2025-06-30",
+  "forYearEnded": "2026-06-30",
   "overview": {
     "#": 77,
     "TRADING CODE": "CAPITECGBF",
     "tradingCode": "CAPITECGBF",
-    "LTP": 8.7,
-    "HIGH": 9,
-    "LOW": 8.6,
-    "CLOSEP": 8.7,
+    "LTP": 8.5,
+    "HIGH": 8.8,
+    "LOW": 8.4,
+    "CLOSEP": 8.5,
     "YCP": 8.6,
-    "CHANGE": 0.1,
-    "TRADE": 810,
-    "VALUE (mn)": 26.827,
-    "VOLUME": 3038120
+    "CHANGE": -0.1,
+    "TRADE": 343,
+    "VALUE (mn)": 12.034,
+    "VOLUME": 1405801
   },
   "marketInformation": {
-    "lastTradingPrice": 8.7,
+    "lastTradingPrice": 8.5,
     "daysRange": [
-      8.6,
-      9
+      8.4,
+      8.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.1,
       11.5
     ],
-    "change": 0.1,
-    "daysTradeNos": 810,
+    "change": -0.1,
+    "daysTradeNos": 343,
     "yesterdaysClose": 8.6,
-    "daysVolumeNos": 3038120,
+    "daysVolumeNos": 1405801,
     "adjustedOpeningPrice": 8.6,
-    "daysValueMn": 26.83,
+    "daysValueMn": 12.03,
     "openingPrice": 8.7,
     "marketCapMn": 1338.848,
-    "closingPrice": 8.7,
+    "closingPrice": 8.5,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -55,23 +55,23 @@
     "listingYear": 2023,
     "marketCategory": "A",
     "electronicShare": true,
-    "cashDividend": "3.30, 2025",
+    "cashDividend": "9% 2026, 3.30, 2025",
     "bonusIssue": "-",
     "rightIssue": "-",
     "yearEnd": "30-Jun",
-    "reserveSurplusWithoutOciMn": -60.3,
+    "reserveSurplusWithoutOciMn": 53.7,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
-      "asOfDate": "2025-06-30",
+      "period": "Share Holding Percentage [as on Jun 30, 2026 (year ended)]",
+      "asOfDate": "2026-06-30",
       "sponsorDirectorPct": 64.23,
       "govtPct": 0,
-      "institutePct": 1.45,
+      "institutePct": 2.23,
       "foreignPct": 0,
-      "publicPct": 34.32
+      "publicPct": 33.54
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.92,
+        "date": "2026-09-28",
+        "peBasic": 8.58,
         "peDiluted": null,
-        "peTrailing": 7.92
+        "peTrailing": 8.58
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.74,
+        "date": "2026-09-29",
+        "peBasic": 8.49,
         "peDiluted": null,
-        "peTrailing": 7.74
+        "peTrailing": 8.49
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.64,
+        "date": "2026-09-30",
+        "peBasic": 8.49,
         "peDiluted": null,
-        "peTrailing": 7.64
+        "peTrailing": 8.49
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.92,
+        "date": "2026-10-01",
+        "peBasic": 8.4,
         "peDiluted": null,
-        "peTrailing": 7.92
+        "peTrailing": 8.4
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": 8.11,
         "peDiluted": null,
         "peTrailing": 8.11
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.21,
+        "date": "2026-10-05",
+        "peBasic": 8.02,
         "peDiluted": null,
-        "peTrailing": 8.21
+        "peTrailing": 8.02
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.71,
+        "date": "2026-09-28",
+        "peBasic": 8.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 24.12,
+        "date": "2026-09-29",
+        "peBasic": 8.49,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.82,
+        "date": "2026-09-30",
+        "peBasic": 8.49,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.71,
+        "date": "2026-10-01",
+        "peBasic": 8.4,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.29,
+        "date": "2026-10-04",
+        "peBasic": 8.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.59,
+        "date": "2026-10-05",
+        "peBasic": 8.02,
         "peDiluted": null
       }
     ]
@@ -250,6 +250,21 @@
       "profitForTheYearMnRestated": 52.92,
       "tciOriginal": 52.92,
       "tciRestated": 52.92
+    },
+    {
+      "year": 2026,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.06,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10.35,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 165.42,
+      "tciOriginal": 165.42,
+      "tciRestated": 165.42
     }
   ],
   "historicalDividendPE": [
@@ -274,13 +289,24 @@
       "cashDividendPct": 3.3,
       "bonusDividendPct": null,
       "dividendYieldPct": 4.78
+    },
+    {
+      "year": 2026,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 7.15,
+      "dividend": "9.00",
+      "cashDividendPct": 9,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 11.84
     }
   ],
   "financialLinks": [],
   "operationalLoanStatus": {
     "presentOperationalStatus": null,
     "longTermLoanMn": 0,
-    "latestDividendStatus": "3.30 for 2025"
+    "latestDividendStatus": "9.00 for 2026"
   },
   "addressContact": {
     "headOffice": "Head Office",
@@ -293,6 +319,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:16.800Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:22.704Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1338.848,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CAPITECGBF",
+  "cseQuote": {
+    "ltp": 8.7,
+    "open": 9,
+    "high": 8.7,
+    "low": 8.7,
+    "ycp": 9,
+    "change": -0.3,
+    "changePct": -3.33,
+    "trades": 2,
+    "valueMn": 0.74,
+    "volume": 75000,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

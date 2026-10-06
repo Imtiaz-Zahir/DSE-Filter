@@ -2,44 +2,44 @@
   "tradingCode": "DBH",
   "scripCode": "20621",
   "companyName": "DBH Finance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DBH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DBH",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 94,
     "TRADING CODE": "DBH",
     "tradingCode": "DBH",
-    "LTP": 39.9,
-    "HIGH": 40.9,
-    "LOW": 39.6,
-    "CLOSEP": 39.9,
-    "YCP": 40.3,
-    "CHANGE": -0.4,
+    "LTP": 39.1,
+    "HIGH": 39.7,
+    "LOW": 38.9,
+    "CLOSEP": 39.1,
+    "YCP": 39.7,
+    "CHANGE": -0.6,
     "TRADE": 237,
-    "VALUE (mn)": 3.556,
-    "VOLUME": 89138
+    "VALUE (mn)": 1.897,
+    "VOLUME": 48354
   },
   "marketInformation": {
-    "lastTradingPrice": 39.9,
+    "lastTradingPrice": 39.1,
     "daysRange": [
-      39.6,
-      40.9
+      38.9,
+      39.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       31.5,
       45.2
     ],
-    "change": -0.4,
+    "change": -0.6,
     "daysTradeNos": 237,
-    "yesterdaysClose": 40.3,
-    "daysVolumeNos": 89138,
-    "adjustedOpeningPrice": 40.3,
-    "daysValueMn": 3.56,
-    "openingPrice": 40.9,
-    "marketCapMn": 8175.579,
-    "closingPrice": 39.9,
-    "freeFloatMarketCapMn": 3482.338
+    "yesterdaysClose": 39.7,
+    "daysVolumeNos": 48354,
+    "adjustedOpeningPrice": 39.7,
+    "daysValueMn": 1.9,
+    "openingPrice": 39.5,
+    "marketCapMn": 8053.859,
+    "closingPrice": 39.1,
+    "freeFloatMarketCapMn": 3430.491
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -74,15 +74,6 @@
       "publicPct": 16.32
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 51.32,
-      "govtPct": 0,
-      "institutePct": 33.21,
-      "foreignPct": 0.54,
-      "publicPct": 14.93
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 51.32,
@@ -90,6 +81,15 @@
       "institutePct": 32.66,
       "foreignPct": 0.54,
       "publicPct": 15.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 51.32,
+      "govtPct": 0,
+      "institutePct": 32.68,
+      "foreignPct": 0.54,
+      "publicPct": 15.46
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.45,
+        "date": "2026-09-28",
+        "peBasic": 7.23,
         "peDiluted": null,
-        "peTrailing": 7.61
+        "peTrailing": 7.39
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.46,
+        "date": "2026-09-29",
+        "peBasic": 7.24,
         "peDiluted": null,
-        "peTrailing": 7.63
+        "peTrailing": 7.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.45,
-        "peDiluted": null,
-        "peTrailing": 7.61
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 7.35,
-        "peDiluted": null,
-        "peTrailing": 7.52
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 7.35,
-        "peDiluted": null,
-        "peTrailing": 7.52
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 7.28,
         "peDiluted": null,
         "peTrailing": 7.44
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 7.24,
+        "peDiluted": null,
+        "peTrailing": 7.41
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 7.24,
+        "peDiluted": null,
+        "peTrailing": 7.41
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 7.14,
+        "peDiluted": null,
+        "peTrailing": 7.29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.7,
+        "date": "2026-09-28",
+        "peBasic": 8.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.72,
+        "date": "2026-09-29",
+        "peBasic": 8.46,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 8.7,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 8.59,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 8.59,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 8.51,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 8.46,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 8.46,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 8.34,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01614 072 145",
     "telephoneNo": "09610334197"
   },
-  "scrapedAt": "2026-09-13T15:42:22.230Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:27.539Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (99.7%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 99.7,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 8053.859,
+      "totalInterestBearingDebt": 8029.65
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DBH",
+  "cseQuote": {
+    "ltp": 40.6,
+    "open": 40.6,
+    "high": 40.6,
+    "low": 40.6,
+    "ycp": 40.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CASPI",
+    "CSCX"
+  ]
 }

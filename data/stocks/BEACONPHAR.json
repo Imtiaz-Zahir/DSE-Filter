@@ -2,44 +2,44 @@
   "tradingCode": "BEACONPHAR",
   "scripCode": "18482",
   "companyName": "Beacon Pharmaceuticals PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BEACONPHAR",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BEACONPHAR",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 61,
     "TRADING CODE": "BEACONPHAR",
     "tradingCode": "BEACONPHAR",
-    "LTP": 100,
-    "HIGH": 103.4,
-    "LOW": 99.6,
-    "CLOSEP": 100,
-    "YCP": 102.3,
-    "CHANGE": -2.3,
-    "TRADE": 704,
-    "VALUE (mn)": 10.326,
-    "VOLUME": 102719
+    "LTP": 100.7,
+    "HIGH": 101.9,
+    "LOW": 100.1,
+    "CLOSEP": 100.7,
+    "YCP": 100.5,
+    "CHANGE": 0.2,
+    "TRADE": 643,
+    "VALUE (mn)": 7.138,
+    "VOLUME": 70992
   },
   "marketInformation": {
-    "lastTradingPrice": 100,
+    "lastTradingPrice": 100.7,
     "daysRange": [
-      99.6,
-      103.4
+      100.1,
+      101.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      96,
-      134.1
+      93.2,
+      124.2
     ],
-    "change": -2.3,
-    "daysTradeNos": 704,
-    "yesterdaysClose": 102.3,
-    "daysVolumeNos": 102719,
-    "adjustedOpeningPrice": 102.3,
-    "daysValueMn": 10.33,
-    "openingPrice": 103.4,
-    "marketCapMn": 23631.3,
-    "closingPrice": 100,
-    "freeFloatMarketCapMn": 14211.044
+    "change": 0.2,
+    "daysTradeNos": 643,
+    "yesterdaysClose": 100.5,
+    "daysVolumeNos": 70992,
+    "adjustedOpeningPrice": 100.5,
+    "daysValueMn": 7.14,
+    "openingPrice": 100.5,
+    "marketCapMn": 23215.5,
+    "closingPrice": 100.7,
+    "freeFloatMarketCapMn": 13960.996
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,22 +74,22 @@
       "publicPct": 21.24
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 39.86,
       "govtPct": 0,
-      "institutePct": 38.15,
+      "institutePct": 38.16,
       "foreignPct": 0,
-      "publicPct": 21.99
+      "publicPct": 21.98
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 39.86,
       "govtPct": 0,
-      "institutePct": 38.18,
-      "foreignPct": 0,
-      "publicPct": 21.96
+      "institutePct": 38.36,
+      "foreignPct": 0.05,
+      "publicPct": 21.73
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.06,
+        "date": "2026-09-28",
+        "peBasic": 12.68,
         "peDiluted": null,
-        "peTrailing": 16.44
+        "peTrailing": 15.97
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.21,
+        "date": "2026-09-29",
+        "peBasic": 12.62,
         "peDiluted": null,
-        "peTrailing": 16.63
+        "peTrailing": 15.89
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 13.08,
+        "date": "2026-09-30",
+        "peBasic": 13.02,
         "peDiluted": null,
-        "peTrailing": 16.48
+        "peTrailing": 16.4
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.96,
+        "date": "2026-10-01",
+        "peBasic": 12.93,
         "peDiluted": null,
-        "peTrailing": 16.32
+        "peTrailing": 16.29
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.89,
+        "date": "2026-10-04",
+        "peBasic": 12.67,
         "peDiluted": null,
-        "peTrailing": 16.24
+        "peTrailing": 15.95
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.61,
+        "date": "2026-10-05",
+        "peBasic": 12.69,
         "peDiluted": null,
-        "peTrailing": 15.87
+        "peTrailing": 15.98
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.27,
+        "date": "2026-09-28",
+        "peBasic": 24.54,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.56,
+        "date": "2026-09-29",
+        "peBasic": 24.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.32,
+        "date": "2026-09-30",
+        "peBasic": 25.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 25.07,
+        "date": "2026-10-01",
+        "peBasic": 25.02,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 24.95,
+        "date": "2026-10-04",
+        "peBasic": 24.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.39,
+        "date": "2026-10-05",
+        "peBasic": 24.56,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,58 @@
     "cellNo": "+88 01335 251144",
     "telephoneNo": "+880-2-57165371-76"
   },
-  "scrapedAt": "2026-09-13T15:42:11.331Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:18.318Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 13.75% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 13.75,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 23215.5,
+      "totalInterestBearingDebt": 3193.1
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BEACONPHAR",
+  "cseQuote": {
+    "ltp": 104,
+    "open": 104.9,
+    "high": 104,
+    "low": 104,
+    "ycp": 104.9,
+    "change": -0.9,
+    "changePct": -0.86,
+    "trades": 2,
+    "valueMn": 0.34,
+    "volume": 3232,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

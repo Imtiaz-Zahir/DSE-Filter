@@ -2,44 +2,44 @@
   "tradingCode": "TECHNODRUG",
   "scripCode": "18499",
   "companyName": "Techno Drugs Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TECHNODRUG",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TECHNODRUG",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 367,
     "TRADING CODE": "TECHNODRUG",
     "tradingCode": "TECHNODRUG",
-    "LTP": 39.4,
-    "HIGH": 41.8,
-    "LOW": 39.1,
-    "CLOSEP": 39.4,
-    "YCP": 41.7,
-    "CHANGE": -2.3,
-    "TRADE": 1502,
-    "VALUE (mn)": 61.416,
-    "VOLUME": 1512159
+    "LTP": 36.7,
+    "HIGH": 40.8,
+    "LOW": 36.7,
+    "CLOSEP": 36.7,
+    "YCP": 40.7,
+    "CHANGE": -4,
+    "TRADE": 4503,
+    "VALUE (mn)": 146.352,
+    "VOLUME": 3857984
   },
   "marketInformation": {
-    "lastTradingPrice": 39.4,
+    "lastTradingPrice": 36.7,
     "daysRange": [
-      39.1,
-      41.8
+      36.7,
+      40.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.2,
       52
     ],
-    "change": -2.3,
-    "daysTradeNos": 1502,
-    "yesterdaysClose": 41.7,
-    "daysVolumeNos": 1512159,
-    "adjustedOpeningPrice": 41.7,
-    "daysValueMn": 61.42,
-    "openingPrice": 41.3,
-    "marketCapMn": 5504.324,
-    "closingPrice": 39.4,
-    "freeFloatMarketCapMn": 2052.557
+    "change": -4,
+    "daysTradeNos": 4503,
+    "yesterdaysClose": 40.7,
+    "daysVolumeNos": 3857984,
+    "adjustedOpeningPrice": 40.7,
+    "daysValueMn": 146.35,
+    "openingPrice": 40.5,
+    "marketCapMn": 5372.326,
+    "closingPrice": 36.7,
+    "freeFloatMarketCapMn": 2003.335
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 31
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 62.71,
-      "govtPct": 0,
-      "institutePct": 8.3,
-      "foreignPct": 0,
-      "publicPct": 28.99
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 62.71,
@@ -90,6 +81,15 @@
       "institutePct": 4.73,
       "foreignPct": 0,
       "publicPct": 32.56
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 62.71,
+      "govtPct": 0,
+      "institutePct": 4.87,
+      "foreignPct": 0,
+      "publicPct": 32.42
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.2,
+        "date": "2026-09-28",
+        "peBasic": 25.23,
         "peDiluted": null,
-        "peTrailing": 27.97
+        "peTrailing": 25.95
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 27.58,
+        "date": "2026-09-29",
+        "peBasic": 25.23,
         "peDiluted": null,
-        "peTrailing": 28.37
+        "peTrailing": 25.95
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 26.76,
+        "date": "2026-09-30",
+        "peBasic": 25.68,
         "peDiluted": null,
-        "peTrailing": 27.52
+        "peTrailing": 26.41
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 26.95,
+        "date": "2026-10-01",
+        "peBasic": 26.19,
         "peDiluted": null,
-        "peTrailing": 27.71
+        "peTrailing": 26.93
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.5,
+        "date": "2026-10-04",
+        "peBasic": 25.87,
         "peDiluted": null,
-        "peTrailing": 27.25
+        "peTrailing": 26.6
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.04,
+        "date": "2026-10-05",
+        "peBasic": 23.33,
         "peDiluted": null,
-        "peTrailing": 25.75
+        "peTrailing": 23.99
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.32,
+        "date": "2026-09-28",
+        "peBasic": 22.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 24.66,
+        "date": "2026-09-29",
+        "peBasic": 22.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.92,
+        "date": "2026-09-30",
+        "peBasic": 22.95,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.09,
+        "date": "2026-10-01",
+        "peBasic": 23.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.69,
+        "date": "2026-10-04",
+        "peBasic": 23.13,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 22.39,
+        "date": "2026-10-05",
+        "peBasic": 20.85,
         "peDiluted": null
       }
     ]
@@ -322,6 +322,57 @@
     "cellNo": "01313011301",
     "telephoneNo": "+880258316038"
   },
-  "scrapedAt": "2026-09-13T15:44:12.409Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.954Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 29.03% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 29.03,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 5372.326,
+      "totalInterestBearingDebt": 1559.7
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TECHNODRUG",
+  "cseQuote": {
+    "ltp": 36.9,
+    "open": 40.9,
+    "high": 40.3,
+    "low": 36.9,
+    "ycp": 40.9,
+    "change": -4,
+    "changePct": -9.78,
+    "trades": 51,
+    "valueMn": 0.64,
+    "volume": 16957,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "STANCERAM",
   "scripCode": "24626",
   "companyName": "Standard Ceramic Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=STANCERAM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=STANCERAM",
   "lastAGMHeldOn": "2024-12-26",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 358,
     "TRADING CODE": "STANCERAM",
     "tradingCode": "STANCERAM",
-    "LTP": 67.8,
-    "HIGH": 69.6,
-    "LOW": 64.4,
-    "CLOSEP": 69,
-    "YCP": 67.3,
-    "CHANGE": 0.5,
-    "TRADE": 36,
-    "VALUE (mn)": 0.205,
-    "VOLUME": 3039
+    "LTP": 64.5,
+    "HIGH": 65.7,
+    "LOW": 63.6,
+    "CLOSEP": 64.1,
+    "YCP": 65.4,
+    "CHANGE": -0.9,
+    "TRADE": 18,
+    "VALUE (mn)": 0.13,
+    "VOLUME": 2034
   },
   "marketInformation": {
-    "lastTradingPrice": 67.8,
+    "lastTradingPrice": 64.5,
     "daysRange": [
-      64.4,
-      69.6
+      63.6,
+      65.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       55.6,
       89.9
     ],
-    "change": 0.5,
-    "daysTradeNos": 36,
-    "yesterdaysClose": 67.3,
-    "daysVolumeNos": 3039,
-    "adjustedOpeningPrice": 67.3,
-    "daysValueMn": 0.21,
-    "openingPrice": 66.3,
-    "marketCapMn": 434.802,
-    "closingPrice": 69,
-    "freeFloatMarketCapMn": 312.032
+    "change": -0.9,
+    "daysTradeNos": 18,
+    "yesterdaysClose": 65.4,
+    "daysVolumeNos": 2034,
+    "adjustedOpeningPrice": 65.4,
+    "daysValueMn": 0.13,
+    "openingPrice": 64.9,
+    "marketCapMn": 422.527,
+    "closingPrice": 64.1,
+    "freeFloatMarketCapMn": 303.223
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01575 648 846",
     "telephoneNo": "880-2-223381947-8 Ext-14"
   },
-  "scrapedAt": "2026-09-13T15:44:08.424Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:27.180Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 422.527,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/STANCERAM",
+  "cseQuote": {
+    "ltp": 72.3,
+    "open": 72.3,
+    "high": 72.3,
+    "low": 72.3,
+    "ycp": 72.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

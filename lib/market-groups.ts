@@ -18,11 +18,15 @@ import {
   getSector,
   get52WeekRange,
   getLtp,
+  isDualListed,
+  getIndices,
 } from "./stocks";
 
 export type GroupCategoryType =
   | "category"
   | "shariah"
+  | "exchange"
+  | "index"
   | "breadth"
   | "status"
   | "valuation"
@@ -254,52 +258,135 @@ export const MARKET_GROUPS: MarketGroupDef[] = [
   },
 
   // ==========================================
-  // 2. ISLAMIC / SHARIAH COMPLIANCE
+  // 2. ISLAMIC / SHARIAH COMPLIANCE & EXCHANGES
   // ==========================================
   {
     slug: "shariah",
-    title: "DSES Shariah Compliant Stocks",
-    shortTitle: "DSES Shariah",
+    title: "Shariah Compliant Stocks",
+    shortTitle: "Shariah",
     categoryType: "shariah",
     categoryLabel: "Islamic Finance",
-    badge: "DSES Sharia",
+    badge: "Sharia",
     badgeVariant: "emerald",
     icon: "ShieldCheck",
     description:
-      "All 125+ securities approved under the Dhaka Stock Exchange Shariah Index (DSES) adhering to strict Islamic capital market screening principles.",
-    metaTitle: "DSES Shariah Compliant Stocks List — Halal Investing Dhaka Stock Exchange",
+      "All 100+ securities approved under official Islamic capital market screening principles across Bangladesh adhering to strict financial ratio and ethical standards.",
+    metaTitle: "Shariah Compliant Stocks List — Halal Investing Bangladesh Stock Market",
     metaDescription:
-      "Filter 125+ DSES Sharia compliant Bangladesh stocks. Screen Halal DSE securities with debt-to-asset ratios, non-interest revenue models, P/E ratios, and dividend yields.",
+      "Filter 100+ official Sharia compliant Bangladesh stocks. Screen Halal DSE & CSE securities with debt-to-asset ratios, non-interest revenue models, P/E ratios, and dividend yields.",
     keywords: [
+      "Sharia stocks",
       "DSES Sharia stocks",
-      "Shariah compliant stocks DSE",
+      "CSI Sharia stocks",
+      "Shariah compliant stocks Bangladesh",
       "Halal investing Bangladesh",
       "Dhaka stock exchange Islamic index",
-      "DSES index list",
+      "Chittagong stock exchange Shariah index",
+      "Shariah index list",
       "Halal shares Bangladesh",
     ],
     filterFn: (stock: AnyStock) => getShariaCompliant(stock),
     defaultSort: { field: "marketCap", direction: "desc" },
     overviewText:
-      "The DSE Shariah Index (DSES) features listed securities that fulfill Islamic financial screening standards designed by international Shariah supervisory boards (in collaboration with S&P). Companies must operate ethical, non-prohibited business activities (excluding conventional interest banking, alcohol, gambling, and tobacco) and meet financial ratio screens: conventional debt/total assets under 33%, cash and interest-bearing securities under 33%, and accounts receivable under 49%.",
+      "The Chittagong Stock Exchange Shariah Index (CSI) features listed securities that fulfill Islamic financial screening standards designed by international Shariah supervisory boards. Companies must operate ethical, non-prohibited business activities (excluding conventional interest banking, alcohol, gambling, and tobacco) and meet financial ratio screens: conventional debt/total assets under 33%, cash and interest-bearing securities under 33%, and accounts receivable under 49%.",
     criteriaList: [
       "Business Activity Screen: Core operations must not involve conventional interest banking/lending, gambling, alcohol, pork products, or non-permissible media.",
       "Conventional Debt Ratio: Total interest-bearing debt divided by 36-month average market capitalisation must not exceed 33%.",
       "Cash & Interest Securities: Cash and interest-earning deposits divided by market capitalisation must not exceed 33%.",
       "Receivables Ratio: Accounts receivable divided by total assets must not exceed 49%.",
-      "Quarterly Shariah Advisory Review: Regular rebalancing and compliance audits by DSE Shariah Supervisory Board.",
+      "Quarterly Shariah Advisory Review: Regular rebalancing and compliance audits by the Shariah Supervisory Board.",
     ],
     faqs: [
       {
-        q: "What is the DSES Index on Dhaka Stock Exchange?",
-        a: "The DSES (DSE Shariah Index) is a benchmark index measuring the performance of Shariah-compliant equities listed on the Dhaka Stock Exchange, screened for Islamic business ethics and financial leverage limits.",
+        q: "What is the Shariah Index in Bangladesh?",
+        a: "The Shariah Index measures the performance of Shariah-compliant equities in Bangladesh, screened for Islamic business ethics and financial leverage limits.",
       },
       {
-        q: "How frequently is the DSES Sharia stock list updated?",
-        a: "The DSE Shariah Index undergoes semi-annual and annual reviews by the DSE Shariah Supervisory Board, adding newly compliant companies and removing securities that breach debt or revenue thresholds.",
+        q: "How frequently is the Sharia stock list updated?",
+        a: "The Shariah Index undergoes regular semi-annual and annual reviews by the Shariah Supervisory Board, adding newly compliant companies and removing securities that breach debt or revenue thresholds.",
       },
     ],
-    relatedSlugs: ["category-a", "zero-debt", "high-dividend", "low-pe", "large-cap"],
+    relatedSlugs: ["category-a", "zero-debt", "high-dividend", "low-pe", "large-cap", "dual-listed"],
+  },
+  {
+    slug: "dual-listed",
+    title: "Dual-Listed Companies (Traded on DSE & CSE)",
+    shortTitle: "Dual-Listed",
+    categoryType: "exchange",
+    categoryLabel: "Exchange Listing",
+    badge: "DSE + CSE",
+    badgeVariant: "blue",
+    icon: "Layers",
+    description:
+      "Companies actively listed and traded on both the Dhaka Stock Exchange (DSE) and Chittagong Stock Exchange (CSE), offering dual-exchange liquidity.",
+    metaTitle: "Dual-Listed Stocks Bangladesh — Traded on DSE & CSE",
+    metaDescription:
+      "Explore 360+ dual-listed companies traded on both DSE and CSE. Compare live prices, daily volume, turnover, and arbitrage spread between Dhaka and Chittagong bourses.",
+    keywords: [
+      "dual listed stocks Bangladesh",
+      "DSE and CSE stocks",
+      "arbitrage spread DSE CSE",
+      "Bangladesh dual listed companies",
+      "CSE share price vs DSE share price",
+    ],
+    filterFn: (stock: AnyStock) => isDualListed(stock),
+    defaultSort: { field: "marketCap", direction: "desc" },
+    overviewText:
+      "Dual-listed companies are registered on both national bourses: the Dhaka Stock Exchange (DSE) and the Chittagong Stock Exchange (CSE). While DSE captures the majority of daily market turnover and liquidity, dual listing expands shareholder reach, market access, and occasional arbitrage opportunities between the two exchanges.",
+    criteriaList: [
+      "Actively registered and tradable on both DSE and CSE.",
+      "Dual depository connectivity through Central Depository Bangladesh Limited (CDBL).",
+      "Primary daily market price tracked on DSE with secondary quote tracking on CSE.",
+    ],
+    faqs: [
+      {
+        q: "Can investors buy shares on DSE and sell on CSE?",
+        a: "Yes, because all shares in Bangladesh are dematerialized through CDBL, investors with dual-exchange brokerage connections can trade eligible securities across both bourses.",
+      },
+      {
+        q: "Why do DSE and CSE prices sometimes differ?",
+        a: "Differences in intraday order book liquidity and local buyer/seller order flow between Dhaka and Chittagong can cause temporary minor price spreads.",
+      },
+    ],
+    relatedSlugs: ["shariah", "category-a", "large-cap", "cse-30"],
+  },
+  {
+    slug: "cse-30",
+    title: "CSE 30 Blue Chip Index Stocks",
+    shortTitle: "CSE 30",
+    categoryType: "index",
+    categoryLabel: "Market Benchmark",
+    badge: "CSE 30",
+    badgeVariant: "purple",
+    icon: "Crown",
+    description:
+      "The top 30 premier blue-chip companies selected by the Chittagong Stock Exchange based on market capitalization, liquidity, and financial stability.",
+    metaTitle: "CSE 30 Stocks List — Chittagong Stock Exchange Top 30 Blue Chips",
+    metaDescription:
+      "Track the 30 leading companies in the CSE 30 Index. View live market cap, P/E multiples, dividend yields, and fundamental metrics on the Chittagong Stock Exchange.",
+    keywords: [
+      "CSE 30 stocks",
+      "CSE 30 index Bangladesh",
+      "Chittagong stock exchange blue chips",
+      "top 30 companies CSE",
+      "CSE 30 share price",
+    ],
+    filterFn: (stock: AnyStock) => getIndices(stock).includes("CSE30"),
+    defaultSort: { field: "marketCap", direction: "desc" },
+    overviewText:
+      "The CSE 30 Index represents the 30 most prominent and liquid equities on the Chittagong Stock Exchange. These companies represent leading sector champions with established corporate governance, audited profitability, and high institutional holding.",
+    criteriaList: [
+      "Selected under official Chittagong Stock Exchange CSE 30 index methodology.",
+      "High market capitalization and continuous trading history.",
+      "Complies with regulatory reporting and dividend distribution standards.",
+    ],
+    faqs: [
+      {
+        q: "How does the CSE 30 Index compare to DS30?",
+        a: "Both indices track leading blue chips in Bangladesh. While DS30 focuses on DSE volume leaders, CSE 30 represents the premier 30 companies on the Chittagong exchange.",
+      },
+    ],
+    relatedSlugs: ["large-cap", "category-a", "shariah", "dual-listed"],
   },
 
   // ==========================================

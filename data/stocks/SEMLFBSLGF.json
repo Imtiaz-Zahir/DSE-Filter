@@ -2,43 +2,43 @@
   "tradingCode": "SEMLFBSLGF",
   "scripCode": "12203",
   "companyName": "SEML FBLSL Growth Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SEMLFBSLGF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SEMLFBSLGF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 330,
     "TRADING CODE": "SEMLFBSLGF",
     "tradingCode": "SEMLFBSLGF",
-    "LTP": 6.8,
-    "HIGH": 7.1,
-    "LOW": 6.8,
-    "CLOSEP": 6.8,
-    "YCP": 7,
-    "CHANGE": -0.2,
-    "TRADE": 108,
-    "VALUE (mn)": 3.301,
-    "VOLUME": 476023
+    "LTP": 6.7,
+    "HIGH": 6.9,
+    "LOW": 6.7,
+    "CLOSEP": 6.7,
+    "YCP": 6.7,
+    "CHANGE": 0,
+    "TRADE": 164,
+    "VALUE (mn)": 3.26,
+    "VOLUME": 482812
   },
   "marketInformation": {
-    "lastTradingPrice": 6.8,
+    "lastTradingPrice": 6.7,
     "daysRange": [
-      6.8,
-      7.1
+      6.7,
+      6.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.9,
       8.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 108,
-    "yesterdaysClose": 7,
-    "daysVolumeNos": 476023,
-    "adjustedOpeningPrice": 7,
-    "daysValueMn": 3.3,
-    "openingPrice": 7,
-    "marketCapMn": 510.612,
-    "closingPrice": 6.8,
+    "change": 0,
+    "daysTradeNos": 164,
+    "yesterdaysClose": 6.7,
+    "daysVolumeNos": 482812,
+    "adjustedOpeningPrice": 6.7,
+    "daysValueMn": 3.26,
+    "openingPrice": 6.7,
+    "marketCapMn": 488.728,
+    "closingPrice": 6.7,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.67,
+        "date": "2026-09-28",
+        "peBasic": 8,
         "peDiluted": null,
-        "peTrailing": 7.67
+        "peTrailing": 8
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.56,
+        "date": "2026-09-29",
+        "peBasic": 7.89,
         "peDiluted": null,
-        "peTrailing": 7.56
+        "peTrailing": 7.89
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.56,
-        "peDiluted": null,
-        "peTrailing": 7.56
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 7.67,
-        "peDiluted": null,
-        "peTrailing": 7.67
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 7.78,
         "peDiluted": null,
         "peTrailing": 7.78
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 7.56,
         "peDiluted": null,
         "peTrailing": 7.56
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 7.44,
+        "peDiluted": null,
+        "peTrailing": 7.44
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 7.44,
+        "peDiluted": null,
+        "peTrailing": 7.44
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "01346990125",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-13T15:43:56.569Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:20.833Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 488.728,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SEMLFBSLGF",
+  "cseQuote": {
+    "ltp": 6.4,
+    "open": 6.4,
+    "high": 6.4,
+    "low": 6.4,
+    "ycp": 6.4,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.857Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

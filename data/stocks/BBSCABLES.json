@@ -2,44 +2,44 @@
   "tradingCode": "BBSCABLES",
   "scripCode": "13242",
   "companyName": "BBS Cables PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BBSCABLES",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BBSCABLES",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 51,
     "TRADING CODE": "BBSCABLES",
     "tradingCode": "BBSCABLES",
-    "LTP": 16.1,
-    "HIGH": 17.5,
-    "LOW": 15.9,
-    "CLOSEP": 16.1,
-    "YCP": 17.2,
-    "CHANGE": -1.1,
-    "TRADE": 568,
-    "VALUE (mn)": 10.342,
-    "VOLUME": 627278
+    "LTP": 15.6,
+    "HIGH": 16.2,
+    "LOW": 15.5,
+    "CLOSEP": 15.6,
+    "YCP": 16.1,
+    "CHANGE": -0.5,
+    "TRADE": 402,
+    "VALUE (mn)": 6.978,
+    "VOLUME": 442230
   },
   "marketInformation": {
-    "lastTradingPrice": 16.1,
+    "lastTradingPrice": 15.6,
     "daysRange": [
-      15.9,
-      17.5
+      15.5,
+      16.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.6,
       26.8
     ],
-    "change": -1.1,
-    "daysTradeNos": 568,
-    "yesterdaysClose": 17.2,
-    "daysVolumeNos": 627278,
-    "adjustedOpeningPrice": 17.2,
-    "daysValueMn": 10.34,
-    "openingPrice": 17.2,
-    "marketCapMn": 3641.408,
-    "closingPrice": 16.1,
-    "freeFloatMarketCapMn": 2544.441
+    "change": -0.5,
+    "daysTradeNos": 402,
+    "yesterdaysClose": 16.1,
+    "daysVolumeNos": 442230,
+    "adjustedOpeningPrice": 16.1,
+    "daysValueMn": 6.98,
+    "openingPrice": 16.1,
+    "marketCapMn": 3408.527,
+    "closingPrice": 15.6,
+    "freeFloatMarketCapMn": 2381.715
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 46.55
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30.12,
-      "govtPct": 0,
-      "institutePct": 22.94,
-      "foreignPct": 0.09,
-      "publicPct": 46.85
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 30.12,
@@ -90,6 +81,15 @@
       "institutePct": 23.14,
       "foreignPct": 0.09,
       "publicPct": 46.65
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.12,
+      "govtPct": 0,
+      "institutePct": 22.23,
+      "foreignPct": 0.11,
+      "publicPct": 47.54
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,57 @@
     "cellNo": "+88 01708 813 848",
     "telephoneNo": "02-222288916, 222294771"
   },
-  "scrapedAt": "2026-09-13T15:42:06.563Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:15.308Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 12.36% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 12.36,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3408.527,
+      "totalInterestBearingDebt": 421.15
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BBSCABLES",
+  "cseQuote": {
+    "ltp": 15.6,
+    "open": 16.2,
+    "high": 16,
+    "low": 15.6,
+    "ycp": 16.2,
+    "change": -0.6,
+    "changePct": -3.7,
+    "trades": 7,
+    "valueMn": 0.07,
+    "volume": 4200,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

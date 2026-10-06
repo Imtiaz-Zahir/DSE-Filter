@@ -2,44 +2,44 @@
   "tradingCode": "ZAHEENSPIN",
   "scripCode": "17467",
   "companyName": "Zaheen Spinning PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ZAHEENSPIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ZAHEENSPIN",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 393,
     "TRADING CODE": "ZAHEENSPIN",
     "tradingCode": "ZAHEENSPIN",
-    "LTP": 5.1,
-    "HIGH": 5.5,
-    "LOW": 5.1,
-    "CLOSEP": 5.1,
-    "YCP": 5.5,
-    "CHANGE": -0.4,
-    "TRADE": 117,
-    "VALUE (mn)": 1.944,
-    "VOLUME": 373275
+    "LTP": 4.7,
+    "HIGH": 5.1,
+    "LOW": 4.5,
+    "CLOSEP": 4.7,
+    "YCP": 4.9,
+    "CHANGE": -0.2,
+    "TRADE": 85,
+    "VALUE (mn)": 0.451,
+    "VOLUME": 96258
   },
   "marketInformation": {
-    "lastTradingPrice": 5.1,
+    "lastTradingPrice": 4.7,
     "daysRange": [
-      5.1,
-      5.5
+      4.5,
+      5.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.3,
-      7.2
+      7
     ],
-    "change": -0.4,
-    "daysTradeNos": 117,
-    "yesterdaysClose": 5.5,
-    "daysVolumeNos": 373275,
-    "adjustedOpeningPrice": 5.5,
-    "daysValueMn": 1.94,
-    "openingPrice": 5.5,
-    "marketCapMn": 626.056,
-    "closingPrice": 5.1,
-    "freeFloatMarketCapMn": 392.635
+    "change": -0.2,
+    "daysTradeNos": 85,
+    "yesterdaysClose": 4.9,
+    "daysVolumeNos": 96258,
+    "adjustedOpeningPrice": 4.9,
+    "daysValueMn": 0.45,
+    "openingPrice": 5.1,
+    "marketCapMn": 557.759,
+    "closingPrice": 4.7,
+    "freeFloatMarketCapMn": 349.802
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -74,15 +74,6 @@
       "publicPct": 43.73
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 31.1,
-      "govtPct": 0,
-      "institutePct": 23.71,
-      "foreignPct": 0,
-      "publicPct": 45.19
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 31.1,
@@ -90,6 +81,15 @@
       "institutePct": 23.93,
       "foreignPct": 0,
       "publicPct": 44.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 31.1,
+      "govtPct": 0,
+      "institutePct": 24.15,
+      "foreignPct": 0,
+      "publicPct": 44.75
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 11
+        "peTrailing": 10
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 10.8
+        "peTrailing": 10
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 10.8
+        "peTrailing": 9.8
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 11
+        "peTrailing": 9.8
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 11
+        "peTrailing": 9.8
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 10.2
+        "peTrailing": 9.4
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01705 430 311",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:19.702Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:37.707Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.49% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.49,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 557.759,
+      "totalInterestBearingDebt": 19.48
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ZAHEENSPIN",
+  "cseQuote": {
+    "ltp": 5.1,
+    "open": 5.1,
+    "high": 5.1,
+    "low": 5.1,
+    "ycp": 5.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

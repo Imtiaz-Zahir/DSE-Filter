@@ -2,44 +2,44 @@
   "tradingCode": "EASTRNLUB",
   "scripCode": "15303",
   "companyName": "Eastern Lubricants Blenders PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EASTRNLUB",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EASTRNLUB",
   "lastAGMHeldOn": "2026-01-31",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 111,
     "TRADING CODE": "EASTRNLUB",
     "tradingCode": "EASTRNLUB",
-    "LTP": 2009,
-    "HIGH": 2069,
-    "LOW": 2002.2,
-    "CLOSEP": 2009,
-    "YCP": 2057.9,
-    "CHANGE": -48.9,
-    "TRADE": 1384,
-    "VALUE (mn)": 25.914,
-    "VOLUME": 12743
+    "LTP": 1877.4,
+    "HIGH": 1927.7,
+    "LOW": 1875,
+    "CLOSEP": 1877.4,
+    "YCP": 1886.1,
+    "CHANGE": -8.7,
+    "TRADE": 572,
+    "VALUE (mn)": 8.344,
+    "VOLUME": 4433
   },
   "marketInformation": {
-    "lastTradingPrice": 2009,
+    "lastTradingPrice": 1877.4,
     "daysRange": [
-      2002.2,
-      2069
+      1875,
+      1927.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1435,
       2790
     ],
-    "change": -48.9,
-    "daysTradeNos": 1384,
-    "yesterdaysClose": 2057.9,
-    "daysVolumeNos": 12743,
-    "adjustedOpeningPrice": 2057.9,
-    "daysValueMn": 25.91,
-    "openingPrice": 2069,
-    "marketCapMn": 4900.732,
-    "closingPrice": 2009,
-    "freeFloatMarketCapMn": 1663.966
+    "change": -8.7,
+    "daysTradeNos": 572,
+    "yesterdaysClose": 1886.1,
+    "daysVolumeNos": 4433,
+    "adjustedOpeningPrice": 1886.1,
+    "daysValueMn": 8.34,
+    "openingPrice": 1927.7,
+    "marketCapMn": 4491.604,
+    "closingPrice": 1877.4,
+    "freeFloatMarketCapMn": 1525.053
   },
   "basicInformation": {
     "authorizedCapitalMn": 50,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 54.05,
+        "date": "2026-09-28",
+        "peBasic": 51,
         "peDiluted": null,
-        "peTrailing": 44.97
+        "peTrailing": 42.44
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 53.34,
+        "date": "2026-09-29",
+        "peBasic": 50.82,
         "peDiluted": null,
-        "peTrailing": 44.38
+        "peTrailing": 42.29
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 52.33,
+        "date": "2026-09-30",
+        "peBasic": 50.4,
         "peDiluted": null,
-        "peTrailing": 43.55
+        "peTrailing": 41.94
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 53.24,
+        "date": "2026-10-01",
+        "peBasic": 50.3,
         "peDiluted": null,
-        "peTrailing": 44.3
+        "peTrailing": 41.86
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 53.89,
+        "date": "2026-10-04",
+        "peBasic": 49.39,
         "peDiluted": null,
-        "peTrailing": 44.84
+        "peTrailing": 41.1
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 52.61,
+        "date": "2026-10-05",
+        "peBasic": 49.16,
         "peDiluted": null,
-        "peTrailing": 43.78
+        "peTrailing": 40.91
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 47.79,
-        "peDiluted": 71.69
+        "date": "2026-09-28",
+        "peBasic": 45.1,
+        "peDiluted": 67.65
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 47.16,
-        "peDiluted": 70.75
+        "date": "2026-09-29",
+        "peBasic": 44.93,
+        "peDiluted": 67.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 46.27,
-        "peDiluted": 69.41
+        "date": "2026-09-30",
+        "peBasic": 44.56,
+        "peDiluted": 66.85
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 47.07,
-        "peDiluted": 70.61
+        "date": "2026-10-01",
+        "peBasic": 44.48,
+        "peDiluted": 66.72
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 47.65,
-        "peDiluted": 71.48
+        "date": "2026-10-04",
+        "peBasic": 43.67,
+        "peDiluted": 65.51
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 46.52,
-        "peDiluted": 69.78
+        "date": "2026-10-05",
+        "peBasic": 43.47,
+        "peDiluted": 65.21
       }
     ]
   },
@@ -374,6 +374,40 @@
     "cellNo": "01777703400",
     "telephoneNo": "02333354235,02333364236,02333357237,02333357748-9"
   },
-  "scrapedAt": "2026-09-13T15:42:28.859Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:33.914Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4491.604,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EASTRNLUB",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

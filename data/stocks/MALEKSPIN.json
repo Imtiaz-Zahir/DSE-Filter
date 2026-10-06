@@ -2,44 +2,44 @@
   "tradingCode": "MALEKSPIN",
   "scripCode": "17451",
   "companyName": "Malek Spinning Mills PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MALEKSPIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MALEKSPIN",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 213,
     "TRADING CODE": "MALEKSPIN",
     "tradingCode": "MALEKSPIN",
-    "LTP": 44.9,
-    "HIGH": 46.8,
-    "LOW": 44.4,
-    "CLOSEP": 44.9,
-    "YCP": 46.4,
-    "CHANGE": -1.5,
-    "TRADE": 1890,
-    "VALUE (mn)": 131.343,
-    "VOLUME": 2910106
+    "LTP": 48.1,
+    "HIGH": 51.5,
+    "LOW": 47.7,
+    "CLOSEP": 48.1,
+    "YCP": 50.3,
+    "CHANGE": -2.2,
+    "TRADE": 1896,
+    "VALUE (mn)": 124.812,
+    "VOLUME": 2554388
   },
   "marketInformation": {
-    "lastTradingPrice": 44.9,
+    "lastTradingPrice": 48.1,
     "daysRange": [
-      44.4,
-      46.8
+      47.7,
+      51.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.5,
       54.2
     ],
-    "change": -1.5,
-    "daysTradeNos": 1890,
-    "yesterdaysClose": 46.4,
-    "daysVolumeNos": 2910106,
-    "adjustedOpeningPrice": 46.4,
-    "daysValueMn": 131.34,
-    "openingPrice": 46.8,
-    "marketCapMn": 8983.04,
-    "closingPrice": 44.9,
-    "freeFloatMarketCapMn": 4236.217
+    "change": -2.2,
+    "daysTradeNos": 1896,
+    "yesterdaysClose": 50.3,
+    "daysVolumeNos": 2554388,
+    "adjustedOpeningPrice": 50.3,
+    "daysValueMn": 124.81,
+    "openingPrice": 51.5,
+    "marketCapMn": 9738.08,
+    "closingPrice": 48.1,
+    "freeFloatMarketCapMn": 4592.279
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 41.51
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 47.34,
-      "govtPct": 0,
-      "institutePct": 14.72,
-      "foreignPct": 0,
-      "publicPct": 37.94
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 47.34,
@@ -90,6 +81,15 @@
       "institutePct": 13.76,
       "foreignPct": 0,
       "publicPct": 38.9
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 47.34,
+      "govtPct": 0,
+      "institutePct": 14.48,
+      "foreignPct": 0,
+      "publicPct": 38.18
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.8,
-        "peDiluted": null,
-        "peTrailing": 8.36
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 9.19,
-        "peDiluted": null,
-        "peTrailing": 8.73
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 8.52,
-        "peDiluted": null,
-        "peTrailing": 8.1
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-28",
         "peBasic": 8.87,
         "peDiluted": null,
         "peTrailing": 8.43
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.61,
+        "date": "2026-09-29",
+        "peBasic": 8.91,
         "peDiluted": null,
-        "peTrailing": 8.18
+        "peTrailing": 8.47
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.34,
+        "date": "2026-09-30",
+        "peBasic": 9.08,
         "peDiluted": null,
-        "peTrailing": 7.92
+        "peTrailing": 8.62
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 9.28,
+        "peDiluted": null,
+        "peTrailing": 8.82
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 9.34,
+        "peDiluted": null,
+        "peTrailing": 8.87
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 8.93,
+        "peDiluted": null,
+        "peTrailing": 8.48
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.4,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 6.68,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 6.19,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-28",
         "peBasic": 6.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.26,
+        "date": "2026-09-29",
+        "peBasic": 6.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.06,
+        "date": "2026-09-30",
+        "peBasic": 6.6,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 6.75,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 6.79,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 6.49,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "+88 01709 998 861",
     "telephoneNo": "+8809612111177-92 Ext.-184, +880-2-8878062, +880-2-8878065"
   },
-  "scrapedAt": "2026-09-13T15:43:07.353Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:55.667Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (36.89%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 36.89,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 9738.08,
+      "totalInterestBearingDebt": 3592.16
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MALEKSPIN",
+  "cseQuote": {
+    "ltp": 48.7,
+    "open": 50.2,
+    "high": 50,
+    "low": 48.7,
+    "ycp": 50.2,
+    "change": -1.5,
+    "changePct": -2.99,
+    "trades": 6,
+    "valueMn": 0.01,
+    "volume": 110,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

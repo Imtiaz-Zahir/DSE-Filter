@@ -2,44 +2,44 @@
   "tradingCode": "GHCL",
   "scripCode": "18485",
   "companyName": "Global Heavy Chemicals Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GHCL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GHCL",
   "lastAGMHeldOn": "2023-12-21",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 145,
     "TRADING CODE": "GHCL",
     "tradingCode": "GHCL",
-    "LTP": 19.6,
-    "HIGH": 20.9,
-    "LOW": 19,
-    "CLOSEP": 19.3,
-    "YCP": 20.8,
-    "CHANGE": -1.2,
-    "TRADE": 161,
-    "VALUE (mn)": 1.2,
-    "VOLUME": 60840
+    "LTP": 19,
+    "HIGH": 19.7,
+    "LOW": 18.8,
+    "CLOSEP": 19,
+    "YCP": 19,
+    "CHANGE": 0,
+    "TRADE": 49,
+    "VALUE (mn)": 0.499,
+    "VOLUME": 26250
   },
   "marketInformation": {
-    "lastTradingPrice": 19.6,
+    "lastTradingPrice": 19,
     "daysRange": [
-      19,
-      20.9
+      18.8,
+      19.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.2,
       26.1
     ],
-    "change": -1.2,
-    "daysTradeNos": 161,
-    "yesterdaysClose": 20.8,
-    "daysVolumeNos": 60840,
-    "adjustedOpeningPrice": 20.8,
-    "daysValueMn": 1.2,
-    "openingPrice": 20.7,
-    "marketCapMn": 1497.6,
-    "closingPrice": 19.3,
-    "freeFloatMarketCapMn": 470.184
+    "change": 0,
+    "daysTradeNos": 49,
+    "yesterdaysClose": 19,
+    "daysVolumeNos": 26250,
+    "adjustedOpeningPrice": 19,
+    "daysValueMn": 0.5,
+    "openingPrice": 19,
+    "marketCapMn": 1368,
+    "closingPrice": 19,
+    "freeFloatMarketCapMn": 429.495
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,57 @@
     "cellNo": "01713-374873",
     "telephoneNo": "02-48311900 Ext: 1616"
   },
-  "scrapedAt": "2026-09-13T15:42:38.024Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:39.944Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.02% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.02,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1368,
+      "totalInterestBearingDebt": 41.35
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GHCL",
+  "cseQuote": {
+    "ltp": 19.8,
+    "open": 19.8,
+    "high": 19.8,
+    "low": 19.8,
+    "ycp": 19.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

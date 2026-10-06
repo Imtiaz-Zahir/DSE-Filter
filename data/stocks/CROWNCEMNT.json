@@ -2,44 +2,44 @@
   "tradingCode": "CROWNCEMNT",
   "scripCode": "21644",
   "companyName": "Crown Cement PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CROWNCEMNT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CROWNCEMNT",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 89,
     "TRADING CODE": "CROWNCEMNT",
     "tradingCode": "CROWNCEMNT",
-    "LTP": 57.6,
-    "HIGH": 60.2,
-    "LOW": 57.6,
-    "CLOSEP": 57.8,
-    "YCP": 59.7,
-    "CHANGE": -2.1,
-    "TRADE": 57,
-    "VALUE (mn)": 0.345,
-    "VOLUME": 5895
+    "LTP": 58,
+    "HIGH": 59,
+    "LOW": 57,
+    "CLOSEP": 57.4,
+    "YCP": 57.7,
+    "CHANGE": 0.3,
+    "TRADE": 47,
+    "VALUE (mn)": 0.203,
+    "VOLUME": 3541
   },
   "marketInformation": {
-    "lastTradingPrice": 57.6,
+    "lastTradingPrice": 58,
     "daysRange": [
-      57.6,
-      60.2
+      57,
+      59
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44,
       74.7
     ],
-    "change": -2.1,
-    "daysTradeNos": 57,
-    "yesterdaysClose": 59.7,
-    "daysVolumeNos": 5895,
-    "adjustedOpeningPrice": 59.7,
-    "daysValueMn": 0.35,
-    "openingPrice": 60.2,
-    "marketCapMn": 8865.45,
-    "closingPrice": 57.8,
-    "freeFloatMarketCapMn": 3934.355
+    "change": 0.3,
+    "daysTradeNos": 47,
+    "yesterdaysClose": 57.7,
+    "daysVolumeNos": 3541,
+    "adjustedOpeningPrice": 57.7,
+    "daysValueMn": 0.2,
+    "openingPrice": 58.7,
+    "marketCapMn": 8568.45,
+    "closingPrice": 57.4,
+    "freeFloatMarketCapMn": 3802.551
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,17 +74,17 @@
       "publicPct": 29.58
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 41.02,
-      "govtPct": 0,
-      "institutePct": 19.22,
-      "foreignPct": 0.05,
-      "publicPct": 39.71
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 41.02,
+      "govtPct": 0,
+      "institutePct": 19.27,
+      "foreignPct": 0.05,
+      "publicPct": 39.66
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 41.02,
       "govtPct": 0,
       "institutePct": 19.27,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.22,
+        "date": "2026-09-28",
+        "peBasic": 25.94,
         "peDiluted": null,
-        "peTrailing": 23.2
+        "peTrailing": 22.11
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.76,
+        "date": "2026-09-29",
+        "peBasic": 26.12,
         "peDiluted": null,
-        "peTrailing": 21.95
+        "peTrailing": 22.26
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.28,
+        "date": "2026-09-30",
+        "peBasic": 25.99,
         "peDiluted": null,
-        "peTrailing": 21.54
+        "peTrailing": 22.14
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 26.21,
+        "date": "2026-10-01",
+        "peBasic": 25.68,
         "peDiluted": null,
-        "peTrailing": 22.33
+        "peTrailing": 21.88
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.34,
+        "date": "2026-10-04",
+        "peBasic": 25.46,
         "peDiluted": null,
-        "peTrailing": 22.44
+        "peTrailing": 21.69
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.5,
+        "date": "2026-10-05",
+        "peBasic": 25.32,
         "peDiluted": null,
-        "peTrailing": 21.73
+        "peTrailing": 21.58
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.65,
+        "date": "2026-09-28",
+        "peBasic": 13.01,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.92,
+        "date": "2026-09-29",
+        "peBasic": 13.1,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.68,
+        "date": "2026-09-30",
+        "peBasic": 13.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 13.14,
+        "date": "2026-10-01",
+        "peBasic": 12.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 13.21,
+        "date": "2026-10-04",
+        "peBasic": 12.77,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.79,
+        "date": "2026-10-05",
+        "peBasic": 12.7,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01730 709 003",
     "telephoneNo": "02-222263631, 02-222261633, 02-222262634, 02-222284636, 02-222290641 Ext.- 120"
   },
-  "scrapedAt": "2026-09-13T15:42:21.145Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:26.210Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (54.63%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 54.63,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 8568.45,
+      "totalInterestBearingDebt": 4681.26
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CROWNCEMNT",
+  "cseQuote": {
+    "ltp": 61,
+    "open": 61,
+    "high": 61,
+    "low": 61,
+    "ycp": 61,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

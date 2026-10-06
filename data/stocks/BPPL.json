@@ -2,28 +2,28 @@
   "tradingCode": "BPPL",
   "scripCode": "15324",
   "companyName": "Baraka Patenga Power Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BPPL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BPPL",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 70,
     "TRADING CODE": "BPPL",
     "tradingCode": "BPPL",
-    "LTP": 18.7,
-    "HIGH": 19.4,
-    "LOW": 18.6,
-    "CLOSEP": 18.7,
-    "YCP": 19.2,
+    "LTP": 17.9,
+    "HIGH": 18.5,
+    "LOW": 17.8,
+    "CLOSEP": 17.9,
+    "YCP": 18.4,
     "CHANGE": -0.5,
-    "TRADE": 544,
-    "VALUE (mn)": 14.789,
-    "VOLUME": 785996
+    "TRADE": 548,
+    "VALUE (mn)": 15.401,
+    "VOLUME": 849370
   },
   "marketInformation": {
-    "lastTradingPrice": 18.7,
+    "lastTradingPrice": 17.9,
     "daysRange": [
-      18.6,
-      19.4
+      17.8,
+      18.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       22.4
     ],
     "change": -0.5,
-    "daysTradeNos": 544,
-    "yesterdaysClose": 19.2,
-    "daysVolumeNos": 785996,
-    "adjustedOpeningPrice": 19.2,
-    "daysValueMn": 14.79,
-    "openingPrice": 19.3,
-    "marketCapMn": 3321.513,
-    "closingPrice": 18.7,
-    "freeFloatMarketCapMn": 2133.893
+    "daysTradeNos": 548,
+    "yesterdaysClose": 18.4,
+    "daysVolumeNos": 849370,
+    "adjustedOpeningPrice": 18.4,
+    "daysValueMn": 15.4,
+    "openingPrice": 18.2,
+    "marketCapMn": 3183.117,
+    "closingPrice": 17.9,
+    "freeFloatMarketCapMn": 2044.98
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 55.47
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 35.76,
-      "govtPct": 0,
-      "institutePct": 9.41,
-      "foreignPct": 0,
-      "publicPct": 54.83
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 35.76,
@@ -90,6 +81,15 @@
       "institutePct": 8.92,
       "foreignPct": 0,
       "publicPct": 55.32
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 35.76,
+      "govtPct": 0,
+      "institutePct": 8.62,
+      "foreignPct": 0,
+      "publicPct": 55.62
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.17,
+        "date": "2026-09-28",
+        "peBasic": 4.88,
         "peDiluted": null,
-        "peTrailing": 5.64
+        "peTrailing": 5.33
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.24,
-        "peDiluted": null,
-        "peTrailing": 5.73
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 5.17,
-        "peDiluted": null,
-        "peTrailing": 5.64
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 5.17,
-        "peDiluted": null,
-        "peTrailing": 5.64
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 5.03,
-        "peDiluted": null,
-        "peTrailing": 5.5
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 4.9,
         "peDiluted": null,
         "peTrailing": 5.36
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 4.98,
+        "peDiluted": null,
+        "peTrailing": 5.44
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 4.88,
+        "peDiluted": null,
+        "peTrailing": 5.33
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 4.83,
+        "peDiluted": null,
+        "peTrailing": 5.27
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 4.69,
+        "peDiluted": null,
+        "peTrailing": 5.13
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.38,
+        "date": "2026-09-28",
+        "peBasic": 13.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.6,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 14.38,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 14.38,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 14.01,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 13.65,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 13.87,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 13.58,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 13.43,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 13.07,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+88 01531 548 499",
     "telephoneNo": "+88-02-223380339, 47115792 (Ext. 115)"
   },
-  "scrapedAt": "2026-09-13T15:42:12.380Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:19.011Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (144.02%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 144.02,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3183.117,
+      "totalInterestBearingDebt": 4584.45
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BPPL",
+  "cseQuote": {
+    "ltp": 17.8,
+    "open": 18.5,
+    "high": 18.3,
+    "low": 17.8,
+    "ycp": 18.5,
+    "change": -0.7,
+    "changePct": -3.78,
+    "trades": 13,
+    "valueMn": 0.07,
+    "volume": 3648,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

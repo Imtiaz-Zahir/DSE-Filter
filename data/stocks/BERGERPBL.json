@@ -2,44 +2,44 @@
   "tradingCode": "BERGERPBL",
   "scripCode": "99638",
   "companyName": "Berger Paints Bangladesh Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BERGERPBL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BERGERPBL",
   "lastAGMHeldOn": "2026-08-24",
   "forYearEnded": "2026-03-31",
   "overview": {
     "#": 63,
     "TRADING CODE": "BERGERPBL",
     "tradingCode": "BERGERPBL",
-    "LTP": 1458.7,
-    "HIGH": 1475.5,
-    "LOW": 1455,
-    "CLOSEP": 1458.7,
-    "YCP": 1475.4,
-    "CHANGE": -16.7,
-    "TRADE": 315,
-    "VALUE (mn)": 6.044,
-    "VOLUME": 4128
+    "LTP": 1462,
+    "HIGH": 1470,
+    "LOW": 1450,
+    "CLOSEP": 1456,
+    "YCP": 1459.9,
+    "CHANGE": 2.1,
+    "TRADE": 120,
+    "VALUE (mn)": 1.129,
+    "VOLUME": 776
   },
   "marketInformation": {
-    "lastTradingPrice": 1458.7,
+    "lastTradingPrice": 1462,
     "daysRange": [
-      1455,
-      1475.5
+      1450,
+      1470
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1335.9,
-      1524
+      1550.5
     ],
-    "change": -16.7,
-    "daysTradeNos": 315,
-    "yesterdaysClose": 1475.4,
-    "daysVolumeNos": 4128,
-    "adjustedOpeningPrice": 1475.4,
-    "daysValueMn": 6.04,
-    "openingPrice": 1475.5,
-    "marketCapMn": 72450.979,
-    "closingPrice": 1458.7,
-    "freeFloatMarketCapMn": 7113.744
+    "change": 2.1,
+    "daysTradeNos": 120,
+    "yesterdaysClose": 1459.9,
+    "daysVolumeNos": 776,
+    "adjustedOpeningPrice": 1459.9,
+    "daysValueMn": 1.13,
+    "openingPrice": 1470,
+    "marketCapMn": 71689.836,
+    "closingPrice": 1456,
+    "freeFloatMarketCapMn": 7039.01
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.13,
+        "date": "2026-09-28",
+        "peBasic": 9.9,
         "peDiluted": null,
-        "peTrailing": 15.67
+        "peTrailing": 15.32
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 10.14,
+        "date": "2026-09-29",
+        "peBasic": 9.96,
         "peDiluted": null,
-        "peTrailing": 15.69
+        "peTrailing": 15.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10.07,
+        "date": "2026-09-30",
+        "peBasic": 9.94,
         "peDiluted": null,
-        "peTrailing": 15.58
+        "peTrailing": 15.38
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.06,
+        "date": "2026-10-01",
+        "peBasic": 9.94,
         "peDiluted": null,
-        "peTrailing": 15.56
+        "peTrailing": 15.37
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 10.02,
+        "date": "2026-10-04",
+        "peBasic": 9.92,
         "peDiluted": null,
-        "peTrailing": 15.5
+        "peTrailing": 15.34
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.91,
+        "date": "2026-10-05",
+        "peBasic": 9.89,
         "peDiluted": null,
-        "peTrailing": 15.33
+        "peTrailing": 15.3
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.41,
+        "date": "2026-09-28",
+        "peBasic": 18.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.44,
+        "date": "2026-09-29",
+        "peBasic": 19.09,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.3,
+        "date": "2026-09-30",
+        "peBasic": 19.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.27,
+        "date": "2026-10-01",
+        "peBasic": 19.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.2,
+        "date": "2026-10-04",
+        "peBasic": 19,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 18.99,
+        "date": "2026-10-05",
+        "peBasic": 18.95,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01713 279 723",
     "telephoneNo": "+88-2-48953665"
   },
-  "scrapedAt": "2026-09-13T15:42:11.125Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:18.235Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 1.21% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1.21,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 71689.836,
+      "totalInterestBearingDebt": 865.18
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BERGERPBL",
+  "cseQuote": {
+    "ltp": 1434,
+    "open": 1434,
+    "high": 1434,
+    "low": 1434,
+    "ycp": 1434,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

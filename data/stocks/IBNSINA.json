@@ -2,44 +2,44 @@
   "tradingCode": "IBNSINA",
   "scripCode": "18464",
   "companyName": "The IBN SINA  Pharmaceutical Industry PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=IBNSINA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=IBNSINA",
   "lastAGMHeldOn": "2025-11-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 163,
     "TRADING CODE": "IBNSINA",
     "tradingCode": "IBNSINA",
-    "LTP": 310.7,
-    "HIGH": 314.9,
-    "LOW": 308.2,
-    "CLOSEP": 310.7,
-    "YCP": 313.4,
-    "CHANGE": -2.7,
-    "TRADE": 125,
-    "VALUE (mn)": 2.449,
-    "VOLUME": 7871
+    "LTP": 308.3,
+    "HIGH": 314.1,
+    "LOW": 303,
+    "CLOSEP": 308.3,
+    "YCP": 310.9,
+    "CHANGE": -2.6,
+    "TRADE": 344,
+    "VALUE (mn)": 10.566,
+    "VOLUME": 34107
   },
   "marketInformation": {
-    "lastTradingPrice": 310.7,
+    "lastTradingPrice": 308.3,
     "daysRange": [
-      308.2,
-      314.9
+      303,
+      314.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       273.8,
       371
     ],
-    "change": -2.7,
-    "daysTradeNos": 125,
-    "yesterdaysClose": 313.4,
-    "daysVolumeNos": 7871,
-    "adjustedOpeningPrice": 313.4,
-    "daysValueMn": 2.45,
-    "openingPrice": 313.4,
-    "marketCapMn": 9791.753,
-    "closingPrice": 310.7,
-    "freeFloatMarketCapMn": 5417.18
+    "change": -2.6,
+    "daysTradeNos": 344,
+    "yesterdaysClose": 310.9,
+    "daysVolumeNos": 34107,
+    "adjustedOpeningPrice": 310.9,
+    "daysValueMn": 10.57,
+    "openingPrice": 311,
+    "marketCapMn": 9713.644,
+    "closingPrice": 308.3,
+    "freeFloatMarketCapMn": 5373.967
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 33.51
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 44.68,
-      "govtPct": 0,
-      "institutePct": 25.13,
-      "foreignPct": 0,
-      "publicPct": 30.19
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 44.68,
@@ -90,6 +81,15 @@
       "institutePct": 25.37,
       "foreignPct": 0,
       "publicPct": 29.95
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 44.68,
+      "govtPct": 0,
+      "institutePct": 25.55,
+      "foreignPct": 0,
+      "publicPct": 29.77
     }
   ],
   "interimFinancials": [
@@ -140,82 +140,82 @@
     },
     {
       "period": "Annual",
-      "endDate": null,
-      "epsBasic": null,
+      "endDate": "2026-06",
+      "epsBasic": 25.43,
       "epsDiluted": null,
-      "epsContinuingBasic": null,
+      "epsContinuingBasic": 25.43,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": null
+      "marketPriceEnd": 319.6
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.82,
+        "date": "2026-09-28",
+        "peBasic": 12.49,
         "peDiluted": null,
-        "peTrailing": 12.48
+        "peTrailing": 12.49
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.8,
+        "date": "2026-09-29",
+        "peBasic": 12.5,
         "peDiluted": null,
-        "peTrailing": 12.46
+        "peTrailing": 12.5
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.75,
+        "date": "2026-09-30",
+        "peBasic": 12.51,
         "peDiluted": null,
-        "peTrailing": 12.41
+        "peTrailing": 12.51
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.77,
+        "date": "2026-10-01",
+        "peBasic": 12.39,
         "peDiluted": null,
-        "peTrailing": 12.42
+        "peTrailing": 12.39
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.79,
+        "date": "2026-10-04",
+        "peBasic": 12.23,
         "peDiluted": null,
-        "peTrailing": 12.44
+        "peTrailing": 12.23
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.69,
+        "date": "2026-10-05",
+        "peBasic": 12.12,
         "peDiluted": null,
-        "peTrailing": 12.33
+        "peTrailing": 12.12
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.51,
+        "date": "2026-09-28",
+        "peBasic": 15.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 15.48,
+        "date": "2026-09-29",
+        "peBasic": 15.68,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 15.42,
+        "date": "2026-09-30",
+        "peBasic": 15.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 15.44,
+        "date": "2026-10-01",
+        "peBasic": 15.54,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 15.46,
+        "date": "2026-10-04",
+        "peBasic": 15.34,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.33,
+        "date": "2026-10-05",
+        "peBasic": 15.21,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01713 094075",
     "telephoneNo": "+8802-41022150-58, 41022174"
   },
-  "scrapedAt": "2026-09-13T15:42:44.353Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:44.512Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 10.03% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 10.03,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 9713.644,
+      "totalInterestBearingDebt": 974.71
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/IBNSINA",
+  "cseQuote": {
+    "ltp": 337,
+    "open": 337,
+    "high": 337,
+    "low": 337,
+    "ycp": 337,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.842Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

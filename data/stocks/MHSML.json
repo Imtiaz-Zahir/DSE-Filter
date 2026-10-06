@@ -2,44 +2,44 @@
   "tradingCode": "MHSML",
   "scripCode": "17459",
   "companyName": "Mozaffar Hossain Spinning Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MHSML",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MHSML",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 225,
     "TRADING CODE": "MHSML",
     "tradingCode": "MHSML",
-    "LTP": 18.7,
-    "HIGH": 19.8,
-    "LOW": 18.4,
-    "CLOSEP": 18.7,
-    "YCP": 19.8,
-    "CHANGE": -1.1,
-    "TRADE": 423,
-    "VALUE (mn)": 8.974,
-    "VOLUME": 468732
+    "LTP": 19.1,
+    "HIGH": 20,
+    "LOW": 18.8,
+    "CLOSEP": 19.1,
+    "YCP": 19.9,
+    "CHANGE": -0.8,
+    "TRADE": 377,
+    "VALUE (mn)": 8.739,
+    "VOLUME": 450516
   },
   "marketInformation": {
-    "lastTradingPrice": 18.7,
+    "lastTradingPrice": 19.1,
     "daysRange": [
-      18.4,
-      19.8
+      18.8,
+      20
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       25.8
     ],
-    "change": -1.1,
-    "daysTradeNos": 423,
-    "yesterdaysClose": 19.8,
-    "daysVolumeNos": 468732,
-    "adjustedOpeningPrice": 19.8,
-    "daysValueMn": 8.97,
-    "openingPrice": 19.6,
-    "marketCapMn": 1999.669,
-    "closingPrice": 18.7,
-    "freeFloatMarketCapMn": 1207.667
+    "change": -0.8,
+    "daysTradeNos": 377,
+    "yesterdaysClose": 19.9,
+    "daysVolumeNos": 450516,
+    "adjustedOpeningPrice": 19.9,
+    "daysValueMn": 8.74,
+    "openingPrice": 19.9,
+    "marketCapMn": 2009.768,
+    "closingPrice": 19.1,
+    "freeFloatMarketCapMn": 1213.767
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 34.89
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 39.61,
-      "govtPct": 0,
-      "institutePct": 20.73,
-      "foreignPct": 0.08,
-      "publicPct": 39.58
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 39.61,
@@ -90,6 +81,15 @@
       "institutePct": 17.76,
       "foreignPct": 0.08,
       "publicPct": 42.55
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 39.61,
+      "govtPct": 0,
+      "institutePct": 17.35,
+      "foreignPct": 0.08,
+      "publicPct": 42.96
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.52,
+        "date": "2026-09-28",
+        "peBasic": 18.06,
         "peDiluted": null,
-        "peTrailing": 24.1
+        "peTrailing": 23.49
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 18.98,
-        "peDiluted": null,
-        "peTrailing": 24.7
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 18.43,
-        "peDiluted": null,
-        "peTrailing": 23.98
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 18.52,
-        "peDiluted": null,
-        "peTrailing": 24.1
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 18.33,
         "peDiluted": null,
         "peTrailing": 23.86
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.31,
+        "date": "2026-09-30",
+        "peBasic": 18.24,
         "peDiluted": null,
-        "peTrailing": 22.53
+        "peTrailing": 23.73
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 18.61,
+        "peDiluted": null,
+        "peTrailing": 24.22
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 18.43,
+        "peDiluted": null,
+        "peTrailing": 23.98
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 17.69,
+        "peDiluted": null,
+        "peTrailing": 23.01
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.78,
+        "date": "2026-09-28",
+        "peBasic": 27.08,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 28.47,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 27.64,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 27.78,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 27.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.97,
+        "date": "2026-09-30",
+        "peBasic": 27.36,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 27.92,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 27.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 26.53,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "01708-483355",
     "telephoneNo": "880963-9203040 Extension No. 109"
   },
-  "scrapedAt": "2026-09-13T15:43:10.243Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:57.563Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (106.05%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 106.05,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2009.768,
+      "totalInterestBearingDebt": 2131.4
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MHSML",
+  "cseQuote": {
+    "ltp": 19.3,
+    "open": 20.6,
+    "high": 19.3,
+    "low": 19.3,
+    "ycp": 20.6,
+    "change": -1.3,
+    "changePct": -6.31,
+    "trades": 2,
+    "valueMn": 0.04,
+    "volume": 1900,
+    "updatedDate": "2026-10-06T01:10:39.847Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

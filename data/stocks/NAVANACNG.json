@@ -2,7 +2,7 @@
   "tradingCode": "NAVANACNG",
   "scripCode": "13228",
   "companyName": "Navana CNG Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NAVANACNG",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NAVANACNG",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "NAVANACNG",
     "tradingCode": "NAVANACNG",
     "LTP": 19.3,
-    "HIGH": 20.2,
-    "LOW": 19.3,
-    "CLOSEP": 19.6,
-    "YCP": 20.2,
-    "CHANGE": -0.9,
-    "TRADE": 83,
-    "VALUE (mn)": 0.53,
-    "VOLUME": 26851
+    "HIGH": 19.5,
+    "LOW": 19.2,
+    "CLOSEP": 19.3,
+    "YCP": 19.4,
+    "CHANGE": -0.1,
+    "TRADE": 35,
+    "VALUE (mn)": 0.291,
+    "VOLUME": 15054
   },
   "marketInformation": {
     "lastTradingPrice": 19.3,
     "daysRange": [
-      19.3,
-      20.2
+      19.2,
+      19.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      18.9,
-      28.2
+      18.6,
+      24.4
     ],
-    "change": -0.9,
-    "daysTradeNos": 83,
-    "yesterdaysClose": 20.2,
-    "daysVolumeNos": 26851,
-    "adjustedOpeningPrice": 20.2,
-    "daysValueMn": 0.53,
-    "openingPrice": 20.1,
-    "marketCapMn": 1526.166,
-    "closingPrice": 19.6,
-    "freeFloatMarketCapMn": 797.872
+    "change": -0.1,
+    "daysTradeNos": 35,
+    "yesterdaysClose": 19.4,
+    "daysVolumeNos": 15054,
+    "adjustedOpeningPrice": 19.4,
+    "daysValueMn": 0.29,
+    "openingPrice": 19.4,
+    "marketCapMn": 1465.724,
+    "closingPrice": 19.3,
+    "freeFloatMarketCapMn": 766.273
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1545,
+        "date": "2026-09-28",
+        "peBasic": 1477.5,
         "peDiluted": null,
-        "peTrailing": 1030
+        "peTrailing": 985
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1515,
+        "date": "2026-09-29",
+        "peBasic": 1500,
         "peDiluted": null,
-        "peTrailing": 1010
+        "peTrailing": 1000
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1537.5,
+        "date": "2026-09-30",
+        "peBasic": 1462.5,
         "peDiluted": null,
-        "peTrailing": 1025
+        "peTrailing": 975
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1537.5,
+        "date": "2026-10-01",
+        "peBasic": 1477.5,
         "peDiluted": null,
-        "peTrailing": 1025
+        "peTrailing": 985
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1515,
+        "date": "2026-10-04",
+        "peBasic": 1455,
         "peDiluted": null,
-        "peTrailing": 1010
+        "peTrailing": 970
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1470,
+        "date": "2026-10-05",
+        "peBasic": 1447.5,
         "peDiluted": null,
-        "peTrailing": 980
+        "peTrailing": 965
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 206,
+        "date": "2026-09-28",
+        "peBasic": 197,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 202,
+        "date": "2026-09-29",
+        "peBasic": 200,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 205,
+        "date": "2026-09-30",
+        "peBasic": 195,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 205,
+        "date": "2026-10-01",
+        "peBasic": 197,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 202,
+        "date": "2026-10-04",
+        "peBasic": 194,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 196,
+        "date": "2026-10-05",
+        "peBasic": 193,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+88 01811 448 104",
     "telephoneNo": "02223381812"
   },
-  "scrapedAt": "2026-09-13T15:43:19.481Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:02.019Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (632.84%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 632.84,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1465.724,
+      "totalInterestBearingDebt": 9275.65
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NAVANACNG",
+  "cseQuote": {
+    "ltp": 19.1,
+    "open": 19.1,
+    "high": 19.1,
+    "low": 19.1,
+    "ycp": 19.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.849Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

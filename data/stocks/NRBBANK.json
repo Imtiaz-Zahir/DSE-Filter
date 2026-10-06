@@ -2,44 +2,44 @@
   "tradingCode": "NRBBANK",
   "scripCode": "11155",
   "companyName": "NRB Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NRBBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NRBBANK",
   "lastAGMHeldOn": "2025-12-18",
   "forYearEnded": "2024-12-31",
   "overview": {
     "#": 253,
     "TRADING CODE": "NRBBANK",
     "tradingCode": "NRBBANK",
-    "LTP": 6.5,
-    "HIGH": 6.5,
-    "LOW": 6.4,
-    "CLOSEP": 6.4,
-    "YCP": 6.5,
+    "LTP": 6.7,
+    "HIGH": 6.8,
+    "LOW": 6.6,
+    "CLOSEP": 6.7,
+    "YCP": 6.7,
     "CHANGE": 0,
-    "TRADE": 25,
-    "VALUE (mn)": 0.846,
-    "VOLUME": 131397
+    "TRADE": 50,
+    "VALUE (mn)": 0.87,
+    "VOLUME": 129834
   },
   "marketInformation": {
-    "lastTradingPrice": 6.5,
+    "lastTradingPrice": 6.7,
     "daysRange": [
-      6.4,
-      6.5
+      6.6,
+      6.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.9,
-      9.2
+      8.8
     ],
     "change": 0,
-    "daysTradeNos": 25,
-    "yesterdaysClose": 6.5,
-    "daysVolumeNos": 131397,
-    "adjustedOpeningPrice": 6.5,
-    "daysValueMn": 0.85,
-    "openingPrice": 6.5,
-    "marketCapMn": 4488.817,
-    "closingPrice": 6.4,
-    "freeFloatMarketCapMn": 650
+    "daysTradeNos": 50,
+    "yesterdaysClose": 6.7,
+    "daysVolumeNos": 129834,
+    "adjustedOpeningPrice": 6.7,
+    "daysValueMn": 0.87,
+    "openingPrice": 6.8,
+    "marketCapMn": 4626.934,
+    "closingPrice": 6.7,
+    "freeFloatMarketCapMn": 670
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -74,15 +74,6 @@
       "publicPct": 23.36
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 55.99,
-      "govtPct": 0,
-      "institutePct": 3.32,
-      "foreignPct": 0,
-      "publicPct": 40.69
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 55.99,
@@ -90,6 +81,15 @@
       "institutePct": 2.91,
       "foreignPct": 0,
       "publicPct": 41.1
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 55.99,
+      "govtPct": 0,
+      "institutePct": 2.9,
+      "foreignPct": 0,
+      "publicPct": 41.11
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.77,
-        "peDiluted": null,
-        "peTrailing": 4.27
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 25.77,
-        "peDiluted": null,
-        "peTrailing": 4.27
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 25,
         "peDiluted": null,
         "peTrailing": 4.14
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.62,
+        "date": "2026-09-29",
+        "peBasic": 25.38,
         "peDiluted": null,
-        "peTrailing": 4.08
+        "peTrailing": 4.2
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25,
+        "date": "2026-09-30",
+        "peBasic": 25.38,
         "peDiluted": null,
-        "peTrailing": 4.14
+        "peTrailing": 4.2
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.62,
+        "date": "2026-10-01",
+        "peBasic": 25.77,
         "peDiluted": null,
-        "peTrailing": 4.08
+        "peTrailing": 4.27
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 25.77,
+        "peDiluted": null,
+        "peTrailing": 4.27
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 25.77,
+        "peDiluted": null,
+        "peTrailing": 4.27
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 60.91,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 60.91,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 59.09,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 58.18,
+        "date": "2026-09-29",
+        "peBasic": 60,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 59.09,
+        "date": "2026-09-30",
+        "peBasic": 60,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 58.18,
+        "date": "2026-10-01",
+        "peBasic": 60.91,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 60.91,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 60.91,
         "peDiluted": null
       }
     ]
@@ -322,6 +322,56 @@
     "cellNo": "01955544447",
     "telephoneNo": "+8809666456384"
   },
-  "scrapedAt": "2026-09-13T15:43:24.183Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:04.536Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (109.39%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 109.39,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4626.934,
+      "totalInterestBearingDebt": 5061.18
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NRBBANK",
+  "cseQuote": {
+    "ltp": 6.6,
+    "open": 6.6,
+    "high": 6.6,
+    "low": 6.6,
+    "ycp": 6.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.850Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

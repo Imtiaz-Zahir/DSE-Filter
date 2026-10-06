@@ -2,44 +2,44 @@
   "tradingCode": "MEGHNACEM",
   "scripCode": "21622",
   "companyName": "Meghna Cement Mills PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MEGHNACEM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MEGHNACEM",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 218,
     "TRADING CODE": "MEGHNACEM",
     "tradingCode": "MEGHNACEM",
-    "LTP": 29,
-    "HIGH": 30.6,
-    "LOW": 28.8,
-    "CLOSEP": 29,
-    "YCP": 28.4,
-    "CHANGE": 0.6,
-    "TRADE": 13,
-    "VALUE (mn)": 0.049,
-    "VOLUME": 1691
+    "LTP": 28.4,
+    "HIGH": 29.5,
+    "LOW": 28.2,
+    "CLOSEP": 28.4,
+    "YCP": 28.9,
+    "CHANGE": -0.5,
+    "TRADE": 25,
+    "VALUE (mn)": 0.177,
+    "VOLUME": 6252
   },
   "marketInformation": {
-    "lastTradingPrice": 29,
+    "lastTradingPrice": 28.4,
     "daysRange": [
-      28.8,
-      30.6
+      28.2,
+      29.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.1,
-      52
+      50.3
     ],
-    "change": 0.6,
-    "daysTradeNos": 13,
-    "yesterdaysClose": 28.4,
-    "daysVolumeNos": 1691,
-    "adjustedOpeningPrice": 28.4,
-    "daysValueMn": 0.05,
-    "openingPrice": 30.6,
-    "marketCapMn": 897.114,
-    "closingPrice": 29,
-    "freeFloatMarketCapMn": 521.254
+    "change": -0.5,
+    "daysTradeNos": 25,
+    "yesterdaysClose": 28.9,
+    "daysVolumeNos": 6252,
+    "adjustedOpeningPrice": 28.9,
+    "daysValueMn": 0.18,
+    "openingPrice": 29.5,
+    "marketCapMn": 912.908,
+    "closingPrice": 28.4,
+    "freeFloatMarketCapMn": 530.431
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,22 +74,22 @@
       "publicPct": 23.37
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 41.9,
       "govtPct": 0,
-      "institutePct": 34.61,
+      "institutePct": 34.51,
       "foreignPct": 0,
-      "publicPct": 23.49
+      "publicPct": 23.59
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 41.9,
       "govtPct": 0,
-      "institutePct": 34.72,
+      "institutePct": 34.38,
       "foreignPct": 0,
-      "publicPct": 23.38
+      "publicPct": 23.72
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -370,10 +370,60 @@
     "fax": "+8802-55037206",
     "email": "cs.mcmplc@bgc-bd.com",
     "webAddress": "http://www.meghnacement.com/",
-    "companySecretaryName": "M. Naseemul Hye FCS",
-    "cellNo": "+88 01730068979",
+    "companySecretaryName": "M Mazedul Islam (CC)",
+    "cellNo": "+88 01766694713",
     "telephoneNo": "+88-09666443310-19, Ext-5566"
   },
-  "scrapedAt": "2026-09-13T15:43:08.886Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:56.303Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (945.33%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 945.33,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 912.908,
+      "totalInterestBearingDebt": 8629.99
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MEGHNACEM",
+  "cseQuote": {
+    "ltp": 29.3,
+    "open": 29.3,
+    "high": 29.3,
+    "low": 29.3,
+    "ycp": 29.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.847Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

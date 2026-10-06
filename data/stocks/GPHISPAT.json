@@ -2,44 +2,44 @@
   "tradingCode": "GPHISPAT",
   "scripCode": "13230",
   "companyName": "GPH Ispat Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GPHISPAT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GPHISPAT",
   "lastAGMHeldOn": "2025-12-31",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 151,
     "TRADING CODE": "GPHISPAT",
     "tradingCode": "GPHISPAT",
-    "LTP": 15.7,
-    "HIGH": 16.7,
-    "LOW": 15.7,
-    "CLOSEP": 15.7,
-    "YCP": 16.2,
-    "CHANGE": -0.5,
-    "TRADE": 828,
-    "VALUE (mn)": 17.84,
-    "VOLUME": 1111277
+    "LTP": 15.5,
+    "HIGH": 15.9,
+    "LOW": 15.5,
+    "CLOSEP": 15.5,
+    "YCP": 15.7,
+    "CHANGE": -0.2,
+    "TRADE": 308,
+    "VALUE (mn)": 5.145,
+    "VOLUME": 329751
   },
   "marketInformation": {
-    "lastTradingPrice": 15.7,
+    "lastTradingPrice": 15.5,
     "daysRange": [
-      15.7,
-      16.7
+      15.5,
+      15.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.6,
-      21.8
+      20.7
     ],
-    "change": -0.5,
-    "daysTradeNos": 828,
-    "yesterdaysClose": 16.2,
-    "daysVolumeNos": 1111277,
-    "adjustedOpeningPrice": 16.2,
-    "daysValueMn": 17.84,
-    "openingPrice": 16.2,
-    "marketCapMn": 7838.912,
-    "closingPrice": 15.7,
-    "freeFloatMarketCapMn": 4935.032
+    "change": -0.2,
+    "daysTradeNos": 308,
+    "yesterdaysClose": 15.7,
+    "daysVolumeNos": 329751,
+    "adjustedOpeningPrice": 15.7,
+    "daysValueMn": 5.15,
+    "openingPrice": 15.7,
+    "marketCapMn": 7596.97,
+    "closingPrice": 15.5,
+    "freeFloatMarketCapMn": 4782.716
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 237.14,
+        "date": "2026-09-28",
+        "peBasic": 228.57,
         "peDiluted": null,
-        "peTrailing": 237.14
+        "peTrailing": 228.57
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 241.43,
+        "date": "2026-09-29",
+        "peBasic": 227.14,
         "peDiluted": null,
-        "peTrailing": 241.43
+        "peTrailing": 227.14
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 235.71,
+        "date": "2026-09-30",
+        "peBasic": 228.57,
         "peDiluted": null,
-        "peTrailing": 235.71
+        "peTrailing": 228.57
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 232.86,
+        "date": "2026-10-01",
+        "peBasic": 228.57,
         "peDiluted": null,
-        "peTrailing": 232.86
+        "peTrailing": 228.57
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 231.43,
-        "peDiluted": null,
-        "peTrailing": 231.43
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 224.29,
         "peDiluted": null,
         "peTrailing": 224.29
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 221.43,
+        "peDiluted": null,
+        "peTrailing": 221.43
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01718 224827",
     "telephoneNo": "+88 031 631460 (Ext: 127), +88 031 2866481"
   },
-  "scrapedAt": "2026-09-13T15:42:40.386Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:42.059Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (383.21%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 383.21,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 7596.97,
+      "totalInterestBearingDebt": 29112.39
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GPHISPAT",
+  "cseQuote": {
+    "ltp": 15.5,
+    "open": 15.6,
+    "high": 15.8,
+    "low": 15.5,
+    "ycp": 15.6,
+    "change": -0.1,
+    "changePct": -0.64,
+    "trades": 8,
+    "valueMn": 0.03,
+    "volume": 1760,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

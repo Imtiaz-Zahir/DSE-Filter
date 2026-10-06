@@ -2,44 +2,44 @@
   "tradingCode": "APEXFOOT",
   "scripCode": "23619",
   "companyName": "Apex Footwear Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=APEXFOOT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=APEXFOOT",
   "lastAGMHeldOn": "2025-11-26",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 32,
     "TRADING CODE": "APEXFOOT",
     "tradingCode": "APEXFOOT",
-    "LTP": 207.1,
-    "HIGH": 209,
-    "LOW": 207,
-    "CLOSEP": 207.1,
-    "YCP": 209.1,
-    "CHANGE": -2,
-    "TRADE": 314,
-    "VALUE (mn)": 6.712,
-    "VOLUME": 32381
+    "LTP": 194.8,
+    "HIGH": 198.1,
+    "LOW": 194.2,
+    "CLOSEP": 194.8,
+    "YCP": 198.1,
+    "CHANGE": -3.3,
+    "TRADE": 1628,
+    "VALUE (mn)": 23.806,
+    "VOLUME": 121145
   },
   "marketInformation": {
-    "lastTradingPrice": 207.1,
+    "lastTradingPrice": 194.8,
     "daysRange": [
-      207,
-      209
+      194.2,
+      198.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       169.5,
       267
     ],
-    "change": -2,
-    "daysTradeNos": 314,
-    "yesterdaysClose": 209.1,
-    "daysVolumeNos": 32381,
-    "adjustedOpeningPrice": 209.1,
-    "daysValueMn": 6.71,
-    "openingPrice": 209,
-    "marketCapMn": 4109.452,
-    "closingPrice": 207.1,
-    "freeFloatMarketCapMn": 2498.367
+    "change": -3.3,
+    "daysTradeNos": 1628,
+    "yesterdaysClose": 198.1,
+    "daysVolumeNos": 121145,
+    "adjustedOpeningPrice": 198.1,
+    "daysValueMn": 23.81,
+    "openingPrice": 198.1,
+    "marketCapMn": 3893.268,
+    "closingPrice": 194.8,
+    "freeFloatMarketCapMn": 2366.937
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -140,83 +140,83 @@
     },
     {
       "period": "Annual",
-      "endDate": null,
-      "epsBasic": null,
+      "endDate": "2026-06",
+      "epsBasic": 7.91,
       "epsDiluted": null,
-      "epsContinuingBasic": null,
+      "epsContinuingBasic": 7.91,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": null
+      "marketPriceEnd": 205.6
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 33.95,
+        "date": "2026-09-28",
+        "peBasic": 25.75,
         "peDiluted": null,
-        "peTrailing": 23.59
+        "peTrailing": 25.75
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 34.08,
+        "date": "2026-09-29",
+        "peBasic": 25.27,
         "peDiluted": null,
-        "peTrailing": 23.69
+        "peTrailing": 25.27
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 33.85,
+        "date": "2026-09-30",
+        "peBasic": 25.47,
         "peDiluted": null,
-        "peTrailing": 23.52
+        "peTrailing": 25.47
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 34.2,
+        "date": "2026-10-01",
+        "peBasic": 25.3,
         "peDiluted": null,
-        "peTrailing": 23.77
+        "peTrailing": 25.3
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 34.54,
+        "date": "2026-10-04",
+        "peBasic": 25.04,
         "peDiluted": null,
-        "peTrailing": 24.01
+        "peTrailing": 25.04
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 34.21,
+        "date": "2026-10-05",
+        "peBasic": 24.63,
         "peDiluted": null,
-        "peTrailing": 23.78
+        "peTrailing": 24.63
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.84,
-        "peDiluted": 29.78
+        "date": "2026-09-28",
+        "peBasic": 23.63,
+        "peDiluted": 29.52
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.93,
-        "peDiluted": 29.9
+        "date": "2026-09-29",
+        "peBasic": 23.19,
+        "peDiluted": 28.97
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.77,
-        "peDiluted": 29.7
+        "date": "2026-09-30",
+        "peBasic": 23.38,
+        "peDiluted": 29.2
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.01,
-        "peDiluted": 30
+        "date": "2026-10-01",
+        "peBasic": 23.21,
+        "peDiluted": 29
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 24.26,
-        "peDiluted": 30.3
+        "date": "2026-10-04",
+        "peBasic": 22.98,
+        "peDiluted": 28.71
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.03,
-        "peDiluted": 30.01
+        "date": "2026-10-05",
+        "peBasic": 22.6,
+        "peDiluted": 28.23
       }
     ]
   },
@@ -373,6 +373,56 @@
     "cellNo": "+88 01717 306 107",
     "telephoneNo": "+8802 5504841"
   },
-  "scrapedAt": "2026-09-13T15:41:59.373Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:09.080Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (101.39%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 101.39,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3893.268,
+      "totalInterestBearingDebt": 3947.24
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/APEXFOOT",
+  "cseQuote": {
+    "ltp": 199.9,
+    "open": 198.8,
+    "high": 200,
+    "low": 196.4,
+    "ycp": 198.8,
+    "change": 1.1,
+    "changePct": 0.55,
+    "trades": 10,
+    "valueMn": 0.08,
+    "volume": 423,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "WATACHEM",
   "scripCode": "18467",
   "companyName": "Wata Chemicals Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=WATACHEM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=WATACHEM",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 390,
     "TRADING CODE": "WATACHEM",
     "tradingCode": "WATACHEM",
-    "LTP": 128,
-    "HIGH": 132,
-    "LOW": 128,
-    "CLOSEP": 129,
-    "YCP": 131.5,
-    "CHANGE": -3.5,
-    "TRADE": 191,
-    "VALUE (mn)": 2.318,
-    "VOLUME": 17838
+    "LTP": 125.3,
+    "HIGH": 128.1,
+    "LOW": 125,
+    "CLOSEP": 125.3,
+    "YCP": 128.4,
+    "CHANGE": -3.1,
+    "TRADE": 154,
+    "VALUE (mn)": 1.163,
+    "VOLUME": 9197
   },
   "marketInformation": {
-    "lastTradingPrice": 128,
+    "lastTradingPrice": 125.3,
     "daysRange": [
-      128,
-      132
+      125,
+      128.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       105.1,
       158
     ],
-    "change": -3.5,
-    "daysTradeNos": 191,
-    "yesterdaysClose": 131.5,
-    "daysVolumeNos": 17838,
-    "adjustedOpeningPrice": 131.5,
-    "daysValueMn": 2.32,
-    "openingPrice": 131.6,
-    "marketCapMn": 1949.174,
-    "closingPrice": 129,
-    "freeFloatMarketCapMn": 1239.477
+    "change": -3.1,
+    "daysTradeNos": 154,
+    "yesterdaysClose": 128.4,
+    "daysVolumeNos": 9197,
+    "adjustedOpeningPrice": 128.4,
+    "daysValueMn": 1.16,
+    "openingPrice": 128.1,
+    "marketCapMn": 1903.224,
+    "closingPrice": 125.3,
+    "freeFloatMarketCapMn": 1210.257
   },
   "basicInformation": {
     "authorizedCapitalMn": 150,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 114.48,
+        "date": "2026-09-28",
+        "peBasic": 110.86,
         "peDiluted": null,
-        "peTrailing": 141.28
+        "peTrailing": 136.81
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 115.95,
+        "date": "2026-09-29",
+        "peBasic": 110.34,
         "peDiluted": null,
-        "peTrailing": 143.09
+        "peTrailing": 136.17
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 115.26,
+        "date": "2026-09-30",
+        "peBasic": 110.95,
         "peDiluted": null,
-        "peTrailing": 142.23
+        "peTrailing": 136.91
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 114.66,
+        "date": "2026-10-01",
+        "peBasic": 110.26,
         "peDiluted": null,
-        "peTrailing": 141.49
+        "peTrailing": 136.06
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 113.36,
+        "date": "2026-10-04",
+        "peBasic": 110.69,
         "peDiluted": null,
-        "peTrailing": 139.89
+        "peTrailing": 136.6
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 111.21,
+        "date": "2026-10-05",
+        "peBasic": 108.02,
         "peDiluted": null,
-        "peTrailing": 137.23
+        "peTrailing": 133.3
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 179.46,
+        "date": "2026-09-28",
+        "peBasic": 173.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 181.76,
+        "date": "2026-09-29",
+        "peBasic": 172.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 180.68,
+        "date": "2026-09-30",
+        "peBasic": 173.92,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 179.73,
+        "date": "2026-10-01",
+        "peBasic": 172.84,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 177.7,
+        "date": "2026-10-04",
+        "peBasic": 173.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 174.32,
+        "date": "2026-10-05",
+        "peBasic": 169.32,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01727 681 811",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:18.794Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:36.877Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 20.89% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 20.89,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1903.224,
+      "totalInterestBearingDebt": 397.55
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/WATACHEM",
+  "cseQuote": {
+    "ltp": 125,
+    "open": 125,
+    "high": 125,
+    "low": 125,
+    "ycp": 125,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

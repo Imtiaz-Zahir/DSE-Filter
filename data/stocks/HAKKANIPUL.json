@@ -2,44 +2,44 @@
   "tradingCode": "HAKKANIPUL",
   "scripCode": "19510",
   "companyName": "Hakkani Pulp & Paper Mills PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HAKKANIPUL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=HAKKANIPUL",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 157,
     "TRADING CODE": "HAKKANIPUL",
     "tradingCode": "HAKKANIPUL",
-    "LTP": 66.7,
-    "HIGH": 69.6,
-    "LOW": 66.4,
-    "CLOSEP": 66.7,
-    "YCP": 69.6,
-    "CHANGE": -2.9,
-    "TRADE": 506,
-    "VALUE (mn)": 6.464,
-    "VOLUME": 95778
+    "LTP": 67.9,
+    "HIGH": 70,
+    "LOW": 67.5,
+    "CLOSEP": 67.9,
+    "YCP": 69.5,
+    "CHANGE": -1.6,
+    "TRADE": 344,
+    "VALUE (mn)": 5.772,
+    "VOLUME": 84052
   },
   "marketInformation": {
-    "lastTradingPrice": 66.7,
+    "lastTradingPrice": 67.9,
     "daysRange": [
-      66.4,
-      69.6
+      67.5,
+      70
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       51.2,
       90.9
     ],
-    "change": -2.9,
-    "daysTradeNos": 506,
-    "yesterdaysClose": 69.6,
-    "daysVolumeNos": 95778,
-    "adjustedOpeningPrice": 69.6,
-    "daysValueMn": 6.46,
-    "openingPrice": 69.4,
-    "marketCapMn": 1322.4,
-    "closingPrice": 66.7,
-    "freeFloatMarketCapMn": 697.244
+    "change": -1.6,
+    "daysTradeNos": 344,
+    "yesterdaysClose": 69.5,
+    "daysVolumeNos": 84052,
+    "adjustedOpeningPrice": 69.5,
+    "daysValueMn": 5.77,
+    "openingPrice": 69.7,
+    "marketCapMn": 1320.5,
+    "closingPrice": 67.9,
+    "freeFloatMarketCapMn": 696.242
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 170.08,
+        "date": "2026-09-28",
+        "peBasic": 166.69,
         "peDiluted": null,
-        "peTrailing": 703
+        "peTrailing": 689
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 170.32,
+        "date": "2026-09-29",
+        "peBasic": 165.73,
         "peDiluted": null,
-        "peTrailing": 704
+        "peTrailing": 685
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 169.11,
+        "date": "2026-09-30",
+        "peBasic": 167.42,
         "peDiluted": null,
-        "peTrailing": 699
+        "peTrailing": 692
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 169.11,
+        "date": "2026-10-01",
+        "peBasic": 167.9,
         "peDiluted": null,
-        "peTrailing": 699
+        "peTrailing": 694
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 168.39,
+        "date": "2026-10-04",
+        "peBasic": 168.15,
         "peDiluted": null,
-        "peTrailing": 696
+        "peTrailing": 695
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 161.37,
+        "date": "2026-10-05",
+        "peBasic": 164.27,
         "peDiluted": null,
-        "peTrailing": 667
+        "peTrailing": 679
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1004.29,
+        "date": "2026-09-28",
+        "peBasic": 984.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1005.71,
+        "date": "2026-09-29",
+        "peBasic": 978.57,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 998.57,
+        "date": "2026-09-30",
+        "peBasic": 988.57,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 998.57,
+        "date": "2026-10-01",
+        "peBasic": 991.43,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 994.29,
+        "date": "2026-10-04",
+        "peBasic": 992.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 952.86,
+        "date": "2026-10-05",
+        "peBasic": 970,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01714-087510",
     "telephoneNo": "02-333381464, EXT-126,"
   },
-  "scrapedAt": "2026-09-13T15:42:43.699Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:43.478Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (44.11%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 44.11,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1320.5,
+      "totalInterestBearingDebt": 582.44
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/HAKKANIPUL",
+  "cseQuote": {
+    "ltp": 70,
+    "open": 70,
+    "high": 70,
+    "low": 70,
+    "ycp": 70,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

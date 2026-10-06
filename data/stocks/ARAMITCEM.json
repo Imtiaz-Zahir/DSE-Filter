@@ -2,28 +2,28 @@
   "tradingCode": "ARAMITCEM",
   "scripCode": "21633",
   "companyName": "Aramit Cement Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ARAMITCEM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ARAMITCEM",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 37,
     "TRADING CODE": "ARAMITCEM",
     "tradingCode": "ARAMITCEM",
-    "LTP": 11.4,
-    "HIGH": 11.7,
-    "LOW": 10.2,
+    "LTP": 11.3,
+    "HIGH": 11.3,
+    "LOW": 10.9,
     "CLOSEP": 10.9,
-    "YCP": 11.3,
+    "YCP": 11.2,
     "CHANGE": 0.1,
-    "TRADE": 27,
-    "VALUE (mn)": 0.226,
-    "VOLUME": 20794
+    "TRADE": 5,
+    "VALUE (mn)": 0.006,
+    "VOLUME": 551
   },
   "marketInformation": {
-    "lastTradingPrice": 11.4,
+    "lastTradingPrice": 11.3,
     "daysRange": [
-      10.2,
-      11.7
+      10.9,
+      11.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       15
     ],
     "change": 0.1,
-    "daysTradeNos": 27,
-    "yesterdaysClose": 11.3,
-    "daysVolumeNos": 20794,
-    "adjustedOpeningPrice": 11.3,
-    "daysValueMn": 0.23,
-    "openingPrice": 11.1,
-    "marketCapMn": 382.844,
+    "daysTradeNos": 5,
+    "yesterdaysClose": 11.2,
+    "daysVolumeNos": 551,
+    "adjustedOpeningPrice": 11.2,
+    "daysValueMn": 0.01,
+    "openingPrice": 10.9,
+    "marketCapMn": 379.456,
     "closingPrice": 10.9,
-    "freeFloatMarketCapMn": 182.104
+    "freeFloatMarketCapMn": 180.492
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01819 240 005",
     "telephoneNo": "(88 031) 671950, 670473, 670368, 672516, Ext-119"
   },
-  "scrapedAt": "2026-09-13T15:42:01.320Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:11.978Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (1340.82%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1340.82,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 379.456,
+      "totalInterestBearingDebt": 5087.82
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ARAMITCEM",
+  "cseQuote": {
+    "ltp": 11.2,
+    "open": 11.2,
+    "high": 11.2,
+    "low": 11.2,
+    "ycp": 11.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

@@ -2,28 +2,28 @@
   "tradingCode": "EASTLAND",
   "scripCode": "25708",
   "companyName": "Eastland Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EASTLAND",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EASTLAND",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 110,
     "TRADING CODE": "EASTLAND",
     "tradingCode": "EASTLAND",
-    "LTP": 26.7,
-    "HIGH": 27.7,
-    "LOW": 26.3,
-    "CLOSEP": 26.7,
-    "YCP": 27.6,
+    "LTP": 26.6,
+    "HIGH": 27.5,
+    "LOW": 26.5,
+    "CLOSEP": 26.6,
+    "YCP": 27.5,
     "CHANGE": -0.9,
-    "TRADE": 188,
-    "VALUE (mn)": 3.451,
-    "VOLUME": 127765
+    "TRADE": 144,
+    "VALUE (mn)": 2.84,
+    "VOLUME": 105575
   },
   "marketInformation": {
-    "lastTradingPrice": 26.7,
+    "lastTradingPrice": 26.6,
     "daysRange": [
-      26.3,
-      27.7
+      26.5,
+      27.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       31.8
     ],
     "change": -0.9,
-    "daysTradeNos": 188,
-    "yesterdaysClose": 27.6,
-    "daysVolumeNos": 127765,
-    "adjustedOpeningPrice": 27.6,
-    "daysValueMn": 3.45,
-    "openingPrice": 27.3,
-    "marketCapMn": 2315.104,
-    "closingPrice": 26.7,
-    "freeFloatMarketCapMn": 1363.298
+    "daysTradeNos": 144,
+    "yesterdaysClose": 27.5,
+    "daysVolumeNos": 105575,
+    "adjustedOpeningPrice": 27.5,
+    "daysValueMn": 2.84,
+    "openingPrice": 27.5,
+    "marketCapMn": 2306.716,
+    "closingPrice": 26.6,
+    "freeFloatMarketCapMn": 1358.359
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.86,
+        "date": "2026-09-28",
+        "peBasic": 19.93,
         "peDiluted": null,
-        "peTrailing": 21.89
+        "peTrailing": 21.97
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 20.57,
+        "date": "2026-09-29",
+        "peBasic": 19.93,
         "peDiluted": null,
-        "peTrailing": 22.68
+        "peTrailing": 21.97
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 20.21,
+        "date": "2026-09-30",
+        "peBasic": 19.93,
         "peDiluted": null,
-        "peTrailing": 22.28
+        "peTrailing": 21.97
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 20,
+        "date": "2026-10-01",
+        "peBasic": 19.93,
         "peDiluted": null,
-        "peTrailing": 22.05
+        "peTrailing": 21.97
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.71,
+        "date": "2026-10-04",
+        "peBasic": 19.64,
         "peDiluted": null,
-        "peTrailing": 21.73
+        "peTrailing": 21.65
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 19.07,
+        "date": "2026-10-05",
+        "peBasic": 19,
         "peDiluted": null,
-        "peTrailing": 21.02
+        "peTrailing": 20.94
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.27,
+        "date": "2026-09-28",
+        "peBasic": 25.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.18,
+        "date": "2026-09-29",
+        "peBasic": 25.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.73,
+        "date": "2026-09-30",
+        "peBasic": 25.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 25.45,
+        "date": "2026-10-01",
+        "peBasic": 25.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.09,
+        "date": "2026-10-04",
+        "peBasic": 25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.27,
+        "date": "2026-10-05",
+        "peBasic": 24.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01896066357",
     "telephoneNo": "02223384600 Ext.-120"
   },
-  "scrapedAt": "2026-09-13T15:42:27.784Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:33.046Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2306.716,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EASTLAND",
+  "cseQuote": {
+    "ltp": 27.9,
+    "open": 27.9,
+    "high": 27.9,
+    "low": 27.9,
+    "ycp": 27.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

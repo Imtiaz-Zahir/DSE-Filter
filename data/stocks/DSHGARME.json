@@ -2,44 +2,44 @@
   "tradingCode": "DSHGARME",
   "scripCode": "17415",
   "companyName": "Desh Garments Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DSHGARME",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DSHGARME",
   "lastAGMHeldOn": "2025-12-18",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 105,
     "TRADING CODE": "DSHGARME",
     "tradingCode": "DSHGARME",
-    "LTP": 145.6,
-    "HIGH": 155.9,
-    "LOW": 144.3,
-    "CLOSEP": 145.6,
-    "YCP": 150.8,
-    "CHANGE": -5.2,
-    "TRADE": 811,
-    "VALUE (mn)": 9.771,
-    "VOLUME": 65878
+    "LTP": 151,
+    "HIGH": 154.2,
+    "LOW": 150.9,
+    "CLOSEP": 151,
+    "YCP": 152.9,
+    "CHANGE": -1.9,
+    "TRADE": 613,
+    "VALUE (mn)": 11.158,
+    "VOLUME": 73164
   },
   "marketInformation": {
-    "lastTradingPrice": 145.6,
+    "lastTradingPrice": 151,
     "daysRange": [
-      144.3,
-      155.9
+      150.9,
+      154.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       85.7,
       197
     ],
-    "change": -5.2,
-    "daysTradeNos": 811,
-    "yesterdaysClose": 150.8,
-    "daysVolumeNos": 65878,
-    "adjustedOpeningPrice": 150.8,
-    "daysValueMn": 9.77,
-    "openingPrice": 155.9,
-    "marketCapMn": 1249.882,
-    "closingPrice": 145.6,
-    "freeFloatMarketCapMn": 562.539
+    "change": -1.9,
+    "daysTradeNos": 613,
+    "yesterdaysClose": 152.9,
+    "daysVolumeNos": 73164,
+    "adjustedOpeningPrice": 152.9,
+    "daysValueMn": 11.16,
+    "openingPrice": 153.4,
+    "marketCapMn": 1267.287,
+    "closingPrice": 151,
+    "freeFloatMarketCapMn": 570.372
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 447.59,
+        "date": "2026-09-28",
+        "peBasic": 401.79,
         "peDiluted": null,
-        "peTrailing": 315.28
+        "peTrailing": 283.02
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 433.39,
+        "date": "2026-09-29",
+        "peBasic": 394.55,
         "peDiluted": null,
-        "peTrailing": 305.28
+        "peTrailing": 277.92
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 412.5,
+        "date": "2026-09-30",
+        "peBasic": 408.21,
         "peDiluted": null,
-        "peTrailing": 290.57
+        "peTrailing": 287.55
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 424.82,
+        "date": "2026-10-01",
+        "peBasic": 398.84,
         "peDiluted": null,
-        "peTrailing": 299.25
+        "peTrailing": 280.94
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 403.93,
+        "date": "2026-10-04",
+        "peBasic": 409.55,
         "peDiluted": null,
-        "peTrailing": 284.53
+        "peTrailing": 288.49
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 390,
+        "date": "2026-10-05",
+        "peBasic": 404.46,
         "peDiluted": null,
-        "peTrailing": 274.72
+        "peTrailing": 284.91
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 228.9,
+        "date": "2026-09-28",
+        "peBasic": 205.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 221.64,
+        "date": "2026-09-29",
+        "peBasic": 201.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 210.96,
+        "date": "2026-09-30",
+        "peBasic": 208.77,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 217.26,
+        "date": "2026-10-01",
+        "peBasic": 203.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 206.58,
+        "date": "2026-10-04",
+        "peBasic": 209.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 199.45,
+        "date": "2026-10-05",
+        "peBasic": 206.85,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,40 @@
     "cellNo": "+88 01709 632 710",
     "telephoneNo": "222276019, 222276234"
   },
-  "scrapedAt": "2026-09-13T15:42:25.609Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:30.690Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 12.1% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 12.1,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1267.287,
+      "totalInterestBearingDebt": 153.29
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DSHGARME",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

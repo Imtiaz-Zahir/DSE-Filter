@@ -2,44 +2,44 @@
   "tradingCode": "EMERALDOIL",
   "scripCode": "14295",
   "companyName": "Emerald Oil Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EMERALDOIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EMERALDOIL",
   "lastAGMHeldOn": "2023-12-27",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 119,
     "TRADING CODE": "EMERALDOIL",
     "tradingCode": "EMERALDOIL",
-    "LTP": 26.6,
-    "HIGH": 28.6,
-    "LOW": 25.7,
-    "CLOSEP": 26.6,
-    "YCP": 28.3,
-    "CHANGE": -1.7,
-    "TRADE": 433,
-    "VALUE (mn)": 8.392,
-    "VOLUME": 309571
+    "LTP": 27,
+    "HIGH": 27.2,
+    "LOW": 26.4,
+    "CLOSEP": 27,
+    "YCP": 26.5,
+    "CHANGE": 0.5,
+    "TRADE": 249,
+    "VALUE (mn)": 1.353,
+    "VOLUME": 50276
   },
   "marketInformation": {
-    "lastTradingPrice": 26.6,
+    "lastTradingPrice": 27,
     "daysRange": [
-      25.7,
-      28.6
+      26.4,
+      27.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.2,
       31.8
     ],
-    "change": -1.7,
-    "daysTradeNos": 433,
-    "yesterdaysClose": 28.3,
-    "daysVolumeNos": 309571,
-    "adjustedOpeningPrice": 28.3,
-    "daysValueMn": 8.39,
-    "openingPrice": 28.1,
-    "marketCapMn": 2582.998,
-    "closingPrice": 26.6,
-    "freeFloatMarketCapMn": 1175.352
+    "change": 0.5,
+    "daysTradeNos": 249,
+    "yesterdaysClose": 26.5,
+    "daysVolumeNos": 50276,
+    "adjustedOpeningPrice": 26.5,
+    "daysValueMn": 1.35,
+    "openingPrice": 26.6,
+    "marketCapMn": 2418.708,
+    "closingPrice": 27,
+    "freeFloatMarketCapMn": 1100.595
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.59,
+        "date": "2026-09-28",
+        "peBasic": 8.44,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.62,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 8.62,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 8.56,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 8.47,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.96,
+        "date": "2026-09-30",
+        "peBasic": 8.35,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 8.2,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 7.93,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 8.08,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 39.32,
+        "date": "2026-09-28",
+        "peBasic": 38.63,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 39.45,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 39.45,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 39.18,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 38.77,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 36.44,
+        "date": "2026-09-30",
+        "peBasic": 38.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 37.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 36.3,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 36.99,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "01726128969",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:29.546Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:34.690Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (53.93%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 53.93,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2418.708,
+      "totalInterestBearingDebt": 1304.46
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EMERALDOIL",
+  "cseQuote": {
+    "ltp": 26.1,
+    "open": 26.1,
+    "high": 26.1,
+    "low": 26.1,
+    "ycp": 26.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 3,
+    "valueMn": 0.04,
+    "volume": 1629,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

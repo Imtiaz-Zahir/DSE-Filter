@@ -1,0 +1,62 @@
+{
+  "tradingCode": "BXSYNTH",
+  "companyName": "BXSYNTH",
+  "sourceUrl": "https://cse.com.bd/company/companydetails/BXSYNTH",
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BXSYNTH",
+  "exchanges": [
+    "CSE"
+  ],
+  "isDseListed": false,
+  "isCseListed": true,
+  "indices": [
+    "CSI",
+    "DSES"
+  ],
+  "cseQuote": {
+    "ltp": 8,
+    "open": 8,
+    "high": 8,
+    "low": 8,
+    "ycp": 8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "basicInformation": {
+    "sector": "Miscellaneous",
+    "typeOfInstrument": "Equity"
+  },
+  "dividendAndSurplus": {
+    "marketCategory": "A"
+  },
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active"
+  },
+  "scrapedAt": "2026-10-06T01:10:40.046Z",
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Zero Debt (100% Debt Free)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": null,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "shariaCompliant": true
+}

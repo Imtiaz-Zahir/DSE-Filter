@@ -2,44 +2,44 @@
   "tradingCode": "UNILEVERCL",
   "scripCode": "18454",
   "companyName": "Unilever Consumer Care Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNILEVERCL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UNILEVERCL",
   "lastAGMHeldOn": "2026-05-18",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 375,
     "TRADING CODE": "UNILEVERCL",
     "tradingCode": "UNILEVERCL",
-    "LTP": 1990,
-    "HIGH": 2017.6,
-    "LOW": 1990,
-    "CLOSEP": 1993.8,
-    "YCP": 1994.6,
-    "CHANGE": -4.6,
-    "TRADE": 49,
-    "VALUE (mn)": 0.408,
-    "VOLUME": 204
+    "LTP": 1975.3,
+    "HIGH": 1975.3,
+    "LOW": 1975,
+    "CLOSEP": 1975.2,
+    "YCP": 1972.5,
+    "CHANGE": 2.8,
+    "TRADE": 20,
+    "VALUE (mn)": 0.144,
+    "VOLUME": 73
   },
   "marketInformation": {
-    "lastTradingPrice": 1990,
+    "lastTradingPrice": 1975.3,
     "daysRange": [
-      1990,
-      2017.6
+      1975,
+      1975.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1961,
       2490
     ],
-    "change": -4.6,
-    "daysTradeNos": 49,
-    "yesterdaysClose": 1994.6,
-    "daysVolumeNos": 204,
-    "adjustedOpeningPrice": 1994.6,
-    "daysValueMn": 0.41,
-    "openingPrice": 2017.6,
-    "marketCapMn": 38444.555,
-    "closingPrice": 1993.8,
-    "freeFloatMarketCapMn": 2760.313
+    "change": 2.8,
+    "daysTradeNos": 20,
+    "yesterdaysClose": 1972.5,
+    "daysVolumeNos": 73,
+    "adjustedOpeningPrice": 1972.5,
+    "daysValueMn": 0.14,
+    "openingPrice": 1975,
+    "marketCapMn": 38018.592,
+    "closingPrice": 1975.2,
+    "freeFloatMarketCapMn": 2729.729
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -74,15 +74,6 @@
       "publicPct": 3.51
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 92.82,
-      "govtPct": 0,
-      "institutePct": 3.46,
-      "foreignPct": 0.11,
-      "publicPct": 3.61
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 92.82,
@@ -90,6 +81,15 @@
       "institutePct": 3.45,
       "foreignPct": 0.11,
       "publicPct": 3.62
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 92.82,
+      "govtPct": 0,
+      "institutePct": 3.41,
+      "foreignPct": 0.11,
+      "publicPct": 3.66
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 96.66,
+        "date": "2026-09-28",
+        "peBasic": 96.13,
         "peDiluted": null,
-        "peTrailing": 62.87
+        "peTrailing": 62.53
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 96.3,
+        "date": "2026-09-29",
+        "peBasic": 95.65,
         "peDiluted": null,
-        "peTrailing": 62.64
+        "peTrailing": 62.22
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 96.24,
+        "date": "2026-09-30",
+        "peBasic": 95.84,
         "peDiluted": null,
-        "peTrailing": 62.61
+        "peTrailing": 62.34
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 96.71,
+        "date": "2026-10-01",
+        "peBasic": 95.56,
         "peDiluted": null,
-        "peTrailing": 62.91
+        "peTrailing": 62.16
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 96.54,
+        "date": "2026-10-04",
+        "peBasic": 95.47,
         "peDiluted": null,
-        "peTrailing": 62.8
+        "peTrailing": 62.11
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 96.51,
+        "date": "2026-10-05",
+        "peBasic": 95.61,
         "peDiluted": null,
-        "peTrailing": 62.78
+        "peTrailing": 62.19
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 48.46,
+        "date": "2026-09-28",
+        "peBasic": 48.19,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 48.28,
+        "date": "2026-09-29",
+        "peBasic": 47.95,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 48.25,
+        "date": "2026-09-30",
+        "peBasic": 48.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 48.48,
+        "date": "2026-10-01",
+        "peBasic": 47.91,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 48.4,
+        "date": "2026-10-04",
+        "peBasic": 47.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 48.38,
+        "date": "2026-10-05",
+        "peBasic": 47.93,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "+88 01717444311, +8801324438744",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:13.176Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:30.550Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 38018.592,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UNILEVERCL",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

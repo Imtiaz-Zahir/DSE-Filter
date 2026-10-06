@@ -2,44 +2,44 @@
   "tradingCode": "ENVOYTEX",
   "scripCode": "17455",
   "companyName": "Envoy Textiles Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ENVOYTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ENVOYTEX",
   "lastAGMHeldOn": "2025-12-06",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 120,
     "TRADING CODE": "ENVOYTEX",
     "tradingCode": "ENVOYTEX",
-    "LTP": 73.4,
-    "HIGH": 76.4,
-    "LOW": 73,
-    "CLOSEP": 73.4,
-    "YCP": 74.5,
-    "CHANGE": -1.1,
-    "TRADE": 4083,
-    "VALUE (mn)": 292.657,
-    "VOLUME": 3933176
+    "LTP": 71.5,
+    "HIGH": 73.1,
+    "LOW": 71.3,
+    "CLOSEP": 71.5,
+    "YCP": 72.7,
+    "CHANGE": -1.2,
+    "TRADE": 1382,
+    "VALUE (mn)": 96.487,
+    "VOLUME": 1335249
   },
   "marketInformation": {
-    "lastTradingPrice": 73.4,
+    "lastTradingPrice": 71.5,
     "daysRange": [
-      73,
-      76.4
+      71.3,
+      73.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       42.9,
       76.4
     ],
-    "change": -1.1,
-    "daysTradeNos": 4083,
-    "yesterdaysClose": 74.5,
-    "daysVolumeNos": 3933176,
-    "adjustedOpeningPrice": 74.5,
-    "daysValueMn": 292.66,
-    "openingPrice": 74,
-    "marketCapMn": 12496.24,
-    "closingPrice": 73.4,
-    "freeFloatMarketCapMn": 3281.51
+    "change": -1.2,
+    "daysTradeNos": 1382,
+    "yesterdaysClose": 72.7,
+    "daysVolumeNos": 1335249,
+    "adjustedOpeningPrice": 72.7,
+    "daysValueMn": 96.49,
+    "openingPrice": 72.7,
+    "marketCapMn": 12194.318,
+    "closingPrice": 71.5,
+    "freeFloatMarketCapMn": 3202.225
   },
   "basicInformation": {
     "authorizedCapitalMn": 4750,
@@ -74,15 +74,6 @@
       "publicPct": 8.65
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 65.41,
-      "govtPct": 0,
-      "institutePct": 22.06,
-      "foreignPct": 0.17,
-      "publicPct": 12.36
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 65.41,
@@ -90,6 +81,15 @@
       "institutePct": 21.65,
       "foreignPct": 0.13,
       "publicPct": 12.81
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 65.41,
+      "govtPct": 0,
+      "institutePct": 19.6,
+      "foreignPct": 0.15,
+      "publicPct": 14.84
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.98,
+        "date": "2026-09-28",
+        "peBasic": 8.98,
         "peDiluted": null,
-        "peTrailing": 7.59
+        "peTrailing": 8.54
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.49,
+        "date": "2026-09-29",
+        "peBasic": 9.16,
         "peDiluted": null,
-        "peTrailing": 8.08
+        "peTrailing": 8.7
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 8.93,
+        "date": "2026-09-30",
+        "peBasic": 9.19,
         "peDiluted": null,
-        "peTrailing": 8.49
+        "peTrailing": 8.74
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 9.44,
+        "date": "2026-10-01",
+        "peBasic": 9.27,
         "peDiluted": null,
-        "peTrailing": 8.97
+        "peTrailing": 8.81
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 9.49,
+        "date": "2026-10-04",
+        "peBasic": 9.26,
         "peDiluted": null,
-        "peTrailing": 9.02
+        "peTrailing": 8.8
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.35,
+        "date": "2026-10-05",
+        "peBasic": 9.1,
         "peDiluted": null,
-        "peTrailing": 8.89
+        "peTrailing": 8.66
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.46,
+        "date": "2026-09-28",
+        "peBasic": 8.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.94,
+        "date": "2026-09-29",
+        "peBasic": 8.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 8.35,
+        "date": "2026-09-30",
+        "peBasic": 8.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 8.82,
+        "date": "2026-10-01",
+        "peBasic": 8.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.87,
+        "date": "2026-10-04",
+        "peBasic": 8.65,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.74,
+        "date": "2026-10-05",
+        "peBasic": 8.51,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01713-277534",
     "telephoneNo": "880-2-41021684-87"
   },
-  "scrapedAt": "2026-09-13T15:42:29.610Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:34.811Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 24.72% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 24.72,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 12194.318,
+      "totalInterestBearingDebt": 3014.14
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ENVOYTEX",
+  "cseQuote": {
+    "ltp": 73.4,
+    "open": 73.4,
+    "high": 73.4,
+    "low": 73.4,
+    "ycp": 73.4,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.839Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

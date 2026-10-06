@@ -2,44 +2,44 @@
   "tradingCode": "MEGCONMILK",
   "scripCode": "14290",
   "companyName": "Meghna Condensed Milk Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MEGCONMILK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MEGCONMILK",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 217,
     "TRADING CODE": "MEGCONMILK",
     "tradingCode": "MEGCONMILK",
-    "LTP": 31.9,
-    "HIGH": 33.9,
-    "LOW": 30.9,
-    "CLOSEP": 31.9,
-    "YCP": 33.6,
-    "CHANGE": -1.7,
-    "TRADE": 247,
-    "VALUE (mn)": 1.588,
-    "VOLUME": 48900
+    "LTP": 30.8,
+    "HIGH": 31.5,
+    "LOW": 30.3,
+    "CLOSEP": 30.8,
+    "YCP": 30.8,
+    "CHANGE": 0,
+    "TRADE": 50,
+    "VALUE (mn)": 0.653,
+    "VOLUME": 21201
   },
   "marketInformation": {
-    "lastTradingPrice": 31.9,
+    "lastTradingPrice": 30.8,
     "daysRange": [
-      30.9,
-      33.9
+      30.3,
+      31.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       51
     ],
-    "change": -1.7,
-    "daysTradeNos": 247,
-    "yesterdaysClose": 33.6,
-    "daysVolumeNos": 48900,
-    "adjustedOpeningPrice": 33.6,
-    "daysValueMn": 1.59,
-    "openingPrice": 33.9,
-    "marketCapMn": 537.6,
-    "closingPrice": 31.9,
-    "freeFloatMarketCapMn": 336.486
+    "change": 0,
+    "daysTradeNos": 50,
+    "yesterdaysClose": 30.8,
+    "daysVolumeNos": 21201,
+    "adjustedOpeningPrice": 30.8,
+    "daysValueMn": 0.65,
+    "openingPrice": 30.9,
+    "marketCapMn": 492.8,
+    "closingPrice": 30.8,
+    "freeFloatMarketCapMn": 308.445
   },
   "basicInformation": {
     "authorizedCapitalMn": 800,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,40 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:08.966Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:56.706Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (130.43%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 130.43,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 492.8,
+      "totalInterestBearingDebt": 642.78
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MEGCONMILK",
+  "indices": [
+    "DSEX"
+  ]
 }

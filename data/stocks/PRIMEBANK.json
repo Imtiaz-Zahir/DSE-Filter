@@ -2,7 +2,7 @@
   "tradingCode": "PRIMEBANK",
   "scripCode": "11116",
   "companyName": "Prime Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRIMEBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRIMEBANK",
   "lastAGMHeldOn": "2026-05-21",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "PRIMEBANK",
     "tradingCode": "PRIMEBANK",
     "LTP": 28.2,
-    "HIGH": 28.6,
+    "HIGH": 28.3,
     "LOW": 28,
     "CLOSEP": 28.2,
-    "YCP": 28.4,
-    "CHANGE": -0.2,
-    "TRADE": 290,
-    "VALUE (mn)": 9.465,
-    "VOLUME": 335569
+    "YCP": 28.1,
+    "CHANGE": 0.1,
+    "TRADE": 162,
+    "VALUE (mn)": 6.88,
+    "VOLUME": 244161
   },
   "marketInformation": {
     "lastTradingPrice": 28.2,
     "daysRange": [
       28,
-      28.6
+      28.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.8,
       36.1
     ],
-    "change": -0.2,
-    "daysTradeNos": 290,
-    "yesterdaysClose": 28.4,
-    "daysVolumeNos": 335569,
-    "adjustedOpeningPrice": 28.4,
-    "daysValueMn": 9.47,
-    "openingPrice": 28.6,
-    "marketCapMn": 34608.811,
+    "change": 0.1,
+    "daysTradeNos": 162,
+    "yesterdaysClose": 28.1,
+    "daysVolumeNos": 244161,
+    "adjustedOpeningPrice": 28.1,
+    "daysValueMn": 6.88,
+    "openingPrice": 28.2,
+    "marketCapMn": 34243.225,
     "closingPrice": 28.2,
-    "freeFloatMarketCapMn": 20240.037
+    "freeFloatMarketCapMn": 20026.234
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.04,
+        "date": "2026-09-28",
+        "peBasic": 3.93,
         "peDiluted": null,
-        "peTrailing": 3.66
+        "peTrailing": 3.56
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.03,
+        "date": "2026-09-29",
+        "peBasic": 3.93,
         "peDiluted": null,
-        "peTrailing": 3.65
+        "peTrailing": 3.56
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.03,
+        "date": "2026-09-30",
+        "peBasic": 3.97,
         "peDiluted": null,
-        "peTrailing": 3.65
+        "peTrailing": 3.6
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.02,
+        "date": "2026-10-01",
+        "peBasic": 3.97,
         "peDiluted": null,
-        "peTrailing": 3.63
+        "peTrailing": 3.6
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.99,
+        "date": "2026-10-04",
+        "peBasic": 3.95,
         "peDiluted": null,
-        "peTrailing": 3.61
+        "peTrailing": 3.57
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 3.96,
         "peDiluted": null,
         "peTrailing": 3.58
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.67,
-        "peDiluted": 3.86
+        "date": "2026-09-28",
+        "peBasic": 3.57,
+        "peDiluted": 3.75
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.66,
-        "peDiluted": 3.84
+        "date": "2026-09-29",
+        "peBasic": 3.57,
+        "peDiluted": 3.75
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.66,
-        "peDiluted": 3.84
+        "date": "2026-09-30",
+        "peBasic": 3.61,
+        "peDiluted": 3.79
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.65,
-        "peDiluted": 3.83
+        "date": "2026-10-01",
+        "peBasic": 3.61,
+        "peDiluted": 3.79
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.62,
-        "peDiluted": 3.8
+        "date": "2026-10-04",
+        "peBasic": 3.58,
+        "peDiluted": 3.76
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 3.6,
         "peDiluted": 3.78
       }
@@ -374,6 +374,58 @@
     "cellNo": "+8801730322480",
     "telephoneNo": "+8802 55045322"
   },
-  "scrapedAt": "2026-09-13T15:43:35.961Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:12.873Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (299.88%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 299.88,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 34243.225,
+      "totalInterestBearingDebt": 102689.97
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRIMEBANK",
+  "cseQuote": {
+    "ltp": 27.5,
+    "open": 25.2,
+    "high": 27.5,
+    "low": 27.5,
+    "ycp": 25.2,
+    "change": 2.3,
+    "changePct": 9.13,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 295,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

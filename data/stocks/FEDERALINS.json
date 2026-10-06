@@ -2,44 +2,44 @@
   "tradingCode": "FEDERALINS",
   "scripCode": "25713",
   "companyName": "Federal Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FEDERALINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FEDERALINS",
   "lastAGMHeldOn": "2026-08-17",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 132,
     "TRADING CODE": "FEDERALINS",
     "tradingCode": "FEDERALINS",
-    "LTP": 26.7,
-    "HIGH": 27.7,
-    "LOW": 26.6,
-    "CLOSEP": 26.7,
-    "YCP": 27.7,
-    "CHANGE": -1,
-    "TRADE": 548,
-    "VALUE (mn)": 15.019,
-    "VOLUME": 554747
+    "LTP": 26.6,
+    "HIGH": 27.4,
+    "LOW": 26.3,
+    "CLOSEP": 26.6,
+    "YCP": 27.3,
+    "CHANGE": -0.7,
+    "TRADE": 332,
+    "VALUE (mn)": 5.727,
+    "VOLUME": 213453
   },
   "marketInformation": {
-    "lastTradingPrice": 26.7,
+    "lastTradingPrice": 26.6,
     "daysRange": [
-      26.6,
-      27.7
+      26.3,
+      27.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17,
       32.6
     ],
-    "change": -1,
-    "daysTradeNos": 548,
-    "yesterdaysClose": 27.7,
-    "daysVolumeNos": 554747,
-    "adjustedOpeningPrice": 27.7,
-    "daysValueMn": 15.02,
-    "openingPrice": 27.6,
-    "marketCapMn": 1967.798,
-    "closingPrice": 26.7,
-    "freeFloatMarketCapMn": 1258.519
+    "change": -0.7,
+    "daysTradeNos": 332,
+    "yesterdaysClose": 27.3,
+    "daysVolumeNos": 213453,
+    "adjustedOpeningPrice": 27.3,
+    "daysValueMn": 5.73,
+    "openingPrice": 27.4,
+    "marketCapMn": 1939.382,
+    "closingPrice": 26.6,
+    "freeFloatMarketCapMn": 1240.345
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.96,
+        "date": "2026-09-28",
+        "peBasic": 13.91,
         "peDiluted": null,
-        "peTrailing": 20.29
+        "peTrailing": 20.22
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.01,
-        "peDiluted": null,
-        "peTrailing": 20.36
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-29",
         "peBasic": 13.81,
         "peDiluted": null,
         "peTrailing": 20.07
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 13.96,
+        "date": "2026-09-30",
+        "peBasic": 13.86,
         "peDiluted": null,
-        "peTrailing": 20.29
+        "peTrailing": 20.14
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-01",
         "peBasic": 13.71,
         "peDiluted": null,
         "peTrailing": 19.93
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 13.22,
+        "date": "2026-10-04",
+        "peBasic": 13.51,
         "peDiluted": null,
-        "peTrailing": 19.21
+        "peTrailing": 19.64
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 13.17,
+        "peDiluted": null,
+        "peTrailing": 19.14
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.64,
+        "date": "2026-09-28",
+        "peBasic": 25.55,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.73,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-29",
         "peBasic": 25.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 25.64,
+        "date": "2026-09-30",
+        "peBasic": 25.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-01",
         "peBasic": 25.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.27,
+        "date": "2026-10-04",
+        "peBasic": 24.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 24.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01819 806 474",
     "telephoneNo": "223374067"
   },
-  "scrapedAt": "2026-09-13T15:42:34.497Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:37.620Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1939.382,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FEDERALINS",
+  "cseQuote": {
+    "ltp": 28,
+    "open": 28,
+    "high": 28,
+    "low": 28,
+    "ycp": 28,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

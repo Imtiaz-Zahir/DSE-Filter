@@ -2,44 +2,44 @@
   "tradingCode": "AFTABAUTO",
   "scripCode": "13201",
   "companyName": "Aftab Automobiles Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AFTABAUTO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AFTABAUTO",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 16,
     "TRADING CODE": "AFTABAUTO",
     "tradingCode": "AFTABAUTO",
-    "LTP": 25.7,
-    "HIGH": 26.7,
-    "LOW": 25,
-    "CLOSEP": 25.7,
-    "YCP": 26.7,
-    "CHANGE": -1,
-    "TRADE": 246,
-    "VALUE (mn)": 2.323,
-    "VOLUME": 89924
+    "LTP": 25.5,
+    "HIGH": 26,
+    "LOW": 25.4,
+    "CLOSEP": 25.5,
+    "YCP": 25.8,
+    "CHANGE": -0.3,
+    "TRADE": 74,
+    "VALUE (mn)": 1.084,
+    "VOLUME": 42217
   },
   "marketInformation": {
-    "lastTradingPrice": 25.7,
+    "lastTradingPrice": 25.5,
     "daysRange": [
-      25,
-      26.7
+      25.4,
+      26
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      25,
+      24.9,
       39.7
     ],
-    "change": -1,
-    "daysTradeNos": 246,
-    "yesterdaysClose": 26.7,
-    "daysVolumeNos": 89924,
-    "adjustedOpeningPrice": 26.7,
-    "daysValueMn": 2.32,
-    "openingPrice": 26.7,
-    "marketCapMn": 2818.051,
-    "closingPrice": 25.7,
-    "freeFloatMarketCapMn": 1743.252
+    "change": -0.3,
+    "daysTradeNos": 74,
+    "yesterdaysClose": 25.8,
+    "daysVolumeNos": 42217,
+    "adjustedOpeningPrice": 25.8,
+    "daysValueMn": 1.08,
+    "openingPrice": 26,
+    "marketCapMn": 2723.061,
+    "closingPrice": 25.5,
+    "freeFloatMarketCapMn": 1684.491
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 37.42
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 29.32,
-      "govtPct": 0,
-      "institutePct": 32.77,
-      "foreignPct": 0,
-      "publicPct": 37.91
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 29.32,
@@ -90,6 +81,15 @@
       "institutePct": 32.54,
       "foreignPct": 0,
       "publicPct": 38.14
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 29.32,
+      "govtPct": 0,
+      "institutePct": 32.36,
+      "foreignPct": 0,
+      "publicPct": 38.32
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01713 245 382",
     "telephoneNo": "+880 2223381812"
   },
-  "scrapedAt": "2026-09-13T15:41:52.210Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:06.241Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (338.23%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 338.23,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2723.061,
+      "totalInterestBearingDebt": 9210.17
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AFTABAUTO",
+  "cseQuote": {
+    "ltp": 26.2,
+    "open": 26.2,
+    "high": 26.2,
+    "low": 26.2,
+    "ycp": 26.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

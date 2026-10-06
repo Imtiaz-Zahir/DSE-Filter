@@ -50,7 +50,10 @@ export function FilterToolbar({
 
   const presets = [
     { id: "all", label: "All Stocks", icon: null },
-    { id: "sharia", label: "DSES Sharia", icon: ShieldCheck, color: "text-emerald-600 dark:text-emerald-400" },
+    { id: "sharia", label: "Sharia", icon: ShieldCheck, color: "text-emerald-600 dark:text-emerald-400" },
+    { id: "sharia_zero_debt", label: "Shariah 0% Debt", icon: ShieldCheck, color: "text-emerald-600 dark:text-emerald-400" },
+    { id: "sharia_islamic_finance", label: "Islamic Finance", icon: Building2, color: "text-emerald-600 dark:text-emerald-400" },
+    { id: "sharia_low_purification", label: "Purification ≤ 1%", icon: ShieldCheck, color: "text-emerald-600 dark:text-emerald-400" },
     { id: "gainers", label: "Gainers", icon: TrendingUp, color: "text-emerald-600 dark:text-emerald-400" },
     { id: "losers", label: "Losers", icon: TrendingDown, color: "text-rose-600 dark:text-rose-400" },
     { id: "high_yield", label: "Yield ≥ 5%", icon: Percent, color: "text-amber-600 dark:text-amber-400" },
@@ -66,6 +69,14 @@ export function FilterToolbar({
 
   const handlePresetSelect = (presetId: string) => {
     setFilters((prev) => ({ ...prev, preset: presetId }));
+  };
+
+  const handleExchangeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const val = e.target.value as "all" | "dual" | "dse" | "cse";
+    setFilters((prev) => ({
+      ...prev,
+      exchange: val || "all",
+    }));
   };
 
   const handleSectorChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -115,6 +126,21 @@ export function FilterToolbar({
 
         {/* Action controls */}
         <div className="flex items-center gap-1.5 flex-wrap sm:flex-nowrap">
+          {/* Exchange Selector */}
+          <select
+            id="exchange-select"
+            name="exchange-select"
+            value={filters.exchange || "all"}
+            onChange={handleExchangeChange}
+            aria-label="Filter by exchange"
+            className="h-8.5 rounded-lg border border-border bg-background px-2 text-xs text-foreground outline-none focus:border-ring focus:ring-1 focus:ring-ring max-w-[125px] sm:max-w-[140px] truncate"
+          >
+            <option value="all">All Exchanges</option>
+            <option value="dual">Dual (DSE+CSE)</option>
+            <option value="dse">DSE Only</option>
+            <option value="cse">CSE Only</option>
+          </select>
+
           {/* Quick Sector Selector */}
           <select
             id="sector-select"
@@ -122,7 +148,7 @@ export function FilterToolbar({
             value={filters.sectors[0] || ""}
             onChange={handleSectorChange}
             aria-label="Filter by sector"
-            className="h-8.5 rounded-lg border border-border bg-background px-2 text-xs text-foreground outline-none focus:border-ring focus:ring-1 focus:ring-ring max-w-[140px] sm:max-w-[170px] truncate"
+            className="h-8.5 rounded-lg border border-border bg-background px-2 text-xs text-foreground outline-none focus:border-ring focus:ring-1 focus:ring-ring max-w-[130px] sm:max-w-[155px] truncate"
           >
             <option value="">All Sectors</option>
             {allSectors.map((sec) => (

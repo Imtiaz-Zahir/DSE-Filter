@@ -2,44 +2,44 @@
   "tradingCode": "SHYAMPSUG",
   "scripCode": "14279",
   "companyName": "Shyampur Sugar Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SHYAMPSUG",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SHYAMPSUG",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 337,
     "TRADING CODE": "SHYAMPSUG",
     "tradingCode": "SHYAMPSUG",
-    "LTP": 296,
-    "HIGH": 302,
-    "LOW": 296,
-    "CLOSEP": 296.5,
-    "YCP": 300.1,
-    "CHANGE": -4.1,
-    "TRADE": 145,
-    "VALUE (mn)": 13.502,
-    "VOLUME": 45536
+    "LTP": 319.6,
+    "HIGH": 319.9,
+    "LOW": 293.2,
+    "CLOSEP": 319.6,
+    "YCP": 294.2,
+    "CHANGE": 25.4,
+    "TRADE": 911,
+    "VALUE (mn)": 21.514,
+    "VOLUME": 68853
   },
   "marketInformation": {
-    "lastTradingPrice": 296,
+    "lastTradingPrice": 319.6,
     "daysRange": [
-      296,
-      302
+      293.2,
+      319.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       115,
       359
     ],
-    "change": -4.1,
-    "daysTradeNos": 145,
-    "yesterdaysClose": 300.1,
-    "daysVolumeNos": 45536,
-    "adjustedOpeningPrice": 300.1,
-    "daysValueMn": 13.5,
-    "openingPrice": 301.1,
-    "marketCapMn": 1500.5,
-    "closingPrice": 296.5,
-    "freeFloatMarketCapMn": 735.245
+    "change": 25.4,
+    "daysTradeNos": 911,
+    "yesterdaysClose": 294.2,
+    "daysVolumeNos": 68853,
+    "adjustedOpeningPrice": 294.2,
+    "daysValueMn": 21.51,
+    "openingPrice": 299.2,
+    "marketCapMn": 1471,
+    "closingPrice": 319.6,
+    "freeFloatMarketCapMn": 720.79
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 45.02
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 0,
-      "govtPct": 51,
-      "institutePct": 9.69,
-      "foreignPct": 0,
-      "publicPct": 39.31
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 0,
@@ -90,6 +81,15 @@
       "institutePct": 6.33,
       "foreignPct": 0,
       "publicPct": 42.67
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 0,
+      "govtPct": 51,
+      "institutePct": 6.07,
+      "foreignPct": 0,
+      "publicPct": 42.93
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,40 @@
     "cellNo": "+88 01795 108 465",
     "telephoneNo": "02 9515668"
   },
-  "scrapedAt": "2026-09-13T15:43:58.059Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:22.776Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (168.73%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 168.73,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1471,
+      "totalInterestBearingDebt": 2481.97
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SHYAMPSUG",
+  "indices": [
+    "DSEX"
+  ]
 }

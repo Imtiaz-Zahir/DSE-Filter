@@ -2,44 +2,44 @@
   "tradingCode": "TAMIJTEX",
   "scripCode": "17419",
   "companyName": "Tamijuddin Textile Mills PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TAMIJTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TAMIJTEX",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 366,
     "TRADING CODE": "TAMIJTEX",
     "tradingCode": "TAMIJTEX",
-    "LTP": 111.3,
-    "HIGH": 121.1,
-    "LOW": 111,
-    "CLOSEP": 111.3,
-    "YCP": 117.7,
-    "CHANGE": -6.4,
-    "TRADE": 379,
-    "VALUE (mn)": 6.136,
-    "VOLUME": 53977
+    "LTP": 111,
+    "HIGH": 112.9,
+    "LOW": 110.7,
+    "CLOSEP": 111,
+    "YCP": 112.1,
+    "CHANGE": -1.1,
+    "TRADE": 398,
+    "VALUE (mn)": 5.167,
+    "VOLUME": 46291
   },
   "marketInformation": {
-    "lastTradingPrice": 111.3,
+    "lastTradingPrice": 111,
     "daysRange": [
-      111,
-      121.1
+      110.7,
+      112.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       104.1,
-      169.4
+      154.7
     ],
-    "change": -6.4,
-    "daysTradeNos": 379,
-    "yesterdaysClose": 117.7,
-    "daysVolumeNos": 53977,
-    "adjustedOpeningPrice": 117.7,
-    "daysValueMn": 6.14,
-    "openingPrice": 121.1,
-    "marketCapMn": 3892.485,
-    "closingPrice": 111.3,
-    "freeFloatMarketCapMn": 1508.866
+    "change": -1.1,
+    "daysTradeNos": 398,
+    "yesterdaysClose": 112.1,
+    "daysVolumeNos": 46291,
+    "adjustedOpeningPrice": 112.1,
+    "daysValueMn": 5.17,
+    "openingPrice": 111.7,
+    "marketCapMn": 3707.286,
+    "closingPrice": 111,
+    "freeFloatMarketCapMn": 1437.076
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 37.73
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 61.23,
-      "govtPct": 0,
-      "institutePct": 3.04,
-      "foreignPct": 0,
-      "publicPct": 35.73
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 61.23,
@@ -90,6 +81,15 @@
       "institutePct": 1.6,
       "foreignPct": 0,
       "publicPct": 37.17
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 61.23,
+      "govtPct": 0,
+      "institutePct": 1.56,
+      "foreignPct": 0,
+      "publicPct": 37.21
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 21.78,
+        "date": "2026-09-28",
+        "peBasic": 20.81,
         "peDiluted": null,
-        "peTrailing": 18.78
+        "peTrailing": 17.94
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 22.02,
+        "date": "2026-09-29",
+        "peBasic": 20.37,
         "peDiluted": null,
-        "peTrailing": 18.99
+        "peTrailing": 17.56
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 21.76,
+        "date": "2026-09-30",
+        "peBasic": 20.39,
         "peDiluted": null,
-        "peTrailing": 18.76
+        "peTrailing": 17.58
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 22.08,
+        "date": "2026-10-01",
+        "peBasic": 20.63,
         "peDiluted": null,
-        "peTrailing": 19.03
+        "peTrailing": 17.78
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 21.64,
+        "date": "2026-10-04",
+        "peBasic": 20.61,
         "peDiluted": null,
-        "peTrailing": 18.65
+        "peTrailing": 17.77
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 20.46,
+        "date": "2026-10-05",
+        "peBasic": 20.4,
         "peDiluted": null,
-        "peTrailing": 17.64
+        "peTrailing": 17.59
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.66,
-        "peDiluted": 19.43
+        "date": "2026-09-28",
+        "peBasic": 16.87,
+        "peDiluted": 18.56
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.85,
-        "peDiluted": 19.64
+        "date": "2026-09-29",
+        "peBasic": 16.51,
+        "peDiluted": 18.16
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 17.65,
-        "peDiluted": 19.41
+        "date": "2026-09-30",
+        "peBasic": 16.53,
+        "peDiluted": 18.18
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 17.9,
-        "peDiluted": 19.69
+        "date": "2026-10-01",
+        "peBasic": 16.72,
+        "peDiluted": 18.39
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 17.54,
-        "peDiluted": 19.3
+        "date": "2026-10-04",
+        "peBasic": 16.71,
+        "peDiluted": 18.38
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 16.59,
-        "peDiluted": 18.25
+        "date": "2026-10-05",
+        "peBasic": 16.54,
+        "peDiluted": 18.2
       }
     ]
   },
@@ -374,6 +374,56 @@
     "cellNo": "+88 01755 555 257, +88 01324241521",
     "telephoneNo": "9639203070"
   },
-  "scrapedAt": "2026-09-13T15:44:12.247Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.908Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (38.47%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 38.47,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3707.286,
+      "totalInterestBearingDebt": 1426.04
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TAMIJTEX",
+  "cseQuote": {
+    "ltp": 130,
+    "open": 130,
+    "high": 130,
+    "low": 130,
+    "ycp": 130,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

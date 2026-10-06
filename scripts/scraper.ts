@@ -8,6 +8,7 @@ import type {
   ShariaStockItem,
   ScrapeOptions,
 } from "./types";
+import { calculateShariahAudit } from "../lib/shariah-screener";
 
 // Allow self-signed certificates if DSE server certificate chain has issues
 if (typeof process !== "undefined" && process.env) {
@@ -115,138 +116,116 @@ export function parseShareHoldings(
 }
 
 /**
- * Loads Sharia stock compliance dataset.
+ * Loads Sharia stock compliance dataset. Default list is the official CSI list.
  */
 export function loadShariaData(customData?: ShariaStockItem[] | string): ShariaStockItem[] {
   if (Array.isArray(customData) && customData.length > 0) {
     return customData;
   }
   return [
-    "ZAHEENSPIN",
-    "YPL",
-    "WALTONHIL",
-    "VFSTDLVF",
-    "UNIONBANK",
-    "TITASGAS",
-    "TAKAFULINS",
-    "SUMITPOWER",
-    "STANCERAM",
-    "SSSTEEL",
-    "SQURPHARMA",
-    "SPCL",
-    "SPCERAMICS",
-    "SONALIPAPR",
-    "SKTRIMSS",
-    "SINOBANGLA",
-    "SINGERBD",
-    "SIMTEX",
-    "SILVAPHL",
-    "SILCOPHL",
-    "SIBL",
-    "SHURWID",
-    "SHAHJABANK",
-    "SAPORTL",
-    "SAMORITA",
-    "SAMATALETH",
-    "SAIHAMCOT",
-    "RSRMSTEEL",
-    "REGENTTEX",
-    "RECKITTBEN",
-    "RDFOOD",
-    "RANFOUNDRY",
-    "RAKCERAMICRA",
-    "QUASEMIND",
-    "PRIMETEX",
-    "PRIMELIFE",
-    "PREMIERCEM",
-    "PDL",
-    "PADMALIFE",
-    "OLYMPIC",
-    "OAL",
-    "NFML",
-    "NAVANACNG",
-    "NAHEEACP",
-    "MONNOCERA",
-    "MLDYEING",
-    "MJLBDMJ",
-    "MIRACLEIND",
-    "MHSML",
-    "MARICO",
-    "MALEKSPIN",
-    "LRBDL",
-    "LINDEBD",
-    "LIBRAINFU",
-    "LHB",
-    "KPCL",
-    "KOHINOOR",
-    "KDSALTDKD",
-    "KBPPWBIL",
-    "KA",
-    "JMISMDLJM",
-    "JHRMLJM",
-    "ITCI",
-    "ISLAMIINS",
-    "ISLAMICFIN",
-    "ISLAMIBANK",
-    "INTRACO",
-    "INTECH",
-    "INDEXAGRO",
-    "IBP",
-    "IBNSINAB",
-    "HWAWELLTEX",
-    "HFL",
-    "HEIDELBCEM",
-    "HAMI",
-    "HAKKANIPUL",
-    "GQBALLPEN",
-    "GP",
-    "GIB",
-    "GHCL",
-    "FUWANGFOOD",
-    "FORTUNE",
-    "FIRSTSBANK",
-    "FINEFOODS",
-    "FEKDIL",
-    "FAREASTLIF",
-    "FAMILYTEX",
-    "EXIMBANK",
-    "ESQUIRENIT",
-    "EGE",
-    "ECABLES",
-    "DSSL",
-    "DOREENPWR",
-    "DOMINAGE",
-    "DAFODILCOM",
-    "DACCADYE",
-    "COPPERTECH",
-    "CLICL",
-    "CENTRALPHL",
-    "BEXIMCO",
-    "BERGERPBL",
-    "BENGALWTL",
-    "BEACONPHAR",
-    "BDTHAI",
-    "BBSCABLESBB",
-    "BBS",
-    "BATASHOE",
-    "BARKAPOWER",
-    "BANGAS",
-    "APEXSPINN",
-    "APEXFOODS",
-    "AOL",
-    "ANWARGALV",
-    "AMBEEPHA",
-    "ALIF",
-    "ALARABANK",
-    "AGNISYSL",
-    "AFCAGROAF",
-    "ADVENT",
-    "ADNTELAD",
-    "ACMEPLACM",
-    "ACIFORMULAAC",
-    "ACFL",
+    "AAMRANET",
     "AAMRATECH",
-    "AAMRANE",
+    "ACFL",
+    "ACMEPL",
+    "ADNTEL",
+    "ADVENT",
+    "AGNISYSL",
+    "AIL",
+    "ALARABANK",
+    "AMBEEPHA",
+    "ANWARGALV",
+    "APEXFOODS",
+    "APEXSPINN",
+    "ASIATICLAB",
+    "BANGAS",
+    "BATASHOE",
+    "BBSCABLES",
+    "BDTHAI",
+    "BEACHHATCH",
+    "BENGALWTL",
+    "BERGERPBL",
+    "BEXIMCO",
+    "BXPHARMA",
+    "CENTRALPHL",
+    "COPPERTECH",
+    "CVOPRL",
+    "DACCADYE",
+    "DAFODILCOM",
+    "DOMINAGE",
+    "DSSL",
+    "ECABLES",
+    "EGEN",
+    "ESQUIRENIT",
+    "FARCHEM",
+    "FAREASTLIF",
+    "FEKDIL",
+    "FINEFOODS",
+    "FORTUNE",
+    "FUWANGFOOD",
+    "GHCL",
+    "GQBALLPEN",
+    "HAKKANIPUL",
+    "HEIDELBCEM",
+    "HFL",
+    "HWAWELLTEX",
+    "IBNSINA",
+    "IBP",
+    "INDEXAGRO",
+    "INTRACO",
+    "ISLAMIBANK",
+    "ISLAMICFIN",
+    "ISLAMIINS",
+    "ITC",
+    "JHRML",
+    "JMISMDL",
+    "KAY&QUE",
+    "KBPPWBIL",
+    "KDSALTD",
+    "KOHINOOR",
+    "KPCL",
+    "LHB",
+    "LINDEBD",
+    "LRBDL",
+    "MHSML",
+    "MIRACLEIND",
+    "MLDYEING",
+    "MONNOCERA",
+    "NAHEEACP",
+    "NFML",
+    "OLYMPIC",
+    "PADMALIFE",
+    "PDL",
+    "PRIMELIFE",
+    "PRIMETEX",
+    "QUASEMIND",
+    "RAHIMAFOOD",
+    "RAKCERAMIC",
+    "RANFOUNDRY",
+    "RDFOOD",
+    "RECKITTBEN",
+    "ROBI",
+    "SAIHAMTEX",
+    "SALVO",
+    "SAMATALETH",
+    "SAMORITA",
+    "SAPORTL",
+    "SHAHJABANK",
+    "SILCOPHL",
+    "SILVAPHL",
+    "SIMTEX",
+    "SINOBANGLA",
+    "SKTRIMS",
+    "SONALIPAPR",
+    "SPCERAMICS",
+    "SPCL",
+    "SUMITPOWER",
+    "TAKAFULINS",
+    "TILIL",
+    "TITASGAS",
+    "UPGDCL",
+    "VFSTDL",
+    "WALTONHIL",
+    "ZAHEENSPIN",
   ];
 }
 
@@ -281,55 +260,25 @@ export function loadOverviewData(customPath?: string): RawOverviewItem[] {
 }
 
 /**
- * Checks whether a given trading code is Sharia compliant.
- * Handles exact trading codes (string array) as well as legacy object lists.
+ * Evaluates whether a given trading code is Sharia compliant algorithmically using S&P DSES screening rules.
  */
 export function isShariaCompliant(
   tradingCode: string,
-  shariaData?: ShariaStockItem[],
-  allTradingCodes?: string[],
+  _shariaData?: ShariaStockItem[] | Set<string>,
+  _allTradingCodes?: string[],
 ): boolean {
   if (!tradingCode) return false;
-  const list = shariaData || loadShariaData();
-  if (!list || list.length === 0) return false;
-
   const code = tradingCode.trim().toUpperCase();
-  const codes = allTradingCodes || cachedAllCodes;
-
-  for (const item of list) {
-    const rawSym =
-      typeof item === "string" ? item : item.Symbol || item.tradingCode || "";
-    const sym = (rawSym || "").trim().toUpperCase();
-    if (!sym) continue;
-
-    // 1. Exact match
-    if (sym === code) {
-      return true;
-    }
-
-    // 2. Prefix / Truncated match support
-    if (sym.startsWith(code)) {
-      const hasLongerMatch = codes.some(
-        (c) =>
-          c.length > code.length && c.startsWith(code) && sym.startsWith(c),
-      );
-      if (!hasLongerMatch) return true;
-    }
-
-    if (code.startsWith(sym) && sym.length >= 3) {
-      return true;
-    }
-  }
-
-  return false;
+  const audit = calculateShariahAudit({ tradingCode: code });
+  return audit.isCompliant;
 }
 
 /**
  * Scrapes latest quotes & list of active mainboard companies from DSE live share price board.
- * URL: https://www.dsebd.org/latest_share_price_scroll_l.php
+ * URL: https://old.dsebd.org/latest_share_price_scroll_l.php
  */
 export async function fetchLiveDseOverview(): Promise<RawOverviewItem[]> {
-  const url = "https://www.dsebd.org/latest_share_price_scroll_l.php";
+  const url = "https://old.dsebd.org/latest_share_price_scroll_l.php";
 
   const headers = {
     "User-Agent":
@@ -398,7 +347,7 @@ export async function scrapeCompanyData(
   options: ScrapeOptions = {},
 ): Promise<RawStock> {
   const code = (stock["TRADING CODE"] || stock.tradingCode || "").trim();
-  const url = `https://www.dsebd.org/displayCompany.php?name=${encodeURIComponent(
+  const url = `https://old.dsebd.org/displayCompany.php?name=${encodeURIComponent(
     code,
   )}`;
   const userAgent =

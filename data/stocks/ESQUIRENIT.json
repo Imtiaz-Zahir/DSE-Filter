@@ -2,44 +2,44 @@
   "tradingCode": "ESQUIRENIT",
   "scripCode": "17481",
   "companyName": "Esquire Knit Composite PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ESQUIRENIT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ESQUIRENIT",
   "lastAGMHeldOn": "2026-01-25",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 122,
     "TRADING CODE": "ESQUIRENIT",
     "tradingCode": "ESQUIRENIT",
-    "LTP": 22.8,
-    "HIGH": 24.1,
-    "LOW": 22.6,
-    "CLOSEP": 22.8,
-    "YCP": 24.1,
-    "CHANGE": -1.3,
-    "TRADE": 275,
-    "VALUE (mn)": 3.702,
-    "VOLUME": 159979
+    "LTP": 23.2,
+    "HIGH": 23.6,
+    "LOW": 22.8,
+    "CLOSEP": 22.9,
+    "YCP": 23.6,
+    "CHANGE": -0.4,
+    "TRADE": 123,
+    "VALUE (mn)": 2.682,
+    "VOLUME": 115678
   },
   "marketInformation": {
-    "lastTradingPrice": 22.8,
+    "lastTradingPrice": 23.2,
     "daysRange": [
-      22.6,
-      24.1
+      22.8,
+      23.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.8,
-      28.9
+      28
     ],
-    "change": -1.3,
-    "daysTradeNos": 275,
-    "yesterdaysClose": 24.1,
-    "daysVolumeNos": 159979,
-    "adjustedOpeningPrice": 24.1,
-    "daysValueMn": 3.7,
-    "openingPrice": 24.1,
-    "marketCapMn": 3250.99,
-    "closingPrice": 22.8,
-    "freeFloatMarketCapMn": 1011.2
+    "change": -0.4,
+    "daysTradeNos": 123,
+    "yesterdaysClose": 23.6,
+    "daysVolumeNos": 115678,
+    "adjustedOpeningPrice": 23.6,
+    "daysValueMn": 2.68,
+    "openingPrice": 23.6,
+    "marketCapMn": 3183.542,
+    "closingPrice": 22.9,
+    "freeFloatMarketCapMn": 990.221
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 11.76
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 46.95,
-      "govtPct": 0,
-      "institutePct": 41.44,
-      "foreignPct": 0,
-      "publicPct": 11.61
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 46.95,
@@ -90,6 +81,15 @@
       "institutePct": 41.04,
       "foreignPct": 0,
       "publicPct": 12.01
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 46.95,
+      "govtPct": 0,
+      "institutePct": 40.39,
+      "foreignPct": 0,
+      "publicPct": 12.66
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 56.59,
+        "date": "2026-09-28",
+        "peBasic": 52.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 57.05,
+        "date": "2026-09-29",
+        "peBasic": 52.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 55,
+        "date": "2026-09-30",
+        "peBasic": 53.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 55.45,
+        "date": "2026-10-01",
+        "peBasic": 54.09,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 54.77,
+        "date": "2026-10-04",
+        "peBasic": 53.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 51.82,
+        "date": "2026-10-05",
+        "peBasic": 52.05,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "+88 01713 333 040",
     "telephoneNo": "+8809612443322 Ext. 788"
   },
-  "scrapedAt": "2026-09-13T15:42:30.734Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:35.922Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (87.55%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 87.55,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3183.542,
+      "totalInterestBearingDebt": 2787.21
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ESQUIRENIT",
+  "cseQuote": {
+    "ltp": 23.2,
+    "open": 23,
+    "high": 23.2,
+    "low": 23.2,
+    "ycp": 23,
+    "change": 0.2,
+    "changePct": 0.87,
+    "trades": 2,
+    "valueMn": 0,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.839Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

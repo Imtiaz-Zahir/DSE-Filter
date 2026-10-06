@@ -2,44 +2,44 @@
   "tradingCode": "CLICL",
   "scripCode": "25755",
   "companyName": "Chartered Life Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CLICL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CLICL",
   "lastAGMHeldOn": "2026-08-10",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 84,
     "TRADING CODE": "CLICL",
     "tradingCode": "CLICL",
-    "LTP": 41.1,
-    "HIGH": 42.6,
-    "LOW": 40.9,
-    "CLOSEP": 41.1,
-    "YCP": 42.1,
-    "CHANGE": -1,
-    "TRADE": 214,
-    "VALUE (mn)": 2.64,
-    "VOLUME": 63493
+    "LTP": 46.6,
+    "HIGH": 47.9,
+    "LOW": 46.4,
+    "CLOSEP": 46.6,
+    "YCP": 47.1,
+    "CHANGE": -0.5,
+    "TRADE": 453,
+    "VALUE (mn)": 8.769,
+    "VOLUME": 186666
   },
   "marketInformation": {
-    "lastTradingPrice": 41.1,
+    "lastTradingPrice": 46.6,
     "daysRange": [
-      40.9,
-      42.6
+      46.4,
+      47.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       38.1,
       69.3
     ],
-    "change": -1,
-    "daysTradeNos": 214,
-    "yesterdaysClose": 42.1,
-    "daysVolumeNos": 63493,
-    "adjustedOpeningPrice": 42.1,
-    "daysValueMn": 2.64,
-    "openingPrice": 42.4,
-    "marketCapMn": 1578.75,
-    "closingPrice": 41.1,
-    "freeFloatMarketCapMn": 631.5
+    "change": -0.5,
+    "daysTradeNos": 453,
+    "yesterdaysClose": 47.1,
+    "daysVolumeNos": 186666,
+    "adjustedOpeningPrice": 47.1,
+    "daysValueMn": 8.77,
+    "openingPrice": 46.7,
+    "marketCapMn": 1766.25,
+    "closingPrice": 46.6,
+    "freeFloatMarketCapMn": 706.5
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -96,37 +96,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,33 +134,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 260.59,
+        "date": "2026-09-28",
+        "peBasic": 277.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 258.82,
+        "date": "2026-09-29",
+        "peBasic": 280.59,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 255.88,
+        "date": "2026-09-30",
+        "peBasic": 286.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 257.65,
+        "date": "2026-10-01",
+        "peBasic": 278.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 247.65,
+        "date": "2026-10-04",
+        "peBasic": 277.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 241.76,
+        "date": "2026-10-05",
+        "peBasic": 274.12,
         "peDiluted": null
       }
     ]
@@ -319,6 +319,57 @@
     "cellNo": "01713555883",
     "telephoneNo": "02-55128956-57 (Ext. 203)"
   },
-  "scrapedAt": "2026-09-13T15:42:17.787Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:24.517Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1766.25,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CLICL",
+  "cseQuote": {
+    "ltp": 46.2,
+    "open": 47.7,
+    "high": 46.2,
+    "low": 46.2,
+    "ycp": 47.7,
+    "change": -1.5,
+    "changePct": -3.14,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

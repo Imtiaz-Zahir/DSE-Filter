@@ -2,44 +2,44 @@
   "tradingCode": "SIPLC",
   "scripCode": "25752",
   "companyName": "Sena Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SIPLC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SIPLC",
   "lastAGMHeldOn": "2026-03-31",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 345,
     "TRADING CODE": "SIPLC",
     "tradingCode": "SIPLC",
-    "LTP": 140.5,
-    "HIGH": 143.5,
-    "LOW": 134,
-    "CLOSEP": 140.5,
-    "YCP": 138.7,
-    "CHANGE": 1.8,
-    "TRADE": 1248,
-    "VALUE (mn)": 86.701,
-    "VOLUME": 620389
+    "LTP": 142,
+    "HIGH": 149.9,
+    "LOW": 140.2,
+    "CLOSEP": 142,
+    "YCP": 144.9,
+    "CHANGE": -2.9,
+    "TRADE": 694,
+    "VALUE (mn)": 21.761,
+    "VOLUME": 151043
   },
   "marketInformation": {
-    "lastTradingPrice": 140.5,
+    "lastTradingPrice": 142,
     "daysRange": [
-      134,
-      143.5
+      140.2,
+      149.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       42.1,
-      160.7
+      166.2
     ],
-    "change": 1.8,
-    "daysTradeNos": 1248,
-    "yesterdaysClose": 138.7,
-    "daysVolumeNos": 620389,
-    "adjustedOpeningPrice": 138.7,
-    "daysValueMn": 86.7,
-    "openingPrice": 138.7,
-    "marketCapMn": 5548,
-    "closingPrice": 140.5,
-    "freeFloatMarketCapMn": 2219.2
+    "change": -2.9,
+    "daysTradeNos": 694,
+    "yesterdaysClose": 144.9,
+    "daysVolumeNos": 151043,
+    "adjustedOpeningPrice": 144.9,
+    "daysValueMn": 21.76,
+    "openingPrice": 145.2,
+    "marketCapMn": 5796,
+    "closingPrice": 142,
+    "freeFloatMarketCapMn": 2318.4
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 28.22
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 60,
-      "govtPct": 0,
-      "institutePct": 14.12,
-      "foreignPct": 0,
-      "publicPct": 25.88
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 60,
@@ -90,6 +81,15 @@
       "institutePct": 9.21,
       "foreignPct": 0,
       "publicPct": 30.79
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 60,
+      "govtPct": 0,
+      "institutePct": 8.1,
+      "foreignPct": 0,
+      "publicPct": 31.9
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.81,
+        "date": "2026-09-28",
+        "peBasic": 22.29,
         "peDiluted": null,
-        "peTrailing": 26.39
+        "peTrailing": 29.69
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.83,
+        "date": "2026-09-29",
+        "peBasic": 23.64,
         "peDiluted": null,
-        "peTrailing": 23.75
+        "peTrailing": 31.49
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 17.14,
+        "date": "2026-09-30",
+        "peBasic": 22.94,
         "peDiluted": null,
-        "peTrailing": 22.83
+        "peTrailing": 30.55
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 18.85,
+        "date": "2026-10-01",
+        "peBasic": 22.3,
         "peDiluted": null,
-        "peTrailing": 25.11
+        "peTrailing": 29.71
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 20.46,
+        "date": "2026-10-04",
+        "peBasic": 21.37,
         "peDiluted": null,
-        "peTrailing": 27.25
+        "peTrailing": 28.47
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 20.72,
+        "date": "2026-10-05",
+        "peBasic": 20.94,
         "peDiluted": null,
-        "peTrailing": 27.6
+        "peTrailing": 27.9
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.98,
+        "date": "2026-09-28",
+        "peBasic": 29.23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.38,
+        "date": "2026-09-29",
+        "peBasic": 31.01,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 22.48,
+        "date": "2026-09-30",
+        "peBasic": 30.08,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.72,
+        "date": "2026-10-01",
+        "peBasic": 29.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.83,
+        "date": "2026-10-04",
+        "peBasic": 28.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 27.18,
+        "date": "2026-10-05",
+        "peBasic": 27.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01712 161 604",
     "telephoneNo": "+88-02-55058455-57 Ext-103"
   },
-  "scrapedAt": "2026-09-13T15:43:59.010Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:23.575Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 5796,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SIPLC",
+  "cseQuote": {
+    "ltp": 128.1,
+    "open": 142.1,
+    "high": 128.1,
+    "low": 128.1,
+    "ycp": 142.1,
+    "change": -14,
+    "changePct": -9.85,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.858Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "INDEXAGRO",
   "scripCode": "99643",
   "companyName": "Index Agro Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=INDEXAGRO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=INDEXAGRO",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 179,
     "TRADING CODE": "INDEXAGRO",
     "tradingCode": "INDEXAGRO",
-    "LTP": 66.7,
-    "HIGH": 68.3,
-    "LOW": 66.2,
-    "CLOSEP": 66.7,
-    "YCP": 68.3,
-    "CHANGE": -1.6,
-    "TRADE": 155,
-    "VALUE (mn)": 1.6,
-    "VOLUME": 23952
+    "LTP": 69.9,
+    "HIGH": 73,
+    "LOW": 69.7,
+    "CLOSEP": 69.9,
+    "YCP": 72.4,
+    "CHANGE": -2.5,
+    "TRADE": 1055,
+    "VALUE (mn)": 18.853,
+    "VOLUME": 266677
   },
   "marketInformation": {
-    "lastTradingPrice": 66.7,
+    "lastTradingPrice": 69.9,
     "daysRange": [
-      66.2,
-      68.3
+      69.7,
+      73
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       60,
-      84.8
+      80.9
     ],
-    "change": -1.6,
-    "daysTradeNos": 155,
-    "yesterdaysClose": 68.3,
-    "daysVolumeNos": 23952,
-    "adjustedOpeningPrice": 68.3,
-    "daysValueMn": 1.6,
-    "openingPrice": 68.3,
-    "marketCapMn": 3388.795,
-    "closingPrice": 66.7,
-    "freeFloatMarketCapMn": 871.599
+    "change": -2.5,
+    "daysTradeNos": 1055,
+    "yesterdaysClose": 72.4,
+    "daysVolumeNos": 266677,
+    "adjustedOpeningPrice": 72.4,
+    "daysValueMn": 18.85,
+    "openingPrice": 72.6,
+    "marketCapMn": 3592.222,
+    "closingPrice": 69.9,
+    "freeFloatMarketCapMn": 923.92
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.69,
+        "date": "2026-09-28",
+        "peBasic": 18.57,
         "peDiluted": null,
-        "peTrailing": 13.41
+        "peTrailing": 14.08
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.64,
+        "date": "2026-09-29",
+        "peBasic": 18.44,
         "peDiluted": null,
-        "peTrailing": 13.37
+        "peTrailing": 13.98
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 17.64,
+        "date": "2026-09-30",
+        "peBasic": 18.41,
         "peDiluted": null,
-        "peTrailing": 13.37
+        "peTrailing": 13.96
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 17.69,
+        "date": "2026-10-01",
+        "peBasic": 18.93,
         "peDiluted": null,
-        "peTrailing": 13.41
+        "peTrailing": 14.35
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 17.66,
+        "date": "2026-10-04",
+        "peBasic": 18.72,
         "peDiluted": null,
-        "peTrailing": 13.39
+        "peTrailing": 14.2
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.25,
+        "date": "2026-10-05",
+        "peBasic": 18.08,
         "peDiluted": null,
-        "peTrailing": 13.08
+        "peTrailing": 13.71
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.39,
-        "peDiluted": 13
+        "date": "2026-09-28",
+        "peBasic": 13.01,
+        "peDiluted": 13.65
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.36,
-        "peDiluted": 12.97
+        "date": "2026-09-29",
+        "peBasic": 12.92,
+        "peDiluted": 13.56
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.36,
-        "peDiluted": 12.97
+        "date": "2026-09-30",
+        "peBasic": 12.9,
+        "peDiluted": 13.54
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.39,
-        "peDiluted": 13
+        "date": "2026-10-01",
+        "peBasic": 13.26,
+        "peDiluted": 13.92
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.37,
-        "peDiluted": 12.98
+        "date": "2026-10-04",
+        "peBasic": 13.12,
+        "peDiluted": 13.76
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.08,
-        "peDiluted": 12.68
+        "date": "2026-10-05",
+        "peBasic": 12.66,
+        "peDiluted": 13.29
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01844 004 026",
     "telephoneNo": "+88-02-58817175, +88-02-222296442"
   },
-  "scrapedAt": "2026-09-13T15:42:50.943Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:47.882Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 6.68% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.68,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3592.222,
+      "totalInterestBearingDebt": 239.98
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/INDEXAGRO",
+  "cseQuote": {
+    "ltp": 73.5,
+    "open": 71,
+    "high": 73.5,
+    "low": 71,
+    "ycp": 71,
+    "change": 2.5,
+    "changePct": 3.52,
+    "trades": 3,
+    "valueMn": 0.1,
+    "volume": 1350,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

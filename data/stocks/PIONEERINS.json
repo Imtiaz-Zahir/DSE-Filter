@@ -2,44 +2,44 @@
   "tradingCode": "PIONEERINS",
   "scripCode": "25720",
   "companyName": "Pioneer Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PIONEERINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PIONEERINS",
   "lastAGMHeldOn": "2026-05-04",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 275,
     "TRADING CODE": "PIONEERINS",
     "tradingCode": "PIONEERINS",
-    "LTP": 62.1,
-    "HIGH": 63.6,
-    "LOW": 61.9,
-    "CLOSEP": 62.1,
-    "YCP": 63.6,
-    "CHANGE": -1.5,
-    "TRADE": 384,
-    "VALUE (mn)": 7.625,
-    "VOLUME": 122204
+    "LTP": 66.1,
+    "HIGH": 67.5,
+    "LOW": 65.8,
+    "CLOSEP": 66.1,
+    "YCP": 66.8,
+    "CHANGE": -0.7,
+    "TRADE": 433,
+    "VALUE (mn)": 11.356,
+    "VOLUME": 171027
   },
   "marketInformation": {
-    "lastTradingPrice": 62.1,
+    "lastTradingPrice": 66.1,
     "daysRange": [
-      61.9,
-      63.6
+      65.8,
+      67.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.1,
       75.9
     ],
-    "change": -1.5,
-    "daysTradeNos": 384,
-    "yesterdaysClose": 63.6,
-    "daysVolumeNos": 122204,
-    "adjustedOpeningPrice": 63.6,
-    "daysValueMn": 7.63,
-    "openingPrice": 63.5,
-    "marketCapMn": 6531.179,
-    "closingPrice": 62.1,
-    "freeFloatMarketCapMn": 2834.109
+    "change": -0.7,
+    "daysTradeNos": 433,
+    "yesterdaysClose": 66.8,
+    "daysVolumeNos": 171027,
+    "adjustedOpeningPrice": 66.8,
+    "daysValueMn": 11.36,
+    "openingPrice": 67.5,
+    "marketCapMn": 6859.792,
+    "closingPrice": 66.1,
+    "freeFloatMarketCapMn": 2976.706
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.81,
+        "date": "2026-09-28",
+        "peBasic": 11.71,
         "peDiluted": null,
-        "peTrailing": 12.1
+        "peTrailing": 13.1
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 10.88,
+        "date": "2026-09-29",
+        "peBasic": 11.53,
         "peDiluted": null,
-        "peTrailing": 12.17
+        "peTrailing": 12.9
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10.66,
+        "date": "2026-09-30",
+        "peBasic": 11.51,
         "peDiluted": null,
-        "peTrailing": 11.93
+        "peTrailing": 12.88
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.71,
+        "date": "2026-10-01",
+        "peBasic": 11.26,
         "peDiluted": null,
-        "peTrailing": 11.99
+        "peTrailing": 12.6
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 10.56,
+        "date": "2026-10-04",
+        "peBasic": 11.1,
         "peDiluted": null,
-        "peTrailing": 11.82
+        "peTrailing": 12.42
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 10.32,
+        "date": "2026-10-05",
+        "peBasic": 10.98,
         "peDiluted": null,
-        "peTrailing": 11.54
+        "peTrailing": 12.29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.25,
-        "peDiluted": 14.97
+        "date": "2026-09-28",
+        "peBasic": 15.43,
+        "peDiluted": 16.21
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.33,
-        "peDiluted": 15.06
+        "date": "2026-09-29",
+        "peBasic": 15.19,
+        "peDiluted": 15.95
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 14.05,
-        "peDiluted": 14.76
+        "date": "2026-09-30",
+        "peBasic": 15.16,
+        "peDiluted": 15.93
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 14.11,
-        "peDiluted": 14.83
+        "date": "2026-10-01",
+        "peBasic": 14.84,
+        "peDiluted": 15.59
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 13.92,
-        "peDiluted": 14.62
+        "date": "2026-10-04",
+        "peBasic": 14.62,
+        "peDiluted": 15.36
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 13.59,
-        "peDiluted": 14.28
+        "date": "2026-10-05",
+        "peBasic": 14.46,
+        "peDiluted": 15.2
       }
     ]
   },
@@ -374,6 +374,58 @@
     "cellNo": "01322905143",
     "telephoneNo": "88-02-8878901-102"
   },
-  "scrapedAt": "2026-09-13T15:43:31.189Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:08.308Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 6859.792,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PIONEERINS",
+  "cseQuote": {
+    "ltp": 68.6,
+    "open": 68.6,
+    "high": 68.6,
+    "low": 68.6,
+    "ycp": 68.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CASPI",
+    "CSCX"
+  ]
 }

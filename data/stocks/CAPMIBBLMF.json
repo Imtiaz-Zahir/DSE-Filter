@@ -2,43 +2,43 @@
   "tradingCode": "CAPMIBBLMF",
   "scripCode": "12202",
   "companyName": "CAPM IBBL Islamic Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CAPMIBBLMF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CAPMIBBLMF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 79,
     "TRADING CODE": "CAPMIBBLMF",
     "tradingCode": "CAPMIBBLMF",
-    "LTP": 13.2,
-    "HIGH": 13.6,
-    "LOW": 12.8,
-    "CLOSEP": 13.2,
-    "YCP": 13.2,
-    "CHANGE": 0,
-    "TRADE": 278,
-    "VALUE (mn)": 6.476,
-    "VOLUME": 486834
+    "LTP": 17,
+    "HIGH": 17.1,
+    "LOW": 16.3,
+    "CLOSEP": 17,
+    "YCP": 16.9,
+    "CHANGE": 0.1,
+    "TRADE": 684,
+    "VALUE (mn)": 21.693,
+    "VOLUME": 1297276
   },
   "marketInformation": {
-    "lastTradingPrice": 13.2,
+    "lastTradingPrice": 17,
     "daysRange": [
-      12.8,
-      13.6
+      16.3,
+      17.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.5,
-      15.7
+      17.5
     ],
-    "change": 0,
-    "daysTradeNos": 278,
-    "yesterdaysClose": 13.2,
-    "daysVolumeNos": 486834,
-    "adjustedOpeningPrice": 13.2,
-    "daysValueMn": 6.48,
-    "openingPrice": 13.2,
-    "marketCapMn": 882.466,
-    "closingPrice": 13.2,
+    "change": 0.1,
+    "daysTradeNos": 684,
+    "yesterdaysClose": 16.9,
+    "daysVolumeNos": 1297276,
+    "adjustedOpeningPrice": 16.9,
+    "daysValueMn": 21.69,
+    "openingPrice": 16.8,
+    "marketCapMn": 1129.824,
+    "closingPrice": 17,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -74,15 +74,6 @@
       "publicPct": 31.05
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 66.56,
-      "govtPct": 0,
-      "institutePct": 6.98,
-      "foreignPct": 0,
-      "publicPct": 26.46
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 66.56,
@@ -90,6 +81,15 @@
       "institutePct": 5.72,
       "foreignPct": 0,
       "publicPct": 27.72
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 66.56,
+      "govtPct": 0,
+      "institutePct": 3.06,
+      "foreignPct": 0,
+      "publicPct": 30.38
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.71,
+        "date": "2026-09-28",
+        "peBasic": 45.71,
         "peDiluted": null,
-        "peTrailing": 37.71
+        "peTrailing": 45.71
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 36,
+        "date": "2026-09-29",
+        "peBasic": 46.86,
         "peDiluted": null,
-        "peTrailing": 36
+        "peTrailing": 46.86
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 35.71,
+        "date": "2026-09-30",
+        "peBasic": 48.86,
         "peDiluted": null,
-        "peTrailing": 35.71
+        "peTrailing": 48.86
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 35.71,
+        "date": "2026-10-01",
+        "peBasic": 46.29,
         "peDiluted": null,
-        "peTrailing": 35.71
+        "peTrailing": 46.29
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 37.71,
+        "date": "2026-10-04",
+        "peBasic": 48.29,
         "peDiluted": null,
-        "peTrailing": 37.71
+        "peTrailing": 48.29
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 37.71,
+        "date": "2026-10-05",
+        "peBasic": 48.57,
         "peDiluted": null,
-        "peTrailing": 37.71
+        "peTrailing": 48.57
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": "01847054877",
     "telephoneNo": "88-02222291611, 02-222282269 (102)"
   },
-  "scrapedAt": "2026-09-13T15:42:15.757Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:23.017Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1129.824,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CAPMIBBLMF",
+  "cseQuote": {
+    "ltp": 16.6,
+    "open": 17.2,
+    "high": 16.6,
+    "low": 16.6,
+    "ycp": 17.2,
+    "change": -0.6,
+    "changePct": -3.49,
+    "trades": 1,
+    "valueMn": 0.02,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

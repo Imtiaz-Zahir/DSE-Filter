@@ -2,44 +2,44 @@
   "tradingCode": "UPGDCL",
   "scripCode": "15318",
   "companyName": "United Power Generation & Distribution Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UPGDCL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UPGDCL",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 382,
     "TRADING CODE": "UPGDCL",
     "tradingCode": "UPGDCL",
-    "LTP": 110.7,
-    "HIGH": 112.2,
-    "LOW": 110.1,
-    "CLOSEP": 110.7,
-    "YCP": 111.7,
-    "CHANGE": -1,
-    "TRADE": 612,
-    "VALUE (mn)": 7.851,
-    "VOLUME": 70817
+    "LTP": 113,
+    "HIGH": 114,
+    "LOW": 112.8,
+    "CLOSEP": 113,
+    "YCP": 113.1,
+    "CHANGE": -0.1,
+    "TRADE": 160,
+    "VALUE (mn)": 1.423,
+    "VOLUME": 12592
   },
   "marketInformation": {
-    "lastTradingPrice": 110.7,
+    "lastTradingPrice": 113,
     "daysRange": [
-      110.1,
-      112.2
+      112.8,
+      114
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      109.8,
+      109.7,
       148.4
     ],
-    "change": -1,
-    "daysTradeNos": 612,
-    "yesterdaysClose": 111.7,
-    "daysVolumeNos": 70817,
-    "adjustedOpeningPrice": 111.7,
-    "daysValueMn": 7.85,
-    "openingPrice": 112.2,
-    "marketCapMn": 64751.962,
-    "closingPrice": 110.7,
-    "freeFloatMarketCapMn": 6476.184
+    "change": -0.1,
+    "daysTradeNos": 160,
+    "yesterdaysClose": 113.1,
+    "daysVolumeNos": 12592,
+    "adjustedOpeningPrice": 113.1,
+    "daysValueMn": 1.42,
+    "openingPrice": 114,
+    "marketCapMn": 65563.535,
+    "closingPrice": 113,
+    "freeFloatMarketCapMn": 6557.353
   },
   "basicInformation": {
     "authorizedCapitalMn": 19100,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.74,
+        "date": "2026-09-28",
+        "peBasic": 5.83,
         "peDiluted": null,
-        "peTrailing": 7.01
+        "peTrailing": 7.12
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.76,
+        "date": "2026-09-29",
+        "peBasic": 5.8,
         "peDiluted": null,
-        "peTrailing": 7.04
+        "peTrailing": 7.09
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.72,
+        "date": "2026-09-30",
+        "peBasic": 5.84,
         "peDiluted": null,
-        "peTrailing": 6.99
+        "peTrailing": 7.13
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.75,
+        "date": "2026-10-01",
+        "peBasic": 5.8,
         "peDiluted": null,
-        "peTrailing": 7.02
+        "peTrailing": 7.09
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.7,
+        "date": "2026-10-04",
+        "peBasic": 5.77,
         "peDiluted": null,
-        "peTrailing": 6.97
+        "peTrailing": 7.06
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.65,
+        "date": "2026-10-05",
+        "peBasic": 5.77,
         "peDiluted": null,
-        "peTrailing": 6.91
+        "peTrailing": 7.05
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.44,
+        "date": "2026-09-28",
+        "peBasic": 5.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.46,
+        "date": "2026-09-29",
+        "peBasic": 5.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.43,
+        "date": "2026-09-30",
+        "peBasic": 5.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.45,
+        "date": "2026-10-01",
+        "peBasic": 5.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.41,
+        "date": "2026-10-04",
+        "peBasic": 5.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.36,
+        "date": "2026-10-05",
+        "peBasic": 5.47,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,58 @@
     "cellNo": "01951155051",
     "telephoneNo": "+88 09666 700900, Ext-3065"
   },
-  "scrapedAt": "2026-09-13T15:44:18.063Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:34.535Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.51% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.51,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 65563.535,
+      "totalInterestBearingDebt": 331.84
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UPGDCL",
+  "cseQuote": {
+    "ltp": 110.1,
+    "open": 110.1,
+    "high": 110.1,
+    "low": 110.1,
+    "ycp": 110.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

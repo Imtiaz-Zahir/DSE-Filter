@@ -246,8 +246,8 @@ export function CompareWorkspace() {
           getValue: (s: Stock) => `Category ${getCategory(s)}`,
         },
         {
-          label: "DSES Sharia Status",
-          getValue: (s: Stock) => (getShariaCompliant(s) ? "Compliant" : "Non-Compliant"),
+          label: "Sharia Status",
+          getValue: (s: Stock) => (getShariaCompliant(s) ? "Sharia Compliant" : "Non-Compliant"),
         },
         {
           label: "Listing Year",
@@ -390,8 +390,11 @@ export function CompareWorkspace() {
                               {cat}
                             </Badge>
                             {isSharia && (
-                              <span className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0.2 text-[9px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
-                                DSES
+                              <span
+                                title="Sharia Compliant"
+                                className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0.2 text-[9px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20"
+                              >
+                                Sharia
                               </span>
                             )}
                           </div>

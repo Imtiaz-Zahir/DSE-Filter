@@ -2,44 +2,44 @@
   "tradingCode": "HRTEX",
   "scripCode": "17442",
   "companyName": "H.R.Textile Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HRTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=HRTEX",
   "lastAGMHeldOn": "2025-03-19",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 161,
     "TRADING CODE": "HRTEX",
     "tradingCode": "HRTEX",
-    "LTP": 16.5,
-    "HIGH": 17.5,
-    "LOW": 16.2,
-    "CLOSEP": 16.5,
-    "YCP": 17.2,
-    "CHANGE": -0.7,
-    "TRADE": 76,
-    "VALUE (mn)": 0.587,
-    "VOLUME": 35220
+    "LTP": 16.1,
+    "HIGH": 16.6,
+    "LOW": 16.1,
+    "CLOSEP": 16.2,
+    "YCP": 16.4,
+    "CHANGE": -0.3,
+    "TRADE": 34,
+    "VALUE (mn)": 0.106,
+    "VOLUME": 6521
   },
   "marketInformation": {
-    "lastTradingPrice": 16.5,
+    "lastTradingPrice": 16.1,
     "daysRange": [
-      16.2,
-      17.5
+      16.1,
+      16.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.4,
-      26.2
+      24
     ],
-    "change": -0.7,
-    "daysTradeNos": 76,
-    "yesterdaysClose": 17.2,
-    "daysVolumeNos": 35220,
-    "adjustedOpeningPrice": 17.2,
-    "daysValueMn": 0.59,
-    "openingPrice": 17.5,
-    "marketCapMn": 502.61,
-    "closingPrice": 16.5,
-    "freeFloatMarketCapMn": 328.994
+    "change": -0.3,
+    "daysTradeNos": 34,
+    "yesterdaysClose": 16.4,
+    "daysVolumeNos": 6521,
+    "adjustedOpeningPrice": 16.4,
+    "daysValueMn": 0.11,
+    "openingPrice": 16.6,
+    "marketCapMn": 479.233,
+    "closingPrice": 16.2,
+    "freeFloatMarketCapMn": 313.692
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01990 409 011",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:45.898Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:44.713Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (601.18%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 601.18,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 479.233,
+      "totalInterestBearingDebt": 2881.03
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/HRTEX",
+  "cseQuote": {
+    "ltp": 16.2,
+    "open": 16.2,
+    "high": 16.2,
+    "low": 16.2,
+    "ycp": 16.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.842Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

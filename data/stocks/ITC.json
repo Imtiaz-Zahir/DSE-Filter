@@ -2,44 +2,44 @@
   "tradingCode": "ITC",
   "scripCode": "22648",
   "companyName": "IT Consultants PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ITC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ITC",
   "lastAGMHeldOn": "2025-12-07",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 187,
     "TRADING CODE": "ITC",
     "tradingCode": "ITC",
-    "LTP": 43.7,
-    "HIGH": 45.6,
-    "LOW": 43.6,
-    "CLOSEP": 43.7,
-    "YCP": 45.5,
-    "CHANGE": -1.8,
-    "TRADE": 1333,
-    "VALUE (mn)": 46.713,
-    "VOLUME": 1055507
+    "LTP": 41.6,
+    "HIGH": 43.5,
+    "LOW": 41.2,
+    "CLOSEP": 41.6,
+    "YCP": 42.9,
+    "CHANGE": -1.3,
+    "TRADE": 933,
+    "VALUE (mn)": 22.092,
+    "VOLUME": 524684
   },
   "marketInformation": {
-    "lastTradingPrice": 43.7,
+    "lastTradingPrice": 41.6,
     "daysRange": [
-      43.6,
-      45.6
+      41.2,
+      43.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.6,
       55
     ],
-    "change": -1.8,
-    "daysTradeNos": 1333,
-    "yesterdaysClose": 45.5,
-    "daysVolumeNos": 1055507,
-    "adjustedOpeningPrice": 45.5,
-    "daysValueMn": 46.71,
-    "openingPrice": 45.6,
-    "marketCapMn": 5850.966,
-    "closingPrice": 43.7,
-    "freeFloatMarketCapMn": 2862.131
+    "change": -1.3,
+    "daysTradeNos": 933,
+    "yesterdaysClose": 42.9,
+    "daysVolumeNos": 524684,
+    "adjustedOpeningPrice": 42.9,
+    "daysValueMn": 22.09,
+    "openingPrice": 43.4,
+    "marketCapMn": 5516.625,
+    "closingPrice": 41.6,
+    "freeFloatMarketCapMn": 2698.581
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 29.35
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 51.09,
-      "govtPct": 0,
-      "institutePct": 11.81,
-      "foreignPct": 0.12,
-      "publicPct": 36.98
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 51.09,
@@ -90,6 +81,15 @@
       "institutePct": 12.75,
       "foreignPct": 0.2,
       "publicPct": 35.96
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 51.09,
+      "govtPct": 0,
+      "institutePct": 14.15,
+      "foreignPct": 0.2,
+      "publicPct": 34.56
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.69,
+        "date": "2026-09-28",
+        "peBasic": 12.33,
         "peDiluted": null,
-        "peTrailing": 13.77
+        "peTrailing": 13.37
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.72,
+        "date": "2026-09-29",
+        "peBasic": 12.25,
         "peDiluted": null,
-        "peTrailing": 13.8
+        "peTrailing": 13.28
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.64,
+        "date": "2026-09-30",
+        "peBasic": 12.25,
         "peDiluted": null,
-        "peTrailing": 13.7
+        "peTrailing": 13.28
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.69,
+        "date": "2026-10-01",
+        "peBasic": 12.08,
         "peDiluted": null,
-        "peTrailing": 13.77
+        "peTrailing": 13.1
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.64,
+        "date": "2026-10-04",
+        "peBasic": 11.92,
         "peDiluted": null,
-        "peTrailing": 13.7
+        "peTrailing": 12.92
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.14,
+        "date": "2026-10-05",
+        "peBasic": 11.56,
         "peDiluted": null,
-        "peTrailing": 13.16
+        "peTrailing": 12.53
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.62,
+        "date": "2026-09-28",
+        "peBasic": 12.27,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.65,
+        "date": "2026-09-29",
+        "peBasic": 12.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.57,
+        "date": "2026-09-30",
+        "peBasic": 12.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.62,
+        "date": "2026-10-01",
+        "peBasic": 12.02,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.57,
+        "date": "2026-10-04",
+        "peBasic": 11.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.07,
+        "date": "2026-10-05",
+        "peBasic": 11.49,
         "peDiluted": null
       }
     ]
@@ -368,12 +368,64 @@
     "factory": null,
     "phone": "01730-799989",
     "fax": "+88 02 9830310-13",
-    "email": "zahirul@itcbd.com",
+    "email": "parvez@itcbd.com",
     "webAddress": "http://www.itcbd.com",
-    "companySecretaryName": "Mr. Md. Zahirul Islam FCMA (Current Charge)",
+    "companySecretaryName": "Mr. Md. Selim Parvez, FCS",
     "cellNo": "01730-799989",
     "telephoneNo": "+88 02-9830310-13"
   },
-  "scrapedAt": "2026-09-13T15:42:55.641Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:50.362Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 17.42% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 17.42,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 5516.625,
+      "totalInterestBearingDebt": 961.08
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ITC",
+  "cseQuote": {
+    "ltp": 44.9,
+    "open": 44.9,
+    "high": 44.9,
+    "low": 44.9,
+    "ycp": 44.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CASPI",
+    "CSCX"
+  ]
 }

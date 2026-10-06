@@ -2,44 +2,44 @@
   "tradingCode": "FUWANGFOOD",
   "scripCode": "14286",
   "companyName": "Fu Wang Food Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FUWANGFOOD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FUWANGFOOD",
   "lastAGMHeldOn": "2024-12-26",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 139,
     "TRADING CODE": "FUWANGFOOD",
     "tradingCode": "FUWANGFOOD",
-    "LTP": 9.3,
-    "HIGH": 9.7,
-    "LOW": 9.3,
-    "CLOSEP": 9.3,
-    "YCP": 9.6,
-    "CHANGE": -0.3,
-    "TRADE": 184,
-    "VALUE (mn)": 1.761,
-    "VOLUME": 188222
+    "LTP": 9.2,
+    "HIGH": 9.5,
+    "LOW": 9.2,
+    "CLOSEP": 9.2,
+    "YCP": 9.3,
+    "CHANGE": -0.1,
+    "TRADE": 144,
+    "VALUE (mn)": 1.1,
+    "VOLUME": 119011
   },
   "marketInformation": {
-    "lastTradingPrice": 9.3,
+    "lastTradingPrice": 9.2,
     "daysRange": [
-      9.3,
-      9.7
+      9.2,
+      9.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9,
-      15.8
+      14.7
     ],
-    "change": -0.3,
-    "daysTradeNos": 184,
-    "yesterdaysClose": 9.6,
-    "daysVolumeNos": 188222,
-    "adjustedOpeningPrice": 9.6,
-    "daysValueMn": 1.76,
-    "openingPrice": 9.7,
-    "marketCapMn": 1064.057,
-    "closingPrice": 9.3,
-    "freeFloatMarketCapMn": 980.549
+    "change": -0.1,
+    "daysTradeNos": 144,
+    "yesterdaysClose": 9.3,
+    "daysVolumeNos": 119011,
+    "adjustedOpeningPrice": 9.3,
+    "daysValueMn": 1.1,
+    "openingPrice": 9.5,
+    "marketCapMn": 1030.805,
+    "closingPrice": 9.2,
+    "freeFloatMarketCapMn": 949.907
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+8801701 222 901",
     "telephoneNo": "+880222287359-60, Ext-139"
   },
-  "scrapedAt": "2026-09-13T15:42:35.795Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:38.780Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.12% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.12,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1030.805,
+      "totalInterestBearingDebt": 1.27
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FUWANGFOOD",
+  "cseQuote": {
+    "ltp": 9.3,
+    "open": 9.8,
+    "high": 9.4,
+    "low": 9.3,
+    "ycp": 9.8,
+    "change": -0.5,
+    "changePct": -5.1,
+    "trades": 4,
+    "valueMn": 0.21,
+    "volume": 23000,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

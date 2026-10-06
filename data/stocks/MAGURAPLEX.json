@@ -2,44 +2,44 @@
   "tradingCode": "MAGURAPLEX",
   "scripCode": "19506",
   "companyName": "Magura Multiplex PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MAGURAPLEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MAGURAPLEX",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 211,
     "TRADING CODE": "MAGURAPLEX",
     "tradingCode": "MAGURAPLEX",
-    "LTP": 79.1,
-    "HIGH": 82.4,
-    "LOW": 78.7,
-    "CLOSEP": 79.1,
-    "YCP": 81.6,
-    "CHANGE": -2.5,
-    "TRADE": 277,
-    "VALUE (mn)": 4.609,
-    "VOLUME": 57908
+    "LTP": 81.3,
+    "HIGH": 83.2,
+    "LOW": 81,
+    "CLOSEP": 81.3,
+    "YCP": 82.8,
+    "CHANGE": -1.5,
+    "TRADE": 260,
+    "VALUE (mn)": 3.74,
+    "VOLUME": 45767
   },
   "marketInformation": {
-    "lastTradingPrice": 79.1,
+    "lastTradingPrice": 81.3,
     "daysRange": [
-      78.7,
-      82.4
+      81,
+      83.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       72.9,
-      110.7
+      109.8
     ],
-    "change": -2.5,
-    "daysTradeNos": 277,
-    "yesterdaysClose": 81.6,
-    "daysVolumeNos": 57908,
-    "adjustedOpeningPrice": 81.6,
-    "daysValueMn": 4.61,
-    "openingPrice": 81,
-    "marketCapMn": 2415.636,
-    "closingPrice": 79.1,
-    "freeFloatMarketCapMn": 1113.58
+    "change": -1.5,
+    "daysTradeNos": 260,
+    "yesterdaysClose": 82.8,
+    "daysVolumeNos": 45767,
+    "adjustedOpeningPrice": 82.8,
+    "daysValueMn": 3.74,
+    "openingPrice": 82.7,
+    "marketCapMn": 2451.16,
+    "closingPrice": 81.3,
+    "freeFloatMarketCapMn": 1129.956
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 30.37,
+        "date": "2026-09-28",
+        "peBasic": 30.44,
         "peDiluted": null,
-        "peTrailing": 33.99
+        "peTrailing": 34.07
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 30.26,
+        "peDiluted": null,
+        "peTrailing": 33.87
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 30.51,
+        "peDiluted": null,
+        "peTrailing": 34.16
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 30.18,
         "peDiluted": null,
         "peTrailing": 33.79
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-04",
+        "peBasic": 30.44,
+        "peDiluted": null,
+        "peTrailing": 34.07
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 29.89,
         "peDiluted": null,
         "peTrailing": 33.46
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 30.04,
-        "peDiluted": null,
-        "peTrailing": 33.62
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 30,
-        "peDiluted": null,
-        "peTrailing": 33.58
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 29.08,
-        "peDiluted": null,
-        "peTrailing": 32.55
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 22.94,
+        "date": "2026-09-28",
+        "peBasic": 23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 22.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 23.06,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 22.81,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-04",
+        "peBasic": 23,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 22.58,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 22.69,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 22.67,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 21.97,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,54 @@
     "cellNo": "+88 01847 091 027",
     "telephoneNo": "02-55036456 (Ext. 702)"
   },
-  "scrapedAt": "2026-09-13T15:43:07.214Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:55.743Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (94.17%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 94.17,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2451.16,
+      "totalInterestBearingDebt": 2308.2
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MAGURAPLEX",
+  "cseQuote": {
+    "ltp": 86,
+    "open": 86,
+    "high": 86,
+    "low": 86,
+    "ycp": 86,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX"
+  ]
 }

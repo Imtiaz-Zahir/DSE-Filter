@@ -2,7 +2,7 @@
   "tradingCode": "STANDBANKL",
   "scripCode": "11125",
   "companyName": "Standard Islami Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=STANDBANKL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=STANDBANKL",
   "lastAGMHeldOn": "2026-07-30",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "STANDBANKL",
     "tradingCode": "STANDBANKL",
     "LTP": 4.4,
-    "HIGH": 4.5,
-    "LOW": 4.3,
-    "CLOSEP": 4.4,
-    "YCP": 4.5,
-    "CHANGE": -0.1,
-    "TRADE": 118,
-    "VALUE (mn)": 2.179,
-    "VOLUME": 495111
+    "HIGH": 4.4,
+    "LOW": 4.2,
+    "CLOSEP": 4.3,
+    "YCP": 4.3,
+    "CHANGE": 0.1,
+    "TRADE": 94,
+    "VALUE (mn)": 2.083,
+    "VOLUME": 486185
   },
   "marketInformation": {
     "lastTradingPrice": 4.4,
     "daysRange": [
-      4.3,
-      4.5
+      4.2,
+      4.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.2,
       7
     ],
-    "change": -0.1,
-    "daysTradeNos": 118,
-    "yesterdaysClose": 4.5,
-    "daysVolumeNos": 495111,
-    "adjustedOpeningPrice": 4.5,
-    "daysValueMn": 2.18,
+    "change": 0.1,
+    "daysTradeNos": 94,
+    "yesterdaysClose": 4.3,
+    "daysVolumeNos": 486185,
+    "adjustedOpeningPrice": 4.3,
+    "daysValueMn": 2.08,
     "openingPrice": 4.4,
-    "marketCapMn": 5021.29,
-    "closingPrice": 4.4,
-    "freeFloatMarketCapMn": 3337.58
+    "marketCapMn": 4798.122,
+    "closingPrice": 4.3,
+    "freeFloatMarketCapMn": 3189.243
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 75,
-        "peDiluted": null,
-        "peTrailing": 10.98
-      },
-      {
-        "date": "2026-09-07",
+        "date": "2026-09-28",
         "peBasic": 73.33,
         "peDiluted": null,
         "peTrailing": 10.73
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 75,
-        "peDiluted": null,
-        "peTrailing": 10.98
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 73.33,
         "peDiluted": null,
         "peTrailing": 10.73
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 75,
-        "peDiluted": null,
-        "peTrailing": 10.98
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 73.33,
         "peDiluted": null,
         "peTrailing": 10.73
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 73.33,
+        "peDiluted": null,
+        "peTrailing": 10.73
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 71.67,
+        "peDiluted": null,
+        "peTrailing": 10.49
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 71.67,
+        "peDiluted": null,
+        "peTrailing": 10.49
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.25,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
+        "date": "2026-09-28",
         "peBasic": 6.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.25,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 6.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.25,
+        "date": "2026-09-30",
+        "peBasic": 6.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 6.11,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 5.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 5.97,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+8801999055536",
     "telephoneNo": "+8802223358385, +8802223385106, +8802223357913"
   },
-  "scrapedAt": "2026-09-13T15:44:07.444Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:27.231Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4798.122,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/STANDBANKL",
+  "cseQuote": {
+    "ltp": 4.4,
+    "open": 4,
+    "high": 4.4,
+    "low": 4.2,
+    "ycp": 4,
+    "change": 0.4,
+    "changePct": 10,
+    "trades": 2,
+    "valueMn": 0,
+    "volume": 2,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

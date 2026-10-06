@@ -2,44 +2,44 @@
   "tradingCode": "SONARGAON",
   "scripCode": "17430",
   "companyName": "Sonargaon Textiles Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONARGAON",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SONARGAON",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 351,
     "TRADING CODE": "SONARGAON",
     "tradingCode": "SONARGAON",
-    "LTP": 86,
-    "HIGH": 90.1,
-    "LOW": 85,
-    "CLOSEP": 86,
-    "YCP": 88,
-    "CHANGE": -2,
-    "TRADE": 353,
-    "VALUE (mn)": 4.89,
-    "VOLUME": 55690
+    "LTP": 108,
+    "HIGH": 112,
+    "LOW": 108,
+    "CLOSEP": 108.6,
+    "YCP": 110.9,
+    "CHANGE": -2.9,
+    "TRADE": 634,
+    "VALUE (mn)": 28.138,
+    "VOLUME": 256772
   },
   "marketInformation": {
-    "lastTradingPrice": 86,
+    "lastTradingPrice": 108,
     "daysRange": [
-      85,
-      90.1
+      108,
+      112
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.7,
       124.5
     ],
-    "change": -2,
-    "daysTradeNos": 353,
-    "yesterdaysClose": 88,
-    "daysVolumeNos": 55690,
-    "adjustedOpeningPrice": 88,
-    "daysValueMn": 4.89,
-    "openingPrice": 88.6,
-    "marketCapMn": 2329.101,
-    "closingPrice": 86,
-    "freeFloatMarketCapMn": 1293.825
+    "change": -2.9,
+    "daysTradeNos": 634,
+    "yesterdaysClose": 110.9,
+    "daysVolumeNos": 256772,
+    "adjustedOpeningPrice": 110.9,
+    "daysValueMn": 28.14,
+    "openingPrice": 112,
+    "marketCapMn": 2935.197,
+    "closingPrice": 108.6,
+    "freeFloatMarketCapMn": 1630.514
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 46.48
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 44.45,
-      "govtPct": 0,
-      "institutePct": 28.87,
-      "foreignPct": 0.01,
-      "publicPct": 26.67
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 44.45,
@@ -90,6 +81,15 @@
       "institutePct": 22.29,
       "foreignPct": 0.01,
       "publicPct": 33.25
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 44.45,
+      "govtPct": 0,
+      "institutePct": 21.46,
+      "foreignPct": 0,
+      "publicPct": 34.09
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,57 @@
     "cellNo": "01705583480",
     "telephoneNo": "+880-2-55012658"
   },
-  "scrapedAt": "2026-09-13T15:44:04.944Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:25.828Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 22.91% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 22.91,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2935.197,
+      "totalInterestBearingDebt": 672.4
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SONARGAON",
+  "cseQuote": {
+    "ltp": 108,
+    "open": 108,
+    "high": 108,
+    "low": 108,
+    "ycp": 108,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

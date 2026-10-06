@@ -2,44 +2,44 @@
   "tradingCode": "ISLAMIBANK",
   "scripCode": "11104",
   "companyName": "Islami Bank Bangladesh PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ISLAMIBANK",
-  "lastAGMHeldOn": "2025-12-11",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ISLAMIBANK",
+  "lastAGMHeldOn": "2026-09-16",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 183,
     "TRADING CODE": "ISLAMIBANK",
     "tradingCode": "ISLAMIBANK",
-    "LTP": 27.2,
-    "HIGH": 27.8,
-    "LOW": 27.2,
-    "CLOSEP": 27.2,
-    "YCP": 27.7,
-    "CHANGE": -0.5,
-    "TRADE": 223,
-    "VALUE (mn)": 2.028,
-    "VOLUME": 74372
+    "LTP": 26,
+    "HIGH": 26.7,
+    "LOW": 26,
+    "CLOSEP": 26,
+    "YCP": 26.4,
+    "CHANGE": -0.4,
+    "TRADE": 155,
+    "VALUE (mn)": 4.059,
+    "VOLUME": 155597
   },
   "marketInformation": {
-    "lastTradingPrice": 27.2,
+    "lastTradingPrice": 26,
     "daysRange": [
-      27.2,
-      27.8
+      26,
+      26.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.9,
       56.2
     ],
-    "change": -0.5,
-    "daysTradeNos": 223,
-    "yesterdaysClose": 27.7,
-    "daysVolumeNos": 74372,
-    "adjustedOpeningPrice": 27.7,
-    "daysValueMn": 2.03,
-    "openingPrice": 27.8,
-    "marketCapMn": 44596.742,
-    "closingPrice": 27.2,
-    "freeFloatMarketCapMn": 5098.161
+    "change": -0.4,
+    "daysTradeNos": 155,
+    "yesterdaysClose": 26.4,
+    "daysVolumeNos": 155597,
+    "adjustedOpeningPrice": 26.4,
+    "daysValueMn": 4.06,
+    "openingPrice": 26.7,
+    "marketCapMn": 42503.754,
+    "closingPrice": 26,
+    "freeFloatMarketCapMn": 4858.897
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -59,19 +59,19 @@
     "bonusIssue": "10% 2013, 17% 2012, 25% 2011, 35% 2010, 20% 2009, 30% 2008, 25% 2007,10% 2006, 25% 2005, 20% 2004, 20% 2003",
     "rightIssue": "2R:1 2003, 1R:1 2000, 1R:1 1996 (All right issues are At Par)",
     "yearEnd": "31-Dec",
-    "reserveSurplusWithoutOciMn": 55317.4,
+    "reserveSurplusWithoutOciMn": 55578.2,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
       "sponsorDirectorPct": 0.18,
       "govtPct": 0,
-      "institutePct": 74.68,
+      "institutePct": 74.84,
       "foreignPct": 17.89,
-      "publicPct": 7.25
+      "publicPct": 7.09
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,53 +189,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 40.44,
+        "date": "2026-09-28",
+        "peBasic": 31.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 40.29,
+        "date": "2026-09-29",
+        "peBasic": 31.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 40.44,
+        "date": "2026-09-30",
+        "peBasic": 31.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 40.44,
+        "date": "2026-10-01",
+        "peBasic": 31.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 40.74,
+        "date": "2026-10-04",
+        "peBasic": 31.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 40,
+        "date": "2026-10-05",
+        "peBasic": 30.59,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 2.98,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 38.89,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 4795.51,
-      "tciOriginal": 4795.51,
-      "tciRestated": 4795.51
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": 1087.85,
       "tciOriginal": 1087.85,
       "tciRestated": 1087.85
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.85,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 44.52,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 1363.42,
+      "tciOriginal": 1363.42,
+      "tciRestated": 1363.42
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 9,
-      "dividend": "10.00",
-      "cashDividendPct": 10,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 3.73
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 38.73,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -360,7 +360,7 @@
   ],
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
-    "longTermLoanMn": 292256.49,
+    "longTermLoanMn": 195638.36,
     "latestDividendStatus": null
   },
   "addressContact": {
@@ -374,6 +374,57 @@
     "cellNo": "+88 01730 739987",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:53.197Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:49.133Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 42503.754,
+      "totalInterestBearingDebt": 195638.36
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ISLAMIBANK",
+  "cseQuote": {
+    "ltp": 26.2,
+    "open": 26.2,
+    "high": 26.2,
+    "low": 26.2,
+    "ycp": 26.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

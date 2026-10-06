@@ -2,44 +2,44 @@
   "tradingCode": "RINGSHINE",
   "scripCode": "17483",
   "companyName": "Ring Shine Textiles Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RINGSHINE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RINGSHINE",
   "lastAGMHeldOn": "2024-12-18",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 310,
     "TRADING CODE": "RINGSHINE",
     "tradingCode": "RINGSHINE",
-    "LTP": 3.7,
-    "HIGH": 3.9,
-    "LOW": 3.7,
+    "LTP": 3.8,
+    "HIGH": 3.8,
+    "LOW": 3.6,
     "CLOSEP": 3.7,
-    "YCP": 3.8,
-    "CHANGE": -0.1,
-    "TRADE": 245,
-    "VALUE (mn)": 1.938,
-    "VOLUME": 517119
+    "YCP": 3.7,
+    "CHANGE": 0.1,
+    "TRADE": 151,
+    "VALUE (mn)": 1.025,
+    "VOLUME": 278554
   },
   "marketInformation": {
-    "lastTradingPrice": 3.7,
+    "lastTradingPrice": 3.8,
     "daysRange": [
-      3.7,
-      3.9
+      3.6,
+      3.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.9,
       5.3
     ],
-    "change": -0.1,
-    "daysTradeNos": 245,
-    "yesterdaysClose": 3.8,
-    "daysVolumeNos": 517119,
-    "adjustedOpeningPrice": 3.8,
-    "daysValueMn": 1.94,
+    "change": 0.1,
+    "daysTradeNos": 151,
+    "yesterdaysClose": 3.7,
+    "daysVolumeNos": 278554,
+    "adjustedOpeningPrice": 3.7,
+    "daysValueMn": 1.03,
     "openingPrice": 3.8,
-    "marketCapMn": 1901.19,
+    "marketCapMn": 1851.158,
     "closingPrice": 3.7,
-    "freeFloatMarketCapMn": 1019.092
+    "freeFloatMarketCapMn": 992.274
   },
   "basicInformation": {
     "authorizedCapitalMn": 5400,
@@ -74,15 +74,6 @@
       "publicPct": 65.21
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 36.46,
-      "govtPct": 0,
-      "institutePct": 8.03,
-      "foreignPct": 0,
-      "publicPct": 55.51
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 36.46,
@@ -90,6 +81,15 @@
       "institutePct": 4.56,
       "foreignPct": 0.01,
       "publicPct": 58.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 36.46,
+      "govtPct": 0,
+      "institutePct": 2.77,
+      "foreignPct": 0.01,
+      "publicPct": 60.76
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,55 @@
     "cellNo": "+88 01713 048612",
     "telephoneNo": "029885580, 028855808"
   },
-  "scrapedAt": "2026-09-13T15:43:45.358Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:17.014Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (177.54%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 177.54,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1851.158,
+      "totalInterestBearingDebt": 3286.53
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RINGSHINE",
+  "cseQuote": {
+    "ltp": 3.6,
+    "open": 3.7,
+    "high": 3.7,
+    "low": 3.6,
+    "ycp": 3.7,
+    "change": -0.1,
+    "changePct": -2.7,
+    "trades": 4,
+    "valueMn": 0.02,
+    "volume": 6000,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

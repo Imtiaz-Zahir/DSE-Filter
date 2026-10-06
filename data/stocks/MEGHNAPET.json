@@ -2,44 +2,44 @@
   "tradingCode": "MEGHNAPET",
   "scripCode": "14287",
   "companyName": "Meghna Pet Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MEGHNAPET",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MEGHNAPET",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 221,
     "TRADING CODE": "MEGHNAPET",
     "tradingCode": "MEGHNAPET",
-    "LTP": 58.8,
-    "HIGH": 64.9,
-    "LOW": 58,
-    "CLOSEP": 58.8,
-    "YCP": 62.9,
-    "CHANGE": -4.1,
-    "TRADE": 347,
-    "VALUE (mn)": 1.614,
-    "VOLUME": 27244
+    "LTP": 74,
+    "HIGH": 76.8,
+    "LOW": 73.5,
+    "CLOSEP": 74,
+    "YCP": 73.6,
+    "CHANGE": 0.4,
+    "TRADE": 164,
+    "VALUE (mn)": 1.728,
+    "VOLUME": 23156
   },
   "marketInformation": {
-    "lastTradingPrice": 58.8,
+    "lastTradingPrice": 74,
     "daysRange": [
-      58,
-      64.9
+      73.5,
+      76.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.3,
       101.9
     ],
-    "change": -4.1,
-    "daysTradeNos": 347,
-    "yesterdaysClose": 62.9,
-    "daysVolumeNos": 27244,
-    "adjustedOpeningPrice": 62.9,
-    "daysValueMn": 1.61,
-    "openingPrice": 64.9,
-    "marketCapMn": 754.8,
-    "closingPrice": 58.8,
-    "freeFloatMarketCapMn": 426.147
+    "change": 0.4,
+    "daysTradeNos": 164,
+    "yesterdaysClose": 73.6,
+    "daysVolumeNos": 23156,
+    "adjustedOpeningPrice": 73.6,
+    "daysValueMn": 1.73,
+    "openingPrice": 74.8,
+    "marketCapMn": 883.2,
+    "closingPrice": 74,
+    "freeFloatMarketCapMn": 498.64
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,40 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:10.378Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:57.491Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 16.83% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 16.83,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 883.2,
+      "totalInterestBearingDebt": 148.6
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MEGHNAPET",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

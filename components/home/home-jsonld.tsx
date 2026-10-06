@@ -28,7 +28,7 @@ export function HomeJsonLd() {
     logo: `${baseUrl}/favicon.ico`,
     description:
       "Free fundamental stock screening and analytics platform for Dhaka Stock Exchange (DSE) listed companies.",
-    sameAs: ["https://www.dsebd.org"],
+    sameAs: ["https://old.dsebd.org"],
   };
 
   const softwareSchema = {
@@ -76,10 +76,10 @@ export function HomeJsonLd() {
       },
       {
         "@type": "Question",
-        name: "How do I find DSES Sharia-compliant stocks on Dhaka Stock Exchange?",
+        name: "How do I find Sharia-compliant stocks in Bangladesh?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Click the 'DSES Sharia' quick preset on DSE Filter to view all 125+ Sharia-compliant stocks vetted under Islamic financial screening guidelines on the Dhaka Stock Exchange.",
+          text: "Click the 'Sharia' quick preset on DSE Filter to view all official Sharia-compliant stocks vetted under Islamic financial screening guidelines in Bangladesh.",
         },
       },
       {

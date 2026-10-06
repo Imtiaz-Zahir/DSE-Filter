@@ -2,44 +2,44 @@
   "tradingCode": "PADMAOIL",
   "scripCode": "15302",
   "companyName": "Padma Oil PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PADMAOIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PADMAOIL",
   "lastAGMHeldOn": "2026-01-03",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 265,
     "TRADING CODE": "PADMAOIL",
     "tradingCode": "PADMAOIL",
-    "LTP": 193,
-    "HIGH": 193.4,
-    "LOW": 192.2,
-    "CLOSEP": 192.6,
-    "YCP": 192.9,
-    "CHANGE": 0.1,
-    "TRADE": 179,
-    "VALUE (mn)": 6.071,
-    "VOLUME": 31523
+    "LTP": 193.9,
+    "HIGH": 195.5,
+    "LOW": 193.5,
+    "CLOSEP": 193.9,
+    "YCP": 195.5,
+    "CHANGE": -1.6,
+    "TRADE": 143,
+    "VALUE (mn)": 1.598,
+    "VOLUME": 8230
   },
   "marketInformation": {
-    "lastTradingPrice": 193,
+    "lastTradingPrice": 193.9,
     "daysRange": [
-      192.2,
-      193.4
+      193.5,
+      195.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       163.8,
       205.5
     ],
-    "change": 0.1,
-    "daysTradeNos": 179,
-    "yesterdaysClose": 192.9,
-    "daysVolumeNos": 31523,
-    "adjustedOpeningPrice": 192.9,
-    "daysValueMn": 6.07,
-    "openingPrice": 192.9,
-    "marketCapMn": 18949.097,
-    "closingPrice": 192.6,
-    "freeFloatMarketCapMn": 9018.744
+    "change": -1.6,
+    "daysTradeNos": 143,
+    "yesterdaysClose": 195.5,
+    "daysVolumeNos": 8230,
+    "adjustedOpeningPrice": 195.5,
+    "daysValueMn": 1.6,
+    "openingPrice": 195.5,
+    "marketCapMn": 19204.503,
+    "closingPrice": 193.9,
+    "freeFloatMarketCapMn": 9140.303
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 16.53
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 2.06,
-      "govtPct": 50.35,
-      "institutePct": 31.49,
-      "foreignPct": 0.02,
-      "publicPct": 16.08
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 2.06,
@@ -90,6 +81,15 @@
       "institutePct": 32.74,
       "foreignPct": 0.02,
       "publicPct": 14.83
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 2.06,
+      "govtPct": 50.35,
+      "institutePct": 32.85,
+      "foreignPct": 0.02,
+      "publicPct": 14.72
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.28,
+        "date": "2026-09-28",
+        "peBasic": 3.31,
         "peDiluted": null,
-        "peTrailing": 3.15
+        "peTrailing": 3.18
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.29,
+        "date": "2026-09-29",
+        "peBasic": 3.35,
         "peDiluted": null,
-        "peTrailing": 3.16
+        "peTrailing": 3.22
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.28,
+        "date": "2026-09-30",
+        "peBasic": 3.37,
         "peDiluted": null,
-        "peTrailing": 3.15
+        "peTrailing": 3.24
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.28,
+        "date": "2026-10-01",
+        "peBasic": 3.36,
         "peDiluted": null,
-        "peTrailing": 3.15
+        "peTrailing": 3.22
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.29,
+        "date": "2026-10-04",
+        "peBasic": 3.33,
         "peDiluted": null,
-        "peTrailing": 3.16
+        "peTrailing": 3.2
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 3.28,
+        "date": "2026-10-05",
+        "peBasic": 3.3,
         "peDiluted": null,
-        "peTrailing": 3.15
+        "peTrailing": 3.17
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.36,
+        "date": "2026-09-28",
+        "peBasic": 3.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.37,
+        "date": "2026-09-29",
+        "peBasic": 3.43,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.36,
+        "date": "2026-09-30",
+        "peBasic": 3.46,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.36,
+        "date": "2026-10-01",
+        "peBasic": 3.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.37,
+        "date": "2026-10-04",
+        "peBasic": 3.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 3.36,
+        "date": "2026-10-05",
+        "peBasic": 3.38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,59 @@
     "cellNo": "01777703383",
     "telephoneNo": "02333354235, 02333364236, 02333357237"
   },
-  "scrapedAt": "2026-09-13T15:43:27.713Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:06.616Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.96% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.96,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 19204.503,
+      "totalInterestBearingDebt": 183.46
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PADMAOIL",
+  "cseQuote": {
+    "ltp": 194,
+    "open": 197.2,
+    "high": 194.5,
+    "low": 194,
+    "ycp": 197.2,
+    "change": -3.2,
+    "changePct": -1.62,
+    "trades": 2,
+    "valueMn": 0.03,
+    "volume": 150,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "FORTUNE",
   "scripCode": "23637",
   "companyName": "Fortune Shoes Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FORTUNE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FORTUNE",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 137,
     "TRADING CODE": "FORTUNE",
     "tradingCode": "FORTUNE",
-    "LTP": 15.2,
-    "HIGH": 16.5,
-    "LOW": 15,
-    "CLOSEP": 15.1,
-    "YCP": 16.2,
-    "CHANGE": -1,
-    "TRADE": 317,
-    "VALUE (mn)": 4.817,
-    "VOLUME": 310235
+    "LTP": 13.9,
+    "HIGH": 14.8,
+    "LOW": 13.8,
+    "CLOSEP": 13.9,
+    "YCP": 14.6,
+    "CHANGE": -0.7,
+    "TRADE": 242,
+    "VALUE (mn)": 2.372,
+    "VOLUME": 166525
   },
   "marketInformation": {
-    "lastTradingPrice": 15.2,
+    "lastTradingPrice": 13.9,
     "daysRange": [
-      15,
-      16.5
+      13.8,
+      14.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       21.9
     ],
-    "change": -1,
-    "daysTradeNos": 317,
-    "yesterdaysClose": 16.2,
-    "daysVolumeNos": 310235,
-    "adjustedOpeningPrice": 16.2,
-    "daysValueMn": 4.82,
-    "openingPrice": 16.2,
-    "marketCapMn": 2764.729,
-    "closingPrice": 15.1,
-    "freeFloatMarketCapMn": 1909.516
+    "change": -0.7,
+    "daysTradeNos": 242,
+    "yesterdaysClose": 14.6,
+    "daysVolumeNos": 166525,
+    "adjustedOpeningPrice": 14.6,
+    "daysValueMn": 2.37,
+    "openingPrice": 14.5,
+    "marketCapMn": 2491.669,
+    "closingPrice": 13.9,
+    "freeFloatMarketCapMn": 1720.921
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 149.09,
+        "date": "2026-09-28",
+        "peBasic": 135.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 152.73,
+        "date": "2026-09-29",
+        "peBasic": 138.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 154.55,
+        "date": "2026-09-30",
+        "peBasic": 135.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 151.82,
+        "date": "2026-10-01",
+        "peBasic": 134.55,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 147.27,
+        "date": "2026-10-04",
+        "peBasic": 132.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 137.27,
+        "date": "2026-10-05",
+        "peBasic": 126.36,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01345862661",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:35.946Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:38.626Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 4.03% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 4.03,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2491.669,
+      "totalInterestBearingDebt": 100.42
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FORTUNE",
+  "cseQuote": {
+    "ltp": 14.4,
+    "open": 14.5,
+    "high": 14.5,
+    "low": 14.4,
+    "ycp": 14.5,
+    "change": -0.1,
+    "changePct": -0.69,
+    "trades": 3,
+    "valueMn": 0.03,
+    "volume": 2250,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

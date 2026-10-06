@@ -2,7 +2,7 @@
   "tradingCode": "CENTRALINS",
   "scripCode": "25709",
   "companyName": "Central Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CENTRALINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CENTRALINS",
   "lastAGMHeldOn": "2026-06-18",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "CENTRALINS",
     "tradingCode": "CENTRALINS",
     "LTP": 41.8,
-    "HIGH": 43.4,
+    "HIGH": 43.1,
     "LOW": 41.6,
     "CLOSEP": 41.8,
-    "YCP": 43,
-    "CHANGE": -1.2,
-    "TRADE": 642,
-    "VALUE (mn)": 17.952,
-    "VOLUME": 425600
+    "YCP": 43.1,
+    "CHANGE": -1.3,
+    "TRADE": 392,
+    "VALUE (mn)": 9.733,
+    "VOLUME": 230202
   },
   "marketInformation": {
     "lastTradingPrice": 41.8,
     "daysRange": [
       41.6,
-      43.4
+      43.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       30.7,
       51.8
     ],
-    "change": -1.2,
-    "daysTradeNos": 642,
-    "yesterdaysClose": 43,
-    "daysVolumeNos": 425600,
-    "adjustedOpeningPrice": 43,
-    "daysValueMn": 17.95,
-    "openingPrice": 43.4,
-    "marketCapMn": 2285.227,
+    "change": -1.3,
+    "daysTradeNos": 392,
+    "yesterdaysClose": 43.1,
+    "daysVolumeNos": 230202,
+    "adjustedOpeningPrice": 43.1,
+    "daysValueMn": 9.73,
+    "openingPrice": 43.1,
+    "marketCapMn": 2290.542,
     "closingPrice": 41.8,
-    "freeFloatMarketCapMn": 1385.465
+    "freeFloatMarketCapMn": 1388.687
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 45.5
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 39.33,
-      "govtPct": 0.04,
-      "institutePct": 15.1,
-      "foreignPct": 0,
-      "publicPct": 45.53
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 39.33,
@@ -90,6 +81,15 @@
       "institutePct": 13.66,
       "foreignPct": 0,
       "publicPct": 46.97
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 39.33,
+      "govtPct": 0.29,
+      "institutePct": 14.36,
+      "foreignPct": 0,
+      "publicPct": 46.02
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 20.87,
+        "date": "2026-09-28",
+        "peBasic": 21.5,
         "peDiluted": null,
-        "peTrailing": 21.72
+        "peTrailing": 22.37
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 20.87,
+        "date": "2026-09-29",
+        "peBasic": 21.41,
         "peDiluted": null,
-        "peTrailing": 21.72
+        "peTrailing": 22.27
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 20.58,
+        "date": "2026-09-30",
+        "peBasic": 21.36,
         "peDiluted": null,
-        "peTrailing": 21.41
+        "peTrailing": 22.22
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
+        "peBasic": 21.41,
+        "peDiluted": null,
+        "peTrailing": 22.27
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 20.92,
         "peDiluted": null,
         "peTrailing": 21.77
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 20.87,
-        "peDiluted": null,
-        "peTrailing": 21.72
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 20.29,
         "peDiluted": null,
         "peTrailing": 21.11
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 22.99,
+        "date": "2026-09-28",
+        "peBasic": 23.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 22.99,
+        "date": "2026-09-29",
+        "peBasic": 23.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 22.67,
+        "date": "2026-09-30",
+        "peBasic": 23.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
+        "peBasic": 23.58,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 23.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 22.99,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 22.35,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01610-123223, Share Dept.: 01919049807",
     "telephoneNo": "09613878787, 09613777778, 02223380251-4"
   },
-  "scrapedAt": "2026-09-13T15:42:15.904Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:22.763Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2290.542,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CENTRALINS",
+  "cseQuote": {
+    "ltp": 39.5,
+    "open": 39.5,
+    "high": 39.5,
+    "low": 39.5,
+    "ycp": 39.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

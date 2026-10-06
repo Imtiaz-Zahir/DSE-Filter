@@ -2,44 +2,44 @@
   "tradingCode": "ACIFORMULA",
   "scripCode": "18480",
   "companyName": "ACI Formulations PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ACIFORMULA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ACIFORMULA",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 9,
     "TRADING CODE": "ACIFORMULA",
     "tradingCode": "ACIFORMULA",
-    "LTP": 151.3,
-    "HIGH": 153.5,
-    "LOW": 150.4,
-    "CLOSEP": 151.3,
-    "YCP": 153.2,
-    "CHANGE": -1.9,
-    "TRADE": 567,
-    "VALUE (mn)": 21.501,
-    "VOLUME": 142048
+    "LTP": 148.1,
+    "HIGH": 151,
+    "LOW": 148,
+    "CLOSEP": 148.1,
+    "YCP": 149.8,
+    "CHANGE": -1.7,
+    "TRADE": 409,
+    "VALUE (mn)": 12.198,
+    "VOLUME": 82020
   },
   "marketInformation": {
-    "lastTradingPrice": 151.3,
+    "lastTradingPrice": 148.1,
     "daysRange": [
-      150.4,
-      153.5
+      148,
+      151
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       115,
       189.2
     ],
-    "change": -1.9,
-    "daysTradeNos": 567,
-    "yesterdaysClose": 153.2,
-    "daysVolumeNos": 142048,
-    "adjustedOpeningPrice": 153.2,
-    "daysValueMn": 21.5,
-    "openingPrice": 152.1,
-    "marketCapMn": 7238.7,
-    "closingPrice": 151.3,
-    "freeFloatMarketCapMn": 2006.547
+    "change": -1.7,
+    "daysTradeNos": 409,
+    "yesterdaysClose": 149.8,
+    "daysVolumeNos": 82020,
+    "adjustedOpeningPrice": 149.8,
+    "daysValueMn": 12.2,
+    "openingPrice": 151,
+    "marketCapMn": 7078.05,
+    "closingPrice": 148.1,
+    "freeFloatMarketCapMn": 1962.015
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.64,
+        "date": "2026-09-28",
+        "peBasic": 13.86,
         "peDiluted": null,
-        "peTrailing": 20.13
+        "peTrailing": 20.46
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.79,
+        "date": "2026-09-29",
+        "peBasic": 13.69,
         "peDiluted": null,
-        "peTrailing": 20.36
+        "peTrailing": 20.21
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 13.95,
+        "peDiluted": null,
+        "peTrailing": 20.59
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 13.67,
+        "peDiluted": null,
+        "peTrailing": 20.17
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 13.6,
+        "peDiluted": null,
+        "peTrailing": 20.08
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 13.45,
         "peDiluted": null,
         "peTrailing": 19.85
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 13.87,
-        "peDiluted": null,
-        "peTrailing": 20.47
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 13.91,
-        "peDiluted": null,
-        "peTrailing": 20.54
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 13.74,
-        "peDiluted": null,
-        "peTrailing": 20.28
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.13,
+        "date": "2026-09-28",
+        "peBasic": 19.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.35,
+        "date": "2026-09-29",
+        "peBasic": 19.21,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 19.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 19.17,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 19.08,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 18.87,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 19.45,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 19.52,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 19.27,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01708467600",
     "telephoneNo": "02226605101"
   },
-  "scrapedAt": "2026-09-13T15:40:54.206Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:02.731Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 7078.05,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ACIFORMULA",
+  "cseQuote": {
+    "ltp": 155,
+    "open": 152,
+    "high": 155,
+    "low": 155,
+    "ycp": 152,
+    "change": 3,
+    "changePct": 1.97,
+    "trades": 2,
+    "valueMn": 0.31,
+    "volume": 2000,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

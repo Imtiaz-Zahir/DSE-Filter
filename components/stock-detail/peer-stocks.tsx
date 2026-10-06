@@ -86,8 +86,11 @@ export function PeerStocks({ stock, peers: passedPeers }: PeerStocksProps) {
                           {cat}
                         </Badge>
                         {isSharia && (
-                          <span className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0 text-[8px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
-                            DSES
+                          <span
+                            title="Sharia Compliant"
+                            className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0 text-[8px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20"
+                          >
+                            Sharia
                           </span>
                         )}
                       </div>

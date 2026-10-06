@@ -2,44 +2,44 @@
   "tradingCode": "OAL",
   "scripCode": "13239",
   "companyName": "Olympic Accessories Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OAL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=OAL",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 258,
     "TRADING CODE": "OAL",
     "tradingCode": "OAL",
-    "LTP": 6.3,
-    "HIGH": 6.5,
-    "LOW": 6.2,
-    "CLOSEP": 6.3,
-    "YCP": 6.5,
-    "CHANGE": -0.2,
-    "TRADE": 119,
-    "VALUE (mn)": 0.814,
-    "VOLUME": 128341
+    "LTP": 5.8,
+    "HIGH": 5.8,
+    "LOW": 5.6,
+    "CLOSEP": 5.8,
+    "YCP": 5.7,
+    "CHANGE": 0.1,
+    "TRADE": 40,
+    "VALUE (mn)": 0.212,
+    "VOLUME": 36916
   },
   "marketInformation": {
-    "lastTradingPrice": 6.3,
+    "lastTradingPrice": 5.8,
     "daysRange": [
-      6.2,
-      6.5
+      5.6,
+      5.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
       7.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 119,
-    "yesterdaysClose": 6.5,
-    "daysVolumeNos": 128341,
-    "adjustedOpeningPrice": 6.5,
-    "daysValueMn": 0.81,
-    "openingPrice": 6.5,
-    "marketCapMn": 1101.925,
-    "closingPrice": 6.3,
-    "freeFloatMarketCapMn": 817.524
+    "change": 0.1,
+    "daysTradeNos": 40,
+    "yesterdaysClose": 5.7,
+    "daysVolumeNos": 36916,
+    "adjustedOpeningPrice": 5.7,
+    "daysValueMn": 0.21,
+    "openingPrice": 5.6,
+    "marketCapMn": 966.304,
+    "closingPrice": 5.8,
+    "freeFloatMarketCapMn": 716.906
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -74,15 +74,6 @@
       "publicPct": 58.8
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 25.81,
-      "govtPct": 0,
-      "institutePct": 17.45,
-      "foreignPct": 0,
-      "publicPct": 56.74
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 25.81,
@@ -90,6 +81,15 @@
       "institutePct": 15.75,
       "foreignPct": 0,
       "publicPct": 58.44
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 25.81,
+      "govtPct": 0,
+      "institutePct": 15.38,
+      "foreignPct": 0,
+      "publicPct": 58.81
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01909 103054",
     "telephoneNo": "02-8392459"
   },
-  "scrapedAt": "2026-09-13T15:43:25.091Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:05.252Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 30.02% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 30.02,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 966.304,
+      "totalInterestBearingDebt": 290.09
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/OAL",
+  "cseQuote": {
+    "ltp": 5.5,
+    "open": 5.7,
+    "high": 5.5,
+    "low": 5.5,
+    "ycp": 5.7,
+    "change": -0.2,
+    "changePct": -3.51,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

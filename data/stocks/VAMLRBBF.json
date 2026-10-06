@@ -2,43 +2,43 @@
   "tradingCode": "VAMLRBBF",
   "scripCode": "12198",
   "companyName": "Vanguard AML Rupali Bank Balanced Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=VAMLRBBF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=VAMLRBBF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 387,
     "TRADING CODE": "VAMLRBBF",
     "tradingCode": "VAMLRBBF",
-    "LTP": 8,
-    "HIGH": 8.3,
-    "LOW": 8,
-    "CLOSEP": 8.1,
-    "YCP": 8.1,
-    "CHANGE": -0.1,
-    "TRADE": 28,
-    "VALUE (mn)": 0.78,
-    "VOLUME": 96600
+    "LTP": 0,
+    "HIGH": 0,
+    "LOW": 0,
+    "CLOSEP": 8.4,
+    "YCP": 8.4,
+    "CHANGE": null,
+    "TRADE": 0,
+    "VALUE (mn)": 0,
+    "VOLUME": 0
   },
   "marketInformation": {
-    "lastTradingPrice": 8,
+    "lastTradingPrice": null,
     "daysRange": [
-      8,
-      8.3
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.7,
-      8.6
+      8.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 28,
-    "yesterdaysClose": 8.1,
-    "daysVolumeNos": 96600,
-    "adjustedOpeningPrice": 8.1,
-    "daysValueMn": 0.78,
-    "openingPrice": 8.2,
-    "marketCapMn": 1285.835,
-    "closingPrice": 8.1,
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": 8.4,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": 8.4,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 1333.458,
+    "closingPrice": 8.4,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 3.61,
+        "peDiluted": null,
+        "peTrailing": 6.19
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 3.45,
         "peDiluted": null,
         "peTrailing": 5.9
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.4,
+        "date": "2026-09-30",
+        "peBasic": 3.49,
         "peDiluted": null,
-        "peTrailing": 5.83
+        "peTrailing": 5.97
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.45,
+        "date": "2026-10-01",
+        "peBasic": 3.53,
         "peDiluted": null,
-        "peTrailing": 5.9
+        "peTrailing": 6.04
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.45,
+        "date": "2026-10-04",
+        "peBasic": 3.53,
         "peDiluted": null,
-        "peTrailing": 5.9
+        "peTrailing": 6.04
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.4,
+        "date": "2026-10-05",
+        "peBasic": 3.53,
         "peDiluted": null,
-        "peTrailing": 5.83
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 3.4,
-        "peDiluted": null,
-        "peTrailing": 5.83
+        "peTrailing": 6.04
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": "+88 01841 082 262",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:18.764Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:36.498Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1333.458,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/VAMLRBBF",
+  "cseQuote": {
+    "ltp": 8,
+    "open": 8,
+    "high": 8,
+    "low": 8,
+    "ycp": 8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

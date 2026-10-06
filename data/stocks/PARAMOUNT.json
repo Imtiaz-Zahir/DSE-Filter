@@ -2,44 +2,44 @@
   "tradingCode": "PARAMOUNT",
   "scripCode": "25733",
   "companyName": "Paramount Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PARAMOUNT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PARAMOUNT",
   "lastAGMHeldOn": "2026-05-18",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 266,
     "TRADING CODE": "PARAMOUNT",
     "tradingCode": "PARAMOUNT",
-    "LTP": 55.2,
-    "HIGH": 58,
-    "LOW": 54.9,
-    "CLOSEP": 55.2,
-    "YCP": 57.6,
-    "CHANGE": -2.4,
-    "TRADE": 471,
-    "VALUE (mn)": 13.982,
-    "VOLUME": 248676
+    "LTP": 61.6,
+    "HIGH": 63,
+    "LOW": 61.2,
+    "CLOSEP": 61.6,
+    "YCP": 62.1,
+    "CHANGE": -0.5,
+    "TRADE": 611,
+    "VALUE (mn)": 17.103,
+    "VOLUME": 275471
   },
   "marketInformation": {
-    "lastTradingPrice": 55.2,
+    "lastTradingPrice": 61.6,
     "daysRange": [
-      54.9,
-      58
+      61.2,
+      63
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.2,
       71.8
     ],
-    "change": -2.4,
-    "daysTradeNos": 471,
-    "yesterdaysClose": 57.6,
-    "daysVolumeNos": 248676,
-    "adjustedOpeningPrice": 57.6,
-    "daysValueMn": 13.98,
-    "openingPrice": 58,
-    "marketCapMn": 2342.302,
-    "closingPrice": 55.2,
-    "freeFloatMarketCapMn": 1206.649
+    "change": -0.5,
+    "daysTradeNos": 611,
+    "yesterdaysClose": 62.1,
+    "daysVolumeNos": 275471,
+    "adjustedOpeningPrice": 62.1,
+    "daysValueMn": 17.1,
+    "openingPrice": 62.4,
+    "marketCapMn": 2525.294,
+    "closingPrice": 61.6,
+    "freeFloatMarketCapMn": 1300.918
   },
   "basicInformation": {
     "authorizedCapitalMn": 600,
@@ -74,17 +74,17 @@
       "publicPct": 31.76
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 48.48,
-      "govtPct": 0,
-      "institutePct": 22.18,
-      "foreignPct": 0.04,
-      "publicPct": 29.3
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 48.48,
+      "govtPct": 0,
+      "institutePct": 18.31,
+      "foreignPct": 0.05,
+      "publicPct": 33.16
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 48.48,
       "govtPct": 0,
       "institutePct": 18.31,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.36,
+        "date": "2026-09-28",
+        "peBasic": 15.09,
         "peDiluted": null,
-        "peTrailing": 20.89
+        "peTrailing": 23.61
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.42,
+        "date": "2026-09-29",
+        "peBasic": 14.82,
         "peDiluted": null,
-        "peTrailing": 21
+        "peTrailing": 23.18
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 13.17,
+        "date": "2026-09-30",
+        "peBasic": 14.75,
         "peDiluted": null,
-        "peTrailing": 20.61
+        "peTrailing": 23.07
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 13.33,
+        "date": "2026-10-01",
+        "peBasic": 14.45,
         "peDiluted": null,
-        "peTrailing": 20.86
+        "peTrailing": 22.61
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 13.15,
+        "date": "2026-10-04",
+        "peBasic": 14.18,
         "peDiluted": null,
-        "peTrailing": 20.57
+        "peTrailing": 22.18
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.6,
+        "date": "2026-10-05",
+        "peBasic": 14.06,
         "peDiluted": null,
-        "peTrailing": 19.71
+        "peTrailing": 22
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 26.71,
+        "date": "2026-09-28",
+        "peBasic": 30.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.85,
+        "date": "2026-09-29",
+        "peBasic": 29.63,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 26.35,
+        "date": "2026-09-30",
+        "peBasic": 29.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 26.67,
+        "date": "2026-10-01",
+        "peBasic": 28.9,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.3,
+        "date": "2026-10-04",
+        "peBasic": 28.36,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.21,
+        "date": "2026-10-05",
+        "peBasic": 28.13,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01712925205",
     "telephoneNo": "02-55049825"
   },
-  "scrapedAt": "2026-09-13T15:43:28.771Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:07.725Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2525.294,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PARAMOUNT",
+  "cseQuote": {
+    "ltp": 68,
+    "open": 68,
+    "high": 68,
+    "low": 68,
+    "ycp": 68,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

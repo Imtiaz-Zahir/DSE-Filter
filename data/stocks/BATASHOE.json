@@ -2,44 +2,44 @@
   "tradingCode": "BATASHOE",
   "scripCode": "23603",
   "companyName": "Bata Shoe Company (Bangladesh) Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BATASHOE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BATASHOE",
   "lastAGMHeldOn": "2026-06-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 47,
     "TRADING CODE": "BATASHOE",
     "tradingCode": "BATASHOE",
-    "LTP": 883.7,
-    "HIGH": 900,
-    "LOW": 881,
-    "CLOSEP": 883.7,
-    "YCP": 888,
-    "CHANGE": -4.3,
-    "TRADE": 43,
-    "VALUE (mn)": 0.318,
-    "VOLUME": 360
+    "LTP": 883.5,
+    "HIGH": 888,
+    "LOW": 882.5,
+    "CLOSEP": 883,
+    "YCP": 884,
+    "CHANGE": -0.5,
+    "TRADE": 21,
+    "VALUE (mn)": 1.408,
+    "VOLUME": 1595
   },
   "marketInformation": {
-    "lastTradingPrice": 883.7,
+    "lastTradingPrice": 883.5,
     "daysRange": [
-      881,
-      900
+      882.5,
+      888
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       770.1,
       927
     ],
-    "change": -4.3,
-    "daysTradeNos": 43,
-    "yesterdaysClose": 888,
-    "daysVolumeNos": 360,
-    "adjustedOpeningPrice": 888,
-    "daysValueMn": 0.32,
-    "openingPrice": 886,
-    "marketCapMn": 12147.84,
-    "closingPrice": 883.7,
-    "freeFloatMarketCapMn": 3644.352
+    "change": -0.5,
+    "daysTradeNos": 21,
+    "yesterdaysClose": 884,
+    "daysVolumeNos": 1595,
+    "adjustedOpeningPrice": 884,
+    "daysValueMn": 1.41,
+    "openingPrice": 883,
+    "marketCapMn": 12093.12,
+    "closingPrice": 883,
+    "freeFloatMarketCapMn": 3627.936
   },
   "basicInformation": {
     "authorizedCapitalMn": 200,
@@ -74,15 +74,6 @@
       "publicPct": 9.4
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 70,
-      "govtPct": 0,
-      "institutePct": 19.69,
-      "foreignPct": 1.07,
-      "publicPct": 9.24
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 70,
@@ -90,6 +81,15 @@
       "institutePct": 19.73,
       "foreignPct": 1.07,
       "publicPct": 9.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 70,
+      "govtPct": 0,
+      "institutePct": 19.62,
+      "foreignPct": 1.07,
+      "publicPct": 9.31
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.01,
-        "peDiluted": null,
-        "peTrailing": 49.63
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 12.04,
-        "peDiluted": null,
-        "peTrailing": 49.73
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 12.02,
         "peDiluted": null,
         "peTrailing": 49.65
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12,
+        "date": "2026-09-29",
+        "peBasic": 12.02,
         "peDiluted": null,
-        "peTrailing": 49.57
+        "peTrailing": 49.65
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.04,
+        "date": "2026-09-30",
+        "peBasic": 12.01,
         "peDiluted": null,
-        "peTrailing": 49.75
+        "peTrailing": 49.6
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.98,
+        "date": "2026-10-01",
+        "peBasic": 11.95,
         "peDiluted": null,
-        "peTrailing": 49.51
+        "peTrailing": 49.37
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 11.99,
+        "peDiluted": null,
+        "peTrailing": 49.52
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 11.97,
+        "peDiluted": null,
+        "peTrailing": 49.47
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1042.24,
+        "date": "2026-09-28",
+        "peBasic": 1042.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1044.35,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-29",
         "peBasic": 1042.59,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1041.06,
+        "date": "2026-09-30",
+        "peBasic": 1041.65,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1044.71,
+        "date": "2026-10-01",
+        "peBasic": 1036.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1039.65,
+        "date": "2026-10-04",
+        "peBasic": 1040,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 1038.82,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01713 333 191",
     "telephoneNo": "224410501-5 (Ext 399)"
   },
-  "scrapedAt": "2026-09-13T15:42:04.421Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:13.288Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 12093.12,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BATASHOE",
+  "cseQuote": {
+    "ltp": 860.1,
+    "open": 860.1,
+    "high": 860.1,
+    "low": 860.1,
+    "ycp": 860.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

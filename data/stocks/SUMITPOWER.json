@@ -2,7 +2,7 @@
   "tradingCode": "SUMITPOWER",
   "scripCode": "15306",
   "companyName": "Summit Power Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SUMITPOWER",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SUMITPOWER",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "SUMITPOWER",
     "tradingCode": "SUMITPOWER",
     "LTP": 15.1,
-    "HIGH": 15.6,
-    "LOW": 15.1,
+    "HIGH": 15.4,
+    "LOW": 15,
     "CLOSEP": 15.1,
-    "YCP": 15.4,
-    "CHANGE": -0.3,
-    "TRADE": 305,
-    "VALUE (mn)": 3.768,
-    "VOLUME": 247311
+    "YCP": 15.2,
+    "CHANGE": -0.1,
+    "TRADE": 225,
+    "VALUE (mn)": 6.484,
+    "VOLUME": 428272
   },
   "marketInformation": {
     "lastTradingPrice": 15.1,
     "daysRange": [
-      15.1,
-      15.6
+      15,
+      15.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12,
       17.9
     ],
-    "change": -0.3,
-    "daysTradeNos": 305,
-    "yesterdaysClose": 15.4,
-    "daysVolumeNos": 247311,
-    "adjustedOpeningPrice": 15.4,
-    "daysValueMn": 3.77,
-    "openingPrice": 15.5,
-    "marketCapMn": 16445.309,
+    "change": -0.1,
+    "daysTradeNos": 225,
+    "yesterdaysClose": 15.2,
+    "daysVolumeNos": 428272,
+    "adjustedOpeningPrice": 15.2,
+    "daysValueMn": 6.48,
+    "openingPrice": 15.3,
+    "marketCapMn": 16231.734,
     "closingPrice": 15.1,
-    "freeFloatMarketCapMn": 5448.247
+    "freeFloatMarketCapMn": 5377.49
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -74,15 +74,6 @@
       "publicPct": 14.71
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 63.19,
-      "govtPct": 0,
-      "institutePct": 18.18,
-      "foreignPct": 3.65,
-      "publicPct": 14.98
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 63.19,
@@ -90,6 +81,15 @@
       "institutePct": 17.95,
       "foreignPct": 3.65,
       "publicPct": 15.21
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 63.19,
+      "govtPct": 0,
+      "institutePct": 17.96,
+      "foreignPct": 3.65,
+      "publicPct": 15.2
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 7.86,
+        "peDiluted": null,
+        "peTrailing": 39.49
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 7.81,
         "peDiluted": null,
         "peTrailing": 39.23
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.86,
+        "date": "2026-10-04",
+        "peBasic": 7.76,
         "peDiluted": null,
-        "peTrailing": 39.49
+        "peTrailing": 38.97
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.81,
-        "peDiluted": null,
-        "peTrailing": 39.23
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 7.86,
-        "peDiluted": null,
-        "peTrailing": 39.49
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 7.86,
-        "peDiluted": null,
-        "peTrailing": 39.49
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 7.7,
         "peDiluted": null,
         "peTrailing": 38.72
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 40.53,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 40.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 40.53,
+        "date": "2026-10-04",
+        "peBasic": 40,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 40.26,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 40.53,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 40.53,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 39.74,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "01730808181",
     "telephoneNo": "+8802-55012255-59"
   },
-  "scrapedAt": "2026-09-13T15:44:11.579Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:28.213Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (109.09%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 109.09,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 16231.734,
+      "totalInterestBearingDebt": 17707.6
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SUMITPOWER",
+  "cseQuote": {
+    "ltp": 15.1,
+    "open": 15.1,
+    "high": 15.1,
+    "low": 15,
+    "ycp": 15.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 6,
+    "valueMn": 0.11,
+    "volume": 7011,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

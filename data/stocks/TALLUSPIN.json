@@ -2,44 +2,44 @@
   "tradingCode": "TALLUSPIN",
   "scripCode": "17417",
   "companyName": "Tallu Spinning Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TALLUSPIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TALLUSPIN",
   "lastAGMHeldOn": "2025-11-12",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 365,
     "TRADING CODE": "TALLUSPIN",
     "tradingCode": "TALLUSPIN",
-    "LTP": 6.9,
-    "HIGH": 7.4,
-    "LOW": 6.8,
-    "CLOSEP": 6.9,
-    "YCP": 7.3,
-    "CHANGE": -0.4,
-    "TRADE": 181,
-    "VALUE (mn)": 2.099,
-    "VOLUME": 300845
+    "LTP": 6.6,
+    "HIGH": 6.9,
+    "LOW": 6.5,
+    "CLOSEP": 6.6,
+    "YCP": 6.8,
+    "CHANGE": -0.2,
+    "TRADE": 37,
+    "VALUE (mn)": 0.647,
+    "VOLUME": 96780
   },
   "marketInformation": {
-    "lastTradingPrice": 6.9,
+    "lastTradingPrice": 6.6,
     "daysRange": [
-      6.8,
-      7.4
+      6.5,
+      6.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.3,
       9.2
     ],
-    "change": -0.4,
-    "daysTradeNos": 181,
-    "yesterdaysClose": 7.3,
-    "daysVolumeNos": 300845,
-    "adjustedOpeningPrice": 7.3,
-    "daysValueMn": 2.1,
-    "openingPrice": 7.4,
-    "marketCapMn": 652.148,
-    "closingPrice": 6.9,
-    "freeFloatMarketCapMn": 415.709
+    "change": -0.2,
+    "daysTradeNos": 37,
+    "yesterdaysClose": 6.8,
+    "daysVolumeNos": 96780,
+    "adjustedOpeningPrice": 6.8,
+    "daysValueMn": 0.65,
+    "openingPrice": 6.8,
+    "marketCapMn": 607.481,
+    "closingPrice": 6.6,
+    "freeFloatMarketCapMn": 387.235
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 50.16
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 29.61,
-      "govtPct": 0,
-      "institutePct": 14.15,
-      "foreignPct": 0.35,
-      "publicPct": 55.89
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 29.61,
@@ -90,6 +81,15 @@
       "institutePct": 14.1,
       "foreignPct": 0.35,
       "publicPct": 55.94
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 29.61,
+      "govtPct": 0,
+      "institutePct": 14.05,
+      "foreignPct": 0.35,
+      "publicPct": 55.99
     }
   ],
   "interimFinancials": [
@@ -140,48 +140,48 @@
     },
     {
       "period": "Annual",
-      "endDate": null,
-      "epsBasic": null,
+      "endDate": "2026-06",
+      "epsBasic": -2.84,
       "epsDiluted": null,
-      "epsContinuingBasic": null,
+      "epsContinuingBasic": -2.84,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": null
+      "marketPriceEnd": 8.1
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": "+88 01999 055 485",
     "telephoneNo": "88-02-222262803, 88-02-222260264, 88-02-222260458"
   },
-  "scrapedAt": "2026-09-13T15:44:09.770Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.262Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (254.16%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 254.16,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 607.481,
+      "totalInterestBearingDebt": 1543.99
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TALLUSPIN",
+  "cseQuote": {
+    "ltp": 7.1,
+    "open": 7.1,
+    "high": 7.1,
+    "low": 7.1,
+    "ycp": 7.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

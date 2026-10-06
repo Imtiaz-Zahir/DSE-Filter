@@ -2,44 +2,44 @@
   "tradingCode": "RELIANCINS",
   "scripCode": "25714",
   "companyName": "Reliance Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RELIANCINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RELIANCINS",
   "lastAGMHeldOn": "2026-04-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 306,
     "TRADING CODE": "RELIANCINS",
     "tradingCode": "RELIANCINS",
-    "LTP": 104,
-    "HIGH": 104.7,
-    "LOW": 97,
-    "CLOSEP": 102.6,
-    "YCP": 97.2,
-    "CHANGE": 6.8,
-    "TRADE": 1214,
-    "VALUE (mn)": 108.035,
-    "VOLUME": 1068764
+    "LTP": 101.2,
+    "HIGH": 106.5,
+    "LOW": 98.9,
+    "CLOSEP": 101.2,
+    "YCP": 104.2,
+    "CHANGE": -3,
+    "TRADE": 1875,
+    "VALUE (mn)": 50.402,
+    "VOLUME": 487909
   },
   "marketInformation": {
-    "lastTradingPrice": 104,
+    "lastTradingPrice": 101.2,
     "daysRange": [
-      97,
-      104.7
+      98.9,
+      106.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       56.6,
       128.2
     ],
-    "change": 6.8,
-    "daysTradeNos": 1214,
-    "yesterdaysClose": 97.2,
-    "daysVolumeNos": 1068764,
-    "adjustedOpeningPrice": 97.2,
-    "daysValueMn": 108.04,
-    "openingPrice": 100,
-    "marketCapMn": 10221.658,
-    "closingPrice": 102.6,
-    "freeFloatMarketCapMn": 3276.49
+    "change": -3,
+    "daysTradeNos": 1875,
+    "yesterdaysClose": 104.2,
+    "daysVolumeNos": 487909,
+    "adjustedOpeningPrice": 104.2,
+    "daysValueMn": 50.4,
+    "openingPrice": 106,
+    "marketCapMn": 10957.785,
+    "closingPrice": 101.2,
+    "freeFloatMarketCapMn": 3512.451
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 31.31
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 67.95,
-      "govtPct": 0,
-      "institutePct": 7.83,
-      "foreignPct": 0,
-      "publicPct": 24.22
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 67.95,
@@ -90,6 +81,15 @@
       "institutePct": 9.91,
       "foreignPct": 0,
       "publicPct": 22.14
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 67.95,
+      "govtPct": 0,
+      "institutePct": 10.37,
+      "foreignPct": 0,
+      "publicPct": 21.68
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.87,
+        "date": "2026-09-28",
+        "peBasic": 8.54,
         "peDiluted": null,
-        "peTrailing": 10.74
+        "peTrailing": 11.65
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.86,
+        "date": "2026-09-29",
+        "peBasic": 8.27,
         "peDiluted": null,
-        "peTrailing": 10.73
+        "peTrailing": 11.29
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.91,
+        "date": "2026-09-30",
+        "peBasic": 8.15,
         "peDiluted": null,
-        "peTrailing": 10.8
+        "peTrailing": 11.13
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.94,
+        "date": "2026-10-01",
+        "peBasic": 8.06,
         "peDiluted": null,
-        "peTrailing": 10.85
+        "peTrailing": 11.01
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 7.45,
+        "date": "2026-10-04",
+        "peBasic": 7.99,
         "peDiluted": null,
-        "peTrailing": 10.18
+        "peTrailing": 10.91
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.87,
+        "date": "2026-10-05",
+        "peBasic": 7.76,
         "peDiluted": null,
-        "peTrailing": 10.74
+        "peTrailing": 10.6
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.19,
+        "date": "2026-09-28",
+        "peBasic": 13.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.17,
+        "date": "2026-09-29",
+        "peBasic": 12.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.24,
+        "date": "2026-09-30",
+        "peBasic": 12.62,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.3,
+        "date": "2026-10-01",
+        "peBasic": 12.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.54,
+        "date": "2026-10-04",
+        "peBasic": 12.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.19,
+        "date": "2026-10-05",
+        "peBasic": 12.02,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88-01713440953",
     "telephoneNo": "+880 222 660 1940 - 42"
   },
-  "scrapedAt": "2026-09-13T15:43:45.447Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:17.070Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 10957.785,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RELIANCINS",
+  "cseQuote": {
+    "ltp": 101,
+    "open": 107.6,
+    "high": 101,
+    "low": 101,
+    "ycp": 107.6,
+    "change": -6.6,
+    "changePct": -6.13,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 70,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

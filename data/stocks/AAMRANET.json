@@ -2,44 +2,44 @@
   "tradingCode": "AAMRANET",
   "scripCode": "22649",
   "companyName": "aamra networks limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AAMRANET",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AAMRANET",
   "lastAGMHeldOn": "2024-12-31",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 3,
     "TRADING CODE": "AAMRANET",
     "tradingCode": "AAMRANET",
-    "LTP": 17.3,
-    "HIGH": 18.3,
-    "LOW": 17.1,
-    "CLOSEP": 17.3,
-    "YCP": 18.2,
-    "CHANGE": -0.9,
-    "TRADE": 251,
-    "VALUE (mn)": 3.068,
-    "VOLUME": 172377
+    "LTP": 18.7,
+    "HIGH": 19.2,
+    "LOW": 18.6,
+    "CLOSEP": 18.7,
+    "YCP": 18.6,
+    "CHANGE": 0.1,
+    "TRADE": 170,
+    "VALUE (mn)": 3.119,
+    "VOLUME": 165886
   },
   "marketInformation": {
-    "lastTradingPrice": 17.3,
+    "lastTradingPrice": 18.7,
     "daysRange": [
-      17.1,
-      18.3
+      18.6,
+      19.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.5,
       23.7
     ],
-    "change": -0.9,
-    "daysTradeNos": 251,
-    "yesterdaysClose": 18.2,
-    "daysVolumeNos": 172377,
-    "adjustedOpeningPrice": 18.2,
-    "daysValueMn": 3.07,
-    "openingPrice": 18.3,
-    "marketCapMn": 1692.234,
-    "closingPrice": 17.3,
-    "freeFloatMarketCapMn": 1133.118
+    "change": 0.1,
+    "daysTradeNos": 170,
+    "yesterdaysClose": 18.6,
+    "daysVolumeNos": 165886,
+    "adjustedOpeningPrice": 18.6,
+    "daysValueMn": 3.12,
+    "openingPrice": 18.6,
+    "marketCapMn": 1729.426,
+    "closingPrice": 18.7,
+    "freeFloatMarketCapMn": 1158.022
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 44.18
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 33.04,
-      "govtPct": 0,
-      "institutePct": 21.95,
-      "foreignPct": 0,
-      "publicPct": 45.01
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 33.04,
@@ -90,6 +81,15 @@
       "institutePct": 21.74,
       "foreignPct": 0,
       "publicPct": 45.22
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 33.04,
+      "govtPct": 0,
+      "institutePct": 21.78,
+      "foreignPct": 0,
+      "publicPct": 45.18
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.2,
+        "date": "2026-09-28",
+        "peBasic": 7.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.07,
+        "date": "2026-09-29",
+        "peBasic": 7.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.2,
+        "date": "2026-09-30",
+        "peBasic": 7.93,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.28,
+        "date": "2026-10-01",
+        "peBasic": 7.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 7.4,
+        "date": "2026-10-04",
+        "peBasic": 7.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.03,
+        "date": "2026-10-05",
+        "peBasic": 7.6,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01713477405",
     "telephoneNo": "8802-8832446 Ext-140"
   },
-  "scrapedAt": "2026-09-13T15:40:49.735Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:01.428Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 10.81% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 10.81,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1729.426,
+      "totalInterestBearingDebt": 186.89
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AAMRANET",
+  "cseQuote": {
+    "ltp": 19.5,
+    "open": 19.5,
+    "high": 19.5,
+    "low": 19.5,
+    "ycp": 19.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.828Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "ZEALBANGLA",
   "scripCode": "14266",
   "companyName": "Zeal Bangla Sugar Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ZEALBANGLA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ZEALBANGLA",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 395,
     "TRADING CODE": "ZEALBANGLA",
     "tradingCode": "ZEALBANGLA",
-    "LTP": 162.5,
-    "HIGH": 178,
-    "LOW": 160,
-    "CLOSEP": 162.5,
-    "YCP": 173,
-    "CHANGE": -10.5,
-    "TRADE": 193,
-    "VALUE (mn)": 1.762,
-    "VOLUME": 10545
+    "LTP": 183.7,
+    "HIGH": 186.8,
+    "LOW": 172.1,
+    "CLOSEP": 183.7,
+    "YCP": 170.3,
+    "CHANGE": 13.4,
+    "TRADE": 400,
+    "VALUE (mn)": 5.175,
+    "VOLUME": 28445
   },
   "marketInformation": {
-    "lastTradingPrice": 162.5,
+    "lastTradingPrice": 183.7,
     "daysRange": [
-      160,
-      178
+      172.1,
+      186.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       78.1,
       251.4
     ],
-    "change": -10.5,
-    "daysTradeNos": 193,
-    "yesterdaysClose": 173,
-    "daysVolumeNos": 10545,
-    "adjustedOpeningPrice": 173,
-    "daysValueMn": 1.76,
-    "openingPrice": 175,
-    "marketCapMn": 1038,
-    "closingPrice": 162.5,
-    "freeFloatMarketCapMn": 384.57
+    "change": 13.4,
+    "daysTradeNos": 400,
+    "yesterdaysClose": 170.3,
+    "daysVolumeNos": 28445,
+    "adjustedOpeningPrice": 170.3,
+    "daysValueMn": 5.18,
+    "openingPrice": 180,
+    "marketCapMn": 1021.8,
+    "closingPrice": 183.7,
+    "freeFloatMarketCapMn": 378.568
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,40 @@
     "cellNo": "+88 01818-053145",
     "telephoneNo": "02-951669"
   },
-  "scrapedAt": "2026-09-13T15:44:20.202Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:37.833Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (452.12%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 452.12,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1021.8,
+      "totalInterestBearingDebt": 4619.79
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ZEALBANGLA",
+  "indices": [
+    "DSEX"
+  ]
 }

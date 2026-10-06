@@ -2,44 +2,44 @@
   "tradingCode": "EBL",
   "scripCode": "11112",
   "companyName": "Eastern Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EBL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EBL",
   "lastAGMHeldOn": "2026-06-11",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 112,
     "TRADING CODE": "EBL",
     "tradingCode": "EBL",
-    "LTP": 22.5,
-    "HIGH": 23.8,
-    "LOW": 22.4,
-    "CLOSEP": 22.5,
-    "YCP": 23.2,
-    "CHANGE": -0.7,
-    "TRADE": 2510,
-    "VALUE (mn)": 118.33,
-    "VOLUME": 5193309
+    "LTP": 22.8,
+    "HIGH": 22.9,
+    "LOW": 22.7,
+    "CLOSEP": 22.8,
+    "YCP": 22.8,
+    "CHANGE": 0,
+    "TRADE": 567,
+    "VALUE (mn)": 37.982,
+    "VOLUME": 1669267
   },
   "marketInformation": {
-    "lastTradingPrice": 22.5,
+    "lastTradingPrice": 22.8,
     "daysRange": [
-      22.4,
-      23.8
+      22.7,
+      22.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.8,
       28.9
     ],
-    "change": -0.7,
-    "daysTradeNos": 2510,
-    "yesterdaysClose": 23.2,
-    "daysVolumeNos": 5193309,
-    "adjustedOpeningPrice": 23.2,
-    "daysValueMn": 118.33,
-    "openingPrice": 23.8,
-    "marketCapMn": 38133.557,
-    "closingPrice": 22.5,
-    "freeFloatMarketCapMn": 26494.094
+    "change": 0,
+    "daysTradeNos": 567,
+    "yesterdaysClose": 22.8,
+    "daysVolumeNos": 1669267,
+    "adjustedOpeningPrice": 22.8,
+    "daysValueMn": 37.98,
+    "openingPrice": 22.8,
+    "marketCapMn": 37476.082,
+    "closingPrice": 22.8,
+    "freeFloatMarketCapMn": 26037.299
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -74,15 +74,6 @@
       "publicPct": 26.48
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 29.44,
-      "govtPct": 0,
-      "institutePct": 43.96,
-      "foreignPct": 0.1,
-      "publicPct": 26.5
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 29.44,
@@ -90,6 +81,15 @@
       "institutePct": 43.59,
       "foreignPct": 0.1,
       "publicPct": 26.87
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.44,
+      "govtPct": 0,
+      "institutePct": 42.81,
+      "foreignPct": 0.1,
+      "publicPct": 26.65
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.46,
+        "date": "2026-09-28",
+        "peBasic": 4.27,
         "peDiluted": null,
-        "peTrailing": 4.18
+        "peTrailing": 4
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.44,
+        "date": "2026-09-29",
+        "peBasic": 4.25,
         "peDiluted": null,
-        "peTrailing": 4.16
+        "peTrailing": 3.98
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.44,
+        "date": "2026-09-30",
+        "peBasic": 4.29,
         "peDiluted": null,
-        "peTrailing": 4.16
+        "peTrailing": 4.02
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.4,
+        "date": "2026-10-01",
+        "peBasic": 4.31,
         "peDiluted": null,
-        "peTrailing": 4.12
+        "peTrailing": 4.04
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.34,
+        "date": "2026-10-04",
+        "peBasic": 4.27,
         "peDiluted": null,
-        "peTrailing": 4.07
+        "peTrailing": 4
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.21,
+        "date": "2026-10-05",
+        "peBasic": 4.27,
         "peDiluted": null,
-        "peTrailing": 3.95
+        "peTrailing": 4
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.55,
-        "peDiluted": 4.69
+        "date": "2026-09-28",
+        "peBasic": 4.36,
+        "peDiluted": 4.5
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.53,
-        "peDiluted": 4.67
+        "date": "2026-09-29",
+        "peBasic": 4.34,
+        "peDiluted": 4.48
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.53,
-        "peDiluted": 4.67
+        "date": "2026-09-30",
+        "peBasic": 4.38,
+        "peDiluted": 4.52
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.49,
-        "peDiluted": 4.64
+        "date": "2026-10-01",
+        "peBasic": 4.4,
+        "peDiluted": 4.54
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.44,
-        "peDiluted": 4.58
+        "date": "2026-10-04",
+        "peBasic": 4.36,
+        "peDiluted": 4.5
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.3,
-        "peDiluted": 4.44
+        "date": "2026-10-05",
+        "peBasic": 4.36,
+        "peDiluted": 4.5
       }
     ]
   },
@@ -374,6 +374,58 @@
     "cellNo": "+88 01817 543 805",
     "telephoneNo": "+88 09666777325 Ext.8212"
   },
-  "scrapedAt": "2026-09-13T15:42:28.632Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:33.666Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (285.02%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 285.02,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 37476.082,
+      "totalInterestBearingDebt": 106815.61
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EBL",
+  "cseQuote": {
+    "ltp": 22.6,
+    "open": 22.8,
+    "high": 23.1,
+    "low": 22.6,
+    "ycp": 22.8,
+    "change": -0.2,
+    "changePct": -0.88,
+    "trades": 4,
+    "valueMn": 0.75,
+    "volume": 34000,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

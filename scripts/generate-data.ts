@@ -10,7 +10,8 @@ import type {
   KvManifestEntry,
 } from "./types";
 import { deriveScreenerStock, deriveSearchIndexItem } from "./parser";
-import { loadShariaData, isShariaCompliant } from "./scraper";
+import { fetchCseIndexData, fetchCseLivePrices } from "./cse-scraper";
+import { calculateShariahAudit } from "../lib/shariah-screener";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -24,16 +25,16 @@ export const DEFAULT_STOCKS_DIR = path.resolve(DEFAULT_DATA_DIR, "stocks");
 export const DEFAULT_SOURCE_FILE = path.resolve(DEFAULT_DATA_DIR, "dse_stocks.json");
 
 /**
- * Generates all derived production datasets for DSE Filter:
+ * Generates all derived production datasets for DSE & CSE Unified Platform:
  * - meta.json
  * - screener_stocks.json
  * - search_index.json
  * - stocks/*.json (individual stock files)
  */
-export function generateDataFiles(
+export async function generateDataFiles(
   stocks: Stock[],
   options: GenerateOptions = {}
-): {
+): Promise<{
   metaPath: string;
   screenerStocksPath: string;
   searchIndexPath: string;
@@ -41,7 +42,7 @@ export function generateDataFiles(
   allStocksPath?: string;
   manifestPath?: string;
   masterPath?: string;
-} {
+}> {
   const dataDir = options.dataDir ? path.resolve(options.dataDir) : DEFAULT_DATA_DIR;
   const stocksDir = path.resolve(dataDir, "stocks");
 
@@ -52,23 +53,147 @@ export function generateDataFiles(
     fs.mkdirSync(stocksDir, { recursive: true });
   }
 
-  console.log(`[generator] Processing ${stocks.length} stocks for directory: ${dataDir}`);
+  console.log(`[generator] Processing ${stocks.length} DSE stocks for directory: ${dataDir}`);
 
-  const shariaList = loadShariaData();
-  const allCodes = stocks.map((s) => (s.tradingCode || "").trim().toUpperCase()).filter(Boolean);
+  // 1. Fetch live CSE index components (CSE 30, CSE 50, CASPI, CSCX) & CSE live quotes
+  let cse30Symbols = new Set<string>();
+  let cse50Symbols = new Set<string>();
+  let caspiSymbols = new Set<string>();
+  let cscxSymbols = new Set<string>();
+  let cseQuotes = new Map<string, any>();
+
+  try {
+    const [indexData, priceMap] = await Promise.all([
+      fetchCseIndexData(15000),
+      fetchCseLivePrices(15000),
+    ]);
+    cse30Symbols = indexData.cse30Symbols;
+    cse50Symbols = indexData.cse50Symbols;
+    caspiSymbols = indexData.caspiSymbols;
+    cscxSymbols = indexData.cscxSymbols;
+    cseQuotes = priceMap;
+    console.log(
+      `[generator] Successfully fetched CSE feeds: ${cseQuotes.size} CSE price quotes.`
+    );
+  } catch (err: any) {
+    console.warn(`[generator] Warning: CSE live fetch failed (${err.message}).`);
+  }
+
+  // 2. Build a Map of all DSE stocks
+  const stockMap = new Map<string, Stock>();
+  for (const s of stocks) {
+    const code = (s.tradingCode || "").trim().toUpperCase();
+    if (code) {
+      stockMap.set(code, s);
+    }
+  }
+
+  // 3. Reconcile dual-listed vs DSE-only vs CSE-only stocks
+  const allMergedStocks: Stock[] = [];
+
+  // A. Process DSE stocks & merge CSE quotes
+  for (const [code, stock] of stockMap.entries()) {
+    const cseQuote = cseQuotes.get(code) || null;
+    const isCse = cseQuote !== null || caspiSymbols.has(code);
+
+    stock.isDseListed = true;
+    stock.isCseListed = isCse;
+    stock.exchanges = isCse ? ["DSE", "CSE"] : ["DSE"];
+    stock.cseSourceUrl = `https://cse.com.bd/company/companydetails/${encodeURIComponent(code)}`;
+
+    if (cseQuote) {
+      stock.cseQuote = cseQuote;
+    }
+
+    // Algorithmic Shariah Screening (S&P DSES Rules)
+    const audit = calculateShariahAudit(stock);
+    stock.shariahAudit = audit;
+    stock.shariaCompliant = audit.isCompliant;
+
+    // Assign Index Memberships
+    const indices: string[] = ["DSEX"];
+    if (stock.shariaCompliant) {
+      indices.push("DSES");
+      if (isCse) indices.push("CSI");
+    }
+    if (cse30Symbols.has(code)) indices.push("CSE30");
+    if (cse50Symbols.has(code)) indices.push("CSE50");
+    if (caspiSymbols.has(code)) indices.push("CASPI");
+    if (cscxSymbols.has(code)) indices.push("CSCX");
+    stock.indices = indices;
+
+    allMergedStocks.push(stock);
+  }
+
+  // B. Process CSE-only stocks (listed on CSE but not on DSE)
+  let cseOnlyCount = 0;
+  for (const [code, cseQuote] of cseQuotes.entries()) {
+    if (!stockMap.has(code)) {
+      cseOnlyCount++;
+
+      const cseStock: Stock = {
+        tradingCode: code,
+        companyName: code,
+        sourceUrl: `https://cse.com.bd/company/companydetails/${encodeURIComponent(code)}`,
+        cseSourceUrl: `https://cse.com.bd/company/companydetails/${encodeURIComponent(code)}`,
+        exchanges: ["CSE"],
+        isDseListed: false,
+        isCseListed: true,
+        indices: [],
+        cseQuote,
+        basicInformation: {
+          sector: "Miscellaneous",
+          typeOfInstrument: code.includes("BOND") || code.includes("SUKUK") ? "Corporate Bond" : "Equity",
+        },
+        dividendAndSurplus: {
+          marketCategory: "A",
+        },
+        operationalLoanStatus: {
+          presentOperationalStatus: "Active",
+        },
+        scrapedAt: new Date().toISOString(),
+      };
+
+      // Algorithmic Shariah Screening
+      const audit = calculateShariahAudit(cseStock);
+      cseStock.shariahAudit = audit;
+      cseStock.shariaCompliant = audit.isCompliant;
+
+      const indices: string[] = [];
+      if (cseStock.shariaCompliant) indices.push("CSI", "DSES");
+      if (cse30Symbols.has(code)) indices.push("CSE30");
+      if (cse50Symbols.has(code)) indices.push("CSE50");
+      if (caspiSymbols.has(code)) indices.push("CASPI");
+      if (cscxSymbols.has(code)) indices.push("CSCX");
+      cseStock.indices = indices;
+
+      allMergedStocks.push(cseStock);
+    }
+  }
+
+  console.log(
+    `[generator] Reconciled total ${allMergedStocks.length} stocks (${stockMap.size} DSE, ${cseOnlyCount} CSE-only).`
+  );
 
   const sectorsSet = new Set<string>();
   const categoriesSet = new Set<string>();
   const instrumentsSet = new Set<string>();
   const statusesSet = new Set<string>();
+  const indicesSet = new Set<string>(["DSEX", "DSES", "CSI", "CSE30", "CSE50", "CASPI", "CSCX"]);
 
-  // 1. Transform into Screener Stocks & synchronize Sharia status
-  const screenerStocks: ScreenerStock[] = stocks.map((stock) => {
-    const code = (stock.tradingCode || "").trim().toUpperCase();
-    if (shariaList.length > 0) {
-      stock.shariaCompliant = isShariaCompliant(code, shariaList, allCodes);
-    }
+  let totalDual = 0;
+  let totalDse = 0;
+  let totalCse = 0;
+  let shariaCount = 0;
+
+  // 4. Transform into Screener Stocks
+  const screenerStocks: ScreenerStock[] = allMergedStocks.map((stock) => {
     const derived = deriveScreenerStock(stock);
+
+    if (derived.isDseListed && derived.isCseListed) totalDual++;
+    if (derived.isDseListed) totalDse++;
+    if (derived.isCseListed) totalCse++;
+    if (derived.shariaCompliant) shariaCount++;
 
     if (derived.sector) sectorsSet.add(derived.sector);
     if (derived.category && derived.category !== "Unknown" && derived.category !== "-") {
@@ -80,11 +205,16 @@ export function generateDataFiles(
     return derived;
   });
 
-  // 2. Build Dataset Metadata
+  // 5. Build Dataset Metadata
   const meta: DseMeta = {
     lastUpdated: new Date().toISOString(),
-    totalStocks: stocks.length,
-    version: "1.0.0",
+    totalStocks: screenerStocks.length,
+    totalDseStocks: totalDse,
+    totalCseStocks: totalCse,
+    totalDualStocks: totalDual,
+    shariaStocksCount: shariaCount,
+    version: "2.0.0",
+    indices: Array.from(indicesSet).sort(),
     sectors: Array.from(sectorsSet).sort(),
     categories: Array.from(categoriesSet).sort(),
     instruments: Array.from(instrumentsSet).sort(),
@@ -94,14 +224,14 @@ export function generateDataFiles(
   fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2), "utf-8");
   console.log(`✓ Generated ${metaPath}`);
 
-  // 3. Compact Screener Stocks File (for fast client screener & filtering)
+  // 6. Compact Screener Stocks File (for fast client screener & filtering)
   const screenerStocksPath = path.resolve(dataDir, "screener_stocks.json");
   const screenerJson = JSON.stringify(screenerStocks);
   fs.writeFileSync(screenerStocksPath, screenerJson, "utf-8");
   const screenerSizeKb = (fs.statSync(screenerStocksPath).size / 1024).toFixed(1);
-  console.log(`✓ Generated ${screenerStocksPath} (${screenerSizeKb} KB)`);
+  console.log(`✓ Generated ${screenerStocksPath} (${screenerSizeKb} KB, ${screenerStocks.length} stocks)`);
 
-  // 4. Search Index File (ultra-compact for navbar instant autocomplete search)
+  // 7. Search Index File (ultra-compact for navbar instant autocomplete search)
   const searchIndex: SearchIndexStock[] = screenerStocks.map(deriveSearchIndexItem);
   const searchIndexPath = path.resolve(dataDir, "search_index.json");
   const searchIndexJson = JSON.stringify(searchIndex);
@@ -109,9 +239,9 @@ export function generateDataFiles(
   const searchIndexSizeKb = (fs.statSync(searchIndexPath).size / 1024).toFixed(1);
   console.log(`✓ Generated ${searchIndexPath} (${searchIndexSizeKb} KB)`);
 
-  // 5. Individual Stock JSON files
+  // 8. Individual Stock JSON files
   let writtenStockCount = 0;
-  for (const stock of stocks) {
+  for (const stock of allMergedStocks) {
     const code = (stock.tradingCode || "").trim().toUpperCase();
     if (!code) continue;
 
@@ -124,32 +254,32 @@ export function generateDataFiles(
   }
   console.log(`✓ Generated ${writtenStockCount} individual stock JSON files in ${stocksDir}`);
 
-  // 6. Optional All Stocks File
+  // 9. Optional All Stocks File
   let allStocksPath: string | undefined;
   if (options.saveAllStocksFile) {
     allStocksPath = path.resolve(dataDir, "all_stocks.json");
-    fs.writeFileSync(allStocksPath, JSON.stringify(stocks), "utf-8");
+    fs.writeFileSync(allStocksPath, JSON.stringify(allMergedStocks), "utf-8");
     console.log(`✓ Generated all_stocks.json backup at ${allStocksPath}`);
   }
 
-  // 7. Optional Master File
+  // 10. Optional Master File
   let masterPath: string | undefined;
   if (options.saveMasterFile) {
     masterPath = path.resolve(dataDir, "dse_stocks.json");
-    fs.writeFileSync(masterPath, JSON.stringify(stocks, null, 2), "utf-8");
+    fs.writeFileSync(masterPath, JSON.stringify(allMergedStocks, null, 2), "utf-8");
     console.log(`✓ Saved master dataset to ${masterPath}`);
   }
 
-  // 8. Optional Wrangler KV Manifest file
+  // 11. Optional Wrangler KV Manifest file
   let manifestPath: string | undefined;
   if (options.saveKvManifest) {
     const manifest: KvManifestEntry[] = [
       { key: "dse:meta", value: JSON.stringify(meta) },
       { key: "dse:screener_stocks", value: screenerJson },
       { key: "dse:search_index", value: searchIndexJson },
-      { key: "dse:all_stocks", value: JSON.stringify(stocks) },
+      { key: "dse:all_stocks", value: JSON.stringify(allMergedStocks) },
     ];
-    for (const stock of stocks) {
+    for (const stock of allMergedStocks) {
       const code = (stock.tradingCode || "").trim().toUpperCase();
       if (code) {
         manifest.push({ key: `stock:${code}`, value: JSON.stringify(stock) });
@@ -174,7 +304,7 @@ export function generateDataFiles(
 /**
  * Loads stock data directly from individual stock files in data/stocks/*.json
  */
-export function generateFromStocksDir(
+export async function generateFromStocksDir(
   stocksDir: string = DEFAULT_STOCKS_DIR,
   options: GenerateOptions = {}
 ) {
@@ -198,7 +328,7 @@ export function generateFromStocksDir(
 /**
  * Loads master dataset from disk or falls back to data/stocks/*.json and triggers generation.
  */
-export function generateFromMasterFile(
+export async function generateFromMasterFile(
   sourcePath: string = DEFAULT_SOURCE_FILE,
   options: GenerateOptions = {}
 ) {
@@ -226,16 +356,18 @@ const isDirectRun =
     process.argv[1].endsWith("generate-data.mjs"));
 
 if (isDirectRun) {
-  try {
-    const customSource = process.argv[2];
-    if (customSource && fs.existsSync(customSource) && fs.statSync(customSource).isDirectory()) {
-      generateFromStocksDir(customSource);
-    } else {
-      generateFromMasterFile(customSource || DEFAULT_SOURCE_FILE);
+  (async () => {
+    try {
+      const customSource = process.argv[2];
+      if (customSource && fs.existsSync(customSource) && fs.statSync(customSource).isDirectory()) {
+        await generateFromStocksDir(customSource);
+      } else {
+        await generateFromMasterFile(customSource || DEFAULT_SOURCE_FILE);
+      }
+      console.log("\n✓ All data files generated successfully!");
+    } catch (err: any) {
+      console.error("\n❌ Data generation failed:", err.message);
+      process.exit(1);
     }
-    console.log("\n✓ All data files generated successfully!");
-  } catch (err: any) {
-    console.error("\n❌ Data generation failed:", err.message);
-    process.exit(1);
-  }
+  })();
 }

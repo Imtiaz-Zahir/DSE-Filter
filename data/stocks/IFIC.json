@@ -2,44 +2,44 @@
   "tradingCode": "IFIC",
   "scripCode": "11103",
   "companyName": "IFIC Bank PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=IFIC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=IFIC",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 175,
     "TRADING CODE": "IFIC",
     "tradingCode": "IFIC",
-    "LTP": 4.6,
-    "HIGH": 4.7,
-    "LOW": 4.5,
-    "CLOSEP": 4.6,
-    "YCP": 4.6,
-    "CHANGE": 0,
-    "TRADE": 114,
-    "VALUE (mn)": 1.511,
-    "VOLUME": 331808
+    "LTP": 4.9,
+    "HIGH": 5,
+    "LOW": 4.7,
+    "CLOSEP": 4.9,
+    "YCP": 4.8,
+    "CHANGE": 0.1,
+    "TRADE": 234,
+    "VALUE (mn)": 5.765,
+    "VOLUME": 1193842
   },
   "marketInformation": {
-    "lastTradingPrice": 4.6,
+    "lastTradingPrice": 4.9,
     "daysRange": [
-      4.5,
-      4.7
+      4.7,
+      5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.6,
       7
     ],
-    "change": 0,
-    "daysTradeNos": 114,
-    "yesterdaysClose": 4.6,
-    "daysVolumeNos": 331808,
-    "adjustedOpeningPrice": 4.6,
-    "daysValueMn": 1.51,
-    "openingPrice": 4.7,
-    "marketCapMn": 8841.599,
-    "closingPrice": 4.6,
-    "freeFloatMarketCapMn": 5946.103
+    "change": 0.1,
+    "daysTradeNos": 234,
+    "yesterdaysClose": 4.8,
+    "daysVolumeNos": 1193842,
+    "adjustedOpeningPrice": 4.8,
+    "daysValueMn": 5.77,
+    "openingPrice": 4.8,
+    "marketCapMn": 9226.016,
+    "closingPrice": 4.9,
+    "freeFloatMarketCapMn": 6204.629
   },
   "basicInformation": {
     "authorizedCapitalMn": 40000,
@@ -74,15 +74,6 @@
       "publicPct": 46.05
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 0,
-      "govtPct": 32.75,
-      "institutePct": 21.51,
-      "foreignPct": 0.64,
-      "publicPct": 45.1
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 0,
@@ -90,6 +81,15 @@
       "institutePct": 21.35,
       "foreignPct": 0.64,
       "publicPct": 45.26
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 0,
+      "govtPct": 32.75,
+      "institutePct": 21.93,
+      "foreignPct": 0.64,
+      "publicPct": 44.68
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01711 082 129",
     "telephoneNo": "0966671625, Ext. 122"
   },
-  "scrapedAt": "2026-09-13T15:42:49.973Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:46.570Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (35.49%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 35.49,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 9226.016,
+      "totalInterestBearingDebt": 3274
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/IFIC",
+  "cseQuote": {
+    "ltp": 4.7,
+    "open": 4.7,
+    "high": 4.7,
+    "low": 4.7,
+    "ycp": 4.7,
+    "change": 0,
+    "changePct": 0,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 2259,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

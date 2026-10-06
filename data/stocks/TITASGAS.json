@@ -2,44 +2,44 @@
   "tradingCode": "TITASGAS",
   "scripCode": "15311",
   "companyName": "Titas Gas Transmission and Distribution PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TITASGAS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TITASGAS",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 369,
     "TRADING CODE": "TITASGAS",
     "tradingCode": "TITASGAS",
-    "LTP": 16.6,
-    "HIGH": 17.5,
-    "LOW": 16.6,
-    "CLOSEP": 16.6,
-    "YCP": 17.2,
-    "CHANGE": -0.6,
-    "TRADE": 305,
-    "VALUE (mn)": 4.197,
-    "VOLUME": 249551
+    "LTP": 17.2,
+    "HIGH": 17.6,
+    "LOW": 16.8,
+    "CLOSEP": 16.8,
+    "YCP": 17.5,
+    "CHANGE": -0.3,
+    "TRADE": 231,
+    "VALUE (mn)": 2.149,
+    "VOLUME": 126549
   },
   "marketInformation": {
-    "lastTradingPrice": 16.6,
+    "lastTradingPrice": 17.2,
     "daysRange": [
-      16.6,
-      17.5
+      16.8,
+      17.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.5,
       22.2
     ],
-    "change": -0.6,
-    "daysTradeNos": 305,
-    "yesterdaysClose": 17.2,
-    "daysVolumeNos": 249551,
-    "adjustedOpeningPrice": 17.2,
-    "daysValueMn": 4.2,
-    "openingPrice": 17.5,
-    "marketCapMn": 17014.615,
-    "closingPrice": 16.6,
-    "freeFloatMarketCapMn": 4253.654
+    "change": -0.3,
+    "daysTradeNos": 231,
+    "yesterdaysClose": 17.5,
+    "daysVolumeNos": 126549,
+    "adjustedOpeningPrice": 17.5,
+    "daysValueMn": 2.15,
+    "openingPrice": 17.6,
+    "marketCapMn": 17311.382,
+    "closingPrice": 16.8,
+    "freeFloatMarketCapMn": 4327.846
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -74,15 +74,6 @@
       "publicPct": 10.09
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 0,
-      "govtPct": 75,
-      "institutePct": 15.25,
-      "foreignPct": 0.03,
-      "publicPct": 9.72
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 0,
@@ -90,6 +81,15 @@
       "institutePct": 15.17,
       "foreignPct": 0.03,
       "publicPct": 9.8
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 0,
+      "govtPct": 75,
+      "institutePct": 15.16,
+      "foreignPct": 0.03,
+      "publicPct": 9.81
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "01939-921223",
     "telephoneNo": "88-02-55012698"
   },
-  "scrapedAt": "2026-09-13T15:44:12.456Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:29.074Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 26.05% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 26.05,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 17311.382,
+      "totalInterestBearingDebt": 4509.02
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TITASGAS",
+  "cseQuote": {
+    "ltp": 17.1,
+    "open": 17,
+    "high": 17.3,
+    "low": 17.1,
+    "ycp": 17,
+    "change": 0.1,
+    "changePct": 0.59,
+    "trades": 2,
+    "valueMn": 0.01,
+    "volume": 700,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

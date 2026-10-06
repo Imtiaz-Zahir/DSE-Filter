@@ -2,28 +2,28 @@
   "tradingCode": "ONEBANKPLC",
   "scripCode": "11126",
   "companyName": "One Bank PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ONEBANKPLC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ONEBANKPLC",
   "lastAGMHeldOn": "2026-08-13",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 261,
     "TRADING CODE": "ONEBANKPLC",
     "tradingCode": "ONEBANKPLC",
-    "LTP": 7.4,
-    "HIGH": 7.7,
-    "LOW": 7.4,
-    "CLOSEP": 7.5,
-    "YCP": 7.7,
+    "LTP": 7.1,
+    "HIGH": 7.4,
+    "LOW": 6.8,
+    "CLOSEP": 7.1,
+    "YCP": 7.4,
     "CHANGE": -0.3,
-    "TRADE": 97,
-    "VALUE (mn)": 2.793,
-    "VOLUME": 369720
+    "TRADE": 121,
+    "VALUE (mn)": 0.831,
+    "VOLUME": 115986
   },
   "marketInformation": {
-    "lastTradingPrice": 7.4,
+    "lastTradingPrice": 7.1,
     "daysRange": [
-      7.4,
-      7.7
+      6.8,
+      7.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       9.1
     ],
     "change": -0.3,
-    "daysTradeNos": 97,
-    "yesterdaysClose": 7.7,
-    "daysVolumeNos": 369720,
-    "adjustedOpeningPrice": 7.7,
-    "daysValueMn": 2.79,
-    "openingPrice": 7.6,
-    "marketCapMn": 8206.829,
-    "closingPrice": 7.5,
-    "freeFloatMarketCapMn": 5727.943
+    "daysTradeNos": 121,
+    "yesterdaysClose": 7.4,
+    "daysVolumeNos": 115986,
+    "adjustedOpeningPrice": 7.4,
+    "daysValueMn": 0.83,
+    "openingPrice": 7.3,
+    "marketCapMn": 7887.082,
+    "closingPrice": 7.1,
+    "freeFloatMarketCapMn": 5504.776
   },
   "basicInformation": {
     "authorizedCapitalMn": 18500,
@@ -74,22 +74,22 @@
       "publicPct": 35.4
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30.94,
-      "govtPct": 0,
-      "institutePct": 43.13,
-      "foreignPct": 0.05,
-      "publicPct": 25.88
-    },
-    {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.21,
       "govtPct": 0,
-      "institutePct": 43.14,
-      "foreignPct": 0.05,
-      "publicPct": 26.6
+      "institutePct": 43.23,
+      "foreignPct": 0.02,
+      "publicPct": 26.54
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 34.22,
+      "govtPct": 0,
+      "institutePct": 39.3,
+      "foreignPct": 0.02,
+      "publicPct": 26.46
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 4.87,
         "peDiluted": null,
         "peTrailing": 36.19
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.94,
-        "peDiluted": null,
-        "peTrailing": 36.67
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-29",
         "peBasic": 4.87,
         "peDiluted": null,
         "peTrailing": 36.19
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 4.87,
         "peDiluted": null,
         "peTrailing": 36.19
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.94,
+        "date": "2026-10-01",
+        "peBasic": 4.74,
         "peDiluted": null,
-        "peTrailing": 36.67
+        "peTrailing": 35.24
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.81,
+        "date": "2026-10-04",
+        "peBasic": 4.74,
         "peDiluted": null,
-        "peTrailing": 35.71
+        "peTrailing": 35.24
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 4.55,
+        "peDiluted": null,
+        "peTrailing": 33.81
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 27.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 27.5,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-29",
         "peBasic": 27.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 27.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 27.5,
+        "date": "2026-10-01",
+        "peBasic": 26.43,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 26.79,
+        "date": "2026-10-04",
+        "peBasic": 26.43,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 25.36,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01730 353 507",
     "telephoneNo": "88 02 41010666"
   },
-  "scrapedAt": "2026-09-13T15:43:27.789Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:06.750Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (126.49%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 126.49,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 7887.082,
+      "totalInterestBearingDebt": 9976.29
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ONEBANKPLC",
+  "cseQuote": {
+    "ltp": 7.3,
+    "open": 7,
+    "high": 7.4,
+    "low": 7.1,
+    "ycp": 7,
+    "change": 0.3,
+    "changePct": 4.29,
+    "trades": 7,
+    "valueMn": 0.08,
+    "volume": 11620,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

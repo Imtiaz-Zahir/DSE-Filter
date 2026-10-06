@@ -2,7 +2,7 @@
   "tradingCode": "SHAHJABANK",
   "scripCode": "11139",
   "companyName": "Shahjalal Islami Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SHAHJABANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SHAHJABANK",
   "lastAGMHeldOn": "2026-05-24",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "SHAHJABANK",
     "tradingCode": "SHAHJABANK",
     "LTP": 17.3,
-    "HIGH": 17.5,
-    "LOW": 17.3,
-    "CLOSEP": 17.3,
-    "YCP": 17.4,
-    "CHANGE": -0.1,
-    "TRADE": 135,
-    "VALUE (mn)": 2.76,
-    "VOLUME": 159183
+    "HIGH": 17.4,
+    "LOW": 17.2,
+    "CLOSEP": 17.2,
+    "YCP": 17.3,
+    "CHANGE": 0,
+    "TRADE": 45,
+    "VALUE (mn)": 1.054,
+    "VOLUME": 60885
   },
   "marketInformation": {
     "lastTradingPrice": 17.3,
     "daysRange": [
-      17.3,
-      17.5
+      17.2,
+      17.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.5,
       18.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 135,
-    "yesterdaysClose": 17.4,
-    "daysVolumeNos": 159183,
-    "adjustedOpeningPrice": 17.4,
-    "daysValueMn": 2.76,
+    "change": 0,
+    "daysTradeNos": 45,
+    "yesterdaysClose": 17.3,
+    "daysVolumeNos": 60885,
+    "adjustedOpeningPrice": 17.3,
+    "daysValueMn": 1.05,
     "openingPrice": 17.4,
-    "marketCapMn": 19365.649,
-    "closingPrice": 17.3,
-    "freeFloatMarketCapMn": 11031.438
+    "marketCapMn": 19254.352,
+    "closingPrice": 17.2,
+    "freeFloatMarketCapMn": 10968.039
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -74,15 +74,6 @@
       "publicPct": 32.45
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 43.01,
-      "govtPct": 0,
-      "institutePct": 24.23,
-      "foreignPct": 0,
-      "publicPct": 32.76
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 43.01,
@@ -90,6 +81,15 @@
       "institutePct": 24.42,
       "foreignPct": 0,
       "publicPct": 32.57
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 43.01,
+      "govtPct": 0,
+      "institutePct": 24.57,
+      "foreignPct": 0,
+      "publicPct": 32.42
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 3.14,
         "peDiluted": null,
         "peTrailing": 4.82
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 3.14,
         "peDiluted": null,
         "peTrailing": 4.82
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.14,
-        "peDiluted": null,
-        "peTrailing": 4.82
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 3.16,
         "peDiluted": null,
         "peTrailing": 4.85
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.14,
-        "peDiluted": null,
-        "peTrailing": 4.82
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 3.12,
         "peDiluted": null,
         "peTrailing": 4.79
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 3.12,
+        "peDiluted": null,
+        "peTrailing": 4.79
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 3.1,
+        "peDiluted": null,
+        "peTrailing": 4.76
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 5.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 5.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.26,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 5.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.26,
+        "date": "2026-10-01",
+        "peBasic": 5.23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 5.23,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 5.2,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "1755556060",
     "telephoneNo": "02-222283457 (Hunting) Ext-1000"
   },
-  "scrapedAt": "2026-09-13T15:43:57.396Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:21.421Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 19254.352,
+      "totalInterestBearingDebt": 26616.69
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SHAHJABANK",
+  "cseQuote": {
+    "ltp": 17.2,
+    "open": 17.2,
+    "high": 17.3,
+    "low": 17.2,
+    "ycp": 17.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 5,
+    "valueMn": 0.03,
+    "volume": 1792,
+    "updatedDate": "2026-10-06T01:10:39.857Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

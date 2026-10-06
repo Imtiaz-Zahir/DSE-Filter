@@ -2,43 +2,43 @@
   "tradingCode": "CAPMBDBLMF",
   "scripCode": "12199",
   "companyName": "CAPM BDBL Mutual Fund 01",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CAPMBDBLMF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CAPMBDBLMF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 78,
     "TRADING CODE": "CAPMBDBLMF",
     "tradingCode": "CAPMBDBLMF",
-    "LTP": 7.9,
-    "HIGH": 8.6,
-    "LOW": 7.9,
-    "CLOSEP": 7.9,
-    "YCP": 7.9,
-    "CHANGE": 0,
-    "TRADE": 698,
-    "VALUE (mn)": 24.89,
-    "VOLUME": 3088264
+    "LTP": 0,
+    "HIGH": 0,
+    "LOW": 0,
+    "CLOSEP": 7.2,
+    "YCP": 7.2,
+    "CHANGE": null,
+    "TRADE": 0,
+    "VALUE (mn)": 0,
+    "VOLUME": 0
   },
   "marketInformation": {
-    "lastTradingPrice": 7.9,
+    "lastTradingPrice": null,
     "daysRange": [
-      7.9,
-      8.6
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.1,
       13.7
     ],
-    "change": 0,
-    "daysTradeNos": 698,
-    "yesterdaysClose": 7.9,
-    "daysVolumeNos": 3088264,
-    "adjustedOpeningPrice": 7.9,
-    "daysValueMn": 24.89,
-    "openingPrice": 8.6,
-    "marketCapMn": 396.035,
-    "closingPrice": 7.9,
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": 7.2,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": 7.2,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 360.943,
+    "closingPrice": 7.2,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -74,15 +74,6 @@
       "publicPct": 56.4
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 19.95,
-      "govtPct": 0,
-      "institutePct": 11.8,
-      "foreignPct": 0,
-      "publicPct": 68.25
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 19.95,
@@ -90,6 +81,15 @@
       "institutePct": 11.03,
       "foreignPct": 0,
       "publicPct": 69.02
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 19.95,
+      "govtPct": 0,
+      "institutePct": 10.24,
+      "foreignPct": 0,
+      "publicPct": 69.81
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.63,
-        "peDiluted": null,
-        "peTrailing": 5.63
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 5.56,
-        "peDiluted": null,
-        "peTrailing": 5.56
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-09-28",
         "peBasic": 5.33,
         "peDiluted": null,
         "peTrailing": 5.33
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 5.33,
         "peDiluted": null,
         "peTrailing": 5.33
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.85,
+        "date": "2026-09-30",
+        "peBasic": 5.33,
         "peDiluted": null,
-        "peTrailing": 5.85
+        "peTrailing": 5.33
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.85,
+        "date": "2026-10-01",
+        "peBasic": 5.33,
         "peDiluted": null,
-        "peTrailing": 5.85
+        "peTrailing": 5.33
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 5.33,
+        "peDiluted": null,
+        "peTrailing": 5.33
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 5.33,
+        "peDiluted": null,
+        "peTrailing": 5.33
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": "01847054877",
     "telephoneNo": "88-02222291611, 02-222282269 (102)"
   },
-  "scrapedAt": "2026-09-13T15:42:15.818Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:23.808Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 360.943,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CAPMBDBLMF",
+  "cseQuote": {
+    "ltp": 7.2,
+    "open": 7.2,
+    "high": 7.2,
+    "low": 7.2,
+    "ycp": 7.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

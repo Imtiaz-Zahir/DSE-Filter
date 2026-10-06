@@ -34,11 +34,11 @@ export function Navbar() {
                   DSE<span className="text-primary font-black">Filter</span>
                 </span>
                 <span className="inline-flex items-center rounded bg-emerald-500/10 px-1.5 py-0.5 text-[10px] font-semibold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
-                  <ShieldCheck className="size-2.5 mr-0.5 inline" /> DSES
+                  <ShieldCheck className="size-2.5 mr-0.5 inline" /> Sharia
                 </span>
               </div>
               <span className="hidden sm:inline-block text-[10px] text-muted-foreground font-medium -mt-1">
-                Dhaka Stock Exchange Screener
+                DSE & CSE Stock Screener
               </span>
             </div>
           </Link>

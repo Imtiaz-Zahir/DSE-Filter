@@ -122,10 +122,10 @@ export function StockJsonLd({ stock }: StockJsonLdProps) {
       a: `${code} currently offers an indicated dividend yield of ${divYield !== null ? `${formatNumber(divYield)}%` : "0.00%"}. In recent disclosures, cash and stock dividend records can be reviewed in the audited financial history table.`,
     },
     {
-      q: `Is ${code} (${name}) DSES Sharia compliant?`,
+      q: `Is ${code} (${name}) Sharia compliant?`,
       a: isSharia
-        ? `Yes, ${code} is certified as DSES Sharia Compliant on the Dhaka Stock Exchange based on Islamic financial screening standards.`
-        : `No, ${code} is currently not listed in the DSES Sharia Index of the Dhaka Stock Exchange.`,
+        ? `Yes, ${code} is certified as Sharia Compliant in Bangladesh based on Islamic financial screening standards.`
+        : `No, ${code} is currently not listed in the Sharia Index.`,
     },
     {
       q: `What is ${code}'s Net Asset Value (NAV) per share and EPS?`,

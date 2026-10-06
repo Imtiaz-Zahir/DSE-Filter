@@ -27,7 +27,10 @@ interface ActiveFiltersProps {
 const STORAGE_KEY = "dsefilter_saved_presets";
 
 const PRESET_LABELS: Record<string, string> = {
-  sharia: "DSES Sharia",
+  sharia: "Sharia",
+  sharia_zero_debt: "Shariah Zero Debt",
+  sharia_islamic_finance: "Islamic Finance",
+  sharia_low_purification: "Purification ≤ 1%",
   gainers: "Top Gainers",
   losers: "Top Losers",
   high_yield: "Yield ≥ 5%",
@@ -112,6 +115,26 @@ export function ActiveFilters({
     });
   }
 
+  if (filters.exchange && filters.exchange !== "all") {
+    const exLabels: Record<string, string> = {
+      dual: "Dual-Listed (DSE+CSE)",
+      dse: "DSE Listed Only",
+      cse: "CSE Listed Only",
+    };
+    filterPills.push({
+      label: `Exchange: ${exLabels[filters.exchange] || filters.exchange}`,
+      onRemove: () => setFilters((p) => ({ ...p, exchange: "all" })),
+    });
+  }
+
+  filters.indices.forEach((idx) => {
+    filterPills.push({
+      label: `Index: ${idx}`,
+      onRemove: () =>
+        setFilters((p) => ({ ...p, indices: p.indices.filter((i) => i !== idx) })),
+    });
+  });
+
   filters.sectors.forEach((sec) => {
     filterPills.push({
       label: `Sector: ${sec}`,
@@ -149,8 +172,22 @@ export function ActiveFilters({
 
   if (filters.shariaOnly) {
     filterPills.push({
-      label: "DSES Sharia",
+      label: "Sharia",
       onRemove: () => setFilters((p) => ({ ...p, shariaOnly: false })),
+    });
+  }
+
+  if (filters.islamicFinanceOnly) {
+    filterPills.push({
+      label: "Islamic Finance Only",
+      onRemove: () => setFilters((p) => ({ ...p, islamicFinanceOnly: false })),
+    });
+  }
+
+  if (filters.excludeNonShariaSectors) {
+    filterPills.push({
+      label: "Exclude Non-Halal Sectors",
+      onRemove: () => setFilters((p) => ({ ...p, excludeNonShariaSectors: false })),
     });
   }
 
@@ -222,6 +259,10 @@ export function ActiveFilters({
   addRangePill("Volume", filters.volumeRange, "volumeRange");
   addRangePill("Turnover Mn", filters.turnoverRange, "turnoverRange");
   addRangePill("Trades", filters.tradesRange, "tradesRange");
+  addRangePill("Shariah Debt %", filters.shariahDebtRatioRange, "shariahDebtRatioRange");
+  addRangePill("Shariah Cash %", filters.shariahCashRatioRange, "shariahCashRatioRange");
+  addRangePill("Shariah Receivables %", filters.shariahReceivablesRange, "shariahReceivablesRange");
+  addRangePill("Purification %", filters.shariahPurificationRange, "shariahPurificationRange");
 
   return (
     <div className="flex flex-col gap-2">

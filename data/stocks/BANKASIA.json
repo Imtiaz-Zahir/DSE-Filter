@@ -2,44 +2,44 @@
   "tradingCode": "BANKASIA",
   "scripCode": "11127",
   "companyName": "Bank Asia PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BANKASIA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BANKASIA",
   "lastAGMHeldOn": "2026-06-11",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 45,
     "TRADING CODE": "BANKASIA",
     "tradingCode": "BANKASIA",
-    "LTP": 16.6,
-    "HIGH": 16.7,
-    "LOW": 16.5,
-    "CLOSEP": 16.6,
-    "YCP": 16.7,
-    "CHANGE": -0.1,
-    "TRADE": 265,
-    "VALUE (mn)": 4.134,
-    "VOLUME": 249447
+    "LTP": 16.3,
+    "HIGH": 16.4,
+    "LOW": 16.2,
+    "CLOSEP": 16.3,
+    "YCP": 16.3,
+    "CHANGE": 0,
+    "TRADE": 115,
+    "VALUE (mn)": 12.039,
+    "VOLUME": 738795
   },
   "marketInformation": {
-    "lastTradingPrice": 16.6,
+    "lastTradingPrice": 16.3,
     "daysRange": [
-      16.5,
-      16.7
+      16.2,
+      16.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      16.5,
+      16,
       23.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 265,
-    "yesterdaysClose": 16.7,
-    "daysVolumeNos": 249447,
-    "adjustedOpeningPrice": 16.7,
-    "daysValueMn": 4.13,
-    "openingPrice": 16.7,
-    "marketCapMn": 23238.214,
-    "closingPrice": 16.6,
-    "freeFloatMarketCapMn": 11549.459
+    "change": 0,
+    "daysTradeNos": 115,
+    "yesterdaysClose": 16.3,
+    "daysVolumeNos": 738795,
+    "adjustedOpeningPrice": 16.3,
+    "daysValueMn": 12.04,
+    "openingPrice": 16.4,
+    "marketCapMn": 22681.61,
+    "closingPrice": 16.3,
+    "freeFloatMarketCapMn": 11272.825
   },
   "basicInformation": {
     "authorizedCapitalMn": 30000,
@@ -74,15 +74,6 @@
       "publicPct": 10.88
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 50.7,
-      "govtPct": 0,
-      "institutePct": 38.8,
-      "foreignPct": 0,
-      "publicPct": 10.5
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 50.38,
@@ -90,6 +81,15 @@
       "institutePct": 39.14,
       "foreignPct": 0,
       "publicPct": 10.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 50.3,
+      "govtPct": 0,
+      "institutePct": 39.03,
+      "foreignPct": 0,
+      "publicPct": 10.67
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.77,
+        "date": "2026-09-28",
+        "peBasic": 4.66,
         "peDiluted": null,
-        "peTrailing": 6.35
+        "peTrailing": 6.2
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.77,
+        "date": "2026-09-29",
+        "peBasic": 4.6,
         "peDiluted": null,
-        "peTrailing": 6.35
+        "peTrailing": 6.13
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.75,
+        "date": "2026-09-30",
+        "peBasic": 4.58,
         "peDiluted": null,
-        "peTrailing": 6.32
+        "peTrailing": 6.09
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.75,
+        "date": "2026-10-01",
+        "peBasic": 4.58,
         "peDiluted": null,
-        "peTrailing": 6.32
+        "peTrailing": 6.09
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.72,
+        "date": "2026-10-04",
+        "peBasic": 4.6,
         "peDiluted": null,
-        "peTrailing": 6.28
+        "peTrailing": 6.13
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.69,
+        "date": "2026-10-05",
+        "peBasic": 4.6,
         "peDiluted": null,
-        "peTrailing": 6.24
+        "peTrailing": 6.13
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.31,
-        "peDiluted": 5.77
+        "date": "2026-09-28",
+        "peBasic": 5.19,
+        "peDiluted": 5.63
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.31,
-        "peDiluted": 5.77
+        "date": "2026-09-29",
+        "peBasic": 5.13,
+        "peDiluted": 5.56
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.28,
-        "peDiluted": 5.73
+        "date": "2026-09-30",
+        "peBasic": 5.09,
+        "peDiluted": 5.53
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.28,
-        "peDiluted": 5.73
+        "date": "2026-10-01",
+        "peBasic": 5.09,
+        "peDiluted": 5.53
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.25,
-        "peDiluted": 5.7
+        "date": "2026-10-04",
+        "peBasic": 5.13,
+        "peDiluted": 5.56
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.22,
-        "peDiluted": 5.67
+        "date": "2026-10-05",
+        "peBasic": 5.13,
+        "peDiluted": 5.56
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "01742 844950",
     "telephoneNo": "09617-001207 Ext : 1214"
   },
-  "scrapedAt": "2026-09-13T15:42:02.217Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:12.566Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (120.64%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 120.64,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 22681.61,
+      "totalInterestBearingDebt": 27363.24
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BANKASIA",
+  "cseQuote": {
+    "ltp": 16.5,
+    "open": 16.5,
+    "high": 16.5,
+    "low": 16.5,
+    "ycp": 16.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "COPPERTECH",
   "scripCode": "13247",
   "companyName": "Coppertech Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=COPPERTECH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=COPPERTECH",
   "lastAGMHeldOn": "2026-01-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 88,
     "TRADING CODE": "COPPERTECH",
     "tradingCode": "COPPERTECH",
-    "LTP": 21.1,
-    "HIGH": 22.7,
-    "LOW": 21,
-    "CLOSEP": 21.1,
-    "YCP": 22.6,
-    "CHANGE": -1.5,
-    "TRADE": 371,
-    "VALUE (mn)": 8.438,
-    "VOLUME": 387361
+    "LTP": 20.7,
+    "HIGH": 21.4,
+    "LOW": 20.2,
+    "CLOSEP": 20.4,
+    "YCP": 21.1,
+    "CHANGE": -0.4,
+    "TRADE": 219,
+    "VALUE (mn)": 3.324,
+    "VOLUME": 160369
   },
   "marketInformation": {
-    "lastTradingPrice": 21.1,
+    "lastTradingPrice": 20.7,
     "daysRange": [
-      21,
-      22.7
+      20.2,
+      21.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.2,
       30.6
     ],
-    "change": -1.5,
-    "daysTradeNos": 371,
-    "yesterdaysClose": 22.6,
-    "daysVolumeNos": 387361,
-    "adjustedOpeningPrice": 22.6,
-    "daysValueMn": 8.44,
-    "openingPrice": 22.7,
-    "marketCapMn": 1480.752,
-    "closingPrice": 21.1,
-    "freeFloatMarketCapMn": 1035.539
+    "change": -0.4,
+    "daysTradeNos": 219,
+    "yesterdaysClose": 21.1,
+    "daysVolumeNos": 160369,
+    "adjustedOpeningPrice": 21.1,
+    "daysValueMn": 3.32,
+    "openingPrice": 21.3,
+    "marketCapMn": 1382.472,
+    "closingPrice": 20.4,
+    "freeFloatMarketCapMn": 966.809
   },
   "basicInformation": {
     "authorizedCapitalMn": 700,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 39.33,
+        "date": "2026-09-28",
+        "peBasic": 36.67,
         "peDiluted": null,
-        "peTrailing": 32.78
+        "peTrailing": 30.56
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 38.83,
+        "date": "2026-09-29",
+        "peBasic": 36.67,
         "peDiluted": null,
-        "peTrailing": 32.36
+        "peTrailing": 30.56
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 38.5,
+        "date": "2026-09-30",
+        "peBasic": 36.5,
         "peDiluted": null,
-        "peTrailing": 32.08
+        "peTrailing": 30.42
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 38.5,
+        "date": "2026-10-01",
+        "peBasic": 36.17,
         "peDiluted": null,
-        "peTrailing": 32.08
+        "peTrailing": 30.14
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 37.67,
-        "peDiluted": null,
-        "peTrailing": 31.39
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 35.17,
         "peDiluted": null,
         "peTrailing": 29.31
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 34,
+        "peDiluted": null,
+        "peTrailing": 28.33
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 33.24,
+        "date": "2026-09-28",
+        "peBasic": 30.99,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 32.82,
+        "date": "2026-09-29",
+        "peBasic": 30.99,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 32.54,
+        "date": "2026-09-30",
+        "peBasic": 30.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 32.54,
+        "date": "2026-10-01",
+        "peBasic": 30.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 31.83,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 29.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 28.73,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01917 701 642",
     "telephoneNo": "+880-2-8715809"
   },
-  "scrapedAt": "2026-09-13T15:42:21.296Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:26.260Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 9.74% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 9.74,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1382.472,
+      "totalInterestBearingDebt": 134.64
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/COPPERTECH",
+  "cseQuote": {
+    "ltp": 22.7,
+    "open": 22.2,
+    "high": 22.7,
+    "low": 21.7,
+    "ycp": 22.2,
+    "change": 0.5,
+    "changePct": 2.25,
+    "trades": 2,
+    "valueMn": 0.01,
+    "volume": 400,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

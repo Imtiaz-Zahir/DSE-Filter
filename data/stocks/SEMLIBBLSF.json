@@ -2,43 +2,43 @@
   "tradingCode": "SEMLIBBLSF",
   "scripCode": "12200",
   "companyName": "SEML IBBL Shariah Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SEMLIBBLSF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SEMLIBBLSF",
   "lastAGMHeldOn": "For the year ended:",
-  "forYearEnded": "2025-06-30",
+  "forYearEnded": "2026-06-30",
   "overview": {
     "#": 331,
     "TRADING CODE": "SEMLIBBLSF",
     "tradingCode": "SEMLIBBLSF",
-    "LTP": 7.9,
-    "HIGH": 8,
-    "LOW": 7.8,
-    "CLOSEP": 7.9,
+    "LTP": 7.8,
+    "HIGH": 7.9,
+    "LOW": 7.7,
+    "CLOSEP": 7.8,
     "YCP": 7.8,
-    "CHANGE": 0.1,
-    "TRADE": 58,
-    "VALUE (mn)": 1.862,
-    "VOLUME": 235630
+    "CHANGE": 0,
+    "TRADE": 99,
+    "VALUE (mn)": 11.187,
+    "VOLUME": 1435845
   },
   "marketInformation": {
-    "lastTradingPrice": 7.9,
+    "lastTradingPrice": 7.8,
     "daysRange": [
-      7.8,
-      8
+      7.7,
+      7.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.2,
       8.6
     ],
-    "change": 0.1,
-    "daysTradeNos": 58,
+    "change": 0,
+    "daysTradeNos": 99,
     "yesterdaysClose": 7.8,
-    "daysVolumeNos": 235630,
+    "daysVolumeNos": 1435845,
     "adjustedOpeningPrice": 7.8,
-    "daysValueMn": 1.86,
-    "openingPrice": 8,
+    "daysValueMn": 11.19,
+    "openingPrice": 7.8,
     "marketCapMn": 780,
-    "closingPrice": 7.9,
+    "closingPrice": 7.8,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -59,19 +59,19 @@
     "bonusIssue": "-",
     "rightIssue": "-",
     "yearEnd": "30-Jun",
-    "reserveSurplusWithoutOciMn": -49.1,
+    "reserveSurplusWithoutOciMn": -0.4,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
-      "asOfDate": "2025-06-30",
+      "period": "Share Holding Percentage [as on Jun 30, 2026 (year ended)]",
+      "asOfDate": "2026-06-30",
       "sponsorDirectorPct": 50,
       "govtPct": 0,
-      "institutePct": 24.72,
+      "institutePct": 27.29,
       "foreignPct": 0,
-      "publicPct": 25.28
+      "publicPct": 22.71
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,91 +151,76 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 16.53,
+        "peDiluted": null,
+        "peTrailing": 16.53
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 16.53,
+        "peDiluted": null,
+        "peTrailing": 16.53
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 16.33,
+        "peDiluted": null,
+        "peTrailing": 16.33
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 16.12,
         "peDiluted": null,
         "peTrailing": 16.12
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 16.12,
-        "peDiluted": null,
-        "peTrailing": 16.12
-      },
-      {
-        "date": "2026-09-08",
+        "date": "2026-10-04",
         "peBasic": 15.92,
         "peDiluted": null,
         "peTrailing": 15.92
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-05",
         "peBasic": 15.92,
         "peDiluted": null,
         "peTrailing": 15.92
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 15.92,
-        "peDiluted": null,
-        "peTrailing": 15.92
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 16.12,
-        "peDiluted": null,
-        "peTrailing": 16.12
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 56.43,
+        "date": "2026-09-28",
+        "peBasic": 16.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 56.43,
+        "date": "2026-09-29",
+        "peBasic": 16.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 55.71,
+        "date": "2026-09-30",
+        "peBasic": 16.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 55.71,
+        "date": "2026-10-01",
+        "peBasic": 16.12,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 55.71,
+        "date": "2026-10-04",
+        "peBasic": 15.92,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 56.43,
+        "date": "2026-10-05",
+        "peBasic": 15.92,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2021,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 2.35,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 11.31,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 234.99,
-      "tciOriginal": 234.99,
-      "tciRestated": 234.99
-    },
     {
       "year": 2022,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": 13.86,
       "tciOriginal": 13.86,
       "tciRestated": 13.86
+    },
+    {
+      "year": 2026,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.49,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 10,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 48.75,
+      "tciOriginal": 48.75,
+      "tciRestated": 48.75
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2021,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 5.23,
-      "dividend": "10.00",
-      "cashDividendPct": 10,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 8.13
-    },
     {
       "year": 2022,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2026,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 14.57,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -374,6 +374,55 @@
     "cellNo": "01346990125",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-13T15:43:57.247Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:21.517Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 780,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SEMLIBBLSF",
+  "cseQuote": {
+    "ltp": 8.2,
+    "open": 8.2,
+    "high": 8.2,
+    "low": 8.2,
+    "ycp": 8.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.857Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "DULAMIACOT",
   "scripCode": "17416",
   "companyName": "Dulamia Cotton Spinning Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DULAMIACOT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DULAMIACOT",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 107,
     "TRADING CODE": "DULAMIACOT",
     "tradingCode": "DULAMIACOT",
-    "LTP": 173.9,
-    "HIGH": 181.9,
-    "LOW": 164,
-    "CLOSEP": 173.9,
-    "YCP": 180,
-    "CHANGE": -6.1,
-    "TRADE": 155,
-    "VALUE (mn)": 1.54,
-    "VOLUME": 8841
+    "LTP": 212.9,
+    "HIGH": 215,
+    "LOW": 210,
+    "CLOSEP": 211.7,
+    "YCP": 213.9,
+    "CHANGE": -1,
+    "TRADE": 180,
+    "VALUE (mn)": 3.346,
+    "VOLUME": 15729
   },
   "marketInformation": {
-    "lastTradingPrice": 173.9,
+    "lastTradingPrice": 212.9,
     "daysRange": [
-      164,
-      181.9
+      210,
+      215
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       110,
       231
     ],
-    "change": -6.1,
-    "daysTradeNos": 155,
-    "yesterdaysClose": 180,
-    "daysVolumeNos": 8841,
-    "adjustedOpeningPrice": 180,
-    "daysValueMn": 1.54,
-    "openingPrice": 181.9,
-    "marketCapMn": 1360.188,
-    "closingPrice": 173.9,
-    "freeFloatMarketCapMn": 911.119
+    "change": -1,
+    "daysTradeNos": 180,
+    "yesterdaysClose": 213.9,
+    "daysVolumeNos": 15729,
+    "adjustedOpeningPrice": 213.9,
+    "daysValueMn": 3.35,
+    "openingPrice": 215,
+    "marketCapMn": 1616.357,
+    "closingPrice": 211.7,
+    "freeFloatMarketCapMn": 1082.713
   },
   "basicInformation": {
     "authorizedCapitalMn": 300,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 672,
+        "date": "2026-09-28",
+        "peBasic": 784.13,
         "peDiluted": null,
-        "peTrailing": 853.33
+        "peTrailing": 995.71
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 663.38,
+        "date": "2026-09-29",
+        "peBasic": 830.25,
         "peDiluted": null,
-        "peTrailing": 842.38
+        "peTrailing": 1054.29
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 674.25,
+        "date": "2026-09-30",
+        "peBasic": 808.88,
         "peDiluted": null,
-        "peTrailing": 856.19
+        "peTrailing": 1027.14
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 672.75,
+        "date": "2026-10-01",
+        "peBasic": 804.38,
         "peDiluted": null,
-        "peTrailing": 854.29
+        "peTrailing": 1021.43
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 675,
+        "date": "2026-10-04",
+        "peBasic": 802.13,
         "peDiluted": null,
-        "peTrailing": 857.14
+        "peTrailing": 1018.57
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 652.13,
+        "date": "2026-10-05",
+        "peBasic": 793.88,
         "peDiluted": null,
-        "peTrailing": 828.1
+        "peTrailing": 1008.1
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 716.8,
+        "date": "2026-09-28",
+        "peBasic": 836.4,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 707.6,
+        "date": "2026-09-29",
+        "peBasic": 885.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 719.2,
+        "date": "2026-09-30",
+        "peBasic": 862.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 717.6,
+        "date": "2026-10-01",
+        "peBasic": 858,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 720,
+        "date": "2026-10-04",
+        "peBasic": 855.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 695.6,
+        "date": "2026-10-05",
+        "peBasic": 846.8,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,55 @@
     "cellNo": "01713554206",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-13T15:42:27.864Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:31.609Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 4.28% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 4.28,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1616.357,
+      "totalInterestBearingDebt": 69.19
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DULAMIACOT",
+  "cseQuote": {
+    "ltp": 10.2,
+    "open": 10.2,
+    "high": 10.2,
+    "low": 10.2,
+    "ycp": 10.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

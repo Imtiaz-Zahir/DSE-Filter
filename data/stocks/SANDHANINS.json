@@ -2,44 +2,44 @@
   "tradingCode": "SANDHANINS",
   "scripCode": "25718",
   "companyName": "Sandhani Life Insurance Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SANDHANINS",
-  "lastAGMHeldOn": "2025-09-25",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SANDHANINS",
+  "lastAGMHeldOn": "2026-09-29",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 325,
     "TRADING CODE": "SANDHANINS",
     "tradingCode": "SANDHANINS",
-    "LTP": 24,
-    "HIGH": 24.5,
-    "LOW": 23.9,
-    "CLOSEP": 24,
-    "YCP": 24.5,
-    "CHANGE": -0.5,
-    "TRADE": 214,
-    "VALUE (mn)": 4.41,
-    "VOLUME": 183495
+    "LTP": 23.7,
+    "HIGH": 24.3,
+    "LOW": 23.6,
+    "CLOSEP": 23.7,
+    "YCP": 24,
+    "CHANGE": -0.3,
+    "TRADE": 282,
+    "VALUE (mn)": 6.147,
+    "VOLUME": 257633
   },
   "marketInformation": {
-    "lastTradingPrice": 24,
+    "lastTradingPrice": 23.7,
     "daysRange": [
-      23.9,
-      24.5
+      23.6,
+      24.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       17.1,
       30.3
     ],
-    "change": -0.5,
-    "daysTradeNos": 214,
-    "yesterdaysClose": 24.5,
-    "daysVolumeNos": 183495,
-    "adjustedOpeningPrice": 24.5,
-    "daysValueMn": 4.41,
-    "openingPrice": 24.3,
-    "marketCapMn": 2687.617,
-    "closingPrice": 24,
-    "freeFloatMarketCapMn": 1836.334
+    "change": -0.3,
+    "daysTradeNos": 282,
+    "yesterdaysClose": 24,
+    "daysVolumeNos": 257633,
+    "adjustedOpeningPrice": 24,
+    "daysValueMn": 6.15,
+    "openingPrice": 24,
+    "marketCapMn": 2632.767,
+    "closingPrice": 23.7,
+    "freeFloatMarketCapMn": 1798.858
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -55,7 +55,7 @@
     "listingYear": 1996,
     "marketCategory": "A",
     "electronicShare": true,
-    "cashDividend": "12% 2024, 12% 2023, 12% 2022, 12% 2021 12% 2020, 12% 2019, 15% 2018",
+    "cashDividend": "12% 2025, 12% 2024, 12% 2023, 12% 2022, 12% 2021 12% 2020, 12% 2019, 15% 2018",
     "bonusIssue": "20% 2017, 20% 2016, 25% 2015, 22% 2014, 25.50% 2013, 30% 2012, 48% 2011, 48% 2010, 45% 2009, 35% 2008, 25% 2007, 20% 2006, 20% 2005, 16% 2004, 14% 2003",
     "rightIssue": "n/a",
     "yearEnd": "31-Dec",
@@ -65,13 +65,13 @@
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
-      "sponsorDirectorPct": 29.45,
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 31.67,
       "govtPct": 0,
-      "institutePct": 15.88,
+      "institutePct": 14.21,
       "foreignPct": 0,
-      "publicPct": 54.67
+      "publicPct": 54.12
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,91 +151,76 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 20.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 20.25,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-30",
         "peBasic": 20.58,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 20.42,
+        "date": "2026-10-01",
+        "peBasic": 20.25,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 20.58,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 20.42,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 20,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 19.75,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 21.13,
+        "date": "2026-09-28",
+        "peBasic": 20.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 21.48,
+        "date": "2026-09-29",
+        "peBasic": 20.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 21.3,
+        "date": "2026-09-30",
+        "peBasic": 20.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 21.48,
+        "date": "2026-10-01",
+        "peBasic": 20.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 21.3,
+        "date": "2026-10-04",
+        "peBasic": 20,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 20.87,
+        "date": "2026-10-05",
+        "peBasic": 19.75,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 1.41,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 18.15,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 155.21,
-      "tciOriginal": 155.21,
-      "tciRestated": 155.21
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": 126.69,
       "tciOriginal": 126.69,
       "tciRestated": 126.69
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.2,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 18,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 131.64,
+      "tciOriginal": 131.64,
+      "tciRestated": 131.64
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 19.43,
-      "dividend": "12.00",
-      "cashDividendPct": 12,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 4.38
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": 12,
       "bonusDividendPct": null,
       "dividendYieldPct": 6.06
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 16.17,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 6.19
     }
   ],
   "financialLinks": [
@@ -361,7 +361,7 @@
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
     "longTermLoanMn": 0,
-    "latestDividendStatus": "12.00 for 2024"
+    "latestDividendStatus": "12.00 for 2025"
   },
   "addressContact": {
     "headOffice": "Head Office",
@@ -374,6 +374,57 @@
     "cellNo": "01817030900",
     "telephoneNo": "02-55168181-5, 9611197, 9664931, 9661241"
   },
-  "scrapedAt": "2026-09-13T15:43:51.831Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:19.640Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2632.767,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SANDHANINS",
+  "cseQuote": {
+    "ltp": 24,
+    "open": 24.2,
+    "high": 26.1,
+    "low": 24,
+    "ycp": 24.2,
+    "change": -0.2,
+    "changePct": -0.83,
+    "trades": 3,
+    "valueMn": 0.1,
+    "volume": 4100,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

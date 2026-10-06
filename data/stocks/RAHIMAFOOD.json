@@ -2,44 +2,44 @@
   "tradingCode": "RAHIMAFOOD",
   "scripCode": "14281",
   "companyName": "Rahima Food Corporation Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RAHIMAFOOD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RAHIMAFOOD",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 298,
     "TRADING CODE": "RAHIMAFOOD",
     "tradingCode": "RAHIMAFOOD",
-    "LTP": 66.7,
-    "HIGH": 74.5,
-    "LOW": 66,
-    "CLOSEP": 66.7,
-    "YCP": 69.6,
-    "CHANGE": -2.9,
-    "TRADE": 265,
-    "VALUE (mn)": 2.653,
-    "VOLUME": 39344
+    "LTP": 68.5,
+    "HIGH": 72,
+    "LOW": 68.5,
+    "CLOSEP": 69.1,
+    "YCP": 71,
+    "CHANGE": -2.5,
+    "TRADE": 163,
+    "VALUE (mn)": 0.979,
+    "VOLUME": 14014
   },
   "marketInformation": {
-    "lastTradingPrice": 66.7,
+    "lastTradingPrice": 68.5,
     "daysRange": [
-      66,
-      74.5
+      68.5,
+      72
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       66,
       169
     ],
-    "change": -2.9,
-    "daysTradeNos": 265,
-    "yesterdaysClose": 69.6,
-    "daysVolumeNos": 39344,
-    "adjustedOpeningPrice": 69.6,
-    "daysValueMn": 2.65,
-    "openingPrice": 70.1,
-    "marketCapMn": 1392.014,
-    "closingPrice": 66.7,
-    "freeFloatMarketCapMn": 891.647
+    "change": -2.5,
+    "daysTradeNos": 163,
+    "yesterdaysClose": 71,
+    "daysVolumeNos": 14014,
+    "adjustedOpeningPrice": 71,
+    "daysValueMn": 0.98,
+    "openingPrice": 72,
+    "marketCapMn": 1420.014,
+    "closingPrice": 69.1,
+    "freeFloatMarketCapMn": 909.582
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 590
+        "peTrailing": 600
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 605.83
+        "peTrailing": 600.83
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 593.33
+        "peTrailing": 599.17
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 584.17
+        "peTrailing": 590.83
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 580
+        "peTrailing": 591.67
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 555.83
+        "peTrailing": 575.83
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 126.43,
+        "date": "2026-09-28",
+        "peBasic": 128.57,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 129.82,
+        "date": "2026-09-29",
+        "peBasic": 128.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 127.14,
+        "date": "2026-09-30",
+        "peBasic": 128.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 125.18,
+        "date": "2026-10-01",
+        "peBasic": 126.61,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 124.29,
+        "date": "2026-10-04",
+        "peBasic": 126.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 119.11,
+        "date": "2026-10-05",
+        "peBasic": 123.39,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01716 336 319",
     "telephoneNo": "8809611611123"
   },
-  "scrapedAt": "2026-09-13T15:43:39.977Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:14.537Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1420.014,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RAHIMAFOOD",
+  "cseQuote": {
+    "ltp": 73,
+    "open": 73,
+    "high": 73,
+    "low": 73,
+    "ycp": 73,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

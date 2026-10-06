@@ -2,44 +2,44 @@
   "tradingCode": "APEXFOODS",
   "scripCode": "14254",
   "companyName": "Apex Foods Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=APEXFOODS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=APEXFOODS",
   "lastAGMHeldOn": "2025-11-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 31,
     "TRADING CODE": "APEXFOODS",
     "tradingCode": "APEXFOODS",
-    "LTP": 250.5,
-    "HIGH": 264.9,
-    "LOW": 249.8,
-    "CLOSEP": 250.5,
-    "YCP": 259,
-    "CHANGE": -8.5,
-    "TRADE": 255,
-    "VALUE (mn)": 3.116,
-    "VOLUME": 12281
+    "LTP": 311.5,
+    "HIGH": 318.4,
+    "LOW": 272,
+    "CLOSEP": 311.5,
+    "YCP": 260.5,
+    "CHANGE": 51,
+    "TRADE": 5176,
+    "VALUE (mn)": 169.283,
+    "VOLUME": 572321
   },
   "marketInformation": {
-    "lastTradingPrice": 250.5,
+    "lastTradingPrice": 311.5,
     "daysRange": [
-      249.8,
-      264.9
+      272,
+      318.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       195,
-      313.9
+      318.4
     ],
-    "change": -8.5,
-    "daysTradeNos": 255,
-    "yesterdaysClose": 259,
-    "daysVolumeNos": 12281,
-    "adjustedOpeningPrice": 259,
-    "daysValueMn": 3.12,
-    "openingPrice": 262.5,
-    "marketCapMn": 1476.922,
-    "closingPrice": 250.5,
-    "freeFloatMarketCapMn": 685.612
+    "change": 51,
+    "daysTradeNos": 5176,
+    "yesterdaysClose": 260.5,
+    "daysVolumeNos": 572321,
+    "adjustedOpeningPrice": 260.5,
+    "daysValueMn": 169.28,
+    "openingPrice": 277,
+    "marketCapMn": 1485.475,
+    "closingPrice": 311.5,
+    "freeFloatMarketCapMn": 689.583
   },
   "basicInformation": {
     "authorizedCapitalMn": 150,
@@ -74,15 +74,6 @@
       "publicPct": 41.51
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 53.39,
-      "govtPct": 0,
-      "institutePct": 7.81,
-      "foreignPct": 0,
-      "publicPct": 38.8
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 53.39,
@@ -90,6 +81,15 @@
       "institutePct": 7.5,
       "foreignPct": 0,
       "publicPct": 39.11
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 53.39,
+      "govtPct": 0,
+      "institutePct": 7.45,
+      "foreignPct": 0,
+      "publicPct": 39.16
     }
   ],
   "interimFinancials": [
@@ -140,82 +140,82 @@
     },
     {
       "period": "Annual",
-      "endDate": null,
-      "epsBasic": null,
+      "endDate": "2026-06",
+      "epsBasic": 14.21,
       "epsDiluted": null,
-      "epsContinuingBasic": null,
+      "epsContinuingBasic": 14.21,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": null
+      "marketPriceEnd": 281.8
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 44.66,
+        "date": "2026-09-28",
+        "peBasic": 18.33,
         "peDiluted": null,
-        "peTrailing": 36.1
+        "peTrailing": 18.33
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 43.79,
+        "date": "2026-09-29",
+        "peBasic": 18.52,
         "peDiluted": null,
-        "peTrailing": 35.4
+        "peTrailing": 18.52
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 43.55,
+        "date": "2026-09-30",
+        "peBasic": 18.32,
         "peDiluted": null,
-        "peTrailing": 35.2
+        "peTrailing": 18.32
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 43.43,
+        "date": "2026-10-01",
+        "peBasic": 18.24,
         "peDiluted": null,
-        "peTrailing": 35.11
+        "peTrailing": 18.24
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 43.65,
+        "date": "2026-10-04",
+        "peBasic": 18.33,
         "peDiluted": null,
-        "peTrailing": 35.29
+        "peTrailing": 18.33
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 42.22,
+        "date": "2026-10-05",
+        "peBasic": 21.92,
         "peDiluted": null,
-        "peTrailing": 34.13
+        "peTrailing": 21.92
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 41.34,
+        "date": "2026-09-28",
+        "peBasic": 40.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 40.53,
+        "date": "2026-09-29",
+        "peBasic": 41.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 40.31,
+        "date": "2026-09-30",
+        "peBasic": 40.61,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 40.2,
+        "date": "2026-10-01",
+        "peBasic": 40.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 40.41,
+        "date": "2026-10-04",
+        "peBasic": 40.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 39.08,
+        "date": "2026-10-05",
+        "peBasic": 48.6,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01721007914",
     "telephoneNo": "09606669988 Ext-153"
   },
-  "scrapedAt": "2026-09-13T15:41:59.321Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:09.155Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1485.475,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/APEXFOODS",
+  "cseQuote": {
+    "ltp": 305,
+    "open": 271.8,
+    "high": 305,
+    "low": 285,
+    "ycp": 271.8,
+    "change": 33.2,
+    "changePct": 12.21,
+    "trades": 57,
+    "valueMn": 2.04,
+    "volume": 7039,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

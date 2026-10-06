@@ -1,45 +1,45 @@
 {
   "tradingCode": "FARCHEM",
   "scripCode": "18490",
-  "companyName": "Far Chemical Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FARCHEM",
+  "companyName": "Far Chemical & Textile Ind. PLC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FARCHEM",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 127,
     "TRADING CODE": "FARCHEM",
     "tradingCode": "FARCHEM",
-    "LTP": 14.4,
-    "HIGH": 15,
-    "LOW": 14.3,
-    "CLOSEP": 14.4,
-    "YCP": 14.8,
-    "CHANGE": -0.4,
-    "TRADE": 987,
-    "VALUE (mn)": 27.631,
-    "VOLUME": 1895296
+    "LTP": 15.3,
+    "HIGH": 15.8,
+    "LOW": 15.2,
+    "CLOSEP": 15.3,
+    "YCP": 15.5,
+    "CHANGE": -0.2,
+    "TRADE": 881,
+    "VALUE (mn)": 30.701,
+    "VOLUME": 1980905
   },
   "marketInformation": {
-    "lastTradingPrice": 14.4,
+    "lastTradingPrice": 15.3,
     "daysRange": [
-      14.3,
-      15
+      15.2,
+      15.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.6,
       28
     ],
-    "change": -0.4,
-    "daysTradeNos": 987,
-    "yesterdaysClose": 14.8,
-    "daysVolumeNos": 1895296,
-    "adjustedOpeningPrice": 14.8,
-    "daysValueMn": 27.63,
-    "openingPrice": 14.9,
-    "marketCapMn": 2265.841,
-    "closingPrice": 14.4,
-    "freeFloatMarketCapMn": 1526.433
+    "change": -0.2,
+    "daysTradeNos": 881,
+    "yesterdaysClose": 15.5,
+    "daysVolumeNos": 1980905,
+    "adjustedOpeningPrice": 15.5,
+    "daysValueMn": 30.7,
+    "openingPrice": 15.5,
+    "marketCapMn": 2373.009,
+    "closingPrice": 15.3,
+    "freeFloatMarketCapMn": 1598.629
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 163.33,
+        "date": "2026-09-28",
+        "peBasic": 171.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 174.44,
+        "date": "2026-09-29",
+        "peBasic": 173.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 165.56,
+        "date": "2026-09-30",
+        "peBasic": 177.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 168.89,
+        "date": "2026-10-01",
+        "peBasic": 172.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 164.44,
+        "date": "2026-10-04",
+        "peBasic": 172.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 160,
+        "date": "2026-10-05",
+        "peBasic": 170,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "+88 01862 264 064",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:31.412Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:36.757Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 9.47% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 9.47,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2373.009,
+      "totalInterestBearingDebt": 224.77
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FARCHEM",
+  "cseQuote": {
+    "ltp": 15.4,
+    "open": 15.5,
+    "high": 15.7,
+    "low": 15.4,
+    "ycp": 15.5,
+    "change": -0.1,
+    "changePct": -0.65,
+    "trades": 18,
+    "valueMn": 0.2,
+    "volume": 13200,
+    "updatedDate": "2026-10-06T01:10:39.839Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

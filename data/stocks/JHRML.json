@@ -2,44 +2,44 @@
   "tradingCode": "JHRML",
   "scripCode": "99644",
   "companyName": "JMI Hospital Requisite Manufacturing Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=JHRML",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=JHRML",
   "lastAGMHeldOn": "2026-01-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 191,
     "TRADING CODE": "JHRML",
     "tradingCode": "JHRML",
-    "LTP": 40.9,
-    "HIGH": 44.2,
-    "LOW": 40,
-    "CLOSEP": 40.9,
-    "YCP": 44.1,
-    "CHANGE": -3.2,
-    "TRADE": 729,
-    "VALUE (mn)": 12.798,
-    "VOLUME": 304013
+    "LTP": 41.4,
+    "HIGH": 43,
+    "LOW": 41.2,
+    "CLOSEP": 41.4,
+    "YCP": 42.5,
+    "CHANGE": -1.1,
+    "TRADE": 330,
+    "VALUE (mn)": 3.449,
+    "VOLUME": 82493
   },
   "marketInformation": {
-    "lastTradingPrice": 40.9,
+    "lastTradingPrice": 41.4,
     "daysRange": [
-      40,
-      44.2
+      41.2,
+      43
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39.4,
-      58.4
+      58.2
     ],
-    "change": -3.2,
-    "daysTradeNos": 729,
-    "yesterdaysClose": 44.1,
-    "daysVolumeNos": 304013,
-    "adjustedOpeningPrice": 44.1,
-    "daysValueMn": 12.8,
-    "openingPrice": 44.2,
-    "marketCapMn": 5525.471,
-    "closingPrice": 40.9,
-    "freeFloatMarketCapMn": 2630.769
+    "change": -1.1,
+    "daysTradeNos": 330,
+    "yesterdaysClose": 42.5,
+    "daysVolumeNos": 82493,
+    "adjustedOpeningPrice": 42.5,
+    "daysValueMn": 3.45,
+    "openingPrice": 42.5,
+    "marketCapMn": 5325,
+    "closingPrice": 41.4,
+    "freeFloatMarketCapMn": 2535.321
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 23.89
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 32.3,
-      "govtPct": 0,
-      "institutePct": 42.64,
-      "foreignPct": 0,
-      "publicPct": 25.06
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 32.3,
@@ -90,6 +81,15 @@
       "institutePct": 42.52,
       "foreignPct": 0,
       "publicPct": 25.18
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 32.3,
+      "govtPct": 0,
+      "institutePct": 42.6,
+      "foreignPct": 0,
+      "publicPct": 25.1
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 52.16,
+        "date": "2026-09-28",
+        "peBasic": 48.02,
         "peDiluted": null,
-        "peTrailing": 48.04
+        "peTrailing": 44.23
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 52.05,
+        "date": "2026-09-29",
+        "peBasic": 48.47,
         "peDiluted": null,
-        "peTrailing": 47.94
+        "peTrailing": 44.64
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 50.71,
+        "date": "2026-09-30",
+        "peBasic": 48.69,
         "peDiluted": null,
-        "peTrailing": 46.7
+        "peTrailing": 44.85
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 50.6,
+        "date": "2026-10-01",
+        "peBasic": 48.02,
         "peDiluted": null,
-        "peTrailing": 46.6
+        "peTrailing": 44.23
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 49.37,
+        "date": "2026-10-04",
+        "peBasic": 47.57,
         "peDiluted": null,
-        "peTrailing": 45.46
+        "peTrailing": 43.81
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 45.78,
+        "date": "2026-10-05",
+        "peBasic": 46.34,
         "peDiluted": null,
-        "peTrailing": 42.16
+        "peTrailing": 42.68
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.05,
+        "date": "2026-09-28",
+        "peBasic": 23.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25,
+        "date": "2026-09-29",
+        "peBasic": 23.28,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 24.35,
+        "date": "2026-09-30",
+        "peBasic": 23.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.3,
+        "date": "2026-10-01",
+        "peBasic": 23.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.71,
+        "date": "2026-10-04",
+        "peBasic": 22.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 21.99,
+        "date": "2026-10-05",
+        "peBasic": 22.26,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01777 742 569",
     "telephoneNo": "02-55138723-24"
   },
-  "scrapedAt": "2026-09-13T15:42:57.736Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:51.220Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.88% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.88,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 5325,
+      "totalInterestBearingDebt": 153.57
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/JHRML",
+  "cseQuote": {
+    "ltp": 41,
+    "open": 42.9,
+    "high": 41.2,
+    "low": 41,
+    "ycp": 42.9,
+    "change": -1.9,
+    "changePct": -4.43,
+    "trades": 8,
+    "valueMn": 0.08,
+    "volume": 1990,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

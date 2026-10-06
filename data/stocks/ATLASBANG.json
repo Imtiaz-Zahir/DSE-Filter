@@ -2,44 +2,44 @@
   "tradingCode": "ATLASBANG",
   "scripCode": "13212",
   "companyName": "Atlas Bangladesh Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ATLASBANG",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ATLASBANG",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 42,
     "TRADING CODE": "ATLASBANG",
     "tradingCode": "ATLASBANG",
-    "LTP": 82.8,
-    "HIGH": 85.5,
-    "LOW": 82.5,
-    "CLOSEP": 82.8,
-    "YCP": 85.1,
-    "CHANGE": -2.3,
-    "TRADE": 43,
-    "VALUE (mn)": 0.542,
-    "VOLUME": 6551
+    "LTP": 79.1,
+    "HIGH": 82,
+    "LOW": 79,
+    "CLOSEP": 79.1,
+    "YCP": 79.8,
+    "CHANGE": -0.7,
+    "TRADE": 48,
+    "VALUE (mn)": 0.377,
+    "VOLUME": 4763
   },
   "marketInformation": {
-    "lastTradingPrice": 82.8,
+    "lastTradingPrice": 79.1,
     "daysRange": [
-      82.5,
-      85.5
+      79,
+      82
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44.2,
       102
     ],
-    "change": -2.3,
-    "daysTradeNos": 43,
-    "yesterdaysClose": 85.1,
-    "daysVolumeNos": 6551,
-    "adjustedOpeningPrice": 85.1,
-    "daysValueMn": 0.54,
-    "openingPrice": 83.1,
-    "marketCapMn": 2819.117,
-    "closingPrice": 82.8,
-    "freeFloatMarketCapMn": 903.142
+    "change": -0.7,
+    "daysTradeNos": 48,
+    "yesterdaysClose": 79.8,
+    "daysVolumeNos": 4763,
+    "adjustedOpeningPrice": 79.8,
+    "daysValueMn": 0.38,
+    "openingPrice": 81,
+    "marketCapMn": 2643.543,
+    "closingPrice": 79.1,
+    "freeFloatMarketCapMn": 846.895
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,40 @@
     "cellNo": "01818600714",
     "telephoneNo": "9814190, Ex-18"
   },
-  "scrapedAt": "2026-09-13T15:42:03.746Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:12.677Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.08% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.08,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2643.543,
+      "totalInterestBearingDebt": 2.18
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ATLASBANG",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

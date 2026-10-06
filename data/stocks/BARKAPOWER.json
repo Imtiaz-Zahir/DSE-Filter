@@ -2,44 +2,44 @@
   "tradingCode": "BARKAPOWER",
   "scripCode": "15313",
   "companyName": "Baraka Power Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BARKAPOWER",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BARKAPOWER",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 46,
     "TRADING CODE": "BARKAPOWER",
     "tradingCode": "BARKAPOWER",
-    "LTP": 9.9,
-    "HIGH": 10.4,
-    "LOW": 9.9,
-    "CLOSEP": 9.9,
-    "YCP": 10.1,
-    "CHANGE": -0.2,
-    "TRADE": 253,
-    "VALUE (mn)": 4.291,
-    "VOLUME": 430017
+    "LTP": 9.6,
+    "HIGH": 9.8,
+    "LOW": 9.5,
+    "CLOSEP": 9.6,
+    "YCP": 9.7,
+    "CHANGE": -0.1,
+    "TRADE": 194,
+    "VALUE (mn)": 2.165,
+    "VOLUME": 225462
   },
   "marketInformation": {
-    "lastTradingPrice": 9.9,
+    "lastTradingPrice": 9.6,
     "daysRange": [
-      9.9,
-      10.4
+      9.5,
+      9.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.2,
       12.2
     ],
-    "change": -0.2,
-    "daysTradeNos": 253,
-    "yesterdaysClose": 10.1,
-    "daysVolumeNos": 430017,
-    "adjustedOpeningPrice": 10.1,
-    "daysValueMn": 4.29,
-    "openingPrice": 10.3,
-    "marketCapMn": 2378.203,
-    "closingPrice": 9.9,
-    "freeFloatMarketCapMn": 1635.721
+    "change": -0.1,
+    "daysTradeNos": 194,
+    "yesterdaysClose": 9.7,
+    "daysVolumeNos": 225462,
+    "adjustedOpeningPrice": 9.7,
+    "daysValueMn": 2.17,
+    "openingPrice": 9.7,
+    "marketCapMn": 2284.017,
+    "closingPrice": 9.6,
+    "freeFloatMarketCapMn": 1570.94
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -74,15 +74,6 @@
       "publicPct": 45.04
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 22.64,
-      "govtPct": 0,
-      "institutePct": 23.71,
-      "foreignPct": 0,
-      "publicPct": 53.65
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 22.64,
@@ -90,6 +81,15 @@
       "institutePct": 23.71,
       "foreignPct": 0,
       "publicPct": 53.65
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 22.64,
+      "govtPct": 0,
+      "institutePct": 22.9,
+      "foreignPct": 0,
+      "publicPct": 54.46
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.53,
+        "date": "2026-09-28",
+        "peBasic": 8.45,
         "peDiluted": null,
-        "peTrailing": 10.53
+        "peTrailing": 10.43
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.79,
-        "peDiluted": null,
-        "peTrailing": 10.85
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 8.71,
-        "peDiluted": null,
-        "peTrailing": 10.74
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 8.62,
         "peDiluted": null,
         "peTrailing": 10.64
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.71,
+        "date": "2026-09-30",
+        "peBasic": 8.62,
         "peDiluted": null,
-        "peTrailing": 10.74
+        "peTrailing": 10.64
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.53,
+        "date": "2026-10-01",
+        "peBasic": 8.45,
         "peDiluted": null,
-        "peTrailing": 10.53
+        "peTrailing": 10.43
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 8.36,
+        "peDiluted": null,
+        "peTrailing": 10.32
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 8.28,
+        "peDiluted": null,
+        "peTrailing": 10.21
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.5,
+        "date": "2026-09-28",
+        "peBasic": 27.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 28.33,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 28.06,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 27.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 28.06,
+        "date": "2026-09-30",
+        "peBasic": 27.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 27.5,
+        "date": "2026-10-01",
+        "peBasic": 27.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 26.94,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 26.67,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01730 700 857",
     "telephoneNo": "+88-02-223352305, 223357074 (Ext. 121)"
   },
-  "scrapedAt": "2026-09-13T15:42:04.531Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:13.391Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 6.25% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.25,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2284.017,
+      "totalInterestBearingDebt": 142.72
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BARKAPOWER",
+  "cseQuote": {
+    "ltp": 10.1,
+    "open": 10.1,
+    "high": 10.1,
+    "low": 10.1,
+    "ycp": 10.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

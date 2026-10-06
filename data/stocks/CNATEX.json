@@ -2,7 +2,7 @@
   "tradingCode": "CNATEX",
   "scripCode": "17465",
   "companyName": "C & A Textiles Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CNATEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CNATEX",
   "lastAGMHeldOn": "2023-12-28",
   "forYearEnded": "2023-06-30",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "CNATEX",
     "tradingCode": "CNATEX",
     "LTP": 3,
-    "HIGH": 3.1,
+    "HIGH": 3,
     "LOW": 2.9,
-    "CLOSEP": 3,
-    "YCP": 3,
-    "CHANGE": 0,
-    "TRADE": 130,
-    "VALUE (mn)": 2.884,
-    "VOLUME": 961888
+    "CLOSEP": 2.9,
+    "YCP": 2.9,
+    "CHANGE": 0.1,
+    "TRADE": 182,
+    "VALUE (mn)": 1.954,
+    "VOLUME": 673130
   },
   "marketInformation": {
     "lastTradingPrice": 3,
     "daysRange": [
       2.9,
-      3.1
+      3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.7,
       4.9
     ],
-    "change": 0,
-    "daysTradeNos": 130,
-    "yesterdaysClose": 3,
-    "daysVolumeNos": 961888,
-    "adjustedOpeningPrice": 3,
-    "daysValueMn": 2.88,
-    "openingPrice": 3.1,
-    "marketCapMn": 717.948,
-    "closingPrice": 3,
-    "freeFloatMarketCapMn": 666.948
+    "change": 0.1,
+    "daysTradeNos": 182,
+    "yesterdaysClose": 2.9,
+    "daysVolumeNos": 673130,
+    "adjustedOpeningPrice": 2.9,
+    "daysValueMn": 1.95,
+    "openingPrice": 2.9,
+    "marketCapMn": 694.016,
+    "closingPrice": 2.9,
+    "freeFloatMarketCapMn": 644.716
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 9.78,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 9.78,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": 9.78,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 9.78,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 9.78,
+        "date": "2026-10-04",
+        "peBasic": 9.46,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.78,
+        "date": "2026-10-05",
+        "peBasic": 9.46,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 15.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": 15.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": 15.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 15.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 15.79,
+        "date": "2026-10-04",
+        "peBasic": 15.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.79,
+        "date": "2026-10-05",
+        "peBasic": 15.26,
         "peDiluted": null
       }
     ]
@@ -356,7 +356,7 @@
   ],
   "financialLinks": [],
   "operationalLoanStatus": {
-    "presentOperationalStatus": "Active",
+    "presentOperationalStatus": "Operation Shutdown",
     "longTermLoanMn": 1558.5,
     "latestDividendStatus": "0.50 for 2023"
   },
@@ -371,6 +371,56 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:19.489Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:24.466Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (224.56%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 224.56,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 694.016,
+      "totalInterestBearingDebt": 1558.5
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CNATEX",
+  "cseQuote": {
+    "ltp": 3,
+    "open": 3,
+    "high": 3,
+    "low": 3,
+    "ycp": 3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

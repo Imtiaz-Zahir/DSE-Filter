@@ -2,43 +2,43 @@
   "tradingCode": "DBH1STMF",
   "scripCode": "12174",
   "companyName": "DBH First Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DBH1STMF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DBH1STMF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 95,
     "TRADING CODE": "DBH1STMF",
     "tradingCode": "DBH1STMF",
-    "LTP": 5.5,
-    "HIGH": 5.9,
-    "LOW": 5.4,
-    "CLOSEP": 5.5,
-    "YCP": 5.6,
-    "CHANGE": -0.1,
-    "TRADE": 478,
-    "VALUE (mn)": 23.463,
-    "VOLUME": 4104797
+    "LTP": 5.3,
+    "HIGH": 5.6,
+    "LOW": 5.2,
+    "CLOSEP": 5.3,
+    "YCP": 5.5,
+    "CHANGE": -0.2,
+    "TRADE": 230,
+    "VALUE (mn)": 6.33,
+    "VOLUME": 1167977
   },
   "marketInformation": {
-    "lastTradingPrice": 5.5,
+    "lastTradingPrice": 5.3,
     "daysRange": [
-      5.4,
-      5.9
+      5.2,
+      5.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.1,
       7.7
     ],
-    "change": -0.1,
-    "daysTradeNos": 478,
-    "yesterdaysClose": 5.6,
-    "daysVolumeNos": 4104797,
-    "adjustedOpeningPrice": 5.6,
-    "daysValueMn": 23.46,
-    "openingPrice": 5.7,
-    "marketCapMn": 672,
-    "closingPrice": 5.5,
+    "change": -0.2,
+    "daysTradeNos": 230,
+    "yesterdaysClose": 5.5,
+    "daysVolumeNos": 1167977,
+    "adjustedOpeningPrice": 5.5,
+    "daysValueMn": 6.33,
+    "openingPrice": 5.5,
+    "marketCapMn": 660,
+    "closingPrice": 5.3,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.28,
+        "date": "2026-09-28",
+        "peBasic": 20,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 18.28,
+        "date": "2026-09-29",
+        "peBasic": 19.66,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 18.28,
+        "date": "2026-09-30",
+        "peBasic": 19.66,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 18.62,
+        "date": "2026-10-01",
+        "peBasic": 19.66,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.31,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 18.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 18.28,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-13T15:42:22.185Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:27.474Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 660,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DBH1STMF",
+  "cseQuote": {
+    "ltp": 5.5,
+    "open": 5.7,
+    "high": 6,
+    "low": 5.5,
+    "ycp": 5.7,
+    "change": -0.2,
+    "changePct": -3.51,
+    "trades": 3,
+    "valueMn": 0.07,
+    "volume": 12500,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

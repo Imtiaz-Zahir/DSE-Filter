@@ -2,44 +2,44 @@
   "tradingCode": "ISNLTD",
   "scripCode": "22641",
   "companyName": "Information Services Network Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ISNLTD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ISNLTD",
   "lastAGMHeldOn": "2025-12-14",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 186,
     "TRADING CODE": "ISNLTD",
     "tradingCode": "ISNLTD",
-    "LTP": 42.7,
-    "HIGH": 45.9,
-    "LOW": 42.2,
-    "CLOSEP": 42.7,
-    "YCP": 44.1,
-    "CHANGE": -1.4,
-    "TRADE": 341,
-    "VALUE (mn)": 3.36,
-    "VOLUME": 77791
+    "LTP": 48.5,
+    "HIGH": 50.6,
+    "LOW": 47.7,
+    "CLOSEP": 48.5,
+    "YCP": 48.3,
+    "CHANGE": 0.2,
+    "TRADE": 650,
+    "VALUE (mn)": 6.534,
+    "VOLUME": 133656
   },
   "marketInformation": {
-    "lastTradingPrice": 42.7,
+    "lastTradingPrice": 48.5,
     "daysRange": [
-      42.2,
-      45.9
+      47.7,
+      50.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      42.2,
-      119
+      40.4,
+      107.8
     ],
-    "change": -1.4,
-    "daysTradeNos": 341,
-    "yesterdaysClose": 44.1,
-    "daysVolumeNos": 77791,
-    "adjustedOpeningPrice": 44.1,
-    "daysValueMn": 3.36,
-    "openingPrice": 44.9,
-    "marketCapMn": 481.572,
-    "closingPrice": 42.7,
-    "freeFloatMarketCapMn": 378.139
+    "change": 0.2,
+    "daysTradeNos": 650,
+    "yesterdaysClose": 48.3,
+    "daysVolumeNos": 133656,
+    "adjustedOpeningPrice": 48.3,
+    "daysValueMn": 6.53,
+    "openingPrice": 49.6,
+    "marketCapMn": 527.436,
+    "closingPrice": 48.5,
+    "freeFloatMarketCapMn": 414.152
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01939-904381",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:55.499Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:50.233Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 13.67% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 13.67,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 527.436,
+      "totalInterestBearingDebt": 72.09
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ISNLTD",
+  "cseQuote": {
+    "ltp": 48.6,
+    "open": 48.8,
+    "high": 50,
+    "low": 48.6,
+    "ycp": 48.8,
+    "change": -0.2,
+    "changePct": -0.41,
+    "trades": 6,
+    "valueMn": 0.13,
+    "volume": 2611,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

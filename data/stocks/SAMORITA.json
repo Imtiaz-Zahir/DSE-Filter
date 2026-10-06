@@ -2,44 +2,44 @@
   "tradingCode": "SAMORITA",
   "scripCode": "20553",
   "companyName": "Samorita Hospital Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAMORITA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SAMORITA",
   "lastAGMHeldOn": "2025-12-09",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 324,
     "TRADING CODE": "SAMORITA",
     "tradingCode": "SAMORITA",
-    "LTP": 82.9,
-    "HIGH": 88.5,
-    "LOW": 82,
-    "CLOSEP": 82.9,
-    "YCP": 88.2,
-    "CHANGE": -5.3,
-    "TRADE": 961,
-    "VALUE (mn)": 17.586,
-    "VOLUME": 206430
+    "LTP": 88.4,
+    "HIGH": 92.4,
+    "LOW": 88,
+    "CLOSEP": 88.4,
+    "YCP": 90.8,
+    "CHANGE": -2.4,
+    "TRADE": 661,
+    "VALUE (mn)": 10.99,
+    "VOLUME": 123040
   },
   "marketInformation": {
-    "lastTradingPrice": 82.9,
+    "lastTradingPrice": 88.4,
     "daysRange": [
-      82,
-      88.5
+      88,
+      92.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       63,
       120
     ],
-    "change": -5.3,
-    "daysTradeNos": 961,
-    "yesterdaysClose": 88.2,
-    "daysVolumeNos": 206430,
-    "adjustedOpeningPrice": 88.2,
-    "daysValueMn": 17.59,
-    "openingPrice": 88.2,
-    "marketCapMn": 1922.839,
-    "closingPrice": 82.9,
-    "freeFloatMarketCapMn": 1064.296
+    "change": -2.4,
+    "daysTradeNos": 661,
+    "yesterdaysClose": 90.8,
+    "daysVolumeNos": 123040,
+    "adjustedOpeningPrice": 90.8,
+    "daysValueMn": 10.99,
+    "openingPrice": 90.7,
+    "marketCapMn": 1979.521,
+    "closingPrice": 88.4,
+    "freeFloatMarketCapMn": 1095.669
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 44.83
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 44.6,
-      "govtPct": 0,
-      "institutePct": 16.42,
-      "foreignPct": 0.01,
-      "publicPct": 38.97
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 44.6,
@@ -90,6 +81,15 @@
       "institutePct": 9.13,
       "foreignPct": 0.01,
       "publicPct": 46.26
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 44.6,
+      "govtPct": 0,
+      "institutePct": 18.09,
+      "foreignPct": 0.01,
+      "publicPct": 37.3
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 88.64,
+        "date": "2026-09-28",
+        "peBasic": 90.97,
         "peDiluted": null,
-        "peTrailing": 185.71
+        "peTrailing": 190.61
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 88.25,
+        "date": "2026-09-29",
+        "peBasic": 90.97,
         "peDiluted": null,
-        "peTrailing": 184.9
+        "peTrailing": 190.61
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 85.81,
+        "date": "2026-09-30",
+        "peBasic": 91.56,
         "peDiluted": null,
-        "peTrailing": 179.8
+        "peTrailing": 191.84
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 87.47,
+        "date": "2026-10-01",
+        "peBasic": 90.88,
         "peDiluted": null,
-        "peTrailing": 183.27
+        "peTrailing": 190.41
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 85.91,
+        "date": "2026-10-04",
+        "peBasic": 88.44,
         "peDiluted": null,
-        "peTrailing": 180
+        "peTrailing": 185.31
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 80.75,
+        "date": "2026-10-05",
+        "peBasic": 86.1,
         "peDiluted": null,
-        "peTrailing": 169.18
+        "peTrailing": 180.41
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 146.77,
+        "date": "2026-09-28",
+        "peBasic": 150.65,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 146.13,
+        "date": "2026-09-29",
+        "peBasic": 150.65,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 142.1,
+        "date": "2026-09-30",
+        "peBasic": 151.61,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 144.84,
+        "date": "2026-10-01",
+        "peBasic": 150.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 142.26,
+        "date": "2026-10-04",
+        "peBasic": 146.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 133.71,
+        "date": "2026-10-05",
+        "peBasic": 142.58,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01819 247 105",
     "telephoneNo": "02-48117618-9"
   },
-  "scrapedAt": "2026-09-13T15:43:53.668Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:19.711Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1979.521,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SAMORITA",
+  "cseQuote": {
+    "ltp": 90,
+    "open": 85.1,
+    "high": 90,
+    "low": 90,
+    "ycp": 85.1,
+    "change": 4.9,
+    "changePct": 5.76,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 5,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

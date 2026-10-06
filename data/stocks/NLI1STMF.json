@@ -1,0 +1,62 @@
+{
+  "tradingCode": "NLI1STMF",
+  "companyName": "NLI1STMF",
+  "sourceUrl": "https://cse.com.bd/company/companydetails/NLI1STMF",
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NLI1STMF",
+  "exchanges": [
+    "CSE"
+  ],
+  "isDseListed": false,
+  "isCseListed": true,
+  "indices": [
+    "CSI",
+    "DSES"
+  ],
+  "cseQuote": {
+    "ltp": 14,
+    "open": 14,
+    "high": 14,
+    "low": 14,
+    "ycp": 14,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.850Z"
+  },
+  "basicInformation": {
+    "sector": "Miscellaneous",
+    "typeOfInstrument": "Equity"
+  },
+  "dividendAndSurplus": {
+    "marketCategory": "A"
+  },
+  "operationalLoanStatus": {
+    "presentOperationalStatus": "Active"
+  },
+  "scrapedAt": "2026-10-06T01:10:40.046Z",
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Zero Debt (100% Debt Free)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": null,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "shariaCompliant": true
+}

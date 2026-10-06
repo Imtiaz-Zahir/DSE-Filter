@@ -2,44 +2,44 @@
   "tradingCode": "UCB",
   "scripCode": "11108",
   "companyName": "United Commercial Bank PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UCB",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UCB",
   "lastAGMHeldOn": "2026-06-11",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 374,
     "TRADING CODE": "UCB",
     "tradingCode": "UCB",
-    "LTP": 9.2,
-    "HIGH": 9.7,
-    "LOW": 9.2,
-    "CLOSEP": 9.2,
-    "YCP": 9.6,
-    "CHANGE": -0.4,
-    "TRADE": 175,
-    "VALUE (mn)": 2.442,
-    "VOLUME": 259732
+    "LTP": 8.7,
+    "HIGH": 8.8,
+    "LOW": 8.6,
+    "CLOSEP": 8.6,
+    "YCP": 8.8,
+    "CHANGE": -0.1,
+    "TRADE": 123,
+    "VALUE (mn)": 2.136,
+    "VOLUME": 247888
   },
   "marketInformation": {
-    "lastTradingPrice": 9.2,
+    "lastTradingPrice": 8.7,
     "daysRange": [
-      9.2,
-      9.7
+      8.6,
+      8.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.4,
-      11.7
+      11.1
     ],
-    "change": -0.4,
-    "daysTradeNos": 175,
-    "yesterdaysClose": 9.6,
-    "daysVolumeNos": 259732,
-    "adjustedOpeningPrice": 9.6,
-    "daysValueMn": 2.44,
-    "openingPrice": 9.6,
-    "marketCapMn": 22325.413,
-    "closingPrice": 9.2,
-    "freeFloatMarketCapMn": 19851.03
+    "change": -0.1,
+    "daysTradeNos": 123,
+    "yesterdaysClose": 8.8,
+    "daysVolumeNos": 247888,
+    "adjustedOpeningPrice": 8.8,
+    "daysValueMn": 2.14,
+    "openingPrice": 8.7,
+    "marketCapMn": 20464.962,
+    "closingPrice": 8.6,
+    "freeFloatMarketCapMn": 18196.778
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 20,
+        "peDiluted": null,
+        "peTrailing": 35.2
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 20.23,
         "peDiluted": null,
         "peTrailing": 35.6
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 20.45,
+        "date": "2026-09-30",
+        "peBasic": 20.23,
         "peDiluted": null,
-        "peTrailing": 36
+        "peTrailing": 35.6
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 20.45,
+        "date": "2026-10-01",
+        "peBasic": 19.77,
         "peDiluted": null,
-        "peTrailing": 36
+        "peTrailing": 34.8
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 21.59,
+        "date": "2026-10-04",
+        "peBasic": 20,
         "peDiluted": null,
-        "peTrailing": 38
+        "peTrailing": 35.2
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 21.82,
+        "date": "2026-10-05",
+        "peBasic": 19.55,
         "peDiluted": null,
-        "peTrailing": 38.4
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 20.91,
-        "peDiluted": null,
-        "peTrailing": 36.8
+        "peTrailing": 34.4
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 58.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
         "peBasic": 59.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 60,
+        "date": "2026-09-30",
+        "peBasic": 59.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 60,
+        "date": "2026-10-01",
+        "peBasic": 58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 63.33,
+        "date": "2026-10-04",
+        "peBasic": 58.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 64,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 61.33,
+        "date": "2026-10-05",
+        "peBasic": 57.33,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01611 027910",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:14.657Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:30.365Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (315.39%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 315.39,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 20464.962,
+      "totalInterestBearingDebt": 64545.44
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UCB",
+  "cseQuote": {
+    "ltp": 8.7,
+    "open": 8.6,
+    "high": 8.7,
+    "low": 8.7,
+    "ycp": 8.6,
+    "change": 0.1,
+    "changePct": 1.16,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

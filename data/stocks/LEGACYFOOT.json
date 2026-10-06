@@ -2,44 +2,44 @@
   "tradingCode": "LEGACYFOOT",
   "scripCode": "23636",
   "companyName": "Legacy Footwear Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LEGACYFOOT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=LEGACYFOOT",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 204,
     "TRADING CODE": "LEGACYFOOT",
     "tradingCode": "LEGACYFOOT",
-    "LTP": 69.1,
-    "HIGH": 71.4,
-    "LOW": 69,
-    "CLOSEP": 69.1,
-    "YCP": 71,
-    "CHANGE": -1.9,
-    "TRADE": 429,
-    "VALUE (mn)": 8.239,
-    "VOLUME": 118076
+    "LTP": 68.1,
+    "HIGH": 70.4,
+    "LOW": 67.9,
+    "CLOSEP": 68.1,
+    "YCP": 69.7,
+    "CHANGE": -1.6,
+    "TRADE": 691,
+    "VALUE (mn)": 14.531,
+    "VOLUME": 211036
   },
   "marketInformation": {
-    "lastTradingPrice": 69.1,
+    "lastTradingPrice": 68.1,
     "daysRange": [
-      69,
-      71.4
+      67.9,
+      70.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       46.2,
       85.4
     ],
-    "change": -1.9,
-    "daysTradeNos": 429,
-    "yesterdaysClose": 71,
-    "daysVolumeNos": 118076,
-    "adjustedOpeningPrice": 71,
-    "daysValueMn": 8.24,
-    "openingPrice": 71.4,
-    "marketCapMn": 3058.679,
-    "closingPrice": 69.1,
-    "freeFloatMarketCapMn": 2060.036
+    "change": -1.6,
+    "daysTradeNos": 691,
+    "yesterdaysClose": 69.7,
+    "daysVolumeNos": 211036,
+    "adjustedOpeningPrice": 69.7,
+    "daysValueMn": 14.53,
+    "openingPrice": 69.1,
+    "marketCapMn": 3002.675,
+    "closingPrice": 68.1,
+    "freeFloatMarketCapMn": 2022.317
   },
   "basicInformation": {
     "authorizedCapitalMn": 750,
@@ -74,15 +74,6 @@
       "publicPct": 30.55
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 32.64,
-      "govtPct": 0,
-      "institutePct": 33.2,
-      "foreignPct": 0,
-      "publicPct": 34.16
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 32.64,
@@ -90,6 +81,15 @@
       "institutePct": 31.95,
       "foreignPct": 0,
       "publicPct": 35.41
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 32.64,
+      "govtPct": 0,
+      "institutePct": 32.49,
+      "foreignPct": 0,
+      "publicPct": 34.87
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1370.63,
+        "date": "2026-09-28",
+        "peBasic": 1276.88,
         "peDiluted": null,
-        "peTrailing": 317.83
+        "peTrailing": 296.09
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1376.25,
+        "date": "2026-09-29",
+        "peBasic": 1278.75,
         "peDiluted": null,
-        "peTrailing": 319.13
+        "peTrailing": 296.52
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1359.38,
+        "date": "2026-09-30",
+        "peBasic": 1306.88,
         "peDiluted": null,
-        "peTrailing": 315.22
+        "peTrailing": 303.04
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1353.75,
+        "date": "2026-10-01",
+        "peBasic": 1336.88,
         "peDiluted": null,
-        "peTrailing": 313.91
+        "peTrailing": 310
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1331.25,
+        "date": "2026-10-04",
+        "peBasic": 1306.88,
         "peDiluted": null,
-        "peTrailing": 308.7
+        "peTrailing": 303.04
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1295.63,
+        "date": "2026-10-05",
+        "peBasic": 1276.88,
         "peDiluted": null,
-        "peTrailing": 300.43
+        "peTrailing": 296.09
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1462,
+        "date": "2026-09-28",
+        "peBasic": 1362,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1468,
+        "date": "2026-09-29",
+        "peBasic": 1364,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1450,
+        "date": "2026-09-30",
+        "peBasic": 1394,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1444,
+        "date": "2026-10-01",
+        "peBasic": 1426,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1420,
+        "date": "2026-10-04",
+        "peBasic": 1394,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1382,
+        "date": "2026-10-05",
+        "peBasic": 1362,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01717 829657",
     "telephoneNo": "02-8415983"
   },
-  "scrapedAt": "2026-09-13T15:43:05.711Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:53.606Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 3002.675,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/LEGACYFOOT",
+  "cseQuote": {
+    "ltp": 68.7,
+    "open": 68.7,
+    "high": 68.7,
+    "low": 68.7,
+    "ycp": 68.7,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

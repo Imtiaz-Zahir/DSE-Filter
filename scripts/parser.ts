@@ -16,6 +16,7 @@ import type {
   SearchIndexStock,
   DividendParsedInfo,
 } from "./types";
+import { calculateShariahAudit } from "../lib/shariah-screener";
 
 /**
  * Parses numeric values safely from strings or numbers, stripping commas,
@@ -590,6 +591,14 @@ export function cleanStock(rawStock: RawStock): Stock {
     addressContact,
     scrapedAt: rawStock.scrapedAt,
     shariaCompliant: Boolean(rawStock.shariaCompliant),
+    shariahAudit: calculateShariahAudit({
+      tradingCode: rawStock.tradingCode,
+      companyName: rawStock.companyName,
+      basicInformation,
+      marketInformation,
+      operationalLoanStatus,
+      shariaCompliant: Boolean(rawStock.shariaCompliant),
+    }),
   };
 }
 
@@ -670,12 +679,54 @@ export function deriveScreenerStock(stock: Stock): ScreenerStock {
   const instrument = stock.basicInformation?.typeOfInstrument || "Equity";
   const status = stock.operationalLoanStatus?.presentOperationalStatus || "Active";
 
-  const ltp =
+  const isDse = stock.isDseListed ?? true;
+  const isCse = stock.isCseListed ?? false;
+  const exchanges: ("DSE" | "CSE")[] =
+    stock.exchanges && stock.exchanges.length > 0
+      ? stock.exchanges
+      : isDse && isCse
+      ? ["DSE", "CSE"]
+      : isDse
+      ? ["DSE"]
+      : ["CSE"];
+
+  // DSE quotes (Primary)
+  let ltp =
     stock.overview?.LTP ?? stock.marketInformation?.lastTradingPrice ?? null;
-  const change =
+  let change =
     stock.overview?.CHANGE ?? stock.marketInformation?.change ?? null;
-  const ycp =
+  let ycp =
     stock.overview?.YCP ?? stock.marketInformation?.yesterdaysClose ?? null;
+  let high = stock.overview?.HIGH ?? stock.marketInformation?.daysRange?.[1] ?? null;
+  let low = stock.overview?.LOW ?? stock.marketInformation?.daysRange?.[0] ?? null;
+  let volume = stock.overview?.VOLUME ?? stock.marketInformation?.daysVolumeNos ?? null;
+  let turnover =
+    stock.overview?.["VALUE (mn)"] ??
+    stock.marketInformation?.daysValueMn ??
+    null;
+  let trades = stock.overview?.TRADE ?? stock.marketInformation?.daysTradeNos ?? null;
+
+  // Secondary CSE quotes
+  const cseQuote = stock.cseQuote || null;
+  const cseLtp = cseQuote?.ltp ?? null;
+  const cseChange = cseQuote?.change ?? null;
+  const cseChangePct = cseQuote?.changePct ?? null;
+  const cseVolume = cseQuote?.volume ?? null;
+  const cseTurnover = cseQuote?.valueMn ?? null;
+  const cseTrades = cseQuote?.trades ?? null;
+  const cseYcp = cseQuote?.ycp ?? null;
+
+  // Fallback to CSE if not listed on DSE
+  if (!isDse && isCse && cseQuote) {
+    ltp = cseLtp ?? ltp;
+    change = cseChange ?? change;
+    ycp = cseYcp ?? ycp;
+    high = cseQuote.high ?? high;
+    low = cseQuote.low ?? low;
+    volume = cseVolume ?? volume;
+    turnover = cseTurnover ?? turnover;
+    trades = cseTrades ?? trades;
+  }
 
   const changePct =
     change !== null && ycp && ycp > 0
@@ -683,6 +734,16 @@ export function deriveScreenerStock(stock: Stock): ScreenerStock {
       : ltp !== null && ycp && ycp > 0
       ? +(((ltp - ycp) / ycp) * 100).toFixed(2)
       : null;
+
+  // Dual-Exchange Spread (DSE vs CSE)
+  let spreadBdt: number | null = null;
+  let spreadPct: number | null = null;
+  if (ltp !== null && cseLtp !== null) {
+    spreadBdt = +(ltp - cseLtp).toFixed(2);
+    if (ltp > 0) {
+      spreadPct = +(((ltp - cseLtp) / ltp) * 100).toFixed(2);
+    }
+  }
 
   const audPe = getAuditedPe(stock);
   const unAudPe = getUnauditedPe(stock);
@@ -722,20 +783,47 @@ export function deriveScreenerStock(stock: Stock): ScreenerStock {
       ? div.dividendYieldPct
       : null;
 
+  // Top Credit Rating String
+  let creditRating: string | null = null;
+  if (Array.isArray(stock.creditRatings) && stock.creditRatings.length > 0) {
+    const r = stock.creditRatings[0];
+    if (r.longTerm) {
+      creditRating = r.outlook ? `${r.longTerm} (${r.outlook})` : r.longTerm;
+    }
+  }
+
   return {
     tradingCode: code,
     scripCode: stock.scripCode || null,
     companyName: stock.companyName || code,
     sector,
     category,
+    exchanges,
+    isDseListed: isDse,
+    isCseListed: isCse,
     shariaCompliant: Boolean(stock.shariaCompliant),
+    indices: stock.indices || [],
     ltp,
     change,
     ycp,
     changePct,
-    high: stock.overview?.HIGH ?? stock.marketInformation?.daysRange?.[1] ?? null,
-    low: stock.overview?.LOW ?? stock.marketInformation?.daysRange?.[0] ?? null,
+    high,
+    low,
     range52Week: stock.marketInformation?.movingRange52Weeks || null,
+    volume,
+    turnover,
+    trades,
+    cseLtp,
+    cseChange,
+    cseChangePct,
+    cseVolume,
+    cseTurnover,
+    cseTrades,
+    cseYcp,
+    spreadBdt,
+    spreadPct,
+    creditRating,
+    creditRatings: stock.creditRatings || [],
     pe,
     auditedPe: audPe,
     unauditedPe: unAudPe,
@@ -750,12 +838,6 @@ export function deriveScreenerStock(stock: Stock): ScreenerStock {
     freeFloatCap: stock.marketInformation?.freeFloatMarketCapMn ?? null,
     paidUpCap: stock.basicInformation?.paidUpCapitalMn ?? null,
     authorizedCap: stock.basicInformation?.authorizedCapitalMn ?? null,
-    volume: stock.overview?.VOLUME ?? stock.marketInformation?.daysVolumeNos ?? null,
-    turnover:
-      stock.overview?.["VALUE (mn)"] ??
-      stock.marketInformation?.daysValueMn ??
-      null,
-    trades: stock.overview?.TRADE ?? stock.marketInformation?.daysTradeNos ?? null,
     debt: stock.operationalLoanStatus?.longTermLoanMn ?? 0,
     listingYear: stock.dividendAndSurplus?.listingYear ?? null,
     instrumentType: instrument,
@@ -768,6 +850,8 @@ export function deriveScreenerStock(stock: Stock): ScreenerStock {
     publicPct: typeof sh?.publicPct === "number" ? sh.publicPct : null,
     govtPct: typeof sh?.govtPct === "number" ? sh.govtPct : null,
     shareholdingPeriod: sh?.period || sh?.asOfDate || null,
+    shariahAudit: stock.shariahAudit || calculateShariahAudit(stock),
+    dividendPurificationPct: (stock.shariahAudit || calculateShariahAudit(stock)).metrics.dividendPurificationPct,
   };
 }
 
@@ -783,6 +867,7 @@ export function deriveSearchIndexItem(
     sector: stock.sector || "Miscellaneous",
     category: stock.category || "Unknown",
     shariaCompliant: Boolean(stock.shariaCompliant),
+    exchanges: stock.exchanges,
     ltp: stock.ltp ?? null,
     change: stock.change ?? null,
     changePct: stock.changePct ?? null,

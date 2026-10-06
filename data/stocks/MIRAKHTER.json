@@ -2,44 +2,44 @@
   "tradingCode": "MIRAKHTER",
   "scripCode": "13250",
   "companyName": "Mir Akhter Hossain Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MIRAKHTER",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MIRAKHTER",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 229,
     "TRADING CODE": "MIRAKHTER",
     "tradingCode": "MIRAKHTER",
-    "LTP": 31.2,
-    "HIGH": 32.5,
-    "LOW": 30.9,
-    "CLOSEP": 31.2,
-    "YCP": 32.4,
-    "CHANGE": -1.2,
-    "TRADE": 327,
-    "VALUE (mn)": 5.388,
-    "VOLUME": 170468
+    "LTP": 32,
+    "HIGH": 33.5,
+    "LOW": 31.7,
+    "CLOSEP": 32,
+    "YCP": 33.1,
+    "CHANGE": -1.1,
+    "TRADE": 247,
+    "VALUE (mn)": 4.296,
+    "VOLUME": 132092
   },
   "marketInformation": {
-    "lastTradingPrice": 31.2,
+    "lastTradingPrice": 32,
     "daysRange": [
-      30.9,
-      32.5
+      31.7,
+      33.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.9,
       48.7
     ],
-    "change": -1.2,
-    "daysTradeNos": 327,
-    "yesterdaysClose": 32.4,
-    "daysVolumeNos": 170468,
-    "adjustedOpeningPrice": 32.4,
-    "daysValueMn": 5.39,
-    "openingPrice": 32.4,
-    "marketCapMn": 3912.998,
-    "closingPrice": 31.2,
-    "freeFloatMarketCapMn": 1115.793
+    "change": -1.1,
+    "daysTradeNos": 247,
+    "yesterdaysClose": 33.1,
+    "daysVolumeNos": 132092,
+    "adjustedOpeningPrice": 33.1,
+    "daysValueMn": 4.3,
+    "openingPrice": 33.2,
+    "marketCapMn": 3997.538,
+    "closingPrice": 32,
+    "freeFloatMarketCapMn": 1139.899
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 38.41,
+        "date": "2026-09-28",
+        "peBasic": 39.2,
         "peDiluted": null,
-        "peTrailing": 24.49
+        "peTrailing": 25
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 38.18,
+        "date": "2026-09-29",
+        "peBasic": 38.64,
         "peDiluted": null,
-        "peTrailing": 24.35
+        "peTrailing": 24.64
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 39.09,
+        "peDiluted": null,
+        "peTrailing": 24.93
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 38.75,
+        "peDiluted": null,
+        "peTrailing": 24.71
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 37.61,
         "peDiluted": null,
         "peTrailing": 23.99
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 37.73,
+        "date": "2026-10-05",
+        "peBasic": 36.36,
         "peDiluted": null,
-        "peTrailing": 24.06
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 36.82,
-        "peDiluted": null,
-        "peTrailing": 23.48
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 35.45,
-        "peDiluted": null,
-        "peTrailing": 22.61
+        "peTrailing": 23.19
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.65,
+        "date": "2026-09-28",
+        "peBasic": 20.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.53,
+        "date": "2026-09-29",
+        "peBasic": 19.77,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
+        "peBasic": 20,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 19.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 19.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.3,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 18.84,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 18.14,
+        "date": "2026-10-05",
+        "peBasic": 18.6,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01313-078620",
     "telephoneNo": "+88 02 55138529"
   },
-  "scrapedAt": "2026-09-13T15:43:12.393Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:59.089Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (390.18%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 390.18,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3997.538,
+      "totalInterestBearingDebt": 15597.59
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MIRAKHTER",
+  "cseQuote": {
+    "ltp": 31.6,
+    "open": 31.6,
+    "high": 31.6,
+    "low": 31.6,
+    "ycp": 31.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.848Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

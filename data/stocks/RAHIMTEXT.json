@@ -2,44 +2,44 @@
   "tradingCode": "RAHIMTEXT",
   "scripCode": "17410",
   "companyName": "Rahim Textile Mills PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RAHIMTEXT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RAHIMTEXT",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 299,
     "TRADING CODE": "RAHIMTEXT",
     "tradingCode": "RAHIMTEXT",
-    "LTP": 173.2,
-    "HIGH": 182.8,
-    "LOW": 173.1,
-    "CLOSEP": 173.7,
-    "YCP": 182.7,
-    "CHANGE": -9.5,
-    "TRADE": 226,
-    "VALUE (mn)": 1.878,
-    "VOLUME": 10545
+    "LTP": 180.2,
+    "HIGH": 184.5,
+    "LOW": 180,
+    "CLOSEP": 180.2,
+    "YCP": 180.4,
+    "CHANGE": -0.2,
+    "TRADE": 246,
+    "VALUE (mn)": 1.517,
+    "VOLUME": 8383
   },
   "marketInformation": {
-    "lastTradingPrice": 173.2,
+    "lastTradingPrice": 180.2,
     "daysRange": [
-      173.1,
-      182.8
+      180,
+      184.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       135.2,
       271.9
     ],
-    "change": -9.5,
-    "daysTradeNos": 226,
-    "yesterdaysClose": 182.7,
-    "daysVolumeNos": 10545,
-    "adjustedOpeningPrice": 182.7,
-    "daysValueMn": 1.88,
-    "openingPrice": 182.7,
-    "marketCapMn": 1728.284,
-    "closingPrice": 173.7,
-    "freeFloatMarketCapMn": 502.175
+    "change": -0.2,
+    "daysTradeNos": 246,
+    "yesterdaysClose": 180.4,
+    "daysVolumeNos": 8383,
+    "adjustedOpeningPrice": 180.4,
+    "daysValueMn": 1.52,
+    "openingPrice": 184.5,
+    "marketCapMn": 1706.527,
+    "closingPrice": 180.2,
+    "freeFloatMarketCapMn": 495.853
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 21.67
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 70.94,
-      "govtPct": 0,
-      "institutePct": 7.35,
-      "foreignPct": 0,
-      "publicPct": 21.71
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 70.94,
@@ -90,6 +81,15 @@
       "institutePct": 7.17,
       "foreignPct": 0,
       "publicPct": 21.89
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 70.94,
+      "govtPct": 0,
+      "institutePct": 7.22,
+      "foreignPct": 0,
+      "publicPct": 21.84
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 68.88,
+        "date": "2026-09-28",
+        "peBasic": 65.83,
         "peDiluted": null,
-        "peTrailing": 74.2
+        "peTrailing": 70.9
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 68.08,
+        "date": "2026-09-29",
+        "peBasic": 65.61,
         "peDiluted": null,
-        "peTrailing": 73.33
+        "peTrailing": 70.67
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 66.66,
+        "date": "2026-09-30",
+        "peBasic": 66.19,
         "peDiluted": null,
-        "peTrailing": 71.8
+        "peTrailing": 71.29
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 66.66,
+        "date": "2026-10-01",
+        "peBasic": 65.72,
         "peDiluted": null,
-        "peTrailing": 71.8
+        "peTrailing": 70.78
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 66.52,
+        "date": "2026-10-04",
+        "peBasic": 65.68,
         "peDiluted": null,
-        "peTrailing": 71.65
+        "peTrailing": 70.75
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 63.24,
+        "date": "2026-10-05",
+        "peBasic": 65.61,
         "peDiluted": null,
-        "peTrailing": 68.12
+        "peTrailing": 70.67
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 146.67,
+        "date": "2026-09-28",
+        "peBasic": 140.16,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 144.96,
+        "date": "2026-09-29",
+        "peBasic": 139.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 141.94,
+        "date": "2026-09-30",
+        "peBasic": 140.93,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 141.94,
+        "date": "2026-10-01",
+        "peBasic": 139.92,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 141.63,
+        "date": "2026-10-04",
+        "peBasic": 139.84,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 134.65,
+        "date": "2026-10-05",
+        "peBasic": 139.69,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "+88 01709 998 863",
     "telephoneNo": "+8809612111177-92 Ext.-185, +880-2-8878062, +880-2-8878065"
   },
-  "scrapedAt": "2026-09-13T15:43:39.871Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:14.585Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 18% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 18,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1706.527,
+      "totalInterestBearingDebt": 307.11
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RAHIMTEXT",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

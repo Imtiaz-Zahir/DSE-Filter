@@ -2,44 +2,44 @@
   "tradingCode": "MONNOFABR",
   "scripCode": "17439",
   "companyName": "Monno Fabrics Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MONNOFABR",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MONNOFABR",
   "lastAGMHeldOn": "2025-12-14",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 235,
     "TRADING CODE": "MONNOFABR",
     "tradingCode": "MONNOFABR",
-    "LTP": 19.4,
-    "HIGH": 20.5,
-    "LOW": 19.2,
-    "CLOSEP": 19.4,
-    "YCP": 20.5,
-    "CHANGE": -1.1,
-    "TRADE": 807,
-    "VALUE (mn)": 18.273,
-    "VOLUME": 922970
+    "LTP": 18.4,
+    "HIGH": 19.4,
+    "LOW": 18.3,
+    "CLOSEP": 18.4,
+    "YCP": 19.2,
+    "CHANGE": -0.8,
+    "TRADE": 600,
+    "VALUE (mn)": 11.093,
+    "VOLUME": 593175
   },
   "marketInformation": {
-    "lastTradingPrice": 19.4,
+    "lastTradingPrice": 18.4,
     "daysRange": [
-      19.2,
-      20.5
+      18.3,
+      19.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.8,
       27.3
     ],
-    "change": -1.1,
-    "daysTradeNos": 807,
-    "yesterdaysClose": 20.5,
-    "daysVolumeNos": 922970,
-    "adjustedOpeningPrice": 20.5,
-    "daysValueMn": 18.27,
-    "openingPrice": 20.5,
-    "marketCapMn": 2357.5,
-    "closingPrice": 19.4,
-    "freeFloatMarketCapMn": 1629.082
+    "change": -0.8,
+    "daysTradeNos": 600,
+    "yesterdaysClose": 19.2,
+    "daysVolumeNos": 593175,
+    "adjustedOpeningPrice": 19.2,
+    "daysValueMn": 11.09,
+    "openingPrice": 19.4,
+    "marketCapMn": 2208,
+    "closingPrice": 18.4,
+    "freeFloatMarketCapMn": 1525.774
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1560,
+        "date": "2026-09-28",
+        "peBasic": 1470,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1597.5,
+        "date": "2026-09-29",
+        "peBasic": 1485,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1552.5,
+        "date": "2026-09-30",
+        "peBasic": 1470,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1560,
+        "date": "2026-10-01",
+        "peBasic": 1470,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1537.5,
+        "date": "2026-10-04",
+        "peBasic": 1440,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1455,
+        "date": "2026-10-05",
+        "peBasic": 1380,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 520,
+        "date": "2026-09-28",
+        "peBasic": 490,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 532.5,
+        "date": "2026-09-29",
+        "peBasic": 495,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 517.5,
+        "date": "2026-09-30",
+        "peBasic": 490,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 520,
+        "date": "2026-10-01",
+        "peBasic": 490,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 512.5,
+        "date": "2026-10-04",
+        "peBasic": 480,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 485,
+        "date": "2026-10-05",
+        "peBasic": 460,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "02 47123449"
   },
-  "scrapedAt": "2026-09-13T15:43:14.649Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:59.887Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (163.49%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 163.49,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2208,
+      "totalInterestBearingDebt": 3609.85
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MONNOFABR",
+  "cseQuote": {
+    "ltp": 18.6,
+    "open": 19.2,
+    "high": 18.6,
+    "low": 18.5,
+    "ycp": 19.2,
+    "change": -0.6,
+    "changePct": -3.12,
+    "trades": 3,
+    "valueMn": 0.02,
+    "volume": 1300,
+    "updatedDate": "2026-10-06T01:10:39.849Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

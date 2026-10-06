@@ -2,44 +2,44 @@
   "tradingCode": "SIMTEX",
   "scripCode": "17469",
   "companyName": "Simtex Industries PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SIMTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SIMTEX",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 342,
     "TRADING CODE": "SIMTEX",
     "tradingCode": "SIMTEX",
-    "LTP": 23.8,
-    "HIGH": 24.4,
-    "LOW": 23.7,
-    "CLOSEP": 23.8,
-    "YCP": 24.4,
-    "CHANGE": -0.6,
-    "TRADE": 494,
-    "VALUE (mn)": 11.442,
-    "VOLUME": 478066
+    "LTP": 24.4,
+    "HIGH": 25.4,
+    "LOW": 24.3,
+    "CLOSEP": 24.4,
+    "YCP": 25.3,
+    "CHANGE": -0.9,
+    "TRADE": 805,
+    "VALUE (mn)": 26.199,
+    "VOLUME": 1061526
   },
   "marketInformation": {
-    "lastTradingPrice": 23.8,
+    "lastTradingPrice": 24.4,
     "daysRange": [
-      23.7,
-      24.4
+      24.3,
+      25.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      18.3,
+      19.9,
       34.5
     ],
-    "change": -0.6,
-    "daysTradeNos": 494,
-    "yesterdaysClose": 24.4,
-    "daysVolumeNos": 478066,
-    "adjustedOpeningPrice": 24.4,
-    "daysValueMn": 11.44,
-    "openingPrice": 24.4,
-    "marketCapMn": 1942.127,
-    "closingPrice": 23.8,
-    "freeFloatMarketCapMn": 1327.416
+    "change": -0.9,
+    "daysTradeNos": 805,
+    "yesterdaysClose": 25.3,
+    "daysVolumeNos": 1061526,
+    "adjustedOpeningPrice": 25.3,
+    "daysValueMn": 26.2,
+    "openingPrice": 25.3,
+    "marketCapMn": 2013.763,
+    "closingPrice": 24.4,
+    "freeFloatMarketCapMn": 1376.378
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 57.22
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 31.65,
-      "govtPct": 0,
-      "institutePct": 7.36,
-      "foreignPct": 0,
-      "publicPct": 60.99
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 31.65,
@@ -90,6 +81,15 @@
       "institutePct": 4.32,
       "foreignPct": 0,
       "publicPct": 64.03
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 31.65,
+      "govtPct": 0,
+      "institutePct": 3.62,
+      "foreignPct": 0,
+      "publicPct": 64.73
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.98,
-        "peDiluted": null,
-        "peTrailing": 21.7
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 19.45,
-        "peDiluted": null,
-        "peTrailing": 22.23
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 19.06,
-        "peDiluted": null,
-        "peTrailing": 21.79
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 19.3,
-        "peDiluted": null,
-        "peTrailing": 22.05
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 19.06,
-        "peDiluted": null,
-        "peTrailing": 21.79
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 18.59,
         "peDiluted": null,
         "peTrailing": 21.25
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 18.91,
+        "peDiluted": null,
+        "peTrailing": 21.61
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 18.91,
+        "peDiluted": null,
+        "peTrailing": 21.61
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 19.77,
+        "peDiluted": null,
+        "peTrailing": 22.59
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 19.77,
+        "peDiluted": null,
+        "peTrailing": 22.59
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 19.06,
+        "peDiluted": null,
+        "peTrailing": 21.79
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.59,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 24.17,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 23.69,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 23.98,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 23.69,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 23.11,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 23.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 23.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 24.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 24.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 23.69,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01404451250",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:00.251Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:23.463Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.65% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.65,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2013.763,
+      "totalInterestBearingDebt": 53.39
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SIMTEX",
+  "cseQuote": {
+    "ltp": 24.7,
+    "open": 25.4,
+    "high": 25.7,
+    "low": 24.4,
+    "ycp": 25.4,
+    "change": -0.7,
+    "changePct": -2.76,
+    "trades": 20,
+    "valueMn": 0.36,
+    "volume": 14340,
+    "updatedDate": "2026-10-06T01:10:39.858Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "SONARBAINS",
   "scripCode": "25730",
   "companyName": "Sonar Bangla Insurance Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONARBAINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SONARBAINS",
   "lastAGMHeldOn": "2026-08-13",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 350,
     "TRADING CODE": "SONARBAINS",
     "tradingCode": "SONARBAINS",
-    "LTP": 35.1,
-    "HIGH": 36.8,
-    "LOW": 34.6,
-    "CLOSEP": 35.1,
-    "YCP": 37,
-    "CHANGE": -1.9,
-    "TRADE": 292,
-    "VALUE (mn)": 4.654,
-    "VOLUME": 129597
+    "LTP": 41,
+    "HIGH": 42.5,
+    "LOW": 40.8,
+    "CLOSEP": 41,
+    "YCP": 42.1,
+    "CHANGE": -1.1,
+    "TRADE": 1898,
+    "VALUE (mn)": 48.439,
+    "VOLUME": 1167625
   },
   "marketInformation": {
-    "lastTradingPrice": 35.1,
+    "lastTradingPrice": 41,
     "daysRange": [
-      34.6,
-      36.8
+      40.8,
+      42.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.4,
       50.8
     ],
-    "change": -1.9,
-    "daysTradeNos": 292,
-    "yesterdaysClose": 37,
-    "daysVolumeNos": 129597,
-    "adjustedOpeningPrice": 37,
-    "daysValueMn": 4.65,
-    "openingPrice": 36.4,
-    "marketCapMn": 1633.391,
-    "closingPrice": 35.1,
-    "freeFloatMarketCapMn": 1031.644
+    "change": -1.1,
+    "daysTradeNos": 1898,
+    "yesterdaysClose": 42.1,
+    "daysVolumeNos": 1167625,
+    "adjustedOpeningPrice": 42.1,
+    "daysValueMn": 48.44,
+    "openingPrice": 41.8,
+    "marketCapMn": 1858.534,
+    "closingPrice": 41,
+    "freeFloatMarketCapMn": 1173.844
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 51.15
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 36.85,
-      "govtPct": 0,
-      "institutePct": 13.48,
-      "foreignPct": 0,
-      "publicPct": 49.67
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 36.85,
@@ -90,6 +81,15 @@
       "institutePct": 11.81,
       "foreignPct": 0,
       "publicPct": 51.34
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 39.52,
+      "govtPct": 0,
+      "institutePct": 12.94,
+      "foreignPct": 0,
+      "publicPct": 47.54
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 34.71,
+        "date": "2026-09-28",
+        "peBasic": 35.67,
         "peDiluted": null,
-        "peTrailing": 112.81
+        "peTrailing": 115.94
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 35.19,
+        "date": "2026-09-29",
+        "peBasic": 35.96,
         "peDiluted": null,
-        "peTrailing": 114.38
+        "peTrailing": 116.88
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 34.81,
+        "date": "2026-09-30",
+        "peBasic": 36.73,
         "peDiluted": null,
-        "peTrailing": 113.13
+        "peTrailing": 119.38
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 35.29,
+        "date": "2026-10-01",
+        "peBasic": 37.6,
         "peDiluted": null,
-        "peTrailing": 114.69
+        "peTrailing": 122.19
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 35.58,
+        "date": "2026-10-04",
+        "peBasic": 40.48,
         "peDiluted": null,
-        "peTrailing": 115.63
+        "peTrailing": 131.56
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 33.75,
+        "date": "2026-10-05",
+        "peBasic": 39.42,
         "peDiluted": null,
-        "peTrailing": 109.69
+        "peTrailing": 128.13
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 52.32,
-        "peDiluted": 54.7
+        "date": "2026-09-28",
+        "peBasic": 53.77,
+        "peDiluted": 56.21
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 53.04,
-        "peDiluted": 55.45
+        "date": "2026-09-29",
+        "peBasic": 54.2,
+        "peDiluted": 56.67
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 52.46,
-        "peDiluted": 54.85
+        "date": "2026-09-30",
+        "peBasic": 55.36,
+        "peDiluted": 57.88
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 53.19,
-        "peDiluted": 55.61
+        "date": "2026-10-01",
+        "peBasic": 56.67,
+        "peDiluted": 59.24
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 53.62,
-        "peDiluted": 56.06
+        "date": "2026-10-04",
+        "peBasic": 61.01,
+        "peDiluted": 63.79
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 50.87,
-        "peDiluted": 53.18
+        "date": "2026-10-05",
+        "peBasic": 59.42,
+        "peDiluted": 62.12
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01717 356 168",
     "telephoneNo": "02223354211, 02223354212 (PABX) 02223354230 (Direct)"
   },
-  "scrapedAt": "2026-09-13T15:44:03.622Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:24.376Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.66% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.66,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1858.534,
+      "totalInterestBearingDebt": 49.51
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SONARBAINS",
+  "cseQuote": {
+    "ltp": 42,
+    "open": 42,
+    "high": 42,
+    "low": 42,
+    "ycp": 42,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

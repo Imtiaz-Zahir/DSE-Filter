@@ -2,44 +2,44 @@
   "tradingCode": "QUEENSOUTH",
   "scripCode": "17476",
   "companyName": "Queen South Textile Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=QUEENSOUTH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=QUEENSOUTH",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 297,
     "TRADING CODE": "QUEENSOUTH",
     "tradingCode": "QUEENSOUTH",
-    "LTP": 13.7,
-    "HIGH": 14.5,
-    "LOW": 13.5,
-    "CLOSEP": 13.7,
-    "YCP": 14.5,
-    "CHANGE": -0.8,
-    "TRADE": 693,
-    "VALUE (mn)": 16.675,
-    "VOLUME": 1198513
+    "LTP": 13.2,
+    "HIGH": 13.9,
+    "LOW": 13.1,
+    "CLOSEP": 13.2,
+    "YCP": 13.7,
+    "CHANGE": -0.5,
+    "TRADE": 473,
+    "VALUE (mn)": 8.8,
+    "VOLUME": 655064
   },
   "marketInformation": {
-    "lastTradingPrice": 13.7,
+    "lastTradingPrice": 13.2,
     "daysRange": [
-      13.5,
-      14.5
+      13.1,
+      13.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.5,
       21.1
     ],
-    "change": -0.8,
-    "daysTradeNos": 693,
-    "yesterdaysClose": 14.5,
-    "daysVolumeNos": 1198513,
-    "adjustedOpeningPrice": 14.5,
-    "daysValueMn": 16.68,
-    "openingPrice": 14.5,
-    "marketCapMn": 2212.721,
-    "closingPrice": 13.7,
-    "freeFloatMarketCapMn": 1009.676
+    "change": -0.5,
+    "daysTradeNos": 473,
+    "yesterdaysClose": 13.7,
+    "daysVolumeNos": 655064,
+    "adjustedOpeningPrice": 13.7,
+    "daysValueMn": 8.8,
+    "openingPrice": 13.9,
+    "marketCapMn": 2090.64,
+    "closingPrice": 13.2,
+    "freeFloatMarketCapMn": 953.97
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 45,
+        "date": "2026-09-28",
+        "peBasic": 43.44,
         "peDiluted": null,
-        "peTrailing": 180
+        "peTrailing": 173.75
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 47.81,
+        "date": "2026-09-29",
+        "peBasic": 44.06,
         "peDiluted": null,
-        "peTrailing": 191.25
+        "peTrailing": 176.25
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 45.63,
+        "date": "2026-09-30",
+        "peBasic": 43.75,
         "peDiluted": null,
-        "peTrailing": 182.5
+        "peTrailing": 175
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 45.63,
+        "date": "2026-10-01",
+        "peBasic": 44.06,
         "peDiluted": null,
-        "peTrailing": 182.5
+        "peTrailing": 176.25
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 45.31,
-        "peDiluted": null,
-        "peTrailing": 181.25
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 42.81,
         "peDiluted": null,
         "peTrailing": 171.25
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 41.25,
+        "peDiluted": null,
+        "peTrailing": 165
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 72,
+        "date": "2026-09-28",
+        "peBasic": 69.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 76.5,
+        "date": "2026-09-29",
+        "peBasic": 70.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 73,
+        "date": "2026-09-30",
+        "peBasic": 70,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 73,
+        "date": "2026-10-01",
+        "peBasic": 70.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 72.5,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 68.5,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 66,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 1730 027 955",
     "telephoneNo": "+8809617775555-Ext 8039"
   },
-  "scrapedAt": "2026-09-13T15:43:39.652Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:14.649Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 26.18% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 26.18,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2090.64,
+      "totalInterestBearingDebt": 547.26
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/QUEENSOUTH",
+  "cseQuote": {
+    "ltp": 13.6,
+    "open": 14.2,
+    "high": 13.6,
+    "low": 13.3,
+    "ycp": 14.2,
+    "change": -0.6,
+    "changePct": -4.23,
+    "trades": 2,
+    "valueMn": 0.04,
+    "volume": 3000,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

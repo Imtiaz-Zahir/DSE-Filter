@@ -2,44 +2,44 @@
   "tradingCode": "BEXIMCO",
   "scripCode": "99613",
   "companyName": "Bangladesh Export Import Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BEXIMCO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BEXIMCO",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 65,
     "TRADING CODE": "BEXIMCO",
     "tradingCode": "BEXIMCO",
-    "LTP": 21.2,
-    "HIGH": 21.8,
-    "LOW": 21.1,
-    "CLOSEP": 21.2,
-    "YCP": 21.5,
+    "LTP": 19.9,
+    "HIGH": 20.5,
+    "LOW": 19.8,
+    "CLOSEP": 19.9,
+    "YCP": 20.2,
     "CHANGE": -0.3,
-    "TRADE": 2032,
-    "VALUE (mn)": 60.395,
-    "VOLUME": 2825603
+    "TRADE": 2312,
+    "VALUE (mn)": 49.661,
+    "VOLUME": 2474675
   },
   "marketInformation": {
-    "lastTradingPrice": 21.2,
+    "lastTradingPrice": 19.9,
     "daysRange": [
-      21.1,
-      21.8
+      19.8,
+      20.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      20.7,
+      19.2,
       110.1
     ],
     "change": -0.3,
-    "daysTradeNos": 2032,
-    "yesterdaysClose": 21.5,
-    "daysVolumeNos": 2825603,
-    "adjustedOpeningPrice": 21.5,
-    "daysValueMn": 60.4,
-    "openingPrice": 21.5,
-    "marketCapMn": 20279.58,
-    "closingPrice": 21.2,
-    "freeFloatMarketCapMn": 13565.781
+    "daysTradeNos": 2312,
+    "yesterdaysClose": 20.2,
+    "daysVolumeNos": 2474675,
+    "adjustedOpeningPrice": 20.2,
+    "daysValueMn": 49.66,
+    "openingPrice": 20.2,
+    "marketCapMn": 19053.372,
+    "closingPrice": 19.9,
+    "freeFloatMarketCapMn": 12745.525
   },
   "basicInformation": {
     "authorizedCapitalMn": 30000,
@@ -74,15 +74,6 @@
       "publicPct": 33.19
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 33.11,
-      "govtPct": 0,
-      "institutePct": 31.79,
-      "foreignPct": 0.66,
-      "publicPct": 34.44
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 33.11,
@@ -90,6 +81,15 @@
       "institutePct": 30.48,
       "foreignPct": 0.64,
       "publicPct": 35.77
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 33.11,
+      "govtPct": 0,
+      "institutePct": 30.58,
+      "foreignPct": 0.35,
+      "publicPct": 35.96
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,57 @@
     "cellNo": "+88 01711 522 029",
     "telephoneNo": "41060531-35, 41060579-83 EXT.10140"
   },
-  "scrapedAt": "2026-09-13T15:42:10.857Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:18.372Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (175.32%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 175.32,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 19053.372,
+      "totalInterestBearingDebt": 33405.1
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BEXIMCO",
+  "cseQuote": {
+    "ltp": 19.9,
+    "open": 20.3,
+    "high": 20.8,
+    "low": 19.9,
+    "ycp": 20.3,
+    "change": -0.4,
+    "changePct": -1.97,
+    "trades": 32,
+    "valueMn": 0.4,
+    "volume": 19750,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

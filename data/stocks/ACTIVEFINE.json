@@ -2,44 +2,44 @@
   "tradingCode": "ACTIVEFINE",
   "scripCode": "18483",
   "companyName": "Active Fine Chemicals Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ACTIVEFINE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ACTIVEFINE",
   "lastAGMHeldOn": "2022-12-29",
   "forYearEnded": "2022-06-30",
   "overview": {
     "#": 12,
     "TRADING CODE": "ACTIVEFINE",
     "tradingCode": "ACTIVEFINE",
-    "LTP": 5.7,
-    "HIGH": 5.8,
-    "LOW": 5.6,
-    "CLOSEP": 5.7,
-    "YCP": 5.7,
-    "CHANGE": 0,
-    "TRADE": 122,
-    "VALUE (mn)": 0.988,
-    "VOLUME": 174999
+    "LTP": 5.2,
+    "HIGH": 5.4,
+    "LOW": 5.1,
+    "CLOSEP": 5.1,
+    "YCP": 5.3,
+    "CHANGE": -0.1,
+    "TRADE": 101,
+    "VALUE (mn)": 0.773,
+    "VOLUME": 149313
   },
   "marketInformation": {
-    "lastTradingPrice": 5.7,
+    "lastTradingPrice": 5.2,
     "daysRange": [
-      5.6,
-      5.8
+      5.1,
+      5.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.7,
-      9.2
+      8.5
     ],
-    "change": 0,
-    "daysTradeNos": 122,
-    "yesterdaysClose": 5.7,
-    "daysVolumeNos": 174999,
-    "adjustedOpeningPrice": 5.7,
-    "daysValueMn": 0.99,
-    "openingPrice": 5.8,
-    "marketCapMn": 1367.639,
-    "closingPrice": 5.7,
-    "freeFloatMarketCapMn": 1202.996
+    "change": -0.1,
+    "daysTradeNos": 101,
+    "yesterdaysClose": 5.3,
+    "daysVolumeNos": 149313,
+    "adjustedOpeningPrice": 5.3,
+    "daysValueMn": 0.77,
+    "openingPrice": 5.4,
+    "marketCapMn": 1271.664,
+    "closingPrice": 5.1,
+    "freeFloatMarketCapMn": 1118.576
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 36.25,
+        "date": "2026-09-28",
+        "peBasic": 35,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 36.88,
+        "date": "2026-09-29",
+        "peBasic": 34.38,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 36.25,
+        "date": "2026-09-30",
+        "peBasic": 34.38,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 35.63,
+        "date": "2026-10-01",
+        "peBasic": 34.38,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 35.63,
+        "date": "2026-10-04",
+        "peBasic": 33.13,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 35.63,
+        "date": "2026-10-05",
+        "peBasic": 31.88,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 52.73,
+        "date": "2026-09-28",
+        "peBasic": 50.91,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 53.64,
+        "date": "2026-09-29",
+        "peBasic": 50,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 52.73,
+        "date": "2026-09-30",
+        "peBasic": 50,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 51.82,
+        "date": "2026-10-01",
+        "peBasic": 50,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 51.82,
+        "date": "2026-10-04",
+        "peBasic": 48.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 51.82,
+        "date": "2026-10-05",
+        "peBasic": 46.36,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "+88 01992 024 696",
     "telephoneNo": "02-9531023"
   },
-  "scrapedAt": "2026-09-13T15:41:21.597Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:05.422Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 15.41% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 15.41,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1271.664,
+      "totalInterestBearingDebt": 195.92
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ACTIVEFINE",
+  "cseQuote": {
+    "ltp": 5.4,
+    "open": 5.5,
+    "high": 5.5,
+    "low": 5.4,
+    "ycp": 5.5,
+    "change": -0.1,
+    "changePct": -1.82,
+    "trades": 2,
+    "valueMn": 0.01,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

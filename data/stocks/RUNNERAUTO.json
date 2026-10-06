@@ -2,44 +2,44 @@
   "tradingCode": "RUNNERAUTO",
   "scripCode": "13246",
   "companyName": "Runner Automobiles PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RUNNERAUTO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RUNNERAUTO",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 313,
     "TRADING CODE": "RUNNERAUTO",
     "tradingCode": "RUNNERAUTO",
-    "LTP": 0,
-    "HIGH": 0,
-    "LOW": 0,
-    "CLOSEP": 44.6,
-    "YCP": 44.6,
-    "CHANGE": null,
-    "TRADE": 0,
-    "VALUE (mn)": 0,
-    "VOLUME": 0
+    "LTP": 44.1,
+    "HIGH": 44.7,
+    "LOW": 43.5,
+    "CLOSEP": 44.1,
+    "YCP": 43.4,
+    "CHANGE": 0.7,
+    "TRADE": 783,
+    "VALUE (mn)": 13.303,
+    "VOLUME": 301752
   },
   "marketInformation": {
-    "lastTradingPrice": null,
+    "lastTradingPrice": 44.1,
     "daysRange": [
-      null,
-      null
+      43.5,
+      44.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27.9,
       54.2
     ],
-    "change": null,
-    "daysTradeNos": null,
-    "yesterdaysClose": 44.6,
-    "daysVolumeNos": null,
-    "adjustedOpeningPrice": 44.6,
-    "daysValueMn": null,
-    "openingPrice": null,
-    "marketCapMn": 5063.881,
-    "closingPrice": 44.6,
-    "freeFloatMarketCapMn": 2738.998
+    "change": 0.7,
+    "daysTradeNos": 783,
+    "yesterdaysClose": 43.4,
+    "daysVolumeNos": 301752,
+    "adjustedOpeningPrice": 43.4,
+    "daysValueMn": 13.3,
+    "openingPrice": 44,
+    "marketCapMn": 4927.633,
+    "closingPrice": 44.1,
+    "freeFloatMarketCapMn": 2665.303
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 68.1,
-        "peDiluted": null,
-        "peTrailing": 34.14
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 67.65,
-        "peDiluted": null,
-        "peTrailing": 33.91
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 67.05,
-        "peDiluted": null,
-        "peTrailing": 33.61
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-28",
         "peBasic": 67.35,
         "peDiluted": null,
         "peTrailing": 33.76
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 66.9,
+        "date": "2026-09-29",
+        "peBasic": 67.05,
         "peDiluted": null,
-        "peTrailing": 33.53
+        "peTrailing": 33.61
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 66.9,
+        "date": "2026-09-30",
+        "peBasic": 66.75,
         "peDiluted": null,
-        "peTrailing": 33.53
+        "peTrailing": 33.46
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 65.4,
+        "peDiluted": null,
+        "peTrailing": 32.78
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 65.1,
+        "peDiluted": null,
+        "peTrailing": 32.63
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 66.15,
+        "peDiluted": null,
+        "peTrailing": 33.16
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 50.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 50.11,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 49.67,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-28",
         "peBasic": 49.89,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 49.56,
+        "date": "2026-09-29",
+        "peBasic": 49.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 49.56,
+        "date": "2026-09-30",
+        "peBasic": 49.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 48.44,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 48.22,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 49,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,55 @@
     "cellNo": "+88 01730 405 010",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:47.821Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:17.938Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (80.48%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 80.48,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4927.633,
+      "totalInterestBearingDebt": 3965.68
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RUNNERAUTO",
+  "cseQuote": {
+    "ltp": 45.5,
+    "open": 45.5,
+    "high": 45.5,
+    "low": 45.5,
+    "ycp": 45.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

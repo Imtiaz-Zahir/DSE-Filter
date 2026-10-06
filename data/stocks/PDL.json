@@ -2,25 +2,25 @@
   "tradingCode": "PDL",
   "scripCode": "17473",
   "companyName": "Pacific Denims Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PDL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PDL",
   "lastAGMHeldOn": "2023-12-31",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 267,
     "TRADING CODE": "PDL",
     "tradingCode": "PDL",
-    "LTP": 5.3,
+    "LTP": 5.4,
     "HIGH": 5.6,
     "LOW": 5.3,
-    "CLOSEP": 5.3,
+    "CLOSEP": 5.4,
     "YCP": 5.5,
-    "CHANGE": -0.2,
-    "TRADE": 79,
-    "VALUE (mn)": 1.135,
-    "VOLUME": 211428
+    "CHANGE": -0.1,
+    "TRADE": 108,
+    "VALUE (mn)": 1.446,
+    "VOLUME": 266916
   },
   "marketInformation": {
-    "lastTradingPrice": 5.3,
+    "lastTradingPrice": 5.4,
     "daysRange": [
       5.3,
       5.6
@@ -28,17 +28,17 @@
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.8,
-      6.8
+      6.6
     ],
-    "change": -0.2,
-    "daysTradeNos": 79,
+    "change": -0.1,
+    "daysTradeNos": 108,
     "yesterdaysClose": 5.5,
-    "daysVolumeNos": 211428,
+    "daysVolumeNos": 266916,
     "adjustedOpeningPrice": 5.5,
-    "daysValueMn": 1.14,
-    "openingPrice": 5.6,
+    "daysValueMn": 1.45,
+    "openingPrice": 5.5,
     "marketCapMn": 1009.526,
-    "closingPrice": 5.3,
+    "closingPrice": 5.4,
     "freeFloatMarketCapMn": 705.451
   },
   "basicInformation": {
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 206.25,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 210,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 206.25,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-01",
+        "peBasic": 206.25,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 206.25,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 202.5,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 206.25,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 206.25,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 198.75,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": 45.83,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 46.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 45.83,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-01",
+        "peBasic": 45.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 45.83,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 45,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 45.83,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 45.83,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 44.17,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:28.643Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:07.549Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (41.78%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 41.78,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1009.526,
+      "totalInterestBearingDebt": 421.79
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PDL",
+  "cseQuote": {
+    "ltp": 5.4,
+    "open": 5.6,
+    "high": 5.4,
+    "low": 5.4,
+    "ycp": 5.6,
+    "change": -0.2,
+    "changePct": -3.57,
+    "trades": 2,
+    "valueMn": 0.05,
+    "volume": 10000,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

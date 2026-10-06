@@ -2,44 +2,44 @@
   "tradingCode": "PENINSULA",
   "scripCode": "29003",
   "companyName": "The Peninsula Chittagong PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PENINSULA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PENINSULA",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 268,
     "TRADING CODE": "PENINSULA",
     "tradingCode": "PENINSULA",
-    "LTP": 20.1,
-    "HIGH": 21.1,
-    "LOW": 19.9,
-    "CLOSEP": 20.1,
-    "YCP": 21.1,
-    "CHANGE": -1,
-    "TRADE": 313,
-    "VALUE (mn)": 4.171,
-    "VOLUME": 204430
+    "LTP": 18.1,
+    "HIGH": 19.2,
+    "LOW": 17.8,
+    "CLOSEP": 18.1,
+    "YCP": 18.8,
+    "CHANGE": -0.7,
+    "TRADE": 299,
+    "VALUE (mn)": 4.248,
+    "VOLUME": 230781
   },
   "marketInformation": {
-    "lastTradingPrice": 20.1,
+    "lastTradingPrice": 18.1,
     "daysRange": [
-      19.9,
-      21.1
+      17.8,
+      19.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       26
     ],
-    "change": -1,
-    "daysTradeNos": 313,
-    "yesterdaysClose": 21.1,
-    "daysVolumeNos": 204430,
-    "adjustedOpeningPrice": 21.1,
-    "daysValueMn": 4.17,
-    "openingPrice": 20.8,
-    "marketCapMn": 2503.869,
-    "closingPrice": 20.1,
-    "freeFloatMarketCapMn": 1080.27
+    "change": -0.7,
+    "daysTradeNos": 299,
+    "yesterdaysClose": 18.8,
+    "daysVolumeNos": 230781,
+    "adjustedOpeningPrice": 18.8,
+    "daysValueMn": 4.25,
+    "openingPrice": 19,
+    "marketCapMn": 2230.936,
+    "closingPrice": 18.1,
+    "freeFloatMarketCapMn": 962.515
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 56.76
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 58.92
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 57.57
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 57.84
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 57.03
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 54.32
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 54.59
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 54.05
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 52.7
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 50.81
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 48.92
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 350,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 363.33,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 355,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 356.67,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 351.67,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 335,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 336.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 333.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 325,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 313.33,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 301.67,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01913632565",
     "telephoneNo": "+88-02333350860-9 (Ext.-4105)"
   },
-  "scrapedAt": "2026-09-13T15:43:28.562Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:07.467Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (82.98%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 82.98,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2230.936,
+      "totalInterestBearingDebt": 1851.25
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PENINSULA",
+  "cseQuote": {
+    "ltp": 18,
+    "open": 19,
+    "high": 18,
+    "low": 17.6,
+    "ycp": 19,
+    "change": -1,
+    "changePct": -5.26,
+    "trades": 3,
+    "valueMn": 0.04,
+    "volume": 2000,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

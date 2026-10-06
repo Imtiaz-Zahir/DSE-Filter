@@ -2,44 +2,44 @@
   "tradingCode": "TRUSTBANK",
   "scripCode": "11145",
   "companyName": "Trust Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TRUSTBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TRUSTBANK",
   "lastAGMHeldOn": "2026-07-28",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 372,
     "TRADING CODE": "TRUSTBANK",
     "tradingCode": "TRUSTBANK",
-    "LTP": 14.2,
-    "HIGH": 14.6,
-    "LOW": 14.2,
-    "CLOSEP": 14.2,
-    "YCP": 14.6,
-    "CHANGE": -0.4,
-    "TRADE": 952,
-    "VALUE (mn)": 17.31,
-    "VOLUME": 1206788
+    "LTP": 13.3,
+    "HIGH": 13.5,
+    "LOW": 13.3,
+    "CLOSEP": 13.3,
+    "YCP": 13.4,
+    "CHANGE": -0.1,
+    "TRADE": 432,
+    "VALUE (mn)": 11.2,
+    "VOLUME": 837510
   },
   "marketInformation": {
-    "lastTradingPrice": 14.2,
+    "lastTradingPrice": 13.3,
     "daysRange": [
-      14.2,
-      14.6
+      13.3,
+      13.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      14.2,
+      13.3,
       19.5
     ],
-    "change": -0.4,
-    "daysTradeNos": 952,
-    "yesterdaysClose": 14.6,
-    "daysVolumeNos": 1206788,
-    "adjustedOpeningPrice": 14.6,
-    "daysValueMn": 17.31,
-    "openingPrice": 14.6,
-    "marketCapMn": 15239.238,
-    "closingPrice": 14.2,
-    "freeFloatMarketCapMn": 6095.827
+    "change": -0.1,
+    "daysTradeNos": 432,
+    "yesterdaysClose": 13.4,
+    "daysVolumeNos": 837510,
+    "adjustedOpeningPrice": 13.4,
+    "daysValueMn": 11.2,
+    "openingPrice": 13.5,
+    "marketCapMn": 13986.698,
+    "closingPrice": 13.3,
+    "freeFloatMarketCapMn": 5594.8
   },
   "basicInformation": {
     "authorizedCapitalMn": 25000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.08,
+        "date": "2026-09-28",
+        "peBasic": 5.63,
         "peDiluted": null,
-        "peTrailing": 4.68
+        "peTrailing": 4.33
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.04,
+        "date": "2026-09-29",
+        "peBasic": 5.63,
         "peDiluted": null,
-        "peTrailing": 4.65
+        "peTrailing": 4.33
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.08,
+        "date": "2026-09-30",
+        "peBasic": 5.63,
         "peDiluted": null,
-        "peTrailing": 4.68
+        "peTrailing": 4.33
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.08,
+        "date": "2026-10-01",
+        "peBasic": 5.63,
         "peDiluted": null,
-        "peTrailing": 4.68
+        "peTrailing": 4.33
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.08,
+        "date": "2026-10-04",
+        "peBasic": 5.58,
         "peDiluted": null,
-        "peTrailing": 4.68
+        "peTrailing": 4.29
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.92,
+        "date": "2026-10-05",
+        "peBasic": 5.54,
         "peDiluted": null,
-        "peTrailing": 4.55
+        "peTrailing": 4.26
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.32,
-        "peDiluted": 4.53
+        "date": "2026-09-28",
+        "peBasic": 3.99,
+        "peDiluted": 4.19
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.29,
-        "peDiluted": 4.5
+        "date": "2026-09-29",
+        "peBasic": 3.99,
+        "peDiluted": 4.19
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.32,
-        "peDiluted": 4.53
+        "date": "2026-09-30",
+        "peBasic": 3.99,
+        "peDiluted": 4.19
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.32,
-        "peDiluted": 4.53
+        "date": "2026-10-01",
+        "peBasic": 3.99,
+        "peDiluted": 4.19
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.32,
-        "peDiluted": 4.53
+        "date": "2026-10-04",
+        "peBasic": 3.96,
+        "peDiluted": 4.16
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.2,
-        "peDiluted": 4.41
+        "date": "2026-10-05",
+        "peBasic": 3.93,
+        "peDiluted": 4.13
       }
     ]
   },
@@ -373,6 +373,57 @@
     "cellNo": "+88 01755 636 234 (Share Dept.)",
     "telephoneNo": "44870030-2 (Ext-2010)"
   },
-  "scrapedAt": "2026-09-13T15:44:13.215Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:30.499Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (261.97%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 261.97,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 13986.698,
+      "totalInterestBearingDebt": 36640.71
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TRUSTBANK",
+  "cseQuote": {
+    "ltp": 13.4,
+    "open": 13.5,
+    "high": 13.6,
+    "low": 13.4,
+    "ycp": 13.5,
+    "change": -0.1,
+    "changePct": -0.74,
+    "trades": 4,
+    "valueMn": 0.02,
+    "volume": 1280,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

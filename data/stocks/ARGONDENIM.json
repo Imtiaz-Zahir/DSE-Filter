@@ -2,27 +2,27 @@
   "tradingCode": "ARGONDENIM",
   "scripCode": "17456",
   "companyName": "Argon Denims Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ARGONDENIM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ARGONDENIM",
   "lastAGMHeldOn": "2025-12-18",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 38,
     "TRADING CODE": "ARGONDENIM",
     "tradingCode": "ARGONDENIM",
-    "LTP": 21.1,
+    "LTP": 21.4,
     "HIGH": 22.3,
-    "LOW": 21,
-    "CLOSEP": 21.1,
-    "YCP": 22.1,
-    "CHANGE": -1,
-    "TRADE": 838,
-    "VALUE (mn)": 31.284,
-    "VOLUME": 1463142
+    "LOW": 21.3,
+    "CLOSEP": 21.4,
+    "YCP": 22.2,
+    "CHANGE": -0.8,
+    "TRADE": 869,
+    "VALUE (mn)": 50.493,
+    "VOLUME": 2318391
   },
   "marketInformation": {
-    "lastTradingPrice": 21.1,
+    "lastTradingPrice": 21.4,
     "daysRange": [
-      21,
+      21.3,
       22.3
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       15.8,
       25.9
     ],
-    "change": -1,
-    "daysTradeNos": 838,
-    "yesterdaysClose": 22.1,
-    "daysVolumeNos": 1463142,
-    "adjustedOpeningPrice": 22.1,
-    "daysValueMn": 31.28,
-    "openingPrice": 22.3,
-    "marketCapMn": 3069.438,
-    "closingPrice": 21.1,
-    "freeFloatMarketCapMn": 1610.483
+    "change": -0.8,
+    "daysTradeNos": 869,
+    "yesterdaysClose": 22.2,
+    "daysVolumeNos": 2318391,
+    "adjustedOpeningPrice": 22.2,
+    "daysValueMn": 50.49,
+    "openingPrice": 22.1,
+    "marketCapMn": 3083.327,
+    "closingPrice": 21.4,
+    "freeFloatMarketCapMn": 1617.771
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.17,
+        "date": "2026-09-28",
+        "peBasic": 17.67,
         "peDiluted": null,
-        "peTrailing": 18.79
+        "peTrailing": 18.28
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19,
+        "date": "2026-09-29",
+        "peBasic": 17.92,
         "peDiluted": null,
-        "peTrailing": 19.66
+        "peTrailing": 18.53
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 18.58,
+        "date": "2026-09-30",
+        "peBasic": 17.83,
         "peDiluted": null,
-        "peTrailing": 19.22
+        "peTrailing": 18.45
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 18.83,
         "peDiluted": null,
         "peTrailing": 19.48
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 18.42,
+        "date": "2026-10-04",
+        "peBasic": 18.5,
         "peDiluted": null,
-        "peTrailing": 19.05
+        "peTrailing": 19.14
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.58,
+        "date": "2026-10-05",
+        "peBasic": 17.83,
         "peDiluted": null,
-        "peTrailing": 18.19
+        "peTrailing": 18.45
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.98,
+        "date": "2026-09-28",
+        "peBasic": 12.62,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.57,
+        "date": "2026-09-29",
+        "peBasic": 12.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 13.27,
+        "date": "2026-09-30",
+        "peBasic": 12.74,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": 13.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 13.15,
+        "date": "2026-10-04",
+        "peBasic": 13.21,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.56,
+        "date": "2026-10-05",
+        "peBasic": 12.74,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01714 094 393",
     "telephoneNo": "880-2-8900870-4, 8900781-3 Ext. 137"
   },
-  "scrapedAt": "2026-09-13T15:42:01.242Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:11.943Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.89% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.89,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3083.327,
+      "totalInterestBearingDebt": 120.07
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ARGONDENIM",
+  "cseQuote": {
+    "ltp": 22,
+    "open": 22.6,
+    "high": 22.9,
+    "low": 21.8,
+    "ycp": 22.6,
+    "change": -0.6,
+    "changePct": -2.65,
+    "trades": 21,
+    "valueMn": 0.59,
+    "volume": 26510,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

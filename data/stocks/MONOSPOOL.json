@@ -2,44 +2,44 @@
   "tradingCode": "MONOSPOOL",
   "scripCode": "19505",
   "companyName": "Monospool Bangladesh PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MONOSPOOL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MONOSPOOL",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 236,
     "TRADING CODE": "MONOSPOOL",
     "tradingCode": "MONOSPOOL",
-    "LTP": 101.9,
-    "HIGH": 106.8,
-    "LOW": 101.2,
-    "CLOSEP": 101.9,
-    "YCP": 106.4,
-    "CHANGE": -4.5,
-    "TRADE": 728,
-    "VALUE (mn)": 16.666,
-    "VOLUME": 160564
+    "LTP": 103.8,
+    "HIGH": 106.5,
+    "LOW": 103.5,
+    "CLOSEP": 103.8,
+    "YCP": 104.3,
+    "CHANGE": -0.5,
+    "TRADE": 515,
+    "VALUE (mn)": 9.965,
+    "VOLUME": 95475
   },
   "marketInformation": {
-    "lastTradingPrice": 101.9,
+    "lastTradingPrice": 103.8,
     "daysRange": [
-      101.2,
-      106.8
+      103.5,
+      106.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       84.5,
       305.6
     ],
-    "change": -4.5,
-    "daysTradeNos": 728,
-    "yesterdaysClose": 106.4,
-    "daysVolumeNos": 160564,
-    "adjustedOpeningPrice": 106.4,
-    "daysValueMn": 16.67,
-    "openingPrice": 106.7,
-    "marketCapMn": 4173.1,
-    "closingPrice": 101.9,
-    "freeFloatMarketCapMn": 1594.634
+    "change": -0.5,
+    "daysTradeNos": 515,
+    "yesterdaysClose": 104.3,
+    "daysVolumeNos": 95475,
+    "adjustedOpeningPrice": 104.3,
+    "daysValueMn": 9.97,
+    "openingPrice": 104.9,
+    "marketCapMn": 4090.736,
+    "closingPrice": 103.8,
+    "freeFloatMarketCapMn": 1563.161
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 26.04,
+        "date": "2026-09-28",
+        "peBasic": 25.68,
         "peDiluted": null,
-        "peTrailing": 31.56
+        "peTrailing": 31.12
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.97,
+        "date": "2026-09-29",
+        "peBasic": 25.51,
         "peDiluted": null,
-        "peTrailing": 31.47
+        "peTrailing": 30.91
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.56,
-        "peDiluted": null,
-        "peTrailing": 30.97
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 25.73,
         "peDiluted": null,
         "peTrailing": 31.18
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.83,
+        "date": "2026-10-01",
+        "peBasic": 25.46,
         "peDiluted": null,
-        "peTrailing": 31.29
+        "peTrailing": 30.85
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 24.73,
+        "date": "2026-10-04",
+        "peBasic": 25.32,
         "peDiluted": null,
-        "peTrailing": 29.97
+        "peTrailing": 30.68
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 25.19,
+        "peDiluted": null,
+        "peTrailing": 30.53
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 28.54,
-        "peDiluted": 32.81
+        "date": "2026-09-28",
+        "peBasic": 28.14,
+        "peDiluted": 32.35
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 28.46,
-        "peDiluted": 32.72
+        "date": "2026-09-29",
+        "peBasic": 27.95,
+        "peDiluted": 32.14
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 28.01,
-        "peDiluted": 32.2
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-30",
         "peBasic": 28.19,
         "peDiluted": 32.42
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 28.3,
-        "peDiluted": 32.54
+        "date": "2026-10-01",
+        "peBasic": 27.9,
+        "peDiluted": 32.08
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 27.1,
-        "peDiluted": 31.16
+        "date": "2026-10-04",
+        "peBasic": 27.74,
+        "peDiluted": 31.9
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 27.61,
+        "peDiluted": 31.74
       }
     ]
   },
@@ -373,6 +373,56 @@
     "cellNo": "+88 01847 091 028",
     "telephoneNo": "+880-2-55036456 (Ext. 703)"
   },
-  "scrapedAt": "2026-09-13T15:43:17.184Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:01.068Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (79.06%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 79.06,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4090.736,
+      "totalInterestBearingDebt": 3234.25
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MONOSPOOL",
+  "cseQuote": {
+    "ltp": 104,
+    "open": 104,
+    "high": 104,
+    "low": 104,
+    "ycp": 104,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.849Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,43 +2,43 @@
   "tradingCode": "MBL1STMF",
   "scripCode": "12184",
   "companyName": "MBL 1st Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MBL1STMF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MBL1STMF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2023-03-31",
   "overview": {
     "#": 216,
     "TRADING CODE": "MBL1STMF",
     "tradingCode": "MBL1STMF",
-    "LTP": 9,
-    "HIGH": 9.9,
-    "LOW": 8.8,
-    "CLOSEP": 9,
-    "YCP": 9.7,
-    "CHANGE": -0.7,
-    "TRADE": 1072,
-    "VALUE (mn)": 49.264,
-    "VOLUME": 5239716
+    "LTP": 10.5,
+    "HIGH": 10.7,
+    "LOW": 10.3,
+    "CLOSEP": 10.5,
+    "YCP": 10.2,
+    "CHANGE": 0.3,
+    "TRADE": 674,
+    "VALUE (mn)": 34.833,
+    "VOLUME": 3307969
   },
   "marketInformation": {
-    "lastTradingPrice": 9,
+    "lastTradingPrice": 10.5,
     "daysRange": [
-      8.8,
-      9.9
+      10.3,
+      10.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3,
-      9.9
+      11.5
     ],
-    "change": -0.7,
-    "daysTradeNos": 1072,
-    "yesterdaysClose": 9.7,
-    "daysVolumeNos": 5239716,
-    "adjustedOpeningPrice": 9.7,
-    "daysValueMn": 49.26,
-    "openingPrice": 9.8,
-    "marketCapMn": 970,
-    "closingPrice": 9,
+    "change": 0.3,
+    "daysTradeNos": 674,
+    "yesterdaysClose": 10.2,
+    "daysVolumeNos": 3307969,
+    "adjustedOpeningPrice": 10.2,
+    "daysValueMn": 34.83,
+    "openingPrice": 10.3,
+    "marketCapMn": 1020,
+    "closingPrice": 10.5,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 65.19,
+        "date": "2026-09-28",
+        "peBasic": 75,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 66.59,
+        "date": "2026-09-29",
+        "peBasic": 77.1,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 67.29,
+        "date": "2026-09-30",
+        "peBasic": 75.7,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 65.89,
+        "date": "2026-10-01",
+        "peBasic": 75.7,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 67.99,
+        "date": "2026-10-04",
+        "peBasic": 71.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 63.08,
+        "date": "2026-10-05",
+        "peBasic": 73.6,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 22.14,
+        "date": "2026-09-28",
+        "peBasic": 25.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 22.62,
+        "date": "2026-09-29",
+        "peBasic": 26.19,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 22.86,
+        "date": "2026-09-30",
+        "peBasic": 25.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 22.38,
+        "date": "2026-10-01",
+        "peBasic": 25.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.1,
+        "date": "2026-10-04",
+        "peBasic": 24.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 21.43,
+        "date": "2026-10-05",
+        "peBasic": 25,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": "+88 01714 045 171",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:08.755Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:56.458Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1020,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MBL1STMF",
+  "cseQuote": {
+    "ltp": 10.6,
+    "open": 10.6,
+    "high": 10.6,
+    "low": 10.6,
+    "ycp": 10.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

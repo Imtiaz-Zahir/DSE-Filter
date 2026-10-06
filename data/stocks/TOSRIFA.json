@@ -2,44 +2,44 @@
   "tradingCode": "TOSRIFA",
   "scripCode": "17468",
   "companyName": "Tosrifa Industries PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TOSRIFA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TOSRIFA",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 370,
     "TRADING CODE": "TOSRIFA",
     "tradingCode": "TOSRIFA",
-    "LTP": 18.4,
-    "HIGH": 19.2,
-    "LOW": 18.2,
-    "CLOSEP": 18.4,
-    "YCP": 19,
-    "CHANGE": -0.6,
-    "TRADE": 309,
-    "VALUE (mn)": 3.37,
-    "VOLUME": 181408
+    "LTP": 18.9,
+    "HIGH": 19.4,
+    "LOW": 18.8,
+    "CLOSEP": 18.9,
+    "YCP": 19.3,
+    "CHANGE": -0.4,
+    "TRADE": 167,
+    "VALUE (mn)": 3.379,
+    "VOLUME": 177625
   },
   "marketInformation": {
-    "lastTradingPrice": 18.4,
+    "lastTradingPrice": 18.9,
     "daysRange": [
-      18.2,
-      19.2
+      18.8,
+      19.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.9,
       26.3
     ],
-    "change": -0.6,
-    "daysTradeNos": 309,
-    "yesterdaysClose": 19,
-    "daysVolumeNos": 181408,
-    "adjustedOpeningPrice": 19,
-    "daysValueMn": 3.37,
-    "openingPrice": 18.8,
-    "marketCapMn": 1291.717,
-    "closingPrice": 18.4,
-    "freeFloatMarketCapMn": 735.986
+    "change": -0.4,
+    "daysTradeNos": 167,
+    "yesterdaysClose": 19.3,
+    "daysVolumeNos": 177625,
+    "adjustedOpeningPrice": 19.3,
+    "daysValueMn": 3.38,
+    "openingPrice": 19,
+    "marketCapMn": 1312.113,
+    "closingPrice": 18.9,
+    "freeFloatMarketCapMn": 747.607
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 58.2,
+        "date": "2026-09-28",
+        "peBasic": 58.5,
         "peDiluted": null,
-        "peTrailing": 36.6
+        "peTrailing": 36.79
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 60,
+        "date": "2026-09-29",
+        "peBasic": 59.1,
         "peDiluted": null,
-        "peTrailing": 37.74
+        "peTrailing": 37.17
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 58.2,
+        "date": "2026-09-30",
+        "peBasic": 59.7,
         "peDiluted": null,
-        "peTrailing": 36.6
+        "peTrailing": 37.55
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
+        "peBasic": 59.1,
+        "peDiluted": null,
+        "peTrailing": 37.17
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 57.9,
         "peDiluted": null,
         "peTrailing": 36.42
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 57,
+        "date": "2026-10-05",
+        "peBasic": 56.7,
         "peDiluted": null,
-        "peTrailing": 35.85
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 55.2,
-        "peDiluted": null,
-        "peTrailing": 34.72
+        "peTrailing": 35.66
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.87,
+        "date": "2026-09-28",
+        "peBasic": 26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.67,
+        "date": "2026-09-29",
+        "peBasic": 26.27,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.87,
+        "date": "2026-09-30",
+        "peBasic": 26.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
+        "peBasic": 26.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 25.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.33,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 24.53,
+        "date": "2026-10-05",
+        "peBasic": 25.2,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+ 88 01817 036 560",
     "telephoneNo": "+88 0961 299 3388 Ext.126"
   },
-  "scrapedAt": "2026-09-13T15:44:12.351Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.836Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 32.36% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 32.36,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1312.113,
+      "totalInterestBearingDebt": 424.65
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TOSRIFA",
+  "cseQuote": {
+    "ltp": 19.2,
+    "open": 19.2,
+    "high": 19.2,
+    "low": 19.2,
+    "ycp": 19.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

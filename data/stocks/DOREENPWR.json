@@ -2,44 +2,44 @@
   "tradingCode": "DOREENPWR",
   "scripCode": "15319",
   "companyName": "Doreen Power Generations and Systems Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DOREENPWR",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DOREENPWR",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 104,
     "TRADING CODE": "DOREENPWR",
     "tradingCode": "DOREENPWR",
-    "LTP": 29.2,
-    "HIGH": 30.5,
-    "LOW": 28.9,
-    "CLOSEP": 29.2,
-    "YCP": 30.4,
-    "CHANGE": -1.2,
-    "TRADE": 670,
-    "VALUE (mn)": 13.578,
-    "VOLUME": 457721
+    "LTP": 30.9,
+    "HIGH": 32,
+    "LOW": 30.8,
+    "CLOSEP": 30.9,
+    "YCP": 31.8,
+    "CHANGE": -0.9,
+    "TRADE": 524,
+    "VALUE (mn)": 16.564,
+    "VOLUME": 529669
   },
   "marketInformation": {
-    "lastTradingPrice": 29.2,
+    "lastTradingPrice": 30.9,
     "daysRange": [
-      28.9,
-      30.5
+      30.8,
+      32
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       24.5,
       36.5
     ],
-    "change": -1.2,
-    "daysTradeNos": 670,
-    "yesterdaysClose": 30.4,
-    "daysVolumeNos": 457721,
-    "adjustedOpeningPrice": 30.4,
-    "daysValueMn": 13.58,
-    "openingPrice": 30.4,
-    "marketCapMn": 5506.015,
-    "closingPrice": 29.2,
-    "freeFloatMarketCapMn": 1557.878
+    "change": -0.9,
+    "daysTradeNos": 524,
+    "yesterdaysClose": 31.8,
+    "daysVolumeNos": 529669,
+    "adjustedOpeningPrice": 31.8,
+    "daysValueMn": 16.56,
+    "openingPrice": 31.8,
+    "marketCapMn": 5759.581,
+    "closingPrice": 30.9,
+    "freeFloatMarketCapMn": 1629.622
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 15.54
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 66.61,
-      "govtPct": 0,
-      "institutePct": 18.07,
-      "foreignPct": 0,
-      "publicPct": 15.32
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 66.61,
@@ -90,6 +81,15 @@
       "institutePct": 17.34,
       "foreignPct": 0,
       "publicPct": 16.05
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 66.61,
+      "govtPct": 0,
+      "institutePct": 16.9,
+      "foreignPct": 0,
+      "publicPct": 16.49
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 5.59,
+        "peDiluted": null,
+        "peTrailing": 7.21
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 5.55,
+        "peDiluted": null,
+        "peTrailing": 7.16
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 5.66,
+        "peDiluted": null,
+        "peTrailing": 7.3
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 5.66,
+        "peDiluted": null,
+        "peTrailing": 7.3
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 5.73,
+        "peDiluted": null,
+        "peTrailing": 7.4
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 5.57,
         "peDiluted": null,
         "peTrailing": 7.19
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 5.61,
-        "peDiluted": null,
-        "peTrailing": 7.23
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 5.63,
-        "peDiluted": null,
-        "peTrailing": 7.26
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 5.68,
-        "peDiluted": null,
-        "peTrailing": 7.33
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 5.48,
-        "peDiluted": null,
-        "peTrailing": 7.07
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 5.26,
-        "peDiluted": null,
-        "peTrailing": 6.79
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 9.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 9.66,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 9.84,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 9.84,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 9.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 9.69,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 9.75,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 9.78,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 9.87,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 9.53,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 9.15,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01730 709 671",
     "telephoneNo": "+88-02-222260744"
   },
-  "scrapedAt": "2026-09-13T15:42:25.554Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:30.825Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (85.89%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 85.89,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 5759.581,
+      "totalInterestBearingDebt": 4946.62
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DOREENPWR",
+  "cseQuote": {
+    "ltp": 31.8,
+    "open": 31.5,
+    "high": 31.8,
+    "low": 31,
+    "ycp": 31.5,
+    "change": 0.3,
+    "changePct": 0.95,
+    "trades": 9,
+    "valueMn": 2.03,
+    "volume": 61525,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

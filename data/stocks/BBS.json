@@ -2,44 +2,44 @@
   "tradingCode": "BBS",
   "scripCode": "13232",
   "companyName": "Bangladesh Building Systems PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BBS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BBS",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 50,
     "TRADING CODE": "BBS",
     "tradingCode": "BBS",
-    "LTP": 11.6,
-    "HIGH": 12.3,
-    "LOW": 11.5,
-    "CLOSEP": 11.6,
-    "YCP": 12.3,
-    "CHANGE": -0.7,
-    "TRADE": 369,
-    "VALUE (mn)": 4.837,
-    "VOLUME": 406356
+    "LTP": 10.5,
+    "HIGH": 11.1,
+    "LOW": 10.4,
+    "CLOSEP": 10.5,
+    "YCP": 10.9,
+    "CHANGE": -0.4,
+    "TRADE": 374,
+    "VALUE (mn)": 4.431,
+    "VOLUME": 416307
   },
   "marketInformation": {
-    "lastTradingPrice": 11.6,
+    "lastTradingPrice": 10.5,
     "daysRange": [
-      11.5,
-      12.3
+      10.4,
+      11.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.5,
       16.7
     ],
-    "change": -0.7,
-    "daysTradeNos": 369,
-    "yesterdaysClose": 12.3,
-    "daysVolumeNos": 406356,
-    "adjustedOpeningPrice": 12.3,
-    "daysValueMn": 4.84,
-    "openingPrice": 12.2,
-    "marketCapMn": 2004.036,
-    "closingPrice": 11.6,
-    "freeFloatMarketCapMn": 1402.646
+    "change": -0.4,
+    "daysTradeNos": 374,
+    "yesterdaysClose": 10.9,
+    "daysVolumeNos": 416307,
+    "adjustedOpeningPrice": 10.9,
+    "daysValueMn": 4.43,
+    "openingPrice": 11.1,
+    "marketCapMn": 1775.934,
+    "closingPrice": 10.5,
+    "freeFloatMarketCapMn": 1242.995
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 46.81
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30.01,
-      "govtPct": 0,
-      "institutePct": 27.76,
-      "foreignPct": 0.06,
-      "publicPct": 42.17
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 30.01,
@@ -90,6 +81,15 @@
       "institutePct": 25.86,
       "foreignPct": 0.06,
       "publicPct": 44.07
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.01,
+      "govtPct": 0,
+      "institutePct": 23.69,
+      "foreignPct": 0.06,
+      "publicPct": 46.24
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,57 @@
     "cellNo": "01713-114555",
     "telephoneNo": "+88-02-222288916"
   },
-  "scrapedAt": "2026-09-13T15:42:04.580Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:13.313Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 31.88% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 31.88,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1775.934,
+      "totalInterestBearingDebt": 566.09
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BBS",
+  "cseQuote": {
+    "ltp": 10.5,
+    "open": 11.2,
+    "high": 10.5,
+    "low": 10.5,
+    "ycp": 11.2,
+    "change": -0.7,
+    "changePct": -6.25,
+    "trades": 5,
+    "valueMn": 0.05,
+    "volume": 5130,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

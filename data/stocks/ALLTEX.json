@@ -2,44 +2,44 @@
   "tradingCode": "ALLTEX",
   "scripCode": "17440",
   "companyName": "Alltex Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ALLTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ALLTEX",
   "lastAGMHeldOn": "2026-06-18",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 24,
     "TRADING CODE": "ALLTEX",
     "tradingCode": "ALLTEX",
-    "LTP": 23.2,
-    "HIGH": 24.1,
-    "LOW": 23.1,
-    "CLOSEP": 23.2,
-    "YCP": 24.1,
-    "CHANGE": -0.9,
-    "TRADE": 129,
-    "VALUE (mn)": 3.822,
-    "VOLUME": 163961
+    "LTP": 23,
+    "HIGH": 23.1,
+    "LOW": 22.6,
+    "CLOSEP": 23,
+    "YCP": 22.9,
+    "CHANGE": 0.1,
+    "TRADE": 92,
+    "VALUE (mn)": 1.481,
+    "VOLUME": 64734
   },
   "marketInformation": {
-    "lastTradingPrice": 23.2,
+    "lastTradingPrice": 23,
     "daysRange": [
-      23.1,
-      24.1
+      22.6,
+      23.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.1,
       26
     ],
-    "change": -0.9,
-    "daysTradeNos": 129,
-    "yesterdaysClose": 24.1,
-    "daysVolumeNos": 163961,
-    "adjustedOpeningPrice": 24.1,
-    "daysValueMn": 3.82,
-    "openingPrice": 24.1,
-    "marketCapMn": 1348.829,
-    "closingPrice": 23.2,
-    "freeFloatMarketCapMn": 859.888
+    "change": 0.1,
+    "daysTradeNos": 92,
+    "yesterdaysClose": 22.9,
+    "daysVolumeNos": 64734,
+    "adjustedOpeningPrice": 22.9,
+    "daysValueMn": 1.48,
+    "openingPrice": 22.8,
+    "marketCapMn": 1281.667,
+    "closingPrice": 23,
+    "freeFloatMarketCapMn": 817.072
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 585,
+        "date": "2026-09-28",
+        "peBasic": 570,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 597.5,
+        "date": "2026-09-29",
+        "peBasic": 582.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 602.5,
+        "date": "2026-09-30",
+        "peBasic": 587.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 607.5,
+        "date": "2026-10-01",
+        "peBasic": 577.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 602.5,
+        "date": "2026-10-04",
+        "peBasic": 572.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 580,
+        "date": "2026-10-05",
+        "peBasic": 575,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,56 @@
     "cellNo": "+88 01730 031 245",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:41:56.293Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:07.148Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 15.78% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 15.78,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1281.667,
+      "totalInterestBearingDebt": 202.3
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ALLTEX",
+  "cseQuote": {
+    "ltp": 22,
+    "open": 22,
+    "high": 22,
+    "low": 22,
+    "ycp": 22,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

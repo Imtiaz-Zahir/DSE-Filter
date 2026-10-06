@@ -65,7 +65,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
   const faqs = [
     {
       q: "What is DSE Filter and how does it help Bangladesh stock investors?",
-      a: "DSE Filter is an advanced, mobile-first stock screening and fundamental analytics platform for all 395+ companies listed on the Dhaka Stock Exchange (DSE). It allows investors to filter stocks by real-time valuation metrics, multi-year audited balance sheets, quarterly EPS trends, DSES Sharia index compliance, and institutional shareholding.",
+      a: "DSE Filter is an advanced, mobile-first stock screening and fundamental analytics platform for all 415+ companies listed on the Dhaka Stock Exchange (DSE) and Chittagong Stock Exchange (CSE). It allows investors to filter stocks by real-time valuation metrics, multi-year audited balance sheets, quarterly EPS trends, CSI Sharia index compliance, and institutional shareholding.",
     },
     {
       q: "What are the Dhaka Stock Exchange (DSE) Market Categories (A, B, N, Z)?",
@@ -76,8 +76,8 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
       a: "You can use DSE Filter's 'High Dividend' one-click preset or set the Dividend Yield filter slider to 5%+ or 8%+. This filters companies that consistently distribute attractive cash dividends relative to their current market price (LTP).",
     },
     {
-      q: "What is DSES Sharia Index on Dhaka Stock Exchange?",
-      a: "The DSES (DSE Sharia Index) is a benchmark index comprising Sharia-compliant companies on the Dhaka Stock Exchange. These companies meet strict Islamic financial screening criteria, including low conventional interest-bearing debt, non-interest revenue models, and ethical business operations.",
+      q: "What is Sharia Index on the Bangladesh Stock Market?",
+      a: "The Shariah Index is the benchmark index comprising Sharia-compliant companies across Bangladesh. These companies meet strict Islamic financial screening criteria, including low conventional interest-bearing debt, non-interest revenue models, and ethical business operations.",
     },
     {
       q: "How do P/E Ratio and Price-to-Book (P/B) help evaluate Bangladesh stocks?",
@@ -102,8 +102,8 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
           </h2>
           <p className="text-sm leading-relaxed text-muted-foreground">
             DSE Filter provides institutional-grade fundamental stock screening for the Bangladesh capital market.
-            Analyze <strong>395+ listed companies</strong> across <strong>20+ sectors</strong> with multi-year audited financial records,
-            quarterly EPS progression, DSES Sharia compliance checks, and comprehensive valuation ratios including
+            Analyze <strong>415+ listed companies</strong> across DSE and CSE with multi-year audited financial records,
+            quarterly EPS progression, CSI Sharia compliance checks, and comprehensive valuation ratios including
             P/E, P/B, NAVPS, and Dividend Yield.
           </p>
         </div>
@@ -250,12 +250,12 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
             </div>
           </div>
 
-          {/* List 3: DSES Sharia Compliant */}
+          {/* List 3: Sharia Compliant */}
           <div className="rounded-xl border border-border/70 bg-card p-4 space-y-3">
             <div className="flex items-center justify-between">
               <h3 className="font-semibold text-xs uppercase tracking-wider text-foreground flex items-center gap-1.5">
                 <ShieldCheck className="size-4 text-emerald-500" />
-                <span>DSES Sharia Stocks</span>
+                <span>Sharia Stocks</span>
               </h3>
               <Link href="/market/shariah" className="text-[11px] text-primary hover:underline flex items-center gap-0.5">
                 <span>View all</span>
@@ -284,7 +284,7 @@ export function HomeSeoContent({ stocks }: HomeSeoContentProps) {
                     <div className="text-right">
                       <div className="font-medium text-foreground">{formatBDT(ltp)}</div>
                       <span className="inline-block text-[9px] font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 px-1 rounded">
-                        DSES
+                        Sharia
                       </span>
                     </div>
                   </Link>

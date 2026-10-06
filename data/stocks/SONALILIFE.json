@@ -2,44 +2,44 @@
   "tradingCode": "SONALILIFE",
   "scripCode": "25751",
   "companyName": "Sonali Life Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONALILIFE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SONALILIFE",
   "lastAGMHeldOn": "2026-08-27",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 348,
     "TRADING CODE": "SONALILIFE",
     "tradingCode": "SONALILIFE",
-    "LTP": 81.4,
-    "HIGH": 85.4,
-    "LOW": 78.6,
-    "CLOSEP": 80.5,
-    "YCP": 84.2,
-    "CHANGE": -2.8,
-    "TRADE": 583,
-    "VALUE (mn)": 17.619,
-    "VOLUME": 217056
+    "LTP": 97,
+    "HIGH": 98.8,
+    "LOW": 96.1,
+    "CLOSEP": 97,
+    "YCP": 97.2,
+    "CHANGE": -0.2,
+    "TRADE": 1408,
+    "VALUE (mn)": 69.997,
+    "VOLUME": 718491
   },
   "marketInformation": {
-    "lastTradingPrice": 81.4,
+    "lastTradingPrice": 97,
     "daysRange": [
-      78.6,
-      85.4
+      96.1,
+      98.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       55,
-      93.4
+      98.8
     ],
-    "change": -2.8,
-    "daysTradeNos": 583,
-    "yesterdaysClose": 84.2,
-    "daysVolumeNos": 217056,
-    "adjustedOpeningPrice": 84.2,
-    "daysValueMn": 17.62,
-    "openingPrice": 85.4,
-    "marketCapMn": 3999.5,
-    "closingPrice": 80.5,
-    "freeFloatMarketCapMn": 1497.97
+    "change": -0.2,
+    "daysTradeNos": 1408,
+    "yesterdaysClose": 97.2,
+    "daysVolumeNos": 718491,
+    "adjustedOpeningPrice": 97.2,
+    "daysValueMn": 70,
+    "openingPrice": 96.1,
+    "marketCapMn": 4617,
+    "closingPrice": 97,
+    "freeFloatMarketCapMn": 1729.248
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,37 +96,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,33 +134,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 52.72,
+        "date": "2026-09-28",
+        "peBasic": 54.01,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 52.28,
+        "date": "2026-09-29",
+        "peBasic": 53.15,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 52.16,
+        "date": "2026-09-30",
+        "peBasic": 56.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 52.41,
+        "date": "2026-10-01",
+        "peBasic": 55.99,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 51.98,
+        "date": "2026-10-04",
+        "peBasic": 60,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 49.69,
+        "date": "2026-10-05",
+        "peBasic": 59.88,
         "peDiluted": null
       }
     ]
@@ -318,6 +318,56 @@
     "cellNo": "01537591862",
     "telephoneNo": "09678200004 Ext-904"
   },
-  "scrapedAt": "2026-09-13T15:44:02.537Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:24.312Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4617,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SONALILIFE",
+  "cseQuote": {
+    "ltp": 94.3,
+    "open": 98.5,
+    "high": 100,
+    "low": 94.2,
+    "ycp": 98.5,
+    "change": -4.2,
+    "changePct": -4.26,
+    "trades": 9,
+    "valueMn": 0.17,
+    "volume": 1792,
+    "updatedDate": "2026-10-06T01:10:39.858Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

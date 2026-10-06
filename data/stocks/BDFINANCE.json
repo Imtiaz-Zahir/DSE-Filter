@@ -2,44 +2,44 @@
   "tradingCode": "BDFINANCE",
   "scripCode": "11142",
   "companyName": "Bangladesh Finance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BDFINANCE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BDFINANCE",
   "lastAGMHeldOn": "2026-06-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 54,
     "TRADING CODE": "BDFINANCE",
     "tradingCode": "BDFINANCE",
-    "LTP": 11.6,
-    "HIGH": 12.2,
-    "LOW": 11.5,
-    "CLOSEP": 11.6,
-    "YCP": 12.3,
-    "CHANGE": -0.7,
-    "TRADE": 175,
-    "VALUE (mn)": 2.724,
-    "VOLUME": 231280
+    "LTP": 10.8,
+    "HIGH": 11.1,
+    "LOW": 10.6,
+    "CLOSEP": 10.8,
+    "YCP": 11,
+    "CHANGE": -0.2,
+    "TRADE": 110,
+    "VALUE (mn)": 1.16,
+    "VOLUME": 106860
   },
   "marketInformation": {
-    "lastTradingPrice": 11.6,
+    "lastTradingPrice": 10.8,
     "daysRange": [
-      11.5,
-      12.2
+      10.6,
+      11.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      10.7,
+      10.6,
       17.9
     ],
-    "change": -0.7,
-    "daysTradeNos": 175,
-    "yesterdaysClose": 12.3,
-    "daysVolumeNos": 231280,
-    "adjustedOpeningPrice": 12.3,
-    "daysValueMn": 2.72,
-    "openingPrice": 12.2,
-    "marketCapMn": 2315.306,
-    "closingPrice": 11.6,
-    "freeFloatMarketCapMn": 1828.701
+    "change": -0.2,
+    "daysTradeNos": 110,
+    "yesterdaysClose": 11,
+    "daysVolumeNos": 106860,
+    "adjustedOpeningPrice": 11,
+    "daysValueMn": 1.16,
+    "openingPrice": 11.1,
+    "marketCapMn": 2070.599,
+    "closingPrice": 10.8,
+    "freeFloatMarketCapMn": 1635.424
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
@@ -74,22 +74,22 @@
       "publicPct": 55.1
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 18.89,
-      "govtPct": 0,
-      "institutePct": 26.02,
-      "foreignPct": 0,
-      "publicPct": 55.09
-    },
-    {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 14.54,
       "govtPct": 0,
-      "institutePct": 25.31,
+      "institutePct": 23.74,
       "foreignPct": 0,
-      "publicPct": 60.15
+      "publicPct": 61.72
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 14.54,
+      "govtPct": 0,
+      "institutePct": 23.79,
+      "foreignPct": 0,
+      "publicPct": 61.67
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 26.96,
+        "date": "2026-09-28",
+        "peBasic": 25,
         "peDiluted": null,
-        "peTrailing": 9.54
+        "peTrailing": 8.85
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.74,
+        "date": "2026-09-29",
+        "peBasic": 24.57,
         "peDiluted": null,
-        "peTrailing": 9.46
+        "peTrailing": 8.69
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 27.17,
+        "date": "2026-09-30",
+        "peBasic": 24.57,
         "peDiluted": null,
-        "peTrailing": 9.62
+        "peTrailing": 8.69
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 26.96,
+        "date": "2026-10-01",
+        "peBasic": 24.35,
         "peDiluted": null,
-        "peTrailing": 9.54
+        "peTrailing": 8.62
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.74,
+        "date": "2026-10-04",
+        "peBasic": 23.91,
         "peDiluted": null,
-        "peTrailing": 9.46
+        "peTrailing": 8.46
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.22,
+        "date": "2026-10-05",
+        "peBasic": 23.48,
         "peDiluted": null,
-        "peTrailing": 8.92
+        "peTrailing": 8.31
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.42,
+        "date": "2026-09-28",
+        "peBasic": 9.66,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 10.34,
+        "date": "2026-09-29",
+        "peBasic": 9.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10.5,
+        "date": "2026-09-30",
+        "peBasic": 9.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.42,
+        "date": "2026-10-01",
+        "peBasic": 9.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 10.34,
+        "date": "2026-10-04",
+        "peBasic": 9.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.75,
+        "date": "2026-10-05",
+        "peBasic": 9.08,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01618 448756",
     "telephoneNo": "88-02-223389146"
   },
-  "scrapedAt": "2026-09-13T15:42:06.759Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:16.543Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (199.77%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 199.77,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2070.599,
+      "totalInterestBearingDebt": 4136.38
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BDFINANCE",
+  "cseQuote": {
+    "ltp": 11.6,
+    "open": 11.6,
+    "high": 11.6,
+    "low": 11.6,
+    "ycp": 11.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.833Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

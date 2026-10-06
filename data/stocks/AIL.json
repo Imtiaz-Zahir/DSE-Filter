@@ -2,44 +2,44 @@
   "tradingCode": "AIL",
   "scripCode": "17436",
   "companyName": "Alif Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AIL",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 20,
     "TRADING CODE": "AIL",
     "tradingCode": "AIL",
-    "LTP": 30.6,
-    "HIGH": 32,
-    "LOW": 30.1,
-    "CLOSEP": 30.6,
-    "YCP": 31.6,
-    "CHANGE": -1,
-    "TRADE": 213,
-    "VALUE (mn)": 1.542,
-    "VOLUME": 50392
+    "LTP": 29.4,
+    "HIGH": 30.4,
+    "LOW": 29.2,
+    "CLOSEP": 29.4,
+    "YCP": 29.8,
+    "CHANGE": -0.4,
+    "TRADE": 134,
+    "VALUE (mn)": 1.783,
+    "VOLUME": 60146
   },
   "marketInformation": {
-    "lastTradingPrice": 30.6,
+    "lastTradingPrice": 29.4,
     "daysRange": [
-      30.1,
-      32
+      29.2,
+      30.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.2,
-      58.5
+      57.5
     ],
-    "change": -1,
-    "daysTradeNos": 213,
-    "yesterdaysClose": 31.6,
-    "daysVolumeNos": 50392,
-    "adjustedOpeningPrice": 31.6,
-    "daysValueMn": 1.54,
-    "openingPrice": 32,
-    "marketCapMn": 1538.188,
-    "closingPrice": 30.6,
-    "freeFloatMarketCapMn": 1073.04
+    "change": -0.4,
+    "daysTradeNos": 134,
+    "yesterdaysClose": 29.8,
+    "daysVolumeNos": 60146,
+    "adjustedOpeningPrice": 29.8,
+    "daysValueMn": 1.78,
+    "openingPrice": 30.4,
+    "marketCapMn": 1450.57,
+    "closingPrice": 29.4,
+    "freeFloatMarketCapMn": 1011.917
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.88,
+        "date": "2026-09-28",
+        "peBasic": 10.35,
         "peDiluted": null,
-        "peTrailing": 11.93
+        "peTrailing": 11.35
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.08,
-        "peDiluted": null,
-        "peTrailing": 12.15
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 10.62,
-        "peDiluted": null,
-        "peTrailing": 11.64
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 10.62,
-        "peDiluted": null,
-        "peTrailing": 11.64
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 10.49,
-        "peDiluted": null,
-        "peTrailing": 11.49
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 10.15,
         "peDiluted": null,
         "peTrailing": 11.13
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 10.12,
+        "peDiluted": null,
+        "peTrailing": 11.09
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 10.15,
+        "peDiluted": null,
+        "peTrailing": 11.13
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 9.89,
+        "peDiluted": null,
+        "peTrailing": 10.84
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 9.76,
+        "peDiluted": null,
+        "peTrailing": 10.69
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.9,
-        "peDiluted": 15.33
+        "date": "2026-09-28",
+        "peBasic": 13.22,
+        "peDiluted": 14.58
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.15,
-        "peDiluted": 15.61
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 13.56,
-        "peDiluted": 14.95
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 13.56,
-        "peDiluted": 14.95
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 13.39,
-        "peDiluted": 14.77
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 12.97,
         "peDiluted": 14.3
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 12.92,
+        "peDiluted": 14.25
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 12.97,
+        "peDiluted": 14.3
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 12.63,
+        "peDiluted": 13.93
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 12.46,
+        "peDiluted": 13.74
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "01787694812",
     "telephoneNo": "58815226, 58815227"
   },
-  "scrapedAt": "2026-09-13T15:41:52.131Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:06.296Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1450.57,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AIL",
+  "cseQuote": {
+    "ltp": 31,
+    "open": 31,
+    "high": 31,
+    "low": 31,
+    "ycp": 31,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

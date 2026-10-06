@@ -2,27 +2,27 @@
   "tradingCode": "SHASHADNIM",
   "scripCode": "17466",
   "companyName": "Shasha Denims PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SHASHADNIM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SHASHADNIM",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 334,
     "TRADING CODE": "SHASHADNIM",
     "tradingCode": "SHASHADNIM",
-    "LTP": 27.3,
+    "LTP": 27.5,
     "HIGH": 28,
-    "LOW": 26.5,
-    "CLOSEP": 27.3,
-    "YCP": 27.3,
-    "CHANGE": 0,
-    "TRADE": 287,
-    "VALUE (mn)": 10.483,
-    "VOLUME": 384121
+    "LOW": 27.3,
+    "CLOSEP": 27.5,
+    "YCP": 27.7,
+    "CHANGE": -0.2,
+    "TRADE": 284,
+    "VALUE (mn)": 9.114,
+    "VOLUME": 331226
   },
   "marketInformation": {
-    "lastTradingPrice": 27.3,
+    "lastTradingPrice": 27.5,
     "daysRange": [
-      26.5,
+      27.3,
       28
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       13.8,
       30.6
     ],
-    "change": 0,
-    "daysTradeNos": 287,
-    "yesterdaysClose": 27.3,
-    "daysVolumeNos": 384121,
-    "adjustedOpeningPrice": 27.3,
-    "daysValueMn": 10.48,
+    "change": -0.2,
+    "daysTradeNos": 284,
+    "yesterdaysClose": 27.7,
+    "daysVolumeNos": 331226,
+    "adjustedOpeningPrice": 27.7,
+    "daysValueMn": 9.11,
     "openingPrice": 28,
-    "marketCapMn": 3850.28,
-    "closingPrice": 27.3,
-    "freeFloatMarketCapMn": 2127.404
+    "marketCapMn": 3906.695,
+    "closingPrice": 27.5,
+    "freeFloatMarketCapMn": 2158.575
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 53.65,
+        "date": "2026-09-28",
+        "peBasic": 50.38,
         "peDiluted": null,
-        "peTrailing": 42.27
+        "peTrailing": 39.7
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 54.23,
+        "date": "2026-09-29",
+        "peBasic": 51.73,
         "peDiluted": null,
-        "peTrailing": 42.73
+        "peTrailing": 40.76
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 53.46,
+        "date": "2026-09-30",
+        "peBasic": 52.69,
         "peDiluted": null,
-        "peTrailing": 42.12
+        "peTrailing": 41.52
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 53.85,
+        "date": "2026-10-01",
+        "peBasic": 53.08,
         "peDiluted": null,
-        "peTrailing": 42.42
+        "peTrailing": 41.82
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 52.5,
+        "date": "2026-10-04",
+        "peBasic": 53.27,
         "peDiluted": null,
-        "peTrailing": 41.36
+        "peTrailing": 41.97
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 52.5,
+        "date": "2026-10-05",
+        "peBasic": 52.88,
         "peDiluted": null,
-        "peTrailing": 41.36
+        "peTrailing": 41.67
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.77,
+        "date": "2026-09-28",
+        "peBasic": 16.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.96,
+        "date": "2026-09-29",
+        "peBasic": 17.13,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 17.71,
+        "date": "2026-09-30",
+        "peBasic": 17.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 17.83,
+        "date": "2026-10-01",
+        "peBasic": 17.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 17.39,
+        "date": "2026-10-04",
+        "peBasic": 17.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.39,
+        "date": "2026-10-05",
+        "peBasic": 17.52,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01730 022 143",
     "telephoneNo": "+88-02-9836102,9836104"
   },
-  "scrapedAt": "2026-09-13T15:43:57.368Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:21.684Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 19.99% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 19.99,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3906.695,
+      "totalInterestBearingDebt": 780.97
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SHASHADNIM",
+  "cseQuote": {
+    "ltp": 27.4,
+    "open": 27.5,
+    "high": 27.4,
+    "low": 26.4,
+    "ycp": 27.5,
+    "change": -0.1,
+    "changePct": -0.36,
+    "trades": 3,
+    "valueMn": 0.12,
+    "volume": 4500,
+    "updatedDate": "2026-10-06T01:10:39.857Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

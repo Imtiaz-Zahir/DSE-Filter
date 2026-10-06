@@ -2,44 +2,44 @@
   "tradingCode": "ASIAPACINS",
   "scripCode": "25729",
   "companyName": "Asia Pacific General Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ASIAPACINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ASIAPACINS",
   "lastAGMHeldOn": "2026-07-09",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 40,
     "TRADING CODE": "ASIAPACINS",
     "tradingCode": "ASIAPACINS",
-    "LTP": 46.2,
-    "HIGH": 48.2,
-    "LOW": 46,
-    "CLOSEP": 46.2,
-    "YCP": 47.7,
-    "CHANGE": -1.5,
-    "TRADE": 320,
-    "VALUE (mn)": 5.841,
-    "VOLUME": 124868
+    "LTP": 46.4,
+    "HIGH": 48.3,
+    "LOW": 46.3,
+    "CLOSEP": 46.4,
+    "YCP": 47.4,
+    "CHANGE": -1,
+    "TRADE": 143,
+    "VALUE (mn)": 3.441,
+    "VOLUME": 73728
   },
   "marketInformation": {
-    "lastTradingPrice": 46.2,
+    "lastTradingPrice": 46.4,
     "daysRange": [
-      46,
-      48.2
+      46.3,
+      48.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       27.7,
       55.7
     ],
-    "change": -1.5,
-    "daysTradeNos": 320,
-    "yesterdaysClose": 47.7,
-    "daysVolumeNos": 124868,
-    "adjustedOpeningPrice": 47.7,
-    "daysValueMn": 5.84,
-    "openingPrice": 48.2,
-    "marketCapMn": 2020.095,
-    "closingPrice": 46.2,
-    "freeFloatMarketCapMn": 1341.152
+    "change": -1,
+    "daysTradeNos": 143,
+    "yesterdaysClose": 47.4,
+    "daysVolumeNos": 73728,
+    "adjustedOpeningPrice": 47.4,
+    "daysValueMn": 3.44,
+    "openingPrice": 48.3,
+    "marketCapMn": 2007.39,
+    "closingPrice": 46.4,
+    "freeFloatMarketCapMn": 1332.717
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 11.07,
+        "peDiluted": null,
+        "peTrailing": 17.26
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 11.12,
+        "peDiluted": null,
+        "peTrailing": 17.33
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 11.14,
         "peDiluted": null,
         "peTrailing": 17.37
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.16,
+        "date": "2026-10-01",
+        "peBasic": 10.91,
         "peDiluted": null,
-        "peTrailing": 17.4
+        "peTrailing": 17.01
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10.89,
+        "date": "2026-10-04",
+        "peBasic": 10.82,
         "peDiluted": null,
-        "peTrailing": 16.98
+        "peTrailing": 16.87
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.89,
+        "date": "2026-10-05",
+        "peBasic": 10.59,
         "peDiluted": null,
-        "peTrailing": 16.98
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 10.89,
-        "peDiluted": null,
-        "peTrailing": 16.98
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 10.55,
-        "peDiluted": null,
-        "peTrailing": 16.44
+        "peTrailing": 16.51
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 19.32,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 19.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 19.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.48,
+        "date": "2026-10-01",
+        "peBasic": 19.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19,
+        "date": "2026-10-04",
+        "peBasic": 18.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 19,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 18.41,
+        "date": "2026-10-05",
+        "peBasic": 18.49,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+8801914397616",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:01.157Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:11.632Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2007.39,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ASIAPACINS",
+  "cseQuote": {
+    "ltp": 48,
+    "open": 48,
+    "high": 48,
+    "low": 48,
+    "ycp": 48,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -20,6 +20,10 @@ import {
   getSector,
   getCategory,
   getShariaCompliant,
+  getShariahBadgeStatus,
+  getExchanges,
+  isDualListed,
+  getCseLtp,
   getLtp,
   getChange,
   getChangePct,
@@ -77,7 +81,7 @@ export function StockGrid({
         const high = getDayHigh(stock);
         const low = getDayLow(stock);
         const cat = getCategory(stock);
-        const isSharia = getShariaCompliant(stock);
+        const shariahStatus = getShariahBadgeStatus(stock);
         const sector = getSector(stock);
 
         return (
@@ -105,11 +109,31 @@ export function StockGrid({
                       >
                         {cat}
                       </Badge>
-                      {isSharia && (
-                        <span className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0.2 text-[9px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
-                          DSES
+                      {shariahStatus === "compliant" && (
+                        <span
+                          title="Fully Sharia Compliant (0% Purification Required)"
+                          className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0.2 text-[9px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20"
+                        >
+                          Sharia
                         </span>
                       )}
+                      {shariahStatus === "non-compliant" && (
+                        <span
+                          title="Non-Compliant with Shariah Criteria"
+                          className="inline-flex items-center rounded bg-rose-500/10 px-1 py-0.2 text-[9px] font-bold text-rose-600 dark:text-rose-400 border border-rose-500/20"
+                        >
+                          Non-Compliant
+                        </span>
+                      )}
+                      {isDualListed(stock) ? (
+                        <span className="inline-flex items-center rounded bg-blue-500/10 px-1 py-0.2 text-[9px] font-semibold text-blue-600 dark:text-blue-400 border border-blue-500/20">
+                          DSE+CSE
+                        </span>
+                      ) : !stock.isDseListed && stock.isCseListed ? (
+                        <span className="inline-flex items-center rounded bg-amber-500/10 px-1 py-0.2 text-[9px] font-semibold text-amber-600 dark:text-amber-400 border border-amber-500/20">
+                          CSE
+                        </span>
+                      ) : null}
                     </div>
                     <div className="text-[11px] text-muted-foreground truncate mt-0.5" title={stock.companyName || ""}>
                       {stock.companyName}

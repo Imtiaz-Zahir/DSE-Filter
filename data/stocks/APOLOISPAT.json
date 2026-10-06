@@ -2,44 +2,44 @@
   "tradingCode": "APOLOISPAT",
   "scripCode": "13233",
   "companyName": "Appollo Ispat Complex Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=APOLOISPAT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=APOLOISPAT",
   "lastAGMHeldOn": "2024-12-19",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 35,
     "TRADING CODE": "APOLOISPAT",
     "tradingCode": "APOLOISPAT",
-    "LTP": 3,
-    "HIGH": 3,
-    "LOW": 2.9,
-    "CLOSEP": 3,
-    "YCP": 3,
-    "CHANGE": 0,
-    "TRADE": 69,
-    "VALUE (mn)": 0.628,
-    "VOLUME": 212936
+    "LTP": 2.6,
+    "HIGH": 2.8,
+    "LOW": 2.5,
+    "CLOSEP": 2.6,
+    "YCP": 2.7,
+    "CHANGE": -0.1,
+    "TRADE": 209,
+    "VALUE (mn)": 2.166,
+    "VOLUME": 837005
   },
   "marketInformation": {
-    "lastTradingPrice": 3,
+    "lastTradingPrice": 2.6,
     "daysRange": [
-      2.9,
-      3
+      2.5,
+      2.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.3,
       4.8
     ],
-    "change": 0,
-    "daysTradeNos": 69,
-    "yesterdaysClose": 3,
-    "daysVolumeNos": 212936,
-    "adjustedOpeningPrice": 3,
-    "daysValueMn": 0.63,
-    "openingPrice": 3,
-    "marketCapMn": 1203.926,
-    "closingPrice": 3,
-    "freeFloatMarketCapMn": 898.794
+    "change": -0.1,
+    "daysTradeNos": 209,
+    "yesterdaysClose": 2.7,
+    "daysVolumeNos": 837005,
+    "adjustedOpeningPrice": 2.7,
+    "daysValueMn": 2.17,
+    "openingPrice": 2.8,
+    "marketCapMn": 1083.533,
+    "closingPrice": 2.6,
+    "freeFloatMarketCapMn": 808.914
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:41:59.418Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:09.256Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (527.2%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 527.2,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1083.533,
+      "totalInterestBearingDebt": 5712.38
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/APOLOISPAT",
+  "cseQuote": {
+    "ltp": 2.6,
+    "open": 2.7,
+    "high": 2.7,
+    "low": 2.5,
+    "ycp": 2.7,
+    "change": -0.1,
+    "changePct": -3.7,
+    "trades": 8,
+    "valueMn": 0.04,
+    "volume": 17150,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

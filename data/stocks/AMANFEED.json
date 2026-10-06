@@ -2,44 +2,44 @@
   "tradingCode": "AMANFEED",
   "scripCode": "99641",
   "companyName": "Aman Feed PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AMANFEED",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AMANFEED",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 25,
     "TRADING CODE": "AMANFEED",
     "tradingCode": "AMANFEED",
-    "LTP": 30.7,
-    "HIGH": 31.4,
-    "LOW": 30.5,
-    "CLOSEP": 30.7,
-    "YCP": 31.3,
-    "CHANGE": -0.6,
-    "TRADE": 507,
-    "VALUE (mn)": 9.011,
-    "VOLUME": 291882
+    "LTP": 28.6,
+    "HIGH": 30.3,
+    "LOW": 28.3,
+    "CLOSEP": 28.6,
+    "YCP": 30.2,
+    "CHANGE": -1.6,
+    "TRADE": 876,
+    "VALUE (mn)": 20.363,
+    "VOLUME": 693243
   },
   "marketInformation": {
-    "lastTradingPrice": 30.7,
+    "lastTradingPrice": 28.6,
     "daysRange": [
-      30.5,
-      31.4
+      28.3,
+      30.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.2,
       41.4
     ],
-    "change": -0.6,
-    "daysTradeNos": 507,
-    "yesterdaysClose": 31.3,
-    "daysVolumeNos": 291882,
-    "adjustedOpeningPrice": 31.3,
-    "daysValueMn": 9.01,
-    "openingPrice": 31.3,
-    "marketCapMn": 4099.374,
-    "closingPrice": 30.7,
-    "freeFloatMarketCapMn": 1506.012
+    "change": -1.6,
+    "daysTradeNos": 876,
+    "yesterdaysClose": 30.2,
+    "daysVolumeNos": 693243,
+    "adjustedOpeningPrice": 30.2,
+    "daysValueMn": 20.36,
+    "openingPrice": 30.2,
+    "marketCapMn": 3955.306,
+    "closingPrice": 28.6,
+    "freeFloatMarketCapMn": 1453.085
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 42.41,
+        "date": "2026-09-28",
+        "peBasic": 39.44,
         "peDiluted": null,
-        "peTrailing": 218.67
+        "peTrailing": 203.33
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 41.9,
+        "date": "2026-09-29",
+        "peBasic": 39.18,
         "peDiluted": null,
-        "peTrailing": 216
+        "peTrailing": 202
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 40.09,
+        "date": "2026-09-30",
+        "peBasic": 40.86,
         "peDiluted": null,
-        "peTrailing": 206.67
+        "peTrailing": 210.67
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 41.51,
-        "peDiluted": null,
-        "peTrailing": 214
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 40.47,
-        "peDiluted": null,
-        "peTrailing": 208.67
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 39.7,
         "peDiluted": null,
         "peTrailing": 204.67
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 39.05,
+        "peDiluted": null,
+        "peTrailing": 201.33
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 36.98,
+        "peDiluted": null,
+        "peTrailing": 190.67
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 149.09,
+        "date": "2026-09-28",
+        "peBasic": 138.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 147.27,
+        "date": "2026-09-29",
+        "peBasic": 137.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 140.91,
+        "date": "2026-09-30",
+        "peBasic": 143.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 145.91,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 142.27,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 139.55,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 137.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 130,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01755 675 028",
     "telephoneNo": "+8802-48961691-3; 09606-613000"
   },
-  "scrapedAt": "2026-09-13T15:41:56.388Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:07.624Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (58.11%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 58.11,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3955.306,
+      "totalInterestBearingDebt": 2298.25
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AMANFEED",
+  "cseQuote": {
+    "ltp": 29,
+    "open": 31.3,
+    "high": 29,
+    "low": 29,
+    "ycp": 31.3,
+    "change": -2.3,
+    "changePct": -7.35,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 50,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

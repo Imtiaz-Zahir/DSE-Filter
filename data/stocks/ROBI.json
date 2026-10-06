@@ -2,43 +2,43 @@
   "tradingCode": "ROBI",
   "scripCode": "27003",
   "companyName": "Robi Axiata PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ROBI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ROBI",
   "lastAGMHeldOn": "2026-04-22",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 311,
     "TRADING CODE": "ROBI",
     "tradingCode": "ROBI",
-    "LTP": 29.9,
-    "HIGH": 30.3,
-    "LOW": 29.8,
-    "CLOSEP": 29.9,
+    "LTP": 30,
+    "HIGH": 30.2,
+    "LOW": 29.9,
+    "CLOSEP": 30,
     "YCP": 30,
-    "CHANGE": -0.1,
-    "TRADE": 774,
-    "VALUE (mn)": 33.211,
-    "VOLUME": 1111208
+    "CHANGE": 0,
+    "TRADE": 390,
+    "VALUE (mn)": 19.043,
+    "VOLUME": 634755
   },
   "marketInformation": {
-    "lastTradingPrice": 29.9,
+    "lastTradingPrice": 30,
     "daysRange": [
-      29.8,
-      30.3
+      29.9,
+      30.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       26.7,
       33.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 774,
+    "change": 0,
+    "daysTradeNos": 390,
     "yesterdaysClose": 30,
-    "daysVolumeNos": 1111208,
+    "daysVolumeNos": 634755,
     "adjustedOpeningPrice": 30,
-    "daysValueMn": 33.21,
-    "openingPrice": 30,
+    "daysValueMn": 19.04,
+    "openingPrice": 30.2,
     "marketCapMn": 157137.987,
-    "closingPrice": 29.9,
+    "closingPrice": 30,
     "freeFloatMarketCapMn": 15713.788
   },
   "basicInformation": {
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.68,
+        "date": "2026-09-28",
+        "peBasic": 15.84,
         "peDiluted": null,
-        "peTrailing": 14.83
+        "peTrailing": 14.98
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 15.68,
-        "peDiluted": null,
-        "peTrailing": 14.83
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 15.68,
-        "peDiluted": null,
-        "peTrailing": 14.83
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 15.74,
         "peDiluted": null,
         "peTrailing": 14.88
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
+        "peBasic": 15.74,
+        "peDiluted": null,
+        "peTrailing": 14.88
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 15.84,
+        "peDiluted": null,
+        "peTrailing": 14.98
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 15.79,
         "peDiluted": null,
         "peTrailing": 14.93
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.74,
+        "date": "2026-10-05",
+        "peBasic": 15.79,
         "peDiluted": null,
-        "peTrailing": 14.88
+        "peTrailing": 14.93
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 16.65,
+        "date": "2026-09-28",
+        "peBasic": 16.82,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 16.65,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 16.65,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 16.7,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
+        "peBasic": 16.7,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 16.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 16.76,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 16.7,
+        "date": "2026-10-05",
+        "peBasic": 16.76,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,58 @@
     "cellNo": "+8801886110110",
     "telephoneNo": "+8801886110110"
   },
-  "scrapedAt": "2026-09-13T15:43:47.620Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:17.690Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 157137.987,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ROBI",
+  "cseQuote": {
+    "ltp": 30,
+    "open": 29.8,
+    "high": 30.1,
+    "low": 29.8,
+    "ycp": 29.8,
+    "change": 0.2,
+    "changePct": 0.67,
+    "trades": 44,
+    "valueMn": 0.89,
+    "volume": 29640,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

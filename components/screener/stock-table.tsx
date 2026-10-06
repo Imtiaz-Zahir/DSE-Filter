@@ -24,14 +24,19 @@ import {
   getChange,
   getChangePct,
   getCompanyName,
+  getCreditRating,
+  getCseLtp,
+  getCseVolume,
   getDayHigh,
   getDayLow,
   getDebt,
   getDivYieldPct,
   getEps,
+  getExchanges,
   getForeignPct,
   getFreeFloatCap,
   getGovtPct,
+  getIndices,
   getInstitutePct,
   getInstrumentType,
   getListingYear,
@@ -47,13 +52,17 @@ import {
   getScripCode,
   getSector,
   getShariaCompliant,
+  getShariahBadgeStatus,
   getSponsorPct,
+  getSpreadBdt,
+  getSpreadPct,
   getTrades,
   getTradingCode,
   getTurnover,
   getUnauditedPe,
   getVolume,
   getYcp,
+  isDualListed,
 } from "@/lib/stocks";
 import {
   formatBDT,
@@ -75,6 +84,7 @@ interface StockTableProps {
 }
 
 type ColumnKey =
+  | "exchange"
   | "sector"
   | "category"
   | "scripCode"
@@ -82,6 +92,9 @@ type ColumnKey =
   | "instrumentType"
   | "operationalStatus"
   | "ltp"
+  | "cseLtp"
+  | "spreadBdt"
+  | "spreadPct"
   | "changePct"
   | "change"
   | "ycp"
@@ -92,6 +105,7 @@ type ColumnKey =
   | "pe"
   | "auditedPe"
   | "unauditedPe"
+  | "creditRating"
   | "divYield"
   | "pb"
   | "nav"
@@ -103,6 +117,7 @@ type ColumnKey =
   | "authorizedCap"
   | "turnover"
   | "volume"
+  | "cseVolume"
   | "trades"
   | "debt"
   | "sponsorPct"
@@ -141,6 +156,32 @@ function formatHolding(value: number | null): string {
 }
 
 const columnDefinitions: readonly ColumnDefinition[] = [
+  {
+    key: "exchange",
+    label: "Exchange Listing",
+    header: "Exchange",
+    group: "Company",
+    sortField: "tradingCode",
+    defaultVisible: false,
+    align: "center",
+    widthClass: "min-w-[90px]",
+    render: (stock) => {
+      const exchanges = getExchanges(stock);
+      const isDual = exchanges.includes("DSE") && exchanges.includes("CSE");
+      if (isDual) {
+        return (
+          <span className="inline-flex items-center rounded bg-blue-500/10 px-1.5 py-0.5 text-[10px] font-semibold text-blue-600 dark:text-blue-400 border border-blue-500/20">
+            DSE+CSE
+          </span>
+        );
+      }
+      return (
+        <span className="inline-flex items-center rounded bg-secondary px-1.5 py-0.5 text-[10px] font-medium text-foreground">
+          {exchanges.join(", ")}
+        </span>
+      );
+    },
+  },
   {
     key: "sector",
     label: "Sector",
@@ -233,6 +274,48 @@ const columnDefinitions: readonly ColumnDefinition[] = [
     widthClass: "min-w-[90px]",
     cellClassName: "font-semibold sm:text-sm text-foreground",
     render: (stock) => formatBDT(getLtp(stock)),
+  },
+  {
+    key: "cseLtp",
+    label: "CSE Price (৳)",
+    header: "CSE LTP (৳)",
+    group: "Price",
+    sortField: "cseLtp",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[95px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatBDT(getCseLtp(stock)),
+  },
+  {
+    key: "spreadBdt",
+    label: "DSE vs CSE Spread (৳)",
+    header: "Spread (৳)",
+    group: "Price",
+    sortField: "spreadBdt",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[95px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => {
+      const spread = getSpreadBdt(stock);
+      return spread !== null ? (spread > 0 ? `+৳${spread}` : `৳${spread}`) : "-";
+    },
+  },
+  {
+    key: "spreadPct",
+    label: "Spread %",
+    header: "Spread %",
+    group: "Price",
+    sortField: "spreadPct",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[90px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => {
+      const pct = getSpreadPct(stock);
+      return pct !== null ? (pct > 0 ? `+${pct}%` : `${pct}%`) : "-";
+    },
   },
   {
     key: "changePct",
@@ -355,6 +438,18 @@ const columnDefinitions: readonly ColumnDefinition[] = [
     widthClass: "min-w-[115px]",
     cellClassName: "text-muted-foreground",
     render: (stock) => formatRatio(getUnauditedPe(stock)),
+  },
+  {
+    key: "creditRating",
+    label: "Credit Rating",
+    header: "Rating",
+    group: "Valuation",
+    sortField: "tradingCode",
+    defaultVisible: false,
+    align: "center",
+    widthClass: "min-w-[95px]",
+    cellClassName: "text-muted-foreground font-medium",
+    render: (stock) => getCreditRating(stock) || "-",
   },
   {
     key: "divYield",
@@ -497,6 +592,18 @@ const columnDefinitions: readonly ColumnDefinition[] = [
     widthClass: "min-w-[100px]",
     cellClassName: "text-muted-foreground",
     render: (stock) => formatInteger(getVolume(stock)),
+  },
+  {
+    key: "cseVolume",
+    label: "CSE Volume",
+    header: "CSE Vol",
+    group: "Trading",
+    sortField: "cseVolume",
+    defaultVisible: false,
+    align: "right",
+    widthClass: "min-w-[95px]",
+    cellClassName: "text-muted-foreground",
+    render: (stock) => formatInteger(getCseVolume(stock)),
   },
   {
     key: "trades",
@@ -890,7 +997,7 @@ export function StockTable({
                 stocks.map((stock) => {
                   const code = getTradingCode(stock);
                   const isChecked = selectedCodes.includes(code);
-                  const isSharia = getShariaCompliant(stock);
+                  const shariahStatus = getShariahBadgeStatus(stock);
 
                   return (
                     <tr
@@ -930,16 +1037,32 @@ export function StockTable({
                           href={`/stock/${encodeURIComponent(code)}`}
                           className="flex flex-col group-hover:text-primary"
                         >
-                          <div className="flex items-center gap-1.5">
+                          <div className="flex items-center gap-1.5 flex-wrap">
                             <span className="font-bold text-foreground group-hover:text-primary text-xs sm:text-sm">
                               {code}
                             </span>
-                            {isSharia && (
+                            {shariahStatus === "compliant" && (
                               <span
-                                title="DSES Sharia Compliant"
+                                title="Fully Sharia Compliant (0% Purification Required)"
                                 className="inline-flex items-center rounded bg-emerald-500/10 px-1 py-0.2 text-[9px] font-bold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20"
                               >
-                                DSES
+                                Sharia
+                              </span>
+                            )}
+                            {shariahStatus === "non-compliant" && (
+                              <span
+                                title="Non-Compliant with Shariah Criteria"
+                                className="inline-flex items-center rounded bg-rose-500/10 px-1 py-0.2 text-[9px] font-bold text-rose-600 dark:text-rose-400 border border-rose-500/20"
+                              >
+                                Non-Compliant
+                              </span>
+                            )}
+                            {!stock.isDseListed && stock.isCseListed && (
+                              <span
+                                title="CSE Listed Only"
+                                className="inline-flex items-center rounded bg-amber-500/10 px-1 py-0.2 text-[9px] font-bold text-amber-600 dark:text-amber-400 border border-amber-500/20"
+                              >
+                                CSE
                               </span>
                             )}
                           </div>

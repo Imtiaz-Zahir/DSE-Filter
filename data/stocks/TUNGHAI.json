@@ -2,44 +2,44 @@
   "tradingCode": "TUNGHAI",
   "scripCode": "17463",
   "companyName": "Tung Hai Knitting & Dyeing Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TUNGHAI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TUNGHAI",
   "lastAGMHeldOn": "2022-12-12",
   "forYearEnded": "2022-06-30",
   "overview": {
     "#": 373,
     "TRADING CODE": "TUNGHAI",
     "tradingCode": "TUNGHAI",
-    "LTP": 4.1,
-    "HIGH": 4.2,
-    "LOW": 4,
-    "CLOSEP": 4.1,
-    "YCP": 4.2,
-    "CHANGE": -0.1,
-    "TRADE": 112,
-    "VALUE (mn)": 0.646,
-    "VOLUME": 157235
+    "LTP": 4.6,
+    "HIGH": 4.8,
+    "LOW": 4.6,
+    "CLOSEP": 4.6,
+    "YCP": 4.6,
+    "CHANGE": 0,
+    "TRADE": 104,
+    "VALUE (mn)": 1.201,
+    "VOLUME": 258858
   },
   "marketInformation": {
-    "lastTradingPrice": 4.1,
+    "lastTradingPrice": 4.6,
     "daysRange": [
-      4,
-      4.2
+      4.6,
+      4.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.1,
       6
     ],
-    "change": -0.1,
-    "daysTradeNos": 112,
-    "yesterdaysClose": 4.2,
-    "daysVolumeNos": 157235,
-    "adjustedOpeningPrice": 4.2,
-    "daysValueMn": 0.65,
-    "openingPrice": 4.2,
-    "marketCapMn": 447.943,
-    "closingPrice": 4.1,
-    "freeFloatMarketCapMn": 313.387
+    "change": 0,
+    "daysTradeNos": 104,
+    "yesterdaysClose": 4.6,
+    "daysVolumeNos": 258858,
+    "adjustedOpeningPrice": 4.6,
+    "daysValueMn": 1.2,
+    "openingPrice": 4.7,
+    "marketCapMn": 490.604,
+    "closingPrice": 4.6,
+    "freeFloatMarketCapMn": 343.233
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:13.248Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:30.443Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (108.28%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 108.28,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 490.604,
+      "totalInterestBearingDebt": 531.23
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TUNGHAI",
+  "cseQuote": {
+    "ltp": 4.9,
+    "open": 4.9,
+    "high": 4.9,
+    "low": 4.9,
+    "ycp": 4.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

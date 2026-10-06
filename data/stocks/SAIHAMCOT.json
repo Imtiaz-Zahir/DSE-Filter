@@ -2,44 +2,44 @@
   "tradingCode": "SAIHAMCOT",
   "scripCode": "17453",
   "companyName": "Saiham Cotton Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAIHAMCOT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SAIHAMCOT",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 319,
     "TRADING CODE": "SAIHAMCOT",
     "tradingCode": "SAIHAMCOT",
-    "LTP": 22.2,
-    "HIGH": 22.9,
-    "LOW": 22,
-    "CLOSEP": 22.2,
-    "YCP": 22.7,
-    "CHANGE": -0.5,
-    "TRADE": 2395,
-    "VALUE (mn)": 114.973,
-    "VOLUME": 5140020
+    "LTP": 22.3,
+    "HIGH": 23.4,
+    "LOW": 22.2,
+    "CLOSEP": 22.3,
+    "YCP": 23.2,
+    "CHANGE": -0.9,
+    "TRADE": 1921,
+    "VALUE (mn)": 80.274,
+    "VOLUME": 3532708
   },
   "marketInformation": {
-    "lastTradingPrice": 22.2,
+    "lastTradingPrice": 22.3,
     "daysRange": [
-      22,
-      22.9
+      22.2,
+      23.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15.2,
       26.8
     ],
-    "change": -0.5,
-    "daysTradeNos": 2395,
-    "yesterdaysClose": 22.7,
-    "daysVolumeNos": 5140020,
-    "adjustedOpeningPrice": 22.7,
-    "daysValueMn": 114.97,
-    "openingPrice": 22.8,
-    "marketCapMn": 3377.193,
-    "closingPrice": 22.2,
-    "freeFloatMarketCapMn": 1775.015
+    "change": -0.9,
+    "daysTradeNos": 1921,
+    "yesterdaysClose": 23.2,
+    "daysVolumeNos": 3532708,
+    "adjustedOpeningPrice": 23.2,
+    "daysValueMn": 80.27,
+    "openingPrice": 23.4,
+    "marketCapMn": 3451.58,
+    "closingPrice": 22.3,
+    "freeFloatMarketCapMn": 1814.112
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 20.98,
+        "date": "2026-09-28",
+        "peBasic": 21.17,
         "peDiluted": null,
-        "peTrailing": 24.29
+        "peTrailing": 24.51
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.07,
+        "date": "2026-09-29",
+        "peBasic": 22.78,
         "peDiluted": null,
-        "peTrailing": 26.7
+        "peTrailing": 26.37
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 21.55,
+        "date": "2026-09-30",
+        "peBasic": 22.5,
         "peDiluted": null,
-        "peTrailing": 24.95
+        "peTrailing": 26.04
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 22.41,
+        "date": "2026-10-01",
+        "peBasic": 22.69,
         "peDiluted": null,
-        "peTrailing": 25.93
+        "peTrailing": 26.26
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 21.55,
+        "date": "2026-10-04",
+        "peBasic": 22.03,
         "peDiluted": null,
-        "peTrailing": 24.95
+        "peTrailing": 25.49
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 21.08,
+        "date": "2026-10-05",
+        "peBasic": 21.17,
         "peDiluted": null,
-        "peTrailing": 24.4
+        "peTrailing": 24.51
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 22.32,
+        "date": "2026-09-28",
+        "peBasic": 22.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 24.55,
+        "date": "2026-09-29",
+        "peBasic": 24.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 22.93,
+        "date": "2026-09-30",
+        "peBasic": 23.94,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 23.84,
+        "date": "2026-10-01",
+        "peBasic": 24.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 22.93,
+        "date": "2026-10-04",
+        "peBasic": 23.43,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 22.42,
+        "date": "2026-10-05",
+        "peBasic": 22.53,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01818-062160",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-13T15:43:50.010Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:18.857Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 1.14% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1.14,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3451.58,
+      "totalInterestBearingDebt": 39.32
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SAIHAMCOT",
+  "cseQuote": {
+    "ltp": 22.2,
+    "open": 23.3,
+    "high": 24,
+    "low": 22,
+    "ycp": 23.3,
+    "change": -1.1,
+    "changePct": -4.72,
+    "trades": 13,
+    "valueMn": 0.41,
+    "volume": 17751,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

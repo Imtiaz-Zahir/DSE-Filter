@@ -2,44 +2,44 @@
   "tradingCode": "ACI",
   "scripCode": "18455",
   "companyName": "Advanced Chemical Industries PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ACI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ACI",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 8,
     "TRADING CODE": "ACI",
     "tradingCode": "ACI",
-    "LTP": 180.7,
-    "HIGH": 186.9,
+    "LTP": 181,
+    "HIGH": 184.4,
     "LOW": 180,
-    "CLOSEP": 180.7,
-    "YCP": 186.7,
-    "CHANGE": -6,
-    "TRADE": 337,
-    "VALUE (mn)": 2.602,
-    "VOLUME": 14303
+    "CLOSEP": 181.4,
+    "YCP": 183,
+    "CHANGE": -2,
+    "TRADE": 263,
+    "VALUE (mn)": 3.134,
+    "VOLUME": 17301
   },
   "marketInformation": {
-    "lastTradingPrice": 180.7,
+    "lastTradingPrice": 181,
     "daysRange": [
       180,
-      186.9
+      184.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       165.1,
       231
     ],
-    "change": -6,
-    "daysTradeNos": 337,
-    "yesterdaysClose": 186.7,
-    "daysVolumeNos": 14303,
-    "adjustedOpeningPrice": 186.7,
-    "daysValueMn": 2.6,
-    "openingPrice": 186.9,
-    "marketCapMn": 16398.205,
-    "closingPrice": 180.7,
-    "freeFloatMarketCapMn": 7332.451
+    "change": -2,
+    "daysTradeNos": 263,
+    "yesterdaysClose": 183,
+    "daysVolumeNos": 17301,
+    "adjustedOpeningPrice": 183,
+    "daysValueMn": 3.13,
+    "openingPrice": 183,
+    "marketCapMn": 16073.227,
+    "closingPrice": 181.4,
+    "freeFloatMarketCapMn": 7187.137
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01708467600",
     "telephoneNo": "02226605101"
   },
-  "scrapedAt": "2026-09-13T15:40:55.413Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:02.901Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (34.52%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 34.52,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 16073.227,
+      "totalInterestBearingDebt": 5548.42
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ACI",
+  "cseQuote": {
+    "ltp": 193.8,
+    "open": 193.8,
+    "high": 193.8,
+    "low": 193.8,
+    "ycp": 193.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.828Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "MTB",
   "scripCode": "11123",
   "companyName": "Mutual Trust Bank PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MTB",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MTB",
   "lastAGMHeldOn": "2026-07-16",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 238,
     "TRADING CODE": "MTB",
     "tradingCode": "MTB",
-    "LTP": 12.5,
-    "HIGH": 13,
-    "LOW": 12.4,
-    "CLOSEP": 12.5,
-    "YCP": 12.9,
-    "CHANGE": -0.4,
-    "TRADE": 209,
-    "VALUE (mn)": 6.763,
-    "VOLUME": 531407
+    "LTP": 13.3,
+    "HIGH": 13.5,
+    "LOW": 13.3,
+    "CLOSEP": 13.4,
+    "YCP": 13.4,
+    "CHANGE": -0.1,
+    "TRADE": 52,
+    "VALUE (mn)": 1.229,
+    "VOLUME": 91868
   },
   "marketInformation": {
-    "lastTradingPrice": 12.5,
+    "lastTradingPrice": 13.3,
     "daysRange": [
-      12.4,
-      13
+      13.3,
+      13.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.9,
       14.7
     ],
-    "change": -0.4,
-    "daysTradeNos": 209,
-    "yesterdaysClose": 12.9,
-    "daysVolumeNos": 531407,
-    "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 6.76,
-    "openingPrice": 13,
-    "marketCapMn": 15624.525,
-    "closingPrice": 12.5,
-    "freeFloatMarketCapMn": 10439.642
+    "change": -0.1,
+    "daysTradeNos": 52,
+    "yesterdaysClose": 13.4,
+    "daysVolumeNos": 91868,
+    "adjustedOpeningPrice": 13.4,
+    "daysValueMn": 1.23,
+    "openingPrice": 13.5,
+    "marketCapMn": 16230.127,
+    "closingPrice": 13.4,
+    "freeFloatMarketCapMn": 10844.279
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -74,15 +74,6 @@
       "publicPct": 33.96
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 33.26,
-      "govtPct": 0,
-      "institutePct": 31.24,
-      "foreignPct": 0,
-      "publicPct": 35.5
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 33.18,
@@ -90,6 +81,15 @@
       "institutePct": 31.04,
       "foreignPct": 0,
       "publicPct": 35.78
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 33.18,
+      "govtPct": 0,
+      "institutePct": 31.43,
+      "foreignPct": 0,
+      "publicPct": 35.39
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 6.82,
+        "peDiluted": null,
+        "peTrailing": 4.58
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 6.82,
+        "peDiluted": null,
+        "peTrailing": 4.58
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 6.82,
+        "peDiluted": null,
+        "peTrailing": 4.58
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 6.82,
+        "peDiluted": null,
+        "peTrailing": 4.58
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 6.77,
         "peDiluted": null,
         "peTrailing": 4.54
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.67,
+        "date": "2026-10-05",
+        "peBasic": 6.77,
         "peDiluted": null,
-        "peTrailing": 4.47
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 6.62,
-        "peDiluted": null,
-        "peTrailing": 4.44
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 6.52,
-        "peDiluted": null,
-        "peTrailing": 4.37
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 6.52,
-        "peDiluted": null,
-        "peTrailing": 4.37
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 6.31,
-        "peDiluted": null,
-        "peTrailing": 4.24
+        "peTrailing": 4.54
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 4.3,
+        "peDiluted": 4.82
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 4.3,
+        "peDiluted": 4.82
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 4.3,
+        "peDiluted": 4.82
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 4.3,
+        "peDiluted": 4.82
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 4.27,
         "peDiluted": 4.79
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.2,
-        "peDiluted": 4.71
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 4.17,
-        "peDiluted": 4.68
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 4.11,
-        "peDiluted": 4.61
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.11,
-        "peDiluted": 4.61
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 3.98,
-        "peDiluted": 4.46
+        "date": "2026-10-05",
+        "peBasic": 4.27,
+        "peDiluted": 4.79
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "01711596025",
     "telephoneNo": "880 2-9846966"
   },
-  "scrapedAt": "2026-09-13T15:43:17.224Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:01.015Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (269.48%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 269.48,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 16230.127,
+      "totalInterestBearingDebt": 43736.73
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MTB",
+  "cseQuote": {
+    "ltp": 13.9,
+    "open": 13.5,
+    "high": 14.7,
+    "low": 13.1,
+    "ycp": 13.5,
+    "change": 0.4,
+    "changePct": 2.96,
+    "trades": 5,
+    "valueMn": 0.36,
+    "volume": 25219,
+    "updatedDate": "2026-10-06T01:10:39.849Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

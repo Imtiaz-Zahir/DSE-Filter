@@ -2,44 +2,44 @@
   "tradingCode": "RSRMSTEEL",
   "scripCode": "13235",
   "companyName": "Ratanpur Steel Re-Rolling Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RSRMSTEEL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RSRMSTEEL",
   "lastAGMHeldOn": "2021-12-30",
   "forYearEnded": "2021-06-30",
   "overview": {
     "#": 312,
     "TRADING CODE": "RSRMSTEEL",
     "tradingCode": "RSRMSTEEL",
-    "LTP": 6.9,
-    "HIGH": 7,
-    "LOW": 6.8,
-    "CLOSEP": 6.9,
-    "YCP": 7,
-    "CHANGE": -0.1,
-    "TRADE": 36,
-    "VALUE (mn)": 0.459,
-    "VOLUME": 66215
+    "LTP": 6.3,
+    "HIGH": 6.6,
+    "LOW": 5.8,
+    "CLOSEP": 5.9,
+    "YCP": 6.1,
+    "CHANGE": 0.2,
+    "TRADE": 84,
+    "VALUE (mn)": 0.234,
+    "VOLUME": 39018
   },
   "marketInformation": {
-    "lastTradingPrice": 6.9,
+    "lastTradingPrice": 6.3,
     "daysRange": [
-      6.8,
-      7
+      5.8,
+      6.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.3,
-      9.3
+      9
     ],
-    "change": -0.1,
-    "daysTradeNos": 36,
-    "yesterdaysClose": 7,
-    "daysVolumeNos": 66215,
-    "adjustedOpeningPrice": 7,
-    "daysValueMn": 0.46,
-    "openingPrice": 7,
-    "marketCapMn": 708.324,
-    "closingPrice": 6.9,
-    "freeFloatMarketCapMn": 496.354
+    "change": 0.2,
+    "daysTradeNos": 84,
+    "yesterdaysClose": 6.1,
+    "daysVolumeNos": 39018,
+    "adjustedOpeningPrice": 6.1,
+    "daysValueMn": 0.23,
+    "openingPrice": 6.4,
+    "marketCapMn": 617.253,
+    "closingPrice": 5.9,
+    "freeFloatMarketCapMn": 432.537
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": "01755553018",
     "telephoneNo": "+88 02 7191740"
   },
-  "scrapedAt": "2026-09-13T15:43:47.791Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:17.821Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (159.86%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 159.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 617.253,
+      "totalInterestBearingDebt": 986.72
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RSRMSTEEL",
+  "cseQuote": {
+    "ltp": 6.7,
+    "open": 6.7,
+    "high": 6.7,
+    "low": 6.7,
+    "ycp": 6.7,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "CONFIDCEM",
   "scripCode": "21621",
   "companyName": "Confidence Cement PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CONFIDCEM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CONFIDCEM",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 86,
     "TRADING CODE": "CONFIDCEM",
     "tradingCode": "CONFIDCEM",
-    "LTP": 58.4,
-    "HIGH": 61.8,
+    "LTP": 58.1,
+    "HIGH": 59.1,
     "LOW": 58,
-    "CLOSEP": 58.4,
-    "YCP": 61.2,
-    "CHANGE": -2.8,
-    "TRADE": 432,
-    "VALUE (mn)": 6.918,
-    "VOLUME": 116752
+    "CLOSEP": 58.1,
+    "YCP": 58.6,
+    "CHANGE": -0.5,
+    "TRADE": 282,
+    "VALUE (mn)": 3.195,
+    "VOLUME": 54572
   },
   "marketInformation": {
-    "lastTradingPrice": 58.4,
+    "lastTradingPrice": 58.1,
     "daysRange": [
       58,
-      61.8
+      59.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       44,
       74.6
     ],
-    "change": -2.8,
-    "daysTradeNos": 432,
-    "yesterdaysClose": 61.2,
-    "daysVolumeNos": 116752,
-    "adjustedOpeningPrice": 61.2,
-    "daysValueMn": 6.92,
-    "openingPrice": 61.8,
-    "marketCapMn": 5278.732,
-    "closingPrice": 58.4,
-    "freeFloatMarketCapMn": 3676.974
+    "change": -0.5,
+    "daysTradeNos": 282,
+    "yesterdaysClose": 58.6,
+    "daysVolumeNos": 54572,
+    "adjustedOpeningPrice": 58.6,
+    "daysValueMn": 3.2,
+    "openingPrice": 59.1,
+    "marketCapMn": 5054.472,
+    "closingPrice": 58.1,
+    "freeFloatMarketCapMn": 3520.763
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 33.32
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30.34,
-      "govtPct": 0,
-      "institutePct": 38.33,
-      "foreignPct": 0.15,
-      "publicPct": 31.18
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.34,
@@ -90,6 +81,15 @@
       "institutePct": 38.55,
       "foreignPct": 0.15,
       "publicPct": 30.96
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.34,
+      "govtPct": 0,
+      "institutePct": 38.38,
+      "foreignPct": 0.15,
+      "publicPct": 31.13
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.51,
+        "date": "2026-09-28",
+        "peBasic": 6.24,
         "peDiluted": null,
-        "peTrailing": 7.12
+        "peTrailing": 6.82
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.5,
+        "date": "2026-09-29",
+        "peBasic": 6.26,
         "peDiluted": null,
-        "peTrailing": 7.11
+        "peTrailing": 6.84
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.5,
+        "date": "2026-09-30",
+        "peBasic": 6.24,
         "peDiluted": null,
-        "peTrailing": 7.11
+        "peTrailing": 6.82
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.47,
+        "date": "2026-10-01",
+        "peBasic": 6.23,
         "peDiluted": null,
-        "peTrailing": 7.07
+        "peTrailing": 6.81
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.45,
+        "date": "2026-10-04",
+        "peBasic": 6.17,
         "peDiluted": null,
-        "peTrailing": 7.05
+        "peTrailing": 6.75
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.15,
+        "date": "2026-10-05",
+        "peBasic": 6.12,
         "peDiluted": null,
-        "peTrailing": 6.73
+        "peTrailing": 6.69
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.5,
+        "date": "2026-09-28",
+        "peBasic": 5.27,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.49,
+        "date": "2026-09-29",
+        "peBasic": 5.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.49,
+        "date": "2026-09-30",
+        "peBasic": 5.27,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.47,
+        "date": "2026-10-01",
+        "peBasic": 5.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.45,
+        "date": "2026-10-04",
+        "peBasic": 5.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.2,
+        "date": "2026-10-05",
+        "peBasic": 5.17,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01704 124 276",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:21.403Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:26.327Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.83% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.83,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 5054.472,
+      "totalInterestBearingDebt": 143.02
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CONFIDCEM",
+  "cseQuote": {
+    "ltp": 58.1,
+    "open": 59.9,
+    "high": 60,
+    "low": 58.1,
+    "ycp": 59.9,
+    "change": -1.8,
+    "changePct": -3.01,
+    "trades": 2,
+    "valueMn": 0.01,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

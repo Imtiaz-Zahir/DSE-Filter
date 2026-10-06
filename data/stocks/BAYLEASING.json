@@ -2,44 +2,44 @@
   "tradingCode": "BAYLEASING",
   "scripCode": "11148",
   "companyName": "Bay Leasing & Investment Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BAYLEASING",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BAYLEASING",
   "lastAGMHeldOn": "2026-09-10",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 49,
     "TRADING CODE": "BAYLEASING",
     "tradingCode": "BAYLEASING",
-    "LTP": 4.5,
-    "HIGH": 4.6,
-    "LOW": 4.4,
-    "CLOSEP": 4.5,
-    "YCP": 4.6,
-    "CHANGE": -0.1,
-    "TRADE": 37,
-    "VALUE (mn)": 0.433,
-    "VOLUME": 96210
+    "LTP": 4.1,
+    "HIGH": 4.3,
+    "LOW": 4,
+    "CLOSEP": 4,
+    "YCP": 4.1,
+    "CHANGE": 0,
+    "TRADE": 84,
+    "VALUE (mn)": 1.497,
+    "VOLUME": 369305
   },
   "marketInformation": {
-    "lastTradingPrice": 4.5,
+    "lastTradingPrice": 4.1,
     "daysRange": [
-      4.4,
-      4.6
+      4,
+      4.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.5,
       6.6
     ],
-    "change": -0.1,
-    "daysTradeNos": 37,
-    "yesterdaysClose": 4.6,
-    "daysVolumeNos": 96210,
-    "adjustedOpeningPrice": 4.6,
-    "daysValueMn": 0.43,
-    "openingPrice": 4.5,
-    "marketCapMn": 648.087,
-    "closingPrice": 4.5,
-    "freeFloatMarketCapMn": 529.445
+    "change": 0,
+    "daysTradeNos": 84,
+    "yesterdaysClose": 4.1,
+    "daysVolumeNos": 369305,
+    "adjustedOpeningPrice": 4.1,
+    "daysValueMn": 1.5,
+    "openingPrice": 4.1,
+    "marketCapMn": 577.643,
+    "closingPrice": 4,
+    "freeFloatMarketCapMn": 471.896
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01793 477 212",
     "telephoneNo": "+88 02 223352504"
   },
-  "scrapedAt": "2026-09-13T15:42:04.625Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:14.160Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (744.85%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 744.85,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 577.643,
+      "totalInterestBearingDebt": 4302.59
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BAYLEASING",
+  "cseQuote": {
+    "ltp": 4.2,
+    "open": 4.2,
+    "high": 4.2,
+    "low": 4.2,
+    "ycp": 4.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

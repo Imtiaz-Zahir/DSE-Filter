@@ -2,44 +2,44 @@
   "tradingCode": "NRBCBANK",
   "scripCode": "11150",
   "companyName": "NRBC Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NRBCBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NRBCBANK",
   "lastAGMHeldOn": "2026-06-25",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 254,
     "TRADING CODE": "NRBCBANK",
     "tradingCode": "NRBCBANK",
-    "LTP": 8.9,
-    "HIGH": 9,
-    "LOW": 8.6,
-    "CLOSEP": 8.9,
-    "YCP": 9,
-    "CHANGE": -0.1,
-    "TRADE": 44,
-    "VALUE (mn)": 2.872,
-    "VOLUME": 332895
+    "LTP": 9.1,
+    "HIGH": 9.2,
+    "LOW": 9,
+    "CLOSEP": 9.1,
+    "YCP": 9.1,
+    "CHANGE": 0,
+    "TRADE": 46,
+    "VALUE (mn)": 0.234,
+    "VOLUME": 25647
   },
   "marketInformation": {
-    "lastTradingPrice": 8.9,
+    "lastTradingPrice": 9.1,
     "daysRange": [
-      8.6,
-      9
+      9,
+      9.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       4.9,
       11
     ],
-    "change": -0.1,
-    "daysTradeNos": 44,
-    "yesterdaysClose": 9,
-    "daysVolumeNos": 332895,
-    "adjustedOpeningPrice": 9,
-    "daysValueMn": 2.87,
-    "openingPrice": 9,
-    "marketCapMn": 7457.846,
-    "closingPrice": 8.9,
-    "freeFloatMarketCapMn": 3052.639
+    "change": 0,
+    "daysTradeNos": 46,
+    "yesterdaysClose": 9.1,
+    "daysVolumeNos": 25647,
+    "adjustedOpeningPrice": 9.1,
+    "daysValueMn": 0.23,
+    "openingPrice": 9.2,
+    "marketCapMn": 7540.711,
+    "closingPrice": 9.1,
+    "freeFloatMarketCapMn": 3086.557
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.14,
+        "date": "2026-09-28",
+        "peBasic": 7.55,
         "peDiluted": null,
-        "peTrailing": 12.68
+        "peTrailing": 13.41
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.31,
+        "date": "2026-09-29",
+        "peBasic": 7.55,
         "peDiluted": null,
-        "peTrailing": 12.97
+        "peTrailing": 13.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.39,
+        "date": "2026-09-30",
+        "peBasic": 7.72,
         "peDiluted": null,
-        "peTrailing": 13.12
+        "peTrailing": 13.7
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.31,
+        "date": "2026-10-01",
+        "peBasic": 7.8,
         "peDiluted": null,
-        "peTrailing": 12.97
+        "peTrailing": 13.85
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 7.39,
+        "date": "2026-10-04",
+        "peBasic": 7.47,
         "peDiluted": null,
-        "peTrailing": 13.12
+        "peTrailing": 13.27
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.31,
+        "date": "2026-10-05",
+        "peBasic": 7.47,
         "peDiluted": null,
-        "peTrailing": 12.97
+        "peTrailing": 13.27
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 54.38,
+        "date": "2026-09-28",
+        "peBasic": 57.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 55.63,
+        "date": "2026-09-29",
+        "peBasic": 57.5,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 56.25,
+        "date": "2026-09-30",
+        "peBasic": 58.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 55.63,
+        "date": "2026-10-01",
+        "peBasic": 59.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 56.25,
+        "date": "2026-10-04",
+        "peBasic": 56.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 55.63,
+        "date": "2026-10-05",
+        "peBasic": 56.88,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+88 01955502070",
     "telephoneNo": "02223353422-30, Ext. 112"
   },
-  "scrapedAt": "2026-09-13T15:43:24.070Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:04.620Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (134.27%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 134.27,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 7540.711,
+      "totalInterestBearingDebt": 10125.01
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NRBCBANK",
+  "cseQuote": {
+    "ltp": 9.3,
+    "open": 9.3,
+    "high": 9.3,
+    "low": 9.2,
+    "ycp": 9.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 14,
+    "valueMn": 0.07,
+    "volume": 7100,
+    "updatedDate": "2026-10-06T01:10:39.850Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

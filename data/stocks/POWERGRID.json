@@ -2,44 +2,44 @@
   "tradingCode": "POWERGRID",
   "scripCode": "15308",
   "companyName": "Power Grid Company of Bangladesh Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=POWERGRID",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=POWERGRID",
   "lastAGMHeldOn": "2026-01-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 279,
     "TRADING CODE": "POWERGRID",
     "tradingCode": "POWERGRID",
-    "LTP": 37.6,
-    "HIGH": 38.8,
-    "LOW": 37.6,
-    "CLOSEP": 37.6,
-    "YCP": 38.2,
-    "CHANGE": -0.6,
-    "TRADE": 153,
-    "VALUE (mn)": 3.192,
-    "VOLUME": 84385
+    "LTP": 37,
+    "HIGH": 37.7,
+    "LOW": 36.1,
+    "CLOSEP": 36.9,
+    "YCP": 37.1,
+    "CHANGE": -0.1,
+    "TRADE": 147,
+    "VALUE (mn)": 2.554,
+    "VOLUME": 68999
   },
   "marketInformation": {
-    "lastTradingPrice": 37.6,
+    "lastTradingPrice": 37,
     "daysRange": [
-      37.6,
-      38.8
+      36.1,
+      37.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.6,
       42.8
     ],
-    "change": -0.6,
-    "daysTradeNos": 153,
-    "yesterdaysClose": 38.2,
-    "daysVolumeNos": 84385,
-    "adjustedOpeningPrice": 38.2,
-    "daysValueMn": 3.19,
-    "openingPrice": 38.8,
-    "marketCapMn": 34907.427,
-    "closingPrice": 37.6,
-    "freeFloatMarketCapMn": 6806.229
+    "change": -0.1,
+    "daysTradeNos": 147,
+    "yesterdaysClose": 37.1,
+    "daysVolumeNos": 68999,
+    "adjustedOpeningPrice": 37.1,
+    "daysValueMn": 2.55,
+    "openingPrice": 37,
+    "marketCapMn": 33902.239,
+    "closingPrice": 36.9,
+    "freeFloatMarketCapMn": 6610.238
   },
   "basicInformation": {
     "authorizedCapitalMn": 150000,
@@ -74,15 +74,6 @@
       "publicPct": 4.88
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 58.5,
-      "govtPct": 22,
-      "institutePct": 14.7,
-      "foreignPct": 0.01,
-      "publicPct": 4.79
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 58.5,
@@ -90,6 +81,15 @@
       "institutePct": 14.66,
       "foreignPct": 0.01,
       "publicPct": 4.83
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 58.5,
+      "govtPct": 22,
+      "institutePct": 14.63,
+      "foreignPct": 0.01,
+      "publicPct": 4.86
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.57,
-        "peDiluted": null,
-        "peTrailing": 8.88
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 4.59,
-        "peDiluted": null,
-        "peTrailing": 8.93
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 4.58,
-        "peDiluted": null,
-        "peTrailing": 8.9
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 4.58,
-        "peDiluted": null,
-        "peTrailing": 8.9
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.59,
-        "peDiluted": null,
-        "peTrailing": 8.93
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 4.52,
         "peDiluted": null,
         "peTrailing": 8.79
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 4.56,
+        "peDiluted": null,
+        "peTrailing": 8.86
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 4.56,
+        "peDiluted": null,
+        "peTrailing": 8.86
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 4.52,
+        "peDiluted": null,
+        "peTrailing": 8.79
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 4.46,
+        "peDiluted": null,
+        "peTrailing": 8.67
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 4.44,
+        "peDiluted": null,
+        "peTrailing": 8.62
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+88 01755 639 570",
     "telephoneNo": "02 2266 00934"
   },
-  "scrapedAt": "2026-09-13T15:43:31.897Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:10.714Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (1760.71%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1760.71,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 33902.239,
+      "totalInterestBearingDebt": 596920.24
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/POWERGRID",
+  "cseQuote": {
+    "ltp": 36.9,
+    "open": 36.9,
+    "high": 36.9,
+    "low": 36.9,
+    "ycp": 36.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

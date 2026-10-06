@@ -2,44 +2,44 @@
   "tradingCode": "GQBALLPEN",
   "scripCode": "99605",
   "companyName": "GQ Ball Pen Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GQBALLPEN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GQBALLPEN",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 152,
     "TRADING CODE": "GQBALLPEN",
     "tradingCode": "GQBALLPEN",
-    "LTP": 576.4,
-    "HIGH": 591.5,
-    "LOW": 569,
-    "CLOSEP": 576.4,
-    "YCP": 592.1,
-    "CHANGE": -15.7,
-    "TRADE": 313,
-    "VALUE (mn)": 9.368,
-    "VOLUME": 16138
+    "LTP": 590.1,
+    "HIGH": 597.9,
+    "LOW": 583.1,
+    "CLOSEP": 590.1,
+    "YCP": 598.9,
+    "CHANGE": -8.8,
+    "TRADE": 496,
+    "VALUE (mn)": 18.078,
+    "VOLUME": 30665
   },
   "marketInformation": {
-    "lastTradingPrice": 576.4,
+    "lastTradingPrice": 590.1,
     "daysRange": [
-      569,
-      591.5
+      583.1,
+      597.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       385,
       728
     ],
-    "change": -15.7,
-    "daysTradeNos": 313,
-    "yesterdaysClose": 592.1,
-    "daysVolumeNos": 16138,
-    "adjustedOpeningPrice": 592.1,
-    "daysValueMn": 9.37,
-    "openingPrice": 582.3,
-    "marketCapMn": 5286.323,
-    "closingPrice": 576.4,
-    "freeFloatMarketCapMn": 3289.56
+    "change": -8.8,
+    "daysTradeNos": 496,
+    "yesterdaysClose": 598.9,
+    "daysVolumeNos": 30665,
+    "adjustedOpeningPrice": 598.9,
+    "daysValueMn": 18.08,
+    "openingPrice": 597.8,
+    "marketCapMn": 5347.034,
+    "closingPrice": 590.1,
+    "freeFloatMarketCapMn": 3327.339
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,8 +74,8 @@
       "publicPct": 54.99
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 37.77,
       "govtPct": 0,
       "institutePct": 1.47,
@@ -83,8 +83,8 @@
       "publicPct": 60.71
     },
     {
-      "period": "Share Holding Percentage [as on Aug 31, 2026]",
-      "asOfDate": "2026-08-31",
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 37.77,
       "govtPct": 0,
       "institutePct": 1.47,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,57 @@
     "cellNo": "01708-830024",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:40.311Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:42.010Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 5347.034,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GQBALLPEN",
+  "cseQuote": {
+    "ltp": 595,
+    "open": 586,
+    "high": 595,
+    "low": 595,
+    "ycp": 586,
+    "change": 9,
+    "changePct": 1.54,
+    "trades": 1,
+    "valueMn": 0.1,
+    "volume": 170,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

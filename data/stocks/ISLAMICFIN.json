@@ -2,44 +2,44 @@
   "tradingCode": "ISLAMICFIN",
   "scripCode": "11133",
   "companyName": "Islamic Finance & Investment PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ISLAMICFIN",
-  "lastAGMHeldOn": "2025-08-28",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ISLAMICFIN",
+  "lastAGMHeldOn": "2026-09-24",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 184,
     "TRADING CODE": "ISLAMICFIN",
     "tradingCode": "ISLAMICFIN",
-    "LTP": 10.7,
-    "HIGH": 11,
-    "LOW": 10.6,
-    "CLOSEP": 10.7,
-    "YCP": 10.9,
-    "CHANGE": -0.2,
-    "TRADE": 52,
-    "VALUE (mn)": 0.466,
-    "VOLUME": 43150
+    "LTP": 10.1,
+    "HIGH": 10.7,
+    "LOW": 10,
+    "CLOSEP": 10.3,
+    "YCP": 10.6,
+    "CHANGE": -0.5,
+    "TRADE": 80,
+    "VALUE (mn)": 1.263,
+    "VOLUME": 120163
   },
   "marketInformation": {
-    "lastTradingPrice": 10.7,
+    "lastTradingPrice": 10.1,
     "daysRange": [
-      10.6,
-      11
+      10,
+      10.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       5.3,
       12.6
     ],
-    "change": -0.2,
-    "daysTradeNos": 52,
-    "yesterdaysClose": 10.9,
-    "daysVolumeNos": 43150,
-    "adjustedOpeningPrice": 10.9,
-    "daysValueMn": 0.47,
-    "openingPrice": 11,
-    "marketCapMn": 1529.561,
-    "closingPrice": 10.7,
-    "freeFloatMarketCapMn": 1058.219
+    "change": -0.5,
+    "daysTradeNos": 80,
+    "yesterdaysClose": 10.6,
+    "daysVolumeNos": 120163,
+    "adjustedOpeningPrice": 10.6,
+    "daysValueMn": 1.26,
+    "openingPrice": 10.7,
+    "marketCapMn": 1487.463,
+    "closingPrice": 10.3,
+    "freeFloatMarketCapMn": 1029.094
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -55,23 +55,23 @@
     "listingYear": 2005,
     "marketCategory": "Z",
     "electronicShare": true,
-    "cashDividend": "5% 2022, 10.50% 2021, 10% 2020, 10% 2019, 10% 2018, 14.50% 2017, 3% 2016, 13% 2015",
-    "bonusIssue": "4.50% 2018, 11% 2016, 4% 2014, 4% 2013, 10% 2012, 10% 2011, 16% 2010, 25% 2009, 16% 2008, 5% 2005",
-    "rightIssue": "1R:3 2012, 1R:2 2010",
-    "yearEnd": "31-Dec",
-    "reserveSurplusWithoutOciMn": -1375.1,
-    "otherComprehensiveIncomeMn": 0,
-    "remarks": "-"
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK 249,783341 Revaluation Reserve has been added to Reserve & Surplus."
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
-      "sponsorDirectorPct": 32.69,
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
+      "sponsorDirectorPct": 32.83,
       "govtPct": 0,
-      "institutePct": 22.95,
+      "institutePct": 24.22,
       "foreignPct": 0,
-      "publicPct": 44.36
+      "publicPct": 42.95
     },
     {
       "period": "Share Holding Percentage [as on Jun 30, 2026]",
@@ -151,91 +151,76 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 8
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 8
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 7.86
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 7.79
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": null,
-        "peDiluted": null,
-        "peTrailing": 7.79
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": 7.64
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.57
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.57
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.64
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.57
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": null,
+        "peDiluted": null,
+        "peTrailing": 7.36
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": null,
+        "date": "2026-09-28",
+        "peBasic": 27.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": null,
+        "date": "2026-09-29",
+        "peBasic": 27.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": null,
+        "date": "2026-09-30",
+        "peBasic": 27.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": null,
+        "date": "2026-10-01",
+        "peBasic": 27.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": null,
+        "date": "2026-10-04",
+        "peBasic": 27.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": null,
+        "date": "2026-10-05",
+        "peBasic": 26.41,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 1.54,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 14.99,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 215.77,
-      "tciOriginal": 215.77,
-      "tciRestated": 215.77
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": -1715.15,
       "tciOriginal": -1715.15,
       "tciRestated": -1715.15
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.39,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 2.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 54.77,
+      "tciOriginal": 54.77,
+      "tciRestated": 54.77
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 12.36,
-      "dividend": "10.00",
-      "cashDividendPct": 10,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 5.26
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 24.34,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -360,7 +360,7 @@
   ],
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
-    "longTermLoanMn": 312.54,
+    "longTermLoanMn": 162.52,
     "latestDividendStatus": null
   },
   "addressContact": {
@@ -374,6 +374,56 @@
     "cellNo": "01713-012683",
     "telephoneNo": "02-226603270-76"
   },
-  "scrapedAt": "2026-09-13T15:42:54.815Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:48.977Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1487.463,
+      "totalInterestBearingDebt": 162.52
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ISLAMICFIN",
+  "cseQuote": {
+    "ltp": 11.5,
+    "open": 11.5,
+    "high": 11.5,
+    "low": 11.5,
+    "ycp": 11.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

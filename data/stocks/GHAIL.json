@@ -2,44 +2,44 @@
   "tradingCode": "GHAIL",
   "scripCode": "14294",
   "companyName": "Golden Harvest Agro Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GHAIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GHAIL",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 144,
     "TRADING CODE": "GHAIL",
     "tradingCode": "GHAIL",
-    "LTP": 12.2,
-    "HIGH": 13,
-    "LOW": 12.2,
-    "CLOSEP": 12.5,
-    "YCP": 12.9,
-    "CHANGE": -0.7,
-    "TRADE": 259,
-    "VALUE (mn)": 5.761,
-    "VOLUME": 457911
+    "LTP": 11.5,
+    "HIGH": 12.3,
+    "LOW": 11.2,
+    "CLOSEP": 11.5,
+    "YCP": 12.1,
+    "CHANGE": -0.6,
+    "TRADE": 167,
+    "VALUE (mn)": 2.084,
+    "VOLUME": 176239
   },
   "marketInformation": {
-    "lastTradingPrice": 12.2,
+    "lastTradingPrice": 11.5,
     "daysRange": [
-      12.2,
-      13
+      11.2,
+      12.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       16.8
     ],
-    "change": -0.7,
-    "daysTradeNos": 259,
-    "yesterdaysClose": 12.9,
-    "daysVolumeNos": 457911,
-    "adjustedOpeningPrice": 12.9,
-    "daysValueMn": 5.76,
-    "openingPrice": 13,
-    "marketCapMn": 2784.305,
-    "closingPrice": 12.5,
-    "freeFloatMarketCapMn": 1488.124
+    "change": -0.6,
+    "daysTradeNos": 167,
+    "yesterdaysClose": 12.1,
+    "daysVolumeNos": 176239,
+    "adjustedOpeningPrice": 12.1,
+    "daysValueMn": 2.08,
+    "openingPrice": 12.2,
+    "marketCapMn": 2611.635,
+    "closingPrice": 11.5,
+    "freeFloatMarketCapMn": 1395.837
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -74,15 +74,6 @@
       "publicPct": 31.6
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30.42,
-      "govtPct": 0,
-      "institutePct": 39.12,
-      "foreignPct": 0.22,
-      "publicPct": 30.24
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.42,
@@ -90,6 +81,15 @@
       "institutePct": 36.8,
       "foreignPct": 0.22,
       "publicPct": 32.56
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.42,
+      "govtPct": 0,
+      "institutePct": 36.69,
+      "foreignPct": 0.22,
+      "publicPct": 32.67
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+8801313082970",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:36.822Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:40.066Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (55.24%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 55.24,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2611.635,
+      "totalInterestBearingDebt": 1442.71
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GHAIL",
+  "cseQuote": {
+    "ltp": 11.5,
+    "open": 12.1,
+    "high": 12,
+    "low": 11.5,
+    "ycp": 12.1,
+    "change": -0.6,
+    "changePct": -4.96,
+    "trades": 5,
+    "valueMn": 0.02,
+    "volume": 2000,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

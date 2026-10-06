@@ -2,44 +2,44 @@
   "tradingCode": "SINOBANGLA",
   "scripCode": "99635",
   "companyName": "Sinobangla Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SINOBANGLA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SINOBANGLA",
   "lastAGMHeldOn": "2026-01-26",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 344,
     "TRADING CODE": "SINOBANGLA",
     "tradingCode": "SINOBANGLA",
-    "LTP": 48.5,
-    "HIGH": 51.3,
-    "LOW": 48.1,
-    "CLOSEP": 48.5,
-    "YCP": 50.6,
-    "CHANGE": -2.1,
-    "TRADE": 438,
-    "VALUE (mn)": 8.205,
-    "VOLUME": 165748
+    "LTP": 46,
+    "HIGH": 48.3,
+    "LOW": 45.6,
+    "CLOSEP": 46,
+    "YCP": 47.9,
+    "CHANGE": -1.9,
+    "TRADE": 504,
+    "VALUE (mn)": 9.591,
+    "VOLUME": 205628
   },
   "marketInformation": {
-    "lastTradingPrice": 48.5,
+    "lastTradingPrice": 46,
     "daysRange": [
-      48.1,
-      51.3
+      45.6,
+      48.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       37.7,
       62.3
     ],
-    "change": -2.1,
-    "daysTradeNos": 438,
-    "yesterdaysClose": 50.6,
-    "daysVolumeNos": 165748,
-    "adjustedOpeningPrice": 50.6,
-    "daysValueMn": 8.21,
-    "openingPrice": 51,
-    "marketCapMn": 1532.919,
-    "closingPrice": 48.5,
-    "freeFloatMarketCapMn": 1063.669
+    "change": -1.9,
+    "daysTradeNos": 504,
+    "yesterdaysClose": 47.9,
+    "daysVolumeNos": 205628,
+    "adjustedOpeningPrice": 47.9,
+    "daysValueMn": 9.59,
+    "openingPrice": 48.2,
+    "marketCapMn": 1451.123,
+    "closingPrice": 46,
+    "freeFloatMarketCapMn": 1006.912
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 36.24,
+        "date": "2026-09-28",
+        "peBasic": 34.35,
         "peDiluted": null,
-        "peTrailing": 36.15
+        "peTrailing": 34.27
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 36.17,
+        "date": "2026-09-29",
+        "peBasic": 34.14,
         "peDiluted": null,
-        "peTrailing": 36.08
+        "peTrailing": 34.06
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 36.1,
+        "date": "2026-09-30",
+        "peBasic": 34.35,
         "peDiluted": null,
-        "peTrailing": 36.01
+        "peTrailing": 34.27
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 35.96,
-        "peDiluted": null,
-        "peTrailing": 35.87
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 35.47,
-        "peDiluted": null,
-        "peTrailing": 35.38
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 34,
         "peDiluted": null,
         "peTrailing": 33.92
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 33.57,
+        "peDiluted": null,
+        "peTrailing": 33.5
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 32.24,
+        "peDiluted": null,
+        "peTrailing": 32.17
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 40.71,
+        "date": "2026-09-28",
+        "peBasic": 38.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 40.63,
+        "date": "2026-09-29",
+        "peBasic": 38.35,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 40.55,
+        "date": "2026-09-30",
+        "peBasic": 38.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 40.39,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 39.84,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 38.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 37.72,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 36.22,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01711103201",
     "telephoneNo": "02-55013465"
   },
-  "scrapedAt": "2026-09-13T15:44:01.305Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:23.698Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 1.07% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1.07,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1451.123,
+      "totalInterestBearingDebt": 15.51
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SINOBANGLA",
+  "cseQuote": {
+    "ltp": 46,
+    "open": 50,
+    "high": 47.2,
+    "low": 46,
+    "ycp": 50,
+    "change": -4,
+    "changePct": -8,
+    "trades": 3,
+    "valueMn": 0.04,
+    "volume": 775,
+    "updatedDate": "2026-10-06T01:10:39.858Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

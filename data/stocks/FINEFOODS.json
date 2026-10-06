@@ -2,44 +2,44 @@
   "tradingCode": "FINEFOODS",
   "scripCode": "14292",
   "companyName": "Fine Foods Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FINEFOODS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FINEFOODS",
   "lastAGMHeldOn": "2025-12-20",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 134,
     "TRADING CODE": "FINEFOODS",
     "tradingCode": "FINEFOODS",
-    "LTP": 432.2,
-    "HIGH": 446.3,
-    "LOW": 425,
-    "CLOSEP": 432.2,
-    "YCP": 443.4,
-    "CHANGE": -11.2,
-    "TRADE": 518,
-    "VALUE (mn)": 10.781,
-    "VOLUME": 24964
+    "LTP": 461,
+    "HIGH": 467,
+    "LOW": 458.4,
+    "CLOSEP": 461,
+    "YCP": 464.9,
+    "CHANGE": -3.9,
+    "TRADE": 394,
+    "VALUE (mn)": 15.464,
+    "VOLUME": 33475
   },
   "marketInformation": {
-    "lastTradingPrice": 432.2,
+    "lastTradingPrice": 461,
     "daysRange": [
-      425,
-      446.3
+      458.4,
+      467
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       270,
       595.9
     ],
-    "change": -11.2,
-    "daysTradeNos": 518,
-    "yesterdaysClose": 443.4,
-    "daysVolumeNos": 24964,
-    "adjustedOpeningPrice": 443.4,
-    "daysValueMn": 10.78,
-    "openingPrice": 440,
-    "marketCapMn": 6196.035,
-    "closingPrice": 432.2,
-    "freeFloatMarketCapMn": 5332.817
+    "change": -3.9,
+    "daysTradeNos": 394,
+    "yesterdaysClose": 464.9,
+    "daysVolumeNos": 33475,
+    "adjustedOpeningPrice": 464.9,
+    "daysValueMn": 15.46,
+    "openingPrice": 464.3,
+    "marketCapMn": 6496.474,
+    "closingPrice": 461,
+    "freeFloatMarketCapMn": 5591.4
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 42.71,
+        "date": "2026-09-28",
+        "peBasic": 43.01,
         "peDiluted": null,
-        "peTrailing": 56.51
+        "peTrailing": 56.91
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 43.04,
+        "date": "2026-09-29",
+        "peBasic": 43.41,
         "peDiluted": null,
-        "peTrailing": 56.95
+        "peTrailing": 57.44
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 43.05,
+        "date": "2026-09-30",
+        "peBasic": 43.41,
         "peDiluted": null,
-        "peTrailing": 56.96
+        "peTrailing": 57.44
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 42.99,
+        "date": "2026-10-01",
+        "peBasic": 45.09,
         "peDiluted": null,
-        "peTrailing": 56.88
+        "peTrailing": 59.66
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 42.74,
+        "date": "2026-10-04",
+        "peBasic": 44.82,
         "peDiluted": null,
-        "peTrailing": 56.56
+        "peTrailing": 59.3
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 41.66,
+        "date": "2026-10-05",
+        "peBasic": 44.44,
         "peDiluted": null,
-        "peTrailing": 55.13
+        "peTrailing": 58.8
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 105.98,
+        "date": "2026-09-28",
+        "peBasic": 106.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 106.82,
+        "date": "2026-09-29",
+        "peBasic": 107.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 106.84,
+        "date": "2026-09-30",
+        "peBasic": 107.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 106.67,
+        "date": "2026-10-01",
+        "peBasic": 111.89,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 106.08,
+        "date": "2026-10-04",
+        "peBasic": 111.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 103.4,
+        "date": "2026-10-05",
+        "peBasic": 110.29,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01926 766469",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:34.395Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:37.679Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 6496.474,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FINEFOODS",
+  "cseQuote": {
+    "ltp": 445,
+    "open": 451,
+    "high": 445,
+    "low": 445,
+    "ycp": 451,
+    "change": -6,
+    "changePct": -1.33,
+    "trades": 3,
+    "valueMn": 0.88,
+    "volume": 1885,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "MERCANBANK",
   "scripCode": "11128",
   "companyName": "Mercantile Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MERCANBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MERCANBANK",
   "lastAGMHeldOn": "2026-06-24",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 222,
     "TRADING CODE": "MERCANBANK",
     "tradingCode": "MERCANBANK",
-    "LTP": 6.6,
-    "HIGH": 6.8,
-    "LOW": 6.5,
-    "CLOSEP": 6.6,
-    "YCP": 6.8,
-    "CHANGE": -0.2,
-    "TRADE": 134,
-    "VALUE (mn)": 4.856,
-    "VOLUME": 734242
+    "LTP": 6.2,
+    "HIGH": 6.2,
+    "LOW": 6.1,
+    "CLOSEP": 6.2,
+    "YCP": 6.2,
+    "CHANGE": 0,
+    "TRADE": 66,
+    "VALUE (mn)": 0.804,
+    "VOLUME": 130663
   },
   "marketInformation": {
-    "lastTradingPrice": 6.6,
+    "lastTradingPrice": 6.2,
     "daysRange": [
-      6.5,
-      6.8
+      6.1,
+      6.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       6.1,
-      9.6
+      9.4
     ],
-    "change": -0.2,
-    "daysTradeNos": 134,
-    "yesterdaysClose": 6.8,
-    "daysVolumeNos": 734242,
-    "adjustedOpeningPrice": 6.8,
-    "daysValueMn": 4.86,
-    "openingPrice": 6.7,
-    "marketCapMn": 7524.713,
-    "closingPrice": 6.6,
-    "freeFloatMarketCapMn": 4995.141
+    "change": 0,
+    "daysTradeNos": 66,
+    "yesterdaysClose": 6.2,
+    "daysVolumeNos": 130663,
+    "adjustedOpeningPrice": 6.2,
+    "daysValueMn": 0.8,
+    "openingPrice": 6.2,
+    "marketCapMn": 6860.768,
+    "closingPrice": 6.2,
+    "freeFloatMarketCapMn": 4554.393
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.68,
+        "date": "2026-09-28",
+        "peBasic": 14.32,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 15.23,
+        "date": "2026-09-29",
+        "peBasic": 14.55,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 15.68,
+        "date": "2026-09-30",
+        "peBasic": 14.32,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 15.45,
+        "date": "2026-10-01",
+        "peBasic": 14.32,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 15.45,
+        "date": "2026-10-04",
+        "peBasic": 14.09,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15,
+        "date": "2026-10-05",
+        "peBasic": 14.09,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.27,
+        "date": "2026-09-28",
+        "peBasic": 5.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.09,
+        "date": "2026-09-29",
+        "peBasic": 5.82,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.27,
+        "date": "2026-09-30",
+        "peBasic": 5.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.18,
+        "date": "2026-10-01",
+        "peBasic": 5.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.18,
+        "date": "2026-10-04",
+        "peBasic": 5.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6,
+        "date": "2026-10-05",
+        "peBasic": 5.64,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+8801713114661",
     "telephoneNo": "Direct: 02-223382702, 02-223382295 (Ext:209)"
   },
-  "scrapedAt": "2026-09-13T15:43:11.703Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:57.430Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (218.16%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 218.16,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 6860.768,
+      "totalInterestBearingDebt": 14967.17
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MERCANBANK",
+  "cseQuote": {
+    "ltp": 6.2,
+    "open": 6.2,
+    "high": 6.2,
+    "low": 6.2,
+    "ycp": 6.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.847Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

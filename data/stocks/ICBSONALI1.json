@@ -2,43 +2,43 @@
   "tradingCode": "ICBSONALI1",
   "scripCode": "12193",
   "companyName": "ICB AMCL Sonali Bank Limited 1st Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ICBSONALI1",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ICBSONALI1",
   "lastAGMHeldOn": "For the year ended:",
-  "forYearEnded": "2025-06-30",
+  "forYearEnded": "2026-06-30",
   "overview": {
     "#": 171,
     "TRADING CODE": "ICBSONALI1",
     "tradingCode": "ICBSONALI1",
-    "LTP": 6.9,
-    "HIGH": 7.1,
-    "LOW": 6.7,
-    "CLOSEP": 6.9,
-    "YCP": 6.9,
-    "CHANGE": 0,
-    "TRADE": 455,
-    "VALUE (mn)": 19.232,
-    "VOLUME": 2770603
+    "LTP": 8.1,
+    "HIGH": 8.2,
+    "LOW": 7.6,
+    "CLOSEP": 8.1,
+    "YCP": 7.6,
+    "CHANGE": 0.5,
+    "TRADE": 981,
+    "VALUE (mn)": 51.632,
+    "VOLUME": 6419400
   },
   "marketInformation": {
-    "lastTradingPrice": 6.9,
+    "lastTradingPrice": 8.1,
     "daysRange": [
-      6.7,
-      7.1
+      7.6,
+      8.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
-      7.9
+      8.4
     ],
-    "change": 0,
-    "daysTradeNos": 455,
-    "yesterdaysClose": 6.9,
-    "daysVolumeNos": 2770603,
-    "adjustedOpeningPrice": 6.9,
-    "daysValueMn": 19.23,
-    "openingPrice": 7.1,
-    "marketCapMn": 690,
-    "closingPrice": 6.9,
+    "change": 0.5,
+    "daysTradeNos": 981,
+    "yesterdaysClose": 7.6,
+    "daysVolumeNos": 6419400,
+    "adjustedOpeningPrice": 7.6,
+    "daysValueMn": 51.63,
+    "openingPrice": 7.6,
+    "marketCapMn": 760,
+    "closingPrice": 8.1,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -59,22 +59,13 @@
     "bonusIssue": "-",
     "rightIssue": "-",
     "yearEnd": "30-Jun",
-    "reserveSurplusWithoutOciMn": -177.5,
+    "reserveSurplusWithoutOciMn": -65.7,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "Data has been provided as per audited accounts"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
-      "asOfDate": "2025-06-30",
-      "sponsorDirectorPct": 25,
-      "govtPct": 0,
-      "institutePct": 31.49,
-      "foreignPct": 0,
-      "publicPct": 43.51
-    },
-    {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "period": "Share Holding Percentage [as on Jun 30, 2026 (year ended)]",
       "asOfDate": "2026-06-30",
       "sponsorDirectorPct": 25,
       "govtPct": 0,
@@ -90,6 +81,15 @@
       "institutePct": 30.41,
       "foreignPct": 0,
       "publicPct": 44.59
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 25,
+      "govtPct": 0,
+      "institutePct": 31.18,
+      "foreignPct": 0,
+      "publicPct": 43.82
     }
   ],
   "interimFinancials": [
@@ -151,91 +151,76 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.27,
+        "date": "2026-09-28",
+        "peBasic": 6.88,
         "peDiluted": null,
-        "peTrailing": 5.27
+        "peTrailing": 6.88
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.27,
+        "date": "2026-09-29",
+        "peBasic": 7.05,
         "peDiluted": null,
-        "peTrailing": 5.27
+        "peTrailing": 7.05
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 5.36,
+        "date": "2026-09-30",
+        "peBasic": 7.05,
         "peDiluted": null,
-        "peTrailing": 5.36
+        "peTrailing": 7.05
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.89,
+        "date": "2026-10-01",
+        "peBasic": 6.88,
         "peDiluted": null,
-        "peTrailing": 5.89
+        "peTrailing": 6.88
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.16,
+        "date": "2026-10-04",
+        "peBasic": 6.79,
         "peDiluted": null,
-        "peTrailing": 6.16
+        "peTrailing": 6.79
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.16,
+        "date": "2026-10-05",
+        "peBasic": 7.23,
         "peDiluted": null,
-        "peTrailing": 6.16
+        "peTrailing": 7.23
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": null,
+        "date": "2026-09-28",
+        "peBasic": 6.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": null,
+        "date": "2026-09-29",
+        "peBasic": 7.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": null,
+        "date": "2026-09-30",
+        "peBasic": 7.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": null,
+        "date": "2026-10-01",
+        "peBasic": 6.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": null,
+        "date": "2026-10-04",
+        "peBasic": 6.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": null,
+        "date": "2026-10-05",
+        "peBasic": 7.23,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2021,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 0.53,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 10.39,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 52.86,
-      "tciOriginal": 52.86,
-      "tciRestated": 356.7
-    },
     {
       "year": 2022,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": -4.08,
       "tciOriginal": -4.08,
       "tciRestated": -4.08
+    },
+    {
+      "year": 2026,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.12,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 9.34,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 111.18,
+      "tciOriginal": 111.18,
+      "tciRestated": 111.18
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2021,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 16.84,
-      "dividend": "7.00",
-      "cashDividendPct": 7,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 7.87
-    },
     {
       "year": 2022,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2026,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 4.74,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -373,6 +373,55 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-13T15:42:49.942Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:46.412Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 760,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ICBSONALI1",
+  "cseQuote": {
+    "ltp": 8.2,
+    "open": 8.1,
+    "high": 8.2,
+    "low": 8.2,
+    "ycp": 8.1,
+    "change": 0.1,
+    "changePct": 1.23,
+    "trades": 10,
+    "valueMn": 0.08,
+    "volume": 10200,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

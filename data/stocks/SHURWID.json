@@ -2,44 +2,44 @@
   "tradingCode": "SHURWID",
   "scripCode": "13234",
   "companyName": "Shurwid Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SHURWID",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SHURWID",
   "lastAGMHeldOn": "30/12/2019",
   "forYearEnded": "2019-06-30",
   "overview": {
     "#": 336,
     "TRADING CODE": "SHURWID",
     "tradingCode": "SHURWID",
-    "LTP": 5.8,
-    "HIGH": 6,
-    "LOW": 5.8,
-    "CLOSEP": 5.9,
-    "YCP": 5.9,
-    "CHANGE": -0.1,
-    "TRADE": 33,
-    "VALUE (mn)": 0.077,
-    "VOLUME": 13019
+    "LTP": 5.6,
+    "HIGH": 5.7,
+    "LOW": 5.4,
+    "CLOSEP": 5.6,
+    "YCP": 5.5,
+    "CHANGE": 0.1,
+    "TRADE": 18,
+    "VALUE (mn)": 0.103,
+    "VOLUME": 18485
   },
   "marketInformation": {
-    "lastTradingPrice": 5.8,
+    "lastTradingPrice": 5.6,
     "daysRange": [
-      5.8,
-      6
+      5.4,
+      5.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.2,
       7.8
     ],
-    "change": -0.1,
-    "daysTradeNos": 33,
-    "yesterdaysClose": 5.9,
-    "daysVolumeNos": 13019,
-    "adjustedOpeningPrice": 5.9,
-    "daysValueMn": 0.08,
-    "openingPrice": 6,
-    "marketCapMn": 338.47,
-    "closingPrice": 5.9,
-    "freeFloatMarketCapMn": 264.815
+    "change": 0.1,
+    "daysTradeNos": 18,
+    "yesterdaysClose": 5.5,
+    "daysVolumeNos": 18485,
+    "adjustedOpeningPrice": 5.5,
+    "daysValueMn": 0.1,
+    "openingPrice": 5.5,
+    "marketCapMn": 315.523,
+    "closingPrice": 5.6,
+    "freeFloatMarketCapMn": 246.861
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 2.26,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 2.26,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 2.3,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 2.38,
+        "date": "2026-10-01",
+        "peBasic": 2.22,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 2.42,
+        "date": "2026-10-04",
+        "peBasic": 2.18,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 2.34,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 2.34,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 2.34,
+        "date": "2026-10-05",
+        "peBasic": 2.22,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 4.13,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 4.13,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 4.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.35,
+        "date": "2026-10-01",
+        "peBasic": 4.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.42,
+        "date": "2026-10-04",
+        "peBasic": 3.99,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.28,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.28,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 4.28,
+        "date": "2026-10-05",
+        "peBasic": 4.06,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:58.234Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:22.682Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 19.44% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 19.44,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 315.523,
+      "totalInterestBearingDebt": 61.33
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SHURWID",
+  "cseQuote": {
+    "ltp": 6.1,
+    "open": 6.1,
+    "high": 6.1,
+    "low": 6.1,
+    "ycp": 6.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.857Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

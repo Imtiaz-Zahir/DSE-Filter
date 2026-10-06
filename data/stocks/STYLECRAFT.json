@@ -2,44 +2,44 @@
   "tradingCode": "STYLECRAFT",
   "scripCode": "17408",
   "companyName": "Stylecraft Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=STYLECRAFT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=STYLECRAFT",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 361,
     "TRADING CODE": "STYLECRAFT",
     "tradingCode": "STYLECRAFT",
-    "LTP": 52,
-    "HIGH": 53.2,
-    "LOW": 49.7,
-    "CLOSEP": 50.4,
-    "YCP": 53.2,
-    "CHANGE": -1.2,
-    "TRADE": 36,
-    "VALUE (mn)": 0.185,
-    "VOLUME": 3705
+    "LTP": 51.7,
+    "HIGH": 54.5,
+    "LOW": 51.3,
+    "CLOSEP": 51.7,
+    "YCP": 52.6,
+    "CHANGE": -0.9,
+    "TRADE": 72,
+    "VALUE (mn)": 0.437,
+    "VOLUME": 8429
   },
   "marketInformation": {
-    "lastTradingPrice": 52,
+    "lastTradingPrice": 51.7,
     "daysRange": [
-      49.7,
-      53.2
+      51.3,
+      54.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       40.3,
-      82.4
+      74.9
     ],
-    "change": -1.2,
-    "daysTradeNos": 36,
-    "yesterdaysClose": 53.2,
-    "daysVolumeNos": 3705,
-    "adjustedOpeningPrice": 53.2,
-    "daysValueMn": 0.19,
-    "openingPrice": 52,
-    "marketCapMn": 738.669,
-    "closingPrice": 50.4,
-    "freeFloatMarketCapMn": 502.088
+    "change": -0.9,
+    "daysTradeNos": 72,
+    "yesterdaysClose": 52.6,
+    "daysVolumeNos": 8429,
+    "adjustedOpeningPrice": 52.6,
+    "daysValueMn": 0.44,
+    "openingPrice": 52.2,
+    "marketCapMn": 730.338,
+    "closingPrice": 51.7,
+    "freeFloatMarketCapMn": 496.425
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 57.4
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 32.03,
-      "govtPct": 0,
-      "institutePct": 7.51,
-      "foreignPct": 0,
-      "publicPct": 60.46
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 32.03,
@@ -90,6 +81,15 @@
       "institutePct": 7.21,
       "foreignPct": 0,
       "publicPct": 60.76
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 32.03,
+      "govtPct": 0,
+      "institutePct": 7.11,
+      "foreignPct": 0,
+      "publicPct": 60.86
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,40 @@
     "cellNo": "01711527578",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:44:09.183Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:28.149Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (103.63%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 103.63,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 730.338,
+      "totalInterestBearingDebt": 756.82
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/STYLECRAFT",
+  "indices": [
+    "DSEX"
+  ]
 }

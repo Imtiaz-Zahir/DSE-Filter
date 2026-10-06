@@ -124,7 +124,7 @@ async function loadScreenerStocks(): Promise<ScreenerStock[]> {
  */
 export const fetchServerScreenerStocks = unstable_cache(
   async () => loadScreenerStocks(),
-  ["dse-screener-stocks"],
+  ["bangladesh-screener-stocks-v2"],
   {
     tags: [CACHE_TAGS.STOCKS, CACHE_TAGS.SCREENER],
   }
@@ -231,7 +231,7 @@ async function loadMeta(): Promise<DseMeta> {
  */
 export const fetchServerMeta = unstable_cache(
   async () => loadMeta(),
-  ["dse-meta"],
+  ["bangladesh-meta-v2"],
   {
     tags: [CACHE_TAGS.META, CACHE_TAGS.STOCKS],
   }

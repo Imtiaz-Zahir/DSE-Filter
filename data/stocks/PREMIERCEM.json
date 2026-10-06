@@ -2,44 +2,44 @@
   "tradingCode": "PREMIERCEM",
   "scripCode": "21645",
   "companyName": "Premier Cement Mills PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PREMIERCEM",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PREMIERCEM",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 283,
     "TRADING CODE": "PREMIERCEM",
     "tradingCode": "PREMIERCEM",
-    "LTP": 41.8,
-    "HIGH": 43.5,
-    "LOW": 41.6,
-    "CLOSEP": 41.8,
-    "YCP": 43.3,
-    "CHANGE": -1.5,
-    "TRADE": 375,
-    "VALUE (mn)": 8.255,
-    "VOLUME": 195472
+    "LTP": 41.5,
+    "HIGH": 42.7,
+    "LOW": 41.2,
+    "CLOSEP": 41.5,
+    "YCP": 42.3,
+    "CHANGE": -0.8,
+    "TRADE": 522,
+    "VALUE (mn)": 11.031,
+    "VOLUME": 263080
   },
   "marketInformation": {
-    "lastTradingPrice": 41.8,
+    "lastTradingPrice": 41.5,
     "daysRange": [
-      41.6,
-      43.5
+      41.2,
+      42.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       34.9,
       56
     ],
-    "change": -1.5,
-    "daysTradeNos": 375,
-    "yesterdaysClose": 43.3,
-    "daysVolumeNos": 195472,
-    "adjustedOpeningPrice": 43.3,
-    "daysValueMn": 8.26,
-    "openingPrice": 43.3,
-    "marketCapMn": 4565.985,
-    "closingPrice": 41.8,
-    "freeFloatMarketCapMn": 2922.657
+    "change": -0.8,
+    "daysTradeNos": 522,
+    "yesterdaysClose": 42.3,
+    "daysVolumeNos": 263080,
+    "adjustedOpeningPrice": 42.3,
+    "daysValueMn": 11.03,
+    "openingPrice": 42.6,
+    "marketCapMn": 4460.535,
+    "closingPrice": 41.5,
+    "freeFloatMarketCapMn": 2855.159
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 16.66,
+        "date": "2026-09-28",
+        "peBasic": 15.26,
         "peDiluted": null,
-        "peTrailing": 16.93
+        "peTrailing": 15.52
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 16.66,
+        "date": "2026-09-29",
+        "peBasic": 16.21,
         "peDiluted": null,
-        "peTrailing": 16.93
+        "peTrailing": 16.48
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 16.55,
+        "date": "2026-09-30",
+        "peBasic": 15.98,
         "peDiluted": null,
-        "peTrailing": 16.82
+        "peTrailing": 16.25
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 16.55,
+        "date": "2026-10-01",
+        "peBasic": 15.68,
         "peDiluted": null,
-        "peTrailing": 16.82
+        "peTrailing": 15.94
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 16.32,
+        "date": "2026-10-04",
+        "peBasic": 15.94,
         "peDiluted": null,
-        "peTrailing": 16.59
+        "peTrailing": 16.21
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.75,
+        "date": "2026-10-05",
+        "peBasic": 15.64,
         "peDiluted": null,
-        "peTrailing": 16.02
+        "peTrailing": 15.9
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 34.26,
+        "date": "2026-09-28",
+        "peBasic": 31.4,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 34.26,
+        "date": "2026-09-29",
+        "peBasic": 33.33,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 34.03,
+        "date": "2026-09-30",
+        "peBasic": 32.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 34.03,
+        "date": "2026-10-01",
+        "peBasic": 32.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 33.57,
+        "date": "2026-10-04",
+        "peBasic": 32.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 32.4,
+        "date": "2026-10-05",
+        "peBasic": 32.17,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+88 01714 003 195",
     "telephoneNo": "880255012191-8"
   },
-  "scrapedAt": "2026-09-13T15:43:33.877Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:11.456Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (120.16%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 120.16,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4460.535,
+      "totalInterestBearingDebt": 5359.59
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PREMIERCEM",
+  "cseQuote": {
+    "ltp": 44.8,
+    "open": 44.8,
+    "high": 44.8,
+    "low": 44.8,
+    "ycp": 44.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

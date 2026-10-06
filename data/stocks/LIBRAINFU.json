@@ -2,44 +2,44 @@
   "tradingCode": "LIBRAINFU",
   "scripCode": "18471",
   "companyName": "Libra Infusions Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LIBRAINFU",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=LIBRAINFU",
   "lastAGMHeldOn": "2023-12-27",
   "forYearEnded": "2021-06-30",
   "overview": {
     "#": 206,
     "TRADING CODE": "LIBRAINFU",
     "tradingCode": "LIBRAINFU",
-    "LTP": 572,
-    "HIGH": 578.5,
-    "LOW": 565,
-    "CLOSEP": 572,
-    "YCP": 577.8,
-    "CHANGE": -5.8,
-    "TRADE": 111,
-    "VALUE (mn)": 0.515,
-    "VOLUME": 904
+    "LTP": 557.9,
+    "HIGH": 567.9,
+    "LOW": 556,
+    "CLOSEP": 557.9,
+    "YCP": 563.2,
+    "CHANGE": -5.3,
+    "TRADE": 64,
+    "VALUE (mn)": 0.379,
+    "VOLUME": 676
   },
   "marketInformation": {
-    "lastTradingPrice": 572,
+    "lastTradingPrice": 557.9,
     "daysRange": [
-      565,
-      578.5
+      556,
+      567.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       547.1,
-      805
+      800.1
     ],
-    "change": -5.8,
-    "daysTradeNos": 111,
-    "yesterdaysClose": 577.8,
-    "daysVolumeNos": 904,
-    "adjustedOpeningPrice": 577.8,
-    "daysValueMn": 0.52,
-    "openingPrice": 572,
-    "marketCapMn": 1301.714,
-    "closingPrice": 572,
-    "freeFloatMarketCapMn": 853.665
+    "change": -5.3,
+    "daysTradeNos": 64,
+    "yesterdaysClose": 563.2,
+    "daysVolumeNos": 676,
+    "adjustedOpeningPrice": 563.2,
+    "daysValueMn": 0.38,
+    "openingPrice": 561.1,
+    "marketCapMn": 1268.822,
+    "closingPrice": 557.9,
+    "freeFloatMarketCapMn": 832.094
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 109.24,
+        "date": "2026-09-28",
+        "peBasic": 107.01,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 109.78,
+        "date": "2026-09-29",
+        "peBasic": 105.39,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 108.92,
+        "date": "2026-09-30",
+        "peBasic": 106.73,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 108.06,
+        "date": "2026-10-01",
+        "peBasic": 105.99,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 108.34,
+        "date": "2026-10-04",
+        "peBasic": 105.6,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 107.25,
+        "date": "2026-10-05",
+        "peBasic": 104.61,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3884,
-        "peDiluted": 5826
+        "date": "2026-09-28",
+        "peBasic": 3804.67,
+        "peDiluted": 5707
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3903.33,
-        "peDiluted": 5855
+        "date": "2026-09-29",
+        "peBasic": 3747.33,
+        "peDiluted": 5621
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3872.67,
-        "peDiluted": 5809
+        "date": "2026-09-30",
+        "peBasic": 3794.67,
+        "peDiluted": 5692
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3842,
-        "peDiluted": 5763
+        "date": "2026-10-01",
+        "peBasic": 3768.67,
+        "peDiluted": 5653
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3852,
-        "peDiluted": 5778
+        "date": "2026-10-04",
+        "peBasic": 3754.67,
+        "peDiluted": 5632
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 3813.33,
-        "peDiluted": 5720
+        "date": "2026-10-05",
+        "peBasic": 3719.33,
+        "peDiluted": 5579
       }
     ]
   },
@@ -371,6 +371,55 @@
     "cellNo": null,
     "telephoneNo": "48040254-5, Ext. 132"
   },
-  "scrapedAt": "2026-09-13T15:43:06.465Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:54.380Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (59.76%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 59.76,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1268.822,
+      "totalInterestBearingDebt": 758.29
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/LIBRAINFU",
+  "cseQuote": {
+    "ltp": 650,
+    "open": 650,
+    "high": 650,
+    "low": 650,
+    "ycp": 650,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

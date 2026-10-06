@@ -2,44 +2,44 @@
   "tradingCode": "CENTRALPHL",
   "scripCode": "18488",
   "companyName": "Central Pharmaceuticals Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CENTRALPHL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CENTRALPHL",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 81,
     "TRADING CODE": "CENTRALPHL",
     "tradingCode": "CENTRALPHL",
-    "LTP": 9.2,
-    "HIGH": 9.8,
-    "LOW": 9.1,
-    "CLOSEP": 9.2,
-    "YCP": 9.7,
-    "CHANGE": -0.5,
-    "TRADE": 331,
-    "VALUE (mn)": 2.852,
-    "VOLUME": 303506
+    "LTP": 8.7,
+    "HIGH": 8.9,
+    "LOW": 8.7,
+    "CLOSEP": 8.7,
+    "YCP": 8.9,
+    "CHANGE": -0.2,
+    "TRADE": 181,
+    "VALUE (mn)": 1.966,
+    "VOLUME": 223641
   },
   "marketInformation": {
-    "lastTradingPrice": 9.2,
+    "lastTradingPrice": 8.7,
     "daysRange": [
-      9.1,
-      9.8
+      8.7,
+      8.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.1,
       12.5
     ],
-    "change": -0.5,
-    "daysTradeNos": 331,
-    "yesterdaysClose": 9.7,
-    "daysVolumeNos": 303506,
-    "adjustedOpeningPrice": 9.7,
-    "daysValueMn": 2.85,
-    "openingPrice": 9.8,
-    "marketCapMn": 1162.068,
-    "closingPrice": 9.2,
-    "freeFloatMarketCapMn": 1072.929
+    "change": -0.2,
+    "daysTradeNos": 181,
+    "yesterdaysClose": 8.9,
+    "daysVolumeNos": 223641,
+    "adjustedOpeningPrice": 8.9,
+    "daysValueMn": 1.97,
+    "openingPrice": 8.9,
+    "marketCapMn": 1066.228,
+    "closingPrice": 8.7,
+    "freeFloatMarketCapMn": 984.44
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": "+88 01814 655 831",
     "telephoneNo": "02-9038733 Ext. 102"
   },
-  "scrapedAt": "2026-09-13T15:42:18.028Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:24.745Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 21.76% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 21.76,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1066.228,
+      "totalInterestBearingDebt": 231.98
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CENTRALPHL",
+  "cseQuote": {
+    "ltp": 9.7,
+    "open": 8.9,
+    "high": 9.7,
+    "low": 9.3,
+    "ycp": 8.9,
+    "change": 0.8,
+    "changePct": 8.99,
+    "trades": 3,
+    "valueMn": 0.02,
+    "volume": 2500,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

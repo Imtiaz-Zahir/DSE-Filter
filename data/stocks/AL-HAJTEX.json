@@ -2,44 +2,44 @@
   "tradingCode": "AL-HAJTEX",
   "scripCode": "17401",
   "companyName": "Al-Haj Textile Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AL-HAJTEX",
-  "lastAGMHeldOn": "2026-02-07",
-  "forYearEnded": "2024-06-30",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AL-HAJTEX",
+  "lastAGMHeldOn": "2026-09-14",
+  "forYearEnded": "2025-06-30",
   "overview": {
     "#": 21,
     "TRADING CODE": "AL-HAJTEX",
     "tradingCode": "AL-HAJTEX",
-    "LTP": 66,
-    "HIGH": 71,
-    "LOW": 64.1,
-    "CLOSEP": 66,
-    "YCP": 70,
-    "CHANGE": -4,
-    "TRADE": 1288,
-    "VALUE (mn)": 16.369,
-    "VOLUME": 245118
+    "LTP": 74.5,
+    "HIGH": 79,
+    "LOW": 74.2,
+    "CLOSEP": 74.5,
+    "YCP": 77.9,
+    "CHANGE": -3.4,
+    "TRADE": 936,
+    "VALUE (mn)": 13.58,
+    "VOLUME": 178484
   },
   "marketInformation": {
-    "lastTradingPrice": 66,
+    "lastTradingPrice": 74.5,
     "daysRange": [
-      64.1,
-      71
+      74.2,
+      79
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      64.1,
-      187.5
+      63.9,
+      165.3
     ],
-    "change": -4,
-    "daysTradeNos": 1288,
-    "yesterdaysClose": 70,
-    "daysVolumeNos": 245118,
-    "adjustedOpeningPrice": 70,
-    "daysValueMn": 16.37,
-    "openingPrice": 70,
-    "marketCapMn": 1560.898,
-    "closingPrice": 66,
-    "freeFloatMarketCapMn": 1082.303
+    "change": -3.4,
+    "daysTradeNos": 936,
+    "yesterdaysClose": 77.9,
+    "daysVolumeNos": 178484,
+    "adjustedOpeningPrice": 77.9,
+    "daysValueMn": 13.58,
+    "openingPrice": 77.9,
+    "marketCapMn": 1737.057,
+    "closingPrice": 74.5,
+    "freeFloatMarketCapMn": 1204.449
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -61,17 +61,17 @@
     "yearEnd": null,
     "reserveSurplusWithoutOciMn": null,
     "otherComprehensiveIncomeMn": null,
-    "remarks": "TK 7,807,784 Revaluation Reserve has been added to Reserve & Surplus."
+    "remarks": "TK 7,320,537 Revaluation Reserve has been added to Reserve & Surplus."
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2024 (year ended)]",
-      "asOfDate": "2024-06-30",
+      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
+      "asOfDate": "2025-06-30",
       "sponsorDirectorPct": 30.65,
       "govtPct": 0.01,
-      "institutePct": 12.35,
+      "institutePct": 12.75,
       "foreignPct": 0,
-      "publicPct": 56.99
+      "publicPct": 56.59
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,53 +189,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 7.75,
+        "date": "2026-09-28",
+        "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.66,
+        "date": "2026-09-29",
+        "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.39,
+        "date": "2026-09-30",
+        "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 7.24,
+        "date": "2026-10-01",
+        "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.95,
+        "date": "2026-10-04",
+        "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.55,
+        "date": "2026-10-05",
+        "peBasic": null,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": -0.93,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 8.45,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": -20.67,
-      "tciOriginal": -20.67,
-      "tciRestated": -20.67
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": 224.52,
       "tciOriginal": 224.52,
       "tciRestated": 224.52
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -1.64,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 16.38,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -36.5,
+      "tciOriginal": -36.5,
+      "tciRestated": -36.5
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": null,
-      "dividend": null,
-      "cashDividendPct": null,
-      "bonusDividendPct": null,
-      "dividendYieldPct": null
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": 5,
       "bonusDividendPct": null,
       "dividendYieldPct": 0.33
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "3.00",
+      "cashDividendPct": 3,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 0.23
     }
   ],
   "financialLinks": [
@@ -360,8 +360,8 @@
   ],
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
-    "longTermLoanMn": 236.29,
-    "latestDividendStatus": "5.00 for 2024"
+    "longTermLoanMn": 216.7,
+    "latestDividendStatus": "3.00 for 2025"
   },
   "addressContact": {
     "headOffice": "Head Office",
@@ -374,6 +374,40 @@
     "cellNo": "01718691464",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:41:56.348Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:06.890Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 12.48% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 12.48,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1737.057,
+      "totalInterestBearingDebt": 216.7
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AL-HAJTEX",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

@@ -13,7 +13,6 @@ import {
   scrapeAllCompanies,
   loadOverviewData,
   fetchLiveDseOverview,
-  loadShariaData,
 } from "./scraper";
 import {
   generateDataFiles,
@@ -69,10 +68,6 @@ export async function runScrapeAndGeneratePipeline(
     );
   }
 
-  // Pre-load Sharia compliance records
-  const shariaData = loadShariaData(options.shariaDataPath);
-  console.log(`[pipeline] Loaded ${shariaData.length} Sharia compliance records.`);
-
   // 2. Scrape raw details for each company
   const rawStocks: RawStock[] = await scrapeAllCompanies(overviewItems, {
     concurrency: options.concurrency ?? 5,
@@ -87,7 +82,7 @@ export async function runScrapeAndGeneratePipeline(
   const formattedStocks: Stock[] = rawStocks.map(cleanStock);
 
   // 4. Generate all production data files
-  const output = generateDataFiles(formattedStocks, {
+  const output = await generateDataFiles(formattedStocks, {
     dataDir: options.dataDir || DEFAULT_DATA_DIR,
     saveMasterFile: false,
     saveKvManifest: false,
@@ -173,7 +168,7 @@ Examples:
     console.log(`Reading raw stocks from ${rawFilePath}...`);
     const rawData = JSON.parse(fs.readFileSync(rawFilePath, "utf-8"));
     const stocks: Stock[] = rawData.map(cleanStock);
-    generateDataFiles(stocks, {
+    await generateDataFiles(stocks, {
       dataDir: customOutput,
       saveMasterFile: false,
       saveKvManifest: false,
@@ -183,7 +178,7 @@ Examples:
   } else {
     // Default mode: Generate derived datasets
     const sourceFile = customSource || DEFAULT_SOURCE_FILE;
-    generateFromMasterFile(sourceFile, {
+    await generateFromMasterFile(sourceFile, {
       dataDir: customOutput,
       saveKvManifest: false,
       saveMasterFile: false,

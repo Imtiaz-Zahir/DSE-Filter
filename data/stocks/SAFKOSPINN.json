@@ -2,28 +2,28 @@
   "tradingCode": "SAFKOSPINN",
   "scripCode": "17445",
   "companyName": "Safko Spinnings Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAFKOSPINN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SAFKOSPINN",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 317,
     "TRADING CODE": "SAFKOSPINN",
     "tradingCode": "SAFKOSPINN",
-    "LTP": 19.8,
-    "HIGH": 20.6,
-    "LOW": 19.6,
-    "CLOSEP": 19.7,
-    "YCP": 20.8,
+    "LTP": 21.2,
+    "HIGH": 22.9,
+    "LOW": 21.1,
+    "CLOSEP": 21.3,
+    "YCP": 22.2,
     "CHANGE": -1,
-    "TRADE": 153,
-    "VALUE (mn)": 2.457,
-    "VOLUME": 123203
+    "TRADE": 376,
+    "VALUE (mn)": 7.215,
+    "VOLUME": 322580
   },
   "marketInformation": {
-    "lastTradingPrice": 19.8,
+    "lastTradingPrice": 21.2,
     "daysRange": [
-      19.6,
-      20.6
+      21.1,
+      22.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       24.7
     ],
     "change": -1,
-    "daysTradeNos": 153,
-    "yesterdaysClose": 20.8,
-    "daysVolumeNos": 123203,
-    "adjustedOpeningPrice": 20.8,
-    "daysValueMn": 2.46,
-    "openingPrice": 20.3,
-    "marketCapMn": 623.62,
-    "closingPrice": 19.7,
-    "freeFloatMarketCapMn": 436.526
+    "daysTradeNos": 376,
+    "yesterdaysClose": 22.2,
+    "daysVolumeNos": 322580,
+    "adjustedOpeningPrice": 22.2,
+    "daysValueMn": 7.22,
+    "openingPrice": 22.2,
+    "marketCapMn": 665.594,
+    "closingPrice": 21.3,
+    "freeFloatMarketCapMn": 465.907
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 66.14
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30,
-      "govtPct": 0,
-      "institutePct": 4.25,
-      "foreignPct": 0,
-      "publicPct": 65.75
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 30,
@@ -90,6 +81,15 @@
       "institutePct": 4.87,
       "foreignPct": 0,
       "publicPct": 65.13
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30,
+      "govtPct": 0,
+      "institutePct": 4.76,
+      "foreignPct": 0,
+      "publicPct": 65.24
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01671 012 818",
     "telephoneNo": "02-222280092"
   },
-  "scrapedAt": "2026-09-13T15:43:49.893Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:18.950Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (169.85%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 169.85,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 665.594,
+      "totalInterestBearingDebt": 1130.5
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SAFKOSPINN",
+  "cseQuote": {
+    "ltp": 21.4,
+    "open": 19.5,
+    "high": 21.4,
+    "low": 21.4,
+    "ycp": 19.5,
+    "change": 1.9,
+    "changePct": 9.74,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 10,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

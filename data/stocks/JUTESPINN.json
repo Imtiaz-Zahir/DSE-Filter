@@ -2,44 +2,44 @@
   "tradingCode": "JUTESPINN",
   "scripCode": "16355",
   "companyName": "Jute Spinners Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=JUTESPINN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=JUTESPINN",
   "lastAGMHeldOn": "17/12/2016",
   "forYearEnded": "2016-06-30",
   "overview": {
     "#": 193,
     "TRADING CODE": "JUTESPINN",
     "tradingCode": "JUTESPINN",
-    "LTP": 207.5,
-    "HIGH": 209,
-    "LOW": 204.4,
-    "CLOSEP": 205.1,
-    "YCP": 209,
-    "CHANGE": -1.5,
-    "TRADE": 34,
-    "VALUE (mn)": 0.336,
-    "VOLUME": 1634
+    "LTP": 205.4,
+    "HIGH": 206.1,
+    "LOW": 205,
+    "CLOSEP": 205.4,
+    "YCP": 204.5,
+    "CHANGE": 0.9,
+    "TRADE": 23,
+    "VALUE (mn)": 0.035,
+    "VOLUME": 169
   },
   "marketInformation": {
-    "lastTradingPrice": 207.5,
+    "lastTradingPrice": 205.4,
     "daysRange": [
-      204.4,
-      209
+      205,
+      206.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       171,
       260
     ],
-    "change": -1.5,
-    "daysTradeNos": 34,
-    "yesterdaysClose": 209,
-    "daysVolumeNos": 1634,
-    "adjustedOpeningPrice": 209,
-    "daysValueMn": 0.34,
-    "openingPrice": 209,
-    "marketCapMn": 355.3,
-    "closingPrice": 205.1,
-    "freeFloatMarketCapMn": 213.817
+    "change": 0.9,
+    "daysTradeNos": 23,
+    "yesterdaysClose": 204.5,
+    "daysVolumeNos": 169,
+    "adjustedOpeningPrice": 204.5,
+    "daysValueMn": 0.04,
+    "openingPrice": 205.2,
+    "marketCapMn": 347.65,
+    "closingPrice": 205.4,
+    "freeFloatMarketCapMn": 209.214
   },
   "basicInformation": {
     "authorizedCapitalMn": 35,
@@ -74,8 +74,8 @@
       "publicPct": 35.93
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 39.82,
       "govtPct": 0,
       "institutePct": 23.2,
@@ -83,8 +83,8 @@
       "publicPct": 36.98
     },
     {
-      "period": "Share Holding Percentage [as on Aug 31, 2026]",
-      "asOfDate": "2026-08-31",
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 39.82,
       "govtPct": 0,
       "institutePct": 23.2,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,40 @@
     "cellNo": "+88 01713 431 772",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:00.360Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:51.962Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 25.63% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 25.63,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 347.65,
+      "totalInterestBearingDebt": 89.1
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/JUTESPINN",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "MARICO",
   "scripCode": "18481",
   "companyName": "Marico Bangladesh Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MARICO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MARICO",
   "lastAGMHeldOn": "2026-07-14",
   "forYearEnded": "2026-03-31",
   "overview": {
     "#": 214,
     "TRADING CODE": "MARICO",
     "tradingCode": "MARICO",
-    "LTP": 2648.8,
-    "HIGH": 2690,
-    "LOW": 2644,
-    "CLOSEP": 2648.8,
-    "YCP": 2671.7,
-    "CHANGE": -22.9,
-    "TRADE": 1002,
-    "VALUE (mn)": 20.771,
-    "VOLUME": 7824
+    "LTP": 2660.8,
+    "HIGH": 2674.8,
+    "LOW": 2655.2,
+    "CLOSEP": 2660.8,
+    "YCP": 2651.3,
+    "CHANGE": 9.5,
+    "TRADE": 119,
+    "VALUE (mn)": 2.539,
+    "VOLUME": 954
   },
   "marketInformation": {
-    "lastTradingPrice": 2648.8,
+    "lastTradingPrice": 2660.8,
     "daysRange": [
-      2644,
-      2690
+      2655.2,
+      2674.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2610,
       2946.5
     ],
-    "change": -22.9,
-    "daysTradeNos": 1002,
-    "yesterdaysClose": 2671.7,
-    "daysVolumeNos": 7824,
-    "adjustedOpeningPrice": 2671.7,
-    "daysValueMn": 20.77,
-    "openingPrice": 2690,
-    "marketCapMn": 84158.55,
-    "closingPrice": 2648.8,
-    "freeFloatMarketCapMn": 8415.855
+    "change": 9.5,
+    "daysTradeNos": 119,
+    "yesterdaysClose": 2651.3,
+    "daysVolumeNos": 954,
+    "adjustedOpeningPrice": 2651.3,
+    "daysValueMn": 2.54,
+    "openingPrice": 2674.8,
+    "marketCapMn": 83515.95,
+    "closingPrice": 2660.8,
+    "freeFloatMarketCapMn": 8351.595
   },
   "basicInformation": {
     "authorizedCapitalMn": 400,
@@ -74,15 +74,6 @@
       "publicPct": 1.83
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 90,
-      "govtPct": 0,
-      "institutePct": 6.3,
-      "foreignPct": 1.53,
-      "publicPct": 2.17
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 90,
@@ -90,6 +81,15 @@
       "institutePct": 6.65,
       "foreignPct": 0.99,
       "publicPct": 2.36
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 90,
+      "govtPct": 0,
+      "institutePct": 6.72,
+      "foreignPct": 0.91,
+      "publicPct": 2.37
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.44,
+        "date": "2026-09-28",
+        "peBasic": 12.31,
         "peDiluted": null,
-        "peTrailing": 13.57
+        "peTrailing": 13.43
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.38,
+        "date": "2026-09-29",
+        "peBasic": 12.31,
         "peDiluted": null,
-        "peTrailing": 13.51
+        "peTrailing": 13.43
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.39,
+        "date": "2026-09-30",
+        "peBasic": 12.33,
         "peDiluted": null,
-        "peTrailing": 13.52
+        "peTrailing": 13.45
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.37,
+        "date": "2026-10-01",
+        "peBasic": 12.29,
         "peDiluted": null,
-        "peTrailing": 13.49
+        "peTrailing": 13.41
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.34,
+        "date": "2026-10-04",
+        "peBasic": 12.25,
         "peDiluted": null,
-        "peTrailing": 13.46
+        "peTrailing": 13.36
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.24,
+        "date": "2026-10-05",
+        "peBasic": 12.29,
         "peDiluted": null,
-        "peTrailing": 13.35
+        "peTrailing": 13.41
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 13.06,
+        "date": "2026-09-28",
+        "peBasic": 12.93,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 13.01,
+        "date": "2026-09-29",
+        "peBasic": 12.93,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 13.01,
+        "date": "2026-09-30",
+        "peBasic": 12.95,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.99,
+        "date": "2026-10-01",
+        "peBasic": 12.91,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.96,
+        "date": "2026-10-04",
+        "peBasic": 12.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 12.85,
+        "date": "2026-10-05",
+        "peBasic": 12.91,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,58 @@
     "cellNo": "+88 01324438592",
     "telephoneNo": "+8802222297139"
   },
-  "scrapedAt": "2026-09-13T15:43:07.166Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:55.608Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 83515.95,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MARICO",
+  "cseQuote": {
+    "ltp": 2666,
+    "open": 2666,
+    "high": 2666,
+    "low": 2666,
+    "ycp": 2666,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

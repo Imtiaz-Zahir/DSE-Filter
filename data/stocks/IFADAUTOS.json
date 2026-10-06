@@ -2,44 +2,44 @@
   "tradingCode": "IFADAUTOS",
   "scripCode": "13237",
   "companyName": "IFAD Autos PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=IFADAUTOS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=IFADAUTOS",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 174,
     "TRADING CODE": "IFADAUTOS",
     "tradingCode": "IFADAUTOS",
-    "LTP": 22.9,
-    "HIGH": 24,
-    "LOW": 22.8,
-    "CLOSEP": 22.9,
-    "YCP": 24.1,
-    "CHANGE": -1.2,
-    "TRADE": 459,
-    "VALUE (mn)": 7.618,
-    "VOLUME": 326725
+    "LTP": 23.2,
+    "HIGH": 23.6,
+    "LOW": 23,
+    "CLOSEP": 23.2,
+    "YCP": 23.4,
+    "CHANGE": -0.2,
+    "TRADE": 372,
+    "VALUE (mn)": 8.12,
+    "VOLUME": 348573
   },
   "marketInformation": {
-    "lastTradingPrice": 22.9,
+    "lastTradingPrice": 23.2,
     "daysRange": [
-      22.8,
-      24
+      23,
+      23.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.4,
       27.5
     ],
-    "change": -1.2,
-    "daysTradeNos": 459,
-    "yesterdaysClose": 24.1,
-    "daysVolumeNos": 326725,
-    "adjustedOpeningPrice": 24.1,
-    "daysValueMn": 7.62,
-    "openingPrice": 24,
-    "marketCapMn": 6464.919,
-    "closingPrice": 22.9,
-    "freeFloatMarketCapMn": 2917.93
+    "change": -0.2,
+    "daysTradeNos": 372,
+    "yesterdaysClose": 23.4,
+    "daysVolumeNos": 348573,
+    "adjustedOpeningPrice": 23.4,
+    "daysValueMn": 8.12,
+    "openingPrice": 23.6,
+    "marketCapMn": 6277.142,
+    "closingPrice": 23.2,
+    "freeFloatMarketCapMn": 2833.177
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 55.55,
+        "date": "2026-09-28",
+        "peBasic": 52.73,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 57.42,
+        "date": "2026-09-29",
+        "peBasic": 52.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 56.48,
+        "date": "2026-09-30",
+        "peBasic": 52.73,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 57.42,
+        "date": "2026-10-01",
+        "peBasic": 54.14,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 56.48,
+        "date": "2026-10-04",
+        "peBasic": 54.84,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 53.67,
+        "date": "2026-10-05",
+        "peBasic": 54.38,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,57 @@
     "cellNo": "+88 01966 670 915",
     "telephoneNo": "+88 02 9632753-7, +88 02 9632761-2, Ext-304"
   },
-  "scrapedAt": "2026-09-13T15:42:50.083Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:46.503Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 6.4% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.4,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 6277.142,
+      "totalInterestBearingDebt": 401.57
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/IFADAUTOS",
+  "cseQuote": {
+    "ltp": 23.2,
+    "open": 23.1,
+    "high": 23.2,
+    "low": 23,
+    "ycp": 23.1,
+    "change": 0.1,
+    "changePct": 0.43,
+    "trades": 3,
+    "valueMn": 0.03,
+    "volume": 1200,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

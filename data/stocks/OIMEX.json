@@ -2,44 +2,44 @@
   "tradingCode": "OIMEX",
   "scripCode": "13243",
   "companyName": "Oimex Electrode Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OIMEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=OIMEX",
   "lastAGMHeldOn": "2024-12-31",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 259,
     "TRADING CODE": "OIMEX",
     "tradingCode": "OIMEX",
-    "LTP": 13.7,
-    "HIGH": 15,
-    "LOW": 13.5,
-    "CLOSEP": 13.5,
-    "YCP": 14.2,
-    "CHANGE": -0.5,
-    "TRADE": 156,
-    "VALUE (mn)": 1.486,
-    "VOLUME": 108847
+    "LTP": 13.2,
+    "HIGH": 13.9,
+    "LOW": 13.2,
+    "CLOSEP": 13.2,
+    "YCP": 13.4,
+    "CHANGE": -0.2,
+    "TRADE": 97,
+    "VALUE (mn)": 0.665,
+    "VOLUME": 49884
   },
   "marketInformation": {
-    "lastTradingPrice": 13.7,
+    "lastTradingPrice": 13.2,
     "daysRange": [
-      13.5,
-      15
+      13.2,
+      13.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.8,
-      27.4
+      24.5
     ],
-    "change": -0.5,
-    "daysTradeNos": 156,
-    "yesterdaysClose": 14.2,
-    "daysVolumeNos": 108847,
-    "adjustedOpeningPrice": 14.2,
-    "daysValueMn": 1.49,
-    "openingPrice": 15,
-    "marketCapMn": 1037.804,
-    "closingPrice": 13.5,
-    "freeFloatMarketCapMn": 666.713
+    "change": -0.2,
+    "daysTradeNos": 97,
+    "yesterdaysClose": 13.4,
+    "daysVolumeNos": 49884,
+    "adjustedOpeningPrice": 13.4,
+    "daysValueMn": 0.67,
+    "openingPrice": 13.9,
+    "marketCapMn": 979.336,
+    "closingPrice": 13.2,
+    "freeFloatMarketCapMn": 629.151
   },
   "basicInformation": {
     "authorizedCapitalMn": 1700,
@@ -74,15 +74,6 @@
       "publicPct": 37.59
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 35.76,
-      "govtPct": 0,
-      "institutePct": 20.03,
-      "foreignPct": 0,
-      "publicPct": 44.21
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 35.76,
@@ -90,6 +81,15 @@
       "institutePct": 19.73,
       "foreignPct": 0,
       "publicPct": 44.51
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 35.76,
+      "govtPct": 0,
+      "institutePct": 19.22,
+      "foreignPct": 0,
+      "publicPct": 45.02
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 72.5,
+        "date": "2026-09-28",
+        "peBasic": 69,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 74.5,
+        "date": "2026-09-29",
+        "peBasic": 69.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 72.5,
+        "date": "2026-09-30",
+        "peBasic": 69,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 72.5,
+        "date": "2026-10-01",
+        "peBasic": 68,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 71,
+        "date": "2026-10-04",
+        "peBasic": 67,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 67.5,
+        "date": "2026-10-05",
+        "peBasic": 66,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.59,
+        "date": "2026-09-28",
+        "peBasic": 17.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.1,
+        "date": "2026-09-29",
+        "peBasic": 17.82,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 18.59,
+        "date": "2026-09-30",
+        "peBasic": 17.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 18.59,
+        "date": "2026-10-01",
+        "peBasic": 17.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 18.21,
+        "date": "2026-10-04",
+        "peBasic": 17.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.31,
+        "date": "2026-10-05",
+        "peBasic": 16.92,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01755549029",
     "telephoneNo": "+ 88 02 9665272"
   },
-  "scrapedAt": "2026-09-13T15:43:25.734Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:05.566Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.69% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.69,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 979.336,
+      "totalInterestBearingDebt": 36.18
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/OIMEX",
+  "cseQuote": {
+    "ltp": 14.2,
+    "open": 14.2,
+    "high": 14.2,
+    "low": 14.2,
+    "ycp": 14.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

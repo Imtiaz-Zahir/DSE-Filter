@@ -2,28 +2,28 @@
   "tradingCode": "STANDARINS",
   "scripCode": "25737",
   "companyName": "Standard Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=STANDARINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=STANDARINS",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 359,
     "TRADING CODE": "STANDARINS",
     "tradingCode": "STANDARINS",
-    "LTP": 48.6,
-    "HIGH": 49.4,
-    "LOW": 48.1,
-    "CLOSEP": 48.6,
-    "YCP": 48.9,
+    "LTP": 49.2,
+    "HIGH": 50.1,
+    "LOW": 49,
+    "CLOSEP": 49.2,
+    "YCP": 49.5,
     "CHANGE": -0.3,
-    "TRADE": 214,
-    "VALUE (mn)": 4.7,
-    "VOLUME": 96632
+    "TRADE": 175,
+    "VALUE (mn)": 3.748,
+    "VOLUME": 76090
   },
   "marketInformation": {
-    "lastTradingPrice": 48.6,
+    "lastTradingPrice": 49.2,
     "daysRange": [
-      48.1,
-      49.4
+      49,
+      50.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       56.8
     ],
     "change": -0.3,
-    "daysTradeNos": 214,
-    "yesterdaysClose": 48.9,
-    "daysVolumeNos": 96632,
-    "adjustedOpeningPrice": 48.9,
-    "daysValueMn": 4.7,
-    "openingPrice": 49.4,
-    "marketCapMn": 2117.203,
-    "closingPrice": 48.6,
-    "freeFloatMarketCapMn": 756.339
+    "daysTradeNos": 175,
+    "yesterdaysClose": 49.5,
+    "daysVolumeNos": 76090,
+    "adjustedOpeningPrice": 49.5,
+    "daysValueMn": 3.75,
+    "openingPrice": 50.1,
+    "marketCapMn": 2143.181,
+    "closingPrice": 49.2,
+    "freeFloatMarketCapMn": 765.619
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 19.34,
+        "peDiluted": null,
+        "peTrailing": 21.72
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 19.16,
+        "peDiluted": null,
+        "peTrailing": 21.52
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 18.91,
+        "peDiluted": null,
+        "peTrailing": 21.23
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 18.5,
+        "peDiluted": null,
+        "peTrailing": 20.78
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 18.07,
+        "peDiluted": null,
+        "peTrailing": 20.29
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 17.96,
         "peDiluted": null,
         "peTrailing": 20.16
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 17.81,
-        "peDiluted": null,
-        "peTrailing": 20
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 17.41,
-        "peDiluted": null,
-        "peTrailing": 19.55
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 17.55,
-        "peDiluted": null,
-        "peTrailing": 19.71
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 17.85,
-        "peDiluted": null,
-        "peTrailing": 20.04
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 17.74,
-        "peDiluted": null,
-        "peTrailing": 19.92
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 21.9,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 21.69,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 21.4,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 20.95,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 20.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 20.33,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 20.17,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 19.71,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 19.88,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 20.21,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 20.08,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01819 260 838",
     "telephoneNo": "02222280706, 02222281435, 02222288548 (Ext-102)"
   },
-  "scrapedAt": "2026-09-13T15:44:08.036Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:27.311Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2143.181,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/STANDARINS",
+  "cseQuote": {
+    "ltp": 50.3,
+    "open": 50.3,
+    "high": 50.3,
+    "low": 50.3,
+    "ycp": 50.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

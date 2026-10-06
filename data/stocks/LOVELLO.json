@@ -2,44 +2,44 @@
   "tradingCode": "LOVELLO",
   "scripCode": "14296",
   "companyName": "Taufika Foods and Lovello Ice-cream PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=LOVELLO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=LOVELLO",
   "lastAGMHeldOn": "2025-12-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 208,
     "TRADING CODE": "LOVELLO",
     "tradingCode": "LOVELLO",
-    "LTP": 43.9,
-    "HIGH": 45.9,
-    "LOW": 43.7,
-    "CLOSEP": 43.9,
-    "YCP": 45.8,
-    "CHANGE": -1.9,
-    "TRADE": 2083,
-    "VALUE (mn)": 46.224,
-    "VOLUME": 1033566
+    "LTP": 47.7,
+    "HIGH": 50.1,
+    "LOW": 47.5,
+    "CLOSEP": 47.7,
+    "YCP": 49.4,
+    "CHANGE": -1.7,
+    "TRADE": 1631,
+    "VALUE (mn)": 36.424,
+    "VOLUME": 745568
   },
   "marketInformation": {
-    "lastTradingPrice": 43.9,
+    "lastTradingPrice": 47.7,
     "daysRange": [
-      43.7,
-      45.9
+      47.5,
+      50.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      43.5,
-      105.9
+      42.2,
+      104.3
     ],
-    "change": -1.9,
-    "daysTradeNos": 2083,
-    "yesterdaysClose": 45.8,
-    "daysVolumeNos": 1033566,
-    "adjustedOpeningPrice": 45.8,
-    "daysValueMn": 46.22,
-    "openingPrice": 45.9,
-    "marketCapMn": 4496.415,
-    "closingPrice": 43.9,
-    "freeFloatMarketCapMn": 3065.062
+    "change": -1.7,
+    "daysTradeNos": 1631,
+    "yesterdaysClose": 49.4,
+    "daysVolumeNos": 745568,
+    "adjustedOpeningPrice": 49.4,
+    "daysValueMn": 36.42,
+    "openingPrice": 49.5,
+    "marketCapMn": 4849.845,
+    "closingPrice": 47.7,
+    "freeFloatMarketCapMn": 3305.984
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 35
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 31.83,
-      "govtPct": 0,
-      "institutePct": 11.9,
-      "foreignPct": 0,
-      "publicPct": 56.27
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 31.83,
@@ -90,6 +81,15 @@
       "institutePct": 11.19,
       "foreignPct": 0,
       "publicPct": 56.98
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 31.83,
+      "govtPct": 0,
+      "institutePct": 8.87,
+      "foreignPct": 0,
+      "publicPct": 59.3
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.05,
+        "date": "2026-09-28",
+        "peBasic": 12.72,
         "peDiluted": null,
-        "peTrailing": 14.46
+        "peTrailing": 16.63
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.52,
+        "date": "2026-09-29",
+        "peBasic": 12.57,
         "peDiluted": null,
-        "peTrailing": 15.06
+        "peTrailing": 16.44
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.32,
+        "date": "2026-09-30",
+        "peBasic": 12.65,
         "peDiluted": null,
-        "peTrailing": 14.81
+        "peTrailing": 16.54
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.35,
+        "date": "2026-10-01",
+        "peBasic": 12.52,
         "peDiluted": null,
-        "peTrailing": 14.84
+        "peTrailing": 16.38
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.23,
+        "date": "2026-10-04",
+        "peBasic": 12.11,
         "peDiluted": null,
-        "peTrailing": 14.68
+        "peTrailing": 15.83
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 10.76,
+        "date": "2026-10-05",
+        "peBasic": 11.69,
         "peDiluted": null,
-        "peTrailing": 14.07
+        "peTrailing": 15.29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.33,
-        "peDiluted": 28.73
+        "date": "2026-09-28",
+        "peBasic": 31.45,
+        "peDiluted": 33.06
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 28.48,
-        "peDiluted": 29.94
+        "date": "2026-09-29",
+        "peBasic": 31.09,
+        "peDiluted": 32.68
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 28,
-        "peDiluted": 29.43
+        "date": "2026-09-30",
+        "peBasic": 31.27,
+        "peDiluted": 32.87
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 28.06,
-        "peDiluted": 29.49
+        "date": "2026-10-01",
+        "peBasic": 30.97,
+        "peDiluted": 32.55
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 27.76,
-        "peDiluted": 29.17
+        "date": "2026-10-04",
+        "peBasic": 29.94,
+        "peDiluted": 31.46
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 26.61,
-        "peDiluted": 27.96
+        "date": "2026-10-05",
+        "peBasic": 28.91,
+        "peDiluted": 30.38
       }
     ]
   },
@@ -374,6 +374,56 @@
     "cellNo": "+88 01844 496 793",
     "telephoneNo": "+88 02 222261286"
   },
-  "scrapedAt": "2026-09-13T15:43:06.371Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:54.517Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (33.32%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 33.32,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4849.845,
+      "totalInterestBearingDebt": 1616.21
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/LOVELLO",
+  "cseQuote": {
+    "ltp": 48.2,
+    "open": 50.3,
+    "high": 51.2,
+    "low": 48.2,
+    "ycp": 50.3,
+    "change": -2.1,
+    "changePct": -4.17,
+    "trades": 5,
+    "valueMn": 0.07,
+    "volume": 1460,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

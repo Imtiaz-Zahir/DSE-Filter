@@ -2,44 +2,44 @@
   "tradingCode": "MAKSONSPIN",
   "scripCode": "17448",
   "companyName": "Maksons Spinning Mills PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MAKSONSPIN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MAKSONSPIN",
   "lastAGMHeldOn": "2025-02-17",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 212,
     "TRADING CODE": "MAKSONSPIN",
     "tradingCode": "MAKSONSPIN",
-    "LTP": 5.9,
-    "HIGH": 6.2,
-    "LOW": 5.8,
-    "CLOSEP": 5.9,
-    "YCP": 6,
-    "CHANGE": -0.1,
-    "TRADE": 108,
-    "VALUE (mn)": 2.511,
-    "VOLUME": 421448
+    "LTP": 5.2,
+    "HIGH": 5.5,
+    "LOW": 4.9,
+    "CLOSEP": 4.9,
+    "YCP": 5.4,
+    "CHANGE": -0.2,
+    "TRADE": 284,
+    "VALUE (mn)": 3.448,
+    "VOLUME": 686700
   },
   "marketInformation": {
-    "lastTradingPrice": 5.9,
+    "lastTradingPrice": 5.2,
     "daysRange": [
-      5.8,
-      6.2
+      4.9,
+      5.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
-      7.6
+      7
     ],
-    "change": -0.1,
-    "daysTradeNos": 108,
-    "yesterdaysClose": 6,
-    "daysVolumeNos": 421448,
-    "adjustedOpeningPrice": 6,
-    "daysValueMn": 2.51,
-    "openingPrice": 6,
-    "marketCapMn": 1429.395,
-    "closingPrice": 5.9,
-    "freeFloatMarketCapMn": 1000.535
+    "change": -0.2,
+    "daysTradeNos": 284,
+    "yesterdaysClose": 5.4,
+    "daysVolumeNos": 686700,
+    "adjustedOpeningPrice": 5.4,
+    "daysValueMn": 3.45,
+    "openingPrice": 5.4,
+    "marketCapMn": 1286.456,
+    "closingPrice": 4.9,
+    "freeFloatMarketCapMn": 900.482
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "01841166214",
     "telephoneNo": "8933612 ,8933613"
   },
-  "scrapedAt": "2026-09-13T15:43:07.496Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:55.531Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (65.62%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 65.62,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1286.456,
+      "totalInterestBearingDebt": 844.17
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MAKSONSPIN",
+  "cseQuote": {
+    "ltp": 5.1,
+    "open": 5.6,
+    "high": 5.4,
+    "low": 5.1,
+    "ycp": 5.6,
+    "change": -0.5,
+    "changePct": -8.93,
+    "trades": 5,
+    "valueMn": 0.06,
+    "volume": 11250,
+    "updatedDate": "2026-10-06T01:10:39.846Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

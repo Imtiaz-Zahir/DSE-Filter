@@ -58,10 +58,10 @@ export function StockFaq({ stock }: StockFaqProps) {
       }. Historical cash and stock dividend declarations over past financial years are detailed in the audited history section above.`,
     },
     {
-      q: `Is ${code} (${name}) included in the DSES Sharia Index?`,
+      q: `Is ${code} (${name}) Sharia compliant?`,
       a: isSharia
-        ? `Yes, ${code} is recognized as DSES Sharia Compliant by the Dhaka Stock Exchange in accordance with Islamic financial screening guidelines.`
-        : `No, ${code} is currently not classified as DSES Sharia Compliant on the Dhaka Stock Exchange.`,
+        ? `Yes, ${code} is recognized as Sharia Compliant in accordance with Islamic financial screening guidelines.`
+        : `No, ${code} is currently not classified as Sharia Compliant.`,
     },
     {
       q: `What is ${code}'s Net Asset Value (NAVPS) and Earnings Per Share (EPS)?`,

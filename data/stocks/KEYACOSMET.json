@@ -2,28 +2,28 @@
   "tradingCode": "KEYACOSMET",
   "scripCode": "18477",
   "companyName": "Keya Cosmetics Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KEYACOSMET",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KEYACOSMET",
   "lastAGMHeldOn": "2021-01-19",
   "forYearEnded": "2020-06-30",
   "overview": {
     "#": 198,
     "TRADING CODE": "KEYACOSMET",
     "tradingCode": "KEYACOSMET",
-    "LTP": 4.9,
-    "HIGH": 5.1,
-    "LOW": 4.9,
-    "CLOSEP": 4.9,
-    "YCP": 5,
+    "LTP": 5.1,
+    "HIGH": 5.2,
+    "LOW": 5,
+    "CLOSEP": 5.1,
+    "YCP": 5.2,
     "CHANGE": -0.1,
-    "TRADE": 160,
-    "VALUE (mn)": 3.816,
-    "VOLUME": 763551
+    "TRADE": 152,
+    "VALUE (mn)": 2.082,
+    "VOLUME": 408184
   },
   "marketInformation": {
-    "lastTradingPrice": 4.9,
+    "lastTradingPrice": 5.1,
     "daysRange": [
-      4.9,
-      5.1
+      5,
+      5.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       6.1
     ],
     "change": -0.1,
-    "daysTradeNos": 160,
-    "yesterdaysClose": 5,
-    "daysVolumeNos": 763551,
-    "adjustedOpeningPrice": 5,
-    "daysValueMn": 3.82,
-    "openingPrice": 5,
-    "marketCapMn": 5511.587,
-    "closingPrice": 4.9,
-    "freeFloatMarketCapMn": 2973.764
+    "daysTradeNos": 152,
+    "yesterdaysClose": 5.2,
+    "daysVolumeNos": 408184,
+    "adjustedOpeningPrice": 5.2,
+    "daysValueMn": 2.08,
+    "openingPrice": 5.2,
+    "marketCapMn": 5732.05,
+    "closingPrice": 5.1,
+    "freeFloatMarketCapMn": 3092.715
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 22.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 22.08,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 22.08,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 22.08,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 21.67,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 21.25,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 20.83,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 20.83,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 20.83,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 20.83,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 20.42,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 25.71,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 25.24,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 25.24,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 25.24,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 24.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 24.29,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 23.81,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 23.81,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 23.81,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 23.81,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 23.33,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": "01712675421",
     "telephoneNo": "02-9297147"
   },
-  "scrapedAt": "2026-09-13T15:43:01.207Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:52.742Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (197.15%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 197.15,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 5732.05,
+      "totalInterestBearingDebt": 11300.68
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KEYACOSMET",
+  "cseQuote": {
+    "ltp": 5.1,
+    "open": 5.2,
+    "high": 5.2,
+    "low": 5.1,
+    "ycp": 5.2,
+    "change": -0.1,
+    "changePct": -1.92,
+    "trades": 8,
+    "valueMn": 0.03,
+    "volume": 6180,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

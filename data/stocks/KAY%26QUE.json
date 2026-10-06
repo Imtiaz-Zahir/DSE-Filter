@@ -2,44 +2,44 @@
   "tradingCode": "KAY&QUE",
   "scripCode": "13222",
   "companyName": "Kay & Que (Bangladesh) Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KAY%26QUE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KAY%26QUE",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 195,
     "TRADING CODE": "KAY&QUE",
     "tradingCode": "KAY&QUE",
-    "LTP": 346.1,
-    "HIGH": 353.7,
-    "LOW": 343.2,
-    "CLOSEP": 346.1,
-    "YCP": 355.1,
-    "CHANGE": -9,
-    "TRADE": 353,
-    "VALUE (mn)": 5.236,
-    "VOLUME": 14997
+    "LTP": 403.1,
+    "HIGH": 411.9,
+    "LOW": 400,
+    "CLOSEP": 403.1,
+    "YCP": 403.4,
+    "CHANGE": -0.3,
+    "TRADE": 627,
+    "VALUE (mn)": 16.544,
+    "VOLUME": 40786
   },
   "marketInformation": {
-    "lastTradingPrice": 346.1,
+    "lastTradingPrice": 403.1,
     "daysRange": [
-      343.2,
-      353.7
+      400,
+      411.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      339,
+      338.2,
       540
     ],
-    "change": -9,
-    "daysTradeNos": 353,
-    "yesterdaysClose": 355.1,
-    "daysVolumeNos": 14997,
-    "adjustedOpeningPrice": 355.1,
-    "daysValueMn": 5.24,
-    "openingPrice": 350.4,
-    "marketCapMn": 2483.232,
-    "closingPrice": 346.1,
-    "freeFloatMarketCapMn": 1424.079
+    "change": -0.3,
+    "daysTradeNos": 627,
+    "yesterdaysClose": 403.4,
+    "daysVolumeNos": 40786,
+    "adjustedOpeningPrice": 403.4,
+    "daysValueMn": 16.54,
+    "openingPrice": 408.1,
+    "marketCapMn": 2820.996,
+    "closingPrice": 403.1,
+    "freeFloatMarketCapMn": 1617.779
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.8,
+        "date": "2026-09-28",
+        "peBasic": 31.43,
         "peDiluted": null,
-        "peTrailing": 23.37
+        "peTrailing": 26.41
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 27.46,
+        "date": "2026-09-29",
+        "peBasic": 31.43,
         "peDiluted": null,
-        "peTrailing": 23.08
+        "peTrailing": 26.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 27.32,
+        "date": "2026-09-30",
+        "peBasic": 31.08,
         "peDiluted": null,
-        "peTrailing": 22.96
+        "peTrailing": 26.12
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 27.36,
+        "date": "2026-10-01",
+        "peBasic": 30.4,
         "peDiluted": null,
-        "peTrailing": 23
+        "peTrailing": 25.55
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.93,
+        "date": "2026-10-04",
+        "peBasic": 30.59,
         "peDiluted": null,
-        "peTrailing": 22.63
+        "peTrailing": 25.71
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 26.25,
+        "date": "2026-10-05",
+        "peBasic": 30.57,
         "peDiluted": null,
-        "peTrailing": 22.06
+        "peTrailing": 25.69
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 38.63,
+        "date": "2026-09-28",
+        "peBasic": 43.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 38.16,
+        "date": "2026-09-29",
+        "peBasic": 43.67,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 37.96,
+        "date": "2026-09-30",
+        "peBasic": 43.18,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 38.02,
+        "date": "2026-10-01",
+        "peBasic": 42.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 37.42,
+        "date": "2026-10-04",
+        "peBasic": 42.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 36.47,
+        "date": "2026-10-05",
+        "peBasic": 42.48,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01313093636",
     "telephoneNo": "02-58610012-8"
   },
-  "scrapedAt": "2026-09-13T15:42:57.892Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:51.895Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2820.996,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KAY%26QUE",
+  "cseQuote": {
+    "ltp": 394,
+    "open": 394,
+    "high": 394,
+    "low": 394,
+    "ycp": 394,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

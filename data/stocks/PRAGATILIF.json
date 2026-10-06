@@ -2,44 +2,44 @@
   "tradingCode": "PRAGATILIF",
   "scripCode": "25731",
   "companyName": "Pragati Life Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRAGATILIF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRAGATILIF",
   "lastAGMHeldOn": "2026-08-13",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 281,
     "TRADING CODE": "PRAGATILIF",
     "tradingCode": "PRAGATILIF",
-    "LTP": 140.6,
-    "HIGH": 145,
-    "LOW": 140,
-    "CLOSEP": 140.6,
-    "YCP": 144.4,
-    "CHANGE": -3.8,
-    "TRADE": 600,
-    "VALUE (mn)": 8.683,
-    "VOLUME": 61103
+    "LTP": 134.3,
+    "HIGH": 141.1,
+    "LOW": 132.1,
+    "CLOSEP": 134.3,
+    "YCP": 139.6,
+    "CHANGE": -5.3,
+    "TRADE": 1039,
+    "VALUE (mn)": 22.766,
+    "VOLUME": 168245
   },
   "marketInformation": {
-    "lastTradingPrice": 140.6,
+    "lastTradingPrice": 134.3,
     "daysRange": [
-      140,
-      145
+      132.1,
+      141.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       127.3,
       283.9
     ],
-    "change": -3.8,
-    "daysTradeNos": 600,
-    "yesterdaysClose": 144.4,
-    "daysVolumeNos": 61103,
-    "adjustedOpeningPrice": 144.4,
-    "daysValueMn": 8.68,
-    "openingPrice": 142.8,
-    "marketCapMn": 5169.493,
-    "closingPrice": 140.6,
-    "freeFloatMarketCapMn": 2865.855
+    "change": -5.3,
+    "daysTradeNos": 1039,
+    "yesterdaysClose": 139.6,
+    "daysVolumeNos": 168245,
+    "adjustedOpeningPrice": 139.6,
+    "daysValueMn": 22.77,
+    "openingPrice": 140,
+    "marketCapMn": 4997.654,
+    "closingPrice": 134.3,
+    "freeFloatMarketCapMn": 2770.591
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -96,37 +96,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,32 +134,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -319,6 +319,57 @@
     "cellNo": "+88 01814 650 723",
     "telephoneNo": "02 55014393"
   },
-  "scrapedAt": "2026-09-13T15:43:34.444Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:11.388Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4997.654,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRAGATILIF",
+  "cseQuote": {
+    "ltp": 136,
+    "open": 144,
+    "high": 136.2,
+    "low": 136,
+    "ycp": 144,
+    "change": -8,
+    "changePct": -5.56,
+    "trades": 2,
+    "valueMn": 0.03,
+    "volume": 200,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,28 +2,28 @@
   "tradingCode": "DHAKABANK",
   "scripCode": "11118",
   "companyName": "Dhaka Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DHAKABANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DHAKABANK",
   "lastAGMHeldOn": "2026-06-25",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 101,
     "TRADING CODE": "DHAKABANK",
     "tradingCode": "DHAKABANK",
-    "LTP": 11.7,
-    "HIGH": 11.9,
-    "LOW": 11.6,
-    "CLOSEP": 11.7,
-    "YCP": 11.8,
+    "LTP": 11.1,
+    "HIGH": 11.3,
+    "LOW": 11.1,
+    "CLOSEP": 11.1,
+    "YCP": 11.2,
     "CHANGE": -0.1,
-    "TRADE": 238,
-    "VALUE (mn)": 8.171,
-    "VOLUME": 697112
+    "TRADE": 230,
+    "VALUE (mn)": 16.344,
+    "VOLUME": 1464944
   },
   "marketInformation": {
-    "lastTradingPrice": 11.7,
+    "lastTradingPrice": 11.1,
     "daysRange": [
-      11.6,
-      11.9
+      11.1,
+      11.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       16
     ],
     "change": -0.1,
-    "daysTradeNos": 238,
-    "yesterdaysClose": 11.8,
-    "daysVolumeNos": 697112,
-    "adjustedOpeningPrice": 11.8,
-    "daysValueMn": 8.17,
-    "openingPrice": 11.8,
-    "marketCapMn": 12471.802,
-    "closingPrice": 11.7,
-    "freeFloatMarketCapMn": 6952.407
+    "daysTradeNos": 230,
+    "yesterdaysClose": 11.2,
+    "daysVolumeNos": 1464944,
+    "adjustedOpeningPrice": 11.2,
+    "daysValueMn": 16.34,
+    "openingPrice": 11.3,
+    "marketCapMn": 11837.642,
+    "closingPrice": 11.1,
+    "freeFloatMarketCapMn": 6598.895
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.21,
+        "date": "2026-09-28",
+        "peBasic": 5.95,
         "peDiluted": null,
-        "peTrailing": 4.82
+        "peTrailing": 4.61
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.26,
+        "date": "2026-09-29",
+        "peBasic": 5.95,
         "peDiluted": null,
-        "peTrailing": 4.86
+        "peTrailing": 4.61
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.21,
+        "date": "2026-09-30",
+        "peBasic": 5.95,
         "peDiluted": null,
-        "peTrailing": 4.82
+        "peTrailing": 4.61
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.21,
+        "date": "2026-10-01",
+        "peBasic": 5.95,
         "peDiluted": null,
-        "peTrailing": 4.82
+        "peTrailing": 4.61
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.21,
+        "date": "2026-10-04",
+        "peBasic": 5.89,
         "peDiluted": null,
-        "peTrailing": 4.82
+        "peTrailing": 4.57
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.16,
+        "date": "2026-10-05",
+        "peBasic": 5.84,
         "peDiluted": null,
-        "peTrailing": 4.78
+        "peTrailing": 4.53
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.45,
+        "date": "2026-09-28",
+        "peBasic": 4.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.49,
+        "date": "2026-09-29",
+        "peBasic": 4.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.45,
+        "date": "2026-09-30",
+        "peBasic": 4.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.45,
+        "date": "2026-10-01",
+        "peBasic": 4.26,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.45,
+        "date": "2026-10-04",
+        "peBasic": 4.23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.42,
+        "date": "2026-10-05",
+        "peBasic": 4.19,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "+88 01713 038 522",
     "telephoneNo": "8802 5831 4424-30 (Ext. 241)"
   },
-  "scrapedAt": "2026-09-13T15:42:25.636Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:30.876Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (279.9%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 279.9,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 11837.642,
+      "totalInterestBearingDebt": 33134.11
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DHAKABANK",
+  "cseQuote": {
+    "ltp": 11.5,
+    "open": 11.5,
+    "high": 11.5,
+    "low": 11.5,
+    "ycp": 11.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

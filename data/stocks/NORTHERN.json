@@ -2,50 +2,50 @@
   "tradingCode": "NORTHERN",
   "scripCode": "16357",
   "companyName": "Northern Jute Manufacturing Co. Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NORTHERN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NORTHERN",
   "lastAGMHeldOn": "2020-12-27",
   "forYearEnded": "2020-06-30",
   "overview": {
     "#": 250,
     "TRADING CODE": "NORTHERN",
     "tradingCode": "NORTHERN",
-    "LTP": 97.5,
-    "HIGH": 105,
-    "LOW": 91,
-    "CLOSEP": 98.1,
-    "YCP": 100.8,
-    "CHANGE": -3.3,
-    "TRADE": 94,
-    "VALUE (mn)": 0.456,
-    "VOLUME": 4782
+    "LTP": 94.5,
+    "HIGH": 100,
+    "LOW": 93,
+    "CLOSEP": 95,
+    "YCP": 98.5,
+    "CHANGE": -4,
+    "TRADE": 28,
+    "VALUE (mn)": 0.188,
+    "VOLUME": 1964
   },
   "marketInformation": {
-    "lastTradingPrice": 97.5,
+    "lastTradingPrice": null,
     "daysRange": [
-      91,
-      105
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       75.1,
       141.2
     ],
-    "change": -3.3,
-    "daysTradeNos": 94,
-    "yesterdaysClose": 100.8,
-    "daysVolumeNos": 4782,
-    "adjustedOpeningPrice": 100.8,
-    "daysValueMn": 0.46,
-    "openingPrice": 105,
-    "marketCapMn": 215.914,
-    "closingPrice": 98.1,
-    "freeFloatMarketCapMn": 168.703
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": null,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": null,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 0,
+    "closingPrice": null,
+    "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
     "debutTradingDate": null,
     "paidUpCapitalMn": 21.42,
-    "typeOfInstrument": "Equity",
+    "typeOfInstrument": "Unknown",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 2142000,
@@ -53,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 1994,
-    "marketCategory": "Z",
+    "marketCategory": "-",
     "electronicShare": true,
     "cashDividend": null,
     "bonusIssue": null,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.99,
+        "date": "2026-09-28",
+        "peBasic": 8.46,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 9.01,
+        "date": "2026-09-29",
+        "peBasic": 8.65,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 9,
+        "date": "2026-09-30",
+        "peBasic": 8.76,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 9,
+        "date": "2026-10-01",
+        "peBasic": 8.76,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.9,
+        "date": "2026-10-04",
+        "peBasic": 8.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.66,
+        "date": "2026-10-05",
+        "peBasic": 8.38,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,39 @@
     "cellNo": "01713755517",
     "telephoneNo": "55013506, Ext-133"
   },
-  "scrapedAt": "2026-09-13T15:43:21.781Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:03.394Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 0,
+      "totalInterestBearingDebt": 82.65
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": [
+      "Market capitalization data unavailable to compute exact leverage ratio."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NORTHERN",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

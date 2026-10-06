@@ -2,44 +2,44 @@
   "tradingCode": "ADVENT",
   "scripCode": "18492",
   "companyName": "Advent Pharma Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ADVENT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ADVENT",
   "lastAGMHeldOn": "2025-12-31",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 14,
     "TRADING CODE": "ADVENT",
     "tradingCode": "ADVENT",
-    "LTP": 13.3,
-    "HIGH": 14.5,
-    "LOW": 13.3,
-    "CLOSEP": 13.3,
-    "YCP": 13.8,
-    "CHANGE": -0.5,
-    "TRADE": 115,
-    "VALUE (mn)": 1.791,
-    "VOLUME": 133313
+    "LTP": 13,
+    "HIGH": 13.4,
+    "LOW": 13,
+    "CLOSEP": 13,
+    "YCP": 13.3,
+    "CHANGE": -0.3,
+    "TRADE": 140,
+    "VALUE (mn)": 1.84,
+    "VOLUME": 140546
   },
   "marketInformation": {
-    "lastTradingPrice": 13.3,
+    "lastTradingPrice": 13,
     "daysRange": [
-      13.3,
-      14.5
+      13,
+      13.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       11.5,
       17.1
     ],
-    "change": -0.5,
-    "daysTradeNos": 115,
-    "yesterdaysClose": 13.8,
-    "daysVolumeNos": 133313,
-    "adjustedOpeningPrice": 13.8,
-    "daysValueMn": 1.79,
-    "openingPrice": 14,
-    "marketCapMn": 1285.232,
-    "closingPrice": 13.3,
-    "freeFloatMarketCapMn": 885.88
+    "change": -0.3,
+    "daysTradeNos": 140,
+    "yesterdaysClose": 13.3,
+    "daysVolumeNos": 140546,
+    "adjustedOpeningPrice": 13.3,
+    "daysValueMn": 1.84,
+    "openingPrice": 13.2,
+    "marketCapMn": 1238.665,
+    "closingPrice": 13,
+    "freeFloatMarketCapMn": 853.783
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 31.36,
+        "date": "2026-09-28",
+        "peBasic": 31.14,
         "peDiluted": null,
-        "peTrailing": 26.54
+        "peTrailing": 26.35
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 32.05,
+        "date": "2026-09-29",
+        "peBasic": 30.68,
         "peDiluted": null,
-        "peTrailing": 27.12
+        "peTrailing": 25.96
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 32.05,
+        "date": "2026-09-30",
+        "peBasic": 30.68,
         "peDiluted": null,
-        "peTrailing": 27.12
+        "peTrailing": 25.96
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 31.36,
+        "date": "2026-10-01",
+        "peBasic": 30.45,
         "peDiluted": null,
-        "peTrailing": 26.54
+        "peTrailing": 25.77
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 31.36,
-        "peDiluted": null,
-        "peTrailing": 26.54
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 30.23,
         "peDiluted": null,
         "peTrailing": 25.58
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 29.55,
+        "peDiluted": null,
+        "peTrailing": 25
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.17,
+        "date": "2026-09-28",
+        "peBasic": 19.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.58,
+        "date": "2026-09-29",
+        "peBasic": 18.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.58,
+        "date": "2026-09-30",
+        "peBasic": 18.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.17,
+        "date": "2026-10-01",
+        "peBasic": 18.61,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.17,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 18.47,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 18.06,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01713254482",
     "telephoneNo": "02-48311655, 02-48322638"
   },
-  "scrapedAt": "2026-09-13T15:41:22.251Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:05.451Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.6% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.6,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1238.665,
+      "totalInterestBearingDebt": 7.43
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ADVENT",
+  "cseQuote": {
+    "ltp": 13,
+    "open": 13.3,
+    "high": 13,
+    "low": 13,
+    "ycp": 13.3,
+    "change": -0.3,
+    "changePct": -2.26,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

@@ -2,7 +2,7 @@
   "tradingCode": "UTTARABANK",
   "scripCode": "11109",
   "companyName": "Uttara Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UTTARABANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UTTARABANK",
   "lastAGMHeldOn": "2026-06-15",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "UTTARABANK",
     "tradingCode": "UTTARABANK",
     "LTP": 20.7,
-    "HIGH": 20.9,
-    "LOW": 20.6,
-    "CLOSEP": 20.7,
-    "YCP": 20.8,
-    "CHANGE": -0.1,
-    "TRADE": 495,
-    "VALUE (mn)": 27.323,
-    "VOLUME": 1320953
+    "HIGH": 20.7,
+    "LOW": 20.5,
+    "CLOSEP": 20.6,
+    "YCP": 20.7,
+    "CHANGE": 0,
+    "TRADE": 505,
+    "VALUE (mn)": 28.655,
+    "VOLUME": 1390889
   },
   "marketInformation": {
     "lastTradingPrice": 20.7,
     "daysRange": [
-      20.6,
-      20.9
+      20.5,
+      20.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20.3,
       26.5
     ],
-    "change": -0.1,
-    "daysTradeNos": 495,
-    "yesterdaysClose": 20.8,
-    "daysVolumeNos": 1320953,
-    "adjustedOpeningPrice": 20.8,
-    "daysValueMn": 27.32,
-    "openingPrice": 20.9,
-    "marketCapMn": 25226.991,
-    "closingPrice": 20.7,
-    "freeFloatMarketCapMn": 17491.229
+    "change": 0,
+    "daysTradeNos": 505,
+    "yesterdaysClose": 20.7,
+    "daysVolumeNos": 1390889,
+    "adjustedOpeningPrice": 20.7,
+    "daysValueMn": 28.66,
+    "openingPrice": 20.6,
+    "marketCapMn": 25105.707,
+    "closingPrice": 20.6,
+    "freeFloatMarketCapMn": 17407.137
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.66,
+        "date": "2026-09-28",
+        "peBasic": 4.62,
         "peDiluted": null,
-        "peTrailing": 3.2
+        "peTrailing": 3.17
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.66,
+        "date": "2026-09-29",
+        "peBasic": 4.62,
         "peDiluted": null,
-        "peTrailing": 3.2
+        "peTrailing": 3.17
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.66,
+        "date": "2026-09-30",
+        "peBasic": 4.62,
         "peDiluted": null,
-        "peTrailing": 3.2
+        "peTrailing": 3.17
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.66,
-        "peDiluted": null,
-        "peTrailing": 3.2
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.66,
-        "peDiluted": null,
-        "peTrailing": 3.2
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 4.64,
         "peDiluted": null,
         "peTrailing": 3.19
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 4.64,
+        "peDiluted": null,
+        "peTrailing": 3.19
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 4.62,
+        "peDiluted": null,
+        "peTrailing": 3.17
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
+        "date": "2026-09-28",
+        "peBasic": 3.39,
+        "peDiluted": 4.24
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
+        "date": "2026-09-29",
+        "peBasic": 3.39,
+        "peDiluted": 4.24
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
+        "date": "2026-09-30",
+        "peBasic": 3.39,
+        "peDiluted": 4.24
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 3.42,
-        "peDiluted": 4.28
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 3.4,
         "peDiluted": 4.26
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 3.4,
+        "peDiluted": 4.26
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 3.39,
+        "peDiluted": 4.24
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01991 144 088",
     "telephoneNo": "+8802223382206"
   },
-  "scrapedAt": "2026-09-13T15:44:17.843Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:35.087Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board."
+    ],
+    "passedScreens": [
+      "Leverage Ratio: 6.71% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.71,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 25105.707,
+      "totalInterestBearingDebt": 1684.05
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UTTARABANK",
+  "cseQuote": {
+    "ltp": 20.7,
+    "open": 20.8,
+    "high": 20.7,
+    "low": 20.6,
+    "ycp": 20.8,
+    "change": -0.1,
+    "changePct": -0.48,
+    "trades": 3,
+    "valueMn": 0.01,
+    "volume": 650,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "PURABIGEN",
   "scripCode": "25715",
   "companyName": "Purabi Gen. Insurance Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PURABIGEN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PURABIGEN",
   "lastAGMHeldOn": "2026-08-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 295,
     "TRADING CODE": "PURABIGEN",
     "tradingCode": "PURABIGEN",
-    "LTP": 26.7,
-    "HIGH": 28.9,
-    "LOW": 26.4,
-    "CLOSEP": 26.7,
-    "YCP": 28.5,
-    "CHANGE": -1.8,
-    "TRADE": 289,
-    "VALUE (mn)": 5.765,
-    "VOLUME": 209945
+    "LTP": 27.4,
+    "HIGH": 28.3,
+    "LOW": 27.1,
+    "CLOSEP": 27.4,
+    "YCP": 27.9,
+    "CHANGE": -0.5,
+    "TRADE": 122,
+    "VALUE (mn)": 2.912,
+    "VOLUME": 106057
   },
   "marketInformation": {
-    "lastTradingPrice": 26.7,
+    "lastTradingPrice": 27.4,
     "daysRange": [
-      26.4,
-      28.9
+      27.1,
+      28.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.5,
       36.1
     ],
-    "change": -1.8,
-    "daysTradeNos": 289,
-    "yesterdaysClose": 28.5,
-    "daysVolumeNos": 209945,
-    "adjustedOpeningPrice": 28.5,
-    "daysValueMn": 5.77,
-    "openingPrice": 28.9,
-    "marketCapMn": 1704.656,
-    "closingPrice": 26.7,
-    "freeFloatMarketCapMn": 1166.267
+    "change": -0.5,
+    "daysTradeNos": 122,
+    "yesterdaysClose": 27.9,
+    "daysVolumeNos": 106057,
+    "adjustedOpeningPrice": 27.9,
+    "daysValueMn": 2.91,
+    "openingPrice": 28.3,
+    "marketCapMn": 1668.769,
+    "closingPrice": 27.4,
+    "freeFloatMarketCapMn": 1141.714
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.32,
+        "date": "2026-09-28",
+        "peBasic": 17.26,
         "peDiluted": null,
-        "peTrailing": 22.91
+        "peTrailing": 22.83
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 17.32,
+        "date": "2026-09-29",
+        "peBasic": 17.26,
         "peDiluted": null,
-        "peTrailing": 22.91
+        "peTrailing": 22.83
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 17.2,
+        "date": "2026-09-30",
+        "peBasic": 17.14,
         "peDiluted": null,
-        "peTrailing": 22.76
+        "peTrailing": 22.68
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 17.02,
+        "date": "2026-10-01",
+        "peBasic": 16.85,
         "peDiluted": null,
-        "peTrailing": 22.52
+        "peTrailing": 22.28
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 16.96,
+        "date": "2026-10-04",
+        "peBasic": 16.61,
         "peDiluted": null,
-        "peTrailing": 22.44
+        "peTrailing": 21.97
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 15.89,
+        "date": "2026-10-05",
+        "peBasic": 16.31,
         "peDiluted": null,
-        "peTrailing": 21.02
+        "peTrailing": 21.57
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.05,
+        "date": "2026-09-28",
+        "peBasic": 23.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 24.05,
+        "date": "2026-09-29",
+        "peBasic": 23.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.88,
+        "date": "2026-09-30",
+        "peBasic": 23.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 23.64,
+        "date": "2026-10-01",
+        "peBasic": 23.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.55,
+        "date": "2026-10-04",
+        "peBasic": 23.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 22.07,
+        "date": "2026-10-05",
+        "peBasic": 22.64,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,40 @@
     "cellNo": "+88 01841-777999",
     "telephoneNo": "55168145"
   },
-  "scrapedAt": "2026-09-13T15:43:38.671Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:13.446Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1668.769,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PURABIGEN",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "SALAMCRST",
   "scripCode": "13225",
   "companyName": "S. Alam Cold Rolled Steels Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SALAMCRST",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SALAMCRST",
   "lastAGMHeldOn": "2024-01-23",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 321,
     "TRADING CODE": "SALAMCRST",
     "tradingCode": "SALAMCRST",
-    "LTP": 11.1,
-    "HIGH": 11.5,
-    "LOW": 11,
-    "CLOSEP": 11.1,
-    "YCP": 11.5,
-    "CHANGE": -0.4,
-    "TRADE": 151,
-    "VALUE (mn)": 1.53,
-    "VOLUME": 137458
+    "LTP": 11.5,
+    "HIGH": 12.2,
+    "LOW": 11.5,
+    "CLOSEP": 11.5,
+    "YCP": 11.8,
+    "CHANGE": -0.3,
+    "TRADE": 71,
+    "VALUE (mn)": 0.469,
+    "VOLUME": 40495
   },
   "marketInformation": {
-    "lastTradingPrice": 11.1,
+    "lastTradingPrice": 11.5,
     "daysRange": [
-      11,
-      11.5
+      11.5,
+      12.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.6,
-      25.6
+      20
     ],
-    "change": -0.4,
-    "daysTradeNos": 151,
-    "yesterdaysClose": 11.5,
-    "daysVolumeNos": 137458,
-    "adjustedOpeningPrice": 11.5,
-    "daysValueMn": 1.53,
-    "openingPrice": 11.5,
-    "marketCapMn": 1131.268,
-    "closingPrice": 11.1,
-    "freeFloatMarketCapMn": 490.655
+    "change": -0.3,
+    "daysTradeNos": 71,
+    "yesterdaysClose": 11.8,
+    "daysVolumeNos": 40495,
+    "adjustedOpeningPrice": 11.8,
+    "daysValueMn": 0.47,
+    "openingPrice": 11.7,
+    "marketCapMn": 1160.779,
+    "closingPrice": 11.5,
+    "freeFloatMarketCapMn": 503.455
   },
   "basicInformation": {
     "authorizedCapitalMn": 3500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 31.88,
+        "date": "2026-09-28",
+        "peBasic": 33.48,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 32.41,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 32.68,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 32.14,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-04",
         "peBasic": 31.61,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-05",
         "peBasic": 30.8,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 30.8,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 29.73,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.29,
+        "date": "2026-09-28",
+        "peBasic": 25.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 24.69,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 24.9,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
         "peBasic": 24.49,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-04",
         "peBasic": 24.08,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-05",
         "peBasic": 23.47,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 23.47,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 22.65,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01710 535089",
     "telephoneNo": "88-031-611195, 611426, 638258, Ext-507, 505"
   },
-  "scrapedAt": "2026-09-13T15:43:55.338Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:19.764Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1160.779,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SALAMCRST",
+  "cseQuote": {
+    "ltp": 11.8,
+    "open": 12,
+    "high": 11.8,
+    "low": 10.8,
+    "ycp": 12,
+    "change": -0.2,
+    "changePct": -1.67,
+    "trades": 3,
+    "valueMn": 0.01,
+    "volume": 1100,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

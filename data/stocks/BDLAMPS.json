@@ -2,44 +2,44 @@
   "tradingCode": "BDLAMPS",
   "scripCode": "13204",
   "companyName": "Bangladesh Lamps PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BDLAMPS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BDLAMPS",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 55,
     "TRADING CODE": "BDLAMPS",
     "tradingCode": "BDLAMPS",
-    "LTP": 218.7,
-    "HIGH": 225.4,
-    "LOW": 218,
-    "CLOSEP": 218.7,
-    "YCP": 224.3,
-    "CHANGE": -5.6,
-    "TRADE": 465,
-    "VALUE (mn)": 11.575,
-    "VOLUME": 52515
+    "LTP": 262.4,
+    "HIGH": 265.6,
+    "LOW": 253.4,
+    "CLOSEP": 262.4,
+    "YCP": 248,
+    "CHANGE": 14.4,
+    "TRADE": 1708,
+    "VALUE (mn)": 78.588,
+    "VOLUME": 304420
   },
   "marketInformation": {
-    "lastTradingPrice": 218.7,
+    "lastTradingPrice": 262.4,
     "daysRange": [
-      218,
-      225.4
+      253.4,
+      265.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       110.1,
-      237
+      265.6
     ],
-    "change": -5.6,
-    "daysTradeNos": 465,
-    "yesterdaysClose": 224.3,
-    "daysVolumeNos": 52515,
-    "adjustedOpeningPrice": 224.3,
-    "daysValueMn": 11.58,
-    "openingPrice": 222.3,
-    "marketCapMn": 2361.403,
-    "closingPrice": 218.7,
-    "freeFloatMarketCapMn": 900.738
+    "change": 14.4,
+    "daysTradeNos": 1708,
+    "yesterdaysClose": 248,
+    "daysVolumeNos": 304420,
+    "adjustedOpeningPrice": 248,
+    "daysValueMn": 78.59,
+    "openingPrice": 254.4,
+    "marketCapMn": 2610.913,
+    "closingPrice": 262.4,
+    "freeFloatMarketCapMn": 995.912
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 29.93
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 61.86,
-      "govtPct": 0,
-      "institutePct": 9.38,
-      "foreignPct": 0.03,
-      "publicPct": 28.73
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 61.86,
@@ -90,6 +81,15 @@
       "institutePct": 8.66,
       "foreignPct": 0.03,
       "publicPct": 29.45
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 61.86,
+      "govtPct": 0,
+      "institutePct": 7.91,
+      "foreignPct": 0.03,
+      "publicPct": 30.2
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "+88 01723452100",
     "telephoneNo": "+880 2 55052072"
   },
-  "scrapedAt": "2026-09-13T15:42:08.050Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:15.267Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 2.9% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 2.9,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2610.913,
+      "totalInterestBearingDebt": 75.82
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BDLAMPS",
+  "cseQuote": {
+    "ltp": 250.1,
+    "open": 247.9,
+    "high": 250.1,
+    "low": 250.1,
+    "ycp": 247.9,
+    "change": 2.2,
+    "changePct": 0.89,
+    "trades": 2,
+    "valueMn": 1.28,
+    "volume": 5500,
+    "updatedDate": "2026-10-06T01:10:39.833Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

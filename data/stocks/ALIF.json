@@ -2,44 +2,44 @@
   "tradingCode": "ALIF",
   "scripCode": "17444",
   "companyName": "Alif Manufacturing Company Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ALIF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ALIF",
   "lastAGMHeldOn": "2024-12-29",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 23,
     "TRADING CODE": "ALIF",
     "tradingCode": "ALIF",
-    "LTP": 5.2,
-    "HIGH": 5.4,
-    "LOW": 5.2,
-    "CLOSEP": 5.2,
-    "YCP": 5.4,
-    "CHANGE": -0.2,
-    "TRADE": 119,
-    "VALUE (mn)": 1.493,
-    "VOLUME": 283811
+    "LTP": 5,
+    "HIGH": 5.1,
+    "LOW": 4.8,
+    "CLOSEP": 4.9,
+    "YCP": 5,
+    "CHANGE": 0,
+    "TRADE": 118,
+    "VALUE (mn)": 0.825,
+    "VOLUME": 168745
   },
   "marketInformation": {
-    "lastTradingPrice": 5.2,
+    "lastTradingPrice": 5,
     "daysRange": [
-      5.2,
-      5.4
+      4.8,
+      5.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.2,
       6.5
     ],
-    "change": -0.2,
-    "daysTradeNos": 119,
-    "yesterdaysClose": 5.4,
-    "daysVolumeNos": 283811,
-    "adjustedOpeningPrice": 5.4,
-    "daysValueMn": 1.49,
-    "openingPrice": 5.4,
-    "marketCapMn": 1403.606,
-    "closingPrice": 5.2,
-    "freeFloatMarketCapMn": 976.156
+    "change": 0,
+    "daysTradeNos": 118,
+    "yesterdaysClose": 5,
+    "daysVolumeNos": 168745,
+    "adjustedOpeningPrice": 5,
+    "daysValueMn": 0.83,
+    "openingPrice": 5,
+    "marketCapMn": 1299.635,
+    "closingPrice": 4.9,
+    "freeFloatMarketCapMn": 903.848
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.31,
-        "peDiluted": null,
-        "peTrailing": 19.29
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 25.31,
-        "peDiluted": null,
-        "peTrailing": 19.29
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 25.31,
-        "peDiluted": null,
-        "peTrailing": 19.29
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 25.31,
-        "peDiluted": null,
-        "peTrailing": 19.29
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 25.31,
-        "peDiluted": null,
-        "peTrailing": 19.29
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 24.38,
         "peDiluted": null,
         "peTrailing": 18.57
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 24.84,
+        "peDiluted": null,
+        "peTrailing": 18.93
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 24.38,
+        "peDiluted": null,
+        "peTrailing": 18.57
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 23.91,
+        "peDiluted": null,
+        "peTrailing": 18.21
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 23.44,
+        "peDiluted": null,
+        "peTrailing": 17.86
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 22.97,
+        "peDiluted": null,
+        "peTrailing": 17.5
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 16.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 16.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 16.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 16.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 16.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 15.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 16.06,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 15.76,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 15.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 15.15,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 14.85,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,40 @@
     "cellNo": "01552416749",
     "telephoneNo": "02-58815226-7"
   },
-  "scrapedAt": "2026-09-13T15:41:55.911Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:07.067Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1299.635,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ALIF",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

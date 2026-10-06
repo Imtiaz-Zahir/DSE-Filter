@@ -2,44 +2,44 @@
   "tradingCode": "UNIQUEHRL",
   "scripCode": "29002",
   "companyName": "Unique Hotel & Resorts PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNIQUEHRL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UNIQUEHRL",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 379,
     "TRADING CODE": "UNIQUEHRL",
     "tradingCode": "UNIQUEHRL",
-    "LTP": 39.1,
-    "HIGH": 41.7,
-    "LOW": 38.9,
-    "CLOSEP": 39.1,
-    "YCP": 41.7,
-    "CHANGE": -2.6,
-    "TRADE": 750,
-    "VALUE (mn)": 16.571,
-    "VOLUME": 418103
+    "LTP": 42.2,
+    "HIGH": 42.5,
+    "LOW": 41.6,
+    "CLOSEP": 42.2,
+    "YCP": 41.6,
+    "CHANGE": 0.6,
+    "TRADE": 603,
+    "VALUE (mn)": 15.038,
+    "VOLUME": 357392
   },
   "marketInformation": {
-    "lastTradingPrice": 39.1,
+    "lastTradingPrice": 42.2,
     "daysRange": [
-      38.9,
-      41.7
+      41.6,
+      42.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35,
       49.8
     ],
-    "change": -2.6,
-    "daysTradeNos": 750,
-    "yesterdaysClose": 41.7,
-    "daysVolumeNos": 418103,
-    "adjustedOpeningPrice": 41.7,
-    "daysValueMn": 16.57,
-    "openingPrice": 41.7,
-    "marketCapMn": 12276.48,
-    "closingPrice": 39.1,
-    "freeFloatMarketCapMn": 3753.539
+    "change": 0.6,
+    "daysTradeNos": 603,
+    "yesterdaysClose": 41.6,
+    "daysVolumeNos": 357392,
+    "adjustedOpeningPrice": 41.6,
+    "daysValueMn": 15.04,
+    "openingPrice": 42.1,
+    "marketCapMn": 12247.04,
+    "closingPrice": 42.2,
+    "freeFloatMarketCapMn": 3744.538
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -74,22 +74,22 @@
       "publicPct": 18.34
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 52.45,
       "govtPct": 0,
-      "institutePct": 30.36,
-      "foreignPct": 0.19,
-      "publicPct": 17
+      "institutePct": 29.36,
+      "foreignPct": 0.16,
+      "publicPct": 18.03
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 52.45,
       "govtPct": 0,
-      "institutePct": 29.44,
-      "foreignPct": 0.16,
-      "publicPct": 17.95
+      "institutePct": 29.64,
+      "foreignPct": 0.15,
+      "publicPct": 17.76
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.61,
+        "date": "2026-09-28",
+        "peBasic": 10.43,
         "peDiluted": null,
-        "peTrailing": 8.43
+        "peTrailing": 8.29
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 10.64,
+        "date": "2026-09-29",
+        "peBasic": 10.81,
         "peDiluted": null,
-        "peTrailing": 8.45
+        "peTrailing": 8.59
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10.54,
+        "date": "2026-09-30",
+        "peBasic": 10.84,
         "peDiluted": null,
-        "peTrailing": 8.37
+        "peTrailing": 8.61
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 10.51,
+        "date": "2026-10-01",
+        "peBasic": 10.76,
         "peDiluted": null,
-        "peTrailing": 8.35
+        "peTrailing": 8.55
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 10.46,
+        "date": "2026-10-04",
+        "peBasic": 10.43,
         "peDiluted": null,
-        "peTrailing": 8.31
+        "peTrailing": 8.29
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.81,
+        "date": "2026-10-05",
+        "peBasic": 10.59,
         "peDiluted": null,
-        "peTrailing": 7.79
+        "peTrailing": 8.41
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.17,
+        "date": "2026-09-28",
+        "peBasic": 8.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.19,
+        "date": "2026-09-29",
+        "peBasic": 8.32,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 8.11,
+        "date": "2026-09-30",
+        "peBasic": 8.34,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 8.09,
+        "date": "2026-10-01",
+        "peBasic": 8.28,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.05,
+        "date": "2026-10-04",
+        "peBasic": 8.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 7.55,
+        "date": "2026-10-05",
+        "peBasic": 8.15,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,59 @@
     "cellNo": "+88 01769501607",
     "telephoneNo": "+88-02-222285116-23"
   },
-  "scrapedAt": "2026-09-13T15:44:15.314Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:31.814Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 5.11% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 5.11,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 12247.04,
+      "totalInterestBearingDebt": 625.57
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UNIQUEHRL",
+  "cseQuote": {
+    "ltp": 40.9,
+    "open": 41.1,
+    "high": 40.9,
+    "low": 40.9,
+    "ycp": 41.1,
+    "change": -0.2,
+    "changePct": -0.49,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 100,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

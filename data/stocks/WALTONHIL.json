@@ -2,53 +2,53 @@
   "tradingCode": "WALTONHIL",
   "scripCode": "13248",
   "companyName": "Walton Hi-Tech Industries PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=WALTONHIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=WALTONHIL",
   "lastAGMHeldOn": "2025-10-28",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 389,
     "TRADING CODE": "WALTONHIL",
     "tradingCode": "WALTONHIL",
-    "LTP": 389.8,
-    "HIGH": 393.9,
-    "LOW": 388,
-    "CLOSEP": 389.8,
-    "YCP": 390,
-    "CHANGE": -0.2,
-    "TRADE": 1102,
-    "VALUE (mn)": 21.487,
-    "VOLUME": 55107
+    "LTP": 331.7,
+    "HIGH": 334,
+    "LOW": 331,
+    "CLOSEP": 331.7,
+    "YCP": 333.5,
+    "CHANGE": -1.8,
+    "TRADE": 1069,
+    "VALUE (mn)": 10.579,
+    "VOLUME": 31813
   },
   "marketInformation": {
-    "lastTradingPrice": 389.8,
+    "lastTradingPrice": 331.7,
     "daysRange": [
-      388,
-      393.9
+      331,
+      334
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      356.8,
-      486
+      331,
+      458.1
     ],
-    "change": -0.2,
-    "daysTradeNos": 1102,
-    "yesterdaysClose": 390,
-    "daysVolumeNos": 55107,
-    "adjustedOpeningPrice": 390,
-    "daysValueMn": 21.49,
-    "openingPrice": 391.1,
-    "marketCapMn": 129956.259,
-    "closingPrice": 389.8,
-    "freeFloatMarketCapMn": 37567.418
+    "change": -1.8,
+    "daysTradeNos": 1069,
+    "yesterdaysClose": 333.5,
+    "daysVolumeNos": 31813,
+    "adjustedOpeningPrice": 333.5,
+    "daysValueMn": 10.58,
+    "openingPrice": 333.1,
+    "marketCapMn": 122242.189,
+    "closingPrice": 331.7,
+    "freeFloatMarketCapMn": 35337.454
   },
   "basicInformation": {
     "authorizedCapitalMn": 6000,
     "debutTradingDate": "2020-09-23",
-    "paidUpCapitalMn": 3332.21,
+    "paidUpCapitalMn": 3665.43,
     "typeOfInstrument": "Equity",
     "faceParValue": 10,
     "marketLot": 1,
-    "totalOutstandingSecurities": 333221177,
+    "totalOutstandingSecurities": 366543294,
     "sector": "Engineering"
   },
   "dividendAndSurplus": {
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.56,
+        "date": "2026-09-28",
+        "peBasic": 10.01,
         "peDiluted": null,
-        "peTrailing": 11.56
+        "peTrailing": 10.01
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.48,
+        "date": "2026-09-29",
+        "peBasic": 10,
         "peDiluted": null,
-        "peTrailing": 11.48
+        "peTrailing": 10
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.52,
+        "date": "2026-09-30",
+        "peBasic": 9.99,
         "peDiluted": null,
-        "peTrailing": 11.52
+        "peTrailing": 9.99
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.56,
+        "date": "2026-10-01",
+        "peBasic": 9.98,
         "peDiluted": null,
-        "peTrailing": 11.56
+        "peTrailing": 9.98
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.56,
+        "date": "2026-10-04",
+        "peBasic": 9.88,
         "peDiluted": null,
-        "peTrailing": 11.56
+        "peTrailing": 9.88
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.55,
+        "date": "2026-10-05",
+        "peBasic": 9.83,
         "peDiluted": null,
-        "peTrailing": 11.55
+        "peTrailing": 9.83
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.4,
-        "peDiluted": 12.54
+        "date": "2026-09-28",
+        "peBasic": 9.87,
+        "peDiluted": 10.86
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.33,
-        "peDiluted": 12.46
+        "date": "2026-09-29",
+        "peBasic": 9.86,
+        "peDiluted": 10.85
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.36,
-        "peDiluted": 12.5
+        "date": "2026-09-30",
+        "peBasic": 9.86,
+        "peDiluted": 10.84
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 11.4,
-        "peDiluted": 12.54
+        "date": "2026-10-01",
+        "peBasic": 9.84,
+        "peDiluted": 10.82
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 11.4,
-        "peDiluted": 12.54
+        "date": "2026-10-04",
+        "peBasic": 9.75,
+        "peDiluted": 10.72
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.39,
-        "peDiluted": 12.53
+        "date": "2026-10-05",
+        "peBasic": 9.69,
+        "peDiluted": 10.66
       }
     ]
   },
@@ -374,6 +374,59 @@
     "cellNo": "01678863444",
     "telephoneNo": "+8809606-555555"
   },
-  "scrapedAt": "2026-09-13T15:44:18.682Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:36.423Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 4.6% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 4.6,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 122242.189,
+      "totalInterestBearingDebt": 5625.55
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/WALTONHIL",
+  "cseQuote": {
+    "ltp": 333,
+    "open": 334,
+    "high": 338,
+    "low": 333,
+    "ycp": 334,
+    "change": -1,
+    "changePct": -0.3,
+    "trades": 6,
+    "valueMn": 0.12,
+    "volume": 355,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

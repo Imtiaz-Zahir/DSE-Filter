@@ -2,44 +2,44 @@
   "tradingCode": "DGIC",
   "scripCode": "25750",
   "companyName": "Desh General Insurance Company Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DGIC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DGIC",
   "lastAGMHeldOn": "2026-09-09",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 100,
     "TRADING CODE": "DGIC",
     "tradingCode": "DGIC",
-    "LTP": 29.6,
-    "HIGH": 30.4,
-    "LOW": 29.5,
-    "CLOSEP": 29.6,
-    "YCP": 30.4,
-    "CHANGE": -0.8,
-    "TRADE": 252,
-    "VALUE (mn)": 4.974,
-    "VOLUME": 167407
+    "LTP": 40.9,
+    "HIGH": 42.7,
+    "LOW": 40.6,
+    "CLOSEP": 40.9,
+    "YCP": 41.9,
+    "CHANGE": -1,
+    "TRADE": 857,
+    "VALUE (mn)": 31.782,
+    "VOLUME": 766827
   },
   "marketInformation": {
-    "lastTradingPrice": 29.6,
+    "lastTradingPrice": 40.9,
     "daysRange": [
-      29.5,
-      30.4
+      40.6,
+      42.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       16.9,
-      37.3
+      43
     ],
-    "change": -0.8,
-    "daysTradeNos": 252,
-    "yesterdaysClose": 30.4,
-    "daysVolumeNos": 167407,
-    "adjustedOpeningPrice": 30.4,
-    "daysValueMn": 4.97,
-    "openingPrice": 30.1,
-    "marketCapMn": 1216,
-    "closingPrice": 29.6,
-    "freeFloatMarketCapMn": 544.167
+    "change": -1,
+    "daysTradeNos": 857,
+    "yesterdaysClose": 41.9,
+    "daysVolumeNos": 766827,
+    "adjustedOpeningPrice": 41.9,
+    "daysValueMn": 31.78,
+    "openingPrice": 41.9,
+    "marketCapMn": 1676,
+    "closingPrice": 40.9,
+    "freeFloatMarketCapMn": 750.02
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 31.12,
+        "date": "2026-09-28",
+        "peBasic": 41.84,
         "peDiluted": null,
-        "peTrailing": 54.46
+        "peTrailing": 73.21
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 31.02,
+        "date": "2026-09-29",
+        "peBasic": 42.65,
         "peDiluted": null,
-        "peTrailing": 54.29
+        "peTrailing": 74.64
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 30.41,
+        "date": "2026-09-30",
+        "peBasic": 42.24,
         "peDiluted": null,
-        "peTrailing": 53.21
+        "peTrailing": 73.93
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 30.82,
+        "date": "2026-10-01",
+        "peBasic": 41.53,
         "peDiluted": null,
-        "peTrailing": 53.93
+        "peTrailing": 72.68
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 31.02,
+        "date": "2026-10-04",
+        "peBasic": 42.76,
         "peDiluted": null,
-        "peTrailing": 54.29
+        "peTrailing": 74.82
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 30.2,
+        "date": "2026-10-05",
+        "peBasic": 41.73,
         "peDiluted": null,
-        "peTrailing": 52.86
+        "peTrailing": 73.04
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 190.63,
+        "date": "2026-09-28",
+        "peBasic": 256.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 190,
+        "date": "2026-09-29",
+        "peBasic": 261.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 186.25,
+        "date": "2026-09-30",
+        "peBasic": 258.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 188.75,
+        "date": "2026-10-01",
+        "peBasic": 254.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 190,
+        "date": "2026-10-04",
+        "peBasic": 261.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 185,
+        "date": "2026-10-05",
+        "peBasic": 255.63,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+8801975615161",
     "telephoneNo": "02-223390997-9, 02223391001"
   },
-  "scrapedAt": "2026-09-13T15:42:24.455Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:29.377Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 4.21% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 4.21,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1676,
+      "totalInterestBearingDebt": 70.6
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DGIC",
+  "cseQuote": {
+    "ltp": 40.6,
+    "open": 41.9,
+    "high": 41.2,
+    "low": 40.6,
+    "ycp": 41.9,
+    "change": -1.3,
+    "changePct": -3.1,
+    "trades": 3,
+    "valueMn": 0.1,
+    "volume": 2332,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

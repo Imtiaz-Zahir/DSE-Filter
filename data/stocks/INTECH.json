@@ -2,44 +2,44 @@
   "tradingCode": "INTECH",
   "scripCode": "22644",
   "companyName": "Intech Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=INTECH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=INTECH",
   "lastAGMHeldOn": "2025-12-18",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 180,
     "TRADING CODE": "INTECH",
     "tradingCode": "INTECH",
-    "LTP": 22.4,
-    "HIGH": 23.4,
-    "LOW": 22.1,
-    "CLOSEP": 22.2,
-    "YCP": 23.1,
-    "CHANGE": -0.7,
-    "TRADE": 102,
-    "VALUE (mn)": 0.938,
-    "VOLUME": 41786
+    "LTP": 22.9,
+    "HIGH": 23.5,
+    "LOW": 22.7,
+    "CLOSEP": 22.9,
+    "YCP": 23.2,
+    "CHANGE": -0.3,
+    "TRADE": 130,
+    "VALUE (mn)": 1.952,
+    "VOLUME": 84842
   },
   "marketInformation": {
-    "lastTradingPrice": 22.4,
+    "lastTradingPrice": 22.9,
     "daysRange": [
-      22.1,
-      23.4
+      22.7,
+      23.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18,
       44.1
     ],
-    "change": -0.7,
-    "daysTradeNos": 102,
-    "yesterdaysClose": 23.1,
-    "daysVolumeNos": 41786,
-    "adjustedOpeningPrice": 23.1,
-    "daysValueMn": 0.94,
+    "change": -0.3,
+    "daysTradeNos": 130,
+    "yesterdaysClose": 23.2,
+    "daysVolumeNos": 84842,
+    "adjustedOpeningPrice": 23.2,
+    "daysValueMn": 1.95,
     "openingPrice": 23.4,
-    "marketCapMn": 723.52,
-    "closingPrice": 22.2,
-    "freeFloatMarketCapMn": 506.419
+    "marketCapMn": 726.652,
+    "closingPrice": 22.9,
+    "freeFloatMarketCapMn": 508.611
   },
   "basicInformation": {
     "authorizedCapitalMn": 1200,
@@ -74,15 +74,6 @@
       "publicPct": 60.53
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30,
-      "govtPct": 0,
-      "institutePct": 6.34,
-      "foreignPct": 0.13,
-      "publicPct": 63.53
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30,
@@ -90,6 +81,15 @@
       "institutePct": 5.97,
       "foreignPct": 0.12,
       "publicPct": 63.91
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30,
+      "govtPct": 0,
+      "institutePct": 5.82,
+      "foreignPct": 0.12,
+      "publicPct": 64.06
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,56 @@
     "cellNo": "+88 01322 894 545",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:50.973Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:48.318Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 6.66% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.66,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 726.652,
+      "totalInterestBearingDebt": 48.41
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/INTECH",
+  "cseQuote": {
+    "ltp": 24.8,
+    "open": 24.8,
+    "high": 24.8,
+    "low": 24.8,
+    "ycp": 24.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

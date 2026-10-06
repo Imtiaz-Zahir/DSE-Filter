@@ -2,44 +2,44 @@
   "tradingCode": "BDTHAI",
   "scripCode": "13219",
   "companyName": "Bd.Thai Aluminium Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BDTHAI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BDTHAI",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 57,
     "TRADING CODE": "BDTHAI",
     "tradingCode": "BDTHAI",
-    "LTP": 14.8,
-    "HIGH": 16,
-    "LOW": 14.7,
-    "CLOSEP": 14.8,
-    "YCP": 15.8,
-    "CHANGE": -1,
-    "TRADE": 799,
-    "VALUE (mn)": 15.833,
-    "VOLUME": 1047951
+    "LTP": 13.5,
+    "HIGH": 14.4,
+    "LOW": 13.4,
+    "CLOSEP": 13.5,
+    "YCP": 14.2,
+    "CHANGE": -0.7,
+    "TRADE": 712,
+    "VALUE (mn)": 9.639,
+    "VOLUME": 700677
   },
   "marketInformation": {
-    "lastTradingPrice": 14.8,
+    "lastTradingPrice": 13.5,
     "daysRange": [
-      14.7,
-      16
+      13.4,
+      14.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       8.4,
       22.7
     ],
-    "change": -1,
-    "daysTradeNos": 799,
-    "yesterdaysClose": 15.8,
-    "daysVolumeNos": 1047951,
-    "adjustedOpeningPrice": 15.8,
-    "daysValueMn": 15.83,
-    "openingPrice": 15.9,
-    "marketCapMn": 2018.849,
-    "closingPrice": 14.8,
-    "freeFloatMarketCapMn": 1429.803
+    "change": -0.7,
+    "daysTradeNos": 712,
+    "yesterdaysClose": 14.2,
+    "daysVolumeNos": 700677,
+    "adjustedOpeningPrice": 14.2,
+    "daysValueMn": 9.64,
+    "openingPrice": 14.3,
+    "marketCapMn": 1814.409,
+    "closingPrice": 13.5,
+    "freeFloatMarketCapMn": 1285.013
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01733200797",
     "telephoneNo": "88-02-226603174-78"
   },
-  "scrapedAt": "2026-09-13T15:42:09.726Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:17.104Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (47.86%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 47.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1814.409,
+      "totalInterestBearingDebt": 868.4
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BDTHAI",
+  "cseQuote": {
+    "ltp": 13.5,
+    "open": 14.1,
+    "high": 14.1,
+    "low": 13.5,
+    "ycp": 14.1,
+    "change": -0.6,
+    "changePct": -4.26,
+    "trades": 10,
+    "valueMn": 0.18,
+    "volume": 12860,
+    "updatedDate": "2026-10-06T01:10:39.833Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "JMISMDL",
   "scripCode": "18487",
   "companyName": "JMI Syringes & Medical Devices Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=JMISMDL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=JMISMDL",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 192,
     "TRADING CODE": "JMISMDL",
     "tradingCode": "JMISMDL",
-    "LTP": 127,
-    "HIGH": 132,
-    "LOW": 126.4,
-    "CLOSEP": 127,
-    "YCP": 129.7,
-    "CHANGE": -2.7,
-    "TRADE": 79,
-    "VALUE (mn)": 1.248,
-    "VOLUME": 9795
+    "LTP": 125.8,
+    "HIGH": 126.7,
+    "LOW": 125,
+    "CLOSEP": 125.8,
+    "YCP": 126.1,
+    "CHANGE": -0.3,
+    "TRADE": 43,
+    "VALUE (mn)": 0.543,
+    "VOLUME": 4312
   },
   "marketInformation": {
-    "lastTradingPrice": 127,
+    "lastTradingPrice": 125.8,
     "daysRange": [
-      126.4,
-      132
+      125,
+      126.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       105.9,
       163.4
     ],
-    "change": -2.7,
-    "daysTradeNos": 79,
-    "yesterdaysClose": 129.7,
-    "daysVolumeNos": 9795,
-    "adjustedOpeningPrice": 129.7,
-    "daysValueMn": 1.25,
-    "openingPrice": 129.7,
-    "marketCapMn": 3898.263,
-    "closingPrice": 127,
-    "freeFloatMarketCapMn": 793.5
+    "change": -0.3,
+    "daysTradeNos": 43,
+    "yesterdaysClose": 126.1,
+    "daysVolumeNos": 4312,
+    "adjustedOpeningPrice": 126.1,
+    "daysValueMn": 0.54,
+    "openingPrice": 126.1,
+    "marketCapMn": 3790.062,
+    "closingPrice": 125.8,
+    "freeFloatMarketCapMn": 771.475
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 14.92
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 79.65,
-      "govtPct": 0,
-      "institutePct": 5.87,
-      "foreignPct": 0,
-      "publicPct": 14.48
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 79.65,
@@ -90,6 +81,15 @@
       "institutePct": 5.85,
       "foreignPct": 0,
       "publicPct": 14.5
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 79.65,
+      "govtPct": 0,
+      "institutePct": 5.7,
+      "foreignPct": 0,
+      "publicPct": 14.65
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 89.26,
+        "date": "2026-09-28",
+        "peBasic": 86.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 88.93,
+        "date": "2026-09-29",
+        "peBasic": 86.17,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 88.66,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 87.72,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 87.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 85.23,
+        "date": "2026-10-01",
+        "peBasic": 85.97,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 84.63,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 84.43,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01777 742 344",
     "telephoneNo": "55138723, 55138724 Ext no. 307"
   },
-  "scrapedAt": "2026-09-13T15:42:57.839Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:51.286Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.43% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.43,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3790.062,
+      "totalInterestBearingDebt": 16.13
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/JMISMDL",
+  "cseQuote": {
+    "ltp": 130.3,
+    "open": 130.3,
+    "high": 130.3,
+    "low": 130.3,
+    "ycp": 130.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

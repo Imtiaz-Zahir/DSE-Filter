@@ -2,44 +2,44 @@
   "tradingCode": "SPCL",
   "scripCode": "15317",
   "companyName": "Shahjibazar Power Co. Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SPCL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SPCL",
   "lastAGMHeldOn": "2026-01-14",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 354,
     "TRADING CODE": "SPCL",
     "tradingCode": "SPCL",
-    "LTP": 47.9,
-    "HIGH": 50,
-    "LOW": 47.6,
-    "CLOSEP": 47.9,
-    "YCP": 49.9,
-    "CHANGE": -2,
-    "TRADE": 716,
-    "VALUE (mn)": 21.831,
-    "VOLUME": 448583
+    "LTP": 49.3,
+    "HIGH": 51.2,
+    "LOW": 49.1,
+    "CLOSEP": 49.3,
+    "YCP": 50.7,
+    "CHANGE": -1.4,
+    "TRADE": 567,
+    "VALUE (mn)": 12.13,
+    "VOLUME": 243013
   },
   "marketInformation": {
-    "lastTradingPrice": 47.9,
+    "lastTradingPrice": 49.3,
     "daysRange": [
-      47.6,
-      50
+      49.1,
+      51.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       36.5,
       60.6
     ],
-    "change": -2,
-    "daysTradeNos": 716,
-    "yesterdaysClose": 49.9,
-    "daysVolumeNos": 448583,
-    "adjustedOpeningPrice": 49.9,
-    "daysValueMn": 21.83,
-    "openingPrice": 50,
-    "marketCapMn": 9312.918,
-    "closingPrice": 47.9,
-    "freeFloatMarketCapMn": 4341.665
+    "change": -1.4,
+    "daysTradeNos": 567,
+    "yesterdaysClose": 50.7,
+    "daysVolumeNos": 243013,
+    "adjustedOpeningPrice": 50.7,
+    "daysValueMn": 12.13,
+    "openingPrice": 51.1,
+    "marketCapMn": 9462.224,
+    "closingPrice": 49.3,
+    "freeFloatMarketCapMn": 4411.271
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 25.84
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 53.38,
-      "govtPct": 0,
-      "institutePct": 17.29,
-      "foreignPct": 0,
-      "publicPct": 29.33
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 53.38,
@@ -90,6 +81,15 @@
       "institutePct": 17.33,
       "foreignPct": 0,
       "publicPct": 29.29
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 53.38,
+      "govtPct": 0,
+      "institutePct": 17.05,
+      "foreignPct": 0,
+      "publicPct": 29.57
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8.72,
+        "date": "2026-09-28",
+        "peBasic": 8.55,
         "peDiluted": null,
-        "peTrailing": 10.02
+        "peTrailing": 9.82
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 8.82,
+        "date": "2026-09-29",
+        "peBasic": 8.58,
         "peDiluted": null,
-        "peTrailing": 10.14
+        "peTrailing": 9.86
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 8.75,
+        "date": "2026-09-30",
+        "peBasic": 8.8,
         "peDiluted": null,
-        "peTrailing": 10.06
+        "peTrailing": 10.12
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 8.68,
+        "date": "2026-10-01",
+        "peBasic": 8.77,
         "peDiluted": null,
-        "peTrailing": 9.98
+        "peTrailing": 10.08
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 8.56,
+        "date": "2026-10-04",
+        "peBasic": 8.7,
         "peDiluted": null,
-        "peTrailing": 9.84
+        "peTrailing": 10
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 8.22,
+        "date": "2026-10-05",
+        "peBasic": 8.46,
         "peDiluted": null,
-        "peTrailing": 9.45
+        "peTrailing": 9.72
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 20.08,
+        "date": "2026-09-28",
+        "peBasic": 19.68,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 20.32,
+        "date": "2026-09-29",
+        "peBasic": 19.76,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 20.16,
+        "date": "2026-09-30",
+        "peBasic": 20.28,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 20,
+        "date": "2026-10-01",
+        "peBasic": 20.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.72,
+        "date": "2026-10-04",
+        "peBasic": 20.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 18.93,
+        "date": "2026-10-05",
+        "peBasic": 19.49,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01720 596 095",
     "telephoneNo": "09678221177 Ext-112"
   },
-  "scrapedAt": "2026-09-13T15:44:04.849Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:25.766Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 9462.224,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SPCL",
+  "cseQuote": {
+    "ltp": 50.5,
+    "open": 51.2,
+    "high": 55.9,
+    "low": 50.5,
+    "ycp": 51.2,
+    "change": -0.7,
+    "changePct": -1.37,
+    "trades": 5,
+    "valueMn": 0.04,
+    "volume": 710,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

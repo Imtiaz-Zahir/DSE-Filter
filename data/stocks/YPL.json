@@ -2,27 +2,27 @@
   "tradingCode": "YPL",
   "scripCode": "13241",
   "companyName": "Yeakin Polymer Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=YPL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=YPL",
   "lastAGMHeldOn": "2021-12-28",
   "forYearEnded": "2021-06-30",
   "overview": {
     "#": 392,
     "TRADING CODE": "YPL",
     "tradingCode": "YPL",
-    "LTP": 18.4,
+    "LTP": 19.4,
     "HIGH": 20,
-    "LOW": 18.1,
-    "CLOSEP": 18.3,
-    "YCP": 19.7,
-    "CHANGE": -1.3,
-    "TRADE": 176,
-    "VALUE (mn)": 2.601,
-    "VOLUME": 137795
+    "LOW": 19.2,
+    "CLOSEP": 19.4,
+    "YCP": 19.4,
+    "CHANGE": 0,
+    "TRADE": 167,
+    "VALUE (mn)": 2.148,
+    "VOLUME": 110117
   },
   "marketInformation": {
-    "lastTradingPrice": 18.4,
+    "lastTradingPrice": 19.4,
     "daysRange": [
-      18.1,
+      19.2,
       20
     ],
     "lastUpdate": "2:40 PM",
@@ -30,16 +30,16 @@
       12.6,
       27.5
     ],
-    "change": -1.3,
-    "daysTradeNos": 176,
-    "yesterdaysClose": 19.7,
-    "daysVolumeNos": 137795,
-    "adjustedOpeningPrice": 19.7,
-    "daysValueMn": 2.6,
+    "change": 0,
+    "daysTradeNos": 167,
+    "yesterdaysClose": 19.4,
+    "daysVolumeNos": 110117,
+    "adjustedOpeningPrice": 19.4,
+    "daysValueMn": 2.15,
     "openingPrice": 20,
-    "marketCapMn": 1451.867,
-    "closingPrice": 18.3,
-    "freeFloatMarketCapMn": 1014.65
+    "marketCapMn": 1429.757,
+    "closingPrice": 19.4,
+    "freeFloatMarketCapMn": 999.198
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": "+88 01914882942",
     "telephoneNo": "+88 02 51000207 Ext-805"
   },
-  "scrapedAt": "2026-09-13T15:44:20.422Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:37.470Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1429.757,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/YPL",
+  "cseQuote": {
+    "ltp": 20.1,
+    "open": 20.1,
+    "high": 20.1,
+    "low": 20.1,
+    "ycp": 20.1,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

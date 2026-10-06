@@ -142,7 +142,7 @@ export function StockSeoSummary({ stock }: StockSeoSummaryProps) {
             )}
             {isSharia ? (
               <span className="block mt-1.5 font-medium text-emerald-600 dark:text-emerald-400">
-                ✓ Certified DSES Sharia Compliant equity.
+                ✓ Certified Sharia Compliant equity.
               </span>
             ) : (
               <span className="block mt-1.5 text-muted-foreground">

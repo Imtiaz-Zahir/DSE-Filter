@@ -2,28 +2,28 @@
   "tradingCode": "DSSL",
   "scripCode": "17471",
   "companyName": "Dragon Sweater and Spinning Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DSSL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DSSL",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 106,
     "TRADING CODE": "DSSL",
     "tradingCode": "DSSL",
-    "LTP": 10.8,
-    "HIGH": 11.2,
-    "LOW": 10.5,
-    "CLOSEP": 10.8,
-    "YCP": 11.1,
+    "LTP": 10.5,
+    "HIGH": 11,
+    "LOW": 10.4,
+    "CLOSEP": 10.5,
+    "YCP": 10.8,
     "CHANGE": -0.3,
-    "TRADE": 678,
-    "VALUE (mn)": 15.735,
-    "VOLUME": 1445570
+    "TRADE": 667,
+    "VALUE (mn)": 13.56,
+    "VOLUME": 1280076
   },
   "marketInformation": {
-    "lastTradingPrice": 10.8,
+    "lastTradingPrice": 10.5,
     "daysRange": [
-      10.5,
-      11.2
+      10.4,
+      11
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       14.8
     ],
     "change": -0.3,
-    "daysTradeNos": 678,
-    "yesterdaysClose": 11.1,
-    "daysVolumeNos": 1445570,
-    "adjustedOpeningPrice": 11.1,
-    "daysValueMn": 15.74,
-    "openingPrice": 11.1,
-    "marketCapMn": 2339.805,
-    "closingPrice": 10.8,
-    "freeFloatMarketCapMn": 1587.121
+    "daysTradeNos": 667,
+    "yesterdaysClose": 10.8,
+    "daysVolumeNos": 1280076,
+    "adjustedOpeningPrice": 10.8,
+    "daysValueMn": 13.56,
+    "openingPrice": 10.8,
+    "marketCapMn": 2276.567,
+    "closingPrice": 10.5,
+    "freeFloatMarketCapMn": 1544.225
   },
   "basicInformation": {
     "authorizedCapitalMn": 3000,
@@ -74,15 +74,6 @@
       "publicPct": 52.53
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 32.17,
-      "govtPct": 0,
-      "institutePct": 15.49,
-      "foreignPct": 0,
-      "publicPct": 52.34
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 32.17,
@@ -90,6 +81,15 @@
       "institutePct": 8.96,
       "foreignPct": 0,
       "publicPct": 58.87
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 32.17,
+      "govtPct": 0,
+      "institutePct": 8.58,
+      "foreignPct": 0,
+      "publicPct": 59.25
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 77.86,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 78.57,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 80.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 82.86,
+        "date": "2026-10-01",
+        "peBasic": 78.57,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 80,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 80.71,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 79.29,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-04",
         "peBasic": 77.14,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 75,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01913867976",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:27.835Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:31.665Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2276.567,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DSSL",
+  "cseQuote": {
+    "ltp": 10.5,
+    "open": 10.9,
+    "high": 11,
+    "low": 10.5,
+    "ycp": 10.9,
+    "change": -0.4,
+    "changePct": -3.67,
+    "trades": 31,
+    "valueMn": 0.38,
+    "volume": 35640,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

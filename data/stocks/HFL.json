@@ -2,44 +2,44 @@
   "tradingCode": "HFL",
   "scripCode": "17464",
   "companyName": "Hamid Fabrics PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=HFL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=HFL",
   "lastAGMHeldOn": "2023-12-28",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 160,
     "TRADING CODE": "HFL",
     "tradingCode": "HFL",
-    "LTP": 13,
-    "HIGH": 13.1,
-    "LOW": 12.6,
-    "CLOSEP": 12.8,
-    "YCP": 12.8,
-    "CHANGE": 0.2,
-    "TRADE": 198,
-    "VALUE (mn)": 0.07,
-    "VOLUME": 5434
+    "LTP": 11.2,
+    "HIGH": 12.2,
+    "LOW": 11.2,
+    "CLOSEP": 11.2,
+    "YCP": 11.3,
+    "CHANGE": -0.1,
+    "TRADE": 100,
+    "VALUE (mn)": 0.722,
+    "VOLUME": 63298
   },
   "marketInformation": {
-    "lastTradingPrice": 13,
+    "lastTradingPrice": 11.2,
     "daysRange": [
-      12.6,
-      13.1
+      11.2,
+      12.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
       17.9
     ],
-    "change": 0.2,
-    "daysTradeNos": 198,
-    "yesterdaysClose": 12.8,
-    "daysVolumeNos": 5434,
-    "adjustedOpeningPrice": 12.8,
-    "daysValueMn": 0.07,
-    "openingPrice": 12.9,
-    "marketCapMn": 1165.534,
-    "closingPrice": 12.8,
-    "freeFloatMarketCapMn": 566.671
+    "change": -0.1,
+    "daysTradeNos": 100,
+    "yesterdaysClose": 11.3,
+    "daysVolumeNos": 63298,
+    "adjustedOpeningPrice": 11.3,
+    "daysValueMn": 0.72,
+    "openingPrice": 12,
+    "marketCapMn": 1028.948,
+    "closingPrice": 11.2,
+    "freeFloatMarketCapMn": 500.264
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 70.53,
+        "date": "2026-09-28",
+        "peBasic": 62.63,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 70.53,
+        "date": "2026-09-29",
+        "peBasic": 58.42,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 69.47,
+        "date": "2026-09-30",
+        "peBasic": 62.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 68.42,
+        "date": "2026-10-01",
+        "peBasic": 60,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 67.37,
+        "date": "2026-10-04",
+        "peBasic": 59.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 67.37,
+        "date": "2026-10-05",
+        "peBasic": 58.95,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01921161018",
     "telephoneNo": "2222294589, Ext. - 401"
   },
-  "scrapedAt": "2026-09-13T15:42:41.229Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:43.535Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 3.24% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 3.24,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1028.948,
+      "totalInterestBearingDebt": 33.35
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/HFL",
+  "cseQuote": {
+    "ltp": 11,
+    "open": 10.2,
+    "high": 11,
+    "low": 11,
+    "ycp": 10.2,
+    "change": 0.8,
+    "changePct": 7.84,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 5,
+    "updatedDate": "2026-10-06T01:10:39.842Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

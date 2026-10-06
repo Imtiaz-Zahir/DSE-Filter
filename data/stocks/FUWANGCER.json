@@ -2,44 +2,44 @@
   "tradingCode": "FUWANGCER",
   "scripCode": "24632",
   "companyName": "Fu-Wang Ceramic Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FUWANGCER",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FUWANGCER",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 138,
     "TRADING CODE": "FUWANGCER",
     "tradingCode": "FUWANGCER",
-    "LTP": 12.5,
-    "HIGH": 13.5,
-    "LOW": 12.2,
-    "CLOSEP": 12.5,
-    "YCP": 13.5,
-    "CHANGE": -1,
-    "TRADE": 551,
-    "VALUE (mn)": 9.632,
-    "VOLUME": 746106
+    "LTP": 11.9,
+    "HIGH": 12.2,
+    "LOW": 11.8,
+    "CLOSEP": 11.9,
+    "YCP": 12,
+    "CHANGE": -0.1,
+    "TRADE": 347,
+    "VALUE (mn)": 5.415,
+    "VOLUME": 452691
   },
   "marketInformation": {
-    "lastTradingPrice": 12.5,
+    "lastTradingPrice": 11.9,
     "daysRange": [
-      12.2,
-      13.5
+      11.8,
+      12.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.8,
       17.8
     ],
-    "change": -1,
-    "daysTradeNos": 551,
-    "yesterdaysClose": 13.5,
-    "daysVolumeNos": 746106,
-    "adjustedOpeningPrice": 13.5,
-    "daysValueMn": 9.63,
-    "openingPrice": 13.5,
-    "marketCapMn": 1839.633,
-    "closingPrice": 12.5,
-    "freeFloatMarketCapMn": 1287.799
+    "change": -0.1,
+    "daysTradeNos": 347,
+    "yesterdaysClose": 12,
+    "daysVolumeNos": 452691,
+    "adjustedOpeningPrice": 12,
+    "daysValueMn": 5.42,
+    "openingPrice": 12.1,
+    "marketCapMn": 1635.229,
+    "closingPrice": 11.9,
+    "freeFloatMarketCapMn": 1144.711
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1050,
+        "date": "2026-09-28",
+        "peBasic": 952.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1057.5,
+        "date": "2026-09-29",
+        "peBasic": 930,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1027.5,
+        "date": "2026-09-30",
+        "peBasic": 945,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1020,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 1012.5,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 937.5,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 900,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 892.5,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 127.27,
+        "date": "2026-09-28",
+        "peBasic": 115.45,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 128.18,
+        "date": "2026-09-29",
+        "peBasic": 112.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 124.55,
+        "date": "2026-09-30",
+        "peBasic": 114.55,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 123.64,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 122.73,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
         "peBasic": 113.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 109.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 108.18,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,56 @@
     "cellNo": "01989196096",
     "telephoneNo": "02 41080135, 02 41080136"
   },
-  "scrapedAt": "2026-09-13T15:42:35.910Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:39.314Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (168.01%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 168.01,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1635.229,
+      "totalInterestBearingDebt": 2747.3
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FUWANGCER",
+  "cseQuote": {
+    "ltp": 11.9,
+    "open": 12.1,
+    "high": 12.1,
+    "low": 11.9,
+    "ycp": 12.1,
+    "change": -0.2,
+    "changePct": -1.65,
+    "trades": 6,
+    "valueMn": 0.07,
+    "volume": 6020,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "ARAMIT",
   "scripCode": "99602",
   "companyName": "Aramit Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ARAMIT",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ARAMIT",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 36,
     "TRADING CODE": "ARAMIT",
     "tradingCode": "ARAMIT",
-    "LTP": 170,
-    "HIGH": 187.7,
-    "LOW": 169,
-    "CLOSEP": 170,
-    "YCP": 184.6,
-    "CHANGE": -14.6,
-    "TRADE": 219,
-    "VALUE (mn)": 3.05,
-    "VOLUME": 17669
+    "LTP": 171.3,
+    "HIGH": 176,
+    "LOW": 170.6,
+    "CLOSEP": 171.3,
+    "YCP": 171.2,
+    "CHANGE": 0.1,
+    "TRADE": 116,
+    "VALUE (mn)": 1.275,
+    "VOLUME": 7424
   },
   "marketInformation": {
-    "lastTradingPrice": 170,
+    "lastTradingPrice": 171.3,
     "daysRange": [
-      169,
-      187.7
+      170.6,
+      176
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       156,
-      243
+      235
     ],
-    "change": -14.6,
-    "daysTradeNos": 219,
-    "yesterdaysClose": 184.6,
-    "daysVolumeNos": 17669,
-    "adjustedOpeningPrice": 184.6,
-    "daysValueMn": 3.05,
-    "openingPrice": 187.7,
-    "marketCapMn": 1107.6,
-    "closingPrice": 170,
-    "freeFloatMarketCapMn": 365.767
+    "change": 0.1,
+    "daysTradeNos": 116,
+    "yesterdaysClose": 171.2,
+    "daysVolumeNos": 7424,
+    "adjustedOpeningPrice": 171.2,
+    "daysValueMn": 1.28,
+    "openingPrice": 176,
+    "marketCapMn": 1027.2,
+    "closingPrice": 171.3,
+    "freeFloatMarketCapMn": 339.216
   },
   "basicInformation": {
     "authorizedCapitalMn": 100,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1668.33
+        "peTrailing": 1452.5
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1629.17
+        "peTrailing": 1450
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1581.67
+        "peTrailing": 1445.83
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1560
+        "peTrailing": 1431.67
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1538.33
+        "peTrailing": 1426.67
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 1416.67
+        "peTrailing": 1427.5
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 95.79,
+        "date": "2026-09-28",
+        "peBasic": 83.4,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 93.54,
+        "date": "2026-09-29",
+        "peBasic": 83.25,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 90.81,
+        "date": "2026-09-30",
+        "peBasic": 83.01,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 89.57,
+        "date": "2026-10-01",
+        "peBasic": 82.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 88.33,
+        "date": "2026-10-04",
+        "peBasic": 81.91,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 81.34,
+        "date": "2026-10-05",
+        "peBasic": 81.96,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01819-240005",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:01.073Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:10.815Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1027.2,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ARAMIT",
+  "cseQuote": {
+    "ltp": 170,
+    "open": 170,
+    "high": 170,
+    "low": 170,
+    "ycp": 170,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.831Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

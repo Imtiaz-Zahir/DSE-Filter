@@ -9,6 +9,7 @@ import {
   CheckCircle2,
   AlertCircle,
   Clock,
+  Layers,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -19,8 +20,13 @@ import {
   getSector,
   getCategory,
   getShariaCompliant,
+  getShariahBadgeStatus,
   getInstrumentType,
   getOperationalStatus,
+  getExchanges,
+  isDualListed,
+  isDseListed,
+  isCseListed,
 } from "@/lib/stocks";
 import { getCategoryBadgeVariant } from "@/lib/utils";
 
@@ -37,10 +43,15 @@ export function StockHeader({ stock }: StockHeaderProps) {
   const instrument = getInstrumentType(stock);
   const status = getOperationalStatus(stock);
   const scripCode = stock.scripCode;
-  const sourceUrl = stock.sourceUrl || `https://www.dsebd.org/displayCompany.php?name=${code}`;
+  const isDse = isDseListed(stock);
+  const isCse = isCseListed(stock);
+  const isDual = isDualListed(stock);
 
-    const sectorSlug = `sector-${sector.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
-    const catSlug = cat === "A" || cat === "B" || cat === "Z" || cat === "N" ? `category-${cat.toLowerCase()}` : "category-a";
+  const dseSourceUrl = stock.sourceUrl || `https://old.dsebd.org/displayCompany.php?name=${encodeURIComponent(code)}`;
+  const cseSourceUrl = stock.cseSourceUrl || `https://cse.com.bd/company/companydetails/${encodeURIComponent(code)}`;
+
+  const sectorSlug = `sector-${sector.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
+  const catSlug = cat === "A" || cat === "B" || cat === "Z" || cat === "N" ? `category-${cat.toLowerCase()}` : "category-a";
 
   return (
     <div className="space-y-4">
@@ -73,12 +84,34 @@ export function StockHeader({ stock }: StockHeaderProps) {
               </Badge>
             </Link>
 
-            {isSharia && (
-              <Link href="/market/shariah" title="View all DSES Sharia compliant stocks">
+            {getShariahBadgeStatus(stock) === "compliant" && (
+              <Link href="/market/shariah" title="View all Sharia compliant stocks">
                 <span className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 text-xs font-semibold text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 hover:bg-emerald-500/20 transition-colors">
-                  <ShieldCheck className="size-3 mr-1" /> DSES Sharia Compliant
+                  <ShieldCheck className="size-3 mr-1" /> Sharia Compliant
                 </span>
               </Link>
+            )}
+
+            {getShariahBadgeStatus(stock) === "non-compliant" && (
+              <span className="inline-flex items-center rounded-md bg-rose-500/10 px-2 py-0.5 text-xs font-semibold text-rose-600 dark:text-rose-400 border border-rose-500/20">
+                Non-Compliant
+              </span>
+            )}
+
+            {isDual ? (
+              <Link href="/market/dual-listed" title="View dual-listed companies (DSE & CSE)">
+                <span className="inline-flex items-center rounded-md bg-blue-500/10 px-2 py-0.5 text-xs font-semibold text-blue-600 dark:text-blue-400 border border-blue-500/20 hover:bg-blue-500/20 transition-colors">
+                  <Layers className="size-3 mr-1" /> Dual Listed (DSE + CSE)
+                </span>
+              </Link>
+            ) : isCse ? (
+              <Badge variant="outline" className="text-xs px-2 py-0.5 text-amber-600 border-amber-500/30 bg-amber-500/10">
+                CSE Listed Only
+              </Badge>
+            ) : (
+              <Badge variant="outline" className="text-xs px-2 py-0.5 text-muted-foreground">
+                DSE Listed
+              </Badge>
             )}
 
             <Badge variant="outline" className="text-xs px-2 py-0.5 text-muted-foreground">
@@ -119,8 +152,8 @@ export function StockHeader({ stock }: StockHeaderProps) {
           </div>
         </div>
 
-        {/* Action buttons: DSE Official link & Compare button */}
-        <div className="flex items-center gap-2 pt-2 md:pt-0 shrink-0">
+        {/* Action buttons: DSE / CSE Official links & Compare button */}
+        <div className="flex items-center gap-2 pt-2 md:pt-0 shrink-0 flex-wrap">
           <Button
             variant="outline"
             size="sm"
@@ -129,14 +162,30 @@ export function StockHeader({ stock }: StockHeaderProps) {
           >
             Compare Stock
           </Button>
-          <Button
-            size="sm"
-            className="h-8.5 text-xs gap-1.5"
-            render={<a href={sourceUrl} target="_blank" rel="noopener noreferrer" />}
-          >
-            <span>Official DSE Page</span>
-            <ExternalLink className="size-3.5" />
-          </Button>
+
+          {isDse && (
+            <Button
+              variant="outline"
+              size="sm"
+              className="h-8.5 text-xs gap-1.5"
+              render={<a href={dseSourceUrl} target="_blank" rel="noopener noreferrer" />}
+            >
+              <span>DSE Page</span>
+              <ExternalLink className="size-3.5" />
+            </Button>
+          )}
+
+          {isCse && (
+            <Button
+              variant="outline"
+              size="sm"
+              className="h-8.5 text-xs gap-1.5 text-blue-600 dark:text-blue-400 border-blue-500/30 hover:bg-blue-500/10"
+              render={<a href={cseSourceUrl} target="_blank" rel="noopener noreferrer" />}
+            >
+              <span>CSE Page</span>
+              <ExternalLink className="size-3.5" />
+            </Button>
+          )}
         </div>
       </div>
     </div>

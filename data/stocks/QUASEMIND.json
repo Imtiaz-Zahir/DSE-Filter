@@ -2,44 +2,44 @@
   "tradingCode": "QUASEMIND",
   "scripCode": "13214",
   "companyName": "Quasem Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=QUASEMIND",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=QUASEMIND",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 296,
     "TRADING CODE": "QUASEMIND",
     "tradingCode": "QUASEMIND",
-    "LTP": 38.6,
-    "HIGH": 39.9,
-    "LOW": 38.1,
-    "CLOSEP": 38.6,
-    "YCP": 39.2,
-    "CHANGE": -0.6,
-    "TRADE": 264,
-    "VALUE (mn)": 4.863,
-    "VOLUME": 124829
+    "LTP": 38,
+    "HIGH": 39.5,
+    "LOW": 37.5,
+    "CLOSEP": 37.7,
+    "YCP": 38.9,
+    "CHANGE": -0.9,
+    "TRADE": 262,
+    "VALUE (mn)": 3.784,
+    "VOLUME": 99090
   },
   "marketInformation": {
-    "lastTradingPrice": 38.6,
+    "lastTradingPrice": 38,
     "daysRange": [
-      38.1,
-      39.9
+      37.5,
+      39.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.3,
       50.4
     ],
-    "change": -0.6,
-    "daysTradeNos": 264,
-    "yesterdaysClose": 39.2,
-    "daysVolumeNos": 124829,
-    "adjustedOpeningPrice": 39.2,
-    "daysValueMn": 4.86,
-    "openingPrice": 39.2,
-    "marketCapMn": 3135.968,
-    "closingPrice": 38.6,
-    "freeFloatMarketCapMn": 1881.51
+    "change": -0.9,
+    "daysTradeNos": 262,
+    "yesterdaysClose": 38.9,
+    "daysVolumeNos": 99090,
+    "adjustedOpeningPrice": 38.9,
+    "daysValueMn": 3.78,
+    "openingPrice": 38.9,
+    "marketCapMn": 3111.969,
+    "closingPrice": 37.7,
+    "freeFloatMarketCapMn": 1867.11
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.05,
+        "date": "2026-09-28",
+        "peBasic": 34.97,
         "peDiluted": null,
-        "peTrailing": 31.54
+        "peTrailing": 29.77
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 36.87,
+        "date": "2026-09-29",
+        "peBasic": 35.24,
         "peDiluted": null,
-        "peTrailing": 31.38
+        "peTrailing": 30
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 36.69,
+        "date": "2026-09-30",
+        "peBasic": 35.33,
         "peDiluted": null,
-        "peTrailing": 31.23
+        "peTrailing": 30.08
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 36.51,
-        "peDiluted": null,
-        "peTrailing": 31.08
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-10-01",
         "peBasic": 35.42,
         "peDiluted": null,
         "peTrailing": 30.15
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 34.88,
+        "date": "2026-10-04",
+        "peBasic": 35.15,
         "peDiluted": null,
-        "peTrailing": 29.69
+        "peTrailing": 29.92
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 34.07,
+        "peDiluted": null,
+        "peTrailing": 29
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 39.42,
-        "peDiluted": 43.16
+        "date": "2026-09-28",
+        "peBasic": 37.21,
+        "peDiluted": 40.74
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 39.23,
-        "peDiluted": 42.95
+        "date": "2026-09-29",
+        "peBasic": 37.5,
+        "peDiluted": 41.05
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 39.04,
-        "peDiluted": 42.74
+        "date": "2026-09-30",
+        "peBasic": 37.6,
+        "peDiluted": 41.16
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 38.85,
-        "peDiluted": 42.53
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-10-01",
         "peBasic": 37.69,
         "peDiluted": 41.26
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 37.12,
-        "peDiluted": 40.63
+        "date": "2026-10-04",
+        "peBasic": 37.4,
+        "peDiluted": 40.95
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 36.25,
+        "peDiluted": 39.68
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01313 009 844",
     "telephoneNo": "09612007700 EXTN:608"
   },
-  "scrapedAt": "2026-09-13T15:43:40.003Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:14.489Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 5.4% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 5.4,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3111.969,
+      "totalInterestBearingDebt": 168.17
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/QUASEMIND",
+  "cseQuote": {
+    "ltp": 38.5,
+    "open": 38.5,
+    "high": 38.5,
+    "low": 38.5,
+    "ycp": 38.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

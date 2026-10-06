@@ -2,44 +2,44 @@
   "tradingCode": "VFSTDL",
   "scripCode": "17478",
   "companyName": "VFS Thread Dyeing Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=VFSTDL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=VFSTDL",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 388,
     "TRADING CODE": "VFSTDL",
     "tradingCode": "VFSTDL",
-    "LTP": 13.1,
-    "HIGH": 13.9,
-    "LOW": 13,
-    "CLOSEP": 13.1,
-    "YCP": 13.7,
-    "CHANGE": -0.6,
-    "TRADE": 422,
-    "VALUE (mn)": 8.011,
-    "VOLUME": 597773
+    "LTP": 12.2,
+    "HIGH": 12.8,
+    "LOW": 12.1,
+    "CLOSEP": 12.2,
+    "YCP": 12.6,
+    "CHANGE": -0.4,
+    "TRADE": 273,
+    "VALUE (mn)": 4.162,
+    "VOLUME": 335206
   },
   "marketInformation": {
-    "lastTradingPrice": 13.1,
+    "lastTradingPrice": 12.2,
     "daysRange": [
-      13,
-      13.9
+      12.1,
+      12.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      7.5,
+      7.6,
       18.4
     ],
-    "change": -0.6,
-    "daysTradeNos": 422,
-    "yesterdaysClose": 13.7,
-    "daysVolumeNos": 597773,
-    "adjustedOpeningPrice": 13.7,
-    "daysValueMn": 8.01,
-    "openingPrice": 13.8,
-    "marketCapMn": 1446.447,
-    "closingPrice": 13.1,
-    "freeFloatMarketCapMn": 1001.43
+    "change": -0.4,
+    "daysTradeNos": 273,
+    "yesterdaysClose": 12.6,
+    "daysVolumeNos": 335206,
+    "adjustedOpeningPrice": 12.6,
+    "daysValueMn": 4.16,
+    "openingPrice": 12.8,
+    "marketCapMn": 1330.309,
+    "closingPrice": 12.2,
+    "freeFloatMarketCapMn": 921.024
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 345,
+        "date": "2026-09-28",
+        "peBasic": 325,
         "peDiluted": null,
-        "peTrailing": 690
+        "peTrailing": 650
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 362.5,
-        "peDiluted": null,
-        "peTrailing": 725
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 347.5,
-        "peDiluted": null,
-        "peTrailing": 695
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 355,
-        "peDiluted": null,
-        "peTrailing": 710
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 342.5,
-        "peDiluted": null,
-        "peTrailing": 685
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 327.5,
         "peDiluted": null,
         "peTrailing": 655
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 330,
+        "peDiluted": null,
+        "peTrailing": 660
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 327.5,
+        "peDiluted": null,
+        "peTrailing": 655
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 315,
+        "peDiluted": null,
+        "peTrailing": 630
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 305,
+        "peDiluted": null,
+        "peTrailing": 610
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 153.33,
+        "date": "2026-09-28",
+        "peBasic": 144.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 161.11,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 154.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 157.78,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 152.22,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-29",
         "peBasic": 145.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 146.67,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 145.56,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 140,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 135.56,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "01993339199",
     "telephoneNo": "+88 02 8419542"
   },
-  "scrapedAt": "2026-09-13T15:44:18.715Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:36.560Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 6.42% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 6.42,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1330.309,
+      "totalInterestBearingDebt": 85.38
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/VFSTDL",
+  "cseQuote": {
+    "ltp": 12.3,
+    "open": 12.6,
+    "high": 12.4,
+    "low": 12.3,
+    "ycp": 12.6,
+    "change": -0.3,
+    "changePct": -2.38,
+    "trades": 4,
+    "valueMn": 0.07,
+    "volume": 5600,
+    "updatedDate": "2026-10-06T01:10:39.862Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

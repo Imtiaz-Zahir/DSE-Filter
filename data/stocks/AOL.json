@@ -2,44 +2,44 @@
   "tradingCode": "AOL",
   "scripCode": "15321",
   "companyName": "Associated Oxygen Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AOL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AOL",
   "lastAGMHeldOn": "2022-12-28",
   "forYearEnded": "2022-06-30",
   "overview": {
     "#": 30,
     "TRADING CODE": "AOL",
     "tradingCode": "AOL",
-    "LTP": 15.1,
-    "HIGH": 16,
-    "LOW": 15,
-    "CLOSEP": 15.1,
-    "YCP": 15.7,
-    "CHANGE": -0.6,
-    "TRADE": 181,
-    "VALUE (mn)": 3.349,
-    "VOLUME": 220547
+    "LTP": 18,
+    "HIGH": 18.7,
+    "LOW": 17.9,
+    "CLOSEP": 18,
+    "YCP": 18.3,
+    "CHANGE": -0.3,
+    "TRADE": 382,
+    "VALUE (mn)": 10.523,
+    "VOLUME": 575587
   },
   "marketInformation": {
-    "lastTradingPrice": 15.1,
+    "lastTradingPrice": 18,
     "daysRange": [
-      15,
-      16
+      17.9,
+      18.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       12.5,
       19.9
     ],
-    "change": -0.6,
-    "daysTradeNos": 181,
-    "yesterdaysClose": 15.7,
-    "daysVolumeNos": 220547,
-    "adjustedOpeningPrice": 15.7,
-    "daysValueMn": 3.35,
-    "openingPrice": 16,
-    "marketCapMn": 1723.577,
-    "closingPrice": 15.1,
-    "freeFloatMarketCapMn": 1188.874
+    "change": -0.3,
+    "daysTradeNos": 382,
+    "yesterdaysClose": 18.3,
+    "daysVolumeNos": 575587,
+    "adjustedOpeningPrice": 18.3,
+    "daysValueMn": 10.52,
+    "openingPrice": 18.5,
+    "marketCapMn": 2009.011,
+    "closingPrice": 18,
+    "freeFloatMarketCapMn": 1385.757
   },
   "basicInformation": {
     "authorizedCapitalMn": 4000,
@@ -74,15 +74,6 @@
       "publicPct": 45.26
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30.65,
-      "govtPct": 0,
-      "institutePct": 13.38,
-      "foreignPct": 0.07,
-      "publicPct": 55.9
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.65,
@@ -90,6 +81,15 @@
       "institutePct": 12.03,
       "foreignPct": 0.08,
       "publicPct": 57.24
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.65,
+      "govtPct": 0,
+      "institutePct": 11.94,
+      "foreignPct": 0.08,
+      "publicPct": 57.33
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 10.19,
+        "date": "2026-09-28",
+        "peBasic": 10.63,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 10,
+        "date": "2026-09-29",
+        "peBasic": 10.82,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 10,
+        "date": "2026-09-30",
+        "peBasic": 11.26,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 9.94,
+        "date": "2026-10-01",
+        "peBasic": 11.01,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 9.87,
+        "date": "2026-10-04",
+        "peBasic": 11.51,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.5,
+        "date": "2026-10-05",
+        "peBasic": 11.32,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 9.7,
+        "date": "2026-09-28",
+        "peBasic": 10.12,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 9.52,
+        "date": "2026-09-29",
+        "peBasic": 10.3,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 9.52,
+        "date": "2026-09-30",
+        "peBasic": 10.72,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 9.46,
+        "date": "2026-10-01",
+        "peBasic": 10.48,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 9.4,
+        "date": "2026-10-04",
+        "peBasic": 10.96,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 9.04,
+        "date": "2026-10-05",
+        "peBasic": 10.78,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "+88 01811 416 243",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:41:57.770Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:08.521Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 1.1% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1.1,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2009.011,
+      "totalInterestBearingDebt": 22.03
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AOL",
+  "cseQuote": {
+    "ltp": 18.1,
+    "open": 17.6,
+    "high": 18.1,
+    "low": 18.1,
+    "ycp": 17.6,
+    "change": 0.5,
+    "changePct": 2.84,
+    "trades": 3,
+    "valueMn": 0.02,
+    "volume": 1301,
+    "updatedDate": "2026-10-06T01:10:39.830Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

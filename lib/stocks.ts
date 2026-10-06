@@ -6,7 +6,9 @@ import {
   SummaryStats,
   ShareHolding,
   AuditedFinancial,
+  ShariahAuditDetail,
 } from "./types";
+import { calculateShariahAudit, isExcludedSector } from "./shariah-screener";
 import rawMetaData from "@/data/meta.json";
 
 // Safe extraction helpers supporting both full Stock and lightweight ScreenerStock
@@ -20,6 +22,109 @@ export function getScripCode(stock: AnyStock): string {
 
 export function getCompanyName(stock: AnyStock): string {
   return stock.companyName || stock.tradingCode || "";
+}
+
+export function getExchanges(stock: AnyStock): ("DSE" | "CSE")[] {
+  if ("exchanges" in stock && Array.isArray(stock.exchanges) && stock.exchanges.length > 0) {
+    return stock.exchanges;
+  }
+  const isCse = "isCseListed" in stock ? Boolean(stock.isCseListed) : false;
+  const isDse = "isDseListed" in stock ? Boolean(stock.isDseListed) : true;
+  if (isDse && isCse) return ["DSE", "CSE"];
+  if (isCse) return ["CSE"];
+  return ["DSE"];
+}
+
+export function isDualListed(stock: AnyStock): boolean {
+  const ex = getExchanges(stock);
+  return ex.includes("DSE") && ex.includes("CSE");
+}
+
+export function isDseListed(stock: AnyStock): boolean {
+  if ("isDseListed" in stock && typeof stock.isDseListed === "boolean") {
+    return stock.isDseListed;
+  }
+  return getExchanges(stock).includes("DSE");
+}
+
+export function isCseListed(stock: AnyStock): boolean {
+  if ("isCseListed" in stock && typeof stock.isCseListed === "boolean") {
+    return stock.isCseListed;
+  }
+  return getExchanges(stock).includes("CSE");
+}
+
+export function getIndices(stock: AnyStock): string[] {
+  if ("indices" in stock && Array.isArray(stock.indices)) {
+    return stock.indices;
+  }
+  return [];
+}
+
+export function getCseLtp(stock: AnyStock): number | null {
+  if ("cseLtp" in stock && stock.cseLtp !== undefined) return stock.cseLtp;
+  const s = stock as Stock;
+  return s.cseQuote?.ltp ?? null;
+}
+
+export function getCseChange(stock: AnyStock): number | null {
+  if ("cseChange" in stock && stock.cseChange !== undefined) return stock.cseChange;
+  const s = stock as Stock;
+  return s.cseQuote?.change ?? null;
+}
+
+export function getCseChangePct(stock: AnyStock): number | null {
+  if ("cseChangePct" in stock && stock.cseChangePct !== undefined) return stock.cseChangePct;
+  const s = stock as Stock;
+  return s.cseQuote?.changePct ?? null;
+}
+
+export function getCseVolume(stock: AnyStock): number | null {
+  if ("cseVolume" in stock && stock.cseVolume !== undefined) return stock.cseVolume;
+  const s = stock as Stock;
+  return s.cseQuote?.volume ?? null;
+}
+
+export function getCseTurnover(stock: AnyStock): number | null {
+  if ("cseTurnover" in stock && stock.cseTurnover !== undefined) return stock.cseTurnover;
+  const s = stock as Stock;
+  return s.cseQuote?.valueMn ?? null;
+}
+
+export function getCseTrades(stock: AnyStock): number | null {
+  if ("cseTrades" in stock && stock.cseTrades !== undefined) return stock.cseTrades;
+  const s = stock as Stock;
+  return s.cseQuote?.trades ?? null;
+}
+
+export function getSpreadBdt(stock: AnyStock): number | null {
+  if ("spreadBdt" in stock && stock.spreadBdt !== undefined) return stock.spreadBdt;
+  const dseLtp = getLtp(stock);
+  const cseLtp = getCseLtp(stock);
+  if (dseLtp !== null && cseLtp !== null) {
+    return +(dseLtp - cseLtp).toFixed(2);
+  }
+  return null;
+}
+
+export function getSpreadPct(stock: AnyStock): number | null {
+  if ("spreadPct" in stock && stock.spreadPct !== undefined) return stock.spreadPct;
+  const dseLtp = getLtp(stock);
+  const cseLtp = getCseLtp(stock);
+  if (dseLtp !== null && cseLtp !== null && dseLtp > 0) {
+    return +(((dseLtp - cseLtp) / dseLtp) * 100).toFixed(2);
+  }
+  return null;
+}
+
+export function getCreditRating(stock: AnyStock): string | null {
+  if ("creditRating" in stock && stock.creditRating) return stock.creditRating;
+  const ratings = (stock as Stock).creditRatings;
+  if (Array.isArray(ratings) && ratings.length > 0 && ratings[0].longTerm) {
+    const r = ratings[0];
+    return r.outlook ? `${r.longTerm} (${r.outlook})` : (r.longTerm ?? null);
+  }
+  return null;
 }
 
 export function getSector(stock: AnyStock): string {
@@ -38,6 +143,38 @@ export function getCategory(stock: AnyStock): string {
 
 export function getShariaCompliant(stock: AnyStock): boolean {
   return Boolean(stock.shariaCompliant);
+}
+
+export function getShariahAudit(stock: AnyStock): ShariahAuditDetail {
+  if ("shariahAudit" in stock && stock.shariahAudit) {
+    return stock.shariahAudit;
+  }
+  return calculateShariahAudit(stock);
+}
+
+export function getShariahBadgeStatus(stock: AnyStock): "compliant" | "non-compliant" | "none" {
+  const inst = getInstrumentType(stock).toLowerCase();
+  if (inst.includes("bond") || inst.includes("debenture") || inst.includes("treasury")) {
+    return "none";
+  }
+
+  const audit = getShariahAudit(stock);
+  if (!audit.isCompliant || audit.status === "NON_COMPLIANT") {
+    return "non-compliant";
+  }
+
+  // Fully compliant means 100% pure Shariah compliance without requiring any dividend purification
+  const isZeroPurification =
+    audit.metrics.dividendPurificationPct === 0 ||
+    audit.isIslamicFinancialInstitution ||
+    getDebt(stock) === 0;
+
+  if (audit.isCompliant && isZeroPurification) {
+    return "compliant";
+  }
+
+  // Remaining stocks (e.g. compliant stocks that require dividend purification > 0%) show no badge
+  return "none";
 }
 
 export function getLtp(stock: AnyStock): number | null {
@@ -393,12 +530,23 @@ export function calculateSummaryStats(stocks: AnyStock[]): SummaryStats {
   let losersCount = 0;
   let unchangedCount = 0;
   let totalTurnoverMn = 0;
+  let cseTurnoverMn = 0;
   let totalVolume = 0;
+  let cseVolume = 0;
   let totalTrades = 0;
   let shariaCount = 0;
+  let dualListedCount = 0;
+  let dseOnlyCount = 0;
+  let cseOnlyCount = 0;
 
   for (const s of stocks) {
     if (getShariaCompliant(s)) shariaCount++;
+
+    const isDse = isDseListed(s);
+    const isCse = isCseListed(s);
+    if (isDse && isCse) dualListedCount++;
+    else if (isDse) dseOnlyCount++;
+    else if (isCse) cseOnlyCount++;
 
     const mktCap = getMarketCap(s);
     if (mktCap) totalMarketCapMn += mktCap;
@@ -427,8 +575,14 @@ export function calculateSummaryStats(stocks: AnyStock[]): SummaryStats {
     const turnover = getTurnover(s);
     if (turnover) totalTurnoverMn += turnover;
 
+    const cseT = getCseTurnover(s);
+    if (cseT) cseTurnoverMn += cseT;
+
     const volume = getVolume(s);
     if (volume) totalVolume += volume;
+
+    const cseV = getCseVolume(s);
+    if (cseV) cseVolume += cseV;
 
     const trades = getTrades(s);
     if (trades) totalTrades += trades;
@@ -437,6 +591,9 @@ export function calculateSummaryStats(stocks: AnyStock[]): SummaryStats {
   return {
     totalStocks: stocks.length,
     shariaCount,
+    dualListedCount,
+    dseOnlyCount,
+    cseOnlyCount,
     totalMarketCapMn,
     averagePe: peCount > 0 ? parseFloat((peSum / peCount).toFixed(2)) : null,
     averageDivYield: yieldCount > 0 ? parseFloat((yieldSum / yieldCount).toFixed(2)) : null,
@@ -444,7 +601,9 @@ export function calculateSummaryStats(stocks: AnyStock[]): SummaryStats {
     losersCount,
     unchangedCount,
     totalTurnoverMn,
+    cseTurnoverMn,
     totalVolume,
+    cseVolume,
     totalTrades,
   };
 }
@@ -482,8 +641,29 @@ export function filterAndSortStocks<T extends AnyStock>(
       }
     }
 
-    // 2. Preset Filter Shortcuts
+    // 2. Exchange Filter
+    if (filters.exchange && filters.exchange !== "all") {
+      if (filters.exchange === "dual" && !isDualListed(stock)) return false;
+      if (filters.exchange === "dse" && !isDseListed(stock)) return false;
+      if (filters.exchange === "cse" && !isCseListed(stock)) return false;
+    }
+
+    // 3. Benchmark Indices Filter
+    if (filters.indices && filters.indices.length > 0) {
+      const stockIndices = getIndices(stock);
+      const matchesAnyIndex = filters.indices.some((idx) => stockIndices.includes(idx));
+      if (!matchesAnyIndex) return false;
+    }
+
+    // 4. Preset Filter Shortcuts
     if (filters.preset === "sharia" && !getShariaCompliant(stock)) return false;
+    if (filters.preset === "sharia_zero_debt" && (!getShariaCompliant(stock) || getDebt(stock) > 0)) return false;
+    if (filters.preset === "sharia_islamic_finance" && !getShariahAudit(stock).isIslamicFinancialInstitution) return false;
+    if (filters.preset === "sharia_low_purification") {
+      if (!getShariaCompliant(stock)) return false;
+      const dp = getShariahAudit(stock).metrics.dividendPurificationPct;
+      if (dp !== null && dp > 1.0) return false;
+    }
     if (filters.preset === "gainers") {
       const chg = getChange(stock);
       if (chg === null || chg <= 0) return false;
@@ -510,7 +690,7 @@ export function filterAndSortStocks<T extends AnyStock>(
       if (sp === null || sp < 50) return false;
     }
 
-    // 3. Categorical Filters
+    // 5. Categorical Filters
     if (filters.sectors.length > 0 && !filters.sectors.includes(getSector(stock))) {
       return false;
     }
@@ -527,8 +707,10 @@ export function filterAndSortStocks<T extends AnyStock>(
       return false;
     }
 
-    // 4. Boolean Flags
+    // 6. Boolean Flags
     if (filters.shariaOnly && !getShariaCompliant(stock)) return false;
+    if (filters.islamicFinanceOnly && !getShariahAudit(stock).isIslamicFinancialInstitution) return false;
+    if (filters.excludeNonShariaSectors && isExcludedSector(getSector(stock)) && !getShariahAudit(stock).isIslamicFinancialInstitution) return false;
     if (filters.zeroDebtOnly && getDebt(stock) > 0) return false;
     if (filters.excludeLossMaking) {
       const eps = getEps(stock);
@@ -543,7 +725,7 @@ export function filterAndSortStocks<T extends AnyStock>(
       if (yld === null || yld <= 0) return false;
     }
 
-    // 5. Numerical Range Filters
+    // 7. Numerical Range Filters
     if (!matchesRange(getLtp(stock), filters.ltpRange)) return false;
     if (!matchesRange(getChangePct(stock), filters.changePctRange)) return false;
     if (!matchesRange(getPe(stock), filters.peRange)) return false;
@@ -557,14 +739,21 @@ export function filterAndSortStocks<T extends AnyStock>(
     if (!matchesRange(getDebt(stock), filters.debtRange)) return false;
     if (!matchesRange(getListingYear(stock), filters.listingYearRange)) return false;
 
-    // 6. Shareholding Ranges
+    // Shariah Specific Ratios
+    const audit = getShariahAudit(stock);
+    if (!matchesRange(audit.metrics.debtToMcapPct, filters.shariahDebtRatioRange)) return false;
+    if (!matchesRange(audit.metrics.cashToMcapPct, filters.shariahCashRatioRange)) return false;
+    if (!matchesRange(audit.metrics.receivablesToMcapPct, filters.shariahReceivablesRange)) return false;
+    if (!matchesRange(audit.metrics.dividendPurificationPct, filters.shariahPurificationRange)) return false;
+
+    // 8. Shareholding Ranges
     if (!matchesRange(getSponsorPct(stock), filters.sponsorPctRange)) return false;
     if (!matchesRange(getInstitutePct(stock), filters.institutePctRange)) return false;
     if (!matchesRange(getForeignPct(stock), filters.foreignPctRange)) return false;
     if (!matchesRange(getPublicPct(stock), filters.publicPctRange)) return false;
     if (!matchesRange(getGovtPct(stock), filters.govtPctRange)) return false;
 
-    // 7. Market Activity Ranges
+    // 9. Market Activity Ranges
     if (!matchesRange(getVolume(stock), filters.volumeRange)) return false;
     if (!matchesRange(getTurnover(stock), filters.turnoverRange)) return false;
     if (!matchesRange(getTrades(stock), filters.tradesRange)) return false;
@@ -609,6 +798,22 @@ export function filterAndSortStocks<T extends AnyStock>(
       case "ltp":
         valA = getLtp(a);
         valB = getLtp(b);
+        break;
+      case "cseLtp":
+        valA = getCseLtp(a);
+        valB = getCseLtp(b);
+        break;
+      case "cseVolume":
+        valA = getCseVolume(a);
+        valB = getCseVolume(b);
+        break;
+      case "spreadBdt":
+        valA = getSpreadBdt(a);
+        valB = getSpreadBdt(b);
+        break;
+      case "spreadPct":
+        valA = getSpreadPct(a);
+        valB = getSpreadPct(b);
         break;
       case "change":
         valA = getChange(a);
@@ -750,6 +955,8 @@ export function filterAndSortStocks<T extends AnyStock>(
 export const initialFilterState: FilterState = {
   searchQuery: "",
   preset: "all",
+  exchange: "all",
+  indices: [],
   sectors: [],
   categories: [],
   instruments: [],
@@ -759,6 +966,12 @@ export const initialFilterState: FilterState = {
   excludeLossMaking: false,
   excludeNegativePE: false,
   excludeZeroDividend: false,
+  islamicFinanceOnly: false,
+  excludeNonShariaSectors: false,
+  shariahDebtRatioRange: {},
+  shariahCashRatioRange: {},
+  shariahReceivablesRange: {},
+  shariahPurificationRange: {},
   ltpRange: {},
   changePctRange: {},
   peRange: {},

@@ -2,7 +2,7 @@
   "tradingCode": "NURANI",
   "scripCode": "17475",
   "companyName": "Nurani Dyeing & Sweater Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NURANI",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NURANI",
   "lastAGMHeldOn": "2020-12-24",
   "forYearEnded": "2020-06-30",
   "overview": {
@@ -11,18 +11,18 @@
     "tradingCode": "NURANI",
     "LTP": 2.9,
     "HIGH": 3.1,
-    "LOW": 2.9,
-    "CLOSEP": 2.9,
+    "LOW": 2.8,
+    "CLOSEP": 2.8,
     "YCP": 3,
     "CHANGE": -0.1,
-    "TRADE": 48,
-    "VALUE (mn)": 0.711,
-    "VOLUME": 243109
+    "TRADE": 64,
+    "VALUE (mn)": 0.533,
+    "VOLUME": 181966
   },
   "marketInformation": {
     "lastTradingPrice": 2.9,
     "daysRange": [
-      2.9,
+      2.8,
       3.1
     ],
     "lastUpdate": "2:40 PM",
@@ -31,14 +31,14 @@
       4.6
     ],
     "change": -0.1,
-    "daysTradeNos": 48,
+    "daysTradeNos": 64,
     "yesterdaysClose": 3,
-    "daysVolumeNos": 243109,
+    "daysVolumeNos": 181966,
     "adjustedOpeningPrice": 3,
-    "daysValueMn": 0.71,
+    "daysValueMn": 0.53,
     "openingPrice": 3.1,
     "marketCapMn": 367.875,
-    "closingPrice": 2.9,
+    "closingPrice": 2.8,
     "freeFloatMarketCapMn": 254.075
   },
   "basicInformation": {
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,55 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:25.218Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:05.883Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (154.56%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 154.56,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 367.875,
+      "totalInterestBearingDebt": 568.58
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NURANI",
+  "cseQuote": {
+    "ltp": 2.9,
+    "open": 2.9,
+    "high": 2.9,
+    "low": 2.9,
+    "ycp": 2.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

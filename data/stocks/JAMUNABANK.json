@@ -2,44 +2,44 @@
   "tradingCode": "JAMUNABANK",
   "scripCode": "11134",
   "companyName": "Jamuna Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=JAMUNABANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=JAMUNABANK",
   "lastAGMHeldOn": "2026-07-27",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 188,
     "TRADING CODE": "JAMUNABANK",
     "tradingCode": "JAMUNABANK",
-    "LTP": 22.6,
-    "HIGH": 23.1,
-    "LOW": 22.4,
-    "CLOSEP": 22.6,
-    "YCP": 23,
-    "CHANGE": -0.4,
-    "TRADE": 902,
-    "VALUE (mn)": 100.383,
-    "VOLUME": 4420775
+    "LTP": 22.9,
+    "HIGH": 22.9,
+    "LOW": 22.8,
+    "CLOSEP": 22.9,
+    "YCP": 22.8,
+    "CHANGE": 0.1,
+    "TRADE": 112,
+    "VALUE (mn)": 2.444,
+    "VOLUME": 106797
   },
   "marketInformation": {
-    "lastTradingPrice": 22.6,
+    "lastTradingPrice": 22.9,
     "daysRange": [
-      22.4,
-      23.1
+      22.8,
+      22.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       19.9,
       27.1
     ],
-    "change": -0.4,
-    "daysTradeNos": 902,
-    "yesterdaysClose": 23,
-    "daysVolumeNos": 4420775,
-    "adjustedOpeningPrice": 23,
-    "daysValueMn": 100.38,
-    "openingPrice": 23.1,
-    "marketCapMn": 21604.765,
-    "closingPrice": 22.6,
-    "freeFloatMarketCapMn": 13615.43
+    "change": 0.1,
+    "daysTradeNos": 112,
+    "yesterdaysClose": 22.8,
+    "daysVolumeNos": 106797,
+    "adjustedOpeningPrice": 22.8,
+    "daysValueMn": 2.44,
+    "openingPrice": 22.9,
+    "marketCapMn": 21416.898,
+    "closingPrice": 22.9,
+    "freeFloatMarketCapMn": 13497.035
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 2.97,
+        "date": "2026-09-28",
+        "peBasic": 2.84,
         "peDiluted": null,
-        "peTrailing": 3.6
+        "peTrailing": 3.45
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 2.94,
+        "date": "2026-09-29",
+        "peBasic": 2.84,
         "peDiluted": null,
-        "peTrailing": 3.57
+        "peTrailing": 3.45
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 2.93,
+        "date": "2026-09-30",
+        "peBasic": 2.84,
         "peDiluted": null,
-        "peTrailing": 3.55
+        "peTrailing": 3.45
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 2.88,
+        "date": "2026-10-01",
+        "peBasic": 2.84,
         "peDiluted": null,
-        "peTrailing": 3.49
+        "peTrailing": 3.45
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 2.85,
+        "date": "2026-10-04",
+        "peBasic": 2.83,
         "peDiluted": null,
-        "peTrailing": 3.46
+        "peTrailing": 3.43
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 2.8,
+        "date": "2026-10-05",
+        "peBasic": 2.84,
         "peDiluted": null,
-        "peTrailing": 3.4
+        "peTrailing": 3.45
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.04,
+        "date": "2026-09-28",
+        "peBasic": 3.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4,
+        "date": "2026-09-29",
+        "peBasic": 3.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.99,
+        "date": "2026-09-30",
+        "peBasic": 3.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.92,
+        "date": "2026-10-01",
+        "peBasic": 3.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.89,
+        "date": "2026-10-04",
+        "peBasic": 3.85,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 3.82,
+        "date": "2026-10-05",
+        "peBasic": 3.87,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,58 @@
     "cellNo": "+88 01777 743 611",
     "telephoneNo": "+8809610005678 Ex.1110"
   },
-  "scrapedAt": "2026-09-13T15:42:57.077Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:50.304Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (71.54%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 71.54,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 21416.898,
+      "totalInterestBearingDebt": 15322.15
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/JAMUNABANK",
+  "cseQuote": {
+    "ltp": 22.7,
+    "open": 22.7,
+    "high": 22.7,
+    "low": 22.7,
+    "ycp": 22.7,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.844Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "BNICL",
   "scripCode": "25747",
   "companyName": "Bangladesh National Insurance Company Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BNICL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BNICL",
   "lastAGMHeldOn": "2026-06-23",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 68,
     "TRADING CODE": "BNICL",
     "tradingCode": "BNICL",
-    "LTP": 126.1,
-    "HIGH": 127.5,
-    "LOW": 120.9,
-    "CLOSEP": 126.1,
-    "YCP": 122.4,
-    "CHANGE": 3.7,
-    "TRADE": 1687,
-    "VALUE (mn)": 98.738,
-    "VOLUME": 796393
+    "LTP": 156.6,
+    "HIGH": 168,
+    "LOW": 153,
+    "CLOSEP": 156.6,
+    "YCP": 162.9,
+    "CHANGE": -6.3,
+    "TRADE": 615,
+    "VALUE (mn)": 12.375,
+    "VOLUME": 77244
   },
   "marketInformation": {
-    "lastTradingPrice": 126.1,
+    "lastTradingPrice": 156.6,
     "daysRange": [
-      120.9,
-      127.5
+      153,
+      168
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       39,
-      129.1
+      177
     ],
-    "change": 3.7,
-    "daysTradeNos": 1687,
-    "yesterdaysClose": 122.4,
-    "daysVolumeNos": 796393,
-    "adjustedOpeningPrice": 122.4,
-    "daysValueMn": 98.74,
-    "openingPrice": 123,
-    "marketCapMn": 5416.2,
-    "closingPrice": 126.1,
-    "freeFloatMarketCapMn": 2159.28
+    "change": -6.3,
+    "daysTradeNos": 615,
+    "yesterdaysClose": 162.9,
+    "daysVolumeNos": 77244,
+    "adjustedOpeningPrice": 162.9,
+    "daysValueMn": 12.38,
+    "openingPrice": 153,
+    "marketCapMn": 7208.325,
+    "closingPrice": 156.6,
+    "freeFloatMarketCapMn": 2873.748
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 18.83,
+        "date": "2026-09-28",
+        "peBasic": 28.25,
         "peDiluted": null,
-        "peTrailing": 19.58
+        "peTrailing": 29.38
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 18.88,
+        "date": "2026-09-29",
+        "peBasic": 28.68,
         "peDiluted": null,
-        "peTrailing": 19.64
+        "peTrailing": 29.83
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.12,
+        "date": "2026-09-30",
+        "peBasic": 28.95,
         "peDiluted": null,
-        "peTrailing": 19.88
+        "peTrailing": 30.1
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.65,
+        "date": "2026-10-01",
+        "peBasic": 28.15,
         "peDiluted": null,
-        "peTrailing": 20.43
+        "peTrailing": 29.27
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 20.4,
+        "date": "2026-10-04",
+        "peBasic": 27.15,
         "peDiluted": null,
-        "peTrailing": 21.21
+        "peTrailing": 28.23
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 21.02,
+        "date": "2026-10-05",
+        "peBasic": 26.1,
         "peDiluted": null,
-        "peTrailing": 21.85
+        "peTrailing": 27.14
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.49,
+        "date": "2026-09-28",
+        "peBasic": 35.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.56,
+        "date": "2026-09-29",
+        "peBasic": 35.78,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.85,
+        "date": "2026-09-30",
+        "peBasic": 36.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 24.51,
+        "date": "2026-10-01",
+        "peBasic": 35.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.45,
+        "date": "2026-10-04",
+        "peBasic": 33.87,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 26.22,
+        "date": "2026-10-05",
+        "peBasic": 32.56,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01711582560",
     "telephoneNo": "09613112233"
   },
-  "scrapedAt": "2026-09-13T15:42:12.282Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:19.089Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 7208.325,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BNICL",
+  "cseQuote": {
+    "ltp": 155.5,
+    "open": 172,
+    "high": 155.5,
+    "low": 155.5,
+    "ycp": 172,
+    "change": -16.5,
+    "changePct": -9.59,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 2,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

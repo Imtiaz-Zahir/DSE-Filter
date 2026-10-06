@@ -2,44 +2,44 @@
   "tradingCode": "EIL",
   "scripCode": "25748",
   "companyName": "Express Insurance Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EIL",
   "lastAGMHeldOn": "2026-07-01",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 118,
     "TRADING CODE": "EIL",
     "tradingCode": "EIL",
-    "LTP": 30.3,
-    "HIGH": 31.1,
-    "LOW": 30.2,
-    "CLOSEP": 30.3,
-    "YCP": 31,
-    "CHANGE": -0.7,
-    "TRADE": 450,
-    "VALUE (mn)": 9.358,
-    "VOLUME": 306528
+    "LTP": 32.5,
+    "HIGH": 33.7,
+    "LOW": 32.3,
+    "CLOSEP": 32.5,
+    "YCP": 33.4,
+    "CHANGE": -0.9,
+    "TRADE": 835,
+    "VALUE (mn)": 36.751,
+    "VOLUME": 1114916
   },
   "marketInformation": {
-    "lastTradingPrice": 30.3,
+    "lastTradingPrice": 32.5,
     "daysRange": [
-      30.2,
-      31.1
+      32.3,
+      33.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.6,
       35.8
     ],
-    "change": -0.7,
-    "daysTradeNos": 450,
-    "yesterdaysClose": 31,
-    "daysVolumeNos": 306528,
-    "adjustedOpeningPrice": 31,
-    "daysValueMn": 9.36,
-    "openingPrice": 31,
-    "marketCapMn": 2021.121,
-    "closingPrice": 30.3,
-    "freeFloatMarketCapMn": 808.429
+    "change": -0.9,
+    "daysTradeNos": 835,
+    "yesterdaysClose": 33.4,
+    "daysVolumeNos": 1114916,
+    "adjustedOpeningPrice": 33.4,
+    "daysValueMn": 36.75,
+    "openingPrice": 33.5,
+    "marketCapMn": 2177.595,
+    "closingPrice": 32.5,
+    "freeFloatMarketCapMn": 871.017
   },
   "basicInformation": {
     "authorizedCapitalMn": 750,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 17.99,
+        "date": "2026-09-28",
+        "peBasic": 18.33,
         "peDiluted": null,
-        "peTrailing": 19.32
+        "peTrailing": 19.69
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 18.16,
+        "date": "2026-09-29",
+        "peBasic": 18.79,
         "peDiluted": null,
-        "peTrailing": 19.51
+        "peTrailing": 20.19
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 18.1,
+        "date": "2026-09-30",
+        "peBasic": 19.2,
         "peDiluted": null,
-        "peTrailing": 19.44
+        "peTrailing": 20.62
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 18.05,
+        "date": "2026-10-01",
+        "peBasic": 19.31,
         "peDiluted": null,
-        "peTrailing": 19.38
+        "peTrailing": 20.74
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 17.82,
+        "date": "2026-10-04",
+        "peBasic": 19.2,
         "peDiluted": null,
-        "peTrailing": 19.14
+        "peTrailing": 20.62
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 17.41,
+        "date": "2026-10-05",
+        "peBasic": 18.68,
         "peDiluted": null,
-        "peTrailing": 18.7
+        "peTrailing": 20.06
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 26.53,
+        "date": "2026-09-28",
+        "peBasic": 27.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 26.78,
+        "date": "2026-09-29",
+        "peBasic": 27.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 26.69,
+        "date": "2026-09-30",
+        "peBasic": 28.31,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 26.61,
+        "date": "2026-10-01",
+        "peBasic": 28.47,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.27,
+        "date": "2026-10-04",
+        "peBasic": 28.31,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.68,
+        "date": "2026-10-05",
+        "peBasic": 27.54,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+8801818 644 552",
     "telephoneNo": "02-55111523-27 (Ext. 107)"
   },
-  "scrapedAt": "2026-09-13T15:42:29.678Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:34.901Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2177.595,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EIL",
+  "cseQuote": {
+    "ltp": 33.3,
+    "open": 33.3,
+    "high": 33.3,
+    "low": 33.3,
+    "ycp": 33.3,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.838Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

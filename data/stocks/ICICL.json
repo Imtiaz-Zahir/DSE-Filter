@@ -2,44 +2,44 @@
   "tradingCode": "ICICL",
   "scripCode": "25756",
   "companyName": "Islami Commercial Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ICICL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ICICL",
   "lastAGMHeldOn": "2026-08-06",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 172,
     "TRADING CODE": "ICICL",
     "tradingCode": "ICICL",
-    "LTP": 35.4,
-    "HIGH": 37,
-    "LOW": 35.2,
-    "CLOSEP": 35.4,
-    "YCP": 36.8,
-    "CHANGE": -1.4,
-    "TRADE": 482,
-    "VALUE (mn)": 15.099,
-    "VOLUME": 421864
+    "LTP": 37.7,
+    "HIGH": 39.3,
+    "LOW": 37.2,
+    "CLOSEP": 37.7,
+    "YCP": 38.8,
+    "CHANGE": -1.1,
+    "TRADE": 672,
+    "VALUE (mn)": 17.319,
+    "VOLUME": 450124
   },
   "marketInformation": {
-    "lastTradingPrice": 35.4,
+    "lastTradingPrice": 37.7,
     "daysRange": [
-      35.2,
-      37
+      37.2,
+      39.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       20,
-      39.1
+      41.7
     ],
-    "change": -1.4,
-    "daysTradeNos": 482,
-    "yesterdaysClose": 36.8,
-    "daysVolumeNos": 421864,
-    "adjustedOpeningPrice": 36.8,
-    "daysValueMn": 15.1,
-    "openingPrice": 37,
-    "marketCapMn": 1864.022,
-    "closingPrice": 35.4,
-    "freeFloatMarketCapMn": 745.609
+    "change": -1.1,
+    "daysTradeNos": 672,
+    "yesterdaysClose": 38.8,
+    "daysVolumeNos": 450124,
+    "adjustedOpeningPrice": 38.8,
+    "daysValueMn": 17.32,
+    "openingPrice": 39,
+    "marketCapMn": 1965.327,
+    "closingPrice": 37.7,
+    "freeFloatMarketCapMn": 786.131
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.41,
+        "date": "2026-09-28",
+        "peBasic": 21.22,
         "peDiluted": null,
-        "peTrailing": 21.22
+        "peTrailing": 23.2
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.57,
+        "date": "2026-09-29",
+        "peBasic": 21.97,
         "peDiluted": null,
-        "peTrailing": 21.4
+        "peTrailing": 24.01
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.31,
+        "date": "2026-09-30",
+        "peBasic": 21.7,
         "peDiluted": null,
-        "peTrailing": 21.1
+        "peTrailing": 23.72
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 19.63,
+        "date": "2026-10-01",
+        "peBasic": 20.69,
         "peDiluted": null,
-        "peTrailing": 21.45
+        "peTrailing": 22.62
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.57,
+        "date": "2026-10-04",
+        "peBasic": 20.64,
         "peDiluted": null,
-        "peTrailing": 21.4
+        "peTrailing": 22.56
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 18.83,
+        "date": "2026-10-05",
+        "peBasic": 20.05,
         "peDiluted": null,
-        "peTrailing": 20.58
+        "peTrailing": 21.92
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 32.3,
+        "date": "2026-09-28",
+        "peBasic": 35.31,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 32.57,
+        "date": "2026-09-29",
+        "peBasic": 36.55,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 32.12,
+        "date": "2026-09-30",
+        "peBasic": 36.11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 32.65,
+        "date": "2026-10-01",
+        "peBasic": 34.42,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 32.57,
+        "date": "2026-10-04",
+        "peBasic": 34.34,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 31.33,
+        "date": "2026-10-05",
+        "peBasic": 33.36,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01787767676",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:50.132Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:47.136Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1965.327,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ICICL",
+  "cseQuote": {
+    "ltp": 37.3,
+    "open": 39,
+    "high": 38.8,
+    "low": 37.2,
+    "ycp": 39,
+    "change": -1.7,
+    "changePct": -4.36,
+    "trades": 10,
+    "valueMn": 0.05,
+    "volume": 1260,
+    "updatedDate": "2026-10-06T01:10:39.843Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

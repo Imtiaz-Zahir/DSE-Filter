@@ -2,44 +2,44 @@
   "tradingCode": "PUBALIBANK",
   "scripCode": "11106",
   "companyName": "Pubali Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PUBALIBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PUBALIBANK",
   "lastAGMHeldOn": "2026-06-16",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 294,
     "TRADING CODE": "PUBALIBANK",
     "tradingCode": "PUBALIBANK",
-    "LTP": 37.5,
-    "HIGH": 38,
-    "LOW": 37.3,
-    "CLOSEP": 37.5,
-    "YCP": 37.7,
-    "CHANGE": -0.2,
-    "TRADE": 339,
-    "VALUE (mn)": 13.813,
-    "VOLUME": 367304
+    "LTP": 38.8,
+    "HIGH": 39,
+    "LOW": 37.8,
+    "CLOSEP": 38.8,
+    "YCP": 37.8,
+    "CHANGE": 1,
+    "TRADE": 278,
+    "VALUE (mn)": 11.325,
+    "VOLUME": 294519
   },
   "marketInformation": {
-    "lastTradingPrice": 37.5,
+    "lastTradingPrice": 38.8,
     "daysRange": [
-      37.3,
-      38
+      37.8,
+      39
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       25.5,
       44
     ],
-    "change": -0.2,
-    "daysTradeNos": 339,
-    "yesterdaysClose": 37.7,
-    "daysVolumeNos": 367304,
-    "adjustedOpeningPrice": 37.7,
-    "daysValueMn": 13.81,
-    "openingPrice": 37.9,
-    "marketCapMn": 58876.913,
-    "closingPrice": 37.5,
-    "freeFloatMarketCapMn": 37151.779
+    "change": 1,
+    "daysTradeNos": 278,
+    "yesterdaysClose": 37.8,
+    "daysVolumeNos": 294519,
+    "adjustedOpeningPrice": 37.8,
+    "daysValueMn": 11.33,
+    "openingPrice": 37.8,
+    "marketCapMn": 59033.086,
+    "closingPrice": 38.8,
+    "freeFloatMarketCapMn": 37250.325
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 4.34,
+        "peDiluted": null,
+        "peTrailing": 4.57
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 4.34,
+        "peDiluted": null,
+        "peTrailing": 4.57
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 4.37,
         "peDiluted": null,
         "peTrailing": 4.61
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.44,
+        "date": "2026-10-01",
+        "peBasic": 4.35,
         "peDiluted": null,
-        "peTrailing": 4.68
+        "peTrailing": 4.59
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.36,
+        "date": "2026-10-04",
+        "peBasic": 4.31,
         "peDiluted": null,
-        "peTrailing": 4.6
+        "peTrailing": 4.54
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.29,
+        "date": "2026-10-05",
+        "peBasic": 4.42,
         "peDiluted": null,
-        "peTrailing": 4.53
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.29,
-        "peDiluted": null,
-        "peTrailing": 4.53
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 4.27,
-        "peDiluted": null,
-        "peTrailing": 4.5
+        "peTrailing": 4.66
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 4.55,
+        "peDiluted": 5.46
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 4.55,
+        "peDiluted": 5.46
+      },
+      {
+        "date": "2026-09-30",
         "peBasic": 4.58,
         "peDiluted": 5.5
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.65,
-        "peDiluted": 5.59
+        "date": "2026-10-01",
+        "peBasic": 4.56,
+        "peDiluted": 5.47
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.57,
-        "peDiluted": 5.49
+        "date": "2026-10-04",
+        "peBasic": 4.51,
+        "peDiluted": 5.42
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.5,
-        "peDiluted": 5.4
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 4.5,
-        "peDiluted": 5.4
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 4.47,
-        "peDiluted": 5.37
+        "date": "2026-10-05",
+        "peBasic": 4.63,
+        "peDiluted": 5.56
       }
     ]
   },
@@ -374,6 +374,57 @@
     "cellNo": "+88 01713 367 599",
     "telephoneNo": "Tel:02-223384012, PABX:+8802223381614 Ext-311,343 IP phone: +8809666821611"
   },
-  "scrapedAt": "2026-09-13T15:43:38.807Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:13.819Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (110.62%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 110.62,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 59033.086,
+      "totalInterestBearingDebt": 65304.21
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PUBALIBANK",
+  "cseQuote": {
+    "ltp": 38,
+    "open": 38.1,
+    "high": 38,
+    "low": 38,
+    "ycp": 38.1,
+    "change": -0.1,
+    "changePct": -0.26,
+    "trades": 1,
+    "valueMn": 0.04,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

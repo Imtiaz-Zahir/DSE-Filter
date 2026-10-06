@@ -2,44 +2,44 @@
   "tradingCode": "SAIHAMTEX",
   "scripCode": "17412",
   "companyName": "Saiham Textile Mills Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAIHAMTEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SAIHAMTEX",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 320,
     "TRADING CODE": "SAIHAMTEX",
     "tradingCode": "SAIHAMTEX",
-    "LTP": 34,
-    "HIGH": 34.4,
-    "LOW": 31.5,
-    "CLOSEP": 34,
-    "YCP": 32.3,
-    "CHANGE": 1.7,
-    "TRADE": 2283,
-    "VALUE (mn)": 157.844,
-    "VOLUME": 4831608
+    "LTP": 43.1,
+    "HIGH": 44.3,
+    "LOW": 42.7,
+    "CLOSEP": 43.1,
+    "YCP": 44.1,
+    "CHANGE": -1,
+    "TRADE": 2595,
+    "VALUE (mn)": 209.818,
+    "VOLUME": 4849603
   },
   "marketInformation": {
-    "lastTradingPrice": 34,
+    "lastTradingPrice": 43.1,
     "daysRange": [
-      31.5,
-      34.4
+      42.7,
+      44.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       13.7,
-      38.3
+      44.4
     ],
-    "change": 1.7,
-    "daysTradeNos": 2283,
-    "yesterdaysClose": 32.3,
-    "daysVolumeNos": 4831608,
-    "adjustedOpeningPrice": 32.3,
-    "daysValueMn": 157.84,
-    "openingPrice": 32,
-    "marketCapMn": 2925.169,
-    "closingPrice": 34,
-    "freeFloatMarketCapMn": 1924.846
+    "change": -1,
+    "daysTradeNos": 2595,
+    "yesterdaysClose": 44.1,
+    "daysVolumeNos": 4849603,
+    "adjustedOpeningPrice": 44.1,
+    "daysValueMn": 209.82,
+    "openingPrice": 44.3,
+    "marketCapMn": 3993.806,
+    "closingPrice": 43.1,
+    "freeFloatMarketCapMn": 2628.04
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 45.59,
+        "date": "2026-09-28",
+        "peBasic": 56.32,
         "peDiluted": null,
-        "peTrailing": 49.21
+        "peTrailing": 60.79
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 46.76,
+        "date": "2026-09-29",
+        "peBasic": 59.56,
         "peDiluted": null,
-        "peTrailing": 50.48
+        "peTrailing": 64.29
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 42.21,
+        "date": "2026-09-30",
+        "peBasic": 59.56,
         "peDiluted": null,
-        "peTrailing": 45.56
+        "peTrailing": 64.29
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 46.32,
+        "date": "2026-10-01",
+        "peBasic": 62.5,
         "peDiluted": null,
-        "peTrailing": 50
+        "peTrailing": 67.46
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 47.5,
+        "date": "2026-10-04",
+        "peBasic": 64.85,
         "peDiluted": null,
-        "peTrailing": 51.27
+        "peTrailing": 70
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 50,
+        "date": "2026-10-05",
+        "peBasic": 63.38,
         "peDiluted": null,
-        "peTrailing": 53.97
+        "peTrailing": 68.41
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 52.54,
+        "date": "2026-09-28",
+        "peBasic": 64.92,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 53.9,
+        "date": "2026-09-29",
+        "peBasic": 68.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 48.64,
+        "date": "2026-09-30",
+        "peBasic": 68.64,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 53.39,
+        "date": "2026-10-01",
+        "peBasic": 72.03,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 54.75,
+        "date": "2026-10-04",
+        "peBasic": 74.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 57.63,
+        "date": "2026-10-05",
+        "peBasic": 73.05,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+88 01916 754 255",
     "telephoneNo": "02-2222-62284, 02-2222-63323"
   },
-  "scrapedAt": "2026-09-13T15:43:49.977Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:18.532Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 3993.806,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SAIHAMTEX",
+  "cseQuote": {
+    "ltp": 43.6,
+    "open": 43.8,
+    "high": 43.6,
+    "low": 43.1,
+    "ycp": 43.8,
+    "change": -0.2,
+    "changePct": -0.46,
+    "trades": 3,
+    "valueMn": 0.02,
+    "volume": 445,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

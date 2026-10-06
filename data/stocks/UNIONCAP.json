@@ -2,28 +2,28 @@
   "tradingCode": "UNIONCAP",
   "scripCode": "11141",
   "companyName": "Union Capital Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=UNIONCAP",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=UNIONCAP",
   "lastAGMHeldOn": "2026-07-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 377,
     "TRADING CODE": "UNIONCAP",
     "tradingCode": "UNIONCAP",
-    "LTP": 4.2,
-    "HIGH": 4.4,
-    "LOW": 4.2,
-    "CLOSEP": 4.2,
-    "YCP": 4.3,
+    "LTP": 4,
+    "HIGH": 4.2,
+    "LOW": 3.9,
+    "CLOSEP": 4,
+    "YCP": 4.1,
     "CHANGE": -0.1,
-    "TRADE": 46,
-    "VALUE (mn)": 0.495,
-    "VOLUME": 116813
+    "TRADE": 62,
+    "VALUE (mn)": 0.416,
+    "VOLUME": 103624
   },
   "marketInformation": {
-    "lastTradingPrice": 4.2,
+    "lastTradingPrice": 4,
     "daysRange": [
-      4.2,
-      4.4
+      3.9,
+      4.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       7.2
     ],
     "change": -0.1,
-    "daysTradeNos": 46,
-    "yesterdaysClose": 4.3,
-    "daysVolumeNos": 116813,
-    "adjustedOpeningPrice": 4.3,
-    "daysValueMn": 0.5,
-    "openingPrice": 4.3,
-    "marketCapMn": 742.068,
-    "closingPrice": 4.2,
-    "freeFloatMarketCapMn": 473.437
+    "daysTradeNos": 62,
+    "yesterdaysClose": 4.1,
+    "daysVolumeNos": 103624,
+    "adjustedOpeningPrice": 4.1,
+    "daysValueMn": 0.42,
+    "openingPrice": 4.1,
+    "marketCapMn": 707.553,
+    "closingPrice": 4,
+    "freeFloatMarketCapMn": 451.416
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01988899821",
     "telephoneNo": "+880(2)226601505-10"
   },
-  "scrapedAt": "2026-09-13T15:44:16.918Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:32.227Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (368.09%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 368.09,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 707.553,
+      "totalInterestBearingDebt": 2604.4
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/UNIONCAP",
+  "cseQuote": {
+    "ltp": 4.5,
+    "open": 4.5,
+    "high": 4.5,
+    "low": 4.5,
+    "ycp": 4.5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.861Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

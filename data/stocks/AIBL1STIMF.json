@@ -2,43 +2,43 @@
   "tradingCode": "AIBL1STIMF",
   "scripCode": "12183",
   "companyName": "AIBL 1st Islamic Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AIBL1STIMF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AIBL1STIMF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2023-03-31",
   "overview": {
     "#": 19,
     "TRADING CODE": "AIBL1STIMF",
     "tradingCode": "AIBL1STIMF",
-    "LTP": 6.2,
-    "HIGH": 6.4,
-    "LOW": 6,
-    "CLOSEP": 6.2,
-    "YCP": 6.1,
-    "CHANGE": 0.1,
-    "TRADE": 700,
-    "VALUE (mn)": 24.752,
-    "VOLUME": 3984275
+    "LTP": 5.7,
+    "HIGH": 5.9,
+    "LOW": 5.6,
+    "CLOSEP": 5.7,
+    "YCP": 5.8,
+    "CHANGE": -0.1,
+    "TRADE": 370,
+    "VALUE (mn)": 12.033,
+    "VOLUME": 2098719
   },
   "marketInformation": {
-    "lastTradingPrice": 6.2,
+    "lastTradingPrice": 5.7,
     "daysRange": [
-      6,
-      6.4
+      5.6,
+      5.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.8,
       7.2
     ],
-    "change": 0.1,
-    "daysTradeNos": 700,
-    "yesterdaysClose": 6.1,
-    "daysVolumeNos": 3984275,
-    "adjustedOpeningPrice": 6.1,
-    "daysValueMn": 24.75,
-    "openingPrice": 6.2,
-    "marketCapMn": 610,
-    "closingPrice": 6.2,
+    "change": -0.1,
+    "daysTradeNos": 370,
+    "yesterdaysClose": 5.8,
+    "daysVolumeNos": 2098719,
+    "adjustedOpeningPrice": 5.8,
+    "daysValueMn": 12.03,
+    "openingPrice": 5.8,
+    "marketCapMn": 580,
+    "closingPrice": 5.7,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 65.91,
+        "date": "2026-09-28",
+        "peBasic": 70.45,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 64.77,
+        "date": "2026-09-29",
+        "peBasic": 70.45,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 64.77,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 65.91,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 69.32,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 70.45,
+        "date": "2026-10-01",
+        "peBasic": 68.18,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 65.91,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 64.77,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 116,
+        "date": "2026-09-28",
+        "peBasic": 124,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 114,
+        "date": "2026-09-29",
+        "peBasic": 124,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 114,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 116,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-30",
         "peBasic": 122,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 124,
+        "date": "2026-10-01",
+        "peBasic": 120,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 116,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 114,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,54 @@
     "cellNo": "N/A",
     "telephoneNo": "N/A"
   },
-  "scrapedAt": "2026-09-13T15:41:54.301Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:06.137Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 580,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AIBL1STIMF",
+  "cseQuote": {
+    "ltp": 5.8,
+    "open": 6.1,
+    "high": 5.8,
+    "low": 5.6,
+    "ycp": 6.1,
+    "change": -0.3,
+    "changePct": -4.92,
+    "trades": 3,
+    "valueMn": 0.1,
+    "volume": 17550,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

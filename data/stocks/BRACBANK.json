@@ -2,44 +2,44 @@
   "tradingCode": "BRACBANK",
   "scripCode": "11138",
   "companyName": "BRAC Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BRACBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BRACBANK",
   "lastAGMHeldOn": "2026-06-11",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 71,
     "TRADING CODE": "BRACBANK",
     "tradingCode": "BRACBANK",
-    "LTP": 61.7,
-    "HIGH": 62.5,
-    "LOW": 61.5,
-    "CLOSEP": 61.7,
-    "YCP": 62.3,
-    "CHANGE": -0.6,
-    "TRADE": 1777,
-    "VALUE (mn)": 58.635,
-    "VOLUME": 948568
+    "LTP": 65,
+    "HIGH": 65.4,
+    "LOW": 64.3,
+    "CLOSEP": 65,
+    "YCP": 65,
+    "CHANGE": 0,
+    "TRADE": 1297,
+    "VALUE (mn)": 82.199,
+    "VOLUME": 1267543
   },
   "marketInformation": {
-    "lastTradingPrice": 61.7,
+    "lastTradingPrice": 65,
     "daysRange": [
-      61.5,
-      62.5
+      64.3,
+      65.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       60,
       89.6
     ],
-    "change": -0.6,
-    "daysTradeNos": 1777,
-    "yesterdaysClose": 62.3,
-    "daysVolumeNos": 948568,
-    "adjustedOpeningPrice": 62.3,
-    "daysValueMn": 58.64,
-    "openingPrice": 62.5,
-    "marketCapMn": 142639.905,
-    "closingPrice": 61.7,
-    "freeFloatMarketCapMn": 66431.661
+    "change": 0,
+    "daysTradeNos": 1297,
+    "yesterdaysClose": 65,
+    "daysVolumeNos": 1267543,
+    "adjustedOpeningPrice": 65,
+    "daysValueMn": 82.2,
+    "openingPrice": 64.3,
+    "marketCapMn": 148821.731,
+    "closingPrice": 65,
+    "freeFloatMarketCapMn": 69310.722
   },
   "basicInformation": {
     "authorizedCapitalMn": 50000,
@@ -74,15 +74,6 @@
       "publicPct": 6.29
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 46.17,
-      "govtPct": 0,
-      "institutePct": 12.73,
-      "foreignPct": 32.96,
-      "publicPct": 8.14
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 46.17,
@@ -90,6 +81,15 @@
       "institutePct": 13.04,
       "foreignPct": 32.39,
       "publicPct": 8.4
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 46.17,
+      "govtPct": 0,
+      "institutePct": 13.15,
+      "foreignPct": 32.35,
+      "publicPct": 8.33
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.15,
+        "date": "2026-09-28",
+        "peBasic": 6.37,
         "peDiluted": null,
-        "peTrailing": 5.87
+        "peTrailing": 6.08
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.14,
+        "date": "2026-09-29",
+        "peBasic": 6.37,
         "peDiluted": null,
-        "peTrailing": 5.86
+        "peTrailing": 6.08
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.14,
+        "date": "2026-09-30",
+        "peBasic": 6.5,
         "peDiluted": null,
-        "peTrailing": 5.86
+        "peTrailing": 6.2
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.14,
+        "date": "2026-10-01",
+        "peBasic": 6.48,
         "peDiluted": null,
-        "peTrailing": 5.86
+        "peTrailing": 6.18
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.14,
+        "date": "2026-10-04",
+        "peBasic": 6.41,
         "peDiluted": null,
-        "peTrailing": 5.86
+        "peTrailing": 6.11
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.08,
+        "date": "2026-10-05",
+        "peBasic": 6.41,
         "peDiluted": null,
-        "peTrailing": 5.8
+        "peTrailing": 6.11
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 6.84,
-        "peDiluted": 7.87
+        "date": "2026-09-28",
+        "peBasic": 7.08,
+        "peDiluted": 8.15
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 6.83,
-        "peDiluted": 7.86
+        "date": "2026-09-29",
+        "peBasic": 7.08,
+        "peDiluted": 8.15
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 6.83,
-        "peDiluted": 7.86
+        "date": "2026-09-30",
+        "peBasic": 7.23,
+        "peDiluted": 8.31
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 6.83,
-        "peDiluted": 7.86
+        "date": "2026-10-01",
+        "peBasic": 7.2,
+        "peDiluted": 8.28
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 6.83,
-        "peDiluted": 7.86
+        "date": "2026-10-04",
+        "peBasic": 7.13,
+        "peDiluted": 8.2
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 6.77,
-        "peDiluted": 7.78
+        "date": "2026-10-05",
+        "peBasic": 7.13,
+        "peDiluted": 8.2
       }
     ]
   },
@@ -373,6 +373,58 @@
     "cellNo": "+88 01713 060 835",
     "telephoneNo": "09677551001-31"
   },
-  "scrapedAt": "2026-09-13T15:42:13.274Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:20.838Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (46.43%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 46.43,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 148821.731,
+      "totalInterestBearingDebt": 69098.04
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BRACBANK",
+  "cseQuote": {
+    "ltp": 65,
+    "open": 64.8,
+    "high": 68.9,
+    "low": 64.8,
+    "ycp": 64.8,
+    "change": 0.2,
+    "changePct": 0.31,
+    "trades": 7,
+    "valueMn": 0.33,
+    "volume": 5155,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "AAMRATECH",
   "scripCode": "22647",
   "companyName": "aamra technologies limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AAMRATECH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AAMRATECH",
   "lastAGMHeldOn": "2024-12-31",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 4,
     "TRADING CODE": "AAMRATECH",
     "tradingCode": "AAMRATECH",
-    "LTP": 16.5,
-    "HIGH": 17.7,
-    "LOW": 15.4,
-    "CLOSEP": 15.5,
-    "YCP": 17,
-    "CHANGE": -0.5,
-    "TRADE": 124,
-    "VALUE (mn)": 1.463,
-    "VOLUME": 89877
+    "LTP": 16.3,
+    "HIGH": 16.6,
+    "LOW": 16.2,
+    "CLOSEP": 16.3,
+    "YCP": 16.3,
+    "CHANGE": 0,
+    "TRADE": 42,
+    "VALUE (mn)": 0.227,
+    "VOLUME": 13935
   },
   "marketInformation": {
-    "lastTradingPrice": 16.5,
+    "lastTradingPrice": 16.3,
     "daysRange": [
-      15.4,
-      17.7
+      16.2,
+      16.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.5,
       24.1
     ],
-    "change": -0.5,
-    "daysTradeNos": 124,
-    "yesterdaysClose": 17,
-    "daysVolumeNos": 89877,
-    "adjustedOpeningPrice": 17,
-    "daysValueMn": 1.46,
-    "openingPrice": 17.7,
-    "marketCapMn": 1100.027,
-    "closingPrice": 15.5,
-    "freeFloatMarketCapMn": 706.255
+    "change": 0,
+    "daysTradeNos": 42,
+    "yesterdaysClose": 16.3,
+    "daysVolumeNos": 13935,
+    "adjustedOpeningPrice": 16.3,
+    "daysValueMn": 0.23,
+    "openingPrice": 16.3,
+    "marketCapMn": 1054.731,
+    "closingPrice": 16.3,
+    "freeFloatMarketCapMn": 677.174
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 35.2
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 30.01,
-      "govtPct": 0,
-      "institutePct": 32.06,
-      "foreignPct": 0,
-      "publicPct": 37.93
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 30.01,
@@ -90,98 +81,107 @@
       "institutePct": 29.97,
       "foreignPct": 0,
       "publicPct": 40.02
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 30.01,
+      "govtPct": 0,
+      "institutePct": 28.56,
+      "foreignPct": 0,
+      "publicPct": 41.43
     }
   ],
   "interimFinancials": [
     {
       "period": "Q1",
-      "endDate": "2024-09",
-      "epsBasic": -0.25,
+      "endDate": "2025-09",
+      "epsBasic": -0.52,
       "epsDiluted": null,
-      "epsContinuingBasic": -0.25,
+      "epsContinuingBasic": -0.52,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 20
+      "marketPriceEnd": 13.9
     },
     {
       "period": "Q2",
-      "endDate": "2024-12",
-      "epsBasic": -0.39,
+      "endDate": "2025-12",
+      "epsBasic": -0.67,
       "epsDiluted": null,
-      "epsContinuingBasic": -0.39,
+      "epsContinuingBasic": -0.67,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 17.2
+      "marketPriceEnd": 11.6
     },
     {
       "period": "Half Yearly",
-      "endDate": "2024-12",
-      "epsBasic": -0.64,
+      "endDate": "2025-12",
+      "epsBasic": -1.19,
       "epsDiluted": null,
-      "epsContinuingBasic": -0.64,
+      "epsContinuingBasic": -1.19,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 17.2
+      "marketPriceEnd": 11.6
     },
     {
       "period": "Q3",
-      "endDate": "2025-03",
-      "epsBasic": -0.33,
+      "endDate": "2026-03",
+      "epsBasic": -0.65,
       "epsDiluted": null,
-      "epsContinuingBasic": -0.33,
+      "epsContinuingBasic": -0.65,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 14.8
+      "marketPriceEnd": 13.5
     },
     {
-      "period": "9 Months 202503",
-      "endDate": "2025-03",
-      "epsBasic": -0.97,
+      "period": "9 Months 202603",
+      "endDate": "2026-03",
+      "epsBasic": -1.84,
       "epsDiluted": null,
-      "epsContinuingBasic": -0.97,
+      "epsContinuingBasic": -1.84,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 14.8
+      "marketPriceEnd": 13.5
     },
     {
       "period": "Annual",
-      "endDate": "2025-06",
-      "epsBasic": -3.17,
+      "endDate": null,
+      "epsBasic": null,
       "epsDiluted": null,
-      "epsContinuingBasic": -3.17,
+      "epsContinuingBasic": null,
       "epsContinuingDiluted": null,
-      "marketPriceEnd": 11.6
+      "marketPriceEnd": null
     }
   ],
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,57 @@
     "cellNo": "01729066414",
     "telephoneNo": "88028831188, 8832354"
   },
-  "scrapedAt": "2026-09-13T15:40:49.865Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:01.495Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 31.39% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 31.39,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1054.731,
+      "totalInterestBearingDebt": 331.07
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AAMRATECH",
+  "cseQuote": {
+    "ltp": 16.4,
+    "open": 16.4,
+    "high": 16.4,
+    "low": 16.4,
+    "ycp": 16.4,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.828Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

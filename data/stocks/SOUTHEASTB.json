@@ -2,44 +2,44 @@
   "tradingCode": "SOUTHEASTB",
   "scripCode": "11117",
   "companyName": "Southeast Bank PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SOUTHEASTB",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SOUTHEASTB",
   "lastAGMHeldOn": "2026-07-23",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 352,
     "TRADING CODE": "SOUTHEASTB",
     "tradingCode": "SOUTHEASTB",
-    "LTP": 12.8,
-    "HIGH": 12.9,
-    "LOW": 12.6,
-    "CLOSEP": 12.8,
-    "YCP": 12.6,
-    "CHANGE": 0.2,
-    "TRADE": 1243,
-    "VALUE (mn)": 123.157,
-    "VOLUME": 9685812
+    "LTP": 11.2,
+    "HIGH": 11.3,
+    "LOW": 11,
+    "CLOSEP": 11.2,
+    "YCP": 11.1,
+    "CHANGE": 0.1,
+    "TRADE": 258,
+    "VALUE (mn)": 11.515,
+    "VOLUME": 1031548
   },
   "marketInformation": {
-    "lastTradingPrice": 12.8,
+    "lastTradingPrice": 11.2,
     "daysRange": [
-      12.6,
-      12.9
+      11,
+      11.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.8,
       12.9
     ],
-    "change": 0.2,
-    "daysTradeNos": 1243,
-    "yesterdaysClose": 12.6,
-    "daysVolumeNos": 9685812,
-    "adjustedOpeningPrice": 12.6,
-    "daysValueMn": 123.16,
-    "openingPrice": 12.6,
-    "marketCapMn": 18030.778,
-    "closingPrice": 12.8,
-    "freeFloatMarketCapMn": 11263.957
+    "change": 0.1,
+    "daysTradeNos": 258,
+    "yesterdaysClose": 11.1,
+    "daysVolumeNos": 1031548,
+    "adjustedOpeningPrice": 11.1,
+    "daysValueMn": 11.52,
+    "openingPrice": 11.1,
+    "marketCapMn": 15884.257,
+    "closingPrice": 11.2,
+    "freeFloatMarketCapMn": 9923.01
   },
   "basicInformation": {
     "authorizedCapitalMn": 15000,
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.6,
+        "date": "2026-09-28",
+        "peBasic": 3.51,
         "peDiluted": null,
-        "peTrailing": 3.75
+        "peTrailing": 3.65
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 3.69,
+        "date": "2026-09-29",
+        "peBasic": 3.51,
         "peDiluted": null,
-        "peTrailing": 3.84
+        "peTrailing": 3.65
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.69,
+        "date": "2026-09-30",
+        "peBasic": 3.48,
         "peDiluted": null,
-        "peTrailing": 3.84
+        "peTrailing": 3.62
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 3.75,
+        "date": "2026-10-01",
+        "peBasic": 3.45,
         "peDiluted": null,
-        "peTrailing": 3.9
+        "peTrailing": 3.59
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.84,
+        "date": "2026-10-04",
+        "peBasic": 3.38,
         "peDiluted": null,
-        "peTrailing": 4
+        "peTrailing": 3.52
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 3.9,
+        "date": "2026-10-05",
+        "peBasic": 3.41,
         "peDiluted": null,
-        "peTrailing": 4.06
+        "peTrailing": 3.56
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.7,
-        "peDiluted": 5.04
+        "date": "2026-09-28",
+        "peBasic": 4.58,
+        "peDiluted": 4.91
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.82,
-        "peDiluted": 5.17
+        "date": "2026-09-29",
+        "peBasic": 4.58,
+        "peDiluted": 4.91
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.82,
-        "peDiluted": 5.17
+        "date": "2026-09-30",
+        "peBasic": 4.54,
+        "peDiluted": 4.87
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.9,
-        "peDiluted": 5.26
+        "date": "2026-10-01",
+        "peBasic": 4.5,
+        "peDiluted": 4.83
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.02,
-        "peDiluted": 5.38
+        "date": "2026-10-04",
+        "peBasic": 4.42,
+        "peDiluted": 4.74
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.1,
-        "peDiluted": 5.47
+        "date": "2026-10-05",
+        "peBasic": 4.46,
+        "peDiluted": 4.79
       }
     ]
   },
@@ -371,6 +371,57 @@
     "cellNo": "01886097296",
     "telephoneNo": "02-223355264"
   },
-  "scrapedAt": "2026-09-13T15:44:04.905Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:26.298Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board."
+    ],
+    "passedScreens": [
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 15884.257,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SOUTHEASTB",
+  "cseQuote": {
+    "ltp": 11.2,
+    "open": 11.2,
+    "high": 11.2,
+    "low": 11.1,
+    "ycp": 11.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 5,
+    "valueMn": 0.05,
+    "volume": 4481,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

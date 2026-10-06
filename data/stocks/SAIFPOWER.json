@@ -2,44 +2,44 @@
   "tradingCode": "SAIFPOWER",
   "scripCode": "20625",
   "companyName": "SAIF Powertec Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SAIFPOWER",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SAIFPOWER",
   "lastAGMHeldOn": "2024-12-30",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 318,
     "TRADING CODE": "SAIFPOWER",
     "tradingCode": "SAIFPOWER",
-    "LTP": 8.1,
-    "HIGH": 8.8,
-    "LOW": 7.9,
-    "CLOSEP": 8,
-    "YCP": 8.7,
-    "CHANGE": -0.6,
-    "TRADE": 358,
-    "VALUE (mn)": 5.956,
-    "VOLUME": 733355
+    "LTP": 6.8,
+    "HIGH": 7.2,
+    "LOW": 6.5,
+    "CLOSEP": 6.7,
+    "YCP": 6.9,
+    "CHANGE": -0.1,
+    "TRADE": 263,
+    "VALUE (mn)": 2.245,
+    "VOLUME": 336047
   },
   "marketInformation": {
-    "lastTradingPrice": 8.1,
+    "lastTradingPrice": 6.8,
     "daysRange": [
-      7.9,
-      8.8
+      6.5,
+      7.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
       11.5
     ],
-    "change": -0.6,
-    "daysTradeNos": 358,
-    "yesterdaysClose": 8.7,
-    "daysVolumeNos": 733355,
-    "adjustedOpeningPrice": 8.7,
-    "daysValueMn": 5.96,
-    "openingPrice": 8.8,
-    "marketCapMn": 3300.246,
-    "closingPrice": 8,
-    "freeFloatMarketCapMn": 1978.233
+    "change": -0.1,
+    "daysTradeNos": 263,
+    "yesterdaysClose": 6.9,
+    "daysVolumeNos": 336047,
+    "adjustedOpeningPrice": 6.9,
+    "daysValueMn": 2.25,
+    "openingPrice": 6.9,
+    "marketCapMn": 2617.437,
+    "closingPrice": 6.7,
+    "freeFloatMarketCapMn": 1568.944
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.86,
+        "date": "2026-09-28",
+        "peBasic": 11.14,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.86,
+        "date": "2026-09-29",
+        "peBasic": 11,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.86,
+        "date": "2026-09-30",
+        "peBasic": 11,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.57,
+        "date": "2026-10-01",
+        "peBasic": 10.86,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.43,
+        "date": "2026-10-04",
+        "peBasic": 9.86,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.43,
+        "date": "2026-10-05",
+        "peBasic": 9.57,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 12.86,
+        "date": "2026-09-28",
+        "peBasic": 11.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 12.86,
+        "date": "2026-09-29",
+        "peBasic": 11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 12.86,
+        "date": "2026-09-30",
+        "peBasic": 11,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 12.57,
+        "date": "2026-10-01",
+        "peBasic": 10.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 12.43,
+        "date": "2026-10-04",
+        "peBasic": 9.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 11.43,
+        "date": "2026-10-05",
+        "peBasic": 9.57,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "01714012508",
     "telephoneNo": "+8809666789121"
   },
-  "scrapedAt": "2026-09-13T15:43:51.137Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:18.749Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (566.11%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 566.11,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 2617.437,
+      "totalInterestBearingDebt": 14817.52
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SAIFPOWER",
+  "cseQuote": {
+    "ltp": 6.7,
+    "open": 7.2,
+    "high": 6.8,
+    "low": 6.7,
+    "ycp": 7.2,
+    "change": -0.5,
+    "changePct": -6.94,
+    "trades": 3,
+    "valueMn": 0.03,
+    "volume": 4550,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

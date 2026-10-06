@@ -2,44 +2,44 @@
   "tradingCode": "KDSALTD",
   "scripCode": "13240",
   "companyName": "KDS Accessories Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KDSALTD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KDSALTD",
   "lastAGMHeldOn": "2025-12-10",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 197,
     "TRADING CODE": "KDSALTD",
     "tradingCode": "KDSALTD",
-    "LTP": 42.9,
-    "HIGH": 44.8,
-    "LOW": 42.9,
-    "CLOSEP": 43.1,
-    "YCP": 44.6,
-    "CHANGE": -1.7,
-    "TRADE": 272,
-    "VALUE (mn)": 5.56,
-    "VOLUME": 127863
+    "LTP": 42.7,
+    "HIGH": 44.3,
+    "LOW": 42,
+    "CLOSEP": 42.2,
+    "YCP": 43.4,
+    "CHANGE": -0.7,
+    "TRADE": 225,
+    "VALUE (mn)": 4.932,
+    "VOLUME": 115926
   },
   "marketInformation": {
-    "lastTradingPrice": 42.9,
+    "lastTradingPrice": 42.7,
     "daysRange": [
-      42.9,
-      44.8
+      42,
+      44.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       35.9,
       55.9
     ],
-    "change": -1.7,
-    "daysTradeNos": 272,
-    "yesterdaysClose": 44.6,
-    "daysVolumeNos": 127863,
-    "adjustedOpeningPrice": 44.6,
-    "daysValueMn": 5.56,
-    "openingPrice": 44.8,
-    "marketCapMn": 3333.47,
-    "closingPrice": 43.1,
-    "freeFloatMarketCapMn": 1201.169
+    "change": -0.7,
+    "daysTradeNos": 225,
+    "yesterdaysClose": 43.4,
+    "daysVolumeNos": 115926,
+    "adjustedOpeningPrice": 43.4,
+    "daysValueMn": 4.93,
+    "openingPrice": 44.3,
+    "marketCapMn": 3243.78,
+    "closingPrice": 42.2,
+    "freeFloatMarketCapMn": 1168.851
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 22.15,
-        "peDiluted": null,
-        "peTrailing": 20.88
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 22.45,
-        "peDiluted": null,
-        "peTrailing": 21.16
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 22.3,
-        "peDiluted": null,
-        "peTrailing": 21.02
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 22.2,
-        "peDiluted": null,
-        "peTrailing": 20.93
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 22.01,
         "peDiluted": null,
         "peTrailing": 20.74
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 21.27,
+        "date": "2026-09-29",
+        "peBasic": 21.86,
         "peDiluted": null,
-        "peTrailing": 20.05
+        "peTrailing": 20.6
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 21.91,
+        "peDiluted": null,
+        "peTrailing": 20.65
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 21.81,
+        "peDiluted": null,
+        "peTrailing": 20.56
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 21.41,
+        "peDiluted": null,
+        "peTrailing": 20.19
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 20.82,
+        "peDiluted": null,
+        "peTrailing": 19.63
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 20.5,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 20.78,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 20.64,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 20.55,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-28",
         "peBasic": 20.37,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 19.68,
+        "date": "2026-09-29",
+        "peBasic": 20.23,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 20.27,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 20.18,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 19.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 19.27,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01777 775 348",
     "telephoneNo": "031-681701-3, 031-685207-9, Ext-152"
   },
-  "scrapedAt": "2026-09-13T15:43:01.050Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:52.693Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.86% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3243.78,
+      "totalInterestBearingDebt": 27.76
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KDSALTD",
+  "cseQuote": {
+    "ltp": 42.5,
+    "open": 45,
+    "high": 42.5,
+    "low": 42.5,
+    "ycp": 45,
+    "change": -2.5,
+    "changePct": -5.56,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 100,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

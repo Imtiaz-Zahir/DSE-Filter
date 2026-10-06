@@ -2,44 +2,44 @@
   "tradingCode": "PROVATIINS",
   "scripCode": "25743",
   "companyName": "Provati Insurance PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PROVATIINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PROVATIINS",
   "lastAGMHeldOn": "2026-08-10",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 292,
     "TRADING CODE": "PROVATIINS",
     "tradingCode": "PROVATIINS",
-    "LTP": 52,
-    "HIGH": 55.8,
-    "LOW": 51.6,
-    "CLOSEP": 52,
-    "YCP": 54.3,
-    "CHANGE": -2.3,
-    "TRADE": 300,
-    "VALUE (mn)": 6.193,
-    "VOLUME": 116972
+    "LTP": 49.8,
+    "HIGH": 51.9,
+    "LOW": 49.4,
+    "CLOSEP": 49.8,
+    "YCP": 51.3,
+    "CHANGE": -1.5,
+    "TRADE": 502,
+    "VALUE (mn)": 10.706,
+    "VOLUME": 213438
   },
   "marketInformation": {
-    "lastTradingPrice": 52,
+    "lastTradingPrice": 49.8,
     "daysRange": [
-      51.6,
-      55.8
+      49.4,
+      51.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       22.9,
       70.8
     ],
-    "change": -2.3,
-    "daysTradeNos": 300,
-    "yesterdaysClose": 54.3,
-    "daysVolumeNos": 116972,
-    "adjustedOpeningPrice": 54.3,
-    "daysValueMn": 6.19,
-    "openingPrice": 55.3,
-    "marketCapMn": 2188.954,
-    "closingPrice": 52,
-    "freeFloatMarketCapMn": 1524.687
+    "change": -1.5,
+    "daysTradeNos": 502,
+    "yesterdaysClose": 51.3,
+    "daysVolumeNos": 213438,
+    "adjustedOpeningPrice": 51.3,
+    "daysValueMn": 10.71,
+    "openingPrice": 51.3,
+    "marketCapMn": 2068.018,
+    "closingPrice": 49.8,
+    "freeFloatMarketCapMn": 1440.45
   },
   "basicInformation": {
     "authorizedCapitalMn": 1250,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 24.91,
+        "date": "2026-09-28",
+        "peBasic": 24.55,
         "peDiluted": null,
-        "peTrailing": 26.96
+        "peTrailing": 26.57
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.13,
-        "peDiluted": null,
-        "peTrailing": 27.2
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 24.69,
-        "peDiluted": null,
-        "peTrailing": 26.71
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 24.69,
-        "peDiluted": null,
-        "peTrailing": 26.71
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 24.24,
         "peDiluted": null,
         "peTrailing": 26.23
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 23.21,
+        "date": "2026-09-30",
+        "peBasic": 23.79,
         "peDiluted": null,
-        "peTrailing": 25.12
+        "peTrailing": 25.75
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 23.39,
+        "peDiluted": null,
+        "peTrailing": 25.31
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 22.9,
+        "peDiluted": null,
+        "peTrailing": 24.78
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 22.23,
+        "peDiluted": null,
+        "peTrailing": 24.06
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 32.25,
+        "date": "2026-09-28",
+        "peBasic": 31.79,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 32.54,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 31.97,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 31.97,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
+        "date": "2026-09-29",
         "peBasic": 31.39,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 30.06,
+        "date": "2026-09-30",
+        "peBasic": 30.81,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 30.29,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 29.65,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 28.79,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01730029458",
     "telephoneNo": "02223381431, Ext-146, 131"
   },
-  "scrapedAt": "2026-09-13T15:43:38.482Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:13.762Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2068.018,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PROVATIINS",
+  "cseQuote": {
+    "ltp": 54.6,
+    "open": 54.6,
+    "high": 54.6,
+    "low": 54.6,
+    "ycp": 54.6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "SONALIANSH",
   "scripCode": "16360",
   "companyName": "Sonali Aansh Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SONALIANSH",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SONALIANSH",
   "lastAGMHeldOn": "2025-12-31",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 347,
     "TRADING CODE": "SONALIANSH",
     "tradingCode": "SONALIANSH",
-    "LTP": 199.9,
-    "HIGH": 208.9,
-    "LOW": 198,
-    "CLOSEP": 199.9,
-    "YCP": 208.5,
-    "CHANGE": -8.6,
-    "TRADE": 748,
-    "VALUE (mn)": 13.416,
-    "VOLUME": 66216
+    "LTP": 225.9,
+    "HIGH": 230.8,
+    "LOW": 225,
+    "CLOSEP": 225.9,
+    "YCP": 227.7,
+    "CHANGE": -1.8,
+    "TRADE": 1546,
+    "VALUE (mn)": 42.537,
+    "VOLUME": 186589
   },
   "marketInformation": {
-    "lastTradingPrice": 199.9,
+    "lastTradingPrice": 225.9,
     "daysRange": [
-      198,
-      208.9
+      225,
+      230.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       150,
       244.4
     ],
-    "change": -8.6,
-    "daysTradeNos": 748,
-    "yesterdaysClose": 208.5,
-    "daysVolumeNos": 66216,
-    "adjustedOpeningPrice": 208.5,
-    "daysValueMn": 13.42,
-    "openingPrice": 208.9,
-    "marketCapMn": 2261.808,
-    "closingPrice": 199.9,
-    "freeFloatMarketCapMn": 1560.13
+    "change": -1.8,
+    "daysTradeNos": 1546,
+    "yesterdaysClose": 227.7,
+    "daysVolumeNos": 186589,
+    "adjustedOpeningPrice": 227.7,
+    "daysValueMn": 42.54,
+    "openingPrice": 230,
+    "marketCapMn": 2470.09,
+    "closingPrice": 225.9,
+    "freeFloatMarketCapMn": 1703.797
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.66,
+        "date": "2026-09-28",
+        "peBasic": 29.67,
         "peDiluted": null,
-        "peTrailing": 22.58
+        "peTrailing": 24.22
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 27.85,
+        "date": "2026-09-29",
+        "peBasic": 29.56,
         "peDiluted": null,
-        "peTrailing": 22.73
+        "peTrailing": 24.13
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 27.56,
+        "date": "2026-09-30",
+        "peBasic": 29.44,
         "peDiluted": null,
-        "peTrailing": 22.49
+        "peTrailing": 24.03
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 27.89,
+        "date": "2026-10-01",
+        "peBasic": 29.09,
         "peDiluted": null,
-        "peTrailing": 22.77
+        "peTrailing": 23.75
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 27.82,
+        "date": "2026-10-04",
+        "peBasic": 30.39,
         "peDiluted": null,
-        "peTrailing": 22.71
+        "peTrailing": 24.8
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 26.68,
+        "date": "2026-10-05",
+        "peBasic": 30.15,
         "peDiluted": null,
-        "peTrailing": 21.78
+        "peTrailing": 24.61
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 23.58,
+        "date": "2026-09-28",
+        "peBasic": 25.29,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 23.74,
+        "date": "2026-09-29",
+        "peBasic": 25.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 23.49,
+        "date": "2026-09-30",
+        "peBasic": 25.1,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 23.78,
+        "date": "2026-10-01",
+        "peBasic": 24.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 23.72,
+        "date": "2026-10-04",
+        "peBasic": 25.9,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 22.74,
+        "date": "2026-10-05",
+        "peBasic": 25.7,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,40 @@
     "cellNo": "+88 01713 399 061",
     "telephoneNo": "+8802 41054081"
   },
-  "scrapedAt": "2026-09-13T15:44:02.506Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:24.495Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 18.86% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 18.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 2470.09,
+      "totalInterestBearingDebt": 465.77
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SONALIANSH",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

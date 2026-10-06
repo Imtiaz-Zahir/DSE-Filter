@@ -2,44 +2,44 @@
   "tradingCode": "KOHINOOR",
   "scripCode": "18463",
   "companyName": "Kohinoor Chemical Company (Bangladesh) PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KOHINOOR",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KOHINOOR",
   "lastAGMHeldOn": "2025-12-07",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 199,
     "TRADING CODE": "KOHINOOR",
     "tradingCode": "KOHINOOR",
-    "LTP": 521.8,
-    "HIGH": 539,
-    "LOW": 520,
-    "CLOSEP": 521.8,
-    "YCP": 528,
-    "CHANGE": -6.2,
-    "TRADE": 181,
-    "VALUE (mn)": 3.799,
-    "VOLUME": 7252
+    "LTP": 518,
+    "HIGH": 526.1,
+    "LOW": 516.6,
+    "CLOSEP": 516.7,
+    "YCP": 520.1,
+    "CHANGE": -2.1,
+    "TRADE": 291,
+    "VALUE (mn)": 5.833,
+    "VOLUME": 11254
   },
   "marketInformation": {
-    "lastTradingPrice": 521.8,
+    "lastTradingPrice": 518,
     "daysRange": [
-      520,
-      539
+      516.6,
+      526.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       471,
       598
     ],
-    "change": -6.2,
-    "daysTradeNos": 181,
-    "yesterdaysClose": 528,
-    "daysVolumeNos": 7252,
-    "adjustedOpeningPrice": 528,
-    "daysValueMn": 3.8,
-    "openingPrice": 525.1,
-    "marketCapMn": 21530.728,
-    "closingPrice": 521.8,
-    "freeFloatMarketCapMn": 10643.429
+    "change": -2.1,
+    "daysTradeNos": 291,
+    "yesterdaysClose": 520.1,
+    "daysVolumeNos": 11254,
+    "adjustedOpeningPrice": 520.1,
+    "daysValueMn": 5.83,
+    "openingPrice": 526.1,
+    "marketCapMn": 21208.582,
+    "closingPrice": 516.7,
+    "freeFloatMarketCapMn": 10484.181
   },
   "basicInformation": {
     "authorizedCapitalMn": 500,
@@ -74,15 +74,6 @@
       "publicPct": 35.6
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 50.57,
-      "govtPct": 0,
-      "institutePct": 14.72,
-      "foreignPct": 0.01,
-      "publicPct": 34.7
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 50.57,
@@ -90,6 +81,15 @@
       "institutePct": 14.75,
       "foreignPct": 0.01,
       "publicPct": 34.67
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 50.57,
+      "govtPct": 0,
+      "institutePct": 14.7,
+      "foreignPct": 0.01,
+      "publicPct": 34.72
     }
   ],
   "interimFinancials": [
@@ -151,72 +151,72 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 32.52,
+        "date": "2026-09-28",
+        "peBasic": 31.79,
         "peDiluted": null,
-        "peTrailing": 29.75
+        "peTrailing": 29.08
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 32.54,
+        "date": "2026-09-29",
+        "peBasic": 31.79,
         "peDiluted": null,
-        "peTrailing": 29.77
+        "peTrailing": 29.08
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 32.18,
+        "date": "2026-09-30",
+        "peBasic": 31.88,
         "peDiluted": null,
-        "peTrailing": 29.44
+        "peTrailing": 29.16
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 32.25,
+        "date": "2026-10-01",
+        "peBasic": 31.92,
         "peDiluted": null,
-        "peTrailing": 29.5
+        "peTrailing": 29.2
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 32.25,
+        "date": "2026-10-04",
+        "peBasic": 31.77,
         "peDiluted": null,
-        "peTrailing": 29.5
+        "peTrailing": 29.06
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 31.87,
+        "date": "2026-10-05",
+        "peBasic": 31.56,
         "peDiluted": null,
-        "peTrailing": 29.15
+        "peTrailing": 28.87
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 31.23,
-        "peDiluted": 34.35
+        "date": "2026-09-28",
+        "peBasic": 30.53,
+        "peDiluted": 33.58
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 31.25,
-        "peDiluted": 34.37
+        "date": "2026-09-29",
+        "peBasic": 30.53,
+        "peDiluted": 33.58
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 30.9,
-        "peDiluted": 33.99
+        "date": "2026-09-30",
+        "peBasic": 30.62,
+        "peDiluted": 33.68
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 30.97,
-        "peDiluted": 34.07
+        "date": "2026-10-01",
+        "peBasic": 30.66,
+        "peDiluted": 33.72
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 30.97,
-        "peDiluted": 34.06
+        "date": "2026-10-04",
+        "peBasic": 30.5,
+        "peDiluted": 33.55
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 30.6,
-        "peDiluted": 33.66
+        "date": "2026-10-05",
+        "peBasic": 30.3,
+        "peDiluted": 33.34
       }
     ]
   },
@@ -373,6 +373,58 @@
     "cellNo": "+8801716592006",
     "telephoneNo": "8891267-69, Ext-251"
   },
-  "scrapedAt": "2026-09-13T15:43:03.157Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:52.813Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 1.54% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 1.54,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 21208.582,
+      "totalInterestBearingDebt": 326.09
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KOHINOOR",
+  "cseQuote": {
+    "ltp": 520,
+    "open": 520,
+    "high": 520,
+    "low": 520,
+    "ycp": 520,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

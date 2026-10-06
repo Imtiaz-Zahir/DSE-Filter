@@ -2,44 +2,44 @@
   "tradingCode": "SALVO",
   "scripCode": "18484",
   "companyName": "Salvo Organic Industries PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SALVO",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SALVO",
   "lastAGMHeldOn": "2025-09-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 322,
     "TRADING CODE": "SALVO",
     "tradingCode": "SALVO",
-    "LTP": 28.9,
-    "HIGH": 31.2,
-    "LOW": 28.5,
-    "CLOSEP": 28.9,
-    "YCP": 31.1,
-    "CHANGE": -2.2,
-    "TRADE": 793,
-    "VALUE (mn)": 18.705,
-    "VOLUME": 630805
+    "LTP": 29.1,
+    "HIGH": 30.3,
+    "LOW": 28.9,
+    "CLOSEP": 29.1,
+    "YCP": 30.1,
+    "CHANGE": -1,
+    "TRADE": 461,
+    "VALUE (mn)": 9.559,
+    "VOLUME": 324050
   },
   "marketInformation": {
-    "lastTradingPrice": 28.9,
+    "lastTradingPrice": 29.1,
     "daysRange": [
-      28.5,
-      31.2
+      28.9,
+      30.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       23.6,
       40.8
     ],
-    "change": -2.2,
-    "daysTradeNos": 793,
-    "yesterdaysClose": 31.1,
-    "daysVolumeNos": 630805,
-    "adjustedOpeningPrice": 31.1,
-    "daysValueMn": 18.71,
-    "openingPrice": 31.2,
-    "marketCapMn": 2022.209,
-    "closingPrice": 28.9,
-    "freeFloatMarketCapMn": 1412.502
+    "change": -1,
+    "daysTradeNos": 461,
+    "yesterdaysClose": 30.1,
+    "daysVolumeNos": 324050,
+    "adjustedOpeningPrice": 30.1,
+    "daysValueMn": 9.56,
+    "openingPrice": 30,
+    "marketCapMn": 1957.186,
+    "closingPrice": 29.1,
+    "freeFloatMarketCapMn": 1367.084
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 55.4,
+        "date": "2026-09-28",
+        "peBasic": 51.65,
         "peDiluted": null,
-        "peTrailing": 51.59
+        "peTrailing": 48.1
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 55.06,
+        "date": "2026-09-29",
+        "peBasic": 51.99,
         "peDiluted": null,
-        "peTrailing": 51.27
+        "peTrailing": 48.41
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 54.38,
+        "date": "2026-09-30",
+        "peBasic": 53.52,
         "peDiluted": null,
-        "peTrailing": 50.63
+        "peTrailing": 49.84
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 53.69,
+        "date": "2026-10-01",
+        "peBasic": 51.99,
         "peDiluted": null,
-        "peTrailing": 50
+        "peTrailing": 48.41
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 53.01,
+        "date": "2026-10-04",
+        "peBasic": 51.31,
         "peDiluted": null,
-        "peTrailing": 49.37
+        "peTrailing": 47.78
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 49.26,
+        "date": "2026-10-05",
+        "peBasic": 49.6,
         "peDiluted": null,
-        "peTrailing": 45.87
+        "peTrailing": 46.19
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 56.03,
+        "date": "2026-09-28",
+        "peBasic": 52.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 55.69,
+        "date": "2026-09-29",
+        "peBasic": 52.59,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 55,
+        "date": "2026-09-30",
+        "peBasic": 54.14,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 54.31,
+        "date": "2026-10-01",
+        "peBasic": 52.59,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 53.62,
+        "date": "2026-10-04",
+        "peBasic": 51.9,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 49.83,
+        "date": "2026-10-05",
+        "peBasic": 50.17,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,55 @@
     "cellNo": "01711823084",
     "telephoneNo": "88-02-41053068, 41053069"
   },
-  "scrapedAt": "2026-09-13T15:43:51.954Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:19.851Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 19.55% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 19.55,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1957.186,
+      "totalInterestBearingDebt": 382.55
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SALVO",
+  "cseQuote": {
+    "ltp": 29.9,
+    "open": 30,
+    "high": 29.9,
+    "low": 29.9,
+    "ycp": 30,
+    "change": -0.1,
+    "changePct": -0.33,
+    "trades": 1,
+    "valueMn": 0.03,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.856Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

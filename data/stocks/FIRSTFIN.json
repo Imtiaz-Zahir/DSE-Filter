@@ -2,28 +2,28 @@
   "tradingCode": "FIRSTFIN",
   "scripCode": "11124",
   "companyName": "First Finance Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=FIRSTFIN",
-  "lastAGMHeldOn": "2025-09-11",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=FIRSTFIN",
+  "lastAGMHeldOn": "2026-09-24",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 135,
     "TRADING CODE": "FIRSTFIN",
     "tradingCode": "FIRSTFIN",
-    "LTP": 4.3,
-    "HIGH": 4.5,
-    "LOW": 4.2,
-    "CLOSEP": 4.3,
-    "YCP": 4.2,
+    "LTP": 4.5,
+    "HIGH": 4.6,
+    "LOW": 4.5,
+    "CLOSEP": 4.5,
+    "YCP": 4.4,
     "CHANGE": 0.1,
-    "TRADE": 17,
-    "VALUE (mn)": 0.068,
-    "VOLUME": 16006
+    "TRADE": 15,
+    "VALUE (mn)": 0.046,
+    "VOLUME": 10163
   },
   "marketInformation": {
-    "lastTradingPrice": 4.3,
+    "lastTradingPrice": 4.5,
     "daysRange": [
-      4.2,
-      4.5
+      4.5,
+      4.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,15 +31,15 @@
       6.6
     ],
     "change": 0.1,
-    "daysTradeNos": 17,
-    "yesterdaysClose": 4.2,
-    "daysVolumeNos": 16006,
-    "adjustedOpeningPrice": 4.2,
-    "daysValueMn": 0.07,
-    "openingPrice": 4.2,
-    "marketCapMn": 497.888,
-    "closingPrice": 4.3,
-    "freeFloatMarketCapMn": 252.06
+    "daysTradeNos": 15,
+    "yesterdaysClose": 4.4,
+    "daysVolumeNos": 10163,
+    "adjustedOpeningPrice": 4.4,
+    "daysValueMn": 0.05,
+    "openingPrice": 4.6,
+    "marketCapMn": 521.597,
+    "closingPrice": 4.5,
+    "freeFloatMarketCapMn": 264.062
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -59,19 +59,19 @@
     "bonusIssue": "2% 2019, 5% 2014, 10% 2013, 25% 2012, 20% 2011, 25% 2010, 75% 2009, 10% 2008, 20% 2007, 20% 2006, 20% 2005, 10% 2004,10% 2003",
     "rightIssue": "1R:3 2013",
     "yearEnd": "31-Dec",
-    "reserveSurplusWithoutOciMn": -5673.8,
+    "reserveSurplusWithoutOciMn": -6639.2,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
       "sponsorDirectorPct": 41.31,
       "govtPct": 0,
-      "institutePct": 20.32,
+      "institutePct": 20.28,
       "foreignPct": 0,
-      "publicPct": 38.37
+      "publicPct": 38.41
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,53 +189,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": -4.31,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 4.23,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": -501.34,
-      "tciOriginal": -501.34,
-      "tciRestated": -501.34
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": -696.76,
       "tciOriginal": -696.76,
       "tciRestated": -696.76
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": -6.66,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": -46.01,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": -789.79,
+      "tciOriginal": -789.79,
+      "tciRestated": -789.79
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": null,
-      "dividend": null,
-      "cashDividendPct": null,
-      "bonusDividendPct": null,
-      "dividendYieldPct": null
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -360,7 +360,7 @@
   ],
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
-    "longTermLoanMn": 1191.49,
+    "longTermLoanMn": 1282.93,
     "latestDividendStatus": null
   },
   "addressContact": {
@@ -374,6 +374,55 @@
     "cellNo": "+88 01987 007 879",
     "telephoneNo": "55013842-43"
   },
-  "scrapedAt": "2026-09-13T15:42:35.059Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:37.748Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (245.96%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 245.96,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 521.597,
+      "totalInterestBearingDebt": 1282.93
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/FIRSTFIN",
+  "cseQuote": {
+    "ltp": 5,
+    "open": 5,
+    "high": 5,
+    "low": 5,
+    "ycp": 5,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.840Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

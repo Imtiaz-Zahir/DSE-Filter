@@ -2,44 +2,44 @@
   "tradingCode": "RECKITTBEN",
   "scripCode": "18460",
   "companyName": "Reckitt Benckiser (Bangladesh) PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RECKITTBEN",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RECKITTBEN",
   "lastAGMHeldOn": "2026-06-29",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 303,
     "TRADING CODE": "RECKITTBEN",
     "tradingCode": "RECKITTBEN",
-    "LTP": 3277.9,
-    "HIGH": 3299.4,
-    "LOW": 3276.5,
-    "CLOSEP": 3277.9,
-    "YCP": 3295.4,
-    "CHANGE": -17.5,
-    "TRADE": 89,
-    "VALUE (mn)": 1.292,
-    "VOLUME": 394
+    "LTP": 3252.1,
+    "HIGH": 3260,
+    "LOW": 3251,
+    "CLOSEP": 3252.4,
+    "YCP": 3252,
+    "CHANGE": 0.1,
+    "TRADE": 60,
+    "VALUE (mn)": 1.158,
+    "VOLUME": 356
   },
   "marketInformation": {
-    "lastTradingPrice": 3277.9,
+    "lastTradingPrice": 3252.1,
     "daysRange": [
-      3276.5,
-      3299.4
+      3251,
+      3260
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3245,
       3700
     ],
-    "change": -17.5,
-    "daysTradeNos": 89,
-    "yesterdaysClose": 3295.4,
-    "daysVolumeNos": 394,
-    "adjustedOpeningPrice": 3295.4,
-    "daysValueMn": 1.29,
-    "openingPrice": 3276.5,
-    "marketCapMn": 15570.765,
-    "closingPrice": 3277.9,
-    "freeFloatMarketCapMn": 2065.369
+    "change": 0.1,
+    "daysTradeNos": 60,
+    "yesterdaysClose": 3252,
+    "daysVolumeNos": 356,
+    "adjustedOpeningPrice": 3252,
+    "daysValueMn": 1.16,
+    "openingPrice": 3252.7,
+    "marketCapMn": 15365.7,
+    "closingPrice": 3252.4,
+    "freeFloatMarketCapMn": 2038.168
   },
   "basicInformation": {
     "authorizedCapitalMn": 250,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 25.59,
+        "date": "2026-09-28",
+        "peBasic": 25.38,
         "peDiluted": null,
-        "peTrailing": 18.81
+        "peTrailing": 18.65
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 25.43,
+        "date": "2026-09-29",
+        "peBasic": 25.32,
         "peDiluted": null,
-        "peTrailing": 18.69
+        "peTrailing": 18.61
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 25.52,
+        "date": "2026-09-30",
+        "peBasic": 25.37,
         "peDiluted": null,
-        "peTrailing": 18.75
+        "peTrailing": 18.65
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 25.47,
+        "date": "2026-10-01",
+        "peBasic": 25.35,
         "peDiluted": null,
-        "peTrailing": 18.71
+        "peTrailing": 18.63
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 25.61,
+        "date": "2026-10-04",
+        "peBasic": 25.27,
         "peDiluted": null,
-        "peTrailing": 18.82
+        "peTrailing": 18.57
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.47,
+        "date": "2026-10-05",
+        "peBasic": 25.28,
         "peDiluted": null,
-        "peTrailing": 18.72
+        "peTrailing": 18.57
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.04,
+        "date": "2026-09-28",
+        "peBasic": 18.89,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 18.92,
+        "date": "2026-09-29",
+        "peBasic": 18.84,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 18.99,
+        "date": "2026-09-30",
+        "peBasic": 18.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 18.95,
+        "date": "2026-10-01",
+        "peBasic": 18.86,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 19.06,
+        "date": "2026-10-04",
+        "peBasic": 18.81,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 18.96,
+        "date": "2026-10-05",
+        "peBasic": 18.81,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01777 758 995",
     "telephoneNo": "+88-02-222290770-72"
   },
-  "scrapedAt": "2026-09-13T15:43:41.739Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:16.145Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 15365.7,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RECKITTBEN",
+  "cseQuote": {
+    "ltp": 3400,
+    "open": 3400,
+    "high": 3400,
+    "low": 3400,
+    "ycp": 3400,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

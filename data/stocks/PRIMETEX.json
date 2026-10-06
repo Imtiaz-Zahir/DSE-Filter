@@ -2,44 +2,44 @@
   "tradingCode": "PRIMETEX",
   "scripCode": "17434",
   "companyName": "Prime Textile Spinning Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRIMETEX",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRIMETEX",
   "lastAGMHeldOn": "2024-10-24",
   "forYearEnded": "2023-06-30",
   "overview": {
     "#": 290,
     "TRADING CODE": "PRIMETEX",
     "tradingCode": "PRIMETEX",
-    "LTP": 13.7,
-    "HIGH": 15.4,
+    "LTP": 13.8,
+    "HIGH": 14.4,
     "LOW": 13.6,
-    "CLOSEP": 13.7,
-    "YCP": 14.1,
-    "CHANGE": -0.4,
-    "TRADE": 72,
-    "VALUE (mn)": 0.449,
-    "VOLUME": 32775
+    "CLOSEP": 13.8,
+    "YCP": 13.8,
+    "CHANGE": 0,
+    "TRADE": 37,
+    "VALUE (mn)": 0.227,
+    "VOLUME": 16529
   },
   "marketInformation": {
-    "lastTradingPrice": 13.7,
+    "lastTradingPrice": 13.8,
     "daysRange": [
       13.6,
-      15.4
+      14.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       9.9,
       23.4
     ],
-    "change": -0.4,
-    "daysTradeNos": 72,
-    "yesterdaysClose": 14.1,
-    "daysVolumeNos": 32775,
-    "adjustedOpeningPrice": 14.1,
-    "daysValueMn": 0.45,
-    "openingPrice": 15.4,
-    "marketCapMn": 538.62,
-    "closingPrice": 13.7,
-    "freeFloatMarketCapMn": 269.31
+    "change": 0,
+    "daysTradeNos": 37,
+    "yesterdaysClose": 13.8,
+    "daysVolumeNos": 16529,
+    "adjustedOpeningPrice": 13.8,
+    "daysValueMn": 0.23,
+    "openingPrice": 14.4,
+    "marketCapMn": 527.16,
+    "closingPrice": 13.8,
+    "freeFloatMarketCapMn": 263.58
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -373,6 +373,55 @@
     "cellNo": "+88 01912 129 467",
     "telephoneNo": "9564851-2, 9564856 Ext. - 124"
   },
-  "scrapedAt": "2026-09-13T15:43:36.083Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:12.415Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (147.44%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 147.44,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 527.16,
+      "totalInterestBearingDebt": 777.27
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRIMETEX",
+  "cseQuote": {
+    "ltp": 15,
+    "open": 15,
+    "high": 15,
+    "low": 15,
+    "ycp": 15,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

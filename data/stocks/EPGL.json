@@ -2,44 +2,44 @@
   "tradingCode": "EPGL",
   "scripCode": "15322",
   "companyName": "Energypac Power Generation PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=EPGL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=EPGL",
   "lastAGMHeldOn": "2025-12-15",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 121,
     "TRADING CODE": "EPGL",
     "tradingCode": "EPGL",
-    "LTP": 16.5,
-    "HIGH": 17.2,
-    "LOW": 16.4,
-    "CLOSEP": 16.5,
-    "YCP": 17,
-    "CHANGE": -0.5,
-    "TRADE": 122,
-    "VALUE (mn)": 0.964,
-    "VOLUME": 57714
+    "LTP": 15.6,
+    "HIGH": 16.2,
+    "LOW": 15.5,
+    "CLOSEP": 15.6,
+    "YCP": 16,
+    "CHANGE": -0.4,
+    "TRADE": 153,
+    "VALUE (mn)": 1.707,
+    "VOLUME": 108174
   },
   "marketInformation": {
-    "lastTradingPrice": 16.5,
+    "lastTradingPrice": 15.6,
     "daysRange": [
-      16.4,
-      17.2
+      15.5,
+      16.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       14.2,
       21.8
     ],
-    "change": -0.5,
-    "daysTradeNos": 122,
-    "yesterdaysClose": 17,
-    "daysVolumeNos": 57714,
-    "adjustedOpeningPrice": 17,
-    "daysValueMn": 0.96,
-    "openingPrice": 17.2,
-    "marketCapMn": 3232.775,
-    "closingPrice": 16.5,
-    "freeFloatMarketCapMn": 1466.395
+    "change": -0.4,
+    "daysTradeNos": 153,
+    "yesterdaysClose": 16,
+    "daysVolumeNos": 108174,
+    "adjustedOpeningPrice": 16,
+    "daysValueMn": 1.71,
+    "openingPrice": 16.2,
+    "marketCapMn": 3042.611,
+    "closingPrice": 15.6,
+    "freeFloatMarketCapMn": 1380.136
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": "01713061579",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:30.519Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:35.801Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (347.72%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 347.72,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 3042.611,
+      "totalInterestBearingDebt": 10579.73
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/EPGL",
+  "cseQuote": {
+    "ltp": 16.5,
+    "open": 16.4,
+    "high": 16.5,
+    "low": 16.5,
+    "ycp": 16.4,
+    "change": 0.1,
+    "changePct": 0.61,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 500,
+    "updatedDate": "2026-10-06T01:10:39.839Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

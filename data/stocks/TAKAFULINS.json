@@ -2,44 +2,44 @@
   "tradingCode": "TAKAFULINS",
   "scripCode": "25736",
   "companyName": "Takaful Islami Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=TAKAFULINS",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=TAKAFULINS",
   "lastAGMHeldOn": "2026-06-20",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 364,
     "TRADING CODE": "TAKAFULINS",
     "tradingCode": "TAKAFULINS",
-    "LTP": 55.3,
-    "HIGH": 59,
-    "LOW": 54.5,
-    "CLOSEP": 55.3,
-    "YCP": 57.9,
-    "CHANGE": -2.6,
-    "TRADE": 1330,
-    "VALUE (mn)": 45.002,
-    "VOLUME": 784142
+    "LTP": 50.6,
+    "HIGH": 52.6,
+    "LOW": 50.1,
+    "CLOSEP": 50.6,
+    "YCP": 52.1,
+    "CHANGE": -1.5,
+    "TRADE": 336,
+    "VALUE (mn)": 10.572,
+    "VOLUME": 206110
   },
   "marketInformation": {
-    "lastTradingPrice": 55.3,
+    "lastTradingPrice": 50.6,
     "daysRange": [
-      54.5,
-      59
+      50.1,
+      52.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       28.2,
       59
     ],
-    "change": -2.6,
-    "daysTradeNos": 1330,
-    "yesterdaysClose": 57.9,
-    "daysVolumeNos": 784142,
-    "adjustedOpeningPrice": 57.9,
-    "daysValueMn": 45,
-    "openingPrice": 58.1,
-    "marketCapMn": 2465.786,
-    "closingPrice": 55.3,
-    "freeFloatMarketCapMn": 1019.667
+    "change": -1.5,
+    "daysTradeNos": 336,
+    "yesterdaysClose": 52.1,
+    "daysVolumeNos": 206110,
+    "adjustedOpeningPrice": 52.1,
+    "daysValueMn": 10.57,
+    "openingPrice": 52.5,
+    "marketCapMn": 2218.782,
+    "closingPrice": 50.6,
+    "freeFloatMarketCapMn": 917.524
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 19.31,
+        "date": "2026-09-28",
+        "peBasic": 19.71,
         "peDiluted": null,
-        "peTrailing": 28.81
+        "peTrailing": 29.41
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 19.89,
+        "date": "2026-09-29",
+        "peBasic": 19.46,
         "peDiluted": null,
-        "peTrailing": 29.68
+        "peTrailing": 29.03
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 19.78,
+        "date": "2026-09-30",
+        "peBasic": 19.28,
         "peDiluted": null,
-        "peTrailing": 29.51
+        "peTrailing": 28.76
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 20.25,
+        "date": "2026-10-01",
+        "peBasic": 18.84,
         "peDiluted": null,
-        "peTrailing": 30.22
+        "peTrailing": 28.11
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 20.98,
+        "date": "2026-10-04",
+        "peBasic": 18.88,
         "peDiluted": null,
-        "peTrailing": 31.3
+        "peTrailing": 28.16
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 20.04,
+        "date": "2026-10-05",
+        "peBasic": 18.33,
         "peDiluted": null,
-        "peTrailing": 29.89
+        "peTrailing": 27.35
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 44.05,
+        "date": "2026-09-28",
+        "peBasic": 44.96,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 45.37,
+        "date": "2026-09-29",
+        "peBasic": 44.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 45.12,
+        "date": "2026-09-30",
+        "peBasic": 43.97,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 46.2,
+        "date": "2026-10-01",
+        "peBasic": 42.98,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 47.85,
+        "date": "2026-10-04",
+        "peBasic": 43.06,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 45.7,
+        "date": "2026-10-05",
+        "peBasic": 41.82,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,56 @@
     "cellNo": "01711-409253",
     "telephoneNo": "41070084"
   },
-  "scrapedAt": "2026-09-13T15:44:09.239Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:28.101Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "EXEMPT_ISLAMIC_FINANCIAL",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Islamic Financial Institution Exemption (Operates under Shariah Supervisory Board)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": null,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2218.782,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": true,
+    "notes": [
+      "Exempt from conventional debt/liquidity ratios per S&P DSES Rule 21."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/TAKAFULINS",
+  "cseQuote": {
+    "ltp": 51.9,
+    "open": 53.2,
+    "high": 52,
+    "low": 51.9,
+    "ycp": 53.2,
+    "change": -1.3,
+    "changePct": -2.44,
+    "trades": 4,
+    "valueMn": 0.24,
+    "volume": 4550,
+    "updatedDate": "2026-10-06T01:10:39.860Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

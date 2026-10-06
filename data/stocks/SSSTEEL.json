@@ -2,44 +2,44 @@
   "tradingCode": "SSSTEEL",
   "scripCode": "13245",
   "companyName": "S. S. Steel Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SSSTEEL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SSSTEEL",
   "lastAGMHeldOn": "2024-12-31",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 357,
     "TRADING CODE": "SSSTEEL",
     "tradingCode": "SSSTEEL",
-    "LTP": 6,
-    "HIGH": 6.2,
-    "LOW": 5.9,
-    "CLOSEP": 6,
-    "YCP": 6.2,
-    "CHANGE": -0.2,
-    "TRADE": 277,
-    "VALUE (mn)": 2.065,
-    "VOLUME": 343108
+    "LTP": 5.6,
+    "HIGH": 5.9,
+    "LOW": 5.5,
+    "CLOSEP": 5.6,
+    "YCP": 5.7,
+    "CHANGE": -0.1,
+    "TRADE": 127,
+    "VALUE (mn)": 0.64,
+    "VOLUME": 113538
   },
   "marketInformation": {
-    "lastTradingPrice": 6,
+    "lastTradingPrice": 5.6,
     "daysRange": [
-      5.9,
-      6.2
+      5.5,
+      5.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.1,
       7.8
     ],
-    "change": -0.2,
-    "daysTradeNos": 277,
-    "yesterdaysClose": 6.2,
-    "daysVolumeNos": 343108,
-    "adjustedOpeningPrice": 6.2,
-    "daysValueMn": 2.07,
-    "openingPrice": 6.2,
-    "marketCapMn": 2037.526,
-    "closingPrice": 6,
-    "freeFloatMarketCapMn": 1283.148
+    "change": -0.1,
+    "daysTradeNos": 127,
+    "yesterdaysClose": 5.7,
+    "daysVolumeNos": 113538,
+    "adjustedOpeningPrice": 5.7,
+    "daysValueMn": 0.64,
+    "openingPrice": 5.9,
+    "marketCapMn": 1873.209,
+    "closingPrice": 5.6,
+    "freeFloatMarketCapMn": 1179.669
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 60.15
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 30.94,
-      "govtPct": 0,
-      "institutePct": 7.54,
-      "foreignPct": 0,
-      "publicPct": 61.52
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 30.94,
@@ -90,6 +81,15 @@
       "institutePct": 6.94,
       "foreignPct": 0,
       "publicPct": 62.12
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 30.94,
+      "govtPct": 0,
+      "institutePct": 6.23,
+      "foreignPct": 0,
+      "publicPct": 62.83
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 325
+        "peTrailing": 295
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 320
+        "peTrailing": 295
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 320
+        "peTrailing": 285
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 315
+        "peTrailing": 290
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 310
+        "peTrailing": 285
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
-        "peTrailing": 300
+        "peTrailing": 280
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 38.24,
+        "date": "2026-09-28",
+        "peBasic": 34.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 37.65,
+        "date": "2026-09-29",
+        "peBasic": 34.71,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 37.65,
+        "date": "2026-09-30",
+        "peBasic": 33.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 37.06,
+        "date": "2026-10-01",
+        "peBasic": 34.12,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 36.47,
+        "date": "2026-10-04",
+        "peBasic": 33.53,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 35.29,
+        "date": "2026-10-05",
+        "peBasic": 32.94,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,56 @@
     "cellNo": "+8801329654727",
     "telephoneNo": "+88 0222 602509"
   },
-  "scrapedAt": "2026-09-13T15:44:06.926Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:27.054Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (664.75%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 664.75,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 1873.209,
+      "totalInterestBearingDebt": 12452.09
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SSSTEEL",
+  "cseQuote": {
+    "ltp": 5.8,
+    "open": 5.8,
+    "high": 6.3,
+    "low": 5.6,
+    "ycp": 5.8,
+    "change": 0,
+    "changePct": 0,
+    "trades": 9,
+    "valueMn": 0.02,
+    "volume": 2866,
+    "updatedDate": "2026-10-06T01:10:39.859Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

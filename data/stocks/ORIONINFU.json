@@ -2,44 +2,44 @@
   "tradingCode": "ORIONINFU",
   "scripCode": "18472",
   "companyName": "Orion Infusion Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=ORIONINFU",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=ORIONINFU",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 262,
     "TRADING CODE": "ORIONINFU",
     "tradingCode": "ORIONINFU",
-    "LTP": 169.9,
-    "HIGH": 192.3,
-    "LOW": 169.8,
-    "CLOSEP": 169.9,
-    "YCP": 188.6,
-    "CHANGE": -18.7,
-    "TRADE": 3740,
-    "VALUE (mn)": 61.583,
-    "VOLUME": 351150
+    "LTP": 231.2,
+    "HIGH": 247.6,
+    "LOW": 230.5,
+    "CLOSEP": 231.2,
+    "YCP": 243.8,
+    "CHANGE": -12.6,
+    "TRADE": 4936,
+    "VALUE (mn)": 94.216,
+    "VOLUME": 399815
   },
   "marketInformation": {
-    "lastTradingPrice": 169.9,
+    "lastTradingPrice": 231.2,
     "daysRange": [
-      169.8,
-      192.3
+      230.5,
+      247.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      169.8,
-      544.4
+      159,
+      530
     ],
-    "change": -18.7,
-    "daysTradeNos": 3740,
-    "yesterdaysClose": 188.6,
-    "daysVolumeNos": 351150,
-    "adjustedOpeningPrice": 188.6,
-    "daysValueMn": 61.58,
-    "openingPrice": 192.3,
-    "marketCapMn": 3839.851,
-    "closingPrice": 169.9,
-    "freeFloatMarketCapMn": 2280.43
+    "change": -12.6,
+    "daysTradeNos": 4936,
+    "yesterdaysClose": 243.8,
+    "daysVolumeNos": 399815,
+    "adjustedOpeningPrice": 243.8,
+    "daysValueMn": 94.22,
+    "openingPrice": 243.8,
+    "marketCapMn": 4963.709,
+    "closingPrice": 231.2,
+    "freeFloatMarketCapMn": 2947.874
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 107.69,
+        "date": "2026-09-28",
+        "peBasic": 148.73,
         "peDiluted": null,
-        "peTrailing": 117.18
+        "peTrailing": 161.84
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 107.9,
+        "date": "2026-09-29",
+        "peBasic": 141.92,
         "peDiluted": null,
-        "peTrailing": 117.41
+        "peTrailing": 154.43
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 103.94,
+        "date": "2026-09-30",
+        "peBasic": 139.54,
         "peDiluted": null,
-        "peTrailing": 113.1
+        "peTrailing": 151.84
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 103.2,
+        "date": "2026-10-01",
+        "peBasic": 136.11,
         "peDiluted": null,
-        "peTrailing": 112.3
+        "peTrailing": 148.1
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 99.61,
+        "date": "2026-10-04",
+        "peBasic": 128.77,
         "peDiluted": null,
-        "peTrailing": 108.39
+        "peTrailing": 140.11
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 89.74,
+        "date": "2026-10-05",
+        "peBasic": 122.11,
         "peDiluted": null,
-        "peTrailing": 97.64
+        "peTrailing": 132.87
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 118.55,
+        "date": "2026-09-28",
+        "peBasic": 163.72,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 118.78,
+        "date": "2026-09-29",
+        "peBasic": 156.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 114.42,
+        "date": "2026-09-30",
+        "peBasic": 153.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 113.6,
+        "date": "2026-10-01",
+        "peBasic": 149.83,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 109.65,
+        "date": "2026-10-04",
+        "peBasic": 141.74,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 98.78,
+        "date": "2026-10-05",
+        "peBasic": 134.42,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "+8801730007342",
     "telephoneNo": "+88-02-8870133"
   },
-  "scrapedAt": "2026-09-13T15:43:27.747Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:06.688Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 4963.709,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/ORIONINFU",
+  "cseQuote": {
+    "ltp": 230.5,
+    "open": 243.4,
+    "high": 243.5,
+    "low": 230.5,
+    "ycp": 243.4,
+    "change": -12.9,
+    "changePct": -5.3,
+    "trades": 17,
+    "valueMn": 0.12,
+    "volume": 533,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

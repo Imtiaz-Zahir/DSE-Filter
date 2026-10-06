@@ -2,44 +2,44 @@
   "tradingCode": "DOMINAGE",
   "scripCode": "13249",
   "companyName": "Dominage Steel Building Systems Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=DOMINAGE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=DOMINAGE",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 103,
     "TRADING CODE": "DOMINAGE",
     "tradingCode": "DOMINAGE",
-    "LTP": 62.7,
-    "HIGH": 64.6,
-    "LOW": 62.2,
-    "CLOSEP": 62.7,
-    "YCP": 63.7,
-    "CHANGE": -1,
-    "TRADE": 817,
-    "VALUE (mn)": 29.465,
-    "VOLUME": 464386
+    "LTP": 64.5,
+    "HIGH": 66.1,
+    "LOW": 64.1,
+    "CLOSEP": 64.5,
+    "YCP": 65.8,
+    "CHANGE": -1.3,
+    "TRADE": 1308,
+    "VALUE (mn)": 53.046,
+    "VOLUME": 820706
   },
   "marketInformation": {
-    "lastTradingPrice": 62.7,
+    "lastTradingPrice": 64.5,
     "daysRange": [
-      62.2,
-      64.6
+      64.1,
+      66.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      16.4,
+      19,
       89.7
     ],
-    "change": -1,
-    "daysTradeNos": 817,
-    "yesterdaysClose": 63.7,
-    "daysVolumeNos": 464386,
-    "adjustedOpeningPrice": 63.7,
-    "daysValueMn": 29.47,
-    "openingPrice": 63.4,
-    "marketCapMn": 6535.62,
-    "closingPrice": 62.7,
-    "freeFloatMarketCapMn": 4562.155
+    "change": -1.3,
+    "daysTradeNos": 1308,
+    "yesterdaysClose": 65.8,
+    "daysVolumeNos": 820706,
+    "adjustedOpeningPrice": 65.8,
+    "daysValueMn": 53.05,
+    "openingPrice": 66,
+    "marketCapMn": 6751.08,
+    "closingPrice": 64.5,
+    "freeFloatMarketCapMn": 4712.556
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,33 +189,33 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1146,
+        "date": "2026-09-28",
+        "peBasic": 1252,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1232,
+        "date": "2026-09-29",
+        "peBasic": 1264,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1224,
+        "date": "2026-09-30",
+        "peBasic": 1228,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1250,
+        "date": "2026-10-01",
+        "peBasic": 1322,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1274,
+        "date": "2026-10-04",
+        "peBasic": 1316,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1254,
+        "date": "2026-10-05",
+        "peBasic": 1290,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,57 @@
     "cellNo": "01733-037301",
     "telephoneNo": "88-02-222282140-43"
   },
-  "scrapedAt": "2026-09-13T15:42:25.490Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:30.617Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.11% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.11,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 6751.08,
+      "totalInterestBearingDebt": 7.35
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/DOMINAGE",
+  "cseQuote": {
+    "ltp": 65.9,
+    "open": 65.9,
+    "high": 65.9,
+    "low": 65.9,
+    "ycp": 65.9,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.837Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

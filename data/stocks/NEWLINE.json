@@ -2,50 +2,50 @@
   "tradingCode": "NEWLINE",
   "scripCode": "17482",
   "companyName": "New Line Clothings Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=NEWLINE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=NEWLINE",
   "lastAGMHeldOn": "2022-01-27",
   "forYearEnded": "2021-06-30",
   "overview": {
     "#": 246,
     "TRADING CODE": "NEWLINE",
     "tradingCode": "NEWLINE",
-    "LTP": 5.2,
-    "HIGH": 5.6,
-    "LOW": 5.1,
-    "CLOSEP": 5.2,
-    "YCP": 5.6,
-    "CHANGE": -0.4,
-    "TRADE": 94,
-    "VALUE (mn)": 1.045,
-    "VOLUME": 196691
+    "LTP": 5.1,
+    "HIGH": 5.5,
+    "LOW": 5,
+    "CLOSEP": 5.1,
+    "YCP": 5.3,
+    "CHANGE": -0.2,
+    "TRADE": 46,
+    "VALUE (mn)": 0.3,
+    "VOLUME": 58318
   },
   "marketInformation": {
-    "lastTradingPrice": 5.2,
+    "lastTradingPrice": null,
     "daysRange": [
-      5.1,
-      5.6
+      null,
+      null
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       2.7,
       7.6
     ],
-    "change": -0.4,
-    "daysTradeNos": 94,
-    "yesterdaysClose": 5.6,
-    "daysVolumeNos": 196691,
-    "adjustedOpeningPrice": 5.6,
-    "daysValueMn": 1.05,
-    "openingPrice": 5.6,
-    "marketCapMn": 439.783,
-    "closingPrice": 5.2,
-    "freeFloatMarketCapMn": 253.329
+    "change": null,
+    "daysTradeNos": null,
+    "yesterdaysClose": null,
+    "daysVolumeNos": null,
+    "adjustedOpeningPrice": null,
+    "daysValueMn": null,
+    "openingPrice": null,
+    "marketCapMn": 0,
+    "closingPrice": null,
+    "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
     "debutTradingDate": "2019-05-27",
     "paidUpCapitalMn": 785.33,
-    "typeOfInstrument": "Equity",
+    "typeOfInstrument": "Unknown",
     "faceParValue": 10,
     "marketLot": 1,
     "totalOutstandingSecurities": 78532650,
@@ -53,7 +53,7 @@
   },
   "dividendAndSurplus": {
     "listingYear": 2019,
-    "marketCategory": "Z",
+    "marketCategory": "-",
     "electronicShare": true,
     "cashDividend": null,
     "bonusIssue": null,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 2.63,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 2.67,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 2.63,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 2.63,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 2.63,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 2.44,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 2.44,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 2.48,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 2.48,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 2.48,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 2.39,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-07",
-        "peBasic": 3.5,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 3.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 3.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 3.44,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-28",
         "peBasic": 3.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 3.19,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 3.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 3.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 3.25,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 3.13,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,55 @@
     "cellNo": "+88 01844652019",
     "telephoneNo": "8802- 9297403, 8802-9297415, 8802-9297417"
   },
-  "scrapedAt": "2026-09-13T15:43:21.969Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:03.271Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": null,
+      "cashToMcapPct": null,
+      "receivablesToMcapPct": null,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 0,
+      "totalInterestBearingDebt": 699.12
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": [
+      "Market capitalization data unavailable to compute exact leverage ratio."
+    ]
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/NEWLINE",
+  "cseQuote": {
+    "ltp": 6,
+    "open": 6,
+    "high": 6,
+    "low": 6,
+    "ycp": 6,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.850Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

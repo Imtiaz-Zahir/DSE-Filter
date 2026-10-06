@@ -2,44 +2,44 @@
   "tradingCode": "IBP",
   "scripCode": "18494",
   "companyName": "Indo-Bangla Pharmaceuticals Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=IBP",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=IBP",
   "lastAGMHeldOn": "2025-12-30",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 164,
     "TRADING CODE": "IBP",
     "tradingCode": "IBP",
-    "LTP": 15.1,
-    "HIGH": 15.8,
-    "LOW": 14.9,
-    "CLOSEP": 15.1,
-    "YCP": 15.8,
-    "CHANGE": -0.7,
-    "TRADE": 757,
-    "VALUE (mn)": 21.282,
-    "VOLUME": 1387998
+    "LTP": 13.8,
+    "HIGH": 14.4,
+    "LOW": 13.7,
+    "CLOSEP": 13.8,
+    "YCP": 14.2,
+    "CHANGE": -0.4,
+    "TRADE": 561,
+    "VALUE (mn)": 12.338,
+    "VOLUME": 881948
   },
   "marketInformation": {
-    "lastTradingPrice": 15.1,
+    "lastTradingPrice": 13.8,
     "daysRange": [
-      14.9,
-      15.8
+      13.7,
+      14.4
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10,
       21.4
     ],
-    "change": -0.7,
-    "daysTradeNos": 757,
-    "yesterdaysClose": 15.8,
-    "daysVolumeNos": 1387998,
-    "adjustedOpeningPrice": 15.8,
-    "daysValueMn": 21.28,
-    "openingPrice": 15.8,
-    "marketCapMn": 1836.042,
-    "closingPrice": 15.1,
-    "freeFloatMarketCapMn": 1337.811
+    "change": -0.4,
+    "daysTradeNos": 561,
+    "yesterdaysClose": 14.2,
+    "daysVolumeNos": 881948,
+    "adjustedOpeningPrice": 14.2,
+    "daysValueMn": 12.34,
+    "openingPrice": 14.3,
+    "marketCapMn": 1650.114,
+    "closingPrice": 13.8,
+    "freeFloatMarketCapMn": 1202.337
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -74,15 +74,6 @@
       "publicPct": 52.83
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 24.43,
-      "govtPct": 0,
-      "institutePct": 31.3,
-      "foreignPct": 0,
-      "publicPct": 44.27
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 24.43,
@@ -90,6 +81,15 @@
       "institutePct": 29.45,
       "foreignPct": 0,
       "publicPct": 46.12
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 24.43,
+      "govtPct": 0,
+      "institutePct": 17.9,
+      "foreignPct": 0.08,
+      "publicPct": 57.59
     }
   ],
   "interimFinancials": [
@@ -151,70 +151,70 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 611.25,
+        "date": "2026-09-28",
+        "peBasic": 540,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 611.25,
+        "date": "2026-09-29",
+        "peBasic": 547.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 596.25,
+        "date": "2026-09-30",
+        "peBasic": 562.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 600,
+        "date": "2026-10-01",
+        "peBasic": 547.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 592.5,
+        "date": "2026-10-04",
+        "peBasic": 532.5,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 566.25,
+        "date": "2026-10-05",
+        "peBasic": 517.5,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": "+88 01777 685 176",
     "telephoneNo": "9678777995"
   },
-  "scrapedAt": "2026-09-13T15:42:44.399Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:44.635Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1650.114,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/IBP",
+  "cseQuote": {
+    "ltp": 13.4,
+    "open": 14,
+    "high": 13.9,
+    "low": 13.4,
+    "ycp": 14,
+    "change": -0.6,
+    "changePct": -4.29,
+    "trades": 4,
+    "valueMn": 0.1,
+    "volume": 7000,
+    "updatedDate": "2026-10-06T01:10:39.842Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

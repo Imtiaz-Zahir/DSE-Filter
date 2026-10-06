@@ -2,28 +2,28 @@
   "tradingCode": "POPULAR1MF",
   "scripCode": "12180",
   "companyName": "Popular Life First Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=POPULAR1MF",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=POPULAR1MF",
   "lastAGMHeldOn": "For the year ended:",
   "forYearEnded": "2024-06-30",
   "overview": {
     "#": 277,
     "TRADING CODE": "POPULAR1MF",
     "tradingCode": "POPULAR1MF",
-    "LTP": 3.6,
-    "HIGH": 3.7,
-    "LOW": 3.5,
-    "CLOSEP": 3.6,
-    "YCP": 3.6,
+    "LTP": 3.5,
+    "HIGH": 3.6,
+    "LOW": 3.4,
+    "CLOSEP": 3.5,
+    "YCP": 3.5,
     "CHANGE": 0,
-    "TRADE": 100,
-    "VALUE (mn)": 2.796,
-    "VOLUME": 777426
+    "TRADE": 48,
+    "VALUE (mn)": 0.813,
+    "VOLUME": 233609
   },
   "marketInformation": {
-    "lastTradingPrice": 3.6,
+    "lastTradingPrice": 3.5,
     "daysRange": [
-      3.5,
-      3.7
+      3.4,
+      3.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
@@ -31,14 +31,14 @@
       4.4
     ],
     "change": 0,
-    "daysTradeNos": 100,
-    "yesterdaysClose": 3.6,
-    "daysVolumeNos": 777426,
-    "adjustedOpeningPrice": 3.6,
-    "daysValueMn": 2.8,
-    "openingPrice": 3.6,
-    "marketCapMn": 1076.72,
-    "closingPrice": 3.6,
+    "daysTradeNos": 48,
+    "yesterdaysClose": 3.5,
+    "daysVolumeNos": 233609,
+    "adjustedOpeningPrice": 3.5,
+    "daysValueMn": 0.81,
+    "openingPrice": 3.5,
+    "marketCapMn": 1046.812,
+    "closingPrice": 3.5,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -74,15 +74,6 @@
       "publicPct": 70.18
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 10,
-      "govtPct": 0,
-      "institutePct": 19.49,
-      "foreignPct": 0,
-      "publicPct": 70.51
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 10,
@@ -90,6 +81,15 @@
       "institutePct": 19.88,
       "foreignPct": 0,
       "publicPct": 70.12
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 10,
+      "govtPct": 0,
+      "institutePct": 19.28,
+      "foreignPct": 0,
+      "publicPct": 70.72
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+88 01711 220 988",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:31.974Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:10.183Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1046.812,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/POPULAR1MF",
+  "cseQuote": {
+    "ltp": 3.5,
+    "open": 3.4,
+    "high": 3.5,
+    "low": 3.5,
+    "ycp": 3.4,
+    "change": 0.1,
+    "changePct": 2.94,
+    "trades": 1,
+    "valueMn": 0.01,
+    "volume": 3000,
+    "updatedDate": "2026-10-06T01:10:39.852Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

@@ -2,42 +2,42 @@
   "tradingCode": "GRAMEENS2",
   "scripCode": "12167",
   "companyName": "Grameen One : Scheme Two",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GRAMEENS2",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GRAMEENS2",
   "lastAGMHeldOn": "2000-01-01",
-  "forYearEnded": "2025-06-30",
+  "forYearEnded": "2026-06-30",
   "overview": {
     "#": 153,
     "TRADING CODE": "GRAMEENS2",
     "tradingCode": "GRAMEENS2",
     "LTP": 11.9,
-    "HIGH": 12.2,
+    "HIGH": 12.3,
     "LOW": 11.8,
     "CLOSEP": 11.9,
-    "YCP": 12.1,
-    "CHANGE": -0.2,
-    "TRADE": 219,
-    "VALUE (mn)": 4.022,
-    "VOLUME": 335566
+    "YCP": 11.9,
+    "CHANGE": 0,
+    "TRADE": 174,
+    "VALUE (mn)": 2.478,
+    "VOLUME": 207830
   },
   "marketInformation": {
     "lastTradingPrice": 11.9,
     "daysRange": [
       11.8,
-      12.2
+      12.3
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       10.3,
       14.7
     ],
-    "change": -0.2,
-    "daysTradeNos": 219,
-    "yesterdaysClose": 12.1,
-    "daysVolumeNos": 335566,
-    "adjustedOpeningPrice": 12.1,
-    "daysValueMn": 4.02,
-    "openingPrice": 12.1,
-    "marketCapMn": 2207.015,
+    "change": 0,
+    "daysTradeNos": 174,
+    "yesterdaysClose": 11.9,
+    "daysVolumeNos": 207830,
+    "adjustedOpeningPrice": 11.9,
+    "daysValueMn": 2.48,
+    "openingPrice": 11.9,
+    "marketCapMn": 2170.535,
     "closingPrice": 11.9,
     "freeFloatMarketCapMn": 0
   },
@@ -55,23 +55,23 @@
     "listingYear": 2008,
     "marketCategory": "A",
     "electronicShare": true,
-    "cashDividend": "7.50% 2025, 6.50% 2024, 6.5% 2023, 15% 2022, 13% 2021, 7% 2020, 9% 2019, 12% 2018, 11% 2017, 10% 2016, 10% 2015",
+    "cashDividend": "9% 2026, 7.50% 2025, 6.50% 2024, 6.5% 2023, 15% 2022, 13% 2021, 7% 2020, 9% 2019, 12% 2018, 11% 2017, 10% 2016, 10% 2015",
     "bonusIssue": "4% RIU 2017, 9% RIU 2016, 15% RIU 2015, 15% RIU 2014, 10% 2011",
     "rightIssue": "-",
     "yearEnd": "30-Jun",
-    "reserveSurplusWithoutOciMn": 1131.9,
-    "otherComprehensiveIncomeMn": -57.1,
+    "reserveSurplusWithoutOciMn": 1095.8,
+    "otherComprehensiveIncomeMn": 192.7,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
-      "asOfDate": "2025-06-30",
+      "period": "Share Holding Percentage [as on Jun 30, 2026 (year ended)]",
+      "asOfDate": "2026-06-30",
       "sponsorDirectorPct": 20.52,
       "govtPct": 0,
-      "institutePct": 53.52,
+      "institutePct": 56.08,
       "foreignPct": 0,
-      "publicPct": 25.96
+      "publicPct": 23.4
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
+        "peBasic": 15.37,
+        "peDiluted": null,
+        "peTrailing": 15.37
+      },
+      {
+        "date": "2026-09-29",
+        "peBasic": 15.12,
+        "peDiluted": null,
+        "peTrailing": 15.12
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 15.24,
+        "peDiluted": null,
+        "peTrailing": 15.24
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 14.88,
+        "peDiluted": null,
+        "peTrailing": 14.88
+      },
+      {
+        "date": "2026-10-04",
         "peBasic": 14.51,
         "peDiluted": null,
         "peTrailing": 14.51
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.51,
-        "peDiluted": null,
-        "peTrailing": 14.51
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 14.39,
-        "peDiluted": null,
-        "peTrailing": 14.39
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 14.63,
-        "peDiluted": null,
-        "peTrailing": 14.63
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 14.76,
-        "peDiluted": null,
-        "peTrailing": 14.76
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": 14.51,
         "peDiluted": null,
         "peTrailing": 14.51
@@ -189,53 +189,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.69,
+        "date": "2026-09-28",
+        "peBasic": 15.37,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.69,
+        "date": "2026-09-29",
+        "peBasic": 15.12,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 14.57,
+        "date": "2026-09-30",
+        "peBasic": 15.24,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 14.81,
+        "date": "2026-10-01",
+        "peBasic": 14.88,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 14.94,
+        "date": "2026-10-04",
+        "peBasic": 14.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 14.69,
+        "date": "2026-10-05",
+        "peBasic": 14.51,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2021,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 1.21,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 20.82,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 220.18,
-      "tciOriginal": 220.18,
-      "tciRestated": 1108.44
-    },
     {
       "year": 2022,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": 147.01,
       "tciOriginal": 147.01,
       "tciRestated": 89.88
+    },
+    {
+      "year": 2026,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 0.82,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 17.06,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 149.96,
+      "tciOriginal": 149.96,
+      "tciRestated": 342.69
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2021,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 14.5,
-      "dividend": "13.00",
-      "cashDividendPct": 13,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 7.43
-    },
     {
       "year": 2022,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": 7.5,
       "bonusDividendPct": null,
       "dividendYieldPct": 6.15
+    },
+    {
+      "year": 2026,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 15.69,
+      "dividend": "9.00",
+      "cashDividendPct": 9,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 6.98
     }
   ],
   "financialLinks": [
@@ -361,7 +361,7 @@
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
     "longTermLoanMn": 0,
-    "latestDividendStatus": "7.50 for 2025"
+    "latestDividendStatus": "9.00 for 2026"
   },
   "addressContact": {
     "headOffice": "Head Office",
@@ -374,6 +374,55 @@
     "cellNo": "+8801713423495",
     "telephoneNo": "+(880-2) 481 20558-59"
   },
-  "scrapedAt": "2026-09-13T15:42:40.341Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:42.471Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2170.535,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GRAMEENS2",
+  "cseQuote": {
+    "ltp": 12,
+    "open": 12,
+    "high": 12,
+    "low": 12,
+    "ycp": 12,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

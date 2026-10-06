@@ -2,44 +2,44 @@
   "tradingCode": "BSRMLTD",
   "scripCode": "13238",
   "companyName": "Bangladesh Steel Re-Rolling Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BSRMLTD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BSRMLTD",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 74,
     "TRADING CODE": "BSRMLTD",
     "tradingCode": "BSRMLTD",
-    "LTP": 96.2,
-    "HIGH": 98.1,
-    "LOW": 95.7,
-    "CLOSEP": 96.1,
-    "YCP": 97.1,
-    "CHANGE": -0.9,
-    "TRADE": 289,
-    "VALUE (mn)": 7.035,
-    "VOLUME": 73164
+    "LTP": 93.7,
+    "HIGH": 94,
+    "LOW": 92.3,
+    "CLOSEP": 93.7,
+    "YCP": 92.7,
+    "CHANGE": 1,
+    "TRADE": 133,
+    "VALUE (mn)": 3.682,
+    "VOLUME": 39467
   },
   "marketInformation": {
-    "lastTradingPrice": 96.2,
+    "lastTradingPrice": 93.7,
     "daysRange": [
-      95.7,
-      98.1
+      92.3,
+      94
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       71.5,
       115
     ],
-    "change": -0.9,
-    "daysTradeNos": 289,
-    "yesterdaysClose": 97.1,
-    "daysVolumeNos": 73164,
-    "adjustedOpeningPrice": 97.1,
-    "daysValueMn": 7.04,
-    "openingPrice": 98.1,
-    "marketCapMn": 28992.567,
-    "closingPrice": 96.1,
-    "freeFloatMarketCapMn": 16831.216
+    "change": 1,
+    "daysTradeNos": 133,
+    "yesterdaysClose": 92.7,
+    "daysVolumeNos": 39467,
+    "adjustedOpeningPrice": 92.7,
+    "daysValueMn": 3.68,
+    "openingPrice": 93,
+    "marketCapMn": 27678.795,
+    "closingPrice": 93.7,
+    "freeFloatMarketCapMn": 16068.524
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.68,
+        "date": "2026-09-28",
+        "peBasic": 4.58,
         "peDiluted": null,
-        "peTrailing": 4.45
+        "peTrailing": 4.36
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.65,
+        "date": "2026-09-29",
+        "peBasic": 4.57,
         "peDiluted": null,
-        "peTrailing": 4.42
+        "peTrailing": 4.34
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.64,
+        "date": "2026-09-30",
+        "peBasic": 4.57,
         "peDiluted": null,
-        "peTrailing": 4.41
+        "peTrailing": 4.34
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.66,
+        "date": "2026-10-01",
+        "peBasic": 4.54,
         "peDiluted": null,
-        "peTrailing": 4.43
+        "peTrailing": 4.32
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.69,
+        "date": "2026-10-04",
+        "peBasic": 4.47,
         "peDiluted": null,
-        "peTrailing": 4.45
+        "peTrailing": 4.25
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.64,
+        "date": "2026-10-05",
+        "peBasic": 4.52,
         "peDiluted": null,
-        "peTrailing": 4.41
+        "peTrailing": 4.3
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 4.72,
+        "date": "2026-09-28",
+        "peBasic": 4.62,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 4.69,
+        "date": "2026-09-29",
+        "peBasic": 4.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.67,
+        "date": "2026-09-30",
+        "peBasic": 4.6,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 4.69,
+        "date": "2026-10-01",
+        "peBasic": 4.57,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.72,
+        "date": "2026-10-04",
+        "peBasic": 4.51,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 4.67,
+        "date": "2026-10-05",
+        "peBasic": 4.56,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,59 @@
     "cellNo": "+88 01711 790 266",
     "telephoneNo": "+880 31 2854901-10, Ext.- 156"
   },
-  "scrapedAt": "2026-09-13T15:42:15.087Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:20.907Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 5.07% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 5.07,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 27678.795,
+      "totalInterestBearingDebt": 1404.31
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BSRMLTD",
+  "cseQuote": {
+    "ltp": 91,
+    "open": 96,
+    "high": 91,
+    "low": 91,
+    "ycp": 96,
+    "change": -5,
+    "changePct": -5.21,
+    "trades": 6,
+    "valueMn": 0.09,
+    "volume": 1000,
+    "updatedDate": "2026-10-06T01:10:39.835Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "MJLBD",
   "scripCode": "15314",
   "companyName": "MJL Bangladesh PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MJLBD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MJLBD",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 231,
     "TRADING CODE": "MJLBD",
     "tradingCode": "MJLBD",
-    "LTP": 89.5,
-    "HIGH": 91.2,
-    "LOW": 89.4,
-    "CLOSEP": 89.5,
-    "YCP": 90.3,
-    "CHANGE": -0.8,
-    "TRADE": 249,
-    "VALUE (mn)": 2.144,
-    "VOLUME": 23892
+    "LTP": 89.9,
+    "HIGH": 90.7,
+    "LOW": 89.5,
+    "CLOSEP": 89.9,
+    "YCP": 89.6,
+    "CHANGE": 0.3,
+    "TRADE": 146,
+    "VALUE (mn)": 1.783,
+    "VOLUME": 19879
   },
   "marketInformation": {
-    "lastTradingPrice": 89.5,
+    "lastTradingPrice": 89.9,
     "daysRange": [
-      89.4,
-      91.2
+      89.5,
+      90.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       86,
-      102.5
+      98.5
     ],
-    "change": -0.8,
-    "daysTradeNos": 249,
-    "yesterdaysClose": 90.3,
-    "daysVolumeNos": 23892,
-    "adjustedOpeningPrice": 90.3,
-    "daysValueMn": 2.14,
-    "openingPrice": 91.2,
-    "marketCapMn": 28602.708,
-    "closingPrice": 89.5,
-    "freeFloatMarketCapMn": 8145.896
+    "change": 0.3,
+    "daysTradeNos": 146,
+    "yesterdaysClose": 89.6,
+    "daysVolumeNos": 19879,
+    "adjustedOpeningPrice": 89.6,
+    "daysValueMn": 1.78,
+    "openingPrice": 89.6,
+    "marketCapMn": 28380.982,
+    "closingPrice": 89.9,
+    "freeFloatMarketCapMn": 8082.75
   },
   "basicInformation": {
     "authorizedCapitalMn": 10000,
@@ -74,17 +74,17 @@
       "publicPct": 5.14
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 71.52,
-      "govtPct": 0,
-      "institutePct": 22.8,
-      "foreignPct": 0.02,
-      "publicPct": 5.66
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 71.52,
+      "govtPct": 0,
+      "institutePct": 22.9,
+      "foreignPct": 0.02,
+      "publicPct": 5.56
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
       "sponsorDirectorPct": 71.52,
       "govtPct": 0,
       "institutePct": 22.9,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 11.54,
+        "date": "2026-09-28",
+        "peBasic": 11.41,
         "peDiluted": null,
-        "peTrailing": 9.9
+        "peTrailing": 9.79
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 11.46,
+        "date": "2026-09-29",
+        "peBasic": 11.37,
         "peDiluted": null,
-        "peTrailing": 9.84
+        "peTrailing": 9.76
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 11.47,
-        "peDiluted": null,
-        "peTrailing": 9.85
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 11.45,
-        "peDiluted": null,
-        "peTrailing": 9.83
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 11.46,
-        "peDiluted": null,
-        "peTrailing": 9.84
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 11.36,
         "peDiluted": null,
         "peTrailing": 9.75
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 11.42,
+        "peDiluted": null,
+        "peTrailing": 9.8
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 11.37,
+        "peDiluted": null,
+        "peTrailing": 9.76
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 11.41,
+        "peDiluted": null,
+        "peTrailing": 9.79
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 8,
+        "date": "2026-09-28",
+        "peBasic": 7.91,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 7.95,
+        "date": "2026-09-29",
+        "peBasic": 7.89,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 7.96,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 7.94,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 7.95,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 7.88,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 7.92,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 7.89,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 7.91,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,59 @@
     "cellNo": "01730336964",
     "telephoneNo": "+8802226601427-29"
   },
-  "scrapedAt": "2026-09-13T15:43:16.439Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:00.019Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 7.86% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 7.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 28380.982,
+      "totalInterestBearingDebt": 2230.87
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MJLBD",
+  "cseQuote": {
+    "ltp": 89.5,
+    "open": 90,
+    "high": 89.5,
+    "low": 89,
+    "ycp": 90,
+    "change": -0.5,
+    "changePct": -0.56,
+    "trades": 2,
+    "valueMn": 0.02,
+    "volume": 206,
+    "updatedDate": "2026-10-06T01:10:39.848Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

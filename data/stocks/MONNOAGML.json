@@ -2,44 +2,44 @@
   "tradingCode": "MONNOAGML",
   "scripCode": "13209",
   "companyName": "Monno Agro & General Machinery Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MONNOAGML",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MONNOAGML",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 233,
     "TRADING CODE": "MONNOAGML",
     "tradingCode": "MONNOAGML",
-    "LTP": 302.1,
-    "HIGH": 320,
-    "LOW": 301.9,
-    "CLOSEP": 302.1,
-    "YCP": 310.8,
-    "CHANGE": -8.7,
-    "TRADE": 250,
-    "VALUE (mn)": 3.142,
-    "VOLUME": 10349
+    "LTP": 298.4,
+    "HIGH": 307.1,
+    "LOW": 294.2,
+    "CLOSEP": 298.4,
+    "YCP": 301.7,
+    "CHANGE": -3.3,
+    "TRADE": 138,
+    "VALUE (mn)": 1.737,
+    "VOLUME": 5816
   },
   "marketInformation": {
-    "lastTradingPrice": 302.1,
+    "lastTradingPrice": 298.4,
     "daysRange": [
-      301.9,
-      320
+      294.2,
+      307.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       266.2,
       421
     ],
-    "change": -8.7,
-    "daysTradeNos": 250,
-    "yesterdaysClose": 310.8,
-    "daysVolumeNos": 10349,
-    "adjustedOpeningPrice": 310.8,
-    "daysValueMn": 3.14,
-    "openingPrice": 320,
-    "marketCapMn": 1367.6,
-    "closingPrice": 302.1,
-    "freeFloatMarketCapMn": 957.318
+    "change": -3.3,
+    "daysTradeNos": 138,
+    "yesterdaysClose": 301.7,
+    "daysVolumeNos": 5816,
+    "adjustedOpeningPrice": 301.7,
+    "daysValueMn": 1.74,
+    "openingPrice": 305,
+    "marketCapMn": 1327.557,
+    "closingPrice": 298.4,
+    "freeFloatMarketCapMn": 929.288
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 1414.85,
+        "date": "2026-09-28",
+        "peBasic": 1346.91,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 1387.5,
+        "date": "2026-09-29",
+        "peBasic": 1360.59,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 1367.65,
+        "date": "2026-09-30",
+        "peBasic": 1355.74,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 1366.32,
+        "date": "2026-10-01",
+        "peBasic": 1346.47,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 1371.18,
+        "date": "2026-10-04",
+        "peBasic": 1331.03,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 1332.79,
+        "date": "2026-10-05",
+        "peBasic": 1316.47,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 320.7,
+        "date": "2026-09-28",
+        "peBasic": 305.3,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 314.5,
+        "date": "2026-09-29",
+        "peBasic": 308.4,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 310,
+        "date": "2026-09-30",
+        "peBasic": 307.3,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 309.7,
+        "date": "2026-10-01",
+        "peBasic": 305.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 310.8,
+        "date": "2026-10-04",
+        "peBasic": 301.7,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 302.1,
+        "date": "2026-10-05",
+        "peBasic": 298.4,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,40 @@
     "cellNo": "+88 01755 559 168",
     "telephoneNo": "47123449"
   },
-  "scrapedAt": "2026-09-13T15:43:14.620Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:59.956Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 1327.557,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": false,
+  "exchanges": [
+    "DSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MONNOAGML",
+  "indices": [
+    "DSEX",
+    "DSES"
+  ]
 }

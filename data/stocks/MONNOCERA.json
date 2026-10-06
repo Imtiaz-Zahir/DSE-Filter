@@ -2,44 +2,44 @@
   "tradingCode": "MONNOCERA",
   "scripCode": "24606",
   "companyName": "Monno Ceramic Industries Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=MONNOCERA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=MONNOCERA",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 234,
     "TRADING CODE": "MONNOCERA",
     "tradingCode": "MONNOCERA",
-    "LTP": 80.1,
-    "HIGH": 82.5,
-    "LOW": 79.5,
-    "CLOSEP": 80.1,
-    "YCP": 82.5,
-    "CHANGE": -2.4,
-    "TRADE": 648,
-    "VALUE (mn)": 13.265,
-    "VOLUME": 164152
+    "LTP": 81.4,
+    "HIGH": 83.9,
+    "LOW": 81.2,
+    "CLOSEP": 81.4,
+    "YCP": 82.9,
+    "CHANGE": -1.5,
+    "TRADE": 570,
+    "VALUE (mn)": 11.55,
+    "VOLUME": 141037
   },
   "marketInformation": {
-    "lastTradingPrice": 80.1,
+    "lastTradingPrice": 81.4,
     "daysRange": [
-      79.5,
-      82.5
+      81.2,
+      83.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       67.3,
       112
     ],
-    "change": -2.4,
-    "daysTradeNos": 648,
-    "yesterdaysClose": 82.5,
-    "daysVolumeNos": 164152,
-    "adjustedOpeningPrice": 82.5,
-    "daysValueMn": 13.27,
-    "openingPrice": 82.4,
-    "marketCapMn": 3112.256,
-    "closingPrice": 80.1,
-    "freeFloatMarketCapMn": 2161.84
+    "change": -1.5,
+    "daysTradeNos": 570,
+    "yesterdaysClose": 82.9,
+    "daysVolumeNos": 141037,
+    "adjustedOpeningPrice": 82.9,
+    "daysValueMn": 11.55,
+    "openingPrice": 82,
+    "marketCapMn": 3127.346,
+    "closingPrice": 81.4,
+    "freeFloatMarketCapMn": 2172.321
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 254.69,
+        "date": "2026-09-28",
+        "peBasic": 259.69,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 267.19,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 264.06,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 265,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 259.06,
+        "peDiluted": null,
+        "peTrailing": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 254.38,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 253.13,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 251.88,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 257.81,
-        "peDiluted": null,
-        "peTrailing": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 250.31,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 370.45,
+        "date": "2026-09-28",
+        "peBasic": 377.73,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
+        "peBasic": 388.64,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-09-30",
+        "peBasic": 384.09,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 385.45,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 376.82,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 370,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-08",
-        "peBasic": 368.18,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 366.36,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 375,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
-        "peBasic": 364.09,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "+88 01313 355 510",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:14.575Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:00.300Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 16.19% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 16.19,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3127.346,
+      "totalInterestBearingDebt": 506.33
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/MONNOCERA",
+  "cseQuote": {
+    "ltp": 83.2,
+    "open": 83.2,
+    "high": 83.2,
+    "low": 83.2,
+    "ycp": 83.2,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.849Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

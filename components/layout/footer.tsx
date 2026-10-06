@@ -22,15 +22,15 @@ export function Footer() {
             </div>
             <p className="text-xs leading-relaxed text-muted-foreground">
               A comprehensive, mobile-first analytics screener and fundamental research platform
-              for stocks listed on the Dhaka Stock Exchange (DSE), featuring DSES Sharia compliance,
-              multi-tier valuation metrics, audited histories, and shareholding insights.
+              for stocks listed on the Dhaka Stock Exchange (DSE) and Chittagong Stock Exchange (CSE),
+              featuring Sharia compliance, multi-tier valuation metrics, audited histories, and shareholding insights.
             </p>
             <div className="flex items-center gap-2 pt-1 text-xs">
               <Link
                 href="/market/shariah"
                 className="inline-flex items-center rounded-md bg-emerald-500/10 px-2 py-0.5 font-medium text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 hover:bg-emerald-500/20 transition-colors"
               >
-                <ShieldCheck className="size-3 mr-1" /> 125+ DSES Sharia Stocks
+                <ShieldCheck className="size-3 mr-1" /> 100+ Sharia Stocks
               </Link>
             </div>
           </div>
@@ -171,7 +171,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://www.dsebd.org"
+                  href="https://old.dsebd.org"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-1 hover:text-foreground transition-colors"

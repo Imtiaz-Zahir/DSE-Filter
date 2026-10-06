@@ -2,7 +2,7 @@
   "tradingCode": "CITYBANK",
   "scripCode": "11102",
   "companyName": "City Bank PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=CITYBANK",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=CITYBANK",
   "lastAGMHeldOn": "2026-06-07",
   "forYearEnded": "2025-12-31",
   "overview": {
@@ -10,36 +10,36 @@
     "TRADING CODE": "CITYBANK",
     "tradingCode": "CITYBANK",
     "LTP": 29.7,
-    "HIGH": 29.9,
-    "LOW": 29.5,
+    "HIGH": 30,
+    "LOW": 29.6,
     "CLOSEP": 29.7,
-    "YCP": 29.8,
-    "CHANGE": -0.1,
-    "TRADE": 861,
-    "VALUE (mn)": 42.729,
-    "VOLUME": 1443416
+    "YCP": 29.7,
+    "CHANGE": 0,
+    "TRADE": 599,
+    "VALUE (mn)": 18.235,
+    "VOLUME": 613534
   },
   "marketInformation": {
     "lastTradingPrice": 29.7,
     "daysRange": [
-      29.5,
-      29.9
+      29.6,
+      30
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       22.6,
       33.9
     ],
-    "change": -0.1,
-    "daysTradeNos": 861,
-    "yesterdaysClose": 29.8,
-    "daysVolumeNos": 1443416,
-    "adjustedOpeningPrice": 29.8,
-    "daysValueMn": 42.73,
-    "openingPrice": 29.9,
-    "marketCapMn": 52132.28,
+    "change": 0,
+    "daysTradeNos": 599,
+    "yesterdaysClose": 29.7,
+    "daysVolumeNos": 613534,
+    "adjustedOpeningPrice": 29.7,
+    "daysValueMn": 18.24,
+    "openingPrice": 30,
+    "marketCapMn": 51957.34,
     "closingPrice": 29.7,
-    "freeFloatMarketCapMn": 36206.134
+    "freeFloatMarketCapMn": 36084.637
   },
   "basicInformation": {
     "authorizedCapitalMn": 20000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5,
-        "peDiluted": null,
-        "peTrailing": 3.17
-      },
-      {
-        "date": "2026-09-07",
+        "date": "2026-09-28",
         "peBasic": 4.98,
         "peDiluted": null,
         "peTrailing": 3.16
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.98,
-        "peDiluted": null,
-        "peTrailing": 3.16
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 4.97,
         "peDiluted": null,
         "peTrailing": 3.15
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 4.95,
+        "date": "2026-09-30",
+        "peBasic": 5,
         "peDiluted": null,
-        "peTrailing": 3.14
+        "peTrailing": 3.17
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
+        "peBasic": 4.97,
+        "peDiluted": null,
+        "peTrailing": 3.15
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 4.93,
+        "peDiluted": null,
+        "peTrailing": 3.13
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 4.93,
         "peDiluted": null,
         "peTrailing": 3.13
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 3.46,
-        "peDiluted": 3.98
-      },
-      {
-        "date": "2026-09-07",
+        "date": "2026-09-28",
         "peBasic": 3.44,
         "peDiluted": 3.96
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 3.44,
-        "peDiluted": 3.96
-      },
-      {
-        "date": "2026-09-09",
+        "date": "2026-09-29",
         "peBasic": 3.43,
         "peDiluted": 3.95
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 3.42,
-        "peDiluted": 3.94
+        "date": "2026-09-30",
+        "peBasic": 3.46,
+        "peDiluted": 3.98
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-01",
+        "peBasic": 3.43,
+        "peDiluted": 3.95
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 3.41,
+        "peDiluted": 3.92
+      },
+      {
+        "date": "2026-10-05",
         "peBasic": 3.41,
         "peDiluted": 3.92
       }
@@ -374,6 +374,58 @@
     "cellNo": "01912927161",
     "telephoneNo": "58814635 (Direct) 58813483, 58814375 and 58813126 (Hunting) Ext.-1031"
   },
-  "scrapedAt": "2026-09-13T15:42:19.463Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:25.555Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Bank operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board."
+    ],
+    "passedScreens": [
+      "Leverage Ratio: 21.33% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 21.33,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 51957.34,
+      "totalInterestBearingDebt": 11080
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/CITYBANK",
+  "cseQuote": {
+    "ltp": 29.5,
+    "open": 29.7,
+    "high": 29.5,
+    "low": 29.4,
+    "ycp": 29.7,
+    "change": -0.2,
+    "changePct": -0.67,
+    "trades": 6,
+    "valueMn": 0.05,
+    "volume": 1600,
+    "updatedDate": "2026-10-06T01:10:39.836Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

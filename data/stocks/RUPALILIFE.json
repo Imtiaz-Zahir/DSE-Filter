@@ -2,44 +2,44 @@
   "tradingCode": "RUPALILIFE",
   "scripCode": "25741",
   "companyName": "Rupali Life Insurance PLC",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RUPALILIFE",
-  "lastAGMHeldOn": "2025-11-03",
-  "forYearEnded": "2024-12-31",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RUPALILIFE",
+  "lastAGMHeldOn": "2026-09-24",
+  "forYearEnded": "2025-12-31",
   "overview": {
     "#": 316,
     "TRADING CODE": "RUPALILIFE",
     "tradingCode": "RUPALILIFE",
-    "LTP": 75.3,
-    "HIGH": 78.9,
-    "LOW": 72.9,
-    "CLOSEP": 75.3,
-    "YCP": 79,
-    "CHANGE": -3.7,
-    "TRADE": 505,
-    "VALUE (mn)": 12.099,
-    "VOLUME": 158108
+    "LTP": 76.2,
+    "HIGH": 77.8,
+    "LOW": 76,
+    "CLOSEP": 76.2,
+    "YCP": 77.2,
+    "CHANGE": -1,
+    "TRADE": 315,
+    "VALUE (mn)": 7.039,
+    "VOLUME": 92100
   },
   "marketInformation": {
-    "lastTradingPrice": 75.3,
+    "lastTradingPrice": 76.2,
     "daysRange": [
-      72.9,
-      78.9
+      76,
+      77.8
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       65.9,
       132
     ],
-    "change": -3.7,
-    "daysTradeNos": 505,
-    "yesterdaysClose": 79,
-    "daysVolumeNos": 158108,
-    "adjustedOpeningPrice": 79,
-    "daysValueMn": 12.1,
-    "openingPrice": 78.9,
-    "marketCapMn": 2371.125,
-    "closingPrice": 75.3,
-    "freeFloatMarketCapMn": 1400.565
+    "change": -1,
+    "daysTradeNos": 315,
+    "yesterdaysClose": 77.2,
+    "daysVolumeNos": 92100,
+    "adjustedOpeningPrice": 77.2,
+    "daysValueMn": 7.04,
+    "openingPrice": 77.8,
+    "marketCapMn": 2317.099,
+    "closingPrice": 76.2,
+    "freeFloatMarketCapMn": 1368.653
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -55,23 +55,23 @@
     "listingYear": 2009,
     "marketCategory": "A",
     "electronicShare": true,
-    "cashDividend": "10% 2024, 12% 2023, 11% 2022, 18% 2021, 13% 2020, 12% 2019, 12% 2018, 8% 2017, 10% 2016, 10% 2015",
-    "bonusIssue": "2% 2020, 2% 2019, 4% 2017, 10% 2014, 5% 2013, 12% 2012, 14% 2011, 14% 2010, 10% 2009",
-    "rightIssue": "1R:1 2014",
-    "yearEnd": "31-Dec",
-    "reserveSurplusWithoutOciMn": 0,
-    "otherComprehensiveIncomeMn": 0,
-    "remarks": "-"
+    "cashDividend": null,
+    "bonusIssue": null,
+    "rightIssue": null,
+    "yearEnd": null,
+    "reserveSurplusWithoutOciMn": null,
+    "otherComprehensiveIncomeMn": null,
+    "remarks": "TK. 344,369,143 Revaluation Reserve has been added to Reserve & Surplus."
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Dec 31, 2024 (year ended)]",
-      "asOfDate": "2024-12-31",
+      "period": "Share Holding Percentage [as on Dec 31, 2025 (year ended)]",
+      "asOfDate": "2025-12-31",
       "sponsorDirectorPct": 32.07,
       "govtPct": 0,
-      "institutePct": 23.21,
+      "institutePct": 17.2,
       "foreignPct": 0,
-      "publicPct": 44.72
+      "publicPct": 50.73
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -96,37 +96,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -134,53 +134,38 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2020,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": null,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": null,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": null,
-      "tciOriginal": null,
-      "tciRestated": null
-    },
     {
       "year": 2021,
       "epsBasicOriginal": null,
@@ -240,20 +225,24 @@
       "profitForTheYearMnRestated": null,
       "tciOriginal": null,
       "tciRestated": null
+    },
+    {
+      "year": 2025,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": null,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": null,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": null,
+      "tciOriginal": null,
+      "tciRestated": null
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2020,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": null,
-      "dividend": "13.00, 2% B",
-      "cashDividendPct": 13,
-      "bonusDividendPct": "2% B",
-      "dividendYieldPct": 2.25
-    },
     {
       "year": 2021,
       "peBasicOriginal": null,
@@ -297,6 +286,17 @@
       "cashDividendPct": 10,
       "bonusDividendPct": null,
       "dividendYieldPct": 0.92
+    },
+    {
+      "year": 2025,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": null,
+      "dividend": "12.00",
+      "cashDividendPct": 12,
+      "bonusDividendPct": null,
+      "dividendYieldPct": 1.54
     }
   ],
   "financialLinks": [
@@ -306,7 +306,7 @@
   "operationalLoanStatus": {
     "presentOperationalStatus": "Active",
     "longTermLoanMn": 0,
-    "latestDividendStatus": "10.00 for 2024"
+    "latestDividendStatus": "12.00 for 2025"
   },
   "addressContact": {
     "headOffice": "Head Office",
@@ -319,6 +319,57 @@
     "cellNo": "+88 01847 133 722",
     "telephoneNo": "+88-02-8392369, +88-02-8392361-4, Ext.-125"
   },
-  "scrapedAt": "2026-09-13T15:43:50.828Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:18.697Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 2317.099,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RUPALILIFE",
+  "cseQuote": {
+    "ltp": 86,
+    "open": 81.7,
+    "high": 86,
+    "low": 86,
+    "ycp": 81.7,
+    "change": 4.3,
+    "changePct": 5.26,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.855Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

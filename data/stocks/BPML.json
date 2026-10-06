@@ -2,44 +2,44 @@
   "tradingCode": "BPML",
   "scripCode": "19512",
   "companyName": "Bashundhara Paper Mills Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BPML",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BPML",
   "lastAGMHeldOn": "2025-12-23",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 69,
     "TRADING CODE": "BPML",
     "tradingCode": "BPML",
-    "LTP": 24.6,
-    "HIGH": 25.5,
-    "LOW": 24.5,
-    "CLOSEP": 24.6,
-    "YCP": 25,
-    "CHANGE": -0.4,
-    "TRADE": 128,
-    "VALUE (mn)": 0.561,
-    "VOLUME": 22689
+    "LTP": 25,
+    "HIGH": 26.1,
+    "LOW": 24.9,
+    "CLOSEP": 25,
+    "YCP": 25.9,
+    "CHANGE": -0.9,
+    "TRADE": 188,
+    "VALUE (mn)": 1.855,
+    "VOLUME": 73681
   },
   "marketInformation": {
-    "lastTradingPrice": 24.6,
+    "lastTradingPrice": 25,
     "daysRange": [
-      24.5,
-      25.5
+      24.9,
+      26.1
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       21.5,
-      38.8
+      35.1
     ],
-    "change": -0.4,
-    "daysTradeNos": 128,
-    "yesterdaysClose": 25,
-    "daysVolumeNos": 22689,
-    "adjustedOpeningPrice": 25,
-    "daysValueMn": 0.56,
-    "openingPrice": 25,
-    "marketCapMn": 4344.786,
-    "closingPrice": 24.6,
-    "freeFloatMarketCapMn": 1468.167
+    "change": -0.9,
+    "daysTradeNos": 188,
+    "yesterdaysClose": 25.9,
+    "daysVolumeNos": 73681,
+    "adjustedOpeningPrice": 25.9,
+    "daysValueMn": 1.86,
+    "openingPrice": 26.1,
+    "marketCapMn": 4501.198,
+    "closingPrice": 25,
+    "freeFloatMarketCapMn": 1521.021
   },
   "basicInformation": {
     "authorizedCapitalMn": 5000,
@@ -74,15 +74,6 @@
       "publicPct": 24.51
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 66.21,
-      "govtPct": 0,
-      "institutePct": 9.1,
-      "foreignPct": 0,
-      "publicPct": 24.69
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 66.21,
@@ -90,6 +81,15 @@
       "institutePct": 9.06,
       "foreignPct": 0,
       "publicPct": 24.73
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 66.21,
+      "govtPct": 0,
+      "institutePct": 9.1,
+      "foreignPct": 0,
+      "publicPct": 24.69
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "01958-066529",
     "telephoneNo": "+88-02- 55036483-84 Ext.:4452"
   },
-  "scrapedAt": "2026-09-13T15:42:12.524Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:19.188Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (391.05%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 391.05,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 4501.198,
+      "totalInterestBearingDebt": 17601.81
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BPML",
+  "cseQuote": {
+    "ltp": 25.2,
+    "open": 28,
+    "high": 25.2,
+    "low": 25.2,
+    "ycp": 28,
+    "change": -2.8,
+    "changePct": -10,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 50,
+    "updatedDate": "2026-10-06T01:10:39.834Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }

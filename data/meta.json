@@ -1,7 +1,20 @@
 {
-  "lastUpdated": "2026-09-13T15:44:21.197Z",
-  "totalStocks": 395,
-  "version": "1.0.0",
+  "lastUpdated": "2026-10-06T01:10:40.054Z",
+  "totalStocks": 416,
+  "totalDseStocks": 395,
+  "totalCseStocks": 387,
+  "totalDualStocks": 366,
+  "shariaStocksCount": 295,
+  "version": "2.0.0",
+  "indices": [
+    "CASPI",
+    "CSCX",
+    "CSE30",
+    "CSE50",
+    "CSI",
+    "DSES",
+    "DSEX"
+  ],
   "sectors": [
     "Bank",
     "Cement",
@@ -29,13 +42,14 @@
     "Z"
   ],
   "instruments": [
+    "Corporate Bond",
     "Equity",
-    "Mutual Funds"
+    "Mutual Funds",
+    "Unknown"
   ],
   "operationalStatuses": [
     "Active",
     "Closed",
-    "Operation Shutdown",
-    "Temporary Shutdown of Factory for Emergency Maintenance"
+    "Operation Shutdown"
   ]
 }

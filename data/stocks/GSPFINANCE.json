@@ -2,44 +2,44 @@
   "tradingCode": "GSPFINANCE",
   "scripCode": "11149",
   "companyName": "GSP Finance Company (Bangladesh) PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=GSPFINANCE",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=GSPFINANCE",
   "lastAGMHeldOn": "2024-12-29",
   "forYearEnded": "2023-12-31",
   "overview": {
     "#": 156,
     "TRADING CODE": "GSPFINANCE",
     "tradingCode": "GSPFINANCE",
-    "LTP": 3.5,
-    "HIGH": 3.7,
-    "LOW": 3.3,
-    "CLOSEP": 3.4,
-    "YCP": 3.5,
-    "CHANGE": 0,
-    "TRADE": 75,
-    "VALUE (mn)": 0.971,
-    "VOLUME": 281365
+    "LTP": 3.3,
+    "HIGH": 3.5,
+    "LOW": 3.2,
+    "CLOSEP": 3.2,
+    "YCP": 3.4,
+    "CHANGE": -0.1,
+    "TRADE": 60,
+    "VALUE (mn)": 0.342,
+    "VOLUME": 104135
   },
   "marketInformation": {
-    "lastTradingPrice": 3.5,
+    "lastTradingPrice": 3.3,
     "daysRange": [
-      3.3,
-      3.7
+      3.2,
+      3.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       1.1,
       6.7
     ],
-    "change": 0,
-    "daysTradeNos": 75,
-    "yesterdaysClose": 3.5,
-    "daysVolumeNos": 281365,
-    "adjustedOpeningPrice": 3.5,
-    "daysValueMn": 0.97,
-    "openingPrice": 3.5,
-    "marketCapMn": 549.74,
-    "closingPrice": 3.4,
-    "freeFloatMarketCapMn": 376.565
+    "change": -0.1,
+    "daysTradeNos": 60,
+    "yesterdaysClose": 3.4,
+    "daysVolumeNos": 104135,
+    "adjustedOpeningPrice": 3.4,
+    "daysValueMn": 0.34,
+    "openingPrice": 3.4,
+    "marketCapMn": 534.033,
+    "closingPrice": 3.2,
+    "freeFloatMarketCapMn": 365.806
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,55 @@
     "cellNo": "+8801552344245",
     "telephoneNo": "88 02 223360506"
   },
-  "scrapedAt": "2026-09-13T15:42:42.615Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:43.254Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Conventional Financial Institutions operations involve non-Islamic interest/ribawi transactions and lack a certified Shariah board.",
+      "Leverage Ratio (116.04%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 116.04,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 534.033,
+      "totalInterestBearingDebt": 619.67
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/GSPFINANCE",
+  "cseQuote": {
+    "ltp": 3.7,
+    "open": 3.7,
+    "high": 3.7,
+    "low": 3.7,
+    "ycp": 3.7,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.841Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI"
+  ]
 }

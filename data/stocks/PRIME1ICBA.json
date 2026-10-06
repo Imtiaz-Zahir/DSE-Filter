@@ -2,43 +2,43 @@
   "tradingCode": "PRIME1ICBA",
   "scripCode": "12173",
   "companyName": "Prime Bank 1st ICB AMCL Mutual Fund",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=PRIME1ICBA",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=PRIME1ICBA",
   "lastAGMHeldOn": "For the year ended:",
-  "forYearEnded": "2025-06-30",
+  "forYearEnded": "2026-06-30",
   "overview": {
     "#": 285,
     "TRADING CODE": "PRIME1ICBA",
     "tradingCode": "PRIME1ICBA",
-    "LTP": 6.1,
-    "HIGH": 6.4,
-    "LOW": 6.1,
-    "CLOSEP": 6.1,
-    "YCP": 6.2,
-    "CHANGE": -0.1,
-    "TRADE": 112,
-    "VALUE (mn)": 3.513,
-    "VOLUME": 564776
+    "LTP": 7.4,
+    "HIGH": 7.6,
+    "LOW": 7.3,
+    "CLOSEP": 7.4,
+    "YCP": 7.4,
+    "CHANGE": 0,
+    "TRADE": 302,
+    "VALUE (mn)": 12.139,
+    "VOLUME": 1621510
   },
   "marketInformation": {
-    "lastTradingPrice": 6.1,
+    "lastTradingPrice": 7.4,
     "daysRange": [
-      6.1,
-      6.4
+      7.3,
+      7.6
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       3.8,
-      7.3
+      8.4
     ],
-    "change": -0.1,
-    "daysTradeNos": 112,
-    "yesterdaysClose": 6.2,
-    "daysVolumeNos": 564776,
-    "adjustedOpeningPrice": 6.2,
-    "daysValueMn": 3.51,
-    "openingPrice": 6.3,
-    "marketCapMn": 620,
-    "closingPrice": 6.1,
+    "change": 0,
+    "daysTradeNos": 302,
+    "yesterdaysClose": 7.4,
+    "daysVolumeNos": 1621510,
+    "adjustedOpeningPrice": 7.4,
+    "daysValueMn": 12.14,
+    "openingPrice": 7.5,
+    "marketCapMn": 740,
+    "closingPrice": 7.4,
     "freeFloatMarketCapMn": 0
   },
   "basicInformation": {
@@ -59,28 +59,19 @@
     "bonusIssue": "-",
     "rightIssue": "-",
     "yearEnd": "30-Jun",
-    "reserveSurplusWithoutOciMn": -238.4,
+    "reserveSurplusWithoutOciMn": -121.4,
     "otherComprehensiveIncomeMn": 0,
     "remarks": "-"
   },
   "shareHoldings": [
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2025 (year ended)]",
-      "asOfDate": "2025-06-30",
-      "sponsorDirectorPct": 20,
-      "govtPct": 0,
-      "institutePct": 50.08,
-      "foreignPct": 0,
-      "publicPct": 29.92
-    },
-    {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
+      "period": "Share Holding Percentage [as on Jun 30, 2026 (year ended)]",
       "asOfDate": "2026-06-30",
       "sponsorDirectorPct": 20,
       "govtPct": 0,
-      "institutePct": 48.99,
+      "institutePct": 49,
       "foreignPct": 0,
-      "publicPct": 31.01
+      "publicPct": 31
     },
     {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
@@ -90,6 +81,15 @@
       "institutePct": 49.83,
       "foreignPct": 0,
       "publicPct": 30.17
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 20,
+      "govtPct": 0,
+      "institutePct": 49.91,
+      "foreignPct": 0,
+      "publicPct": 30.09
     }
   ],
   "interimFinancials": [
@@ -151,91 +151,76 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 5.04,
+        "date": "2026-09-28",
+        "peBasic": 6.75,
         "peDiluted": null,
-        "peTrailing": 5.04
+        "peTrailing": 6.75
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 5.04,
+        "date": "2026-09-29",
+        "peBasic": 6.75,
         "peDiluted": null,
-        "peTrailing": 5.04
+        "peTrailing": 6.75
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 4.96,
+        "date": "2026-09-30",
+        "peBasic": 6.58,
         "peDiluted": null,
-        "peTrailing": 4.96
+        "peTrailing": 6.58
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 5.13,
+        "date": "2026-10-01",
+        "peBasic": 6.41,
         "peDiluted": null,
-        "peTrailing": 5.13
+        "peTrailing": 6.41
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 5.3,
+        "date": "2026-10-04",
+        "peBasic": 6.32,
         "peDiluted": null,
-        "peTrailing": 5.3
+        "peTrailing": 6.32
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 5.21,
+        "date": "2026-10-05",
+        "peBasic": 6.32,
         "peDiluted": null,
-        "peTrailing": 5.21
+        "peTrailing": 6.32
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": null,
+        "date": "2026-09-28",
+        "peBasic": 6.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": null,
+        "date": "2026-09-29",
+        "peBasic": 6.75,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": null,
+        "date": "2026-09-30",
+        "peBasic": 6.58,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": null,
+        "date": "2026-10-01",
+        "peBasic": 6.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": null,
+        "date": "2026-10-04",
+        "peBasic": 6.32,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": null,
+        "date": "2026-10-05",
+        "peBasic": 6.32,
         "peDiluted": null
       }
     ]
   },
   "auditedFinancials": [
-    {
-      "year": 2021,
-      "epsBasicOriginal": null,
-      "epsBasicRestated": null,
-      "epsDilutedOriginal": null,
-      "epsDilutedRestated": 0.47,
-      "epsContinuingBasicOriginal": null,
-      "epsContinuingBasicRestated": null,
-      "navPerShareOriginal": 10.15,
-      "navPerShareRestated": null,
-      "profitForTheYearMnOriginal": null,
-      "profitForTheYearMnRestated": 47.44,
-      "tciOriginal": 47.44,
-      "tciRestated": 408.7
-    },
     {
       "year": 2022,
       "epsBasicOriginal": null,
@@ -295,20 +280,24 @@
       "profitForTheYearMnRestated": -28.03,
       "tciOriginal": -28.03,
       "tciRestated": -28.03
+    },
+    {
+      "year": 2026,
+      "epsBasicOriginal": null,
+      "epsBasicRestated": null,
+      "epsDilutedOriginal": null,
+      "epsDilutedRestated": 1.17,
+      "epsContinuingBasicOriginal": null,
+      "epsContinuingBasicRestated": null,
+      "navPerShareOriginal": 8.79,
+      "navPerShareRestated": null,
+      "profitForTheYearMnOriginal": null,
+      "profitForTheYearMnRestated": 117,
+      "tciOriginal": 117,
+      "tciRestated": 117
     }
   ],
   "historicalDividendPE": [
-    {
-      "year": 2021,
-      "peBasicOriginal": null,
-      "peBasicRestated": null,
-      "peDiluted": null,
-      "peContinuing": 16.44,
-      "dividend": "7.50",
-      "cashDividendPct": 7.5,
-      "bonusDividendPct": null,
-      "dividendYieldPct": 9.62
-    },
     {
       "year": 2022,
       "peBasicOriginal": null,
@@ -352,6 +341,17 @@
       "cashDividendPct": null,
       "bonusDividendPct": null,
       "dividendYieldPct": null
+    },
+    {
+      "year": 2026,
+      "peBasicOriginal": null,
+      "peBasicRestated": null,
+      "peDiluted": null,
+      "peContinuing": 4.19,
+      "dividend": null,
+      "cashDividendPct": null,
+      "bonusDividendPct": null,
+      "dividendYieldPct": null
     }
   ],
   "financialLinks": [
@@ -373,6 +373,55 @@
     "cellNo": "+8801712117155",
     "telephoneNo": "+8802 8300409"
   },
-  "scrapedAt": "2026-09-13T15:43:34.413Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:10:11.686Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 740,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/PRIME1ICBA",
+  "cseQuote": {
+    "ltp": 7.5,
+    "open": 8.1,
+    "high": 7.5,
+    "low": 7.5,
+    "ycp": 8.1,
+    "change": -0.6,
+    "changePct": -7.41,
+    "trades": 1,
+    "valueMn": 0.02,
+    "volume": 2000,
+    "updatedDate": "2026-10-06T01:10:39.853Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI"
+  ]
 }

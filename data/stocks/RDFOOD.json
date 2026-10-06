@@ -2,44 +2,44 @@
   "tradingCode": "RDFOOD",
   "scripCode": "14293",
   "companyName": "Rangpur Dairy & Food Products Ltd.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=RDFOOD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=RDFOOD",
   "lastAGMHeldOn": "2025-12-22",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 302,
     "TRADING CODE": "RDFOOD",
     "tradingCode": "RDFOOD",
-    "LTP": 22.5,
-    "HIGH": 24,
-    "LOW": 22.2,
-    "CLOSEP": 22.5,
-    "YCP": 23.9,
-    "CHANGE": -1.4,
-    "TRADE": 475,
-    "VALUE (mn)": 9.377,
-    "VOLUME": 408082
+    "LTP": 22,
+    "HIGH": 22.7,
+    "LOW": 21.9,
+    "CLOSEP": 22,
+    "YCP": 22.4,
+    "CHANGE": -0.4,
+    "TRADE": 313,
+    "VALUE (mn)": 7.069,
+    "VOLUME": 319088
   },
   "marketInformation": {
-    "lastTradingPrice": 22.5,
+    "lastTradingPrice": 22,
     "daysRange": [
-      22.2,
-      24
+      21.9,
+      22.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       15,
       34.4
     ],
-    "change": -1.4,
-    "daysTradeNos": 475,
-    "yesterdaysClose": 23.9,
-    "daysVolumeNos": 408082,
-    "adjustedOpeningPrice": 23.9,
-    "daysValueMn": 9.38,
-    "openingPrice": 23.8,
-    "marketCapMn": 1815.778,
-    "closingPrice": 22.5,
-    "freeFloatMarketCapMn": 1208.888
+    "change": -0.4,
+    "daysTradeNos": 313,
+    "yesterdaysClose": 22.4,
+    "daysVolumeNos": 319088,
+    "adjustedOpeningPrice": 22.4,
+    "daysValueMn": 7.07,
+    "openingPrice": 22.4,
+    "marketCapMn": 1701.817,
+    "closingPrice": 22,
+    "freeFloatMarketCapMn": 1133.017
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -74,15 +74,6 @@
       "publicPct": 50.46
     },
     {
-      "period": "Share Holding Percentage [as on Jun 30, 2026]",
-      "asOfDate": "2026-06-30",
-      "sponsorDirectorPct": 33.42,
-      "govtPct": 0,
-      "institutePct": 10.9,
-      "foreignPct": 0,
-      "publicPct": 55.68
-    },
-    {
       "period": "Share Holding Percentage [as on Jul 31, 2026]",
       "asOfDate": "2026-07-31",
       "sponsorDirectorPct": 33.42,
@@ -90,6 +81,15 @@
       "institutePct": 10.05,
       "foreignPct": 0,
       "publicPct": 56.53
+    },
+    {
+      "period": "Share Holding Percentage [as on Aug 31, 2026]",
+      "asOfDate": "2026-08-31",
+      "sponsorDirectorPct": 33.42,
+      "govtPct": 0,
+      "institutePct": 8.64,
+      "foreignPct": 0,
+      "publicPct": 57.94
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 34.47,
+        "date": "2026-09-28",
+        "peBasic": 32.16,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 34.33,
+        "date": "2026-09-29",
+        "peBasic": 32.6,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 34.62,
+        "date": "2026-09-30",
+        "peBasic": 33.61,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 34.62,
+        "date": "2026-10-01",
+        "peBasic": 32.88,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 34.47,
+        "date": "2026-10-04",
+        "peBasic": 32.31,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 32.45,
+        "date": "2026-10-05",
+        "peBasic": 31.73,
         "peDiluted": null,
         "peTrailing": null
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 39.18,
+        "date": "2026-09-28",
+        "peBasic": 36.56,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 39.02,
+        "date": "2026-09-29",
+        "peBasic": 37.05,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 39.34,
+        "date": "2026-09-30",
+        "peBasic": 38.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 39.34,
+        "date": "2026-10-01",
+        "peBasic": 37.38,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 39.18,
+        "date": "2026-10-04",
+        "peBasic": 36.72,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 36.89,
+        "date": "2026-10-05",
+        "peBasic": 36.07,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,57 @@
     "cellNo": "01978 090802",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:44.467Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:15.491Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 4.68% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 4.68,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1701.817,
+      "totalInterestBearingDebt": 79.56
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/RDFOOD",
+  "cseQuote": {
+    "ltp": 22.1,
+    "open": 22.8,
+    "high": 22.4,
+    "low": 22.1,
+    "ycp": 22.8,
+    "change": -0.7,
+    "changePct": -3.07,
+    "trades": 5,
+    "valueMn": 0.04,
+    "volume": 1850,
+    "updatedDate": "2026-10-06T01:10:39.854Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

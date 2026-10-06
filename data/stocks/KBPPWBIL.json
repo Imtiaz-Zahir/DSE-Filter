@@ -2,44 +2,44 @@
   "tradingCode": "KBPPWBIL",
   "scripCode": "99639",
   "companyName": "Khan Brothers PP Woven Bag Industries Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KBPPWBIL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KBPPWBIL",
   "lastAGMHeldOn": "2025-12-24",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 196,
     "TRADING CODE": "KBPPWBIL",
     "tradingCode": "KBPPWBIL",
-    "LTP": 28.8,
-    "HIGH": 30.1,
-    "LOW": 28.7,
-    "CLOSEP": 28.8,
-    "YCP": 29.9,
-    "CHANGE": -1.1,
-    "TRADE": 852,
-    "VALUE (mn)": 15.875,
-    "VOLUME": 544935
+    "LTP": 34.2,
+    "HIGH": 35.5,
+    "LOW": 34.1,
+    "CLOSEP": 34.2,
+    "YCP": 35.1,
+    "CHANGE": -0.9,
+    "TRADE": 1146,
+    "VALUE (mn)": 24.586,
+    "VOLUME": 708499
   },
   "marketInformation": {
-    "lastTradingPrice": 28.8,
+    "lastTradingPrice": 34.2,
     "daysRange": [
-      28.7,
-      30.1
+      34.1,
+      35.5
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      28.7,
-      165.2
+      28.1,
+      151.6
     ],
-    "change": -1.1,
-    "daysTradeNos": 852,
-    "yesterdaysClose": 29.9,
-    "daysVolumeNos": 544935,
-    "adjustedOpeningPrice": 29.9,
-    "daysValueMn": 15.88,
-    "openingPrice": 29.9,
-    "marketCapMn": 2932.588,
-    "closingPrice": 28.8,
-    "freeFloatMarketCapMn": 2049.049
+    "change": -0.9,
+    "daysTradeNos": 1146,
+    "yesterdaysClose": 35.1,
+    "daysVolumeNos": 708499,
+    "adjustedOpeningPrice": 35.1,
+    "daysValueMn": 24.59,
+    "openingPrice": 35.2,
+    "marketCapMn": 3442.604,
+    "closingPrice": 34.2,
+    "freeFloatMarketCapMn": 2405.405
   },
   "basicInformation": {
     "authorizedCapitalMn": 1500,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 40.92,
+        "date": "2026-09-28",
+        "peBasic": 48.68,
         "peDiluted": null,
-        "peTrailing": 45.07
+        "peTrailing": 53.62
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 40.66,
+        "date": "2026-09-29",
+        "peBasic": 46.97,
         "peDiluted": null,
-        "peTrailing": 44.78
+        "peTrailing": 51.74
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 39.74,
+        "date": "2026-09-30",
+        "peBasic": 48.82,
         "peDiluted": null,
-        "peTrailing": 43.77
+        "peTrailing": 53.77
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 39.61,
+        "date": "2026-10-01",
+        "peBasic": 47.63,
         "peDiluted": null,
-        "peTrailing": 43.62
+        "peTrailing": 52.46
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 39.34,
+        "date": "2026-10-04",
+        "peBasic": 46.18,
         "peDiluted": null,
-        "peTrailing": 43.33
+        "peTrailing": 50.87
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 37.89,
+        "date": "2026-10-05",
+        "peBasic": 45,
         "peDiluted": null,
-        "peTrailing": 41.74
+        "peTrailing": 49.57
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 115.19,
+        "date": "2026-09-28",
+        "peBasic": 137.04,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 114.44,
+        "date": "2026-09-29",
+        "peBasic": 132.22,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 111.85,
+        "date": "2026-09-30",
+        "peBasic": 137.41,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 111.48,
+        "date": "2026-10-01",
+        "peBasic": 134.07,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 110.74,
+        "date": "2026-10-04",
+        "peBasic": 130,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 106.67,
+        "date": "2026-10-05",
+        "peBasic": 126.67,
         "peDiluted": null
       }
     ]
@@ -371,6 +371,58 @@
     "cellNo": "01611524105",
     "telephoneNo": "8332069, 8332108, 8355726 Ext-110"
   },
-  "scrapedAt": "2026-09-13T15:43:02.657Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:52.557Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.1% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.1,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 3442.604,
+      "totalInterestBearingDebt": 3.6
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KBPPWBIL",
+  "cseQuote": {
+    "ltp": 34,
+    "open": 35.4,
+    "high": 34.6,
+    "low": 34,
+    "ycp": 35.4,
+    "change": -1.4,
+    "changePct": -3.95,
+    "trades": 33,
+    "valueMn": 0.51,
+    "volume": 15000,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

@@ -2,44 +2,44 @@
   "tradingCode": "BATBC",
   "scripCode": "14259",
   "companyName": "British American Tobacco Bangladesh Company Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=BATBC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=BATBC",
   "lastAGMHeldOn": "2026-04-30",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 48,
     "TRADING CODE": "BATBC",
     "tradingCode": "BATBC",
-    "LTP": 224.5,
-    "HIGH": 228,
-    "LOW": 223.9,
-    "CLOSEP": 224.5,
-    "YCP": 228,
-    "CHANGE": -3.5,
-    "TRADE": 1273,
-    "VALUE (mn)": 24.407,
-    "VOLUME": 108551
+    "LTP": 221,
+    "HIGH": 223,
+    "LOW": 220.6,
+    "CLOSEP": 221,
+    "YCP": 221.4,
+    "CHANGE": -0.4,
+    "TRADE": 580,
+    "VALUE (mn)": 6.279,
+    "VOLUME": 28373
   },
   "marketInformation": {
-    "lastTradingPrice": 224.5,
+    "lastTradingPrice": 221,
     "daysRange": [
-      223.9,
-      228
+      220.6,
+      223
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       205.8,
       292.9
     ],
-    "change": -3.5,
-    "daysTradeNos": 1273,
-    "yesterdaysClose": 228,
-    "daysVolumeNos": 108551,
-    "adjustedOpeningPrice": 228,
-    "daysValueMn": 24.41,
-    "openingPrice": 228,
-    "marketCapMn": 123120,
-    "closingPrice": 224.5,
-    "freeFloatMarketCapMn": 32560.763
+    "change": -0.4,
+    "daysTradeNos": 580,
+    "yesterdaysClose": 221.4,
+    "daysVolumeNos": 28373,
+    "adjustedOpeningPrice": 221.4,
+    "daysValueMn": 6.28,
+    "openingPrice": 221.7,
+    "marketCapMn": 119556,
+    "closingPrice": 221,
+    "freeFloatMarketCapMn": 31618.214
   },
   "basicInformation": {
     "authorizedCapitalMn": 5400,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 15.15,
+        "date": "2026-09-28",
+        "peBasic": 14.7,
         "peDiluted": null,
-        "peTrailing": 21.52
+        "peTrailing": 20.88
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 15.14,
+        "date": "2026-09-29",
+        "peBasic": 14.71,
         "peDiluted": null,
-        "peTrailing": 21.5
+        "peTrailing": 20.89
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 15.06,
-        "peDiluted": null,
-        "peTrailing": 21.39
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 15.02,
-        "peDiluted": null,
-        "peTrailing": 21.34
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 14.9,
-        "peDiluted": null,
-        "peTrailing": 21.17
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 14.67,
         "peDiluted": null,
         "peTrailing": 20.84
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 14.59,
+        "peDiluted": null,
+        "peTrailing": 20.73
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 14.47,
+        "peDiluted": null,
+        "peTrailing": 20.56
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 14.44,
+        "peDiluted": null,
+        "peTrailing": 20.52
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 21.44,
+        "date": "2026-09-28",
+        "peBasic": 20.8,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 21.42,
+        "date": "2026-09-29",
+        "peBasic": 20.81,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 21.31,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-09",
-        "peBasic": 21.26,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-10",
-        "peBasic": 21.09,
-        "peDiluted": null
-      },
-      {
-        "date": "2026-09-13",
+        "date": "2026-09-30",
         "peBasic": 20.77,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-01",
+        "peBasic": 20.66,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-04",
+        "peBasic": 20.48,
+        "peDiluted": null
+      },
+      {
+        "date": "2026-10-05",
+        "peBasic": 20.44,
         "peDiluted": null
       }
     ]
@@ -368,12 +368,64 @@
     "factory": "Dehora, Dhamsona, Balibhadra Bazar, Ashulia, Dhaka-1349.",
     "phone": "+8801755532753",
     "fax": null,
-    "email": "syed_afzal_hossain@bat.com",
+    "email": "Farah_Noor@bat.com",
     "webAddress": "https://www.batbangladesh.com/",
-    "companySecretaryName": "Syed Afzal Hossain",
+    "companySecretaryName": "Farah Noor",
     "cellNo": "+88 01313 701 925",
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:42:05.925Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:14.649Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Tobacco manufacturing & distribution is impermissible under Shariah guidelines."
+    ],
+    "passedScreens": [
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 119556,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/BATBC",
+  "cseQuote": {
+    "ltp": 220.3,
+    "open": 226.1,
+    "high": 225.9,
+    "low": 220.2,
+    "ycp": 226.1,
+    "change": -5.8,
+    "changePct": -2.57,
+    "trades": 5,
+    "valueMn": 0.11,
+    "volume": 495,
+    "updatedDate": "2026-10-06T01:10:39.832Z"
+  },
+  "indices": [
+    "DSEX",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

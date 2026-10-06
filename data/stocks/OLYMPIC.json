@@ -2,44 +2,44 @@
   "tradingCode": "OLYMPIC",
   "scripCode": "13203",
   "companyName": "Olympic Industries PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=OLYMPIC",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=OLYMPIC",
   "lastAGMHeldOn": "2025-12-11",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 260,
     "TRADING CODE": "OLYMPIC",
     "tradingCode": "OLYMPIC",
-    "LTP": 144,
-    "HIGH": 144.9,
-    "LOW": 140.5,
-    "CLOSEP": 142.7,
-    "YCP": 142.5,
-    "CHANGE": 1.5,
-    "TRADE": 426,
-    "VALUE (mn)": 8.006,
-    "VOLUME": 56305
+    "LTP": 142.9,
+    "HIGH": 145.7,
+    "LOW": 142,
+    "CLOSEP": 142.4,
+    "YCP": 142.8,
+    "CHANGE": 0.1,
+    "TRADE": 263,
+    "VALUE (mn)": 3.189,
+    "VOLUME": 22364
   },
   "marketInformation": {
-    "lastTradingPrice": 144,
+    "lastTradingPrice": 142.9,
     "daysRange": [
-      140.5,
-      144.9
+      142,
+      145.7
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       128,
       170.5
     ],
-    "change": 1.5,
-    "daysTradeNos": 426,
-    "yesterdaysClose": 142.5,
-    "daysVolumeNos": 56305,
-    "adjustedOpeningPrice": 142.5,
-    "daysValueMn": 8.01,
-    "openingPrice": 144.4,
-    "marketCapMn": 28491.291,
-    "closingPrice": 142.7,
-    "freeFloatMarketCapMn": 10217.301
+    "change": 0.1,
+    "daysTradeNos": 263,
+    "yesterdaysClose": 142.8,
+    "daysVolumeNos": 22364,
+    "adjustedOpeningPrice": 142.8,
+    "daysValueMn": 3.19,
+    "openingPrice": 142,
+    "marketCapMn": 28551.273,
+    "closingPrice": 142.4,
+    "freeFloatMarketCapMn": 10238.811
   },
   "basicInformation": {
     "authorizedCapitalMn": 2000,
@@ -74,15 +74,6 @@
       "publicPct": 12.64
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 37.38,
-      "govtPct": 0,
-      "institutePct": 22.85,
-      "foreignPct": 27.51,
-      "publicPct": 12.26
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 37.38,
@@ -90,6 +81,15 @@
       "institutePct": 22.81,
       "foreignPct": 27.33,
       "publicPct": 12.48
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 37.38,
+      "govtPct": 0,
+      "institutePct": 22.73,
+      "foreignPct": 27.33,
+      "publicPct": 12.56
     }
   ],
   "interimFinancials": [
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.55,
+        "date": "2026-09-28",
+        "peBasic": 14.45,
         "peDiluted": null,
-        "peTrailing": 15.14
+        "peTrailing": 15.03
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.51,
+        "date": "2026-09-29",
+        "peBasic": 14.46,
         "peDiluted": null,
-        "peTrailing": 15.09
+        "peTrailing": 15.04
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 14.57,
+        "date": "2026-09-30",
+        "peBasic": 14.49,
         "peDiluted": null,
-        "peTrailing": 15.16
+        "peTrailing": 15.07
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 14.52,
+        "date": "2026-10-01",
+        "peBasic": 14.4,
         "peDiluted": null,
-        "peTrailing": 15.11
+        "peTrailing": 14.98
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 14.42,
+        "date": "2026-10-04",
+        "peBasic": 14.45,
         "peDiluted": null,
-        "peTrailing": 15
+        "peTrailing": 15.03
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 14.44,
+        "date": "2026-10-05",
+        "peBasic": 14.41,
         "peDiluted": null,
-        "peTrailing": 15.02
+        "peTrailing": 14.99
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 14.29,
+        "date": "2026-09-28",
+        "peBasic": 14.19,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 14.25,
+        "date": "2026-09-29",
+        "peBasic": 14.2,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 14.31,
+        "date": "2026-09-30",
+        "peBasic": 14.23,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 14.26,
+        "date": "2026-10-01",
+        "peBasic": 14.15,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 14.17,
+        "date": "2026-10-04",
+        "peBasic": 14.19,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 14.18,
+        "date": "2026-10-05",
+        "peBasic": 14.16,
         "peDiluted": null
       }
     ]
@@ -374,6 +374,59 @@
     "cellNo": "+880-1876887353",
     "telephoneNo": "+880-9606565228"
   },
-  "scrapedAt": "2026-09-13T15:43:27.019Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:05.785Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~10% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0,
+      "cashToMcapPct": 5,
+      "receivablesToMcapPct": 10,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 0,
+      "avgMarketCap36m": 28551.273,
+      "totalInterestBearingDebt": 0
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/OLYMPIC",
+  "cseQuote": {
+    "ltp": 141,
+    "open": 141,
+    "high": 141,
+    "low": 141,
+    "ycp": 141,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.851Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CSE30",
+    "CSE50",
+    "CASPI",
+    "CSCX"
+  ]
 }

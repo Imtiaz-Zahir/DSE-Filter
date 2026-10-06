@@ -2,44 +2,44 @@
   "tradingCode": "KPPL",
   "scripCode": "19511",
   "companyName": "Khulna Printing & Packaging Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=KPPL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=KPPL",
   "lastAGMHeldOn": "2022-12-29",
   "forYearEnded": "2022-06-30",
   "overview": {
     "#": 201,
     "TRADING CODE": "KPPL",
     "tradingCode": "KPPL",
-    "LTP": 12.5,
-    "HIGH": 12.6,
-    "LOW": 12.2,
-    "CLOSEP": 12.3,
-    "YCP": 12.4,
-    "CHANGE": 0.1,
-    "TRADE": 110,
-    "VALUE (mn)": 0.669,
-    "VOLUME": 54415
+    "LTP": 13.7,
+    "HIGH": 14.2,
+    "LOW": 13.7,
+    "CLOSEP": 13.7,
+    "YCP": 14,
+    "CHANGE": -0.3,
+    "TRADE": 85,
+    "VALUE (mn)": 0.818,
+    "VOLUME": 59258
   },
   "marketInformation": {
-    "lastTradingPrice": 12.5,
+    "lastTradingPrice": 13.7,
     "daysRange": [
-      12.2,
-      12.6
+      13.7,
+      14.2
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       7.9,
       21.4
     ],
-    "change": 0.1,
-    "daysTradeNos": 110,
-    "yesterdaysClose": 12.4,
-    "daysVolumeNos": 54415,
-    "adjustedOpeningPrice": 12.4,
-    "daysValueMn": 0.67,
-    "openingPrice": 12.5,
-    "marketCapMn": 905.696,
-    "closingPrice": 12.3,
-    "freeFloatMarketCapMn": 545.6
+    "change": -0.3,
+    "daysTradeNos": 85,
+    "yesterdaysClose": 14,
+    "daysVolumeNos": 59258,
+    "adjustedOpeningPrice": 14,
+    "daysValueMn": 0.82,
+    "openingPrice": 14,
+    "marketCapMn": 1022.56,
+    "closingPrice": 13.7,
+    "freeFloatMarketCapMn": 616
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -371,6 +371,56 @@
     "cellNo": null,
     "telephoneNo": null
   },
-  "scrapedAt": "2026-09-13T15:43:04.405Z",
-  "shariaCompliant": false
+  "scrapedAt": "2026-10-06T01:09:53.516Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 30.86% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 30.86,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1022.56,
+      "totalInterestBearingDebt": 315.53
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/KPPL",
+  "cseQuote": {
+    "ltp": 14.7,
+    "open": 13.4,
+    "high": 14.7,
+    "low": 14.7,
+    "ycp": 13.4,
+    "change": 1.3,
+    "changePct": 9.7,
+    "trades": 1,
+    "valueMn": 0,
+    "volume": 1,
+    "updatedDate": "2026-10-06T01:10:39.845Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI"
+  ]
 }

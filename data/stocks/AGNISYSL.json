@@ -2,44 +2,44 @@
   "tradingCode": "AGNISYSL",
   "scripCode": "22645",
   "companyName": "Agni Systems PLC.",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=AGNISYSL",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=AGNISYSL",
   "lastAGMHeldOn": "2025-12-29",
   "forYearEnded": "2025-06-30",
   "overview": {
     "#": 17,
     "TRADING CODE": "AGNISYSL",
     "tradingCode": "AGNISYSL",
-    "LTP": 28.3,
-    "HIGH": 29.7,
-    "LOW": 28.2,
-    "CLOSEP": 28.3,
-    "YCP": 29.3,
-    "CHANGE": -1,
-    "TRADE": 431,
-    "VALUE (mn)": 10.565,
-    "VOLUME": 369799
+    "LTP": 25.8,
+    "HIGH": 26.9,
+    "LOW": 25.6,
+    "CLOSEP": 25.7,
+    "YCP": 26.7,
+    "CHANGE": -0.9,
+    "TRADE": 474,
+    "VALUE (mn)": 10.593,
+    "VOLUME": 405401
   },
   "marketInformation": {
-    "lastTradingPrice": 28.3,
+    "lastTradingPrice": 25.8,
     "daysRange": [
-      28.2,
-      29.7
+      25.6,
+      26.9
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
       18.1,
       35.9
     ],
-    "change": -1,
-    "daysTradeNos": 431,
-    "yesterdaysClose": 29.3,
-    "daysVolumeNos": 369799,
-    "adjustedOpeningPrice": 29.3,
-    "daysValueMn": 10.57,
-    "openingPrice": 29.7,
-    "marketCapMn": 2125.896,
-    "closingPrice": 28.3,
-    "freeFloatMarketCapMn": 1487.497
+    "change": -0.9,
+    "daysTradeNos": 474,
+    "yesterdaysClose": 26.7,
+    "daysVolumeNos": 405401,
+    "adjustedOpeningPrice": 26.7,
+    "daysValueMn": 10.59,
+    "openingPrice": 26.9,
+    "marketCapMn": 1937.25,
+    "closingPrice": 25.7,
+    "freeFloatMarketCapMn": 1355.501
   },
   "basicInformation": {
     "authorizedCapitalMn": 1000,
@@ -151,71 +151,71 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 27.53,
+        "date": "2026-09-28",
+        "peBasic": 25.79,
         "peDiluted": null,
-        "peTrailing": 54.73
+        "peTrailing": 51.27
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 28.54,
+        "date": "2026-09-29",
+        "peBasic": 25.7,
         "peDiluted": null,
-        "peTrailing": 56.73
+        "peTrailing": 51.09
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 27.9,
+        "date": "2026-09-30",
+        "peBasic": 25.52,
         "peDiluted": null,
-        "peTrailing": 55.45
+        "peTrailing": 50.73
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 27.44,
+        "date": "2026-10-01",
+        "peBasic": 25.06,
         "peDiluted": null,
-        "peTrailing": 54.55
+        "peTrailing": 49.82
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 26.8,
+        "date": "2026-10-04",
+        "peBasic": 24.42,
         "peDiluted": null,
-        "peTrailing": 53.27
+        "peTrailing": 48.55
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 25.88,
+        "date": "2026-10-05",
+        "peBasic": 23.51,
         "peDiluted": null,
-        "peTrailing": 51.45
+        "peTrailing": 46.73
       }
     ],
     "audited": [
       {
-        "date": "2026-09-06",
-        "peBasic": 37.16,
+        "date": "2026-09-28",
+        "peBasic": 34.81,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
-        "peBasic": 38.52,
+        "date": "2026-09-29",
+        "peBasic": 34.69,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
-        "peBasic": 37.65,
+        "date": "2026-09-30",
+        "peBasic": 34.44,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
-        "peBasic": 37.04,
+        "date": "2026-10-01",
+        "peBasic": 33.83,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
-        "peBasic": 36.17,
+        "date": "2026-10-04",
+        "peBasic": 32.96,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
-        "peBasic": 34.94,
+        "date": "2026-10-05",
+        "peBasic": 31.73,
         "peDiluted": null
       }
     ]
@@ -373,6 +373,57 @@
     "cellNo": "01841739966, 01615862332",
     "telephoneNo": "09606100109"
   },
-  "scrapedAt": "2026-09-13T15:41:54.960Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:09:06.114Z",
+  "shariaCompliant": true,
+  "shariahAudit": {
+    "isCompliant": true,
+    "status": "COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Leverage Ratio: 0.28% (Limit: < 33%)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 0.28,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": 1.25,
+      "avgMarketCap36m": 1937.25,
+      "totalInterestBearingDebt": 5.41
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/AGNISYSL",
+  "cseQuote": {
+    "ltp": 25.5,
+    "open": 26.8,
+    "high": 25.8,
+    "low": 25.5,
+    "ycp": 26.8,
+    "change": -1.3,
+    "changePct": -4.85,
+    "trades": 3,
+    "valueMn": 0.04,
+    "volume": 1400,
+    "updatedDate": "2026-10-06T01:10:39.829Z"
+  },
+  "indices": [
+    "DSEX",
+    "DSES",
+    "CSI",
+    "CASPI",
+    "CSCX"
+  ]
 }

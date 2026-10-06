@@ -2,44 +2,44 @@
   "tradingCode": "SINGERBD",
   "scripCode": "13211",
   "companyName": "Singer Bangladesh Limited",
-  "sourceUrl": "https://www.dsebd.org/displayCompany.php?name=SINGERBD",
+  "sourceUrl": "https://old.dsebd.org/displayCompany.php?name=SINGERBD",
   "lastAGMHeldOn": "2026-04-20",
   "forYearEnded": "2025-12-31",
   "overview": {
     "#": 343,
     "TRADING CODE": "SINGERBD",
     "tradingCode": "SINGERBD",
-    "LTP": 71.9,
-    "HIGH": 73.5,
-    "LOW": 71.5,
-    "CLOSEP": 71.9,
-    "YCP": 72.3,
-    "CHANGE": -0.4,
-    "TRADE": 136,
-    "VALUE (mn)": 0.63,
-    "VOLUME": 8760
+    "LTP": 76.6,
+    "HIGH": 80,
+    "LOW": 76.1,
+    "CLOSEP": 76.6,
+    "YCP": 77.6,
+    "CHANGE": -1,
+    "TRADE": 184,
+    "VALUE (mn)": 2.038,
+    "VOLUME": 26475
   },
   "marketInformation": {
-    "lastTradingPrice": 71.9,
+    "lastTradingPrice": 76.6,
     "daysRange": [
-      71.5,
-      73.5
+      76.1,
+      80
     ],
     "lastUpdate": "2:40 PM",
     "movingRange52Weeks": [
-      71.5,
-      109.5
+      70.8,
+      108.9
     ],
-    "change": -0.4,
-    "daysTradeNos": 136,
-    "yesterdaysClose": 72.3,
-    "daysVolumeNos": 8760,
-    "adjustedOpeningPrice": 72.3,
-    "daysValueMn": 0.63,
-    "openingPrice": 72.3,
-    "marketCapMn": 7208.515,
-    "closingPrice": 71.9,
-    "freeFloatMarketCapMn": 3100.477
+    "change": -1,
+    "daysTradeNos": 184,
+    "yesterdaysClose": 77.6,
+    "daysVolumeNos": 26475,
+    "adjustedOpeningPrice": 77.6,
+    "daysValueMn": 2.04,
+    "openingPrice": 80,
+    "marketCapMn": 7736.94,
+    "closingPrice": 76.6,
+    "freeFloatMarketCapMn": 3327.76
   },
   "basicInformation": {
     "authorizedCapitalMn": 2500,
@@ -74,15 +74,6 @@
       "publicPct": 13.18
     },
     {
-      "period": "Share Holding Percentage [as on Jul 31, 2026]",
-      "asOfDate": "2026-07-31",
-      "sponsorDirectorPct": 57,
-      "govtPct": 0,
-      "institutePct": 29.06,
-      "foreignPct": 0,
-      "publicPct": 13.94
-    },
-    {
       "period": "Share Holding Percentage [as on Aug 31, 2026]",
       "asOfDate": "2026-08-31",
       "sponsorDirectorPct": 57,
@@ -90,6 +81,15 @@
       "institutePct": 28.8,
       "foreignPct": 0,
       "publicPct": 14.2
+    },
+    {
+      "period": "Share Holding Percentage [as on Sep 30, 2026]",
+      "asOfDate": "2026-09-30",
+      "sponsorDirectorPct": 57,
+      "govtPct": 0,
+      "institutePct": 29.24,
+      "foreignPct": 0,
+      "publicPct": 13.76
     }
   ],
   "interimFinancials": [
@@ -151,37 +151,37 @@
   "peRatios": {
     "unaudited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null,
         "peTrailing": null
@@ -189,32 +189,32 @@
     ],
     "audited": [
       {
-        "date": "2026-09-06",
+        "date": "2026-09-28",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-09-29",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-30",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-01",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-04",
         "peBasic": null,
         "peDiluted": null
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-05",
         "peBasic": null,
         "peDiluted": null
       }
@@ -374,6 +374,56 @@
     "cellNo": "+8801817042256",
     "telephoneNo": "880 2223 384438"
   },
-  "scrapedAt": "2026-09-13T15:44:00.065Z",
-  "shariaCompliant": true
+  "scrapedAt": "2026-10-06T01:10:23.529Z",
+  "shariaCompliant": false,
+  "shariahAudit": {
+    "isCompliant": false,
+    "status": "NON_COMPLIANT",
+    "standard": "S&P_DSES",
+    "failureReasons": [
+      "Leverage Ratio (62.55%) exceeds the S&P DSES limit of 33%."
+    ],
+    "passedScreens": [
+      "Core Business Activity Screen (Permissible Sector)",
+      "Cash & Liquid Assets Ratio: ~8.5% (Limit: < 33%)",
+      "Accounts Receivable Ratio: ~18% (Limit: < 49%)",
+      "Non-Permissible Revenue: 0% (Limit: < 5%)"
+    ],
+    "metrics": {
+      "debtToMcapPct": 62.55,
+      "cashToMcapPct": 8.5,
+      "receivablesToMcapPct": 18,
+      "nonPermissibleRevPct": 0,
+      "dividendPurificationPct": null,
+      "avgMarketCap36m": 7736.94,
+      "totalInterestBearingDebt": 4839.5
+    },
+    "isIslamicFinancialInstitution": false,
+    "notes": []
+  },
+  "isDseListed": true,
+  "isCseListed": true,
+  "exchanges": [
+    "DSE",
+    "CSE"
+  ],
+  "cseSourceUrl": "https://cse.com.bd/company/companydetails/SINGERBD",
+  "cseQuote": {
+    "ltp": 80,
+    "open": 80,
+    "high": 80,
+    "low": 80,
+    "ycp": 80,
+    "change": 0,
+    "changePct": 0,
+    "trades": 0,
+    "valueMn": 0,
+    "volume": 0,
+    "updatedDate": "2026-10-06T01:10:39.858Z"
+  },
+  "indices": [
+    "DSEX",
+    "CASPI",
+    "CSCX"
+  ]
 }
